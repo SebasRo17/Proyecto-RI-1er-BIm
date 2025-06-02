@@ -1,0 +1,1 @@
+getting garbled output serial printing thru windows works etc occurred several systems goes laserjet used suspect need handshaking case due capacity memoryspeed problem printing dos obvious tweaks im missing im sure problem thanks reading john atherton

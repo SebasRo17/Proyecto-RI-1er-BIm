@@ -1,0 +1,1 @@
+dont give precise error message assume making target fails make cant find rules weve seen happen sunos make well aat point im sure happens seems happen large makefiles entries near end get lost small changes makefile remedy problem example mit distribution happen target makefiles one doc directories really weird really sure using gnu make

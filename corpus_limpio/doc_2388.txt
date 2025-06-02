@@ -1,0 +1,1 @@
+looking series chips wsi series mega address decoding logic various rom sizes upto various ram sizes upto k io ports chip select lines io buffered address lines cute chip pin plcc package second sourcing may problem though

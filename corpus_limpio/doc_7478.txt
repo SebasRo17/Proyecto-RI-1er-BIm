@@ -1,0 +1,1 @@
+experiment sun openwindows xterm window log solaris machine using rlogin ls get first character line display last column display rest line wrapped next line display log condition persists check stty try reset effect use telnet instead rlogin doesnt occur try unix console doesnt occur whats causing avoided terminal characteristics reset please send replies shenkmathgatechedu

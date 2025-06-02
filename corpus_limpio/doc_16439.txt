@@ -1,0 +1,1 @@
+mdc cipher uses oneway hash function cfbmode stream cipher current implementation uses uses key bits use key want copy entire range use entire bits runtime independant key size system runs slightly slower presume use similar system possibly hash arbitrarylength key n bits maybe using something like

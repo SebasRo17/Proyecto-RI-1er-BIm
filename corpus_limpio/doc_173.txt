@@ -1,0 +1,1 @@
+disk joystick code kind enough mail pukedspecifically looking c code read position joystick without using ie accessing port directly need c becaues memory model considerations need able read x position also

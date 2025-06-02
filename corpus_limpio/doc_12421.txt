@@ -1,0 +1,1 @@
+hi sorry german hope understand uebertragung der schaltplandaten sch die boarddaten job padslogic inout reports net list select padspcb net list output file name filename angeben padspcb inout ascii ascii input file name filename angeben errors aoutput file name filename angeben nicht cr jetzt sind alle bauteile auf einem haufen und muessen mit move verteilt werden viele gruesse

@@ -1,0 +1,1 @@
+thought dont project lines onto plane formed lines intersection calculation plane youre guaranteed unique solution unless theyre parallel wont happen case use parametric distance along lines circle centres determine exact point interest bypasses messy error propogation required calculation hope havent put foot steve

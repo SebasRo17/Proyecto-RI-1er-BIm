@@ -1,0 +1,1 @@
+youll probably set palette try drawing new colours use bios interrupt calls set r g b values range cards particular palette colour range colour modes able draw pixels palette values result ok might bit colourmap compressing unique rgb triplets colour mode

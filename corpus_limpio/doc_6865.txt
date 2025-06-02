@@ -1,0 +1,1 @@
+hi want softscrolling vga change intern registers crtc little bit difficult explain would suggest take look programming egavgaadapter addisonwesley find useful descriptions every available vgaregister boris

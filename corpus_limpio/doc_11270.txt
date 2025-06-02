@@ -1,0 +1,1 @@
+looking suitable uart project require stand alone device ie cpu controlled receive baud also nice extra would received data buffer please reply info thanks

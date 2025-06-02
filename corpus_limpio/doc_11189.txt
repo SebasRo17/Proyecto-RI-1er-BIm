@@ -1,0 +1,1 @@
+soon blit two icons top little dislocation see rectangular blit crashes much icon first blitted draws full rectangle way masking create bitmap pixels merged merged set clipmask gc bitmap set clipxorigin clipyorigin gc xy coordinates blit icon destination drawable use gxcopy xcopyarea icon pixmap destination drawable using gc

@@ -1,0 +1,1 @@
+qrttoppm filedis ppmtotga filetga

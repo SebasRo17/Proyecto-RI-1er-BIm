@@ -1,0 +1,1 @@
+well one reason getting conflicting answers depends want ground plane continuous conductor good electrostatic shield signals board need shielding rom things shielding wont much good magnetic fields unless make continuous around circuit shielded like faraday cage

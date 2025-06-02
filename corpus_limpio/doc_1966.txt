@@ -1,0 +1,1 @@
+oss coherent etc able drive one ports polled mode without using irq example accessing modem mouse wont work reboot irq used modem yes change irqs depends hardware uses one printerport change normally printer assign free far know irq used iocard caould access irqs michael

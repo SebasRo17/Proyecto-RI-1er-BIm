@@ -1,0 +1,1 @@
+fastest way use x server shared memory extension uses shared memory local x server hence images dont duplicated defaults regular image routines either shared mem extension available localhost

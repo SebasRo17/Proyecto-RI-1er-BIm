@@ -1,0 +1,1 @@
+close universal asynchronous receiver transmitter even running dos cpu cant handle speed interrupts still lose characters one machine external bps modem attached cant drive serial port faster without losing characters rob

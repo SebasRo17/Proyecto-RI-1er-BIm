@@ -1,0 +1,1 @@
+problem isa busmasters address first system memory busmasters use cpu system dma actual data transfer transfer data directly system ram

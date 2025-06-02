@@ -1,0 +1,1 @@
+third edition june oreilly book vol badmatch invalid setting window attribute attribute besides wingravity eventmask donotpropogatemask overrideredirect cursor specified inputonly window depth nonzero inputonly parent inputoutput inputonly borderwidth nonzero inputonly depth visual invalid screen width height

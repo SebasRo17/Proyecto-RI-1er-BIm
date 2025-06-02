@@ -1,0 +1,1 @@
+planning using regular basis conncting printer file become bothersome windows asks filename want create ive found putting line systemini ports section path filename works problem send one job second one deletes first chris

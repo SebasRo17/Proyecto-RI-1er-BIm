@@ -1,0 +1,1 @@
+docs say scsi manager bug changes things

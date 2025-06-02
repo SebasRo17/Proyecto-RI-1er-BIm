@@ -1,0 +1,1 @@
+earlier post noted dma one time means imho single byte xfer four sources dma requests ready dma would service one bandwidth four together lower isadma bandwidth work note bus mastering priority mechanism dma controller penio penev w internet penevveneziarockefelleredu

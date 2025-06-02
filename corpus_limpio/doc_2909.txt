@@ -1,0 +1,1 @@
+following problem really bugging would appreciate help create two windows child root eventmask buttonpressmaskkeypressmask child donotpropagatemask buttonpressmaskkeypressmask keypress events discarded buttonpress events fall subwindow set fyi im using xnewsolvwm something fundamentally wrong

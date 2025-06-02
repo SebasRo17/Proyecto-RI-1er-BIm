@@ -1,0 +1,1 @@
+correct dos use irq sbyou cant uses irq printer

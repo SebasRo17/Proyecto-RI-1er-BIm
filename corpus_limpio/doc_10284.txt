@@ -1,0 +1,1 @@
+stuff deleted colormap element setwinattrib must legitimate truecolor colormap use xcreatecolormap proper visual use setwinattrib dont forget mask inevitable caveat usually use widgets setting visual colormap resources rather direct x routines could wrong think general difficulty
