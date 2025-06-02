@@ -1,0 +1,1 @@
+hi could someone explain exactly xlib functions xcreateregion xpolygonregion xpointinregion suggest ftp site find programs using functions ps man pages explain much thank leo leonidas nikidis lndocicacuk imperial college londonuk dept computing

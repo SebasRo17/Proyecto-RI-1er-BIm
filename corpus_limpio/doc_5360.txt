@@ -1,0 +1,1 @@
+com port boards available pcs want standard com ports need mention expensive coprocessed ones either able share irqs able use irqs

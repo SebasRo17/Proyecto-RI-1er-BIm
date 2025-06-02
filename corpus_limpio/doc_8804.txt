@@ -1,0 +1,1 @@
+im writing xwall simple x version wall want put message default list displays problem xopendisplay hangs one displays currently controlled xdm login screen ive manuals faq dont see simple way see display openable ahead time get xopendisplay fail short period time hints suggestions clues pointers info thanks

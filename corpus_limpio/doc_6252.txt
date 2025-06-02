@@ -1,0 +1,1 @@
+returnplace probably incorrect pointer integer xgetwindowproperty allocates memory copies data returns pointer memory free memory youre done

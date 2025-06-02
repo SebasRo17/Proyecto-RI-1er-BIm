@@ -1,0 +1,1 @@
+two scsi hard drives cache several reasons drive read requested data disk scsi bus may busy data needs stored bus free data transmitted drive receives data written data come bus faster drive write disk needs stored somewhere disk writing situations memory used buffer cache may drive readadead caching well guy

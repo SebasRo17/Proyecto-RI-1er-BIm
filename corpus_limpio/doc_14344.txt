@@ -1,0 +1,1 @@
+yesterday wrote program bilinear interpolation ala numerical recipes pbmplus libraries im pretty happy results im looking alreadycoded nonlinear interpolation schemes go ahead try write one pointers

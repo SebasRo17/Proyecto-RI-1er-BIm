@@ -1,0 +1,1 @@
+make sure hard disk want boot set active using fdisk program comes dos

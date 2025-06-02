@@ -1,0 +1,1 @@
+time ive seen similar behaviour x application forked child without setting close exec x display connection file descriptor shell waited configurenotify event never arrived got picked child sometimes shell correctly got configurenotify timing right

@@ -1,0 +1,1 @@
+seems like xtranslatecoord doesnt work way expecting right performs xmovewindow want know absolute window position respect root window get info xtranslatecoordinates absx absy arent right anybody know way find information thanks please email hstevecarinaunmedu possible

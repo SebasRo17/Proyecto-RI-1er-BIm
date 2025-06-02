@@ -1,0 +1,1 @@
+yes look xvdepth also might want try using xview colormap segments instead xlib colormap stuff probably easier use since using truecolor visual wont losing anything compared straight xlib

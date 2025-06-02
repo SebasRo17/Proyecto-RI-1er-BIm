@@ -1,0 +1,1 @@
+inputs chip coming ttl standbydrain specs cmos chips typically apply inputs pulled way zero way vcc ttl isnt good former wont latter without help pullup resistors sort thing easily multiply power consumption considerable factor cmos transistors supposed arent way hard

@@ -1,0 +1,1 @@
+hi piece x code compiles fine pmaxmach well whenever compiles gives undefined ld errors sin cos pow floor getwmshellwidgetclass getapplicationshellwidgetclass following libraries linked lxaw lxmu lxt lxext makefile generated imake template anyone give pointers im missing compile

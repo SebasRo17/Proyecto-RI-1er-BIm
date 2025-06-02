@@ -1,0 +1,1 @@
+yes many methods rendering raytracing one didnt say mean rendering wont guess methods rendering include pencil graph paper math hand wireframe rendering projection hidden line rendering scanline rendering using painters algorithm bsp trees z buffer raytracing radiosity holographic projection film combination

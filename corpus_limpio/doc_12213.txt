@@ -1,0 +1,1 @@
+looking vesa local bus card control ide drives floppies game port parallel port serial ports serial ports must sockets uarts non intergraded chipset generic boards

@@ -1,0 +1,1 @@
+try winjpeg tiff support graphics workshop also converts formats

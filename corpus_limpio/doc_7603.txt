@@ -1,0 +1,1 @@
+many xt drive controllers bios board handle low level formatting bios also allows set drive properly cylindersheadsetc

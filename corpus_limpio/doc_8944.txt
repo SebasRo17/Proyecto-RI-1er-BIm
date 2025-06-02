@@ -1,0 +1,1 @@
+dont know avoid xopendisplay hang perhaps could use something else zephyr perhaps

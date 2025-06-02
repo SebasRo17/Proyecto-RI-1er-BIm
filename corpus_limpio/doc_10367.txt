@@ -1,0 +1,1 @@
+dear reader iam searching implementation polygon reduction algorithm marching cubes surfaces think best one reduction algorithm schroeder et al siggraph implementation algorithm would nice could leave also iam looking fast connectivity test marching cubes surfaces help hints useful thanks lot
