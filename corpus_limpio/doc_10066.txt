@@ -1,1 +1,0 @@
-routine changes color rgb attributes vga adapter doesnt work mode need specifically hex obscure mode course need change zillions colors shade greyscale correct memory address pointer need please someone need starting address maybe somewhere find thank

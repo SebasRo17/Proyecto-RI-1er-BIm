@@ -1,1 +1,0 @@
-answer questions running xdm decnet say following defines must added sitedef building x clients work decnet sitedef define connectionflags dtcpconn dunixconn ddnetconn define extralibraries ldnet hoping helps george opinions expressed author way represent opinions cuny graduate school agencies personnel mcctimessqrgccunyedu cmcgccunyvmbitnet

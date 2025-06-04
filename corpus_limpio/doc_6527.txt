@@ -1,1 +1,0 @@
-want equivalent xwininfo name via call set calls xlib need map windows name id probably easy ive programming x little ive looked oreilly books didnt find also checked faq couldnt find email one following addresses ill post response seems reasonable guy

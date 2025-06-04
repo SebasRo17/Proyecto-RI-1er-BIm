@@ -1,1 +1,0 @@
-help write second bankpage memory vga colour mode ie perform page flipping animation buffering screen tried using map mask registers perform required task although something note must able work standard vga ie necessarily svga card

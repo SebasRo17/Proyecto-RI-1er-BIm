@@ -1,1 +1,0 @@
-anyone else playing wincmd utility pc magazine trouble concatenating string variables together need help example temp path fileext fullpath temp say fullpath output th fullpath say fullpath output hfileext seems dropping first characters concatenations memory maybe variables total article didnt mention memory limits email idea would like see actual source output thanks help bo

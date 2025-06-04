@@ -1,1 +1,0 @@
-doug nntppostinghost doug continuing build problems got stuck build xterm doug undefined first referenced doug symbol file doug index usrucbliblibtermcapatermcapo doug rindex usrucbliblibtermcapatermcapo doug ld fatal symbol referencing errors output written xterm actually problem build ldlibrarypath unset well ldrunpath

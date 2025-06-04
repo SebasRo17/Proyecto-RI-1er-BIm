@@ -1,1 +1,0 @@
-problem im using postscript working local sun sparcstaton ipc postscript works good connect sun xterminal get error messages postscript connect newsdisplay doesnt postscript work xterminal way make work

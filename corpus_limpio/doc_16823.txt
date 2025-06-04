@@ -1,1 +1,0 @@
-badwindow x protocol error write custom error handler error handler return let program carry using xseterrorhandler way go never mind longjmp

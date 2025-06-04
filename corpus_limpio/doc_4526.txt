@@ -1,1 +1,0 @@
-xdm work decnet ultrix machine running tcpip decnet number xterminals hanging ultrix host also running tcpip decnet presently using xdm login procedure xterminals using tcpip since xdm basically xwindows client shouldnt able run xdm decnet protocol tower well

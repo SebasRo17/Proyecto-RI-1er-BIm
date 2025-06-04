@@ -1,1 +1,0 @@
-ive installed many x apps many imakefiles lines startingwith xcomm xmkmf create makefile makefile also xcomm comment lines always edit lines make command barfs wondering lines might wrong causes make command dislike thanks

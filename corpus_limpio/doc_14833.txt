@@ -1,1 +1,0 @@
-tried setting files configsys file fairly high number ive got mine set ive seen numbers recommended also check stacks statement good starting point try increasing already set etc stacks files identified one cause frequent crashes

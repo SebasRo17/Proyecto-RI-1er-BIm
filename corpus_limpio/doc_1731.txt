@@ -1,1 +1,0 @@
-hard refreshing access cycles software hogs available cpu cycles lowend controller ive seen application note philips used one derivatives printer buffer dynamic ram accessed refreshed software bitbanging another alternative would use one nice dram controller chips create static ram appearance may expensive make worthwhile

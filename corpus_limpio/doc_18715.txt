@@ -1,1 +1,0 @@
-portable convenient way use color picture files xpm format define x pixmap motif application functions pointers tips etc would welcome saad mufti personal library software

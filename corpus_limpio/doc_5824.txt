@@ -1,1 +1,0 @@
-question regarding processing program arguments geometry option since standard x option im wondering wether parse manually whether predefined function

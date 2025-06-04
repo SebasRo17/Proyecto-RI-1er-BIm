@@ -1,1 +1,0 @@
-program support xterm dont like cant copy windows thanks

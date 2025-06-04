@@ -1,1 +1,0 @@
-see article efficient raypolygon intersection p graphics gems isbn second step intersecting polygon want sample code book spl

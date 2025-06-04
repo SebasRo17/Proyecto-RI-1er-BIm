@@ -1,1 +1,0 @@
-well quick math part shows bus bits wide performing transfer every two clock cycles provide bytessec someone said really takes clock cycles perform transfer reduces transfer rate commonlyused figure isa bus speed however believe twoclock transfer possible wait states

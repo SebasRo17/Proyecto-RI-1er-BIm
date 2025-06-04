@@ -1,3 +1,0 @@
-If companies compressed their executables with LZW andd did some kind of
-encryption in the process, this "change two bytes here" thing would go right
-out the window.

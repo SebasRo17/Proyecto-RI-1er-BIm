@@ -1,1 +1,0 @@
-problems compiling ipc sunos compile make k world stop ld errors stated another post clients errors still run correctly

@@ -1,1 +1,0 @@
-get applicationcontext associated widget calling xtwidgettoapplicationcontext

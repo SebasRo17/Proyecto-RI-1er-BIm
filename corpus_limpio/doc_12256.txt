@@ -1,1 +1,0 @@
-wondering anyone netland knew simple way make equalizer single channel need accept line inputs tape deck cd player etc output input impedance equal output impedance also since driving line would need volt pp output final requirement either control digitally control easily resistors

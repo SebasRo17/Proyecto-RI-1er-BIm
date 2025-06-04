@@ -1,1 +1,0 @@
-currently using microcontroller external eprom order drive dc motor direction use pulse width modultion thru software controlassembly language programming however afraid overheads thus alter pulse timing question software pwm control reliable understand port latch vary duty cycle setting high first desire

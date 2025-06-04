@@ -1,1 +1,0 @@
-use relay radio shack instead huge switch way relay breaks drives still work works fine may still need change cmos drive switch work correctly programs

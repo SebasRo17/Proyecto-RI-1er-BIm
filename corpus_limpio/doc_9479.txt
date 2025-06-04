@@ -1,1 +1,0 @@
-talking xterm would accept escape sequences colour dectermdxterm thought called colxterm testing shows oddities might bugs might program going wrong

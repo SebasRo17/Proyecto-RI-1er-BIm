@@ -1,1 +1,0 @@
-hi someone program sending key event another window must appear window used xsendeventtar package example get program executing binsh read something echo something send key event keypressakeyreleasea window get somethinga thanks advance

@@ -1,1 +1,0 @@
-happen know get serial mouse pins working ibm notebook kind bus mouse connection besides serial parallel interfaces manual doesnt say anything ive tried two drivers result left right buttons recognized mouse movement cut shortcut wires tofrom mouse thanks help

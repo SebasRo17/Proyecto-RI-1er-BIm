@@ -1,1 +1,0 @@
-project mind requires array leds addressed individually microprocessor say lsi designed drive led array including ram hold array state failing way multiplexing display dont latch bit led using discrete latch want avoid huge board covered possible thanks advance

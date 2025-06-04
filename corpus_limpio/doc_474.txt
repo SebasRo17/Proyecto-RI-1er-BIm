@@ -1,1 +1,0 @@
-found oddity sgi indigo mips chip xlock nolock running working remotely batch mode runtime programs timed using clock code slower xlock running processes seem affect runtimes yet consistent explanations real imagined

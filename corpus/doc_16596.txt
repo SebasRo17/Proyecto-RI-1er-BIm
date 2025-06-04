@@ -1,2 +1,0 @@
-On the subject of ghostscript, it will also solve the earlier request
-of converting postscript to HPGL to filter into Interleaf.

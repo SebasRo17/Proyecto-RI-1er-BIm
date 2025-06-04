@@ -1,1 +1,0 @@
-irq interfaceselect jumpers pretty straightforward dont grok settings also labelled could somebody tell settings four jumpers correspond io addresses ub pcnic also oemed ibm ethernet card know doesnt use io addresses interrupts shared memory jumpers see control bits base address shared memory cant recall thats easy determine debug

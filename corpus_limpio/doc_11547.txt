@@ -1,1 +1,0 @@
-fix table use put stty setenv lcctype setenv lesscharset login first prevents stripping bit second sets locale third makes show character instead octal representation rj

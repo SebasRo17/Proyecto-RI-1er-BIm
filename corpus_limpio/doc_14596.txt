@@ -1,1 +1,0 @@
-wonder anyone tell whether create bitmap size followed bitmap creation example sdk manual specified bitmap set widthheight supplied byte string chars get right bitmap image changed widthheight used value string padded zero byets make right size got image example manual size multiple bytes define bitmap image size thanks much g chen chencitruqozau
