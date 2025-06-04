@@ -1,0 +1,1 @@
+anybody compiled voglgraphics library ibmpc need call msfortran dont msc compile sources thanks help

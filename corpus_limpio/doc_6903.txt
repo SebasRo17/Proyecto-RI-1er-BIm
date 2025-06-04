@@ -1,0 +1,1 @@
+scsi cards dos systems require separate device driver loaded memory scsi device hooked also true oss thanks

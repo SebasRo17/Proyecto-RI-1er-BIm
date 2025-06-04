@@ -1,0 +1,1 @@
+help im trying program vga ive got working pascal following routines mode ive got vesa compatable trident need program mode dont care many colors could someone take code help write new procedures replace itll work thatd great thanks code currently mode procedure graphmode begin videomode asm mov mov int end end videomode procedure plotpoint x c integer begin end

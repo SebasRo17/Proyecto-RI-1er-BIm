@@ -1,0 +1,1 @@
+hi application draws graphs bar charts etc need include print support within application ie user print graphs within applictaion clicking print button sure invoke xwd xpr within application specify window id get window dump send file printing ways would appreciate help regard thanx mahendra ps please mail replies regular reader news group post summary sufficient interest

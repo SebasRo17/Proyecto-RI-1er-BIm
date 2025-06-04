@@ -1,0 +1,1 @@
+idea clip one polygon using another polygon necessarily rectangular window problem finding new vertices resulting subpolygons first one simply matter extending usual algorithm whereby edges one polygon checked another polygon simpler way comments welcome

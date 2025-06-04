@@ -1,0 +1,1 @@
+sorry garbage code following used course xsetforegrounddisp pixgc backgroundcolor xfillrectangledisp pixs pixgc scrwidth scrheight xsetforegrounddisp pixgc foregroundcolor xdrawlinestringrectangledisp pixs pixgc xcopyareadisp pixs win pixgc winwidth winheight juergen schietke research insitute discrete mathematics university bonn nassestr bonn

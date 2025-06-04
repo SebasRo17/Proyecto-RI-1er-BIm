@@ -1,0 +1,1 @@
+greetings need help detail geometry specification program uses xlib create simple window tried hard code xy location xcreatewindow didnt work also tried xsetstandardproperties xsetwmhints luck could somebody enlighten subject hans

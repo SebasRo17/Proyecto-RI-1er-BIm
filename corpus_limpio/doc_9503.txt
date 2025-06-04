@@ -1,0 +1,1 @@
+hi anybody tried compile ctrltest mfcsamples directory compiling mfclibs bwc seems bwc isnt able distinguish pointers overloaded functions example imagine following overloaded functions void samename void void samename int trying whole day think bwc impossible take adress one two functions assign properly defined function pointer right anybody else problem

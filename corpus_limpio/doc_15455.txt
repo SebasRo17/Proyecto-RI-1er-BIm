@@ -1,0 +1,1 @@
+im running hpux hp vue need hardcopy login window one asking login password include manual tried xwd display root loginxwd login remote terminal doesnt work xwd seems wait window server window server doesnt answer suggestions must use xwd dont access ftp cant obtain another program grab screen thanks advance nadia pitacco

@@ -1,0 +1,1 @@
+drawing attributes bundled drawing requests servers drawing model stateless caused problems performance network traffic redesign included graphic context codify drawing state application designers want draw things several different colors create gc color initialization pass gc id drawing request

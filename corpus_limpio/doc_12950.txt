@@ -1,0 +1,1 @@
+apple uses ieee standard bit backplane bus got technote reada couple weeks ago hope helps bret chase

@@ -1,0 +1,1 @@
+coreldraw write scodl files directly look fileexport main menu

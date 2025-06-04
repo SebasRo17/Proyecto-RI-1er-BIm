@@ -1,0 +1,1 @@
+anybody know good packages available ibm aix im looking something like decs gks hewlettpackards starbase reasonably good support different output devices like plotters terminals x etc tried also xgks distribution ibms implementation phigs work require output devices xwindows salesman ibm familiar graphics expecting good solutions ari

@@ -1,0 +1,1 @@
+xtappaddtimeout doesnt work xterm despite appearances contrary xterm really xt based application sources like timeouts inputs never checked xterms main loop dont surprised try doesnt work

@@ -1,0 +1,1 @@
+many x servers supporting graphics accelerators allow creation pixmaps exeeding size screen one workaround create several smaller pixmaps add results

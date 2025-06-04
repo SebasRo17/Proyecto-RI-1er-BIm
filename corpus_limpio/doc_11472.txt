@@ -1,0 +1,1 @@
+want press function key text string appear xmtext widget put xmtexttranslations augment n insertstringhello resource file translation doesnt happen put xmtexttranslations insertstringhello file get text string hello pressed keys work makes sense since default translation mode replace syntax problem something deeper

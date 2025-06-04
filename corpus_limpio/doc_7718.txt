@@ -1,0 +1,1 @@
+alternatives include output vmstat iostat pstat friends various flags even better crash eg aix get lots relatively unpredicatble data crash output following script usually gives goo moderately busy system binsh crash proc tty stack pcb callout vfs socket vnode inode mbuf file mst buffer le
