@@ -1,0 +1,1 @@
+hi im looking tools make x programming easy would like tool enable create x motif gui interactivly currently im working sgi forms package enables create gui coding callbacks help appreciated

@@ -1,0 +1,1 @@
+ive seen listing seagate ide hard drive windows nt already supports scsi variety adapters disk tape cdrom

@@ -1,0 +1,1 @@
+im trying bring bits pc would like use interruptdriven routines without buying io board making new port bring bits lpt seems inputs ive heard rumours lpts bidirectional lines anybody know fer sure bid lpts boards ill running new alan erickson ericksonbalticnmtedu sunrayce competitors hope youre getting much sleep

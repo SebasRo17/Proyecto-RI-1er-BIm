@@ -1,0 +1,1 @@
+im looking code generate minimumvolume oriented bounding box arbitrary polyhedron anyone know code im converting objects one modelling system another destination system object oriented want represent object coordinate system bounding box objects translated rotated appropriately representation used destination system

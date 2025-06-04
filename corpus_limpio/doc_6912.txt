@@ -1,0 +1,1 @@
+xdm xgrabserver running secure mode screenlocks theres really simple way tell case take xdm secure mode probably cool wrap call xopendisplay code solicts future sigalrm longjmps past xopendisplay signal handler example seen xdm sources

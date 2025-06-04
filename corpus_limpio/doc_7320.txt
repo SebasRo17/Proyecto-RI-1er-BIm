@@ -1,0 +1,1 @@
+hello admin running aix motif want prevent user hitting cntlaltbkspc exit x ive tried invoking x xinit doesnt work xinit appends call xinitrc call x man page xinit help fact tells xinit script really binary file far way ive able accomplish feat add call x would rather way anyone ideas brian deford internet open networks inc usenet commerce park dr tel reston va fax

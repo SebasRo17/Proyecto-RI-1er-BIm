@@ -1,0 +1,1 @@
+sensitivity changed using v h parameter commands following v vertical sensitivity h horizontal sensitivity follow parameter number slowest default type command mouse right keyboard add autoexecbat

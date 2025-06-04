@@ -1,0 +1,1 @@
+technically reason chip set support local bus im waiting mezzianine sp vl bus decoupled main cpu clock allow many slots due user buffers allow use ever faster cpus standard io cards next buss spec guy

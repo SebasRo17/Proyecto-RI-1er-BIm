@@ -1,0 +1,1 @@
+good reason many companies use bits pixel use double buffering animating scenes ie planes write one background flip entire screen updates second imageplane screen updates one refresh dont see different objects appearing order theyre drawn cadmacdraw effect ready update image used foreground steve thssstbiitmaxiitedu irisiitedu

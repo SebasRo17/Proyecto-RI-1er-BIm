@@ -1,0 +1,1 @@
+dynamic ram based flipflops theres basically single transistor capacitor store bit static ram based flipflops much expensive much less dense neither parts move electrons thermal expansion ignored chris

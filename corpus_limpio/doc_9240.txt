@@ -1,0 +1,1 @@
+recent discussion news group suggests key search attack des quite feasible normally des applied cbc cfb mode one chooses random init vector bytes questions makes sense handle init vector additional key bit key yes anything known security key scheme break faster exhaustive search bit key space

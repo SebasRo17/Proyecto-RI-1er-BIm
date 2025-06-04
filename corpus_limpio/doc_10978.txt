@@ -1,0 +1,1 @@
+using winqvtnet dos quite sometime without problem recently installed dos pc run winqvtnet keep getting packet received invalid portreset sent messages console window cant get telnet window cant use ftp suggestions would greatly appreciated

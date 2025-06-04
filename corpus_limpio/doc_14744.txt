@@ -1,0 +1,1 @@
+problem textfield improperly walking string used character count instead byte count significan oops problem fixed patch included latest periodic patch hp support services

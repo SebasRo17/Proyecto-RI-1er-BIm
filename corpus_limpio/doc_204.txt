@@ -1,0 +1,1 @@
+yes possible fact theres gl widget code usrlppgl somewhere named glibc ibms right though cant find exact location warning code feels quite bogus things like calling noport winopen extracting x window id anyway worked fine aix spent last weekend trying port gl doesnt seem like turning hard job check info pages pretty good documentation whan cant mixing gl x go

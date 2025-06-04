@@ -1,0 +1,1 @@
+workstation uses pseudocolor id colors

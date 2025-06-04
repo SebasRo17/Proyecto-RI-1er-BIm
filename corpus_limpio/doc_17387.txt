@@ -1,0 +1,1 @@
+pd version cfb pd server stuff colour frame buffer implementation works bitplaned mode ie screen memory grouped bit every pixel bit etc beast know moment gfxbase server commodore amiga commercial dont know wrote cfb suspect please respond email dont read group many thanks dave

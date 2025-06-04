@@ -1,0 +1,1 @@
+serial card two ports port option using irq also two serial ports multiio card ports set irq posts ive read get impression card multiio card right

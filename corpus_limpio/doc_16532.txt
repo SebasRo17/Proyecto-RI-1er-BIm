@@ -1,0 +1,1 @@
+mostly controller chip scsi chip chips use wide fast modes therefore doesnt offer much way scsi performance howrever faster io controller real speed boost comes

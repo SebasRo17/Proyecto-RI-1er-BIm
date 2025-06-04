@@ -1,0 +1,1 @@
+didnt create greylevel images display time slices requires total exposure time precision timing drastically reduces imagepreparation time

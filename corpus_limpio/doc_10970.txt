@@ -1,0 +1,1 @@
+suppose idle app realized mapped window contains xlib graphics button widget pressed cause new item drawn window action clearly call xcopyarea equiv directly instead register existence new item memory structure let expose event handler take care rendering image time guaranteed window mapped

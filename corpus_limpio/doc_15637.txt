@@ -1,0 +1,1 @@
+following postscript works laserwriter iigs version roms serverdict begin exitserver factorydefaults true setsystemparams systemdict begin realtime add dup realtime le pop exit loop quit

@@ -1,0 +1,1 @@
+following problem servers window obscured pop window save attribute set subwindows window restored normally subwindows redrawn parent window gets expose event save attribute used pop window obscured window expose event sent problem machines works use backing store instead save marcus

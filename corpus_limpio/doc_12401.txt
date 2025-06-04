@@ -1,0 +1,1 @@
+would like program tseng nonstandard mode switching standard mode using bios changing timing details registers dont know select mhz pixel clock need bios function selects mhz anybody knows obtain technical info also interested technical information tseng trident chipsets thanks much

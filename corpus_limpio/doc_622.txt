@@ -1,0 +1,1 @@
+hi working project needs create contour lines random data points work done far tells need look triangulated irregular networks tin delauney criiterion krige method anyone suggestions references programs hopefully source code creating contours help surface modeling would greatly appreciated reached addresses paul conway

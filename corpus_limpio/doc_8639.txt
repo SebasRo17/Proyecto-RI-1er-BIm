@@ -1,0 +1,1 @@
+actually bug solaris kernel could add workaround xterm open never return einval didnt time update patch lately non existing problems seem warrant new set patches xdm coulda also keep xdm environment variable inherited environment

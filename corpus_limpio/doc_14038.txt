@@ -1,0 +1,1 @@
+xli xloadimage display bit color bit visual available check output xdpyinfo see one

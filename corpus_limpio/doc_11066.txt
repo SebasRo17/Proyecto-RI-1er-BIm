@@ -1,0 +1,1 @@
+hi netters ive built pl solaris ive used multiscreen patch well patch everything builds great except set default font path stuff deleted set default font fixed supply fp option doesnt complain font path still complains font symlinks usrlib place distribution lives could somebody help joel joel reymont zcode software corporation email joelzcodecom redwood hwy suit san rafael ca

@@ -1,0 +1,1 @@
+one print nonappletalk printer using dmm laserwriter stuff im using serial driverand nothig ivetried saving postscriptfile tried sending says cantopen laserwriter driver appletalk messagethatprinter specified im using imagewritwrite one cable use nullmodem adapter help lowell

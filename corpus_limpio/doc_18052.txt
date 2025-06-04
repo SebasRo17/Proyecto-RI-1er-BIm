@@ -1,0 +1,1 @@
+type xloadimage instead xv

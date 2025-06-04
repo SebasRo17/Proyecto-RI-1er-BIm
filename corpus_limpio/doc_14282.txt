@@ -1,0 +1,1 @@
+believe right scsi support devices bus normally would host controller targets may logical units luns
