@@ -1,1 +1,0 @@
-produced schematic padslogic import padspcb create pcb pattern way ive gotten work output futurenet netlist import padspcb another way didnt see information instructions provided might missed something suggestions would greatly appreciated thanks

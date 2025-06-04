@@ -1,1 +1,0 @@
-numerical recipes cfortranpascal nice section encryption decryption based des algorithm also source code provided think versions book distributed source code disk source code also ordered publisher victor iseli victorixetroncom yes benchmarked des implementation recipes c book orders magnitude slower outerbridgekarngilloglyet al implementation may instructional isnt fast

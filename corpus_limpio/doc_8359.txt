@@ -1,1 +1,0 @@
-gnuplot etc make easy plot real valued functions variables want plot functions whose values plotting arrays arrows complete arrowheads going thought would ask whether someone already done work pointers thanx advance

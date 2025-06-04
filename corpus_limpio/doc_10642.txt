@@ -1,1 +1,0 @@
-writing program uses parallel port problem need generate interrupt ack line pulsed get occur unable generate succesive interrupts someone suggest may resolve problem

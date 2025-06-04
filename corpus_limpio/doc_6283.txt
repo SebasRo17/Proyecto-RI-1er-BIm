@@ -1,1 +1,0 @@
-looking program capable displaying graph nodes links possibility edit interactively graph add one node change one link etc actually simple program would ok need put boxes ie nodes pane able manipulate mouse move add delete boxes anyone know program available thanks help

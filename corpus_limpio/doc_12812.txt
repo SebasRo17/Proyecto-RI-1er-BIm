@@ -1,1 +1,0 @@
-would like reference algorithm detect whether one closed curve bounded number bezier curves lies completely within another closed curve bounded bezier curves thanks

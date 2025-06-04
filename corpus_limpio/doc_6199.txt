@@ -1,1 +1,0 @@
-fix quadra finish startup unless monitor connected would problem since running file server need monitor connected time

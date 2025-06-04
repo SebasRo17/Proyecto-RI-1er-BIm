@@ -1,1 +1,0 @@
-many highend graphics cards come c source code basic graphics sorts things change colors draw pointslinespolygonsfills etc library exist generic vga graphics cardschips hopefully public domain would purpose compiling nondos operating system running standard pc check server code

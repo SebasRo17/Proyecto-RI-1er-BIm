@@ -1,1 +1,0 @@
-problem ensuring pointtofocus mouse cursor enters window application im using interviews may matter seems generic problem x example use openwindows pointtofocus set generally works always depending going window move cursor one shell tool window another seems question within x guarantee pointto focus within application thanks response

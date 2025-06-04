@@ -1,1 +1,0 @@
-announced x technical conference january would like make imaketex imake support using tex typesetting system publically available currently imaketex beta test computer science department dortmund university looking beta testers preferably different tex imake installations diplinform rainer klute r b immer richtig beraten univ dortmund irb postfach tel dortmund fax

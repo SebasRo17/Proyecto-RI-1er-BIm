@@ -1,1 +1,0 @@
-hello ive raytraced rendered difference ive found raytracing takes hell lot longer missing something

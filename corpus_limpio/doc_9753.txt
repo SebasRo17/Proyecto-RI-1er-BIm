@@ -1,1 +1,0 @@
-dear netters noticed something rather weared think creating dialog shell widget running hp vues vuewm reason every time create dialog shell foreground backgroun colors different compared toplevel shell anything specialdifferent body know anything problem fix without hardcodin g colors please respond kamleshsalzocaryncusa

@@ -1,1 +1,0 @@
-need resources xtermeightbitinput true xtermeightbitoutput true shell need stty istrip good luck victor

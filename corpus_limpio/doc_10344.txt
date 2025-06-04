@@ -1,1 +1,0 @@
-playing around gateway localbus machine last night became apparent windows didnt give option access virtual memory using permanent swap file disk drive local bus interface expected investigating option appears thanks help

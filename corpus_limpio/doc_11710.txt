@@ -1,1 +1,0 @@
-hi heard linear mode video memory linearly accesibly instead usual pages anyone know enable address video memory mapped

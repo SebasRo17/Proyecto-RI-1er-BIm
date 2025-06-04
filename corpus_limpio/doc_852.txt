@@ -1,1 +1,0 @@
-boot reboots problem usually low vdc power supply adjustment supply voltage still unstable low culprit probably bad rectifier

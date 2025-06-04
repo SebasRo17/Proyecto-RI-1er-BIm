@@ -1,1 +1,0 @@
-unless completely misunderstanding try using either notepad syseditexe found system subdirectory edit ini files syseditexe program cool automatically opens winini systemini autoexecbat configsys files edited

@@ -1,1 +1,0 @@
-yes broken ow handle multiple pages well dont proper postscript commands draw entire document page instead pausing page havent tried ow yet though

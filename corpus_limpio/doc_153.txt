@@ -1,1 +1,0 @@
-ide also uses dma techniques believe floppy controller also uses dma ad boards also use dma dma big deal nothing directly scsi thank software dos brains could format floppies etc something else hardware support dos least wont nothing scsi stick dos youll wonder cant multitask

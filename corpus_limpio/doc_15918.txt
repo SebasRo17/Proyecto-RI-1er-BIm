@@ -1,1 +1,0 @@
-possible use winqvtnet machine uses ndis connect token ring tried older versions got invalid packet class error something like regards

@@ -1,1 +1,0 @@
-depends kind polygons convex simple concave trouble concave loops inside big trouble cause use box test avoid checking edges according experience simple way go headache stuff deal special cases example overlapped lines

@@ -1,1 +1,0 @@
-usl support ldrunpath la solaris equivalent put library package specific lib directory compile app ldrunpath defined work besides id say name libpackagexcla possible cheers

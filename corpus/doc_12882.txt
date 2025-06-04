@@ -1,5 +1,0 @@
- 
-  There is a benchmark program called COMPTEST said CYRIX CPUs have a bug
-so they cannot run the program. Also may be NeXTSTEP 486?
-
-						regards,

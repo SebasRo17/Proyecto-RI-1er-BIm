@@ -1,1 +1,0 @@
-possible plug ordinary isa card vesa localbus slot running slots one spare localbus slot

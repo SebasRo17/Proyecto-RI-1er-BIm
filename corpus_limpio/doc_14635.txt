@@ -1,1 +1,0 @@
-unix domain socket local connection xserver try rm

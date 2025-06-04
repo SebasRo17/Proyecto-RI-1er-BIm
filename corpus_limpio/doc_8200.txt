@@ -1,1 +1,0 @@
-looking package implements standard image processing functions readingwriting standard formats clipping zoom etc implemented x public domain private packages interest particular application area mind medical imaging package meant general context would acceptable please reply summarize net general interest

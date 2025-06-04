@@ -1,3 +1,0 @@
-
-Note that TEMPEST is the name of the shielding standard.  TEMPEST is not
-the name of the surveillance technique.

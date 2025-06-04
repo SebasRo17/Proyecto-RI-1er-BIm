@@ -1,1 +1,0 @@
-ive said theres reliable way find size window manager decoration window reparented cant assume window youre parented window holds window manager decoration may several layers windows multiple xquerytrees get root work cases theres guarantee outside decoration window parented root window display tvtwm

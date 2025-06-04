@@ -1,1 +1,0 @@
-ld unidentified external symbol getwmshellwidgetclass getapplicationshellwidgetclass use lxaw lxmu lxext lxt order proper order wondering changes link libraries include libraries help matter useful highly appreciated
