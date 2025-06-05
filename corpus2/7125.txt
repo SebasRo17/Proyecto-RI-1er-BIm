@@ -1,0 +1,1 @@
+It has been noticed on several occasions that `DayOfWeek` function is rather slow when applied to a large list of dates, e.g. in this recent question. What faster alternatives do we have in such situations?

@@ -1,0 +1,1 @@
+I'd like to plot a graph of a function using e.g. `Plot3D` and then a line (in general a curve, in my case a straight line, tangent at some point to the surface just drawn), using e.g. `ParametricPlot3D` _in the same picture_. Is it possible? If yes, how?

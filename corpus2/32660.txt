@@ -1,0 +1,1 @@
+The questions states: Let               r[t_]:= {E^(-t), 3t^2, 4 Sin[t]}      Plot and compare `r[t]` and the integral of `T[t]`, `T[t]` being the unit tangent vector.

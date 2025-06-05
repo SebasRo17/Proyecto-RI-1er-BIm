@@ -1,0 +1,1 @@
+I want to generate the series `{1930, 1934, 1938, ..., 2014}` with _Mathematica_. I found that I can use `Sum[2014-m*4, {m, 20}]` to get the sum of these numbers, so I tried `Array[2014-m*4, {m, 20}]`, but no luck. How do I do this?

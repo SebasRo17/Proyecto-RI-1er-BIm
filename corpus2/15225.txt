@@ -1,0 +1,1 @@
+I have this 200 digit number where I want to get the `IntegerDigits`, but the decimal point is in the way.               5.9786377666105440959755656271823065138015646836250389374946790881539\       7157216930920631092404062126177741432101097347028242720848122219396854\       08452395344964186804        What do I need to do to strip the decimal point to get a list of the digits?

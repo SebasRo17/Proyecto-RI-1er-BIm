@@ -1,0 +1,1 @@
+When I evaluate               Limit[E^(-n)*Sum[n^k/(k!),{k,0,n}], n -> ∞]      _Mathematica_ gives me the result               Limit[Gamma[1 + n, n]/(n Gamma[n]), n -> ∞]      Actually, the answer is exactly 1/2. Is there any way to coax _Mathematica_ to find the limit?

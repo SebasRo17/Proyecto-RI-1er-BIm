@@ -1,0 +1,1 @@
+I have this exponential function, where j is unknown. How can I plot the variance function for $k= 0.1, \; 1, \;10$ $$f_{j,k}(y)=\frac{\sqrt{j}}{\sqrt{2 \pi}}e^{\sqrt{jk}}y^{-\frac{1}{2}} \text{exp}\left( -\frac{1}{2} (j y + \frac{k}{y}) \right) \quad \quad y>0$$

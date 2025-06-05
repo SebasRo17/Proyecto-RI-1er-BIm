@@ -1,0 +1,1 @@
+If I do               Simplify[(c^3 - s^3)^2 - (s^3 + c^3)^2,       TransformationFunctions -> Automatic]      (i.e. a verbose version of default behaviour), what transformation functions actually get applied? Similarly for FullSimplify. The documentation says `By default FullSimplify does not use Reduce:`. Well how would I know? What else doesn't it use? What does it use?

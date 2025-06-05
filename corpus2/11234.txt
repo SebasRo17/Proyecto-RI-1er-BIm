@@ -1,0 +1,1 @@
+There was once a package that provided a wide range of functions for computing astronomical information. This package now appears to be out of date; but as near as I can tell, many of the useful functions it provided have not been replicated in `AstronomicalData`. Are there, for example, functions I can use to compute sidereal time, or Julian Date (JD)?

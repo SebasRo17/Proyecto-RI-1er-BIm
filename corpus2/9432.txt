@@ -1,0 +1,1 @@
+How can I clear the "Citation Styles Cache" created when you use the EndNote citation management feature for the first time in _Mathematica_. The Citation Management tutorial indicates that such a cache is created, but gives no indication of how to clear it.

@@ -1,0 +1,1 @@
+I have a equation G=2X+Y, Now i changed X and Y together from 1 to 10 . I got various values Of G. I have done this by using Table command ,Now I want to plot a graph between G and X, i could not find any command to plot this.can you help me

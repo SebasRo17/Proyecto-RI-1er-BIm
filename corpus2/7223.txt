@@ -1,0 +1,1 @@
+I want to produce a _Mathematica_ Computable Document in which `N` appears as a variable in my formulae. But `N` is a reserved word in the _Mathematica_ language. Is there a way round this other than using a different symbol? It seems a severe limitation if you cannot use _Mathematica_ to generate papers in which `N` is employed as a variable.

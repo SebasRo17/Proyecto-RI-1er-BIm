@@ -1,0 +1,1 @@
+Is it possible to invert the 3D object (positive model) to 3D pattern objects (negative model) (for example, patterns for casting). For example (positive model):               SphericalPlot3D [1 + 2 Cos [2 \ [Theta]], {\ [Theta], 0, Pi}, {\ [Phi], 0, 2 Pi}]       How to make the pattern object (negative model)?

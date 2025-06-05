@@ -1,0 +1,1 @@
+I understand that there is at least one Mathematica package, DataModeler commercially available for symbolic regression. I'm seeking any observations with this or any other similar tool. I'm interested in solving single input/single output as well as multi input/single output problems.

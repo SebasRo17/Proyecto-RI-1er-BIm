@@ -1,0 +1,1 @@
+This answer at Math.SE contains a neat contour diagram created using Mathematica: ![](http://i.stack.imgur.com/Jb3i2.png) What Mathematica functions I can use to draw diagrams like this?

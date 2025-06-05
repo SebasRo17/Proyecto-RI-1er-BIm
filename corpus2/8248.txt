@@ -1,0 +1,1 @@
+Why does this work (displays the curve):               Graphics[Plot[Sin[x], {x, 0, Pi}]]      and this doesn't (no curve)               Graphics[Plot[Sin[a x], {x, 0, Pi}], {Slider[a, 0, 4]}]      ? I would like to work without `Manipulate`.

@@ -1,0 +1,1 @@
+By using `Plot` command I want to get one curve in form if circles and other like a solid line.               Plot[{Cos[x], Sin[x]}, {x, 0, 2 Pi},           PlotStyle -> {Opacity[0]}, Mesh -> 30, MeshStyle -> {PointSize[Large], Blue}]      ![enter image description here](http://i.stack.imgur.com/Iy7S4.jpg)

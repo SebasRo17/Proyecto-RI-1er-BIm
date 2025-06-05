@@ -1,0 +1,1 @@
+I would like to `Export` a text file, and use paragraph / ENTER commands to place different strings on different lines. Say we have three strings - str1, str2, and str3. How can we place them on separate lines of a text file? This command -               Export["test.txt", StringJoin[str1, str2, str3]];      Places str1, str2, and str3 on a single line.

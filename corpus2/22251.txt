@@ -1,0 +1,1 @@
+I want to do:               ListPlot[{{x1, y1}, {x2, y2}, ...}]      each y being not a number but a list of numbers. I tried:               ListPlot[{{x1, {y1}}, {x2, {y2}}, ...}]       but it does not work. Does anybody now how to do this? Thanks a lot!

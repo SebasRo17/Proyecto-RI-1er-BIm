@@ -1,0 +1,1 @@
+How can I enter a LaTeX integral into _Mathematica_? For example, I evaluated the expression               ToExpression["\int 2*x\[DifferentialD]x ", TeXForm]      but _Mathematica_ told me that this is wrong.

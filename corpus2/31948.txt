@@ -1,0 +1,1 @@
+I have a bunch of data points in the form of `{latitude,longitude}`. How can I plot their density on a US map? Single points on the map do not show clearly their distribution, so I'd like it to be density or something more clear. Please suggest. Thank you.

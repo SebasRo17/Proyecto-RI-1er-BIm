@@ -1,0 +1,1 @@
+How can I get the list of all dates from today 21.02.2012 (which is a palindrome) up to say next $n$ years? Then finding the other palindromes are not difficult. I could not find an easy way to generate the list using `DateList`.

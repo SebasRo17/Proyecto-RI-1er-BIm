@@ -1,0 +1,1 @@
+Let $$f=x^9-x^6+4x^5y+2x^3y^2-y^4$$ I would like to factorize $f$ into form: $$(y-F_1(x))\cdots(y-F_k(x))$$ over complex numbers. How can I do it with _Mathematica_?

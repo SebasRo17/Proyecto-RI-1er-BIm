@@ -1,0 +1,1 @@
+![enter image description here](http://i.stack.imgur.com/3p3AR.png) How to draw these two(especially the second one) graphs using Mathematica? The curve is not important.The point is how to dig some holes in a cube. BTW, These two shapes are Homotopy.

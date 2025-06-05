@@ -1,0 +1,1 @@
+In many programming languages one can define a namespace               with namespace abc      How can the similar be done in _Mathematica_? The `Module` and `Block` commands, can somewhat mimick this, but it is only in the command, it doesn't act as a definition. How can this be done in _Mathematica_?

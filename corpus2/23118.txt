@@ -1,0 +1,1 @@
+I am trying to find the area of the largest rectangle (whose sides are parallel to the coordinate axes) contained in the region bounded by the graphs of $y = 0, y = x^2,$ and $x = 1$ using _Mathematica_. I am not sure where to begin other than that the area of a rectangle is $l w$. Any ideas?

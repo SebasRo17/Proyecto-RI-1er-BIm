@@ -1,0 +1,1 @@
+Is there a fast Fourier transform in _Mathematica_? Although looking in the help I could not find one. I am looking to implement the equivalent of `fft` in MATLAB.

@@ -1,0 +1,1 @@
+What is the most space and time efficient way to implement a Trie in _Mathematica_? Will it be practically faster than what is natively available in appropriate cases?

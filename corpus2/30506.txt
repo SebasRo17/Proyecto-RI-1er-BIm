@@ -1,0 +1,1 @@
+I have a rather large notebook, which contains a lot of hyperlinks to different parts of the notebook. Is it possible to make a back button (maybe as a docked cell button?) so that when a reader clicks a link and is moved up or down in the document, then he can click the button and then return to the location of the link?

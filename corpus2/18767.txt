@@ -1,0 +1,1 @@
+I'm trying to locate minima / maxima in matrices on a heat map. So I have my 2D matrix and did a `MatrixPlot`, ![my matrix plot](http://i.stack.imgur.com/84jU7.png) and I can find the position of the smallest value. My question: how do I place a graphical marker at that position? Like a box to outline field (7,6)? Completely stumped.

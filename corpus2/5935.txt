@@ -1,0 +1,1 @@
+Compile[{{x, _Real, 1}}, MemberQ[x, 2]][{2}]      outputs `False`. In fact, it seems to get compiled as `False` for every input if you look at a `CompilePrint`. It doesn't call the main evaluator, and `MemberQ` is included in the `Compile`CompilerFunctions[]` list Any ideas?

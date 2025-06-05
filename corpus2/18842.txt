@@ -1,0 +1,1 @@
+Is there any solution to make rule to export as a traditional form protected constants. Here is example which doesn't work.               aa = I0*I0;     rules11 = {I0 :>      \!\(\*SubsuperscriptBox[     OverscriptBox[\(I\), \(^\)], \(0\), \(0, 2\)]\)};            aa //. rules11 // TraditionalForm

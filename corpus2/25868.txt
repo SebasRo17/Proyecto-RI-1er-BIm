@@ -1,0 +1,1 @@
+How can I plot the following equation with $k$ assumed to be an integer"? I tried something like this, but it doesn't work:               ContourPlot[{Element[k,Integers], Sqrt[x^2 + y^2] == 4 + k*Pi},{x, -17, 17}, {y, -17, 17}]

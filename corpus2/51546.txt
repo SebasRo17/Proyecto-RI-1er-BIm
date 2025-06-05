@@ -1,0 +1,1 @@
+Let $P=\{p_1,...p_n\}$. I would like a way to implent Table[Expression,{$p_1$,lim},{$p_2$,lim},...,{$p_n$,lim}] where n and lim are parameters defined by the user. Any ideas?

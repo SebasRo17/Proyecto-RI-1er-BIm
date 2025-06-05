@@ -1,0 +1,1 @@
+Consider the case where a symbol has multiple definitions attached to it,               a /: Subscript[a,2] := 1     a[b_] := 2     a[b_, c_] := 3      How does one clear (/unset/remove) only one of those definitions while leaving the others intact?

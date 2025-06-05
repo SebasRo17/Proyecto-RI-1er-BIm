@@ -1,0 +1,1 @@
+How does one clear the notebook from symbols that remain in it after an edit session?

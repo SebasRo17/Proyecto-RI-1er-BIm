@@ -1,0 +1,1 @@
+m = RandomInteger[{-5, 5}, {10, 10}];     m /. {x__, y_ /; y > 0} -> Style[{x, y}, Red]     % // TableForm      When `m` without style , `TableForm` or `Grid` works well on it. But when I set a style, it doesn't work as I expected. How can I fix the problem?

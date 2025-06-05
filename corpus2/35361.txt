@@ -1,0 +1,1 @@
+I am very new in Mathematica, but I cannot find out what is happening here, looking on the internet. I modified a previous notebook as follows: https://dl.dropboxusercontent.com/u/8281720/modificato.nb but it doesn't give me any output when I put $A\neq 0$. Why?

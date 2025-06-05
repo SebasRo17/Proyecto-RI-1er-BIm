@@ -1,0 +1,1 @@
+Does somebody know if Mathematica can be used to calculate the growth of functions, that is in Big O, Theta, and Omega and find proper $n_{0}$ and $c_{1}$, $c_{2}$ respectively?

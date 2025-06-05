@@ -1,0 +1,1 @@
+I am attempting to capture dynamic streams from multiple usb webcams using only mathematica. Using `ImageCapture["Device" -> $ImagingDevices[[x]]`, I've tried to open multiple instances of _Mathematica_ using ImageCapture on different devices for the different instances. No Luck :( Is this too complex a task for _Mathematica_ alone?) Wolfram Community related question link

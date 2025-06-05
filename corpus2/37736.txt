@@ -1,0 +1,1 @@
+I have something the following form:               a= 3*k;     b=c*d*a;     h[k_]=b*k^3;      so if I use `l[k_]=D[h[k],k]` I get `12*c*d*k^3` but I would like to get it in the following form: `4bk^2` how do I do that?

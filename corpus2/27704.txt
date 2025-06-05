@@ -1,0 +1,1 @@
+Sometimes sounds specified using `SoundNote` (i.e. things played using MIDI) don't play properly on OS X. Some notes are missing and some are stuck. At least this is what happens on my system with Mathematica 9.0.1 on OS X 10.8.4 and Apple Java 1.6.0_51. How can I fix this and have Mathematica play MIDI properly? Note: this code is affected as well.

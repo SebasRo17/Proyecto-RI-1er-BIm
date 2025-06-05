@@ -1,0 +1,1 @@
+Does Mathematica allow you to change the shape of your graph? Say I use a sin or cos function or some sort of function, do they allow you to change the amplitude or phase shift on the graph? would you manipulate this of some sort?

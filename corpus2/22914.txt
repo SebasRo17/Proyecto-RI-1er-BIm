@@ -1,0 +1,1 @@
+I have the following code:               a = Dynamic[Floor[Clock[2]]] (*So this basically alternates between 0 and 1*)     If[a==1, Print["true"]]      But this doesn't work, it instead prints the following `If[a==0, Print["true"]]` and then changes to `If[a==1, Print["true"]]` and then back. How can I get the value from the clock?

@@ -1,0 +1,1 @@
+I am curious how differential operators are defined in Mathematica. More specifically, if the Laplacian function wasn't available, how would one go on to define such a function in Mathematica directly without reference to Grad or Div? I am thinking of pure functions, but I haven't been able to reproduce the effect of the Laplacian.

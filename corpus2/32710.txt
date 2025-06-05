@@ -1,0 +1,1 @@
+If I print a string to a file it also adds quotation marks to the string. Here is an example:               a = "test \t test"     a >> file     FilePrint["file"]      How can I remove those? And is it possible to use `\t` for a tabulator?

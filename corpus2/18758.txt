@@ -1,0 +1,1 @@
+I am plotting the voltage in a pool of water with two electrodes. I have contour lines on my graph at every volt, but I would like to show the electric field lines which are going to be perpendicular to the contour lines. How can I do that? ![enter image description here](http://i.stack.imgur.com/1oSP8.png)

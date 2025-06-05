@@ -1,0 +1,1 @@
+I want a built-in function renamed without loss of any properties, I want the shorter name to appear in all results and to be recognized as input. Is it possible?

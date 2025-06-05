@@ -1,0 +1,1 @@
+Does someone have a 3D model for a man (or woman) that can be displayed in _Mathematica_ using `Graphics3D`? I have tried importing free .3DS models but they look pretty awful and you lose opacity, etc. Is there a complete model of a human built from graphics primitives? I've seen the demonstration by Stewart Dickson but I need the whole body (and ideally some organs.)

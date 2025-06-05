@@ -1,0 +1,1 @@
+When I use _Mathematica_ to draw a bode plot, it always gives the precise version, like this:               BodePlot[(10 (s + 3))/(s (s + 2) (s^2 + s + 2))]      ![enter image description here](http://i.stack.imgur.com/ZjVkf.png) How can I draw the asymptotic version, the kind where `1/(1 + jw)` is represented as a -20dB straight line but not a curve?

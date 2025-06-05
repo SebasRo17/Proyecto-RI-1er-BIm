@@ -1,0 +1,1 @@
+I'd like to create a list with days from the 4th of July to the 4th of October starting in July 1970 to the current date. I tried to use `DateRange`, but I'm a bit confused cause the documentation is't very clear on this point. What should I do? Have you ever tried to do such a thing?

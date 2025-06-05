@@ -1,0 +1,1 @@
+Is it possible to have multiple outputs from a single function? For example:               In[1]:= x+1             x+2     Out[1]= 1+x     Out[2]= 2+x      has multiple outputs, how can I acheive that in a function? I tried               In[3]:= f[x_]:=Module[{},     x+1     x+2     ]     In[4]:= f[2]     Out[4]= 6      which doesn't work.

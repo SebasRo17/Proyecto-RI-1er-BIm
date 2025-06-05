@@ -1,0 +1,1 @@
+Pane[      Style["text is here", Bold, FontColor -> Darker[Gray, .6],       Background -> Red       ],      Alignment -> {Center, Center}      ]      ![Mathematica graphics](http://i.stack.imgur.com/T5Gcp.png) How to let the pane have rounded corners?

@@ -1,0 +1,1 @@
+We can have road networks of the countries in GIS shape file.For exmple from here. Normally traffic flows are proportionate to populations of the cities. ![enter image description here](http://i.stack.imgur.com/hLuYQ.jpg) I wonder how we can have the same in Mathematica?Is it possible at all?

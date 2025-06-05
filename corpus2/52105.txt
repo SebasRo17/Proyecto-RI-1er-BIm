@@ -1,0 +1,1 @@
+This will be a simple question. Sometimes it is helpful to control the size of content displayed while having a scroll bar so content is not truncated. Is it possible to have a scroll bar attached to Panel[], Column[], Grid[] or Row[] element? So that I can at least specify a maximum width/height beyond which a scroll bar will appear. Thanks!

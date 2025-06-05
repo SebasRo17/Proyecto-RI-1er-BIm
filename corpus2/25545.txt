@@ -1,0 +1,1 @@
+I have a matrix with thousands of rows and want the submatrix comprising the rows of the original matrix that have, e.g. a negative element in column 3. How to do that?

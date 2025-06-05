@@ -1,0 +1,1 @@
+I'm looking to compute this Expectation : ![enter image description here](http://i.stack.imgur.com/5xKXu.png) "i" represent a individual and h(i) is value. I would like the compute the Expected value of his value times the mean of the groups. Everything is unknown so symbolic is conserved. Any help would be greatly appreciated Thank Alexandre

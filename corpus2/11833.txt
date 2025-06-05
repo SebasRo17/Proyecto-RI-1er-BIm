@@ -1,0 +1,1 @@
+This time I have a very short question. Is there a deeper reason why ParallelMapThread does not exist? Regards, Frink

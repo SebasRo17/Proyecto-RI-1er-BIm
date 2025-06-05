@@ -1,0 +1,1 @@
+I have the following question: Can I open a _Mathematica_ 9 notebook in _Mathematica_ 8? Are there compatibility issues?

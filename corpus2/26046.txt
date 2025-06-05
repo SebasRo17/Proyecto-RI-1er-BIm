@@ -1,0 +1,1 @@
+The Domain decomposition is a natural technique for reducing the computational cost for solving large-scale linear systems, somebody know how to do it using mathematica?

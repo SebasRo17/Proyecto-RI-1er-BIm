@@ -1,0 +1,1 @@
+Following on from this question: Is it possible to convert an expression to InputForm or StandardForm without losing the comments? For example,               f[blah_] := Cos[blah] (* this is a comment *)     f[blah2_] := Cos[blah2] (* this is also a comment *)      selecting the cell and pressing Shift+Ctrl+N gives,               f[blah_] := Cos[blah]      f[blah2_] := Cos[blah2]

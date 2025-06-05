@@ -1,0 +1,1 @@
+How can I calculate all binary irreducible polynomials of degree 31? or how i calculate all irreducible $f$ in $\mathbb Z_2[x]$? (The irreducible polynomial in $\mathbb Z_2[x]$ and $\mathbb R$ are distinguish; for example, in $\mathbb Z_2[x]$, we have $x^2+1=(x+1)(x+1)$.)

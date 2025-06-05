@@ -1,0 +1,1 @@
+I am trying to change the font of the formula number in a cell which has style DisplayFormulaNumbered. I can easily change the font of the formula I enter by selecting it and using the format menu. But the number to the right of the formula wont change. Any help with this would be greatly appreciated. I am using mathematica 9.

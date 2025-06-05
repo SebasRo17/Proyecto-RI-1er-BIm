@@ -1,0 +1,1 @@
+I have two matrices `A = {{a1,a2},{b1,b2}}` and `B = {{x1,x2},{y1,y2}}`. I would like to create out of these matrices a new matrix `C={{{a1,x1},{a2,x2}},{{b1,y1},{b2,y2}}}` which I would like at the end transform to this form `{{a1,x1},{a2,x2},{b1,y1},{b2,y2}}`. Of course, I am looking for a solution to the general case. Thanks.

@@ -1,0 +1,1 @@
+I am trying to export a graph similar to the one attached as PDF. I am having troubles with the error bars and legends. ![enter image description here](http://i.stack.imgur.com/yrR7x.png) Is there a simple example someone can share and demonstrate how to do this?

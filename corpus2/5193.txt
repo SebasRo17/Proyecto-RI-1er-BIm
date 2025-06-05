@@ -1,0 +1,1 @@
+Is there a way to personalize the startup? I want, for example, that mathematica starts Maximized (not slightly-less-than-maximized as it usually does) with a notebook (also maximized) with a zoom of 130%. I use mathematica 8.0.4 and windows XP.

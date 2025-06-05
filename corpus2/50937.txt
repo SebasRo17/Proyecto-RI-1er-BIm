@@ -1,0 +1,1 @@
+I would like to export graphics generated from do-loop as jpg. There will be like more than 100 graphs. I want to combine it later in latex beamer as animation. When I put Export command inside the loop, I could not manage to change the name of the files since the name is inside "". Is there any way to solve this problem? Thank you very much.

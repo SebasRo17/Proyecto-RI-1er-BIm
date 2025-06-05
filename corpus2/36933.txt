@@ -1,0 +1,1 @@
+Define _complex conjugate_ as the pair of complex numbers $a+bi,a-bi$. Assume you have 5 such pairs and they are the 10 roots $x_i$ of a 10th-deg equation with integer coefficients. _In general_ , how many combinations, $$F= x_1 x_2+x_3 x_4+x_5 x_6+x_7 x_8+x_9 x_{10}$$ _**will be real_** , and how do we tell Mathematica to enumerate them all?

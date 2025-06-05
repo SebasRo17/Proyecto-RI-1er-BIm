@@ -1,0 +1,1 @@
+What is the simplest way to throw away all expressions waiting to be read on a loopback link, effectively resetting the link? I am building an expression on a loopback link using the C MathLink interface. If the operation succeeds, I want to send the expression to `stdlink`. If it fails, I need to _clear_ the loopback link. What is the recommended way to do this?

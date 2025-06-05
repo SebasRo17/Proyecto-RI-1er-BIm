@@ -1,0 +1,1 @@
+The high school textbook I am using has the example of semi-prime numbers. They wanted students to find (by "perspiration") all the semi-prime numbers less than $50$ (for a question on set theory). A semi-prime number is the product of exactly two prime numbers (not necessarily distinct). How would I generate the first $n$ semi-prime numbers using _Mathematica_?

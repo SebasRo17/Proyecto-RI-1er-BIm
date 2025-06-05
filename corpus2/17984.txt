@@ -1,0 +1,1 @@
+I would like to know what an implementation of the function `NextPrime` would look like if it were implemented in _Mathematica_ 's core language.

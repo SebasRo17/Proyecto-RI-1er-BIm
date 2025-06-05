@@ -1,0 +1,1 @@
+I was wondering: how does one use the `ForAll` function in `Reduce`? In particular, I am looking for the set $\\{w\in \mathbb{R}^2 | \forall x \in \mathbb{R}^2 : \left<w,x\right> \leq f(x)\\},$ where $\left<,\right> $ is the inner product and $f: \mathbb{R}^2\rightarrow\mathbb{R}^1$. Thank you!

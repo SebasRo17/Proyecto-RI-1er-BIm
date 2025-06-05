@@ -1,0 +1,1 @@
+Strassen's algorithm is an algorithm for matrix multiplication that is asymptotically faster than the naive one. In practice, the matrices involved have to be quite large before Strassen's algorithm becomes faster than the naive one. ## Question Does Mathematica ever use Strassen's algorithm? If so, what is the size of the smallest (square) matrices on which it would do so?

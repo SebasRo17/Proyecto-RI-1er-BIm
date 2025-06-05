@@ -1,0 +1,1 @@
+Is there a way to remove the braces from the front end output associated with `DynamicModule`? For instance:               a=0;     DynamicModule[{x}, {Slider[Dynamic[x]], Dynamic[If[x>.5,a=1;,{}]]}]      This returns a slider with braces around it. Is there a way to avoid or remove the braces?

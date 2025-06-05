@@ -1,0 +1,1 @@
+I am using functions that are only well-defined for real values (e.g. `HeavisideTheta`) within `NDSolve`. Internally `NDSolve` works, of course, with complex numbers and sometimes returns a numerically vansihing complex value (e.g. 0.` i) that breaks these functions. Is it possible to get rid of the complex part (like applying `Chop` at each step)?

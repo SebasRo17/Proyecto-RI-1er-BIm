@@ -1,0 +1,1 @@
+NSolve[{Cos[al] == R/(0.0496045\[VeryThinSpace]+ R),       Cos[al + 0.1/R] == R/(0.05\[VeryThinSpace]+ R)}, {al, R},Reals]      It is not solving, something missing here.

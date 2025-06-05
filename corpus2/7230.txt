@@ -1,0 +1,1 @@
+Is there an easy way to draw an outline around a sphere? Is there something like `EdgeForm[]` that will work? I'm looking for perhaps a thick red line; I'm making a plot with many spheres of different colors and opacities, and I need a way of visually distinguishing the ones that are "in use" from the ones that are "inert".

@@ -1,0 +1,1 @@
+Is it possible to position ticklabels on negative $y$ axis on its right side? Ticklabels on positive $y$ axis should remain as usual: ![enter image description here](http://i.stack.imgur.com/Yi6Jm.png)

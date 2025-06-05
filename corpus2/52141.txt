@@ -1,0 +1,1 @@
+m[x_, y_] :=       0.9*Exp[-((x - 1)^2 + (y - 1)^2)] +        0.5 Exp[-(3^2 ((x - 2.5)^2 + (y - 1.5)^2))]      I'm trying to create a 3d plot for the function above. I tried `Plot3D`, but all i got was a blank. my plot attempt : `Plot3D[m, {x, -1, 1}, {y, -1, 1}]`

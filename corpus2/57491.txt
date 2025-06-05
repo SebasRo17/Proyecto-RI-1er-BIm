@@ -1,0 +1,1 @@
+I am in the process of writing a package, but my way of testing it just seems wrong and inefficient. Each time I edit the .m file, I save it, quit the kernel, call the package in a separate notebook and proceed to test. Is there a more efficient way to test a package without having to save/quit kernel/rerun everything?? Thanks

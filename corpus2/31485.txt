@@ -1,0 +1,1 @@
+Title says it all. Mathematica produces sometimes expressions of the form               Abs[a + Exp[I*c]b]^2      where all three quantities a, b and c are positive real numbers. That expression of course reduces simply to the law of cosines               a^2 + b^2 + 2a b Cos[c]      however, I cannot get Mathematica to display it in this form. Any ideas?

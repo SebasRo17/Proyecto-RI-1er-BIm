@@ -1,0 +1,1 @@
+For example, when I evaluate               Limit[(1 + x^n + (x^2/2)^n)^(1/n), n -> Infinity]      _Mathematica_ does not output any result. When I evaluate               Plot[Limit[(1 + x^n + (x^2/2)^n)^(1/n), n -> Infinity], {x, -10, 10}]      a piecewise graph is output. But I want to get the function, not only the graph. How can I do it?

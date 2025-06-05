@@ -1,0 +1,1 @@
+I've tried to solve this differential equation system, buy without any luck. ![enter image description here](http://i.stack.imgur.com/1VaGh.png) This is my code:               RSolve[{x'[t] == x[t] - y[t], y'[t] == 5 x[t] - 3 y[t], x[0] == 1, y[0] == 2}, {x[t],     y[t]}, t]      Can anyone tell me what I've done wrong?

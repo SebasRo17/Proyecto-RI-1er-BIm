@@ -1,0 +1,1 @@
+Suppose I have a simple algebraic equation like:               ChebyshevT[4, p] == 0      > >     1 - 8 p^2 + 8 p^4 == 0 >   and I want to solve for the term `p^4` by simple rearrangement:               p^4 == -(1 - 8 p^2)/8      How do I do that in _Mathematica_ ? And how can I then assign the solution to replace.

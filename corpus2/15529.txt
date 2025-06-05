@@ -1,0 +1,1 @@
+I'm trying to see if a number can be written as the sum of two prime numbers. Ideally, I would like to use               Solve[ Prime[n] + Prime[m] == 100, {n, m}]      But that simply doesn't work in _Mathematica_. So is there another way to implement this?

@@ -1,0 +1,1 @@
+Does _Mathematica_ have an equivalent to Matlab's `linspace`? I want to make a list with "start", "stop" and "number of points". What is the neatest way of doing this?

@@ -1,0 +1,1 @@
+Let’s assume I input               Assuming[x > 0, expression]      Is it assumed by _Mathematica_ that $x$ is a real number? Or that the real part of $x$ is positive? Something else? A simple _Mathematica_ illustration would be welcome.

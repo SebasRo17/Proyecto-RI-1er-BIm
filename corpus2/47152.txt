@@ -1,0 +1,1 @@
+I've defined a function P[k_] := 1/[Sqrt]2 (R[k] + L[k]) where R and L generate matrices. However the output of this function never full simplifies (even when I use the Simplify[%] functions). It always leaves the output at 1 over root 2 followed by each of the matrices with the binary operator. Can anyone tell me what I need to do to simplify this output?

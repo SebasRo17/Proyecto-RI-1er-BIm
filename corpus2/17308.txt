@@ -1,0 +1,1 @@
+How can I colorize an imported model from for example 3ds max? I'm trying to find the way to colorize a 3D plot from an imported model with something like this:               ColorFunction -> Function[{x, y, z}, ColorData["GreenBrownTerrain"][z^2]]      But I don't know how. Thank you very much for your help.

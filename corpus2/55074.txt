@@ -1,0 +1,1 @@
+This may be a repeat question, but I was wondering how one would implement the expression/calculation of a representation of a given number h in base balanced n-ary, where n>1 is odd. (For example, for balanced quinary (5-ary), the digits are "+2", "+1", "0", "-1", "-2"). I see that BaseForm can be used to convert h into (non-balanced) n-ary, but how do you make it balanced?

@@ -1,0 +1,1 @@
+If I initialise a stream as follows               OpenWrite["~/example"]      How do I close this stream? `Close` seems to expect a name, but I do not know the name of the stream in this format. [edit] - Thanks for all the responses. It seems the simplest solution was               Close[<full path name to file>]      I had previously tried Close["~/example"] but to no avail.

@@ -1,0 +1,1 @@
+I am trying to color a simple 2D plot (using `ListLinePlot`) based on data in the form of 3-vectors.               ListLinePlot[data[[All, {1, 2}]]]      I would like to use one of the `ColorData` color schemes (like "Temperature") for the line color, depending on this third value in my table 3-vectors. That is,`Data[[All, 3]]` will be the source of the color-coding values.

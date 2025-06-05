@@ -1,0 +1,1 @@
+I want to solve the time-dependent Schroedinger equation: $$ i\partial_t \psi(t) = H(t)\psi(t) $$ for matrix, time-dependent $H(t)$ and vector $\psi$. What is an efficient way of doing this so that it efficiently scales to high- dimensional spaces?

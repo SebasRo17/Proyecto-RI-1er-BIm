@@ -1,0 +1,1 @@
+Is there any simple way to increase or decrease the decimal places in the frame ticks. I want to make the y axis ticks of the first two and the second two graphs look similar. ![enter image description here](http://i.stack.imgur.com/YwVD5.png)

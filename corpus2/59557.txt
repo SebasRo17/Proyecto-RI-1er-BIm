@@ -1,0 +1,1 @@
+I am trying to cluster data using the squared correlation coefficient since in the case of my data, -1 correlation is equivalent to 1 correlation (polarities do not matter). How can this be done in Mathematica using the k-means algorithm?

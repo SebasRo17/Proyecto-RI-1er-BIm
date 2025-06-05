@@ -1,0 +1,1 @@
+How to write a function to remove comments from a .m source file preserving formatting such as line wrapping reasonably? This means if I have               foo;     (* comment 1 *)     bar[         baz (* comment 2 *)         (* comment 3 *)     ];      I'd ideally end up getting               foo;     bar[         baz     ];

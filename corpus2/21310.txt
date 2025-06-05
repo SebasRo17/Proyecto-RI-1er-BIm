@@ -1,0 +1,1 @@
+I would like to do a For loop with a jump 2*Pi instead of 1.               For[j = 0, j <= nmax, (incr = 2 Pi), ...]      Actually what I want to do is `j = n 2 Pi`, where `n` takes values from 0 to `n-1`, so the iteration stops at `nmax = (n - 1) 2 Pi`. I know this is a pretty trivial question, but I have not found anything equivalent in the "Documentation center".

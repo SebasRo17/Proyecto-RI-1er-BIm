@@ -1,0 +1,1 @@
+Is there a dictonary available that contains physics slang like spinor, vacua, gauge etc.?? How would one integrate such a file (or a simple text file containing the words) into the front-end without too much of a hassle?

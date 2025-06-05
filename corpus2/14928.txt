@@ -1,0 +1,1 @@
+The documentation for `ListConvolve` mentions that "ListConvolve works with sparse arrays", which is true. The result, however is never sparse, eg:               a = SparseArray[50 -> x, 1000];     b = SparseArray[40 -> 2, 50];     ListConvolve[b, a]      Is there a way to do "sparse convolution"? (The background is multiplication of high-degree many variables polynomials.)

@@ -1,0 +1,1 @@
+I just changed my default notebook context to 'unique to this Notebook' so that variables don't roll across numerous open notebooks. Doing this, however, made the command ClearAll["Global*"] stop working to clear all declared variables. I also tried, `ClearAll[Evaluate[Context[] <> "*"]]`, but that didn't work either. Any ideas?

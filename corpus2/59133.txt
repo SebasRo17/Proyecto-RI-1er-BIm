@@ -1,0 +1,1 @@
+Consider A function $f:\mathbf{C}^2\rightarrow \mathbf{C}$ defined as $$f_{\alpha, \beta}(z,w)=\frac{\alpha}{z}+\frac{\beta}{w}$$ where $\alpha$ and $\beta$ both are complex number. I want to plot this function for different parameter value $\alpha$ and $\beta$ the function $f_{\alpha, \beta}$. Can anyone help me in coding the same in Mathematica?

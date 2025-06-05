@@ -1,0 +1,1 @@
+Given a spatial curve represented by a parametric equation, is it possible in _Mathematica_ 9 to calculate symbolically (or at least numerically) the volume of its convex hull?

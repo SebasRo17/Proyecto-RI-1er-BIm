@@ -1,0 +1,1 @@
+If I were to have an equation, say something similar to...               (1-Sqrt[x - I y])/(1+Sqrt[x - I y]) = A + I B      Where I = Sqrt[-1], is there a way for Mathematica to give me A = ... and B = ..., i.e. both real and imaginary parts of the equation simultaneously?

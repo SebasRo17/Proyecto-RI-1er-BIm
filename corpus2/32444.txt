@@ -1,0 +1,1 @@
+I am fairly new to _Mathematica_ and I cannot figure out how to plot an epicycloid. I have plotted some neat looking things in my attempts, but can't make one. I am not looking to make an animation, just the result of an epicycloid. Would I use a `PolarPlot` or `ParametricPlot`? How do I get a static picture of an epicycloid?

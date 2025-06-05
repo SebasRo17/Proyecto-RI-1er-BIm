@@ -1,0 +1,1 @@
+Surfing on the net I stared at this pattern. It´s a bamboo steam, and it´s awesome. I'm new to Mathematica so I'm a little lost, I'd like to try to reproduce this pattern, of course in a very simplified manner. Does anyone have any tips on how I could start it. Thanks.. ![bambusa_steam](http://www.quorumtech.com/media/image_gallery/cache/Bamboo_stem.jpg)

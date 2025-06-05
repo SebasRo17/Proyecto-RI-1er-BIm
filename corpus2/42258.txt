@@ -1,0 +1,1 @@
+I have a Table of values e.g. {{x,y,z},{x,y,z},{x,y,z}…} How do I replace the the "z" column with a List of values?

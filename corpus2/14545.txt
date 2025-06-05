@@ -1,0 +1,1 @@
+How can I get a Taylor expansion of the Sin[x] function by the power series?

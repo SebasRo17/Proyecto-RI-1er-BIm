@@ -1,0 +1,1 @@
+Where can I find documentation about the methods used in the `Classify` command in _Mathematica 10_? Specifically, how does the method `Markov` work? Any pointers to the documentation for the methods available in `Classify`, or an explanation of how the method `Markov` works, will be appreciated.

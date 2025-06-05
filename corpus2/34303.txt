@@ -1,0 +1,1 @@
+Executing               plot = Plot[x^2, {x, 0, 100}, PlotLabel -> "Plot"];     SetDirectory[NotebookDirectory[]];     Export["plot.pdf", plot, "PDF"];      results in ![Distorted fonts](http://i.stack.imgur.com/Nvd7P.png) Is this a bug? OS is Windows 8, 64bit.

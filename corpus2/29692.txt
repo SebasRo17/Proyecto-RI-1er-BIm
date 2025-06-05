@@ -1,0 +1,1 @@
+I have a complex function F[x,y], and now I want to plot the contour F[x,y] = 0. What can I do in order to have the contour plot vs Re[x] and y (That is, I want to treat y a real variable and x a complex one)? Thanks you very much!

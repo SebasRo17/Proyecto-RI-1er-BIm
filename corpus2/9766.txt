@@ -1,0 +1,1 @@
+I want to monitor current results with `Dynamic`               ls = {}; k = 1;          Dynamic[      Refresh[        AppendTo[ls, k++];        Last@ls     , UpdateInterval -> 10]]      For some reason output updates instantaneously and not every 10 seconds

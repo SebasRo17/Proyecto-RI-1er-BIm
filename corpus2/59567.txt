@@ -1,0 +1,1 @@
+I am looking for a way to add a legend showing the identity of various atoms (with different colours) to this picture. Any Clues?               Import["ExampleData/1PPT.pdb", "Rendering" -> "BallAndStick"]      ![enter image description here](http://i.stack.imgur.com/FSFoH.png)

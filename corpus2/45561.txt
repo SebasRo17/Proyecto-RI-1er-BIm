@@ -1,0 +1,1 @@
+How to plot such functions in _Mathematica_? Let $a_0, p,g,c$ be any positive integers, defining: $$a_{n+1} = \begin{cases}\frac{a_n}{p} &, a_n \text{ divisible by p}\\\ ga_n +c &, a_n \text{ odd}. \end{cases}$$ PS I am new to _Mathematica_ , I am really sorry if my ignorance is borderline offensive.

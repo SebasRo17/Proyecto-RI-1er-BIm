@@ -1,0 +1,1 @@
+I need to outline with border the group of cells in ArrayPlot. More precisely in my case I would like to outline all blocks of two black squares in the following line.               ArrayPlot[{{0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1}}, Mesh -> True]

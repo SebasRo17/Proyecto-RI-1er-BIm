@@ -1,0 +1,1 @@
+For example I have some global assignments `x=1;y=2;z=3` and an expression `Hold[x*y/z]`. How can I now extract variables `{x,y,z}` from this expression, do some manipulations with them and substitute their values back? The point is to be able to this without providing variable names by hand inside of `Block` like so:               Block[{x,y,z},       ..     ]

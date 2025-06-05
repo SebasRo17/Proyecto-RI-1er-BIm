@@ -1,0 +1,1 @@
+`%` allows to refer to the result of the preceding calculation (preceding in time) but this seems not necessarily to be the cell just **above** a given cell. How can one refer to the result of the cell just above ?

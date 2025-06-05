@@ -1,0 +1,1 @@
+I have the image of a matrix (download it to see it bigger): ![a matrix](http://i.stack.imgur.com/NQr6I.png) Is there a way to convert this into a Mathematica numerical matrix, using Mathematica?

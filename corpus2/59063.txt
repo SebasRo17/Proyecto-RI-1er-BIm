@@ -1,0 +1,1 @@
+I have               (60 - r/2) (70 - ca - r/2) - (60 - r/2 - ca + (4/25) (70 - r/2 - ca))*(70 - r/2)==0     Reduce[%, {ca}]      But How could I obtain directly a function as ca[r_] :=...?

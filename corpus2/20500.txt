@@ -1,0 +1,1 @@
+Is there a way to run several RLink computations via REvaluate[] in parallel, e.g. with ParallelTable[]?

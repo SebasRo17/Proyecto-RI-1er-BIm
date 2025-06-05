@@ -1,0 +1,1 @@
+When I export a `Plot` to `PDF`, a journal publisher complains that they do not have the Mathematica fonts. I believe there is a way to inhibit Mathematica from substituting its fonts (e.g., for `"("`) but I cannot figure it out. I tried this but it did not work.                Plot[<deleted> , BaseStyle -> {PrivateFontOptions -> {"OperatorSubstitution" ->False}}]

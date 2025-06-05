@@ -1,0 +1,1 @@
+Mathematica 8 includes " _Wolfram | Alpha_ integration", but the features of Alpha available in Mathematica seem not to include many of those available in the "Pro" version of Alpha. Does Mathematica 8 include Alpha's Plus features? If not, has Wolfram announced plans to include them?

@@ -1,0 +1,1 @@
+Is there a simple way to switch off `Dynamic` evaluation for a particular cell? I usually delete the cell if it disturbs other evaluations or affects the performance too dramatically.

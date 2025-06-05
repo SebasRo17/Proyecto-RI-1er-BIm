@@ -1,0 +1,1 @@
+I am trying to expand a polynomial in terms of orthogonal polynomials (in my case, Hermite). Maple has a nice built-in function for this, `ChangeBasis`. Is there a similar function in _Mathematica_? And if not, where should I look for the algorithm?

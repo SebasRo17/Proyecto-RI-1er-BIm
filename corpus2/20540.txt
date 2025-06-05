@@ -1,0 +1,1 @@
+How can I combine or separate sums in _Mathematica_ in the way that `Together` or `Expand` work for rational expressions？ For example, how does one transform from $$\text{Sum}\left[\frac{a}{\sqrt{n!}},\\{n,0,\infty \\}\right]+\text{Sum}\left[\frac{b}{\sqrt{n!}},\\{n,0,\infty \\}\right]$$ to $$\text{Sum}\left[\frac{a+b}{\sqrt{n!}},\\{n,0,\infty \\}\right]$$ and vise versa?

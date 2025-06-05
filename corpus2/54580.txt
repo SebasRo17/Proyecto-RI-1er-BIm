@@ -1,0 +1,1 @@
+I want to generate a Matrix of given size whose elements are not specified I can use               Array[a, {3, 2}]      to get               {{a[1, 1], a[1, 2]}, {a[2, 1], a[2, 2]}, {a[3, 1], a[3, 2]}}      however i would like to have               {{a[[1, 1]], a[[1, 2]]}, {a[[2, 1]], a[[2, 2]]}, {a[[3, 1]], a[[3, 2]]}}

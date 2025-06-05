@@ -1,0 +1,1 @@
+Is there any way to start Mathematica without the main menu bar? To be precise: ![what is the menu bar](http://i.stack.imgur.com/qizbK.png) Sometimes I make standalone mini-applications that I would like to just have in their own little windows without the cognitive weight of the entire Mathematica system bearing down upon my little one-off uses.

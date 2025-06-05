@@ -1,0 +1,1 @@
+I write such a line in _Mathematica_ :               {Slider[Dynamic[s]], Dynamic[f[x_] := s*x]}      After evaluation, the CPU immediately runs at full power. And if you scroll the page, it turns out that as soon as this line appear on the screen, the CPU begin to work. This really confused me a lot. Can anyone help?

@@ -1,0 +1,1 @@
+n1 = 1/3 (2 + (-Sqrt[3] + 2 Sin[(2 π)/9])/(Sqrt[3] Cos[π/9] - Sin[π/9]));     n2 = 1/2 + Sin[π/18]/(3 Cos[(2 π)/9] + Sqrt[3] Sin[(2 π)/9]);     n3 = 2/3 (1 - Cos[4 π/9]);      These three expressions are numerically equivalent. How can I coax _Mathematica_ to simplify the first two into the third? `FullSimplify` only returns the original forms.

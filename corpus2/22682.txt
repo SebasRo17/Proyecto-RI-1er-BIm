@@ -1,0 +1,1 @@
+Is there any function in Mathematica which directly gives an array of integer numbers with no common factor with a certain integer number? For example, all the integer numbers between 0 and 1728, which do not have any common factor with 12 (apart from the common factor one ofcourse.) I know how to make a program to do that, I just wonder wether there is a comand to do it.

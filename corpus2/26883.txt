@@ -1,0 +1,1 @@
+I'm afraid this is going to be a really stupid question. Evaluating the following definite integral               Integrate[Sqrt[1 - (x^2 + y^2)], {x, -1, 1}, {y, -1, 1}]      gives               (2/3) (Pi - I (-2 + Log[4]))      I don't want the imaginary part. Adding the option               Assumptions -> x^2 + y^2 <= 1      doesn't work. What did I miss?

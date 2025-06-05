@@ -1,0 +1,1 @@
+How does one shade the basin(s) of attraction of a phase plot in _Mathematica_? I have been trying to do this using the system $$\begin{align*} \dot x &= y\\\ \dot y &= -9\sin(x) - 0.20y \end{align*}$$ but I have gotten nowhere.

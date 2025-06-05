@@ -1,0 +1,1 @@
+I'm new to _Mathematica_. When I do linear algebra, I wonder if I can have an inequality such as $\mathbf x^\prime\mathbf A\mathbf x > \mathbf x^\prime\mathbf x$, where $\mathbf x$ is a column vector and $\mathbf A$ is an $n\times n$ matrix, reduced to something like "$\mathbf I-(\mathbf A^\ast+\mathbf A)/2$ is positive definite".

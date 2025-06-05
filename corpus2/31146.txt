@@ -1,0 +1,1 @@
+I will like to get a density plot (in _Mathematica 8_ ) as in: Make legend same height as plot.   However, anytime I run               DensityPlot[ Sin[x] Sin[y], {x, -4, 4}, {y, -3, 3}, PlotLegends -> Automatic]      I get a red coloured `"PlotLegends"` within the input text followed by an error message. I need your help!

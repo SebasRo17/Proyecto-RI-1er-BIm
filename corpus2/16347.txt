@@ -1,0 +1,1 @@
+Is there any software where this kind of symbolic calculation is possible?               s = 0     for i = 1 to m        j = 2 i + a - t        if (j > 0) s = s + a      I want s as a function of m,a,t, where m,a,t are integers. This is a toy example. In my calculation a lot of if/else, minimum of two values, etc., are involved.

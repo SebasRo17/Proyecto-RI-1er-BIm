@@ -1,0 +1,1 @@
+I would like to apply a conformal map to a jpg. For example, the map $z\mapsto z^2$ to this image: http://thumbs3.ebaystatic.com/d/l225/m/mGyeriV7l-YArkeBd9oMUng.jpg Any help on how to do this?

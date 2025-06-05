@@ -1,0 +1,1 @@
+I have a following code (which is simplified version of what I am doing):               For[i = 1, i <= 5, i++,      f[x_] := Sin[x]^2        Print[{i, f[i]}]      ]      And the question is simple: why such thing doesn't work at all. It does not write any output, nor it prints anything, nor it displays any error. Just nothing.

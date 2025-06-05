@@ -1,0 +1,1 @@
+In `ListPointPlot3D`, it seems the only point style available is the default, because there is no `PlotMarkers` option for this function. Is there a way to change the point style? For example, what if I want to draw the points as small cubes?

@@ -1,0 +1,1 @@
+Is there any **new** and **Important** feature in version 10 that the regular not-so-advanced Mathematica user must know? How do the new features of version 10 make the programing more efficient or faster? What are the changes which have led to faster computation?

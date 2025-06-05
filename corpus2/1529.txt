@@ -1,0 +1,1 @@
+So far I've only seen the front end work in a one-cell-below-the-other manner, so I am probably not expecting much of this question, but here it goes. Is there any way to create a document with text arranged in columns? Perhaps a way to create a cell with two (or more) inline cells with fixed locations that grow as you type? Any ideas?

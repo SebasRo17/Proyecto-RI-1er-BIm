@@ -1,0 +1,1 @@
+Is it possible for Mathematica to solve an equation like $\nabla f(\mathbf{r}) = - \mathbf{E}(\mathbf{r})$ for $f(\mathbf{r})$? I tried `Reduce[Grad[f[x,y,z],{x,y,z}]== -{ex,ey,ez}, f]` but that does not work.

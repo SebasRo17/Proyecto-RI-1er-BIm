@@ -1,0 +1,1 @@
+How can I factor 'integers' over other quadratic number fields (not just gaussian integers). For instance, how could I factor $7 = (3 + ω)(2 − ω)$ over Eisenstein integers ($ω = \frac{-1+ I \sqrt{3}}{2}$) What I want to achieve is something like `Factor[n, Extension->Sqrt[n]]` Apologies for any misused terminology :)

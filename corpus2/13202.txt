@@ -1,0 +1,1 @@
+This seems like a very simple question, the answer to which should be obvious to me. So I won't be offended if this question is closed. But I'm having trouble figuring out the answer. I would like to write a function that returns `True` if a list contains one or more numbers greater than 1. Why does `MemberQ[{2, 1}, # > 1 &]` return `False`? Thanks.

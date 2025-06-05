@@ -1,0 +1,1 @@
+Sometimes I get really tired of Preparing data for making an ErrorListPlot using `Thread` and friends. Is there a simpler way to plot an ErrorListPlot with only y error bars? Nothing is mentioned in the documentation.

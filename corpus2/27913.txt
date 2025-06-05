@@ -1,0 +1,1 @@
+I'm looking for a solution (graphic, numeric or analytic) for a function of the form: $$a^2\tanh(x)=\tan(ax),\quad a ≥ 1,\ x > 0$$ preferably using _Mathematica_. Any advice?

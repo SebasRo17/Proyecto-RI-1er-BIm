@@ -1,0 +1,1 @@
+How do I refer to global variables inside modules if the same name is used for a local one? In code, I want that               proc[a_] := Module[{b},       b = a;       {"b" -> b}       ]     b /. proc[1]      returns 1. Here "b" is to be replaced by the properly escaped global variable name.

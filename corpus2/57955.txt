@@ -1,0 +1,1 @@
+When I compile a very big function and give it input the function returns error. I realized that this is because the value of the function becomes smaller than the smallest machine number. Is it possible to tell MMA that when I compile a function if the output of the function becomes smaller than the smallest machine number it should return the smallest machine number or zero?

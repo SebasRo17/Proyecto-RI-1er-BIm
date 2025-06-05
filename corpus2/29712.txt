@@ -1,0 +1,1 @@
+I have a list of expressions in a text file. I would like mathematica to evaluate and export the results at the end of the same file or in a new file. The expressions are in seperate lines in the text file.

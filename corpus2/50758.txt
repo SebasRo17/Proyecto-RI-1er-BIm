@@ -1,0 +1,1 @@
+I am trying to solve the equation: $-(d^2/dx^2+d^2/dy^2)\psi+(x^2+y^2-2)\psi=0$ Here, is my code:               Eq = -(D[ψ[x, y], {x,2}] + D[ψ[x, y], {y,2}]) + (x^2 + y^2 - 2) ψ[x, y] == 0;          DSolve[Eq, ψ, {x, y}]      The output returns an unevaluated expression. Why do I receive such a thing? The solution to the PDE is: $\psi=\exp(-1/2(x^2+y^2))$

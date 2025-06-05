@@ -1,0 +1,1 @@
+I have a certain style what to write where in my Mathematica printouts. But for each notebook I have to define it again. Can I make my style somehow the default used by every notebook?

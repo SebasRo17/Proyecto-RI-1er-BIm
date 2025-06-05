@@ -1,0 +1,1 @@
+I have to find the series expansion of the inverse function of : $\arctan\left(\frac{\ln(1+x)}{1+x}\right)$ How do I find out the series expansion of any inverse ? Note: The inverse of a function $f$ is the unique function $f^{-1}$ that verifies $f(f^{-1}(x))=x$ (given $f$ is a bijection)

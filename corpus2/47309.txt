@@ -1,0 +1,1 @@
+data = WeatherData["WMO44207", "Temperature", {{1950}, {2013}}]      This list contains 11400 records ... date,temperature value .... I want to export all records as an XLS file. How can I do that?

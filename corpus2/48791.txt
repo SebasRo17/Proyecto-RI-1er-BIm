@@ -1,0 +1,1 @@
+When is there an advantage to using `Block` in `Compile`? For instance, if I have a multiple-step code, how do I decide which variable assignments I should put into the first argument of `Block[]`? Is it unwise to have functions being evaluated in there?

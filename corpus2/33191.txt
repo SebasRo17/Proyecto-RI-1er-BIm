@@ -1,0 +1,1 @@
+How do I highlight a single period of a trig function say by using color and/or thickness when the graph itself extends further than just a single period? Thanks...Gregory Lane

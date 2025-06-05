@@ -1,0 +1,1 @@
+I have a simple function: `f[x0_,y0_]:= Module[{x=x0,y=y0},For[i=0,i<2,i++;Print[x],Print[x+y]];]` So when I call it:   `f[2,3]` I get: > 5   >  2   >  5   >  2 Why not: > 2   >  5   >  2   >  5 as expected? Also my indentation of - or + don't seem to format?

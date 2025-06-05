@@ -1,0 +1,1 @@
+i want to plot a diagram by this command using mathemathica. but it plotted as a beeline while it must be have a bit aberration.what is my fault in plotting? ![enter image description here](http://i.stack.imgur.com/EYiDc.png) i want to display my diagram such as this.![enter image description here](http://i.stack.imgur.com/T21BX.png)

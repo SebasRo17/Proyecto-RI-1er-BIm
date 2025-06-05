@@ -1,0 +1,1 @@
+I want Sinc'[0] to return 0, but instead it returns Indeterminate. I've tried               Unprotect[Sinc]     Unprotect[Derivative]     Derivative[1][Sinc][0] ^= 0      But it doesn't work. Maybe this needs to be similar to this (from the help files for Derivative)               f'[x_] := If[PossibleZeroQ[x], N[0, Precision[x]], (x Cos[x] - Sin[x])/x^2];

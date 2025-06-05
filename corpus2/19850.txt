@@ -1,0 +1,1 @@
+J.M.'s answer to Extruding along a path related to custom cross-sections appears to answer a question I have been puzzling over for some time. I am interested in producing a tube with the stadium or stadion cross-section of oblong ductwork. I look at the code and am lost as to how to use it. Any suggestions?

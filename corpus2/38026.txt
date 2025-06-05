@@ -1,0 +1,1 @@
+I want to have students submit articles that include Mathematica demonstration projects in a document that is on Google sites. I am having problems with embedding the JS code. Could you provide step-by-step instructions. Not sure of the tag for this question.

@@ -1,0 +1,1 @@
+This works as expected:               Table[x[1], {x[1], 1, 10}]      However, the parallel version               ParallelTable[x[1], {x[1], 1, 10}]      complains that the expression cannot be parallelized. (The same applies to other iterators like Subscript[x,1] etc. instead of x[1].) How can I fix that?

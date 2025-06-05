@@ -1,0 +1,1 @@
+How could I export the following as a single image and set its dimensions ?               Column[{Row[{Graphics@Disk[], Graphics@Rectangle[]}],             Row[{Graphics@Rectangle[], Graphics@Disk[]}]}]      ![enter image description here](http://i.stack.imgur.com/3diB3.png)

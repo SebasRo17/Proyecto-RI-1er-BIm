@@ -1,0 +1,1 @@
+How to programmatically comment out the entire content of multiple `.m` source files assuming they start with correct Mathematica syntax? I need it to be robust so the content of the file can be anything as long as it's valid `.m` source file.

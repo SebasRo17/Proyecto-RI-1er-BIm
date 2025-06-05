@@ -1,0 +1,1 @@
+This works fine:               {3, -5, 2, 7, -6, 3} /. x_ /; x < 0 :> 0     (*{3, 0, 2, 7, 0, 3}*)      and this works fine:               {3, -5, 2, 7, -6, 3} /. _?Negative :> 0     (*{3, 0, 2, 7, 0, 3}*)      I am trying to use something like this:               {3, -5, 2, 7, -6, 3} /. _?(< 0) :> 0      but I am not able to form it correctly. any idea what is wrong?

@@ -1,0 +1,1 @@
+How do I plot this on Mathematica version 5.2? $\frac{4}{\pi} \sin{x} + \frac{4}{3 \pi} \sin{3 x} + \cdots + \frac{4}{(2 N+1) \pi} \sin{(2 N+1) x}$ over $x \in [-\pi,\pi]$ for $N= 3, 6, 12, 24$. I tried and got this error: ![enter image description here](http://i.stack.imgur.com/ju3UT.jpg)

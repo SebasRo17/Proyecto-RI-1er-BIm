@@ -1,0 +1,1 @@
+I have a notebook which takes in a user-defined function and starting value and tracks the orbit of the particle under iteration of the function. The problem occurs when the user enters a starting value with an orbit that goes to infinity.               f[x_]:=x^2;     x=1.1;      I get the error message: > General::ovfl: How can I catch this?

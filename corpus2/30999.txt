@@ -1,0 +1,1 @@
+How do i safely, efficiently, and elegantly select compatible options? I normally do               foo[opts:OptionsPattern[]] := Module[         {goodOpts},         goodOpts = FilterRules[{opts}, Options[bar][[All,1]]];         bar[goodOpts]     ]      Is there any loophole where this can cause bugs? Is there a more efficient and more elegant way?

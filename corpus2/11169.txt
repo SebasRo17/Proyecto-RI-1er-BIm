@@ -1,0 +1,1 @@
+I have the following equation. Why aren't `Solve` and `Reduce` able to find the solution?               Reduce[2 n - Tanh[z] Tanh[2 n z] == 0, z]

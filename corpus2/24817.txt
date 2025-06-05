@@ -1,0 +1,1 @@
+I have a list of lists of the form:               {{1, 2}, {2, 4}, {2, 8}}      But I want to multiply only the second dimension of that data by a constant. I know I could do this with a loop but that is "dirty". There has to be a better way. For example if I multiply the second dimension by 2 I would get:               {{1, 4}, {2, 8}, {2, 16}}

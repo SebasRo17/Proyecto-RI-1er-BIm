@@ -1,0 +1,1 @@
+I need to create an array subtracting two arrays from another array. I know how to subtract one:               am = DeleteCases[amp, Alternatives @@ af]      I can subtract an array each time but there must be a way to subtract more than one array at once. So I want to subtract `af` and `ai` from `amp`. How can I do that at once?

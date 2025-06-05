@@ -1,0 +1,1 @@
+I found an example of `FindRoot` usage that I couldn't find documented. It looks like:               FindRoot[f[x] == 0.4, {x, 0, 1, 0, 1}]      The documentation shows this case `FindRoot[lhs==rhs, {x, xstart, xmin, xmax}]` searches for a solution, stopping the search if x ever gets outside the range. But the example I found has an extra argument. What does it mean? Thanks.

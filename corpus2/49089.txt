@@ -1,0 +1,1 @@
+I would like to recreate the effect of the one in this video: Breathing walls ![enter image description here](http://i.stack.imgur.com/8Pgul.gif) This is my first time manipulating images, and because of that, I don't even have a clue where to start. But I think the way to do this must be transforming the geometry of the image with sine waves, correct me if I'm wrong.

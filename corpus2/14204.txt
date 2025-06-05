@@ -1,0 +1,1 @@
+`Table[10i+j,{i,4},{j,3}]` will generate a table that looks like this: `{{11,12,13},{21,22,23},{31,32,33},{41,42,43}}` I would like to have a table with elements like `{10i+j, i, j}`, I mean `{{11, 1, 1}, {12, 1, 2}, ..., {43, 4, 3}}` How do I make such a table?

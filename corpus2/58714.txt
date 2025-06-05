@@ -1,0 +1,1 @@
+How can I alter `Commonest` so that, when I give it an input of four zeroes and ones such as $\\{0,1,1,0\\}$, which has an even split in its elements, it returns the first element of the input list, which happens to be $0$ in the example?

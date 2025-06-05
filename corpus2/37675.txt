@@ -1,0 +1,1 @@
+I am writing some code in which I combine a `ParametricPlot[]` with a `RegionPlot[]`. _Mathematica_ is very good at figuring out appropriate bounds for the `ParametricPlot[]`, and I would like to reuse the same bounds for creating the `RegionPlot[]`. How can I tell _Mathematica_ to reuse the bounds?

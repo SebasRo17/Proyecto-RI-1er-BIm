@@ -1,0 +1,1 @@
+I don't have access to Workbench 2, but I tried a trial version of _Mathematica_ 9\. On reading about the features of Workbench 2, I found that it also supports code completion. I am looking forward to buying it for student V8 I bought. My first question is: are they different or the same? My second question is: does Workbench 2 support graphics visualization and programming?

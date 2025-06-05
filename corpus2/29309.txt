@@ -1,0 +1,1 @@
+I exported a list of characters say: Export["hello.txt", {t, r, $\theta$, $\phi$}, "List"]; the file has the correct symbols when opened with a text editor, however, when I imported it with Mathematica: old = Import["hello.txt", "List"] I get: {t, r, Î¸, Ï} Any idea of How can I recover the original symbols?

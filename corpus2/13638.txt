@@ -1,0 +1,1 @@
+I'm a bit new to the application, and I'm not sure how to draw a parallelepiped in _Mathematica_.

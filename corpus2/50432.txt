@@ -1,0 +1,1 @@
+Is there a way to tell mathematica to factor 1/(1-x^2) from a large expression? For instance if the expression is A_1+A_2+A_3 and I want to factor 1/(1-x^2) from A_1+A_2 but leave A_3 alone.

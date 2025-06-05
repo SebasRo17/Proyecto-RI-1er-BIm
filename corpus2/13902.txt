@@ -1,0 +1,1 @@
+I saw a recent question from M.R. and realized there is no function to compute the chromatic index and number of a graph, other than a really slow method in the now deprecated _Combinatorica_. So, how can I compute the chromatic index and number of a graph?

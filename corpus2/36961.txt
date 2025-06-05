@@ -1,0 +1,1 @@
+I can't find how to calculate path integrals of complex functions in the complex plane. For example: $$\oint_{\mid z \mid =2}\frac{1-e^z+z}{z^3 (z-1)^2}dz$$

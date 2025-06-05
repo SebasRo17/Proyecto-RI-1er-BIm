@@ -1,0 +1,1 @@
+I'm a very beginner in Mathematica 8 programming. While trying to play a little with tensor analysis I encountered a problem. How to define for example vector in such manner: **v** ={$v_1,v_2,v_3$} For now I get the recursive definition, due to the situation in which the **v** variable is on the right-hand and left-hand sides.

@@ -1,0 +1,1 @@
+How do I draw the intersection of these functions?               SphericalPlot3D[{Csc[ϕ], Sqrt[2]}, {θ, 0, 2 π}, {ϕ, 0, π},          BoxRatios -> {1, 1, 1}, AxesLabel -> {x, y, z}, Mesh -> None,          PlotRange -> {-1.5, 1.5}, PlotStyle -> Directive[Blue, Opacity[0.1]]]      ![](http://i.stack.imgur.com/C4IFa.png)

@@ -1,0 +1,1 @@
+I need to find all clusters of adjacent white points in a binary image. By term "adjacent" I mean that coordinates of two points differ by no more than 1 (i.e. the points `{0,0}` and `{1,1}` are adjacent). How to do this in _Mathematica_ efficiently?

@@ -1,0 +1,1 @@
+How to select all elements above the main diagonal of matrix? I need to create a list of them.

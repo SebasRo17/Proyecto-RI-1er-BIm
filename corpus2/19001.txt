@@ -1,0 +1,1 @@
+I have a presentation to do and i am thinking about using _Mathematica_ instead of Powerpoint/Keynote as i have quite a few animations i would like to show. When using _Mathematica_ in slideshow mode, will the Apple remote work and let me move between slides ?

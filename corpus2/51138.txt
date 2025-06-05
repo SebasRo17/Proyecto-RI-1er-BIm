@@ -1,0 +1,1 @@
+i have this integral shown below is equal to 1, and i need to find "a" on mathematica, but I'm not sure how. integral (from 0 to a) sqrt((-50.8938 sin(8.4823 t))^2+(4-11.3097 sin(11.3097 t))^2) dt = 1 any suggestions?

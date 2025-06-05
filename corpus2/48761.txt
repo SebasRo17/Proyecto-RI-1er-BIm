@@ -1,0 +1,1 @@
+How can I find a function that fits the plot from the SmoothHistogram function? For instance if I have data like this and plot a Smooth Histogram, how can I get a function that fits the plot?               data = {4, 4, 4, 4, 1, 1, 4, 1, 5, 5, 5, 5, 5};     SmoothHistogram[data]      ![plot](http://i.stack.imgur.com/m1Kcg.png)

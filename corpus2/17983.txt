@@ -1,0 +1,1 @@
+How can I draw a picture like the following using _Mathematica_ 's graphics primitives? ![picture](http://i.stack.imgur.com/erDdu.jpg)

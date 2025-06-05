@@ -1,0 +1,1 @@
+Normally I try to stay away from asking RTFM- questions but concerning docked cells I am currently groping in the dark. The documentation examples tell me how to create a new window containing a docked cell, but not how to setup a cell as docked cell in my existing .nb file. Am I to use (edit) the notebooks stylesheet or is there a command like e.g. SetOptions for that matter?

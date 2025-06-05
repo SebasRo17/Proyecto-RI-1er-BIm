@@ -1,0 +1,1 @@
+I want to use `\.bd` which leads to `½` as part of the name of a symbol in the front end ( _e.g._ `d½[a_,b_]`). Will this lead to bad effects? I cannot find any documentation for this symbol.

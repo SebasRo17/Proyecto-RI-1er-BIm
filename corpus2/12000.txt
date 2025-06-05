@@ -1,0 +1,1 @@
+Integrate[DiracDelta'[y - z] DiracDelta[x - z], {z, -Infinity, Infinity},       Assumptions -> x \[Element] Reals && x \[Element] Reals]

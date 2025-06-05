@@ -1,0 +1,1 @@
+I would like to adjust the plot range of a PairedBarChart along the 'bar' direction. However,               PairedBarChart[RandomReal[10, 10], RandomReal[10, 10],        PlotRange ->          {{0, 20} (*along bar/ labeled axis*),           Automatic (*along center axis*)}]      doesnt work.

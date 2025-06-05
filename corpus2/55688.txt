@@ -1,0 +1,1 @@
+Is it possible for Mathematica to convert a 3D plot into a 2D contour plot without having to recompute the values for each point? I realize that looking directly down at the 3D plot will be similar to the contour plot, but I'm wondering if Mathematica is be able to take the 3D plot as input and give the 2D contour plot as output.

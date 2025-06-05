@@ -1,0 +1,1 @@
+I have a calculation that will give me a lot of ordered pairs. For each such pair in a list, I want to square the elements and add them together. Here is an example of the kind of list I have               {{-3 a, 3 a}, {-1 a,  a}, {-1 a, a}, {-1 a,  a}}      In this instance I would have `18 a^2` for the first pair and so on.

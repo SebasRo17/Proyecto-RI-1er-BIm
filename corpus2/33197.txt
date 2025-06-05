@@ -1,0 +1,1 @@
+(If this is entirely trivial, although I couldn't find an answer as much as I searched the archives, I will delete the question.) How could I add a keyboard shortcut to evaluate the entire notebook instead of going to `Evaluation -> Evaluate Notebook` again and again ?

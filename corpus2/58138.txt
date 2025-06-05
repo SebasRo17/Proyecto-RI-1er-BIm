@@ -1,0 +1,1 @@
+I would like to code a simple Manipulate-based equalizer to make bass and treble adjustments in wav-file, but I haven't found any clues in documentation. Wiki says that I have to deal with linear filters, but I have no idea what is it. Is it a very advanced stuff?

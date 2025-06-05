@@ -1,0 +1,1 @@
+I have numbers in vector notation. I need to get polynomial notation from them. My numbers are `{0, 1, 23, 5, 15, 0, 0, 0}`. I want to get x + 23x^2 + 5x^3 + 15x^4 from this list. How can I get that polynomial?

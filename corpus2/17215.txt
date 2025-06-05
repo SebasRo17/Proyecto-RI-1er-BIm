@@ -1,0 +1,1 @@
+Why does the `PlotRange` option in               list=Table[{x,Exp[Sqrt[x]]},{x,0,25}];     ListLogLogPlot[list,PlotRange->{0,10},Joined->True]      not work although there is no error-output? The same holds for `ListLogLogPlot`.

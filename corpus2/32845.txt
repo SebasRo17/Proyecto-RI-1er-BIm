@@ -1,0 +1,1 @@
+I'm drawing an image in editing an slide show with the drawing tools. But the aspect ratio of the created drawing seems fixed and not changeable with mouse dragging the border and corner as in other applications. How can I change this ratio?

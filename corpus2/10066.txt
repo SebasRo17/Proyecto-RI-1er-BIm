@@ -1,0 +1,1 @@
+I have constructed a random graph with Mathematica using the `RandomGraph` command. Now I would like to convert this graph to a matrix, but I don't know how. The command `//MatrixForm` just shows the same with "//MatrixForm" so that doesn't help to much either.

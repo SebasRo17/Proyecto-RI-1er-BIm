@@ -1,0 +1,1 @@
+I don't get the meaning of the sign <<>> and also from which line the error is coming as I have a program of more than 30 lines with many defined functions without using "Module" . Is not there any way to display line numbers in Mathematica so that we can know from which line error is coming?

@@ -1,0 +1,1 @@
+What are the min and max arguments to `EdgeDetect`, for all methods and specifically `"Sobel"`? How do I find the limits or ranges of functions in the future? Or is it 255?

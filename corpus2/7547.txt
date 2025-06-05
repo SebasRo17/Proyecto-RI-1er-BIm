@@ -1,0 +1,1 @@
+I just noticed another plot legend question today and while user solutions to this, in particular code by @Jens, are IMO better than the built in solutions, exact positioning often still requires some trial and error. How can I easily position my legends by way of locators?

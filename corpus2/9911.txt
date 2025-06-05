@@ -1,0 +1,1 @@
+Maybe there is a knot in my head, but I would expect that               StringMatchQ["IP1", "IP"]      should return `True` (which it does not) just as               StringFreeQ["IP1", "IP"]      returns `False` (which it does). What am I missing?

@@ -1,0 +1,1 @@
+For example, I typed the following:               data3D = {{3, -1, -6}, {3, -3, -4}, {1, 1, -6}, {1, -3, -2}, {-1,  1, -4}, {-1, -1, -2}};       Needs["TetGenLink`"];      {pts, surface} = TetGenConvexHull[data3D]      But I couldn't get the needed points and surfaces to generate a convex hull, instead I got error messages. How can I make it work or fix it?

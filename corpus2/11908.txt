@@ -1,0 +1,1 @@
+The @ operator in Mathematica is right-associative by default, i.e.               f@g@h      evaluates as               f@(g@h)      Is it possible to make the @ operator evaluate the involved functions in a left-associative order `(f@g)@h` instead?

@@ -1,0 +1,1 @@
+Ok , I just worked out that every natural number can be expressed as sum of powers of 2, eg: (9 = 2^3 + 2 ^0). I am looking for an algorithm which does the splitting of natural number into powers of 2 efficiently.

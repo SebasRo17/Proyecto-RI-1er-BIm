@@ -1,0 +1,1 @@
+Could anyone tell me how to use `NyquistPlot` with a first argument that is not a transfer function model? The expression I'd like to pass to `NyquistPlot` is `Exp[z]Cos[z]`.

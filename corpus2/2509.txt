@@ -1,0 +1,1 @@
+Usually, when I define a function and then use it later, the function name is colored in black. But every once in a while, the function color is blue, both in its definition and when I use it later. The blue colored functions work as expected. I can't find any difference in the way I define them or any pattern. What does the blue coloring mean?

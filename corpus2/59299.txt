@@ -1,0 +1,1 @@
+Say I have the following input:               Reduce[{t*c==50, t==5}]      the output: > >     t == 5. && c == 10. >   Is there a way to create a variable `x` that gets assigned the value of `c` from the output without actually having to type `x = 10`?

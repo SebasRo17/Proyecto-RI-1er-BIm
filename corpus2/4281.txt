@@ -1,0 +1,1 @@
+For example, I hate that Mathematica uses `Pochhammer` symbol in outputs and prefer all the expressions in `Gamma` function. How can I ban usage of `Pochhammer`? I also want all outputs to use `HurwitzZeta` rather than `Zeta`. In another instance I want the results to use my own variant of Polygamma function (modified). How can I mandate its usage when possible?

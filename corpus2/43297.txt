@@ -1,0 +1,1 @@
+Has anyone implemented the import of YAML data files into Mathematica? I suppose some sort of transformation into a nested list of rules would be the way to do it. Thanks

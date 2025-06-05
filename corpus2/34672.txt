@@ -1,0 +1,1 @@
+I've plotted a function that varies with respect to time. It's inside a manipulate box, which can vary the time. And I'd like to display the value of the function at the time on the slider on my plot. I've seen it done before, but I've been trying unsuccessfully for the last 40 or so minutes to find out how. Any ideas?

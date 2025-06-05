@@ -1,0 +1,1 @@
+Suppose $y=f(x;p_1,p_2,...)$ and $t=g(x;p_1,p_2,...)$ are given where $p_1,p_2,...$ are some parameters. We want to find a series expansion of $y$ in terms of $t$. Is there a direct command or publicly available program for doing this?

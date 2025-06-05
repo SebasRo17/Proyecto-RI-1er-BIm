@@ -1,0 +1,1 @@
+I want to define a recursive sequence and then ask Mathematica to print a specific value: ![enter image description here](http://i.stack.imgur.com/2wC22.png) Am I doing something wrong?

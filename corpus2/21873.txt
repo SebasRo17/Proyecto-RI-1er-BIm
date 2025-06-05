@@ -1,0 +1,1 @@
+I have this code:               Clear[f]     f = Function[x, x^k/(1 + x^k)];     Manipulate[Plot[f[x], {x, 0, 5}], {k, 1, 10}]      But nothing draws as I move the slider. Am I missing something?

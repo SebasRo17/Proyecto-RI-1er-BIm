@@ -1,0 +1,1 @@
+The help for the `Export` function is absolutely unclear. How can I specify options for my output format? According to the documentation, PNG supports grayscale output. But this doesn't work, I still get an RGB image.               Export["somefile.png", something, "ColorSpace" -> "Grayscale"]

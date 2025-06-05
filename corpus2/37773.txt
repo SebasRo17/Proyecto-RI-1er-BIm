@@ -1,0 +1,1 @@
+What is the module that selects a random sample of size k (without replacement) from a given population of size n, involving the command `Subsets`.

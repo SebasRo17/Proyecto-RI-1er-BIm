@@ -1,0 +1,1 @@
+I am trying to find an explicit solution to a trigonometric equation. It is running for a long time and I didn't get any result, but Maple solves it quickly. Why ?               Solve[ γ == ArcCos[ Cos[α] Sec[θ] ] + ArcCos[ Cos[β] Sec[θ] ], θ]

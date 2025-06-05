@@ -1,0 +1,1 @@
+I have a matrix which should be equal to a null matrix. However due to the numerical precision, a brutal equality test with a matrix initialized with zeros does not work. How should I perform the numerical equality test (with a given threshold for the precision) ?

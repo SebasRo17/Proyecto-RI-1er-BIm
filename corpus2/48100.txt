@@ -1,0 +1,1 @@
+When I insert a figure created using GraphicsGrid into my (LaTeX) document, the axis are hardly visible. How can I increase thicknes of the axis in plot produced by Plot and LogLogPlot?

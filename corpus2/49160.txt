@@ -1,0 +1,1 @@
+If I have an expression, let us say something like this:               Cos[3 x] + π/cofe Exp[y^(c  z)]      how can I get all non-number symbols in the expression which are: > >     {x, cofe, y, c, z} >   I tried this:               Cases[Cos[3 x] + π/cofe Exp[y^(c  z)], _Symbol]      but it didn't work.

@@ -1,0 +1,1 @@
+I evaluated               DSolve[{x[t] x''[t] + x'[t]^2 - g x[t] == 0, x[0] == 0, x'[0] == 0}, x, t]      and the output was `{}`. But this ODE actually has solutions `x[t] = 0` or `x[t] = 1/6*g*t^2` I was able to solve this ODE with Maple 14 ![enter image description here](http://i.stack.imgur.com/kQR6A.png) How can I get the same solutions from _Mathematica_?

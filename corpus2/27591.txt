@@ -1,0 +1,1 @@
+I got the data of each bin by measurements like `{start, end, height}` and I want something like this picture: http://tinypic.com/view.php?pic=2i208hs&s=5 I have no other data for the `Histogram[]`, just what you can see on the linked picture. So any ideas how to do this in _Mathematica_ (version 9)? (The whole thing is for fitting a distibution curve on it.)

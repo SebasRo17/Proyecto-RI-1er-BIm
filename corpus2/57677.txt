@@ -1,0 +1,1 @@
+Provided the drawing .stl is given, and the Young's modulus is know, how to start a FEM vibration mode test in Mathematica? The boundary is required to be fixed and the interested focus is on the different responses over various Young's modulus. ![enter image description here](http://i.stack.imgur.com/yGR80.jpg)

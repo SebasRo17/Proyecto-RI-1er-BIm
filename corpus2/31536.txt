@@ -1,0 +1,1 @@
+Consider the following code               a0 = 6.;     ls1 = ParallelTable[k, {k, -π/a0, π/a0, π/a0/100}];     ls2 = Table[k, {k, -π/a0, π/a0, π/a0/100}];     ls1 == ls2     (*False*)      Why does `ParallelTable` give different answer than `Table` and how to fix it?

@@ -1,0 +1,1 @@
+I have two functions which are functions of `t`. Let's just say `x1[t]` and `x2[t]`. I want to plot `x1` vs `x2`. How do I do this?

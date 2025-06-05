@@ -1,0 +1,1 @@
+After using Solve I am choosing the physical root of my equation and dealing further with this root. However, when I am changing parameters using Manipulate, I clearly see not smooth behaviour. Is there a way to cure it? I think, there should be a way of controlling the branch of the square root by adding $\pm i0$.

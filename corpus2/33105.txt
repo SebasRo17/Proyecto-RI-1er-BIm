@@ -1,0 +1,1 @@
+How can i prevent _Mathematica_ from automatically simplifying the expression `Sqrt[a/b]`? In case `a=1` and `b=2`, _Mathematica_ will print `1/Sqrt[2]`, whereas case `a=3` and `b=4`, _Mathematica_ will print `Sqrt[3/4]`. The output of my program would be better readable, if the fractions stayed unsimplified under the square-root symbol.

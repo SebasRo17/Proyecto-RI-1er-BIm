@@ -1,0 +1,1 @@
+Is there more efficient way to rewrite this code in order to compute 2nd and higher derivatives of r=sqr{x^2+y^2+(z-a)^2}?               Table[D[r[x, y, z], xIN[[i]]] -> xIN[[i]]/r[x, y, z], {i, 1, 3}]      Thank you for your help!

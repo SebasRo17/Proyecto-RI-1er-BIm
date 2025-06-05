@@ -1,0 +1,1 @@
+I need to find the total weight of an `WeightedAdjacencyGraph`. I have a graph in that form               a = WeightedAdjacencyGraph[{...},{...},{...}....etc]      How can I find its total weight?

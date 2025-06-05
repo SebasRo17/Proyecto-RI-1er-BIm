@@ -1,0 +1,1 @@
+I would like to input a 3-vectors in spherical coordinates $(r, \theta, \phi)$ and be able to operate on such vectors (dot and cross product) with the results being given in the same spherical coordinate system. Is there an easy way to achieve this in _Mathematica_?

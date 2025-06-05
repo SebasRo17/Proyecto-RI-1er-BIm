@@ -1,0 +1,1 @@
+Suppose we have a fixed n x n matrix, call it $B$. What is fastest way to evaluate $v^t B\;v$ over many different vectors $v$? Since $B$ is a constant matrix, does this allow the number of operations needed to evaluate $v^t B\;v$ for an arbitrary $v$ to be reduced?

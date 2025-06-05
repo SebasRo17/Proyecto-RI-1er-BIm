@@ -1,0 +1,1 @@
+What reasons are there that can cause parallelized Mathematica code not to run with full performance?

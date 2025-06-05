@@ -1,0 +1,1 @@
+I want to cite _Mathematica_ 9.0.1 in my paper, but the standard citation is not available here http://support.wolfram.com/kb/472. Can you let me know where I can find it or give me one good sample (I don't know which tag should this question belong to, hence I just put it in `citation-management`).

@@ -1,0 +1,1 @@
+I can run CDFs fine, and can export Notebooks as CDFs. But the `File -> New` menu does not contain a `FreeCDF` option, just the `Package` and `Text File` options. What am I missing? M9.0.1.0 on Mac OS X Mavericks.

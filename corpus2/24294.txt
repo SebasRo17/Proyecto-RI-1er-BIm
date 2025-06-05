@@ -1,0 +1,1 @@
+I want to get a cosine from taking the real part of a complex exponential: $cos(x) = Re(exp(i x))$. What I do in _Mathematica_ is               (1/2)*(Exp[x*I] + Conjugate[Exp[x*I]]) // TraditionalForm // FullSimplify      but this gives me `1/2 (E^(-I x^\[Conjugate]) + E^(I x))` instead of `cos(x)`. Why is that?

@@ -1,0 +1,1 @@
+I would like to set up a system (or define a keyboard shortcut) so when you type the following > sum I have the following print at the current selection.               NotebookWrite[      InputNotebook[],      ToBoxes[Unevaluated@Sum[Placeholder[ ], {t, 1, n}]],      Placeholder]      This only works partially works b/c it removes focus.               x = Input[""]

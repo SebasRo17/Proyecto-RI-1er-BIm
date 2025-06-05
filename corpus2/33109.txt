@@ -1,0 +1,1 @@
+What is the problem with this expression inside ListPrint? `OverTilde` generates here a mess:               FrameLabel->{{"f"<>"("<>ToString[OverTilde["x"]]<>")",None},{"x",None}}

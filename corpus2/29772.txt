@@ -1,0 +1,1 @@
+Both `DeleteFile` and `DeleteDirectory` can only delete files / directories, and lack the option to move them to the trash. Is there an elegant (and OS- independent) way to trash items?

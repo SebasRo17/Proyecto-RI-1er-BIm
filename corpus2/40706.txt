@@ -1,0 +1,1 @@
+I want to distribute a range between 4 to 93 in 50 numbers which are logarithmically distributed. How I can do this in mathematica?

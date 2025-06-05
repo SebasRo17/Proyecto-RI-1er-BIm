@@ -1,0 +1,1 @@
+I want               Abs[x] + Abs[y] <= 1      to be convert to               x + y <= 1 && x + y >= -1 && x - y <= 1 && x - y >= -1        How could I get it with Mathematica?

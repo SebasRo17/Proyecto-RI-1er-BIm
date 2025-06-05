@@ -1,0 +1,1 @@
+_Mathematica_ V10 returns an error when download directory. > URLFetch :: invhttp: "FTP: could not retrieve (RETR failed) the specified > file." V9 successfully retrieves the same reference. This code successful: `Import["ftp://source:get@ftp.palemoon.org/integrated_statusbar-3.0.zip"]` But this failed: `Import["ftp://source:get@ftp.palemoon.org/"]`

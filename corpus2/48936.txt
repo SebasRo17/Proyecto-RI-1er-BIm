@@ -1,0 +1,1 @@
+Is there any way to ask a boolean question if the elements of the list {2,5} are in the list {1,2,3,4,5}?

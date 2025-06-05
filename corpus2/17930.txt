@@ -1,0 +1,1 @@
+4.`*^-12 Sqrt[3.0254210421890627`*^22 - 6.25`*^22 T6^2]      The above expression is equal to               Sqrt[0.48406736675024997` - T6^2]      How can I tell _Mathematica_ to simplify the first form into the second form?

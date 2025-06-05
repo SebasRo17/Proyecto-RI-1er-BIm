@@ -1,0 +1,1 @@
+Is there any way to automatically evaluate an input cell after evaluating the previous one without the need to press `ENTER`?

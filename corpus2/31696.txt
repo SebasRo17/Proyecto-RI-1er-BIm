@@ -1,0 +1,1 @@
+I have a system of linear equations $$ a+b+c \equiv 31 \pmod{54} $$ $$ 4a+2b+c \equiv 3 \pmod{54} $$ $$ 9a+3b+c \equiv 11 \pmod{54} $$ What should I input (I'm using `LinearSolve`)? It doesn't seem to work for composite modulo numbers. I have been unable to get _Mathematica_ to give me all the possible solutions.

@@ -1,0 +1,1 @@
+I have a parametric curve of the form $x(t)=2t^3+3t^2-12t,\ y(t)=2t^3+3t^2+1$ How do I take the derivative of that function in _Mathematica_? Is there a certain function I should use?

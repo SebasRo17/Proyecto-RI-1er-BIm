@@ -1,0 +1,1 @@
+Minimize[{t^2, 1 == 3*t + 16*u}, {t, u}, Integers]         1. It does not give the solution t = -5 and u = 1.   2. Am I missing something? The solution being known and easy, the actual question is not "how can I minimize?"; it is rather "how is it that _Mathematica_ , even version 8 or 9, can't do it?"

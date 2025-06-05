@@ -1,0 +1,1 @@
+I would think it would be f(P)=(0,1). Why does it include the endpoint?

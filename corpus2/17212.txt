@@ -1,0 +1,1 @@
+In previous versions of MMA there was a 'Save" icon in the toolbar when you do the "Show Toolbar" from the "Window" menu. This is not present in v9. Anybody know how to get it back?

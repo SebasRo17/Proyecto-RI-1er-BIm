@@ -1,0 +1,1 @@
+Is there any specific reason why `DateDifference` cannot give an exact number in this case?               DateDifference["Jan 2, 2013", "Jan 8, 2013", "Week"]      > 0.857143 Also, I'd like to know how the various `DayCountConvention` settings interact with the calculation, in particular for "Week", "Month", etc.

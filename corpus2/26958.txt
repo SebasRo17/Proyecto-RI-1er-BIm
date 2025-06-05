@@ -1,0 +1,1 @@
+Suppose I have the following recurrence equation: $$ F_{i+1}P_{i+1}+F_iP_i-P_{i+1}+P_i=2J\,, \quad\textrm{with}\quad F_{i+L}=F_i,P_{i+L}=P_i\,. $$ $J$ is constant, $\\{P_i\\}$ are probabilities with normalization $\sum_{i=1}^LP_i=1$. Now I want to use `RSolve` to solve for $\\{P_i\\}$ (or is it possible?), but I don't know how to set `RSolve` up for such periodic relations.

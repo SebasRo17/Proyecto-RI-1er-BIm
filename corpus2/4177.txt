@@ -1,0 +1,1 @@
+How can I find roots of polynomial in extension field $GF(2^n)$?

@@ -1,0 +1,1 @@
+I know I can manipulate ticks:                Plot[PDF[NormalDistribution[0, 1.5], x], {x, -7, 7},         Ticks -> {{          {-6, "-6σ"}, {-5, "-5σ"}, {-4, "-4σ"}, {-3, "-3σ"}, {-2, "-2σ"}, {-1, "-σ"},           {1, "σ"}, {2, "2σ"}, {3, "3σ"}, {4, "4σ"}, {5, "5σ"}, {6, "6σ"}      }}]      But the ticks disappear when I add `Frame -> True`. What am I doing wrong?

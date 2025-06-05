@@ -1,0 +1,1 @@
+I have three key points on a graph. How do I find out what the formula for this graph would be? The points are: (3,0) (5,2) (7,6). It is known that the graph will be a quadratic. Thanks

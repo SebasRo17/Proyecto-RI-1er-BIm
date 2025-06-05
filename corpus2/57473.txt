@@ -1,0 +1,1 @@
+I am trying to perform a cross product of two "Columns" which I expect to give me a column too: > Cross[{{a}, {b}, {c}}, {{x}, {y}, {z}}] but it gave me an error: > Cross::nonn1: The arguments are expected to be vectors of equal length, and > the number of arguments is expected to be 1 less than their length. any idea why this is happening ?

@@ -1,0 +1,1 @@
+According to a Mathematica textbook, we can write `N[x,n]` by using infix notation as `x ~ N ~ n`. How about other functions with one argument or more than 2 arguments, is it possible?

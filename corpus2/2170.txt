@@ -1,0 +1,1 @@
+After installing an add-on package (Spin) in `$UserBaseDirectory/Applications`, there is now a new palette for that package listed on the `Palettes` menu. But it's in an awkward place in the list, between the `Classroom Assistant` and `Writing Assistant` provided by installation of Mathematica itself. How does one change the order in which palettes appear on the menu?

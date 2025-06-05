@@ -1,0 +1,1 @@
+I am looking for the evaluation of a Hypergeometric function with a matrix argument as for example in Ploev and Edelman or as showcased in this Wikipedia article. From what I understand from _Mathematica_ 's documentation, it only accepts a scalar as the last argument.

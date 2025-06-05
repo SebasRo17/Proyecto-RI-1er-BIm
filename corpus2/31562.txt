@@ -1,0 +1,1 @@
+I have a polynomial `F[x]`, for example `F[x] = 1 - 2x + x^2`. I wanna check whether F[x] has the form of `(1 + kx)^n`. For the example above, `k = -1` and `n = 2`. I have searched on several documents but found nowhere has the answer. So can I do this on Mathematica? If yes, how can I get k and n?

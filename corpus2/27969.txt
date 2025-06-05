@@ -1,0 +1,1 @@
+It is possible to set 2 options for one of FindGraphCommunities's methods "Modularity". They are "Weighted" and "StopTest". The question is how can one use the second option "StopTest"? What values/pure functions does it take?

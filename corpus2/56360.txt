@@ -1,0 +1,1 @@
+Is there any simple way to get only the real solutions of the eq. x^3-1=x? I've tried:               Solve[x^3-1==x,x]      But it gives the complex ones, too. I have Mathematica 5.2

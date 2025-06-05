@@ -1,0 +1,1 @@
+How does SocialMediaData determine the size of graph vertices, e.g. on what does the vertex size depend in, say, a Facebook friend network graph?

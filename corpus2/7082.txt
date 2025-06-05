@@ -1,0 +1,1 @@
+For example, when we work over a ring, the equation `x^3=0` does not imply `x^2=0` or `x=0`, but the vice versa is true. Can we use Mathematica to Simplify equations over a ring?

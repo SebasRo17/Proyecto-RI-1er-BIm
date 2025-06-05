@@ -1,0 +1,1 @@
+For some reason, when I enter the following integration in Mathematica               Assuming[{k ∈ Integers}, Integrate[ Exp[ I k t], {t, -π, π}]]      the result turns out to be 0. However, clearly, if $k = 0$, the integral should evaluate to $2\pi$ instead. Can someone explain this behavior?

@@ -1,0 +1,1 @@
+I have 4 colors that I converted from RGB to CIELAB **L*a*b*** model.   1. How can I calculate mix of these 4 colors when I have `(L,a,b)` for each such color?   2. How can I calculate same mix, if I want to put weights `(w1, w2, w3, w4)` on such 4 colors, having 1 maximum and 0 minimum (none) weight?

@@ -1,0 +1,1 @@
+I want to vizualize (quite complicated) 3D vector field which has both real and imaginary part and is expressed in spherical coordinates. I was thinking about expressing the field for certain _r_ and then plotting Norm of the vector field on the surface of sphere as some color map. Can anyone give me advice how to do it, please?

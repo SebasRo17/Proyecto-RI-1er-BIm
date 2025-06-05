@@ -1,0 +1,1 @@
+Is there any good way to define the square of a function in M9? Usually one can write e.g. `f[z_] = 3*Sin[z]` etc etc. But is it possible to define `g^2[z_] = 2*Cos[z]` for example?

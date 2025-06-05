@@ -1,0 +1,1 @@
+I am graphing the 4 PDFs for a distribution for 4 different parameters in the same graph. I want the values of the parameters to be shown in corner of the graph. How do I do this?

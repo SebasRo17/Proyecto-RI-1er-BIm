@@ -1,0 +1,1 @@
+I am trying to make Mathematica recognize my OpenCL installation, which is beignet. It is experimental software, so I know that it probably won't work (even `clinfo` terminates with an error after displaying some info), yet I would like to know exactly why `OpenCLQ[]` returns `False`.

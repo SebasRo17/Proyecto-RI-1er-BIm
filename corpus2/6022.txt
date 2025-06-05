@@ -1,0 +1,1 @@
+What is an alternative to the backtick (```) in separating the namespace from the function name? Can the function be called without using this symbol? I think in early versions of Mathematica one could use `::` but it does not seem to work now.

@@ -1,0 +1,1 @@
+I want to do numerical integration of some functions using the Monte Carlo method. The default setting for the Monte Carlo method is to use a uniform distribution as far as I know. How can I change the random number generation to Gaussian when doing numerical integration?

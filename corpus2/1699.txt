@@ -1,0 +1,1 @@
+While playing around with the solutions to this question, I've found some very strange behaviour:               MatchQ[3,_?Composition[Not,OptionQ]]     (*     ==> False     *)     MatchQ[3,_?(Not[OptionQ[#]]&)]     (*     ==> True     *)     Composition[Not,OptionQ][3]     (*     ==> True     *)      So what's wrong with the first pattern? Or did I just find some bug?

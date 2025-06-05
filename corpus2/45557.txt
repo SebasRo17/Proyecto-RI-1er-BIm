@@ -1,0 +1,1 @@
+I thought this would be always true, but most likely it returns false.               random = {RandomReal[{-1, 1}, {500, 5}], RandomReal[{-1, 1}, 500]};     SameQ @@ Table[LinearModelFit[random], {100}]     (*False*)      How is this explained?

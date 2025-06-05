@@ -1,0 +1,1 @@
+I have two lists of `data`, `dataA` and `dataB`.               dataA = {100169}     dataB = {0001,Olivine,Process},{0002,Olivine,Process},{0003,Olivine,Process}      I don't know how to write a function that would give me a data table that looks like this.               {100169,0001,Olivine,Process}     {100169,0002,Olivine,Process}     {100169,0003,Olivine,Process}

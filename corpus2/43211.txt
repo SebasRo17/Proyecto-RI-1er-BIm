@@ -1,0 +1,1 @@
+Can anybody explain the following behavior?               x = 0.2 + (0.3 + 0.1);     y = (0.2 + 0.3) + 0.1;     x == y (* -> True *)      But actually the variables do not exactly contain the same values:               x // FullForm (* -> 0.6000000000000001` *)     y // FullForm (* -> 0.6` *)      The example was taken from Mike Croucher's blog entry.

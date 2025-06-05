@@ -1,0 +1,1 @@
+I am looking for a way to embed CDFs in octopress blogs. Looks like there are a lot of moving parts such as Jekyll, Liquid, and Pygments. I'd be grateful for a native trailguide through the jungle.

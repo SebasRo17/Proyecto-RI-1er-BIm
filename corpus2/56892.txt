@@ -1,0 +1,1 @@
+How can I solve following ODE with Mathematical: $$d^2u/dx^2 + u/A = 0 \quad (\text{or } \ C),$$ with the conditions: $$ \left.\frac{d^2u}{dx^2}\right|_{x=0} = 0, $$ $$u(x=0) = B$$ and $$\left.\frac{du}{dx}\right|_{x=W} = 0, $$ $A$, $B$, and $C$ are constants.

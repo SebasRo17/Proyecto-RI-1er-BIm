@@ -1,0 +1,1 @@
+i am new with Mathematica. i am trying to write a simple code. for example:               phiu = 2          Yfu = (phi_u/(phi_u + 17.18))      but when i run it, it gives me (phi_u/(phi_u + 17.18)) instead of (2/(2 + 17.18))=0.104275. what can i do to get the value of Yfu? thank you

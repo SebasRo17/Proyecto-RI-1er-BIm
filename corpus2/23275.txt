@@ -1,0 +1,1 @@
+I want to ask a question about `Reduce`. I have a function, say `f[x]`. When I use the command `Reduce[f[x] > 0, {x}]`, it gives me an interval for `x`. But, I don't want to have an interval. I want to have an upper bound for `x`. For example: After the command `Reduce[f[x] > 0, {x}]`, the output is `a_1 < x < a_2`. But I want to have only `a_2`. How can I get it?

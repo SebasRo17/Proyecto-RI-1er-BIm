@@ -1,0 +1,1 @@
+I am new to webmathematica. I wanted to know under what circumstances can a kernel quit the processing.

@@ -1,0 +1,1 @@
+Could a package be composed of references (e.g. usage messages)? Do the code for an induvidual function implemented in a package has to be physically in that package file where it is referenced (i.e. externalized)? Or can the actual function code be referenced in one package and located somewhere in another notebook?

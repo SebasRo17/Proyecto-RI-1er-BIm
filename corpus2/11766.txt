@@ -1,0 +1,1 @@
+I'd like to make _Mathematica_ open a new notebook using the Natural Color template (under the Creative category) by default. Is that possible? If so, how?

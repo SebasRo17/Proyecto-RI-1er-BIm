@@ -1,0 +1,1 @@
+How can I differentiate a function with respect to several variables and evaluate it at the same time ? I want to specify also the variable index that I want to differentiate and the number of times I do it for each one.

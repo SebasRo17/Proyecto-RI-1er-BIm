@@ -1,0 +1,1 @@
+I would like to check the following integration:               Integrate[y*Integrate[1/x*BesselJ[1,x*Exp[I*π/4]]*BesselJ[1,x*Exp[-I*π/4]],{x,0,y}],{y,0,r}]      _Mathematica_ 9.0 is not able to evaluate the integral. However, Maple 16 gives the following result:               r^4/32 * hypergeometric([1/2],[3/2,3/2,2,2],r^4/64)       Is this result correct ?

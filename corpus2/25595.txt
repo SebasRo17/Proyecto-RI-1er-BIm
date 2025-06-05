@@ -1,0 +1,1 @@
+In an output I'm getting a number like `-0.33998187034939803` + 0.`I`. Finding `Precision[Im[-0.33998187034939803` + 0.`I]]` I'm getting out put `MachinePrecision`. Can I really neglect the imaginary part form my calculation? I've given a link for my mathematica file Have a look at this: ![enter image description here](http://i.stack.imgur.com/4gHIN.png)

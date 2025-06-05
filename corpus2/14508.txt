@@ -1,0 +1,1 @@
+Say I have a matrix of:               tmp1 = 5;     tmp2 = 5;     tmp3 = RandomChoice[{0, 1, 2, 3, 4, 5}, {tmp1, tmp2}];     MatrixForm[tmp3]      How to do a conditional operation of elements - 1 if non-zero, else do nothing, as in the attached:![enter image description here](http://i.stack.imgur.com/Q94EO.png). Maybe using Positive?

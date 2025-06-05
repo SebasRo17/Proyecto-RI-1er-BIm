@@ -1,0 +1,1 @@
+Mathematica 7               Needs["BarCharts`"]          BarChart3D[{{1, 6, 8}, {2, 7, 1}, {3, 1, 4}}]      ![enter image description here](http://i.stack.imgur.com/tujlt.gif) While in Mathematica 9 it is not plotting in this manner. Please help me to plot this fig. in Mathematica 9.

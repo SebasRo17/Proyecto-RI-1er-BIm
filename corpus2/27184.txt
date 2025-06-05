@@ -1,0 +1,1 @@
+How to create custom `Graphics primitive`? It should have the following properties, resembling properties of built-in geometric figures, like `Circle` etc:   1. Has constant head, say `RoundedRectangle`. It should not evaluate to the list of lines, so as normal `Rectangle`.   2. Can serve as a subject for `GeometricTransformation`

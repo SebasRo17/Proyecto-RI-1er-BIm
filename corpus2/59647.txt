@@ -1,0 +1,1 @@
+I need something like this               a = 101010/0;     If[a == ComplexInfinity, True, False]      But if I use `ToString`, I get what I want.               a = 101010/0;     If[ToString[a] == "ComplexInfinity", True, False]      Does someone know a better way to do this?, I can't belive that transforming to a string is the only way.

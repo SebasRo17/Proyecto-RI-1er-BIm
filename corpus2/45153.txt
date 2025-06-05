@@ -1,0 +1,1 @@
+Can someone tell me why this code doesn't work and how to fix it ? Thanks.               k = 0;     Do[{       Label[top],       k = k + 1,       Print["k = ", k],       If[k < 4, Goto[top]]},     {10}]      > >     k = 1 >   >     Goto::nolabel: Label top not found. >> >   >     Hold[Goto[top]] >

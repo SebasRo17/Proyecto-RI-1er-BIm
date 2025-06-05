@@ -1,0 +1,1 @@
+If one restarts MathLM on a Linux server, will that restart mathkernel as well? In other words, will restarting MathLM affect the current jobs running that use MathKernels? Thanks.

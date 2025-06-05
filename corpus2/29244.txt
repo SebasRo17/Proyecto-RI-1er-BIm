@@ -1,0 +1,1 @@
+Is there a function that returns the output as if you invoked Command Completion. To help clarify I am looking for a function that returns the Cell Data as if you invoked `Ctrl`+`Shift`+`K`.

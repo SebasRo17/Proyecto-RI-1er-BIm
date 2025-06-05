@@ -1,0 +1,1 @@
+I am looking for a convenient way to generate a matrix of the following symmetric form (numbers could also run from -3 to +3 or just from -1 to +1): ![enter image description here](http://i.stack.imgur.com/plRJi.jpg) Tips, anybody?

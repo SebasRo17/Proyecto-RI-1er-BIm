@@ -1,0 +1,1 @@
+I want to get a solution to an ordinary differential equation with imposed initial conditions. I'm confused about why my following code doesn't work:               Remove["Global`*"]          eqn = {x g - x v[x] v'[x] - v[x]^2 == 0};     inicond = {v[0] == 0, v'[0] == 0};     eqnlist = Join[eqn, inicond];          DSolve[eqnlist, v[x], x]      > >     {} >   Can anyone help me?

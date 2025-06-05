@@ -1,0 +1,1 @@
+My problem is that I want use _PGFplot_ in $\LaTeX$ to draw my graphs, which x axis is a date. Therefore the output file has to have one column _"UTC time" (YYYY-MM-DD hh:mm:ss)_ and the second one is the corresponding data list. Would it be possible to specify the date format of `Export[]` ?

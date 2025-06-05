@@ -1,0 +1,1 @@
+I want to assign Subscript[C,i] by mapping a specific list. For example, the list is {1,2,3,4}, and I want to assign 1 to C1, 2 to C2, 3 to C3 and 4 to C4. How should I do? Many thanks:)

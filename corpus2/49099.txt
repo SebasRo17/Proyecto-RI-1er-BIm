@@ -1,0 +1,1 @@
+I have a list: `{1,2,2,3,3,3,3,4,4,5}`. I want to plot the percentage occurrence of elements in the whole list. So the list plot I want to do is:               list={{1,1/10},{2,2/10},{3,4/10},{4,2/10},{5,1/10}};     ListPlot[list]      What is the name of this kind of plot in _Mathematica_? How should I do it in _Mathematica_ 7?

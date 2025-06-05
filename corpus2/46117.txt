@@ -1,0 +1,1 @@
+Given a list               list = {1,2,2,2,2,5,1,3,2,6,6,6,6,6,6,6,6,6,6,6,10,-3};      how to find the longest constant sublist (or equivalently the element and the number of times it is repeated)? (in this example, {6,6,6,6,6,6,6,6,6,6,6} or {6,11})

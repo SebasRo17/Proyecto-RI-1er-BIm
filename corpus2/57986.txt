@@ -1,0 +1,1 @@
+Could you tell me which method that `Solve` applies to solve linear and polynomials equations?

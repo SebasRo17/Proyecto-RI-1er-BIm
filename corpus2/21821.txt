@@ -1,0 +1,1 @@
+What happened with this file?               infile = "\\test data.txt";            outstr = OpenWrite[infile];     instr = OpenRead[infile];     Read[instr, Record];     Close[instr];        All content of "test data.txt" was lost.

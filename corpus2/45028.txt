@@ -1,0 +1,1 @@
+for some reason i was thinking of doing this               Do[     Plot[F[x],{x,-i,i}];     Export["name_0" + i + ".jpg", %, "JPEG", ImageSize->{250,250}],     {i,5}]      but i get an error Any ideas or help is welcome ps. i am a terribly new at this :-) Regards, J.

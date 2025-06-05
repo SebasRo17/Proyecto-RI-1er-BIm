@@ -1,0 +1,1 @@
+Looks like plots became of low quality in Mathematica 9? ![enter image description here](http://i.stack.imgur.com/GtDQ9.jpg) How to make _Mathematica_ to plot continuously? Logically current plot style is solid.

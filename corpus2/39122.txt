@@ -1,0 +1,1 @@
+How can I make a module that finds the sum of digits of any given positive integer? I use this command               F[x_]:= Apply[ Plus, IntegerDigits[x] ]      Is there another module to do it ?

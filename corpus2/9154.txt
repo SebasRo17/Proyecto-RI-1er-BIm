@@ -1,0 +1,1 @@
+I want to perform a cluster analysis using the `HierarchicalClustering` package. Is there a way to display the inter-cluster distances in a dendrogram plot? An example how the result should look like: ![here](http://i.stack.imgur.com/DsPJT.jpg).

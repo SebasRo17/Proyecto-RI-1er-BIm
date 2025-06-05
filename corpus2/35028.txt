@@ -1,0 +1,1 @@
+How can I configure the initial directory? By configure, I mean set it so that when Mathematica starts the initial directory is one of my choosing. By the by, what exactly is the significance of the initial directory? Is that the default location of where a notebook gets saved?

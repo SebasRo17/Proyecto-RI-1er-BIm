@@ -1,0 +1,1 @@
+I've noticed that `Signature` can have an undocumented second argument. What does it do?               Signature[{1,2,3,4}, ?]

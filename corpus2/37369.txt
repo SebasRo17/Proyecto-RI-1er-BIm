@@ -1,0 +1,1 @@
+When importing a csv file is there a way to set the delimiter. I have a csv that uses ";" as its delimiter. I tried                rd = import["/Users/rolfbosscha/Downloads/rsdata.csv"]

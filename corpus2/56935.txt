@@ -1,0 +1,1 @@
+I am newer using Mathematica to plot with the Function: CountryData, I am trying to plot "OilReserves" in "UnitedKingdom" from 1985 until 2014. I don't know how to do it, please help me!

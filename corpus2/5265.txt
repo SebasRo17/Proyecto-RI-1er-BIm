@@ -1,0 +1,1 @@
+How does one set a logarithmic scale for both `x` and `y` axes in `ContourPlot` in _Mathematica_?

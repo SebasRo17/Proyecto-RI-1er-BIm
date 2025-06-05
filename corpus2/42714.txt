@@ -1,0 +1,1 @@
+I'm trying to control where a sound is going to be heard, in the left For example, when I import an mp3 file, and I want to hear it only from the left ear, what should I do? I've never worked with sounds before, so I didn't know where to start. The **Documentation Center** seems very undocumented on this topic.

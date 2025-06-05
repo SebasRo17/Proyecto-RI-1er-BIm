@@ -1,0 +1,1 @@
+Is there any option Mathematica's preferences to change the font for the whole notebook? I know how to change the font of individual cells.

@@ -1,0 +1,1 @@
+How can the k-means algorithm for some given distance function be implemented using ParallelMap or other parallel processing program constructs in Mathematica?

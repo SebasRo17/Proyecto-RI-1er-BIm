@@ -1,0 +1,1 @@
+I am interested in implementing Hodrick–Prescott filter (HP filter) on my time series data in _Mathematica_. I know that there is already a version of two-sided original filter for _Mathematica_ (see Demo 5161), however wanted to know if anyone has implemented the one-sided version of the filter and would like to share? So far I found only an implementation for Matlab.

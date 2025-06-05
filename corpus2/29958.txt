@@ -1,0 +1,1 @@
+Is it possible to interpolate a polynomial that approximates `Sin`, and then be able to manipulate the polynomial or a sample of its points to make sections of the plotted curve progressively steeper? Basically, I'd like to be able to make a plot showing, over a suitable domain, `Sin` and `Abs[Sin[]]` and everything in between.

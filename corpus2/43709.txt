@@ -1,0 +1,1 @@
+I am using Mathematica for the processing of images. For this I have to process a lot of images. Currently, I import one by one of the images to run the simulation. I want to import all the image files of a folder and assign variable to each of them...How to do it? Any suggestion?

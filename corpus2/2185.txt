@@ -1,0 +1,1 @@
+To programmatically add to menus you can do as described here: How do I add to menus? What can I do to programmatically add to contextual menus? Is something similar to `AddMenuCommands` available?

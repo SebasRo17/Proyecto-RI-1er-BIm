@@ -1,0 +1,1 @@
+I understand Mathematica can't assign the results of a Solve to the unknowns because there may be more than 1 solution. How can I assign the 4 values of following result to variables? ![enter image description here](http://i.stack.imgur.com/wu2c0.png)

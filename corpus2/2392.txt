@@ -1,0 +1,1 @@
+Could someone explain why I get those ugly graphics .. ![enter image description here](http://i.stack.imgur.com/7Hm75.jpg) ..trying to use fractals in mathematica 8 ? I'd also like to know if it is possible to draw 2D fractals in Mathematica * * * My configuration is:   * Windows 7 64 bits    * Intel Pentium P600    * RAM 4Go    * ATI Mobility Radeon HD5470

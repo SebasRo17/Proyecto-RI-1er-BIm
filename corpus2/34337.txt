@@ -1,0 +1,1 @@
+I would like to know if we can "watch some values" during running time of _Mathematica_. I remember that `C` and `Pascal` compiler allow us to "add watch" on some variables. Some times I use a check point "if keypressed print...". But the latter style is unavailable here.

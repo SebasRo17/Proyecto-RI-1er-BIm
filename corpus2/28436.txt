@@ -1,0 +1,1 @@
+How might I be able to prevent a `Cell` form being deleted when you press the Delete key? Maybe there is a way to display some type of `Dialog` when you attempt to delete(or cut) a cell?

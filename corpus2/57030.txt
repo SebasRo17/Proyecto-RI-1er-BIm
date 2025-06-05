@@ -1,0 +1,1 @@
+In the output of _Mathematica_ , operators $\cdot$ or * or $\times$ are usally displayed as space; e.g., $x * y$ becomes $x \, y$ in output. Is there any option that can be set to make "space" becomes $\cdot$ or * or $\times$ or preferably $*$?

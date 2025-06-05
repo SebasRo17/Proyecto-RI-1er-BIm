@@ -1,0 +1,1 @@
+I have a 3D surface given in data-points of the form ${x,y,z}$. What is the easiest way to get the interpolated value $z=f(X,Y)$ for given coordinates ${X,Y}$ (which are of course not in the data list)?

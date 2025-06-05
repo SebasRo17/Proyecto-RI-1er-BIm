@@ -1,0 +1,1 @@
+I'm looking to visualize slope fields of differential equations for my differential equations course. Every example I see draws them as vectors, adding unnecessary "arrows" that, to me, are visually distracting. Is there a way to plot these slope fields without the "arrows" that get in the way?

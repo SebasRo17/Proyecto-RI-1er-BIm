@@ -1,0 +1,1 @@
+I have some list               {1,2,3}.      How do I generate nested pairs such that I get               {{1,2},{1,3},{2,3}}?      That is I'd like a way to generate _upper triangular indices_. **Bonus** : a way to deal with the related problem of generating _lower triangular indices_ as well.

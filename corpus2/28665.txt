@@ -1,0 +1,1 @@
+I use M9 under windows 7 on a command prompt as: MathKernel -noprompt -script file.m On execution, there is a like a kernel window opened and then closed immediately. How can I avoid this window and run my script in silence? thanks

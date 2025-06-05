@@ -1,0 +1,1 @@
+How can I solve the following inequality:               Log[1/2 + c^2] > (1.4) (30^5) 2^(4.5) 9 (0.6) (2.8) (1 + Log[3]) (1 +Log[ Log[c + 1]])      ? I tried `Reduce`, but my computer is still computing it (c is a real number).

@@ -1,0 +1,1 @@
+I have to plot this graph http://i.imgur.com/hf54aiT.jpg I tried `Graphics[{Circle[{0, 0}, 3, {-2Pi, 2Pi}]},PointSize[.025]]` I don't know how to proceed from here. Any help would be appreciated!

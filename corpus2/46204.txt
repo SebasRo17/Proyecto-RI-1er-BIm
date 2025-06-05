@@ -1,0 +1,1 @@
+I'm looking for a function q(x) so that integral( q(t) , t , x, x+2*pi/3) == a*sin(x)+b Could anyone help me on this one? Thx in advance

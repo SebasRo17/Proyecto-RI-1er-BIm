@@ -1,0 +1,1 @@
+I would like to ask a question with Mathematica 9.0.1. I find that both   1. FIND: CTRL + F    2. UN/COMMENT: ALT + / become unavailable. Pressing the shortkey or selecting from the menu could not activate the command. Previously with version 8.0.4.0, they were both fine. ![enter image description here](http://i.stack.imgur.com/lDlR2.jpg) Does anyone know how to fix it? Jimmy

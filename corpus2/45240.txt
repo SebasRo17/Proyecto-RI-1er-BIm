@@ -1,0 +1,1 @@
+I have a matrix $V$ of size $M$ in which each row $i$ is a vector $v_i$. Now I have another matrix $H$ and I would like to calculate as efficiently as possible the list of values $v_i^\dagger\cdot H\cdot v_i$ for $i \in 1\ldots M$. I tried using Thread but I couldn't figure out how to do it. Thank you in advance for any insight.

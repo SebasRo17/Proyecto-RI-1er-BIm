@@ -1,0 +1,1 @@
+I have polynomial equation like Tribonacci Polynomials for example: $T_3(x)=x^4+x$. After finding the roots of this polynomial, I want to show these roots in the complex plane. I have tried lots of methods as follows but I haven't found one that worked:               f[x_] := x^4 + x;     ListPlot[x /. Solve[f[x] == 0, {x}]]

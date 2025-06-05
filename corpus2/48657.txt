@@ -1,0 +1,1 @@
+If I have an array like the following $\left( \begin{array}{ccc} 1 & 2 & 3 \\\ 4 & 5 & 6 \\\ 7 & 8 & 9 \end{array} \right)$ How can I swap the rows and columns, so it is transformed into this? $\left( \begin{array}{ccc} 1 & 4 & 7 \\\ 2 & 5 & 8 \\\ 3 & 6 & 9 \end{array} \right)$ This question touches upon the subject, but rather than swapping it simply rotates the matrix.

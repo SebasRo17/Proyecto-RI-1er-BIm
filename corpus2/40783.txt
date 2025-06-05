@@ -1,0 +1,1 @@
+I am new to Mathematica and I tried searching the docs but no specific examples there. This is what I have achieved so far, returns an error, probably wrong syntax.               Plot[ Sin[x], {x, 0, 2 Pi}, Filling -> Range {x, 0, Pi}]

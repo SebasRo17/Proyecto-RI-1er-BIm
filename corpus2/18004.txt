@@ -1,0 +1,1 @@
+Is it a good idea to Initialize variables globally inside a package ? will they be local by default to that package ?

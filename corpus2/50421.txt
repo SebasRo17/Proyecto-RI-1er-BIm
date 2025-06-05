@@ -1,0 +1,1 @@
+My Mathematica is not launching properly (I run it on Ubuntu 12.04 LTS). Here is the screenshot of the error message. ![enter image description here](http://i.stack.imgur.com/XZmIy.png) I've tried the following suggestions :               i) -cleanstart     ii) ~/.mathematica and even      iii) reinstalled it.      But none of the above is woking. Can anyone please help me?

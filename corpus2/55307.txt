@@ -1,0 +1,1 @@
+A Dataset seems perfect to represent structured data. Has anyone already thought about how to convert as efficiently/elegantly as possible an XML or JSON file to a Dataset in Mathematica 10 ?

@@ -1,0 +1,1 @@
+I need some help with _Mathematica_. How can I do the following? Starting with `f = y[0]^2` (`y[0]` is basically y with 0 subscript) and `f' = 2*y[0]*y'[0]` (Derivative of f), I want to replace `y'[0]` with `y[1]` (again 1 is a subscript), so it becomes `f' = 2*y[0]*y[1]`. Then I want to find `f'', f'''`, and so on.

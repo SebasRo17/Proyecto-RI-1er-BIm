@@ -1,0 +1,1 @@
+The equation $$3\sin^2 x - 3\cos x -6\sin x + 2\sin 2x + 3=0$$ has a solution $x = 0$. That means it has a factor of $\cos x - 1$. I tried to write the given equation has the form $$(\cos x - 1)P(x)=0.$$ I am looking for the factor $P(x)$. How can I get _Mathematica_ to find it?

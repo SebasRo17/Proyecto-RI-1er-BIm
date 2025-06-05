@@ -1,0 +1,1 @@
+Is it possible to write a code in _Mathematica_ that implements various differentiation methods (like forward, central, extrapolated, etc.)?

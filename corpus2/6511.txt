@@ -1,0 +1,1 @@
+As part of a calculation I need to do something like this               Evaluate[{aaa, bbb, ccc}[[ index]]] = {1, 2, 3, 4, 5}      so if index is `1` then `{1, 2, 3, 4, 5}` will be stored into the variable `aaa`.   But if I re-evaluate this it does not work because `aaa` is now a list and not a variable. I tried various options with `Hold[]` etc but did not manage to solve this.

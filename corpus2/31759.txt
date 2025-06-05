@@ -1,0 +1,1 @@
+I know that one cannot use `underscore` to a variable name, like `degree_of_The_First_Polynomial`. But for a long variable name, it is difficult to read something like `degreeOfTheFirstPolynomial`. What do you do when you need a **clear, self-explained, easy-to-read** variable name?

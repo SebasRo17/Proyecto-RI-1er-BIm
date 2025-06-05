@@ -1,0 +1,1 @@
+I don't want to necessarily put my packages in Mathematica's `$UserBaseDirectory`, which is on my local hard drive. Can I somehow tell Mathematica to look for packages in other directories (like DropBox)? Basically, I have two computers running Mathematica -- one at home, and one at work, and would like to be able to work on editing/running my packages on both computers.

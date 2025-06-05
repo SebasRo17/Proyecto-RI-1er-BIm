@@ -1,0 +1,1 @@
+What would be the proper syntax to enter in WolframAlpha to find the equation of line, if I know two points on it. I know how to do it by hand, but I want to get into the proper syntax of WA.

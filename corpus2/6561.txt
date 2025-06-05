@@ -1,0 +1,1 @@
+I've exported an animation to animated GIF, which generated a 15mb file. I've been asked if I could regenerate the file, limiting it to only 16 colors, but I can't find any documentation on how I might do that. Is there a way to make `Export[]` reduce the color palette, preferably dithering as needed?

@@ -1,0 +1,1 @@
+If I type `e1 := 3 x + 2 (1 + y) z // TreeForm`, I get an expression tree. If I then type `e1 /. x -> 3`, I get another prefectly correct expression tree. Is there a way that I can get `TreeForm`'s formatting to keep the nodes in the same location after the transformation?

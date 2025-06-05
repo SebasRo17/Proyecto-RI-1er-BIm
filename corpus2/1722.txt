@@ -1,0 +1,1 @@
+I've started using `AbsoluteTiming` to discriminate between similar function constructs, but I sometimes feel like it takes substantially more time to evaluate a function using `AbsoluteTiming` than without. Is this behaviour normal? (This may qualify as a second question) Is there a way to know how much time the last evaluation took, without wrapping it in a timing function?

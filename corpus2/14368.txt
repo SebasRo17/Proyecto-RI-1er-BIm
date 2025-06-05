@@ -1,0 +1,1 @@
+I haven't found an example where I can't get rid of Refresh[]:               In[1]:= Dynamic[DateString[],UpdateInterval->1]     Out[1]= Sat 10 Nov 2012 01:36:34     In[2]:= Dynamic[Refresh[DateString[],UpdateInterval->1]]     Out[2]= Sat 10 Nov 2012 01:36:34

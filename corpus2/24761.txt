@@ -1,0 +1,1 @@
+I tried to calculate the following integral, but it returned unevaluated.               In[1]:= Integrate[BesselJ[0, x - BesselJZero[0, 1]]/x, {x, -Infinity, Infinity}]     Out[1]= Integrate[BesselJ[0, x - BesselJZero[0, 1]]/x, {x, -Infinity, Infinity}]      Any ideas how to make Mathematica calculate it?

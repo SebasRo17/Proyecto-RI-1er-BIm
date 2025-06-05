@@ -1,0 +1,1 @@
+This:               Table[If[cond, y], {y, 1, 3}]      outputs this:               {If[cond, y], If[cond, y], If[cond, y]}      The `y` is not replaced by its value, as is normally the case with `Table[]`. This also happens with `Which[]`. How do I get Table to actually replace the values for y? Why does this happen?

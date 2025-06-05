@@ -1,0 +1,1 @@
+list = Symbol /@ CharacterRange["a", "n"];     MapAt[Style[#, Red] &, list, List /@ {4, 9, 2}];     MapAt[Style[#, Green] &, %, List /@ {3, 5, 7}];     MapAt[Style[#, Blue] &, %, List /@ {8, 1, 6}]      ![enter image description here](http://i.stack.imgur.com/hKx4M.png) I am sure there is a better way do this, could you give any better ideas?

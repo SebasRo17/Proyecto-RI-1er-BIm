@@ -1,0 +1,1 @@
+I see ContourPlot3D doesn't show the X, Y, Z axis by default (i mean inside the graph), i tried adding ",Axis->True" to the call, but doesn't make effect. How to do this?

@@ -1,0 +1,1 @@
+I need to compute the linearised Einstein Equations around a fixed metric $g_{\mu \nu}$ which is not the flat metric. Someone knows some Mathematica package or some review that can help me?

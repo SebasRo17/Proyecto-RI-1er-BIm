@@ -1,0 +1,1 @@
+Referring to this page, Plotting implicitly-defined space curves How can I project the curves of intersection onto the x-y plane?

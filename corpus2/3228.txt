@@ -1,0 +1,1 @@
+I'm pretty new with Mathematica and I was looking for a way to know whether a number is a square of a rational. I thought of               Head[Sqrt[myNumber]] == Rational      where `myNumber` came from replacing some variables with rational and integer numbers in a polynomial equation. Is there a better way to do it for large numbers, perhaps without computing the square root?

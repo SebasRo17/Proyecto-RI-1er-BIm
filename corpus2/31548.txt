@@ -1,0 +1,1 @@
+Is there an easy way to select for morphological components which do not border/touch the edges of an image? Taking this doodle as an example: ![enter image description here](http://i.stack.imgur.com/2fQ3j.png) We'd want to only select morphological components that stay at least some critical distance from the edges of the image.

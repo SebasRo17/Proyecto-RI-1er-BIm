@@ -1,0 +1,1 @@
+I have a set of data in an uptrend. I would like to find two BEST parallel lines to contain all the data but I don't know how to approach it, anyone can help ? Thanks. ![find parallel lines](http://i.stack.imgur.com/wryu4.png)

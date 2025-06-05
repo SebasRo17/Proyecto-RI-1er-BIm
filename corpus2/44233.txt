@@ -1,0 +1,1 @@
+I'm trying to inverse this equation               Z = X + X^2 / 2      but couldn't wrap up my head around it. If anyone can provide a step by step solution to this it will be really helpful. Thanks in advance!

@@ -1,0 +1,1 @@
+Is it possible to find eigenvalues of a matrix without filling it? The matrix elements are given by a known function `f[p1,p2]`. This is relevant for a matrix too large to fit in a memory. Of course, a custom implementation of the Arnoldi algorithm would allow one to do so. I wonder whether it is possible with built-in functions like `Eigenvalues[]` and some clever rules.

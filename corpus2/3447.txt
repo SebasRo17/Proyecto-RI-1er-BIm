@@ -1,0 +1,1 @@
+Say I have some function that I'm applying every element in a list to... if that element matches some criteria:               If[#==<condition>,{#}, <Do nothing> ] & /@ LongList      Is there a way to do something like this? I want the result to just not have that element.

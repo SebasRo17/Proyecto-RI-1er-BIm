@@ -1,0 +1,1 @@
+I have a table in the following format: Apple 2 Pear 3 Banana 5 Orange 6.5 .... I would like to put the values on a single horizontal axis and add corresponding descriptive labels (apple, pear, banana etc.) next to the values. How can I do that in Mathematica? Many thanks!

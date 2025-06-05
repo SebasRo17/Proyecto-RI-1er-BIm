@@ -1,0 +1,1 @@
+I have two functions `f1(x)` and `f2(x)`. I want to plot them such that `f1` is on the axis of ordinates and `f2` on the axis of abscissae. Any ideas? Following example to it: f1(x)=2x and f2(x)=3x. The graph should then show a line through the following points: {(0,0),(2,3),(4,6),(6,9),...}

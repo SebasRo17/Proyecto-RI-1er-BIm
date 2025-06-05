@@ -1,0 +1,1 @@
+Is it possible to draw in Mathematica a state space diagrams like these two?! ![enter image description here](http://i.stack.imgur.com/ZsD94.png) I tried a lot but since I am fairly new to Mathematica, I could not reproduce the desired result.

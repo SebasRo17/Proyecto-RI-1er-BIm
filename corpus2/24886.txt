@@ -1,0 +1,1 @@
+I'm trying to print Christoffel symbols of the second kind for a surface in $\mathbb R^3$. I currently am using something along the lines of               Do[       Print[Subscript[Subscript[\[CapitalGamma]^k, i], j]],       {i, 2}, {j, 2}, {k, 2}     ]      Unfortunately the superscript '1' is suppressed. How do I force them to display?

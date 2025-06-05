@@ -1,0 +1,1 @@
+When using notebook, I find that sometimes when I type, it will automatically indent for me.![enter image description here](http://i.stack.imgur.com/YgBti.png) How can I block this function?

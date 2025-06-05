@@ -1,0 +1,1 @@
+How to make a particular notebook not savable? Optionally, how to do this by evaluating a command in the notebook?

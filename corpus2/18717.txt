@@ -1,0 +1,1 @@
+Is there any possible way to write this equation of 4th order as a system of two diff equations of second order with two new variables and to do that automatically? statespace command is transforming it into first order                 eq=a1*X1[x] + a2*Derivative[2][X1][x]-Derivative[4][X1][x];

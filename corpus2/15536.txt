@@ -1,0 +1,1 @@
+MATLAB has Simulink and Simscape, Maple has MapleSim and Scilab has Xcos. What is the equivalent product for _Mathematica_?

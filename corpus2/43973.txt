@@ -1,0 +1,1 @@
+Is there a simple way, besides changing my function to use `Degree` as input, to display the x-axis in degrees in a plot of a function defined with its independent variable taking radians?

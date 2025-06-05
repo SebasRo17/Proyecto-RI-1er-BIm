@@ -1,0 +1,1 @@
+Calling:               Minimize[{-0.4877 - 0.1190 r^2 - 0.1885 r^4 + 2.9703 z - 0.5531 z^2,               0 <= z <= 3.5 ∧ 0 <= r <= 1.75}, {r, z}]      returns `{1.00051, {r -> 1.75, z -> 3.5}}`, when it's obvious that simply setting `r` and `z` to `0` yields `-0.4877`. Is this an issue of numerical instability? Is there anything that can be done about it?

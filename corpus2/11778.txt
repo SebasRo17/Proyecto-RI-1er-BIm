@@ -1,0 +1,1 @@
+I need a plot with $\Gamma^<$ as axeslabel using: **AxesLabel -> { $\Gamma^ <$}** But I get an error. **AxesLabel -> { $\Gamma^{a <b}$}** works though. I think I've to tell mathematica that $\Gamma^<$ is not a mathematical expression or something in that direction. Is there some solution for this problem? Thanks

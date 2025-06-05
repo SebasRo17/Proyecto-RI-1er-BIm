@@ -1,0 +1,1 @@
+I want to export the data of a three dimensional histogram in the format               #   x     y     z        with a blank line between different lines, so that one can plot the histogram in gnuplot simply using               splot 'data.dat' u 1:2:3 w l      What is the right way to obtain that?

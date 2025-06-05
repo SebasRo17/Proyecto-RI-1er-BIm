@@ -1,0 +1,1 @@
+I need to compute the linearised Einstein Equations around a fixed metric $g_{μν}=\text{Minkowski metric} + h_{μν}$, which is not the flat metric. Does anyone know a _Mathematica_ package or a review paper that can help me?

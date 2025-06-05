@@ -1,0 +1,1 @@
+I want to draw the following picture in Mathematica as shown below with distinct color for each section. ![enter image description here](http://i.stack.imgur.com/Bwawn.png)
