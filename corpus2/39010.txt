@@ -1,0 +1,1 @@
+Is there an equivalent command of `WeightedData` (new in version 9) in Mathematica 8 or I have to define it by myself? I haven't found anything in the site or googleing it... If there is not such command do you have some suggestions for defining it?

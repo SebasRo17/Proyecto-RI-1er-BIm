@@ -1,0 +1,1 @@
+How would I plot the following in Mathematica? $ \displaystyle\sum_{n=2}^{10} \bigg(\dfrac {4ine^{inx}(-1)^n}{(n^2 - 1)^2} - \dfrac{4in e^{-inx}(-1)^n}{(n^2 - 1)^2} \bigg) $ Thanks.

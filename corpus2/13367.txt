@@ -1,0 +1,1 @@
+I have written code that randomly generates a 3D vector of random magnitude. I now want to create a histogram of how many vectors lie in the concentric spherical shells (n*delta r, (n+1)delta r) starting from (0, delta r). The simplest way to do this is just find how many endpoints end up in each shell but I'm not sure how to go about this.

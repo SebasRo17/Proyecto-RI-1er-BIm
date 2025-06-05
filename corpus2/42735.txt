@@ -1,0 +1,1 @@
+Here we have an elementary limit that Mathematica simply doesn't want to compute it.   What solutions might I have to fix that? Could you help here? As you can easily guess,   the limit is precisely $0$. Below you may find the code I used               N[Limit[Integrate[Sin[t^n], {t, 0, Pi/2}], n -> Infinity, Assumptions -> n \[Element] Integers]]

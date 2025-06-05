@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Generating graphs interactively (GUI) If I plot a graph, is it possible for me to manipulate the vertices such that when I move them, their attached edges will follow. One option that I tried is to change the graph into a graphics object, but then the edges and vertices lose their sense of being connected to each other.

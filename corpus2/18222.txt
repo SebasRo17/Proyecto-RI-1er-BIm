@@ -1,0 +1,1 @@
+In _Mathematica_ 8 when I enter `1 - 0.99 - 0.01` I get `8.67362*10^-18` instead of zero. How do I fix this problem? I am getting imaginary solutions because of this error in my program.

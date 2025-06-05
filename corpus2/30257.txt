@@ -1,0 +1,1 @@
+What probably could be the inverse of following function?               y = (x^(1/t)-a^(1/t))*(x^(1/t)-c*b^(1/t))/(x^(1/t)-a^(1/t))*(x^(1/t)-c*b^(1/t))+           (x^(1/t)-   b^(1/t))*x^(1/t)-c*a^(1/t)      a,b,c & t are the parameters. Any help is going to be highly appreciated.

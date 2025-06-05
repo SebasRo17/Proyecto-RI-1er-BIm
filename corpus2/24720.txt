@@ -1,0 +1,1 @@
+I would like to plot the Fourier sine series for $f(x) = x$. I would like to manipulate the parameter `n` from $0$ to $10$ and plot the sine waves over $(0,1)$. My code below does not work; what is wrong?               Manipulate[Plot[FourierSinSeries[x, x, n], {x, 0, 1}], {n, 0, 10}]

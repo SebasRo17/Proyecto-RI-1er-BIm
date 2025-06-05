@@ -1,0 +1,1 @@
+I like to use Manipulate[] in modal mode. That means the next cell should be evaluated **after** Manipulate[] has finished!

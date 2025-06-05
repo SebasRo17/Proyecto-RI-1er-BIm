@@ -1,0 +1,1 @@
+DeleteDuplicates[Permute[{g, g, g, g, g, e, r}, AlternatingGroup[7]]]      How to count number of lists automatically?

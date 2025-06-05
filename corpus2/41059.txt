@@ -1,0 +1,1 @@
+I am trying to normalize the following vector in _Mathematica_ with the `Normalize` command. $$(-1+2\cot[x]\csc[x]+2\csc[x]^2,\;2^\frac{1}{2} (1+\cos[x])\csc[x],\; 1)$$ I specified that the argument was real, but keep getting `Abs` in my answer. Is there anyway around this?

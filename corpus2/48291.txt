@@ -1,0 +1,1 @@
+Every time I open a notebook contains a legend, I get the message warning that it's not safe. > The file contains potentially unsafe dynamic content. Why does this happen and how to fix it? ![enter image description here](http://i.stack.imgur.com/2qsUe.png)

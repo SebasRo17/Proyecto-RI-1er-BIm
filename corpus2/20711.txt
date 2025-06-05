@@ -1,0 +1,1 @@
+I'm trying to get this expression to display as typed instead of evaluating the 1/1.121.               SetAttributes[TraditionalForm, NHoldAll];     TraditionalForm[(17.517*CuS^2 - 12.081*CuS + 54.875)/(1.121)]      After reading the documentation I would have thought NHoldAll would have stopped this but it doesn't seem to.

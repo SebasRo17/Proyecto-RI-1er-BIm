@@ -1,0 +1,1 @@
+P0 = 0.1;     K = 1000;     Quiet[sol = Solve[{K*P*L == PL, P0 == P + PL, r*P0 == L + PL}, {P, L,PL}][[1]]];     complex = PL /. sol;     Plot[complex, {r, 0.1, 2}]      How can I make the solution into a function of parameter `r` in order to get the derivative of the solution, `D[complex[r],r]`?

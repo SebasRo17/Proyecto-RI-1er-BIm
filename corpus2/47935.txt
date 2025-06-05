@@ -1,0 +1,1 @@
+I need to receive data from a serial port and save it to a list so I can use it later. Since the input will depend on human interaction, My program must keep running and saving as long as data is available from the port. Whats the best way to do that?

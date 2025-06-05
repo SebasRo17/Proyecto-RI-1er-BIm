@@ -1,0 +1,1 @@
+I'm pretty new to _Mathematica_ and I need to figure out how to create a $n\times n$ tridiagonal matrix for any $n$. I don't have the slightest clue where to begin. Edit: got this far, not sure how to set it to nxn               SparseArray[{Band[{1, 1}] -> x, Band[{2, 1}] -> y,  Band[{1, 2}] -> z}, {5, 5}]     // MatrixForm

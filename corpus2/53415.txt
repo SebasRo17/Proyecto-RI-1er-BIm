@@ -1,0 +1,1 @@
+Trying out Mathematica 10 and I still get the Courier font, not the new font shown in all of the examples on Wolfram's website. Anybody have any ideas how to get the new font working? Running on Mac OS X if that helps. I also deleted my entire Library/Mathematica folder, but that did not help.

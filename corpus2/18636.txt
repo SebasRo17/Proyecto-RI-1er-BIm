@@ -1,0 +1,1 @@
+Really I'm just trying to use the `Ctrl`+`2` shortcut to make a radical, but for some reason this won't work. What could possibly be going wrong? The exponent shortcut works (i.e. `Ctrl`+`6`).

@@ -1,0 +1,1 @@
+The function GeneratingFunction gives generating function for Taylor series. Is there a similar function for Newton's series? $$f(x) = \sum_{k=0}^\infty \binom{x}k \Delta^k [f]\left (0\right)$$

@@ -1,0 +1,1 @@
+I want to convert `{Hold[1 + 2], Hold[3 + 4], Hold[5*6]}` into `Hold[{1 + 2, 3 + 4, 5*6}]`. I have tried               {Hold[1 + 2], Hold[3 + 4],  Hold[5*6]} /. {Hold[a_], Hold[b_], Hold[c_]} -> Hold[{a, b, c}]      > >     Hold[{1 + 2, 3 + 4, 5 6}] >   Is there a simpler way?

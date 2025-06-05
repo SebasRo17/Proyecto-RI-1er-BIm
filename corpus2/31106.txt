@@ -1,0 +1,1 @@
+I have data that is timestamped with UNIX time, which is the number of seconds since January 1, 1970 UTC. Unfortunately, it seems that most of the date and time functions in Mathematica are based on the system's local time zone. How can I convert a UNIX timestamp to a `DateList` in UTC?

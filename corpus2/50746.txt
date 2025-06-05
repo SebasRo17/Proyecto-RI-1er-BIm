@@ -1,0 +1,1 @@
+I need to write code like this: Do operation 1, but if it takes more that 5 seconds then stop it and do operation 2. Is it possible to do this somehow without manual interruption?

@@ -1,0 +1,1 @@
+Once I saw people using Matlab use a keystroke shortcut that made all the same symbols as a selected symbol become blue. I am wondering is there is a function in _Mathematica_ that is similar. If so, what's the keyboard convenient shortcut. (Of course, `Ctrl`+`F` can be made to do something a little similar, but that is not what I'm looking for.)

@@ -1,0 +1,1 @@
+Suppose I have a vector equation:               Y'[t]==rhs[Y[t]]       and               Y[0]==ConstantArray[0,n]      where "rhs[Y[t]]" is a black box function which numerically calculates a N-length vector given a N-length vector Y[t]. How can I solve such an equation in "NDSolve" ? Update: Say my rhs is :               rhs[{x_?NumberQ,y_?NumberQ]={x,y}

@@ -1,0 +1,1 @@
+How to force _Mathematica_ to **output** an expression such as $a1u1+a2u2+a3u3$ as a `Dot` product like this one:               {a1,a2,a3}.{u1,u2,u3}       or A.U

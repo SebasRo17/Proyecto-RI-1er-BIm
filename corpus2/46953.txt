@@ -1,0 +1,1 @@
+I'd like to write a function that delays the evaluation of a function (say) $5$ seconds after I hit `Shift`+`Return`. Is this possible?

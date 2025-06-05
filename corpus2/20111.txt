@@ -1,0 +1,1 @@
+I have a website on sites.google and I also have blog on wordpress. I would like to include some CDF files on them. How can it be done?

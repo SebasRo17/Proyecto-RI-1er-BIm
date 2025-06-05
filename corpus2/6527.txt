@@ -1,0 +1,1 @@
+> `TINV()` returns the t-value of the Student's t-distribution as a function > of the probability and the degrees of freedom. For example `TINV(0.475,42) = > 0.720842172`. (source) What is the Mathematica equivalent for the Excel function tinv()?

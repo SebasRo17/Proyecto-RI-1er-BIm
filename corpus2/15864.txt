@@ -1,0 +1,1 @@
+I am trying to make a simulation of an airfoil in Mathematica. The final coordinates of the airfoil are parametric, but some of the other things like chord line are f(x) functions. Is there any way that I can plot a normal function and a parametric function on the same graph? Thank you.

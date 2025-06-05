@@ -1,0 +1,1 @@
+I am currently running _Mathematica_ 8 and I would like to know how to define custom operators. Let's say I define an operator called $\times$ where: $$a\times b = a+a\cdot b+b$$ I also want to know if it is commutative, associative, its inverse, identity and whether it is closed for Z. How would I do that in _Mathematica_.

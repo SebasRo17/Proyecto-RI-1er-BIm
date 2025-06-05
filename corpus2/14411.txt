@@ -1,0 +1,1 @@
+This should be an easy question but I only found a partial solution using `All`. Say I have a matrix A = 1000 x 5, how to get only a part of that matrix, say B = _n_ x 5, where _n_ can be any positive integer that's less than 1000 or the original matrix A row?

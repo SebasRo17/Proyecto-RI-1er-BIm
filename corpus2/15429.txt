@@ -1,0 +1,1 @@
+When manipulating colors, the output is shown as a textual expression like `Hue[1/5]`, `RGBColor[2/3, 1, 1/3]`, `GrayLevel[3/5]`. It can be hard to visualize what color these represent. How can you quickly display the color itself on screen?

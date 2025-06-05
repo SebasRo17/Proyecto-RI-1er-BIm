@@ -1,0 +1,1 @@
+When I make a plot like               Plot[Exp[x], {x, 1 - 10^-9, 1}]      The resulting plot looks like ![exp plot near 1](http://i.stack.imgur.com/7sKyb.png). Notice all the ticks on the x-axis are all labeled 1. Is there any way to increase the precision of the tick labels? So that the ticks are labeled something like 0.999999999, or 1-10^{-10} etc.

@@ -1,0 +1,1 @@
+{{λ E, B}, {λ A1, λ E}}.{{E, 0}, {-A1, E}}      \begin{align*}\left(\begin{array}{cc} E^2 \lambda -A1 B & B E \\\ 0 & E^2 \lambda \\\\\end{array}\right)\end{align*} The result is not quit true, since $A1 B$ may not equal to $B A1$ when $A1$ and $B$ are block matrix.

@@ -1,0 +1,1 @@
+I looked around a bit and didn't seem to find it. Not as obvious as Wrox books make it, for example. I came across a pdf of the book online [I paid for the paperback] but pasting the code from the pdf resulted in a bunch of incorrect character substitutions. Any info on a resource for this?

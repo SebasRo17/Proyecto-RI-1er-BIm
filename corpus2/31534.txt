@@ -1,0 +1,1 @@
+I would like to integrate the following function with Legendre polynomial and Gamma function. I am open to suggestions.               (* assumptions = {s > 0, α > 0} *)          Φ[s_, x_, α_] := (-1)^s Sqrt[(s α)/Gamma[1 + 2*s]]                       LegendreP[s, s, Tanh[α x]]          a1 =  Integrate[x Φ[s, x, α]^2, {x, -∞, ∞}]

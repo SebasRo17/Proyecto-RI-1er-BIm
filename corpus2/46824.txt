@@ -1,0 +1,1 @@
+Does somebody have some interesting references on the `FindGraphPartition` and `FindGraphCommunties[.., Method -> "Spectral"]` functions and their algorithms as implemented by _Mathematica_ 9.

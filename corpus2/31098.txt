@@ -1,0 +1,1 @@
+Is there a way to introduce a new integration symbol? Specifically I want to be able to use ⨍. I have no problem entering it into mm, but the size does not change like the standard \int does.

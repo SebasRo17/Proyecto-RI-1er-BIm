@@ -1,0 +1,1 @@
+I have an expression:               a + i*b + d + i*e + r = 0      Now I want _Mathematica_ to sort this like: > >     a + d + r + i(b + e) >   How can I do that?

@@ -1,0 +1,1 @@
+Is it possible to publish or distribute Models generated with WSM in CDF format (to interested people that do not have Mathematica and/or WSM)

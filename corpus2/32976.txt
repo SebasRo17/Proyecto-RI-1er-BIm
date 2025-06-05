@@ -1,0 +1,1 @@
+Is there a way to raise system-wide "keypress" events programmatically from within Mathematica? Say "Ctrl+C" or "Ctrl+V", which all other programs can recognize? This is an attempt to gain simple control/automation of other programs from within the Mathematica environment

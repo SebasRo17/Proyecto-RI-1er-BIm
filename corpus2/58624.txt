@@ -1,0 +1,1 @@
+I wanted to ask the following question: I need to find the solutions (a particular one is enough!) A and B of the equation > $A^2 + AB + B^2 = (a^2+ab+b^2)(c^2+cd+c^2)$ How can I do it? Thank you very much!

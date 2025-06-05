@@ -1,0 +1,1 @@
+How do I create an operator which acts like a derivative to everything to the right of it: for example: $ \left( \partial_x + \partial_y + z \right ) x \psi $ How do I make that evaluate to: $x \partial_x \psi + \psi + x \partial_y \psi + z x \psi $ (I want the derivatives to distribute...)

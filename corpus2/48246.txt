@@ -1,0 +1,1 @@
+I have attached a scheme of the problem. Essentially what I need is to plot 2 different vector fields in a single graph with different domains. The underlying physical problem is to model electric current around and inside a sphere of a different material than the surroundings. ![enter image description here](http://i.stack.imgur.com/Z9ZKb.png) Thanks

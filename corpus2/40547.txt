@@ -1,0 +1,1 @@
+I have this equation, $$f(x)=Ax-diag(x)(Ax+b)$$, where $x\in \mathbb{R}^n$, $A\in \mathbb{R}^{n\times n}$ and $b\in \mathbb{R}^n$, for which I need to find the zeros. $x=0$ is an obvious solution, but I would like to see if there are other solutions as well. Is there an explicit way to get the solution in terms of, $A$ and $b$ without specifying the matrices completely?

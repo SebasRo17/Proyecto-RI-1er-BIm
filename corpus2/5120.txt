@@ -1,0 +1,1 @@
+This can be useful if the curve is passing over both dark and light backgrounds (like well-done subtitles in movies).

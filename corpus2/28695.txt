@@ -1,0 +1,1 @@
+I know that `Intersection` is a pattern matching function and will not evaluate list elements to determine if two or more list have equal elements. So my question is, what can be done to do this? Say, determine if two lists have numerically equal elements within some tolerance dx?

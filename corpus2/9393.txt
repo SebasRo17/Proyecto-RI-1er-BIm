@@ -1,0 +1,1 @@
+I recently got a Mac. It has CDF Player, but not _Mathematica_. How do I get CDF Player to switch between different CDFs on OS X Lion? ## Edit I forgot to mention that I want to know how to switch between CDFs when in Full Screen mode. There must be a hot key for that. For that matter.... What's the best way to switch from Full Screen to a window with menus?

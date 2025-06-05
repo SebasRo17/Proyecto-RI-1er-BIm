@@ -1,0 +1,1 @@
+Running               InstallR["RHomeLocation" -> "C:\\Program Files\\R\\R-3.0.1"]      results in a popup box titled "Version Mismatch" saying > Error: R.DLL version does not match (DLL:3.0.1, expecting: 2.14.0). Does RLink only work with versions of R at or around v2.14?

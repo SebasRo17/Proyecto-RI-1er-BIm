@@ -1,0 +1,1 @@
+How can I solve the equation `Tan[t] - t = Ax`, where `A` is a constant for `t[x]`? I know that it's impossible to get a close-form solution, but how can I get a numerical approximation with _Mathematica_?

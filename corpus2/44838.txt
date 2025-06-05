@@ -1,0 +1,1 @@
+I am trying to execute following:               TensorTranspose[Outer[D, metric, x], {2, 3}].       And _Mathematica_ says me > >     TensorTranspose::symmperm: "Invalid permutation or symmetry generator > {2,3}. >   While for permutation `{1,2}` there would not be an error. metric has dimentions `{5,5}`, `x` has `{5}`. Could anyone tell what is wrong with `{2,3}`?

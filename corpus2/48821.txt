@@ -1,0 +1,1 @@
+I want a table with a single column of data, and with headings along both the rows and the column. One might expect it to work like this:               TableForm[{"one", "two", "three"},       TableHeadings -> {{"$10MM", "$20MM", "$30MM"}, {"col"}}]      But this does not work; it displays the data and the row labels correctly, but it does not label the column. What am I missing?

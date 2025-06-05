@@ -1,0 +1,1 @@
+I am a new user of _Mathematica_. I have the following non-linear equations in two variables: ![enter image description here](http://i.stack.imgur.com/hGz6z.png) How can I solve this system with _Mathematica_?

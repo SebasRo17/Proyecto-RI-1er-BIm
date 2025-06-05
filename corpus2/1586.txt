@@ -1,0 +1,1 @@
+I have the following expression               -3 I Ez Re[Ex] + 3 I Ex Re[Ez]      And I wish to write this in the form `-3 Re[I Ez Conjugate[Ex]]`. So I have made the rule               f_ I x_ Re[y_] - f_ I y_ Re[x_] -> f Real[I x Conjugate[y]]      But my expression does not seem to match that expression. What is wrong?

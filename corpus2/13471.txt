@@ -1,0 +1,1 @@
+What astronomical event do `AstronomicalData`'s `"NextRiseTime"`, `"NextSetTime"`, `"LastSetTime"`, and `"LastRiseTime"` values refer to? Are these times that the geometric centers of the objects in question cross the horizon, or their outer limbs; do they take into account refraction, or do they refer to the crossing of the geometric horizon?

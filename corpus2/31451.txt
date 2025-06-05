@@ -1,0 +1,1 @@
+I have created a notebook, with functions. The only thing that I want to change in the notebook later is the input file. I therefor want to have a button that runs every input step-by-step so that I do not have to go into every input and press enter for it to update. How could this be done.

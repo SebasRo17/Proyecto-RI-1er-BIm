@@ -1,0 +1,1 @@
+I've been using `NSolve` to find roots and now I've been wondering what underlying algorithm mathematica uses. It's probabaly similiar to `FindRoot` so is it the _Newton-Raphson_ method?   In class we've been told that it probably is a mix of the _Newton-Raphson_ and the bisection methods.

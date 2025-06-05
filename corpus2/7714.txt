@@ -1,0 +1,1 @@
+Having 4 points **A** `(ax, ay)`, **B** `(bx, by)`, **C** `(cx, cy)` and **D** `(dx, dy)` that describe any quadrangular in 2D, with `x` and `y` in range `[-100, 100]` I would like to calculate point **E** `(ex, ey)`, which would be a center of this quadrangular. What algorithm can be used for such calculation and why?

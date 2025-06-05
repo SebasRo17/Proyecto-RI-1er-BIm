@@ -1,0 +1,1 @@
+Can someone explain why the term A in case 2 does not get canceled out when case 1 does? I use "9.0 for Microsoft Windows (64-bit) (January 25, 2013)"               case1 = A*(E^(-λ) + α) == A;     Simplify[case1, A > 0]      gives `1 + E^λ α == E^λ`               case2 = A*(E^(-2*λ) + α) == A;     Simplify[case2, A > 0]      gives `A (E^(-2 λ) + α) == A`

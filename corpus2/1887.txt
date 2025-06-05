@@ -1,0 +1,1 @@
+Say I have a vector $Z_n$ with and I want to transform it into another vector using this formula: $X_t=Z_t+0.7Z_{t-2}$ The problem is that I am not quite sure how to get that $t-2$ lag in there. I see how I could do it with a `For` loop but that doesn't seem like a very Mathematica way of doing it.

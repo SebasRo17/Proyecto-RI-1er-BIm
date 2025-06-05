@@ -1,0 +1,1 @@
+I wanted to ask if there is a Mathematica program for PLUR decomposition of a symbolic matrix M, such that M = P*L*U*R, using FULL (row and column) pivoting, and where R = reduced row echelon form of M. The entries of the matrix M are rational numbers, floating point numbers and symbolic expressions.

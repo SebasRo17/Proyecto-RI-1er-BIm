@@ -1,0 +1,1 @@
+Is it possible in the Mathematica front-end to associate a keyboard shortcut with a cursor location in the notebook (kind of like marks in vim) so that one can return to them quickly later? (Just wondering if this functionality exists in some easy-to-use form already or if it would be necessary to build something from scratch using presumably the front-end tokens.)

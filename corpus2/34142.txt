@@ -1,0 +1,1 @@
+Given a list of vectors `v = {v1, ..., vn}`, which is the fastest way to find a maximal sublist of linearly independent vectors? I could add the vectors one by one to a list and check for the rank of the resulting matrix, but I would like to know if there's a better solution. Thanks in advance.

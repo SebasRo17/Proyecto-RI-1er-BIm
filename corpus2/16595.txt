@@ -1,0 +1,1 @@
+I updated `Mathematica`,`CdfPlayer` to new Version (9). I made a simple Application in Mathematica 9 and deployed into `CDF`.I get unnecessary messages whenever i open that `CDF` file. How can I overcome that? Error Message : ![enter image description here](http://i.stack.imgur.com/RuTL7.png)

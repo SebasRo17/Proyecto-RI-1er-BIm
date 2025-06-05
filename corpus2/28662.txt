@@ -1,0 +1,1 @@
+I have a polynomial expression of order n (say n=20). `F(x)=1+x+x^2+x^3++...x^20`. I want to approximate the polynomial for order 3 only. So I need to make the coefficient of power of x greater than 3 to zero. How can I do that in _Mathematica_?

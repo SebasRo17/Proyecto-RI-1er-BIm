@@ -1,0 +1,1 @@
+If I had to construct a function for falling factorial in mathematica I'd do something like that (hope I'm not mistaken): > fallfact[x_,k_]:=$\prod_{j=0}^{k-1}(x-j)$ But is there a built-in function for falling factorial in Mathematica?

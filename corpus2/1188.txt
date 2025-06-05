@@ -1,0 +1,1 @@
+Is there any way I can programatically determine whether a notebook has unsaved edits? Is that asterisk on the right of the notebook name represented in a notebook option or something, like `HasUnsavedEdits`?

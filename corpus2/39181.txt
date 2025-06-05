@@ -1,0 +1,1 @@
+Is there a way in Mathematica 9 to enter and solve the following equation $p(x) = r^x$ where $p(x)$ is a polynomial whose coefficients are drawn from a finite field, and $r$ is a primitive root of the field modulus ? EDIT As an example, how to solve $x^3 + x^5 == 3^x$ mod 7

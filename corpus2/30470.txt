@@ -1,0 +1,1 @@
+You can double-click the right gutter of a input cell to hide a corresponding output cell or double-click the gutter of the output cell to hide the input cell. I would like to hide both the input and the output cell. Is this possible to do within the GUI?

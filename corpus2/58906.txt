@@ -1,0 +1,1 @@
+I am trying to solve for a numerical solution for an equation which contains variables that evolves as index i incrreases. The actual equation that I am using to extract solution for x with an ongoing iteration with index i is the following:

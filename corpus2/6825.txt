@@ -1,0 +1,1 @@
+Given a list of circles of different areas, I need to arrange them tangentially in order of increasing area and spiraling outward. An example of the type of packing I'm attempting is shown by the orange circles in the figure below: ![enter image description here](http://i.stack.imgur.com/Pl1du.png) Is there a concise way to calculate the centers of the circles?

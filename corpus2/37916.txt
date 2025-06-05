@@ -1,0 +1,1 @@
+In Matlab, such issue is handled by               varargout, // a cell structure to store all output arguments     varargin, // a cell structure to store all input arguments     nargout, // number of output arguments     nargin // number of input arguments      Is there any equivalent implementation in Mathematica, and how? A simple working example would be much appreciated!

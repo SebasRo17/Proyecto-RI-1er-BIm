@@ -1,0 +1,1 @@
+I have a .txt file which contains a lot of triples (a, b, c) (one per row) which should be coefficients of my equation ax^2+bx+c=0. I want to include each triple in .nb file and solve each equation. Can anyone help me with my problem? Thanks!

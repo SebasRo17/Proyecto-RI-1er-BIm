@@ -1,0 +1,1 @@
+I have a 5 x 5 matrix: cdsSpread5yrs = ![enter image description here](http://i.stack.imgur.com/0gX7b.png) But after doing a row extract, why is it displaying as a column?               rowSpread2 = cdsSpread5yrs[[2]];       rowSpread2 // MatrixForm      ![enter image description here](http://i.stack.imgur.com/SSIOn.png)

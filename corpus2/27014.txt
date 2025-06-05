@@ -1,0 +1,1 @@
+How do I change the color of numbers and the text representing defined functions in my notebook?

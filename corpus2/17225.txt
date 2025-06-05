@@ -1,0 +1,1 @@
+So far I've got this:               draw[a_, b_] := Plot[{f[a, b[[1]], x], f[a, b[[2]], x]}, {x, 0, 5}]      The function `draw` will be used like this:               draw[10, {4, 7}]      The example is written for the case with two elements in the list that is the second argument. How do I do it when the second argument is a list with any number of elements?

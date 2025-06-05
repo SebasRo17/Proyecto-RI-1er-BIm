@@ -1,0 +1,1 @@
+Does _Mathematica_ have an interactive date input control that lets the user choose a date by browsing to a calendar view and returning the selected date as a date list? For example, something like the Datepicker in jQuery.

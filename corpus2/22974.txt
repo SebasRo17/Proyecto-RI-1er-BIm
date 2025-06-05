@@ -1,0 +1,1 @@
+Say I have a signal F(t) which represents a excitation by a pulse (so it is not periodic and declining to zero amplitude). According to this answer, for instance, `Fourier[Data]` in _Mathematica_ assumes otherwise. How can I can specify that the data is not periodic so I can get the correct spectrum?

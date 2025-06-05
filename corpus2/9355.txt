@@ -1,0 +1,1 @@
+I can minimize a notebook easy enough with Mathematica code, but how does one minimize all of the Mathematica front end? Just as if you clicked the minimize button on the menu bar? This is for version 8 on windows XP if that helps.

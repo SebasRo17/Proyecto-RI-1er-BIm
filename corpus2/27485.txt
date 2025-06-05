@@ -1,0 +1,1 @@
+I would like to create a function in _Mathematica_ , which returns the equivalent Excel column label (e.g., A, Z, AA, AZ, and so on) given a column number. I think it can be done with `IntegerString[10,26]`, but this representation set of this chars is 0 to 9 and then a to z. However, Excel uses only A to Z. How can this be done?

@@ -1,0 +1,1 @@
+Is it possible to make within Mathematica an image file to be used as a screen icon? Could you kindly give an example?

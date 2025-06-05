@@ -1,0 +1,1 @@
+How do i create 15x2 matrix with 2x2 random integer elements? My code only returned identical 2x2 elements: ![This is what i get when i tried to do that.](http://i.stack.imgur.com/zAJmd.png)

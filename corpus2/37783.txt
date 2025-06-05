@@ -1,0 +1,1 @@
+I'm trying to fit               data = {{2002, 45000}, {2004, 90000}, {2005, 120000}, {2013, 211000}};      to an exponential function `a*Exp[b*x]+c` but Mathematica returns `FittedModel[0]` when I use:               NonlinearModelFit[data,a*Exp[b*x]+c,{a,b,c},x]      Any help would be gladly welcomed.

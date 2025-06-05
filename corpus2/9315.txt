@@ -1,0 +1,1 @@
+When I rotate my 3D plot to the desired viewpoint my X axis runs from 1 at the left to 0 at the right. How can I mirror my plot so that 0 will be at the left and 1 at the right? Extra credit: how can I get the `ViewPoint` vector after manual rotation?

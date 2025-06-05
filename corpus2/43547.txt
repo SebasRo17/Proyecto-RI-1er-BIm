@@ -1,0 +1,1 @@
+In MATLAB you can use an anonymous function with another function to define a new function with fewer arguments as long you define the excluded argument before, e.g.               z=1          f1=@(x,y) f(x,y,z)          x=2          y=3          f1(x,y)      Can you do that in Mathematica?

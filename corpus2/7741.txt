@@ -1,0 +1,1 @@
+I wish to display logarithms with different bases in the single-term rather than numerator/denominator form during output:               Log[17]/Log[2]   ->  Log2[17]     Log[13]/Log[10]  ->  Log10[13]     Log[99]/Log[11]  ->  Log[11, 99]      What is the best way to apply formatting rules like this?

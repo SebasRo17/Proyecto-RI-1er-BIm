@@ -1,0 +1,1 @@
+I generated a very large graph, too large to simply display and manipulate with copy/paste operations. How can I somehow save the graph to a file to allow it to be rapidly reloaded after I quit out of the kernel and restart Mathematica?

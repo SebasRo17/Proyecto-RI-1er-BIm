@@ -1,0 +1,1 @@
+In response to my question How can I get the unchanged Box form of an arbitrary expression? John Fultz answered with a method using the hilariously named `FrontEnd`UndocumentedTestFEParserPacket`. What is the complete list of such Packets?

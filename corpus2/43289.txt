@@ -1,0 +1,1 @@
+Do you have any idea how to force an order of Greek letter in the graphics? When I type in               AxesLabel -> {Cost, Δ OverBar[π]}      the order is π Δ. How can I force it to be Δ π?

@@ -1,0 +1,1 @@
+How can I change the number point from `.` to `,` in `CustomTicks` ? The _Mathematica_ built-in function               NumberForm[Plot[…],NumberPoint -> ","]      doesn't work any more, if you use e.g. `LinTicks`.

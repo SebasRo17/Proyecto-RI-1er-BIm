@@ -1,0 +1,1 @@
+Is there any a nice looking solution to the following equation?               eq[x_] := 2 x q1 - 2 q2/x^3 - (4 x^3 q3 - 4 q5/x^5)/(4 Sqrt[x^4 q3 + q4 + q5/x^4])      Better than the one _Mathematica_ gives as output?                Solve[ eq[x] == 0, x]

@@ -1,0 +1,1 @@
+Command `Position` always comes with two extra curly brackets {{}} when it's just one index for the location. I use [[1,1]] in front of my position commands. Is there a better way?

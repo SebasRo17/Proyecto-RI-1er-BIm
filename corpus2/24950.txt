@@ -1,0 +1,1 @@
+I want to plot the function $y=2^x$ at the $x$-values given by `Table[Prime[n], {n,20}]` How should I write the plot function? Like so?               list = Table[Prime[n], {n,20}]     Plot[y = 2^x, Evaluate[list]]

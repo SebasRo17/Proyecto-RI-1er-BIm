@@ -1,0 +1,1 @@
+I would like to evaluate the value of the following SmoothKernelDistribution at the location, say, 2.35. What is the right way to do it?               data1 = {1, 2, 3};     DD = SmoothKernelDistribution[data1, 0.5];     Plot[PDF[DD, x], {x, -2, 10}]

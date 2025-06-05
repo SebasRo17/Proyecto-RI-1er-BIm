@@ -1,0 +1,1 @@
+If we have the large matrix               A=RandomReal[{-10, 10}, {1000, 1000}];      and I need it for further calculation, how can I save it on hard disk and then call for further calculation? Output is very large and _Mathematica_ can not present it, so I can not copy/paste it? Is it possible to print it and then call from hard disk? Thank you in advance!

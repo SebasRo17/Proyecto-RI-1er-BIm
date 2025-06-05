@@ -1,0 +1,1 @@
+I am filtering a blurred image, and want to evaluate the performance of Peak Signal to Noise Ratio (PSNR) in _Mathematica_ version 9.0. But I am facing the problem of evaluating the PSNR. Could anyone explain how to do this?

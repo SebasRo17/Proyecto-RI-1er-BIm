@@ -1,0 +1,1 @@
+The default input / output font size in Mathematica's notebooks are too small for my screen. I would like to set up _permanently_ a conveniently larger font size so that in any future session I get always the size I want. Can you please help me?

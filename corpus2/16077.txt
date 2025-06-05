@@ -1,0 +1,1 @@
+In the following example:               ListPlot[{1, 2, 3}, Background -> Green]      how can I set the `Opacity[]` for the background such that the opacity increases from top to bottom?

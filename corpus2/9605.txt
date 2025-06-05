@@ -1,0 +1,1 @@
+I am trying to create horizon plots in Mathematica similar to what is described here: http://timelyportfolio.blogspot.com/2012/08/more-on-horizon-charts.html Any suggestions how to approach this? ![Mathematica graphics](http://i.stack.imgur.com/4TUiG.png)

@@ -1,0 +1,1 @@
+I know that `$Epilog` is called when _Mathematica_ is exited; is there a callback upon exiting the notebook? If so, what is it?

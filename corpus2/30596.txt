@@ -1,0 +1,1 @@
+What would be the best way to have the value of x update before the pause (or a similarly slow function) finishes executing?               x = 0; Dynamic[{x, Button["+1", x++; Pause[3]]}]

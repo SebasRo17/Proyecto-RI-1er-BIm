@@ -1,0 +1,1 @@
+How can I get a histogram with a logarithmic scale only on the the y-axis? With               data=RandomReal[NormalDistribution[0, 1], 200]          Histogram[data, {"Log", 10}, "LogCount"]      I get a log scaled histogram for both axis. I'm using mathematica 7.

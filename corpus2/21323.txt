@@ -1,0 +1,1 @@
+Is there anyone who know how to make diagonal lines inside the chart bar like the below picture? ![enter image description here](http://i.stack.imgur.com/6m8yE.png)

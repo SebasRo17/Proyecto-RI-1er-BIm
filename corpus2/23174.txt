@@ -1,0 +1,1 @@
+How can I plot the vector function $r(t) = i + j + t\;k$, where _i, j, k_ are unit vectors, and _t_ is the parameter of the function r.

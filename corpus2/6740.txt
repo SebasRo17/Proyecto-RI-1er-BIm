@@ -1,0 +1,1 @@
+I'm trying to determine if the roots of a function are real. How would you do that? (In particular I'm interested in verifying that the roots of `LegendreP[6, x]` are real.)

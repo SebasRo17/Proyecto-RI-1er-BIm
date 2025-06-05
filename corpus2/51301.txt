@@ -1,0 +1,1 @@
+With `n = 17` I would like to get > {4, 1} and with `n = 999` > {31, 6, 1, 1} so that, for example,               Total[#^2 & /@ {31, 6, 1, 1}]      gives > 999 I don't want to get all possibilities, but only the shortest.

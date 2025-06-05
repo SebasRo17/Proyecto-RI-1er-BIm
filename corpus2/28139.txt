@@ -1,0 +1,1 @@
+$$\sqrt{r^2 e^{4 \gamma (r)-4 \psi (r)}}$$ If I set               var = r^2*E^(4 \[Gamma][r] - 4 \[Psi][r])          Simplify[Sqrt[var], var > 0]      I just get $$\left| r\right| \sqrt{e^{4 \gamma (r)-4 \psi (r)}}$$ How to tell Mathematica to perform the full square root calculation? $$r e^{2 \gamma (r)-2 \psi (r)}$$

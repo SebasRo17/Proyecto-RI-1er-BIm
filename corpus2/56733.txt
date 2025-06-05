@@ -1,0 +1,1 @@
+k.k.k //. {k.k -> k}      works perfectly, so the output is just `k`. But, when I use `Esc`.`Esc` (center dot, CenterDot[k,k]) instead of . (comma),               k Esc.Esc k Esc.Esc k //. {k Esc.Esc k -> k}      does not work while               k Esc.Esc k //. {k Esc.Esc k -> k}      works. How can I fix this problem?

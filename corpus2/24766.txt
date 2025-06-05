@@ -1,0 +1,1 @@
+Does `LinearModelFit` give an ordinary linear regression? I see lots of options, but nothing like "least squares" or OLR.

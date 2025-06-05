@@ -1,0 +1,1 @@
+![enter image description here](http://i.stack.imgur.com/PuK0W.gif) I can only implement a very simple one, I want to make my code look like that. Any better ideas?               Manipulate[       Partition[ Table[ If[ PrimeQ @ i, Framed @ i, Style[i, Gray]], {i, 1, j, 1}], 10],       {{j, 10}, 1, 100, 1}]

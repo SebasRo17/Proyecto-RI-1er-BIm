@@ -1,0 +1,1 @@
+I have date and time data and want to plot its frequency histogram. Ideally I want to be able to customize the bin size (for example, every 5 minutes or a day). Anybody has this experience?

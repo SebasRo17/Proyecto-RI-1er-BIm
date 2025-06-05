@@ -1,0 +1,1 @@
+I cannot understand how Mathematica manages levels, and so it's always a painful try-and-fail to use `Flatten`. Can someone please give me a very clear definition? If you feel like giving an example, please tell me how to turn this list `{{a, {a1}}, {b, {b1}}, {c, {c1}}, ...}` into `{{a, a1}, {b, b1}, {c, c1}, ...}` with `Flatten`, if possible.

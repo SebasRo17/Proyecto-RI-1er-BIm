@@ -1,0 +1,1 @@
+I have two problems figuring out how to format my formulas properly so that when I print out the notebook the formulas look like the ones in my textbook. So far I've got this: $\sum\limits_{i=1}^5 x[[i]]-x$ but ideally I would want the i to be without the double square brackets, and also I would want a bar over the $2$nd $x$, and to make it the mean of the list $x$.

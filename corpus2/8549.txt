@@ -1,0 +1,1 @@
+I have the following code:               ϕ[0] := π/4     ϕ[n_] := Exp[-n] ϕ[n - 1] + Sqrt[1 - Exp[-2 n]] M     M = RandomVariate[NormalDistribution[0, 1]]      For this recursion relation, is the normal deviate taking a random variable during each recursion or is it just taking one for the whole recursion process? Thanks,

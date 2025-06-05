@@ -1,0 +1,1 @@
+Essentially what it says in the title. Mathematica can, IIRC, export it's code to C. How much overhead does that inflict on the code, as compared to writing it from scratch in C?

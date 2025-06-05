@@ -1,0 +1,1 @@
+In the front end of v9, in any given cell that contains content, if I hit backspace to clear the content until there is nothing left, and then hit backspace one more time, the cell becomes a 'section'. Is this a new feature? How do I use it? **Edit** Would someone verify this effect in the comments?

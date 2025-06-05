@@ -1,0 +1,1 @@
+I would like to create a $2D$ shape, say an ellipse, where each point in the ellipse is colored according a `RGB` function, so at point `x` and `y` the color would be:               RGBColor[ u[x,y], v[x,y], w[x,y]]      I am sure there has to be an easy way to do this, but I have not had much luck.

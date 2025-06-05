@@ -1,0 +1,1 @@
+I would like to write a book using _Mathematica_ , but I will write one chapter on several files. How to tell _Mathematica_ that the `BookChapterNumber` pointer has the value pointing to the next file in the same chapter ?

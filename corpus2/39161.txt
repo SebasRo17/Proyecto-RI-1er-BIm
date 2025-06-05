@@ -1,0 +1,1 @@
+How to plot and find the volume of the solid enclosed between the paraboloid `z=5(x^2+y^2)` and `z=6-7x^2-y^2` And the answer of the volume is `3Pi/(2)^1/2`

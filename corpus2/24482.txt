@@ -1,0 +1,1 @@
+I want to open only one plot in new window. When I use `<<JavaGraphics`` all plots open in new windows. I put `<<JavaGraphics`` before one last plot but it works for all plots. How can I do this?

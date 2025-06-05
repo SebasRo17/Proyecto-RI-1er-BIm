@@ -1,0 +1,1 @@
+I am creating a slide show with several imbedded `Manipulate` objects. I can hide the `Manipulate` command by clicking on the output cell bracket. I would like to eliminate (or to hide automatically generated output number, e.g. `Out[2] = ...`.   Is there a notebook level option to do this?

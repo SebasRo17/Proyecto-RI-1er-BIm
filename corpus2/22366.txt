@@ -1,0 +1,1 @@
+I have volumetric data, which I can render using `CUDAVolumetricRender[]`. However, I cannot seem to find a way to combine it with other 3D graphics, such as adding a bounding box, axes, labels, etc. How is `CUDAVolumetricRender[]` supposed to be customized? It returns a `DynamicModule`, which is pretty opaque.

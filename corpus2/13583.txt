@@ -1,0 +1,1 @@
+This is my code:               Graphics[{EdgeForm[Yellow], Yellow, Polygon[Table[{Cos[t], Sin[t]}, {t, 0, 4 π, (4 π)/5}]]}]      which gives this: ![](http://i.stack.imgur.com/49EMD.png) but I want to get: ![enter image description here](http://i.stack.imgur.com/76wFB.jpg) How?

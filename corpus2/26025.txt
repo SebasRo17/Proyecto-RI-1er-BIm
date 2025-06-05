@@ -1,0 +1,1 @@
+Considering the equation               a*x^3 + a*x^2 + x + b == 0      I'm looking to find the best value for `a` and `x` from the above polynomial (with `b` known) for which the second function using the same `a` and `x`               (65 + 103*a*x^2)/(1 + a*x^2)      gives me the closest `NonlinearModelFit` for an already determined set of (x,y) coordinates.

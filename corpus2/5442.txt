@@ -1,0 +1,1 @@
+I am generating a complicated graphics with Mathematica, but with objects of given sizes (e.g. a line of length 1 inch, between two points). I want to make sure that when I export the graphics, e.g. as pdf, and then when I print it, the line length on paper will be one inch, without additional tweaking (assuming no scaling when printing).

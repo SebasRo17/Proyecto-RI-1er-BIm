@@ -1,0 +1,1 @@
+For 2D graphics, there exists the function `FullGraphics` to turn the stuff Mathematica generates automatically on `Graphics` (like axes) into explicit graphics primitives. However that function doesn't work on `Graphics3D` objects. So is there some (possibly undocumented) function which does the same for 3 dimensional graphics?

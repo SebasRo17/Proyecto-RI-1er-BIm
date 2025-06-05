@@ -1,0 +1,1 @@
+When I create a breakpoint in Workbench 2 for an MUnit test, and run a debug build, the breakpoints are not breaking execution. The MUnit output is updated like a normal run without breakpoints. Why is this happening?

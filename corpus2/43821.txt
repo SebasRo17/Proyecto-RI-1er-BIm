@@ -1,0 +1,1 @@
+This starts with the list given, then evolves rule 30 for four steps.               In[1]:= CellularAutomaton[30, {0, 0, 0, 1, 0, 0, 0}, 4]          Out[1]= {{0, 0, 0, 1, 0, 0, 0}, {0, 0, 1, 1, 1, 0, 0}, {0, 1, 1, 0, 0, 1,        0}, {1, 1, 0, 1, 1, 1, 1}, {0, 0, 0, 1, 0, 0, 0}}

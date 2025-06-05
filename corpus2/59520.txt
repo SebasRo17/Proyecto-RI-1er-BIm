@@ -1,0 +1,1 @@
+Suppose I have some dataset,e.g.,               Histogram[RandomVariate[PoissonDistribution[2], 10000], 10]      which gives, $\hspace{2cm}$![enter image description here](http://i.stack.imgur.com/yb46O.jpg) How can I change the histogram such that it has variable bin size such, e.g., the first six bins have size 1 while the last two have size 2?

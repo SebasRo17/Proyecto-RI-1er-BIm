@@ -1,0 +1,1 @@
+If a cell exists as below:               In[1] := (xyPoints = {{1,2},{2,5},{3,10}}; ListLinePlot[xyPoints])      Is it possible to get at the expression rather than the plot shown in Out[1]. In other words, can I somehow get the held CompoundExpression in In[1] rather than the evaluated plot?

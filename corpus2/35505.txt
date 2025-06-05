@@ -1,0 +1,1 @@
+Has anybody experience with video and image recognition? I've made a video of two teams playing soccer. Now I would like to translate each soccer-player to a (x,y) coordinate and follow them during the match.

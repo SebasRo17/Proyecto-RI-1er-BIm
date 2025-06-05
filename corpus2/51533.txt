@@ -1,0 +1,1 @@
+I use wolfram mathematica. There is a function of two variables which defines the surface z = f(x,y), the second surface is defined as z = const. How to find the line of intersection of these two surfaces and its projection on XY plane?

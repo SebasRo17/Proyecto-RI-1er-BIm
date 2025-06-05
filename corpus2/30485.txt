@@ -1,0 +1,1 @@
+Graphics@Tooltip[Hyperlink[{Purple, Rectangle[{0, 0}]}, "http://www.wolfram.com"],      Graphics[Disk[]]]      Is it possible to make image tooltip kept in the html? ![enter image description here](http://i.stack.imgur.com/ZGk7a.png)

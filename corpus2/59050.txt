@@ -1,0 +1,1 @@
+What can be wrong with this?               Clear[a, b, c, x, AX, BX];     a > 0;     b > 0;     c > 0;     AX[x_] := Sqrt[a^2 + x^2];     BX[x_] := Sqrt[b^2 + (c - x)^2];     roadCost[x_] := 10000 AX[x] + 20000 BX[x];     Minimize[{roadCost[x], c - (b c)/(a + b) <= x <= c}, x]

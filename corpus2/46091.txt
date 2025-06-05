@@ -1,0 +1,1 @@
+Is it possible to obtain the machine precision (double) version of `Infinity`? This is useful when using `LibraryLink` and C functions that accept doubles: passing `Infinity` raises a type error, because `Infinity` is a symbol.

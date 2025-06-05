@@ -1,0 +1,1 @@
+n=4;L=3;     p0[n_Integer]:=     Product[     Sum[Subscript[r, k][l, l], {l, L - 1}], {k, n}] //      Expand;      How to ignore terms containing three or more multiplications of [2, 2] in this sum. Example, I want to ignore this term...               Subscript[r, 1][1, 1] Subscript[r, 2][2,      2] Subscript[r, 3][2, 2] Subscript[r, 4][2, 2]

@@ -1,0 +1,1 @@
+RegionPlot3D is awesome. Unfortunately, it appears to work only for Cartesian coordinates. While there are ways to draw surfaces in spherical or cylindrical coordinates, I can't find a way to draw solids. Is there a way to do so that doesn't involve translating the equations to Cartesian coordinates? Thanks.

@@ -1,0 +1,1 @@
+How can I minimize an expression of the form `a^T A a` where `a` is a matrix. The following approach does not work if `a` is a matrix and `a^T` is a transposition of `a`.               Minimize[ a^T Aa, {a^T a = 1}, a]      It works only for simple variables.

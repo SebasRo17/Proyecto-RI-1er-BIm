@@ -1,0 +1,1 @@
+Continuation of this question: How to export if I need to have two extensions instead of one. E.g., in the previous case one can generate lists labeled L[1], L[2],.....and so on using a loop. But if I have 2 loops and hence two variables and the lists are labeled L[1,1], L[1,2],… then L[2,1], L[2,2],… How do I export them in wdx format?

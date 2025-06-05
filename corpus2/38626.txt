@@ -1,0 +1,1 @@
+I'm looking to find the possible values for the `ClosingActions` options `FrontEndAttachCell`. I have found `SelectionDeparture` and `ParentChanged` so far. Moreover, is there a general method to determine the options for "undocumented" functions such as this one?

@@ -1,0 +1,1 @@
+How can we draw `Histogram` and `SmoothHistogram` together for two data sets?. I'd like to show the first data set using `Histogram`, and the second using `SmoothHistogram`.

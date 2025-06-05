@@ -1,0 +1,1 @@
+This may have been asked already, but I am considering making a game in Mathematica that two people can play. However, the issue with my idea is that the other player can't view the cards of the first player. Does anyone have any suggestions as to how I would tackle this problem? I would use two different computers, both with Mathematica installed.

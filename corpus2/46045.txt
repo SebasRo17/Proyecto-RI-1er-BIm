@@ -1,0 +1,1 @@
+**_Description:_** Recently,I use the Mathematica to do my undergraduate paper,I would like to use the Mathematica to compose my paper. So I hope the Input and Output results have the `background--color effect` **_Question:_** How to do to achieve this effect?

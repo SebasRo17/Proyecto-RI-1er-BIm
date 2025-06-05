@@ -1,0 +1,1 @@
+I want to know how to represent the axis on my 3dplot with a scaled offset. Please see the image below, I just want to show in the plot as {X-Axis*0.1} and {Y-Axis*0.1} ... ![enter image description here](http://i.stack.imgur.com/vKEnC.png)

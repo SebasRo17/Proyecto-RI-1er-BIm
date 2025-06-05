@@ -1,0 +1,1 @@
+I create three random images:               i1 = Image[RandomReal[1, {8, 12, 3}]];     i2 = Image[RandomReal[1, {8, 12, 3}]];     i3 = Image[RandomReal[1, {8, 12, 3}]];      I can scale a single image with               ImageResize[i1, Scaled[50]]      How can I map `ImageScaled` to all of them               ImageResize /@ {i1, i2, i3}      using the `Scaled[50]` argument?

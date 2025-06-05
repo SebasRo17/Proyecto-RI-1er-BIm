@@ -1,0 +1,1 @@
+For publications usually images in TIFF format are required in high resolutions. Where can I change settings for images that are being saved (using RMB click "Save Graphic As..."), so I don't need to post process them in Illustrator?

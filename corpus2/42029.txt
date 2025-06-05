@@ -1,0 +1,1 @@
+I need help with solving this differential equation.               DSolve[       {D[x[r], {r, 2}] + (1/r) D[x[r], r] + (1 - 1/r^2) x[r] - x[r]^3 == 0,         x[0] == 0, x[Infinity] == 1}, x[r], r]      I tried to solve this with `DSolve`, but no success. Any suggestion is highly appreciated.

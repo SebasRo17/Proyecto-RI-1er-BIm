@@ -1,0 +1,1 @@
+I am wondering if there is any working example of calling mathematica 9 outputs in python? or plotting mathematica output in python?

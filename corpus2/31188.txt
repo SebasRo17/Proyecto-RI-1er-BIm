@@ -1,0 +1,1 @@
+I have two matrix expressions:               X.Transpose[T].Transpose[X]       and               X.T.Transpose[X]       I want _Mathematica_ to recognize that these expressions are equal. Is it possible to do that?

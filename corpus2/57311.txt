@@ -1,0 +1,1 @@
+I'm re-implementing some tools previously implemented in Java in Wolfram Language. Is there any metadata-holding mechanisms in Mathematica programming similar to Java annotations?

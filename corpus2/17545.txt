@@ -1,0 +1,1 @@
+I have used Manipulate in conjunction with Plot to draw a function's graph and I would like to show the current x-axis value and function value while hovering over the function's plot. How can I achieve this? Thanks.

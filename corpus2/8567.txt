@@ -1,0 +1,1 @@
+When highlighting text using `Style` and `Background`, as in `Style["Test ", White, Background -> Lighter@Blue]` is there a way to pad (ie, enlarge) the bounding box? The bottom of the background seems coincident with the base of the text: ![here](http://i.stack.imgur.com/SLimA.jpg)

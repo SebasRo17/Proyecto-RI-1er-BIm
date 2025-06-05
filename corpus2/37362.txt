@@ -1,0 +1,1 @@
+I have a question concerning the check whether a given matrix is positive semidefinite or not. In mathematica the function `PositiveDefiniteMatrixQ[m]` tells me whether the matrix `m` is positive, but not semidefinite. I wanted to ask whether there exists an implementation for that purpose, and if not, how to implement a code that is as fast as possible.

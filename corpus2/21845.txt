@@ -1,0 +1,1 @@
+I am using the Scott binning method with `Histogram` and `Histogram3D` to plot some data. How could I find out the bin width chosen by _Mathematica_? I am using version 7 and thus I cannot use `HistogramList`.

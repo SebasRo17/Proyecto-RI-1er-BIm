@@ -1,0 +1,1 @@
+I noticed that both the lower cased 'i' and the Apple logo  are topologically equivalent to the disjoint union of two closed discs. ![enter image description here](http://i.stack.imgur.com/B7Fka.png) I'd like to animate a homeomorphism from the left to the right, can this be done in Mathematica 10 with built in functions?

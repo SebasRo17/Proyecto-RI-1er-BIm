@@ -1,0 +1,1 @@
+I use `Range` a lot. Is there any syntactic shortcut for it, or do you always have to spell it out?

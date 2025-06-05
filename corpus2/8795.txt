@@ -1,0 +1,1 @@
+Data :                data3D = Import[file, "VertexData"];      Graphics3D[Point[data3D]]      ![enter image description here](http://i.stack.imgur.com/DKD0A.jpg) How to find concave polygon for separated small clusters.

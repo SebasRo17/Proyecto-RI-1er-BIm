@@ -1,0 +1,1 @@
+Why is Mathematica plotting a horizontal line at $y=2$ in the following example:               ListPlot[Table[i,{i,1,10}],Frame->True,GridLines->None]      ![Output](http://i.stack.imgur.com/MObqJ.jpg) How to get rid of this line?

@@ -1,0 +1,1 @@
+The expression I want to match obey a simple pattern that repeats it self a number of times.               f[a]@f[b]@f[c]@...@f[X]      How would you match all expressions of this form?

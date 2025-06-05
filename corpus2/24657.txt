@@ -1,0 +1,1 @@
+Why does               Map[Unevaluated, Table[PauliMatrix[i], {i, 1, 3}]      give > {Unevaluated[{{0, 1}, {1, 0}}], Unevaluated[{{0, -I}, {I, 0}}], > Unevaluated[{{1, 0}, {0, -1}}]} while               Table[Unevaluated[PauliMatrix[i]], {i, 1, 3}]      gives > {{{0, 1}, {1, 0}}, {{0, -I}, {I, 0}}, {{1, 0}, {0, -1}}} I think they should give the same result! Why not?

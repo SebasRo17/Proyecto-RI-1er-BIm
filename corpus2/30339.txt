@@ -1,0 +1,1 @@
+I need to construct a vector similar to:               v[x_]:={0, 0, x, 0, 0, 2*x, 0, 0, 3*x, ....., 0, 0, n*x};      where `n=10^9`. How can I make such a vector wisely?

@@ -1,0 +1,1 @@
+What string pattern will match an explicit asterisk (*) or at-sign (@)? The obvious example, `StringMatchQ["*", "\*"]`, returns `False`. I can't find any mention of escaping them in string patterns, only in `RegularExpressions`, and that was in the advanced tutorial.

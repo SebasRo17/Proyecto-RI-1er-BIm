@@ -1,0 +1,1 @@
+I have a sheet in an Excel file already formated: different colors, fonts, columns width and cells styles. I want to fill-out values from Mathematica into specific cells of that sheets, or use that sheet as a formated template to create a new sheets, "copying" the stylings and data in the corresponding cells.

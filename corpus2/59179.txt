@@ -1,0 +1,1 @@
+If there is a submatrix, let's call $P$: $P=\begin{pmatrix} 1 & 1 \\\ 1 & 1 \end{pmatrix}$ And I want to have $n$, let's say $n=2$, such submatrices placed on the diagonal. The result is expected to look like: $Q=\begin{pmatrix} 1 & 1 & 0 & 0 \\\ 1 & 1 & 0 & 0 \\\ 0 & 0 & 1 & 1 \\\ 0 & 0 & 1 & 1 \end{pmatrix}$ How do I write the code in Mathematica?

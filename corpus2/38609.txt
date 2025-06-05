@@ -1,0 +1,1 @@
+A first look at it suggests the fact the limit is precisely $1$. To check that I tried _Mathematica_ , but no output so far. Most probably it converges very slowly. Is there any way to get the limit?               Limit[1/n^n Product[(n Sqrt[n] + (n + 1) Sqrt[k])/(Sqrt[n] + Sqrt[k]), {k, 1, n}],        n -> Infinity]

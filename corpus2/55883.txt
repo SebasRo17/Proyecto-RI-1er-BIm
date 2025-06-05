@@ -1,0 +1,1 @@
+In version 10, if we plot with `Sqrt` in y-axis, and export to PDF, the square root disappears in the PDF file.               p = Plot[x, {x, 0, 1}, Frame -> True,        FrameLabel -> {"x", "\!\(\*SqrtBox[\(y\)]\)"}]          Export["test.pdf", p]      This does not happen in version 9.

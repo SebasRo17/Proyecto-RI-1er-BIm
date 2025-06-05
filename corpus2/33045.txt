@@ -1,0 +1,1 @@
+Is it possible to write this function in mathematica exactly as shown, and then run the expression on a dataset? ![enter image description here](http://i.stack.imgur.com/STrvR.png) Please note I know that there are several other ways to do this. I am only interested in knowing how to compute it(if its possible) using notation that you would find in a text book.

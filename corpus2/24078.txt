@@ -1,0 +1,1 @@
+Convert[0.05263, Percent] /. Percent -> "%"      I would like to remove the trailing "%" but if I put Percent->"" it concatenates a literal empty pair of quotes. Thanks. Edit: I should have explained it works well in the Mathematica interactive evaluator but not in an InputField where it will concatenate the said quotes.

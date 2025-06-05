@@ -1,0 +1,1 @@
+I want to speed up calculations with unit conversions. I suspect primarily that some units evaluate from Wolfram|Alpha. Any way to prevent this automatically, so that _Mathematica_ throws errors/warnings instead of grabbing units from Wolfram|Alpha?

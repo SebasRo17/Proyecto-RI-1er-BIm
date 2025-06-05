@@ -1,0 +1,1 @@
+`Manipulate` doesn't always evaluate in the order I expect it to. What is the evaluation sequence for `Manipulate` and other functions involved with the front end? I have seen the evaluation sequence for kernel only functions, but that was for a reference for Mathematica 3, and doesn't deal with the front end.

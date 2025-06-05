@@ -1,0 +1,1 @@
+I'm not sure if this is even possible with _Mathematica_ , but I want to extract the angles between all lines in this picture: ![enter image description here](http://i.stack.imgur.com/OiTnw.png) It consists of $12$ lines, so I want a matrix with $144$ entries. I really have no idea even how to begin. Any ideas?

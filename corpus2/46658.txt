@@ -1,0 +1,1 @@
+Is there an easier way to enter `KroneckerDelta[n,m]` in Mathematica? When I use the notation $ \delta_{n,m} $, it won't work.

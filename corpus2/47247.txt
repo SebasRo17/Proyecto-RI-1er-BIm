@@ -1,0 +1,1 @@
+The Basic Math Assistant palette does not show a keyboard shortcut for RightTeeArrow. Is there some hidden key combination that results in the output? (Just hoping to be able to avoid having to reach for the mouse and move over.)

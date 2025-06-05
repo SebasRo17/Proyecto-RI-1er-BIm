@@ -1,0 +1,1 @@
+Why I get the error below with this code:               Needs["VectorAnalysis`"]          ρ = 1000;     g = 9.80665;     μ = 0.001;     p[x_, y_, z_, t_] = {x^2, Sqrt[y], -z, t^3};     f[x_, y_, z_, t_] = {-x^2, Sqrt[y]/2, z, t^2};          ρ Dt[v, t] = -Gradient[p] + μ Laplacian[v] + f      * * * ## Error:               Set::write: "Tag Times in 1000\ Dt[v,t] is Protected."

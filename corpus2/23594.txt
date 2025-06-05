@@ -1,0 +1,1 @@
+I have a path `V[t_]:={3t^2,2,6t}`, and I define `F[t_]:=V[t]/Norm[V[t]]`. I simply want the derivative of `F`, which is a 3-vector function of the variable `t`. Somehow I did not manage to find any (simple?) way to calculate it.. Ideas?

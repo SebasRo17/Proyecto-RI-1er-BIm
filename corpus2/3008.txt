@@ -1,0 +1,1 @@
+I need a Palette with editable InputField. When I try the code `CreatePalette[Pane[InputField["Enter a string"]]]` it makes the pallete but all input goes into an open notebook, not into the InputField. I just need a Palette with editable InputField. How it can be done?

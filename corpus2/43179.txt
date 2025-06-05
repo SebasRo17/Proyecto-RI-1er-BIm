@@ -1,0 +1,1 @@
+for example, lets say there're two functions f1 and f2. 0<=f1<=1, 2<=f2<=3 but the two differs only by constants. (e.g. f1[x_,y_]:=(Sin[x]Sin[y])^2, f2[x_,y_]:=(Sin[x]Sin[y])^2+2) what i want is to get densityplots of f1 and f2 with same color range of 0 to 3. in this way, the plot of f1 will show more purple colors and f2 will show more red colors. help me!

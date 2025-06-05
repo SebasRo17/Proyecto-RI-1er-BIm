@@ -1,0 +1,1 @@
+why cann't I use               RemoveSymbolize[ParsedBoxWrapper[SubscriptBox["_", "_"]]]       to remove all subscripts? Just like               Symbolize[ParsedBoxWrapper[SubscriptBox["_", "_"]]]       ![enter image description here](http://i.stack.imgur.com/tScGV.jpg) After RemoveSymbolize[], q1 should be subscript, why isn't?

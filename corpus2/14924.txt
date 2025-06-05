@@ -1,0 +1,1 @@
+Is it possible to do parallel linear algebra with arbitrary precision within Mathematica (in a simple manner, as is done for the machine precision)?

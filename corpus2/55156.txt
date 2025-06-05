@@ -1,0 +1,1 @@
+I have written a notebook in v9 that contains dynamic content (a `Manipulate`). I just downloaded V10. If I double click on the notebook, of course it is opened by v10, but the dynamic output does not look correct and then it aborts this output of `Manipulate`. I then open it with v9 and everything is ok. What is happening?

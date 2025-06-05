@@ -1,0 +1,1 @@
+Given weather data for 2013 and 2014 as follows:               t =        QuantityMagnitude[         WeatherData["California", "MeanTemperature", {{2013, 1, 1}, {2014, 1, 1}, "Day"}]          "Values"]];      how can I get the average temperature for each day during 2 years as a list of associations, for example: > >     January 1 -> 12 >      ... >      December 31 -> -20 >

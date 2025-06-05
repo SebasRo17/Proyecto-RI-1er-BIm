@@ -1,0 +1,1 @@
+I am trying to solve a homogeneous Fredholm integral equation of the second kind, i.e. $\lambda y(x) = \int\limits_a^b e^{i[\phi(t)+k(t-x/M)^2]} y(t)\,dt$ where $\lambda$ is the eigenvalue (to be determined), and $\phi(t)$ is a polynomial in $t$. Has anyone come across a Mathematica routine to do this? Thanks! Mark

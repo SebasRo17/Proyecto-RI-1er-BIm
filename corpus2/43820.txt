@@ -1,0 +1,1 @@
+On the page http://www.wolfram.com/language/gallery/blur-faces-in-an-image/ the example code has `ImageSize -> 1 -> 1`. I am unfamiliar with this chaining of rules... What does it mean? Note I know what `ImageSize` does, it is the TWO arrows that I don't understand.

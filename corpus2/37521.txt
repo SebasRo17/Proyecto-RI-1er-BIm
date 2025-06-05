@@ -1,0 +1,1 @@
+We know that: $$ \cos\left[(i+j+k)\pi\right] = (-1)^{i+j+k} $$ for $i, j, k$ being positive integers. In _Mathematica_ I've tried:               FullSimplify[Cos[(i + j + k)*Pi], Assumptions -> Element[{i, j, k}, {Positive, Integers}]]      But it still returns the `Cos` function. Does anyone know how to perform this simplification?

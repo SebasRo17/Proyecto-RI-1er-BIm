@@ -1,0 +1,1 @@
+How can I check if `Position[i] > Position[j]` for two arbitrary elements in a given list? The problem is that `Position[i]` returns `{{k}}` instead of just `k`, and I don't know how to compare `{{k}}` and `{{l}}`.

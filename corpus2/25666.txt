@@ -1,0 +1,1 @@
+Is it possible to emulate powerpoint animation behavior during a presentation with _Mathematica_? Considering a notebook with cell of numbered items or even several cells, is it possible to display a new cell or item with each click (or key press), probably in presentation mode?

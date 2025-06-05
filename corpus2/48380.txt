@@ -1,0 +1,1 @@
+I'd like to use FindIndependentEdgeSet[g] repeatedly to get random maximal matchings of a fixed graph, but each time I call this function it gives me the same answer (i.e. the same list of edges). How do I "randomise" it?

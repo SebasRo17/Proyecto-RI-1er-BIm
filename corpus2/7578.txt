@@ -1,0 +1,1 @@
+My old _Mathematica_ code used `ListWaveform` to produce a sound file from a table of amplitudes and frequencies; this seems to no longer exist. What replaced it?

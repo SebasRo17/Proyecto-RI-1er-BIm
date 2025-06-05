@@ -1,0 +1,1 @@
+I want to have a grid background for the function `(2/5)*x+3/5` but with one small detail. I want the coordinates of the points to be in the centres of the background squares, not on their corners. I am playing with Bresenham's line algorithm so I want to see nearest to the centre of which squares a line goes through.

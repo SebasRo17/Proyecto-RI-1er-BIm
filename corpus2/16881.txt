@@ -1,0 +1,1 @@
+Well, the title is self-explanatory. What sorts of snowfall can we generate using _Mathematica_? There are two options I suggest to consider: 1) Continuous GIF animations with smallest possible number of frames. 2) `Dynamic`-based animations.

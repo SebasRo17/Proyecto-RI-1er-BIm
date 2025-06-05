@@ -1,0 +1,1 @@
+I am trying, to no avail, to use _Mathematica_ to produce a plot in (x, y)-space of the solutions to the equation               Cos[Sqrt[y]] + Sin[Sqrt[y]]/Sqrt[y] == Cos[x]      Neither `NSolve` nor `InverseFunction` seem to work for inverting the equation (probably because there are multiple solutions for y for each x). Does anyone know a way to make such a plot?

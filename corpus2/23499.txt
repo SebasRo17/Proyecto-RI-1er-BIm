@@ -1,0 +1,1 @@
+I have looked and looked but I do not see a simple efficient way to get MMA to return the number of lines in a text file? I thought about reading the file until it returned the EOF marker, but that could take a long time when working with very large files. Any suggestions are appreciated!

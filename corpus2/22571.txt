@@ -1,0 +1,1 @@
+I want to make a parametric plot like this:               ParametricPlot[{{2 t, -10 t^2}, {t, 2 t}}, {t, 0, 2}]      I have tried the following but it doesn't work:               ParametricPlot[{{2 t, -10 t^2}, {t, 2 t}}, {{t, 0, 2}, {t, 4, 7}}]

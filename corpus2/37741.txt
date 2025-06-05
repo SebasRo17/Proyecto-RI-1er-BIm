@@ -1,0 +1,1 @@
+I am trying to convert NAD 83 State Plane New York Long Island coordinates to Latitude/longitude. Below is my code - what am I doing wrong?               LatitudeLongitude[GeoPosition[{172248, 1002321, 0}, "SPCS83NY04"]]

@@ -1,0 +1,1 @@
+I did some search here, but seems that no one asked about this. I want to define a family of independent and identically distributed random variables, $x_1,...,x_n$, and then calculates the expected value of some expressions like $\sum_{i,j=1}^nx_ix_j$. The result would be some function depending on $n$. Is there a way to do this?

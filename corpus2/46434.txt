@@ -1,0 +1,1 @@
+Im looking for a efficient way of parsing JSON data in _Mathematica_. I am having a lot of problems with `ImportString` because it uses Java, is too slow, and uses too much memory (and, also, sometimes it just returns Null). Do you know how to write a function for JSON parsing in _Mathematica_ , or how to use any C/C++ (or other efficient) library from _Mathematica_?

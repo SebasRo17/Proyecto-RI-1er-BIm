@@ -1,0 +1,1 @@
+The following code               ListLinePlot[{2, 4, 6, 8, 10, 12},       ColorFunction -> Function[{x, y}, If[x <= 3, Blue, Red]]]      should produce blue lines for $x\le3$ and red lines for $x\ge3$. But instead, the plot contains only blue lines. Where are my red lines?

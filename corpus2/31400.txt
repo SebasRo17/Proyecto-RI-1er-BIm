@@ -1,0 +1,1 @@
+There are some evaluations which are automatically parallelized or multithread if there are cores available.( for example, `Eigenvalues`) But I don't want the evaluation to be automatically multithreaded, I want it to use only one core. How can I do it?

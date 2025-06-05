@@ -1,0 +1,1 @@
+How to effectively diff a notebook with another version of it? This is usually needed/encountered in revision control, but can be generally useful. What i currently do is disable notebook history, use less styling, and diff them as text files.

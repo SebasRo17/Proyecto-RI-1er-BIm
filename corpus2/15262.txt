@@ -1,0 +1,1 @@
+I have a set of points like this: P = {{$x_1$,$y_1$},{$x_2$,$y_2$},...,{$x_n$,$y_n$}}. I want to plot them and also plot the derivative of that graph. How can I do this with Mathematica? Is there a simple way in Mathematica?

@@ -1,0 +1,1 @@
+I want to define a function f(x) which:   * $f(x)=x^3 +10x+ 5$ if $f(x) >0$   * $f(x)=Undefined$ if $f(x) <0$  I have a idea:               f = Function[x, ConditionalExpression[x^3 +10x+ 5, x^3 +10x+ 5 > 0]]      but if $f(x)$ is a complicated and long expression, then the code is very long. Any one have another idea?

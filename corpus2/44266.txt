@@ -1,0 +1,1 @@
+Suppose I create a Rectangle of dimensions 1 and 3. Is there any function in Mathematica that I can use to recover the dimensions of the original rectangle? If there is no such a function, is there a way of recovering the dimensions?

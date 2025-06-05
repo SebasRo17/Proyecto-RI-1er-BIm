@@ -1,0 +1,1 @@
+I just tried something straightforward (for me):               dummy = Import["http://pastebin.com/raw.php?i=g8D7NprC", "List"] & /@ col;     colors = dummy[[1]];     ToExpression@colors;     Graphics[{colors, Rectangle[{0, 0}]}]      Is it not possible to import color data from a file?

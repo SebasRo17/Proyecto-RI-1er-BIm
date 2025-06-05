@@ -1,0 +1,1 @@
+For example, I have a `Button`               Button["http://www.wolfram.com",        NotebookLocate[{URL["http://www.wolfram.com"], None}],        Appearance -> None]      How to select text with the mouse?

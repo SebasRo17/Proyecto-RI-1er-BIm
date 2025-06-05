@@ -1,0 +1,1 @@
+Is there any possibility to color the surface of the Box of a `Graphic3D[]`?               Show[Graphics3D[Sphere[]], ViewPoint -> Above,      BoxStyle -> Directive[Large, Orange, Thick]]      I need to color the surface of the Box. (Like a wall).

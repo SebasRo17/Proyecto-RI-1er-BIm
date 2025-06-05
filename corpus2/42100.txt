@@ -1,0 +1,1 @@
+NDSolve::ndnum: Encountered non-numerical value for a derivative at x \ == 0.`. >> ![enter image description here](http://i.stack.imgur.com/589Md.png)

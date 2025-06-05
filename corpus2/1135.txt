@@ -1,0 +1,1 @@
+I know that I can close a notebook and open it again in order to remove the In/Out labels. What I would like to know is if there is another easy way of removing these labels without having to close the notebook. Actually I just want to hide them from my printouts. It seems to me like it should be a printing option, but I can't find it.

@@ -1,0 +1,1 @@
+I want to run my _Mathematica_ scripts from the terminal and I want it to print lines like MATLAB would. That is, suppress output by ending a line with `;`, and otherwise print the output of the line. `Get` (`<<`) only prints the last line. Without using Print[var] and saving variables after every line... Is this possible?

@@ -1,0 +1,1 @@
+Say I'm trying to make a simple multiplication table and used               Table[i"x"j"="i*j,{i,1,9},{j,1,9}]      I'm trying to make it so that I can get a table of equations, but _Mathematica_ keeps simplifying it so that `1x2 = 2` becomes `4=x`.

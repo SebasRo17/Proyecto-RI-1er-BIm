@@ -1,0 +1,1 @@
+I'm not sure how to add time format to bar plots. I'd like to be able to make one bar plot for one data set and another for another data set and then combine them, but I don't know how to offset each bar from the origin so they can overlap at the right times. See image for an idea: ![concept](http://i.stack.imgur.com/1dlF3.png)

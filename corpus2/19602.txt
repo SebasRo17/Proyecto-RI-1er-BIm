@@ -1,0 +1,1 @@
+I can't find the file in it's usual place /Library/Mathematica/FrontEnd/... was it removed?

@@ -1,0 +1,1 @@
+I am wondering how to filter out bright dots in the picture, which are caused by background noise. I have used gradient filter in mathematica but it doesn't help. Is there anyway, that I can plot intensity versus background noise with threshold control or filter it in a better way. ![enter image description here](http://i.stack.imgur.com/YOfqP.png)

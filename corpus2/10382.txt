@@ -1,0 +1,1 @@
+s = OpenWrite[ofile, CharacterEncoding -> "UTF8"]     Export[s, "∂f/∂t"]     Close[s]      did not successfully write `∂` into the file. Instead, it writes the `InputForm`. How to let it write `∂`?

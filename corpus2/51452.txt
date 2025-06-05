@@ -1,0 +1,1 @@
+I want to evaluate this simple expression $$ \sum_n f(n)\delta_{mn} = f(m) $$ using this:               Sum[KroneckerDelta[m, n] f[n], {n, Infinity}]      However Mathematica didn't reduce this expression. Could someone tell me how to do this correctly?

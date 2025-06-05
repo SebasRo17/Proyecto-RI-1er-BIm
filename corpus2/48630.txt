@@ -1,0 +1,1 @@
+I have two lists               {G[x_,y_],F[x_,y_],C[x_,y_]}       and               {x*y-x, 3x+y, x^y}      Now I need to define 3 functions               G[x_,y_]:=x*y-x;     F[x_,y_]:=3x+y;     C[x_,y_]:=x^y;      How to do it correctly?                Table[%%[[i]] := %[[i]], {i, Length[%%]}]       does not work

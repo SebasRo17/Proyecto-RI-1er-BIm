@@ -1,0 +1,1 @@
+I want to assign a linear row of values to the elements of a lower triangular matrix, i.e., if the row of values is {1,2,3,4}, then the matrix (4 X 4) should be:               {{1,0,0,0},{2,1,0,0},{3,2,1,0},{4,3,2,1}}      _**I can do this with a (nested) For loop, but was wondering if there was any easier way._** Thank you for your help and time in advance

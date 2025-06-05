@@ -1,0 +1,1 @@
+There's documentation on how to do a LogPlot with respect to Y-axis, but how would you do the same for the X-axis? Is there some Plot option? For example, here are some examples that plot Log scale on x-axis. http://en.wikipedia.org/wiki/Colors_of_noise

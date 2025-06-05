@@ -1,0 +1,1 @@
+I want to try to solve the following                a x^(17/6) - b x^2 - 1 == 0      where `a` and `b` are variable coefficients (which are very small and positive). I cannot get an analytic solution (not surprised), but `NSolve` is not doing the job for me. I am a novice to Mathematica; is anyone able to do `NSolve` for `x` on Mathematica and get a numerical result?

@@ -1,0 +1,1 @@
+Is there some built-in routine, some easier method to change variables of integration, without/before solving the integral? Say I have               Integrate[expression1[x, y, z], x, y, z]      how to change it to               Integrate[expression2[r, theta, phi], r, theta, phi]

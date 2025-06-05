@@ -1,0 +1,1 @@
+The function `Minors` yields the minors of a matrix. Is there a function that yields the permanent minors of a matrix?

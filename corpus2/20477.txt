@@ -1,0 +1,1 @@
+I'd like use rounded rectangles for my cell style, but I'm not sure if this is possible. Perhaps it can be faked with an image as a background for it?

@@ -1,0 +1,1 @@
+How to define a Einstein summation convention in Mathematica? Say, how to let Mathematica know `T[i,i]` equals `T[1,1]+T[2,2]+T[3,3]`? How to define the function `T[i,j]`? I know there are several Mathematica-abased programs that can do this, but still I want to know how to define my own.

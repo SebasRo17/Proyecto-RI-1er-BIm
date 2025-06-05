@@ -1,0 +1,1 @@
+Searching got me peripherally related threads, but not exactly what I was looking for. I'm making some graphs which I want to use on exams. Sometimes, labels (specifically in AxesLabel and PlotLabel) that are longish can be a hassle. Is there a way to introduce a line break in these labels to make them fit better in the space that I have? Thanks in advance.

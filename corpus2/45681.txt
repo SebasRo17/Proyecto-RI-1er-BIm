@@ -1,0 +1,1 @@
+I was able to find some reference for symmetric polynomials but not for the _symetric sum_ (see http://en.wikipedia.org/wiki/Muirhead%27s_inequality#Symmetric_sum- notation_tricks ) Please could anyone tell if there is an implementation of the symmetric sum in Mathematica? Any other tools (packages) to deal with Muirhead's inequality? Thanks!

@@ -1,0 +1,1 @@
+I am having trouble using `NMinimize` in _Mathematica_ 9 - Memory consumption overflows. The same `NMinimize` command, with the same function to minimize, in _Mathematica_ 7 and 8, gives acceptable results. Is this a bug? Anyone else has had similar issues? Any workarounds ?

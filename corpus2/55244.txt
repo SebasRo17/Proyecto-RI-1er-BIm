@@ -1,0 +1,1 @@
+Is there a three-dimensional cellular automaton that in some sense generalizes Conway's Game of Life? If so, how might we use the `CellularAutomaton` command to simulate it? How might we visualize it?

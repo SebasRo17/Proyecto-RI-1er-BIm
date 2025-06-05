@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Assign the results from a Solve to variable(s) I want to assign the results of a Solve command in a list. For example Solve[-((287 s^3)/50) == 0, s] returns {{s -> 0}, {s -> 0}, {s -> 0}} I want it to return {0,0,0}. Can this be done automatically and not manually? Thank you very much

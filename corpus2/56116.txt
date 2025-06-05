@@ -1,0 +1,1 @@
+I am trying to `ArgMax` a function over `x`, but `x` is only defined between `[0,1]` How do I do that? I have tried:               ArgMax[f1[x], x ∈ [0,1]]      But it gave me an error. "{x}[Element]" cannot be followed by "[0,1]".

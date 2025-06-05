@@ -1,0 +1,1 @@
+I want to have my entire notebook be a conditional while statement. However, I don't want to merge all of my cells together, as it is a long and detailed process. Is there a way to create another cell that encompasses all of the smaller cells in my notebook?

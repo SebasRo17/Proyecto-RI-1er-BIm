@@ -1,0 +1,1 @@
+The idea is that I have a defined function of $n$ variables. I want to find out $n$ and get partial derivation for each of variables, Suppose you have a function               f[w_,x_,y_,z_]: = w^2+x^2+y^2+z^2      Is it possible to find partial derivation using - say - 3rd variable (in this case $y$), that is $\frac{df}{dy} = 2 y$?

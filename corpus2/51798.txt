@@ -1,0 +1,1 @@
+For odd `n` I'm looking for a short and swift way to construct with (f.e.)               n = 3      ![enter image description here](http://i.stack.imgur.com/Z2DHG.jpg)               n = 11      ![enter image description here](http://i.stack.imgur.com/VHDYp.jpg)               n=1111      ![enter image description here](http://i.stack.imgur.com/Vk3zT.jpg)

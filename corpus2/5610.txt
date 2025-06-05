@@ -1,0 +1,1 @@
+The following is the code:                   In[3]:= Simplify[Integrate[f[x]*c, {x, a, b}]/c, Assumptions -> c > 0]              Integrate[c f[x], {x, a, b}]         ----------------------------                     c      but obviously the right answer should be:                   Integrate[f[x], {x, a, b}]      how to solve it without placing c outside the integrate function?

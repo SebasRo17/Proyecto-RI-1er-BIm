@@ -1,0 +1,1 @@
+x = 5*y     function1[y_] := x     function1[5]      Am I wrong in thinking that function1[5] should equal 25? Instead this comes out.               5y     5y

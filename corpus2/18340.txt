@@ -1,0 +1,1 @@
+Is there any game theory package around? I mean supporting functions which take a game in matrix form and tell you all about nash equilibra, best strategies, ect

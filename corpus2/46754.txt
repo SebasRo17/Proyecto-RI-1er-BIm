@@ -1,0 +1,1 @@
+Graphing the sequence {$p_k$} = $\frac{c - a + dp_{k-1}}{b}$ I need to know how to graph this function where it automatically plugs in the previous term for $p_{k-1}$, the coefficients are of my choosing lets just say $a=1$, $b=3$, $c=2$, $d=-1$, these numbers are arbitrary. The whole point is that i want to find out what coefficients will make this oscillate.

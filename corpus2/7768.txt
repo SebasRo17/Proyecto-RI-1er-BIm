@@ -1,0 +1,1 @@
+I've always wished I could do some profiling like you get in Wolfram Workbench, but directly from _Mathematica_ , without using or having Workbench. If it is possible, how can I do it?

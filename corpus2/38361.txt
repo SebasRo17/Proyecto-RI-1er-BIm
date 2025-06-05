@@ -1,0 +1,1 @@
+![enter image description here](http://i.stack.imgur.com/Ed7G5.jpg) How can I solve the above problem? I enter it as:               Limit[Sum[Sqrt[1 + i^2/n^2]/n, {i, n}], n -> Infinity]      but this is not working: ![enter image description here](http://i.stack.imgur.com/GWVw6.jpg)

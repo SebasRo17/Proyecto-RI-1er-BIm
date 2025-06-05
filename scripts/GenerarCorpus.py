@@ -1,22 +1,21 @@
-import os
 import ir_datasets
+import os
 
-# Cargar el dataset de consultas
-dataset = ir_datasets.load("car/v1.5/test200")
-
-# Definir carpeta de salida
-output_dir = r"D:\Universidad\8 - Octavo\Recuperacion de la informacion\Proyecto-RI-1er-BIm\corpus"
+# Ruta de salida
+output_dir = r"C:\Users\roble\OneDrive\Documentos\GitHub\Proyecto-RI-1er-BIm\corpus2"
 os.makedirs(output_dir, exist_ok=True)
 
-# Guardar cada consulta como un archivo .txt
-count = 0
-for query in dataset.queries_iter():
-    query_text = query.text.strip()
-    query_id = query.query_id.replace("/", "_")  # Por si hay caracteres no válidos
-    file_path = os.path.join(output_dir, f"query_{query_id}.txt")
+dataset = ir_datasets.load("beir/cqadupstack/mathematica")
 
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(query_text)
-        count += 1
+for doc in dataset.docs_iter():
+    doc_id = doc.doc_id.replace('/', '_').replace('\\', '_')
+    if len(doc_id) > 100:
+        doc_id = doc_id[:100]
+    filename = os.path.join(output_dir, f"{doc_id}.txt")
+    try:
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(doc.text)
+    except Exception as e:
+        print(f"Error en {doc_id}: {e}")
 
-print(f"{count} consultas guardadas en la carpeta '{output_dir}'")
+print("Descarga completada.")

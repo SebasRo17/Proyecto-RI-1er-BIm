@@ -1,0 +1,1 @@
+_Mathematica_ already includes dictionaries for a lot of languages. What I am looking for is a handy semantic/grammatic database for Hungarian, just like `WordData` for English. Is it available in any form? Does Wolfram intend to include other languages into _Mathematica_ in the future? Does anyone know anything about the trajectory WRI aims for concerning languages?

@@ -1,0 +1,1 @@
+I have a kernel named A in one notebook and other notebook with kernel B, how can I kill B from A?

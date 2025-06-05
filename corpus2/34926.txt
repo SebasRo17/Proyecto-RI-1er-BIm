@@ -1,0 +1,1 @@
+I am defining this function: `f[x_] = kr*g[x] + (c^l*x^l)/(KIR + c^l*x^l)` But I want to make `l` bigger than 0, so if I evaluate `f[0]` I want to get `kr*g[0]`. However, I get the expression evaluated at `0`, for example `0^l` instead of `0`. Thanks for the help

@@ -1,0 +1,1 @@
+Is there a way to force Mathematica to `UnitSimplify` to a different unit? For example, I would like `kg m^2/s^2` to simplify to `N m` but it always simplifies to `J`. Is there a way to specify a units preference?

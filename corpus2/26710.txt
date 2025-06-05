@@ -1,0 +1,1 @@
+Can I take the derivative of a function that represents a piece of music? The music is given in .mp3, .midi or whatever comes in handy.

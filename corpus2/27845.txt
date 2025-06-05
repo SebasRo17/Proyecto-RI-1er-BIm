@@ -1,0 +1,1 @@
+I have a MatrixPlot output which I would like to zoom around in, drawing boxes that define a zoom region with my mouse. These things are all fairly standard in Labview... surely Mathematica must have a similar set of abilities? For an example matrix, we can write:               TestArray = Array[RandomInteger[{0, 1}] &, {100, 100}];     MatrixPlot[TestArray]

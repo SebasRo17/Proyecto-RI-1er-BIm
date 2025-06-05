@@ -1,0 +1,1 @@
+Here is a way to visualize the factorisation of natural numbers. How do we get this or a similar kind of output using _Mathematica_? See the list of images generated for number from 1 to 36: ![factorisation diagrams for 1 to 36](http://i.stack.imgur.com/eX9BX.png)

@@ -1,0 +1,1 @@
+I have a graph with weighted edges, and I'd like to obtain the edge weights of the edges in the graph. Is there a nicer way of doing this than getting the `WeightedAdjacencyMatrix` of the graph? A list of weights that's 1-1 with the `EdgeList` of the graph would be great.

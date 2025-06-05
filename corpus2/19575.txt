@@ -1,0 +1,1 @@
+I have a function $F$ that maps the xyz space to a set of reals, more clearly: $c = F[x,y,z]$ Where $c$,$x$,$y$ and $z$ are reals. What are the possible ways of visualizing this 3d function in Mathematica? (if possible, please post a how-to-do-it)

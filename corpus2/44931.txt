@@ -1,0 +1,1 @@
+Why does this:               Simplify[Abs[x + I], Element[x, Reals]]      give me               Abs[x + i]      Is there a way to force Mathematica to give me the following answer? $\sqrt{x^2+1}$

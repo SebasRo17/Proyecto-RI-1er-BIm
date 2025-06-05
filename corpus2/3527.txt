@@ -1,0 +1,1 @@
+In the pieces of text created programmatically I would like to be able to fix that the text is done in one of the styles available in the special characters palette, such as Gothic. It may be useful in preparation of a demonstration or making a title of say, a panel and so on. Is it possible?

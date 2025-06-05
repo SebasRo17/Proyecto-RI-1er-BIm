@@ -1,0 +1,1 @@
+I have a stack of images with the file names `C0001996_0000` , `C0001996_0001` etc. In total I have $600$ images. I would like to import the complete stack and then `Binarize` them (threshold `0.7)` and then export them. Could someone help me with the code for this?   At present I am importing a single image, binarizing it and then exporting.

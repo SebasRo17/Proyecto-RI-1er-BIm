@@ -1,0 +1,1 @@
+Trying to compute this limit, things seem to get frozen, even for hours. What would you   recommend to fastly compute it?               Limit[(Integrate[Product[x^k (1 - x^k), {k, 1, n}], {x, 0, 1}])^(1/n),n -> Infinity]

@@ -1,0 +1,1 @@
+I would like to create simple functions and then pass them into a Manipulate function that can be used in a .cdf file. eg               f[x_] := x^2 + 4;     Manipulate[                Plot[f[x], {x, -c, c}]                , {c, 1, 5}]      works fine as a notebook but crashes as a .cdf

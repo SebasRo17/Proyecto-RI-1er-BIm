@@ -1,0 +1,1 @@
+I did not find in _Mathematica_ a function for Histogram of Oriented Gradients (HOG) descriptors. Is there any similar function? Do you have an implementation you are willing to share?

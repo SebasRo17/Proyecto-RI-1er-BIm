@@ -1,0 +1,1 @@
+I have a parametric plot, and would like to fit a line to it with "■" `PlotMarkers` on it, but am unable to do so.               ParametricPlot[{f(x), g(x)}, {x, 0, 1}, AxesLabel -> {"x", "y"}, PlotMarkers->{"■", 10.9}]

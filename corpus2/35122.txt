@@ -1,0 +1,1 @@
+How can I convert a matrix into matlab form?               matrix2Matlab[matrix0_] :=  Module[{matrix = matrix0},   "[" <> StringReplace[    ExportString[matrix, "CSV"], {"\n" -> ";", "," -> " "}] <> "]"]          matrix2Matlab[m = IdentityMatrix[3]]          (*         [1 0 0;0 1 0;0 0 1]     *)      Are there more simpler ways? I use MATLink to deal with the string matrix.

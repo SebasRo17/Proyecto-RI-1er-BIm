@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Can Reduce *really* not solve for x here? Why cant _Mathematica_ solve this equation?               f[x_] := Exp[Cos[3*x]]     g[x_] := (1/3)*x^3 - x^2 + 2     Solve[f[x] == g[x], x]     (* Solve::nsmet: This system cannot be solved with the methods available to Solve. >> *)

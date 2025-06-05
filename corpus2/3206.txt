@@ -1,0 +1,1 @@
+According to the documentation, when `FindMinimum` is told to use the method `"QuasiNewton"` on a unconstrained problem, it uses the BFGS approximation to the Hessian matrix of the function being optimized. How can I recover the Hessian matrix computed by Mathematica using `StepMonitor`, `EvaluationMonitor` or any other devious trick?

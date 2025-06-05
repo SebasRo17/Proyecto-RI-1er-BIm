@@ -1,0 +1,1 @@
+I have two data set: One's range is between 0 and 0.5 and another's range is between -0.2 to 0.3. I want to draw two density plots with common scale: from -0.5 to 0.5. How can I fix the scale? Thanks.

@@ -1,0 +1,1 @@
+Sometimes a computation takes a long time. But when I sleep in the night, I want to shutdown my PC. Next morning when I wake, I want to start _Mathematica_ and resume the computation. If you are familiar with the virtual machine `VMWare`, what I am looking for is a feature like `VMWare`'s `suspend/resume`. Does _Mathematica_ have such a feature?

@@ -1,0 +1,1 @@
+I would like to solve this system of 4 logarithmic equations in Mathematica.   * **a*log(b+d)=20**   * **a*log(b*30^c+d)=125**   * **a*log(b*180^c+d)=710**   * **a*log(b*360^c+d)=1350** I am looking for the values of **a** , **b** , **c** , and **d**. Thanks in advance!

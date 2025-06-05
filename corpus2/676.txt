@@ -1,0 +1,1 @@
+"CodeGolf" challenge: write the shortest practical Least Common Multiple function that:   1. Does not use built in `GCD`, `LCM` or any related fuctions   2. Accepts multiple arguments in any order, e.g. `LCM[3, 20, 6]`   3. In the spirit of the original, obfuscated is better

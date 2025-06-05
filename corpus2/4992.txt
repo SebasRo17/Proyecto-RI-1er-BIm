@@ -1,0 +1,1 @@
+When using a function that includes `Print` statements, one can suppress the output by `Print; Unprotect[Print]; Print = Null &` This doesn't work when the function is evaluated in `ParallelTable[function[i],{i,1,10}]` Is there a way to do that? Thank you!

@@ -1,0 +1,1 @@
+By default, the x-axis in `RectangleChart` is not labeled. Using `Axis -> {True, True}` does not help. Can I set the ticks manually?

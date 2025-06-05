@@ -1,0 +1,1 @@
+I am trying to get a set of random integers for which I used the function `RandomInteger[{1, 50}, 5]`. That way, however, there is the chance to get doubles such as `{46, 7, 9, 39, 39}`. How do I avoid numbers being drawn twice? Thank you very much for your help Sincerely

@@ -1,0 +1,1 @@
+The original code used `For`:               {x, y} = {1, 1};     For[i = 0, i < 5, i++,       x = x + 2 y;       y = y + 2 x;       Print[{x, y}]       ];     Clear["`*"]      I am trying to use `NestList` to replace `For`, but the result is not as I expected. How can I rewrite it?               func[{x_, y_}] := {x + 2 y, y + 2 x};     NestList[func, {1, 1}, 5]

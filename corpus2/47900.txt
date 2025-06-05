@@ -1,0 +1,1 @@
+I have a custom style called _style1.nb_ and I want to install it into a notebook _Class01.nb_ so I can send only the notebook file to my students with the style of _style1.nb_. Is that possible?

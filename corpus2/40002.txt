@@ -1,0 +1,1 @@
+Here is a function that calculates the probability of randomly landing on a Fibonacci number not greater than $n$:               f[n_Integer] := (Floor[Log[GoldenRatio, Sqrt[5] (n + (1/2))]] - 1)/n        ![1-50](http://i.stack.imgur.com/zRjSe.png) How can I extend/complete it to some differentiable function that agrees with the original values when given an "integer" input?

@@ -1,0 +1,1 @@
+Is it possible to collapse all cell groups in the current notebook? I tried               nb = SelectedNotebook[];     SelectionMove[nb, Before, CellGroup]     FrontEndTokenExecute["OpenCloseGroup"]      but nothing changes.

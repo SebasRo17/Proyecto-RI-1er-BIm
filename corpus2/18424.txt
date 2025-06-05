@@ -1,0 +1,1 @@
+Does anyone know the syntax to `DistanceFunction`? I am trying to define my own function to use with `ClusteringComponents`; e.g.,               ClusteringComponents[img, DistanceFunction -> (Norm[#1 - #2] &)]      Needless to say it does not work as shown (it overflows for some reason). I also tried using `ImageData@img` but that does not even terminate.

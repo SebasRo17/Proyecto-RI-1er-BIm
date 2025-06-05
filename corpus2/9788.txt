@@ -1,0 +1,1 @@
+The Cell expression for:               <>      is               Cell[BoxData["<>"], "Input"]      However similar expressions are parsed into RowBox(s), for example:               ><          Cell[BoxData[RowBox[{">", "<"}]], "Input"]      How do I get expressions like >< to act like <> does?

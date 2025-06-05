@@ -1,0 +1,1 @@
+I am not a very experienced user. My problem is that I have a polynomial equation F[Z,a,b,c]=0 in which parameters a, b and c are series of another variable x. What I look for is how to generate the coefficients of the series for Z as functions of x. I used brutal force but it is just a nightmare. Thank for your help

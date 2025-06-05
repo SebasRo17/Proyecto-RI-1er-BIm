@@ -1,0 +1,1 @@
+Given a list: `data = {{0, 2}, {0, 0}, {1, 0}, {1, 2}, {2, 3}}`. I would like to count the number of sublists which contain zero.               Count[data, {0, _}] + Count[data, {_, 0}] - Count[data, {0, 0}]      Is there any better/efficient way to do this?

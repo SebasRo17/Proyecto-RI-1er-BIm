@@ -1,0 +1,1 @@
+I have a list which looks like this: `l={{1,0,3,4},{0,2},{0,0,1,3},{1,2,0}}`. Now I would like to count how many 0s the sublists contain in the first, second,... slot. The result for this example should be: `{2,2,1,0}`. Since the sublists do not have the same length `MapThread` does not work. I would be grateful for a solution.

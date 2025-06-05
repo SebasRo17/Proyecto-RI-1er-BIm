@@ -1,0 +1,1 @@
+For example, the 'main menu' user interface has three buttons each labeled with a different level. Whenever button is clicked how do you display that level of the game without creating a new notebook?

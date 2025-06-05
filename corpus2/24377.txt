@@ -1,0 +1,1 @@
+I have the border points of a 2-D body and wish to fill its interior with a solid color. Let us say I have $N$ such points stacked in the $N \times 2$ matrix $A$ so that the first column indicates the $x$ co-ordinates and the second column denotes the corresponding $y$ co-ordinates.

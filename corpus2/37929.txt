@@ -1,0 +1,1 @@
+I wonder whether there are option for indefinite integration in Mathematica that alow to choose the algorithm? Is there an option to use this algorithm in Mathematica?

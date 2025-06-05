@@ -1,0 +1,1 @@
+I want to write a cdf file to read in the commmand line arguments and then do something with them. Something like this:               Mathematica.exe 'filename.cdf' arguments      Then from inside the cdf call `$CommandLine` or something and then get those arguments. Just wondering if this is possible.

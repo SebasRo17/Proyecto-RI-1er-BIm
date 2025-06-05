@@ -1,0 +1,1 @@
+Supose I have matrices a b and c like                  a = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};        b = {7, 8, 9};        c = {{1},{4},{7}};      I want to get `{{1, 2, 3}, {4, 5, 6}}` from `a` and `b`, also `{{2,3},{5,6},{8,9}}` from `a` and `c` ? In other words, I want to delete the part which is the same as `b` or `c` from `a`.

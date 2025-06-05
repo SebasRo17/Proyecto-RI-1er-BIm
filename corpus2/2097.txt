@@ -1,0 +1,1 @@
+i'm struggling with the following. I use `ParallelTable` and it works transparently as it automatically distributes the needed definitions. However, I run into problems if inside `ParallelTable` I call a package with `Get["code/example.m"]`. For example, the value of `const` which was set in the master kernel is not propagated in the evaluation of `Get["code/example.m"]`.

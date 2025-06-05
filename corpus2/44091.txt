@@ -1,0 +1,1 @@
+My simple model is:               m[t_] := m[t] = m[t - 1]*p + 2     m[0] = 0     p = 0.5      I can plot the system as:               DiscretePlot[m[t], {t, 0, 50}]      Now, I would like to shock `p` for a short period, say, from 10 to 13 during which it would be 0.8 and then recovering its original value, 0.5, afterwards. Would `Insert` do this?

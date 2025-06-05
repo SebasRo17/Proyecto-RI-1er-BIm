@@ -1,0 +1,1 @@
+I got a simple cubic equation as input, but _Mathematica_ does not give all solutions, why is this the case here?               f[α_] := Sqrt[2] α (Δ + 2g^2/Ω(α Conjugate[α]))          Solve[f[α] == 0, α]      > >     {{α -> 0}} >   There should also be the solution where $\alpha \in$ Real, so that $|\alpha|^2 = -\frac{\Delta\Omega}{2g^2}$ under the condition $\Delta\Omega < 0$.

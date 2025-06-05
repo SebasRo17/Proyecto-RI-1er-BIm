@@ -1,0 +1,1 @@
+I would like to make the following calculation:               1/Sqrt[1 - (150^2 10^(-4))/(9 10^16.)] - 1      _Mathematica_ 8 returns 0. The result is obviously not 0, but my calculation must be losing precision. How can I compute this value with sufficient precision?

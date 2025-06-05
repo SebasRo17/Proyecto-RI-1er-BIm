@@ -1,0 +1,1 @@
+In some text portion of my notebook, I would like to be write check boxes which are empty, check marked or "x" marked. The following commands work for the first two:               \[CheckmarkedBox]     \[EmptySquare]      But I am unable to find the command that would place an "x" inside the box. Thanks.

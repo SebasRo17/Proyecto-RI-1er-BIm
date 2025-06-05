@@ -1,0 +1,1 @@
+I would like to diagonalize one unitary non-sparse matrix of size 12870 with complex number entries (not symbols, this is really a numerical problem). Is is possible to make eigensystem run in parallel - I have access to a HPC cluster with many kernels - so that the diagonalization runs as fast as possible?

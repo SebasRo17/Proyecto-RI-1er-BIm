@@ -1,0 +1,1 @@
+I have a new problem: I have exported my program as a cdf standalone. I changed the view of the graphic and now the sliders cant be used anymore. Very strange... Here is a screenshot: ![screenshot](http://i.stack.imgur.com/Sbaj1.png) The orange frame is the reason. The mouse still remains in the graphic. How can I solve this problem?

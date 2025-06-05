@@ -1,0 +1,1 @@
+Consider replacing head of List by head Association:               {a -> x, b -> y, c -> z} /. List -> Association     (*<|a -> x, b -> y, c -> z|>*)      The opposite cannot be performed:               <|a -> x, b -> y, c -> z|> /. Association -> List     (*<|a -> x, b -> y, c -> z|>*)      Any idea why?

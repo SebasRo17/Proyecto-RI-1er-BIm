@@ -1,0 +1,1 @@
+I have used `Placed[Before]` to place labels on the labels before the bars, but when I specify a plot range, the labels disappear. I need a solution wherein I can use `PlotRange` and `Placed[Before]` without the labels disappearing.

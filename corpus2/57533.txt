@@ -1,0 +1,1 @@
+How can I plot3D cylinders $y=1-x^2, y=1+x^2$ and planes $2x+2y-z=10, x+y+z=2$ in **a** coordinates system?(with Mathematica)

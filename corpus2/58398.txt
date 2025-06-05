@@ -1,0 +1,1 @@
+s = Import["hello.mat"];     t = GraphEmbedding[Graph[s[[1]]], "GridEmbedding"];      I get the following error: > GraphEmbedding::graph: A graph object is expected at position 1 in >   >   >     GraphEmbedding[Graph[SparseArray[<1232>, {223, 223}]], GridEmbedding]. >   I would prefer to do SpringElectricalEmbedding and then GridEmbedding. What should I do? Please help.

@@ -1,0 +1,1 @@
+I have some code in a file named `Demo-3.m`, It can be evaluated in Mathematica 9. The final expression in the file is               Export[NotebookDirectory[] <> "fintempimg.jpg", fintempimg];      How can I execute `Demo-3.m` in Linux using the command-line? Please give me a solution with an example.

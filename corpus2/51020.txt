@@ -1,0 +1,1 @@
+I read in a package as a list of strings Using ReadList ReadList["package1`", String] StringReplace can then be used on (e.g. mapped over) this list of strings. Is there anyway to save/export the result as a revised package (overwriting "package1`")

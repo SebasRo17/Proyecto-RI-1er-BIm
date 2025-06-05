@@ -1,0 +1,1 @@
+Is there any way to make _Mathematica_ stop for some miliseconds? I know about the `Pause[]` but it seems it only works with seconds.

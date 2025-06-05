@@ -1,0 +1,1 @@
+I'm starting with _Mathematica_ and I can't solve numerically the equation               -(π/4) + x - 1/2 Sin[2*x] == 0      using `NSolve` as well as I can't plot it correctly because when I do               eqn1 = x - (Sin[2*x]/2) - (Pi/4) == 0     Plot[eqn1, {x, -2, 2}]      it shows an empty window with nothing more than just the x and y axis.

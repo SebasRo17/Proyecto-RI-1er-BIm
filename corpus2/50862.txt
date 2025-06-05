@@ -1,0 +1,1 @@
+For this expression: $ (1 - Exp[-Sqrt[1+s] x])/(1+s)$ How to make the Inverse Laplace Transform analytically?               InverseLaplaceTransform[(1 - Exp[-Sqrt[1+s] x])/(1+s),s,t] does not directly give solution

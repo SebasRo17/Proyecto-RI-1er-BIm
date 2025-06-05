@@ -1,0 +1,1 @@
+I am having an issue about how to export data in its scientific form using _Mathematica_. To be concrete, I define a list               alist = {2344. 1111111, 0.0002223344};     ScientificForm[%]     Export["test.dat", %]      but it turns out that doesn't work. Is there any other way to achieve this? Also, what can I do to control the number of digits exported? Any idea?

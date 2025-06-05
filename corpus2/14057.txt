@@ -1,0 +1,1 @@
+I have been trying to put Points at the intersection of two curves, one of which is the ouput of a differential equation solved with NDSolve. The output being an Interpolation, NSolve cannot find the intersection coordinates.

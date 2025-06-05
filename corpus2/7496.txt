@@ -1,0 +1,1 @@
+I can't get this to work, the Show function shows only the first plot. Why this happens and how to solve it?               Show[Plot[x^2, {x, 2, 10}], Plot[1 - x, {x, 1, -10}]]

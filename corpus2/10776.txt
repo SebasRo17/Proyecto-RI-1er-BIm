@@ -1,0 +1,1 @@
+Is it possible to set the font family to Arial for axes, legends and labels globally? I found out about               SetOptions[       Legending`GridLegend,        Legending`LegendContainer -> (Framed@ Append[#, FontFamily -> "Arial"] &)     ];      for legends, but now I am trying to set the axis labels.

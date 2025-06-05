@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  General::ivar is not a valid variable when plotting - what actually causes > this and how to avoid it? Beginner question: Why can't I use `D[]` like that?               Plot[{Sin[x], D[Sin[x], x]}, {x, -2 Pi, 2 Pi}]      If I assign the result of `D[]` to a variable and put that variable in the list it works.

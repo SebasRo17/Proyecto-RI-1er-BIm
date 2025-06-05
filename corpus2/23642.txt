@@ -1,0 +1,1 @@
+I am trying to replace the last column of the following expression (`mat`) by doing               mat = {{1, 2}, {1, 4}};     For[q = 1, q < 3, q +=1,       If[mat[[q, 2]] < 3, ReplacePart[mat, {q, 2} -> -1], ReplacePart[mat, {q, 2} -> 1]];]      So I expect to get               mat = {{1, -1}, {1, 1}}      But nothing changes. Do you have any idea why it does not work?

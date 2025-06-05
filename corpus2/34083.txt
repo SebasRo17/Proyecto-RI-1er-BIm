@@ -1,0 +1,1 @@
+Is there a preferred way of converting an `Integer` to a `Real`? What I'm using at the moment is `x + 0.0`.

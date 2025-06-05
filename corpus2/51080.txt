@@ -1,0 +1,1 @@
+How can I keep a kernel running until all scheduled tasks have completed? For example upon running the following script `bazinga.m`:               RunScheduledTask[Print["Bazinga!"], {5, 10}]      with               $ math -script bazinga.m      the kernel immediately exits and does not run the scheduled task at all. Setting `$IgnoreEOF` to `True` does not make a difference.

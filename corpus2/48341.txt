@@ -1,0 +1,1 @@
+I am writing a module. When I run the module, I want it to ask for a variable, like I can in other programing languages such as C++ or Python. For example, in C++:               int i;     cout << "Please enter an integer value: ";     cin >> i;      I want something similar to the above in _Mathematica_.

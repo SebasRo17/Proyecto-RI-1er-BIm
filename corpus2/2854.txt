@@ -1,0 +1,1 @@
+For example I want to define a function with parameters σx and σy, that is, the function will be declared as:               f[σx_,σy_] := . . . I tried `Symbolize` but it doesn't work. How can I use `Subscript` in pattern names?

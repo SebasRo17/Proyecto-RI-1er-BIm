@@ -1,0 +1,1 @@
+I am looking for non-canonical sorts of lists. A function that would give:               Sort[X, "order type"]      With "order type" being colex, revlex, etc.

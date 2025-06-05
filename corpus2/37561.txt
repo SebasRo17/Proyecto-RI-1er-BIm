@@ -1,0 +1,1 @@
+I have following :               SeedRandom[2]     Table[Table[RandomInteger[100, {100, 10}][[r, s]] == x[r + s], {r, 1, 10}], {s,1,10}]      How can I set condition inside Tables?Such as if `r>s` set 40 times of `x` value?Or something like this ?I want to have many of those conditions inside two tables? Any suggestion for using other commands?

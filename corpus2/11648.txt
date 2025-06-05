@@ -1,0 +1,1 @@
+If I have a list of conditions:               {cond1,cond2,cond3}      and I want to use an `If[]` statement to test the intersection of these conditions (or, more generally, any subset of them, but let's start with the basic case first):               If[cond1&&cond2&&cond3,a,b]      How would I do that?

@@ -1,0 +1,1 @@
+In my demonstration "Sequence Sums That Are Squares" I demonstrate two "lines" of solutions (of infinite length) and ask whether someone can find one more line. I am looking forward to your solution. I did not find a third line of solutions.

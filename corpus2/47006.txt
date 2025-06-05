@@ -1,0 +1,1 @@
+I have a task implement OOP in wolfram mathematica. I think write class Point and inherit from it class Rectangle. In C# or C++ it's very easy, but I don't know how do it in wolfram mathematica. All books which I found I must pay for them. Can you advise some free books, or give examples how write and work wit classes. Tnanks,Maria.

@@ -1,0 +1,1 @@
+I would like to initialize this kind of vector : `{0,0,1,1,0,1,0,1,1,1,1,1}` with `Table`.   I tried `Table[{x, y, 1}, {y, 0, 1, 1}, {x, 0, 1, 1}]` but it outputs `{{0,0,1},{1,0,1},{0,1,1},{1,1,1}}`.   What is the right method to correctly initialize my vector without creating sub-lists ?

@@ -1,0 +1,1 @@
+I need to calculate the following singular integral:               NIntegrate[Log[1 + y^2]/Cos[Pi y], {y, 0, 1}]      However, it is failing to converge. I have tried to specify `MaxRecursion`, `PrecisionGoal`, and `Exclusions` but neither helped. How does one calculate singular integrals in Mathematica?

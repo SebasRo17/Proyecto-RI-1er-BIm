@@ -1,0 +1,1 @@
+For some expressions, `TreeForm` may grow very long. I'm only interested in the top levels of the expression. How can I get the tree form of only the first levels an expression? For example: how to get the first levels of this expression in tree form?               Nest[1/(1 + #) (1 - #) &, w, 5]      ![TreeLevel of the above expression](http://i.stack.imgur.com/1SpTG.jpg)

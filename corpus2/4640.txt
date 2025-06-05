@@ -1,0 +1,1 @@
+I use               f = OpenRead["largefile.m"]     x = Read[f];     Close[f];      to read in a _Mathematica_ expression from a large file `largefile.m` (about 3 GB) and assign it to `x`. The `Read[f]` step takes very long time. How to monitor its progress? BTW, if the file `largefile.m` is larger than `4.1 GB` (as `ls -la` displays), will this approach work?

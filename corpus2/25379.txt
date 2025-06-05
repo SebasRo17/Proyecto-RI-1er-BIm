@@ -1,0 +1,1 @@
+Mathematica returns values for non-integer arguments passed to `Binomial`. What is the definition of `Binomial` for such continuous arguments? Example:               Binomial[9, 2]     36     Binomial[9, 2.3212312]     49.801     Binomial[9, 3]     84

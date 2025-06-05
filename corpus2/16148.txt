@@ -1,0 +1,1 @@
+I have a question where I have to compute a `Table` containing $f^{(n)}(0)$ for `n = 1, ..., 5`, where $f^{(n)}$ denotes the $n$th derivative of $f$. For the function $f(x)=x\mathrm{e}^{-x}$, I have:               f[x_]:=xe^-x     Table[D[f[x],{x,n}],{n,1,5}]//TableForm      How can I solve for the value of each derivative at 0?

@@ -1,0 +1,1 @@
+How do I render a letter with a single dot above it? I see `\\[DoubleDot]` and `\\[TripleDot]` are readily available, but what about a single dot? Specifically I am after Q dot, which is used in thermodynamics. If it helps, here is some background on Unicode and Q dot.

@@ -1,0 +1,1 @@
+How to make parallelize the following code keeping the same "idea". The example I have in mind is more complicated, but I would like to know if a program of this structure can be parallelized?               c = 0     ParallelDo[If[RandomReal[] > 0.5, c += 1], {i, 100}]

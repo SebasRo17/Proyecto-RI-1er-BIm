@@ -1,0 +1,1 @@
+I have a list $(d_1, d_2, .. d_k)$ and I want to create all sums that I get for adding only two elements for my list $(d_1+d_2, d_1+d_3,...d_{k-1}+d_k)$. The `RotateLeft` function gives me only some of my sums and I need all of them.

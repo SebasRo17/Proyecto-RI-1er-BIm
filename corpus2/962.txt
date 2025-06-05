@@ -1,0 +1,1 @@
+I have a table of data with multiple rows and columns, and I have to make a versus data table using two of these columns. Essentially, I have to set one column of data (column 3) as the y-axis and another column of data (column 5) as the x-axis. How do I accomplish this?

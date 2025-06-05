@@ -1,0 +1,1 @@
+It is not clear, what symbol is used in Notation function description for arrows? How to enter it in textual mode within Workbench? Here: http://reference.wolfram.com/mathematica/Notation/ref/Notation.html

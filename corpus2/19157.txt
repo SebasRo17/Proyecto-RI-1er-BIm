@@ -1,0 +1,1 @@
+I have a quite simple question. I have an expression that looks similar to $T=\frac{1}{a_1}-\frac{1}{a_2}+1$ and I'd like Mathematica to use $A=\frac{a_1}{a_2}$ to reformat the expression (if possible) such that only $A$ appears in it. Any idea? Cheers, Pascal

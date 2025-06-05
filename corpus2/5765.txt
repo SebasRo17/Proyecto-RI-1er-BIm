@@ -1,0 +1,1 @@
+Is there a command in Mathematica to check the date when a file was last modified? Suppose I have two notebooks: `File1.nb` and `File2.nb`, I need a way to find out which notebook is older. If no such command exists is there a way to do this in _Mathematica_ regardless of the operating system we are working on?

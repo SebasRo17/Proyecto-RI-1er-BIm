@@ -1,0 +1,1 @@
+When I try to evaluate `Re[Sqrt[z]]`, for some values of _Mathematica_ fails to evaluate it. For example,               Re[Sqrt[2 + I*x]]`      > `Re[Sqrt[2 + I x]]` How can I get the real number in `Sqrt[complex number]`?

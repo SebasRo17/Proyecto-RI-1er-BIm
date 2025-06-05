@@ -1,0 +1,1 @@
+I mean, suppose I have this expression: 2 + 2 I want to get something like this: Plus[2, 2] as an output. I've tried FullForm, but this just evaluates 2+2 and returns 4. Is this even possible?

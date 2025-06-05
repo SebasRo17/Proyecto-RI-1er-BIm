@@ -1,0 +1,1 @@
+I have the following:               animals = {{dog, black, 200}, {cat, white, 100}, {moose, brown, 500}, {zebra,black,100}}      If this came from a SQL table called animals, which has fields named: type of animal, color, weight I would say:               Select * from animals WHERE weight = 100      How do you do this in _Mathematica_?

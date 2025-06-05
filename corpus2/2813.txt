@@ -1,0 +1,1 @@
+Consider the following:               a[m_, n_, x_] :=          1/2^n (-1)^n/((2 n)!) Sum[Binomial[m, l] (m - 2 l)^(2 n), {l, 0, m}] x^(2 n)          a[m_, 0, x_] := 1          f[m_, x_] := Sum[a[m, n, x], {n, 0, Infinity}]      ![Indeterminate expression](http://i.stack.imgur.com/6MNvX.png) I'm totally clueless why Mathematica fills in $0$ for $x$ while I feed it $x = 1$!

@@ -1,0 +1,1 @@
+I want to create several directories `"dir_i"` in a mother directory `"home"`. and put an specific file in each directory `"file_j"`. so that I will have `home/dir_1/file_a`, `home/dir_2/file_b`,...               Table[CreateDirectory["home/dir_i"],{i,1,10}]      obviously doesn't work because `"home/dir_i"` is a string not an expression.

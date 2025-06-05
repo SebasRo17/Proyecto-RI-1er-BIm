@@ -1,0 +1,1 @@
+I have a framed plot and I want to use Ticks to create customized tick marks, along the lines of               Plot[x, {x, 0, 1}, Frame -> True, FrameTicks -> {Automatic, {0, 1}}]      The problem is this puts the y-axis ticks (0 and 1) on both the left and right-hand sides. How do I keep the ticks only to the left side of the plot as usual?

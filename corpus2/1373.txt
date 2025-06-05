@@ -1,0 +1,1 @@
+Say I want a slider that controls the value of $x$ and another slider that controls the value of $2x$, how would I go about it?

@@ -1,0 +1,1 @@
+In playing with and comparing the various answers to my question here, I tried applying `Timing[]` to see how fast things ran, but it seemed that some of the answers (but not all of them) were a lot faster when run for a second time. How can I make sure that there isn't some kind of caching of intermediate results throwing off the `Timing[]`?

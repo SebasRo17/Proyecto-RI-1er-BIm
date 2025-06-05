@@ -1,0 +1,1 @@
+_Mathematica_ allows this syntax, but I cannot find any documentation (or books) that discuss the various uses/advantages of it               g[1] := Plus;     g[2] := Times;     g[1][3, 5]     (* 8 *)          g[2][3, 5]     (* 15 *)      What keywords can I use to find this in the documentation?

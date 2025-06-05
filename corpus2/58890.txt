@@ -1,0 +1,1 @@
+How to paint the dolphin, shark and the box with different colors after loading the .obj file into Mathematica?               gr = Import["c:\\DolphinSharkBox.obj" ];     Graphics3D[gr[[1]]]      Link for the .obj file. ![enter image description here](http://i.stack.imgur.com/TBq4n.jpg)

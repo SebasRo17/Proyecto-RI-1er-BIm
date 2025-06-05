@@ -1,0 +1,1 @@
+![Every Time](http://i.stack.imgur.com/uj3P3.png) Every time I execute a command in _Mathematica_ , it prompts me whether I would like it to remember my decision to convert TraditionalForm to InputForm. Sadly it doesn't remember my decision ? Any suggestions ?

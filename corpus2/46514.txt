@@ -1,0 +1,1 @@
+How can I plot the product of the `NDSolve` result, e.g. `x[t]/.solution` and any known function, for instance, `Sin[x]`?

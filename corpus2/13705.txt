@@ -1,0 +1,1 @@
+I'm asking the following on behalf of Mr.Wizard. On StackOverflow I used the old v1.0 SO API and _Mathematica_ to obtain user reputation data. Now we are no longer a tag on StackOverflow and the v2.1 API is the current top dog, can we still use similar techniques to get the reputation data here?

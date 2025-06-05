@@ -1,0 +1,1 @@
+I am trying to use the following input               Plot[Log[E,x+1],{x,-50,50},PlotRange->50]      however the output is: > ![plotted function](http://i.imgur.com/SVxpatz.png) How can I adjust it so the line goes down to the PlotRange mark specified. Or is this a limitation of mathematica?

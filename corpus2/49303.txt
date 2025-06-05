@@ -1,0 +1,1 @@
+Does any implementation of the Jacobi-Davidson method for _Mathematica_ exist? A highly parallelized version for sparse matrices would be of special interest.

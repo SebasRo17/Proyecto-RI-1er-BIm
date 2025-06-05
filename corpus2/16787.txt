@@ -1,0 +1,1 @@
+Given two lists $l_a = \\{a_1, a_2, a_3\\}$, $l_b = \\{b_1, b_2, b_3, b_4\\}$ and some function $f$ accepting two arguments, how can I produce a list of all values $f(a, b)$ for $a\in l_a$ and $b \in l_b$ using functional construction?

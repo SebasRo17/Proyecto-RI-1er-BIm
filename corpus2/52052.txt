@@ -1,0 +1,1 @@
+It appears as though the predictive interface does not work in the Slide Show screen environment.

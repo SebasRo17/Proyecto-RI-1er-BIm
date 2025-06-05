@@ -1,0 +1,1 @@
+This command will produce a chart with two lines on it.               DateListPlot[{CapReg, Equity},  Joined -> True ]      What I would like to do is add a label above the chart "CapReg" in red, and a label below the chart "Equity" in blue. Then I would like to have the color of the `CapReg` line be red, and the line for `Equity` be blue. Any ideas? Many thanks in advance.

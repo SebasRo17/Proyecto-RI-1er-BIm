@@ -1,0 +1,1 @@
+As it can be shown that the function **f(x)=3x^3-9x+1** has a single root in the interval abierto (0,1). Try to solve using Newton Raphson method, but that is more than a demonstration calculation

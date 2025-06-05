@@ -1,0 +1,1 @@
+I'm using "mathlink.h" to call _Mathematica_ from a C program. I send a computation to _Mathematica_ and its return result is a very big number (100 digits). Hence, I want to read that number as a string. How can I do it using _MathLink_? Thanks,

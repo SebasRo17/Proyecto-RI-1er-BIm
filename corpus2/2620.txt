@@ -1,0 +1,1 @@
+I need a differential geometry tool for Mathematica. Is there any add-on? Unfortunately, Mathematica does not include such functionality or I can not find it.

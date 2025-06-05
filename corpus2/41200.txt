@@ -1,0 +1,1 @@
+I want to define list of functions and also use them for evaluation. But this just doesn't work. For example               f=Table[0,{i,3}]     f[[1]]=x^2     f[[2]]=x^3     f[[3]]=f[[1]]*f[[2]]      So far, fine, because f[[3]] is in fact x^5. Let's say I also need value of second function at $x=2$. However `f[[2]][2]` does not return `8`.

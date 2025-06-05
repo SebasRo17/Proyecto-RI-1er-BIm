@@ -1,0 +1,1 @@
+I'd like to display field lines for a point charge in 3 dimensions. Not a force field (short arrows) but continuous field lines that start on the charge.

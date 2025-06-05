@@ -1,0 +1,1 @@
+How can I retrieve the style definitions of a certain style within a cell, notebook or stylesheet? For example how can I retrieve the `FontColor` and `FontFamily` of the `"Input"` style either in the current notebook or in `Default.nb`? (Preferably without reference to an existing cell of this style.)

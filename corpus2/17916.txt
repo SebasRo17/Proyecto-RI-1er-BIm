@@ -1,0 +1,1 @@
+I'd like to have a function, whether built-in or not, that when given a symbol, whether bound to a value or not, returns a string giving the context and name of the symbol. Example: `f[a]` returns `"Global`a"` Example: `f[Developer`$MaxMachineInteger]` returns `"Developer`$MaxMachineInteger"`

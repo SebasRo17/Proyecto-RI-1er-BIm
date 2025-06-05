@@ -1,0 +1,1 @@
+I have an expression where I want to replace `L` but not `L[_]` For example, the following doesn't work and               sub = {L :> 2};     L + L[tilde] /. sub     (* 2 + 2[tilde], but I want 2 + L[tilde]*)      Is there a simple variation on the substitution pattern for this to work? I tried things like `sub = {L_Symbol :> 2}` but couldn't figure it out.

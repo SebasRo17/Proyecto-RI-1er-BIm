@@ -1,0 +1,1 @@
+I have a very large table with two columns. Let's say the name of first column is E and the name of the second is P. How can I get the E values when P = 0.

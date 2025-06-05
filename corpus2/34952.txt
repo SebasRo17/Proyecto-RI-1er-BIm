@@ -1,0 +1,1 @@
+I have the following list of squares.               {1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, 256}      Their sum is $1496$, I want to make two partitions with the given numbers and each partition should have a sum of $748$, does Mathematica have a built-in function for that?
