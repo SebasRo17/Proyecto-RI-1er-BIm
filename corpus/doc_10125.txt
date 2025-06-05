@@ -1,4 +1,0 @@
-
-True, but will traditional encryptions schemes, when further encrypted
-by Clipper, be _more_ vulnerable to attacks such as partially known
-plaintext?

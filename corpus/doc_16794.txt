@@ -1,2 +1,0 @@
-
-	xli, xloadimage or ImageMagick - export.lcs.mit.edu [18.24.0.12] /contrib

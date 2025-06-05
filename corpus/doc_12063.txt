@@ -1,3 +1,0 @@
-A SIMM is a small PCB with DRAM chips soldered on.
-
---maarten
