@@ -1,0 +1,1 @@
+possible duplicate find subsequence constant increase given arbitrarily long list integer let say sorted would one determine integer make arithmetic sequence arithmetic sequence difference consecutive term also would one determine sequence given list instance like function return findarithmseq thanks advance

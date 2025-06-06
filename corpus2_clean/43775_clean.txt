@@ -1,0 +1,1 @@
+defined one dimensional momentum operator hat p hbar frac partial partial x mathematica p h x want get kinetic energy operator hat hat p frac hbar frac partial partial x p give wrong result derive operator hand

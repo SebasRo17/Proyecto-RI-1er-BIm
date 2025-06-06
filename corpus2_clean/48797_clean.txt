@@ -1,0 +1,1 @@
+trying solve bvp using ndsolve want impose starting initial guess googled looked help find option ndsolve u x u x f x u u u u u x x u u u u something like set starting guess thanks advance advice petrus

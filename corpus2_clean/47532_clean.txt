@@ -1,0 +1,1 @@
+list show listpointplot list plotstyle pointsize large boxed true viewpoint show list point value graphic

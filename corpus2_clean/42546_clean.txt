@@ -1,0 +1,1 @@
+using mathematica problem wrapping head around list manipulation function would appreciate suggestion want listv list vector listv x z x z v v listu also list vector listu b c b c u u listu listv may unequal length want make new list listuv would contain new position generated sum vector listu listv mathematically would listuv v u v u v u v u thanks suggestion

@@ -1,0 +1,1 @@
+hello mathematica user problem trying eliminate variable q x froma pde mathematica output true problem already found eliminate apply dx second equation first equation determine substitute dq x dx second mathematica output case pde fourth order q x aim solved hand eliminate w x b w x x c q x x c w x x e q x ff q x x cc w x x q x q x q x q x

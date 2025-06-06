@@ -1,0 +1,1 @@
+trying animate curve wrap around cylinder ok far animate parametricplot co sin sqrt co sin sqrt plotrange animationrunning false struggling incorporate cylinder graphic cylinder probably see problem curve run around invisible cylinder much happier could see tried squeeze cylinder different way putting animate parametricplot different place using epilog luck suggestion

@@ -1,0 +1,1 @@
+possible run unit test debug session already open wolfram workbench typical use case follows debug workbench session open enter image description evaluate cell sample notebook find bug fix write unit test would like run unit test enter image description workbench say enter image description terminate mathematica session kernel state lost evaluate notebook cell

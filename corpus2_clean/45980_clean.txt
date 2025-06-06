@@ -1,0 +1,1 @@
+following list l like take transformit following form newlist tried l work give output almost correct want feed data following function animate data animate listplot l n l n l n plotstyle pointsize plotrange n thought would easiest first construct list want pas directly listplot

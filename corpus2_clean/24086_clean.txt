@@ -1,0 +1,1 @@
+following code simplified version f x sin x print f question simple thing work write output print anything display error nothing

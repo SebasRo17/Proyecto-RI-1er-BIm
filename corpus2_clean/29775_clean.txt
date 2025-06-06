@@ -1,0 +1,1 @@
+homework problem coursera course calculus single variable robert ghrist find derivative frac dy dx equation x tan ln x wanted check work using mathematica tried dt x tan log x dt dy dt x dx reduce dy dx z z system mathematica window computation seems hang anyone suggestion solve edit also interested reduce handle problem well used whereas solve handle fine see answer

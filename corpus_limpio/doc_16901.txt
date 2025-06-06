@@ -1,1 +1,0 @@
-im designing circuit silicon diode dont need modify parameters problem accept following statement model diode pspice book terrible would appreciate help

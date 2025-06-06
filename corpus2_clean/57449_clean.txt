@@ -1,0 +1,1 @@
+suppose matrix b c want form block diagonal matrix sub matrix e would look like matrixform b c use code b c perceived entry matrix

@@ -1,0 +1,1 @@
+following code case function x x valueq hold head true unexpectedly return hold x according manual valueq expr give true value defined expr give false otherwise example expression assigned value x

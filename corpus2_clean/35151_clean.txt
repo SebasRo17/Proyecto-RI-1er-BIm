@@ -1,0 +1,1 @@
+import data excel use plot windrose instead example strength angle degree data north

@@ -1,0 +1,1 @@
+undirected graph graph undirectededge undirectededge undirectededge undirectededge undirectededge undirectededge undirectededge graphlayout springembedding vertexlabels name imagepadding get adjacency matrix follows g adjacencymatrix normal form sparse array g follows normal g adjacency matrix appear correct graph

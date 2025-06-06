@@ -1,0 +1,1 @@
+command tell mathematica try write term possible expression total derivates example want tell mathematica write sin g co g instead possible mathematically basically constant equivalent mathematica testing term analytically integrable e closed form expression

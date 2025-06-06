@@ -1,0 +1,1 @@
+want fit data model however data involves unit independent variable fitting seems work example consider code data table quantity exp randomreal nlm nonlinearmodelfit data exp goal parameter estimate right unit depending unit appearing data minimize risk performing incorrect unit conversion manually suggestion

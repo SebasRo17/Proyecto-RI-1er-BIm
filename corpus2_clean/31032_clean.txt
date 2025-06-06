@@ -1,0 +1,1 @@
+consider following function sin x b co x tried obtain maximum value function using maxvalue maxvalue sin x b co x x real expect mathematica return following answer sqrt b mathematica cannot find answer happen

@@ -1,0 +1,1 @@
+importing image stl format possibility regard volumetric image processing seems rather limited example given tiff file way convert stl tiff work stl image way

@@ -1,0 +1,1 @@
+trying use combinatorica package mathematica version following code gp graph combinatorica connectedq gp give error message general compat combinatorica graph permutation functionality superseded preloaded functionality package loaded may conflict please see compatibility guide detail checked guide recommendation given could solve problem suggestion please

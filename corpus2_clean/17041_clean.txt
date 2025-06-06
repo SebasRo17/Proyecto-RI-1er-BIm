@@ -1,0 +1,1 @@
+want select distinct cycle represented list cycle b c must b c c b b c equal c b distinct cycle set b c b c c b c b b c c b b c b c b c b c b c b c c b c b c b c b c b c b b c c b b c b c c b c b must b c b c c b c b c b b c want know whether two cycle cycle involve length example b b b b b b b b b b b b b b b b b b b b b code mathematica

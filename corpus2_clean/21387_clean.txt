@@ -1,0 +1,1 @@
+assume given symbol p x represent point x numerical value plot point uisng graphic point p next wanted plot setting various x thought could use command something like x graphic point p work guess something order evaluation holding stuff etc cannot figure solve question use together graphic

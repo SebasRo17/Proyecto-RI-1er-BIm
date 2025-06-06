@@ -1,0 +1,1 @@
+trying fit data following function frac b left log left frac right right c data using following code nlm nonlinearmodelfit data c b log b c b c give following fit obviously correct frac left log left frac right right mathematica fit tried manually varying parameter come following fit fit real data parameter b c want using mathematica find right parameter proper fit trial error

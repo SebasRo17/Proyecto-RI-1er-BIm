@@ -1,0 +1,1 @@
+created tuples usd eur jpy following result usd usd eur eur jpy jpy want dimensional list combination currency appear twice example output usd eur jpy usd eur jpy usd eur jpy usd eur jpy usd eur jpy simple way

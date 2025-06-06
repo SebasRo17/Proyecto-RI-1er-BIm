@@ -1,0 +1,1 @@
+trying export matrix number dat file using export want number separated tab slow take several minute whereas export excel file take second way speed also control number decimal want export edit found issue happens export dat file network drive work export excel file dat file must implemented different way produce different behaviour thank though different interesting answer

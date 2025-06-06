@@ -1,0 +1,1 @@
+run batch file send command collect output window run c runme bat output window appears disappears also want send script file python shell collect output mathematica window readlist c python python exe script file txt

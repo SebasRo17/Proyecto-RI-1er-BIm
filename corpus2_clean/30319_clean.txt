@@ -1,0 +1,1 @@
+implementing first answer earlier question redirecting output print opening file openwrite assigning stream output seems work satisfactorily however close give error message shown close file anyone know wrong print statement code go opening output stream attempting close enter image description

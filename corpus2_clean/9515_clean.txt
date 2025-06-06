@@ -1,0 +1,1 @@
+suggestion good approach implementing zoomable keyframe based curve editor essentially something akin functionality graph editor animation package maya see see get started something simple using locator ability zoom pan long time range something look tricky suspect starting right concept first place save lot headache idea much appreciated

@@ -1,0 +1,1 @@
+see documentation createdialog dialog created createdialog pressing return effectively equivalent clicking defaultbutton esc clicking cancelbutton dialog contains defaultbutton cancelbutton pressing return esc close dialog without taking action input field example often press enter key wrote input happened window close immediately change behavior dialog

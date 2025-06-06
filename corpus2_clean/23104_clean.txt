@@ -1,0 +1,1 @@
+assume w n expand sum binomial n k k k n k k n f z polynomialremainder w z w w h z quiet n findroot ab f z w print max parallelmap h subset range according code lot root try find nsolve root

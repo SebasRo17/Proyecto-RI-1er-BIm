@@ -1,0 +1,1 @@
+script file need distribute execution read write protect thanks

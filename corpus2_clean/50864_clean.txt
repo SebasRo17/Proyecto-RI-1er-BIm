@@ -1,0 +1,1 @@
+column vector form associated matrix number row column vector number column equal maximum value vector would like construct matrix specific value position zero everywhere else row index corresponds row index column vector column index corresponds value row index solution using loop clear also nifty mathematica trick job

@@ -1,0 +1,1 @@
+use dot series diferent color know use symbol instead automatic tu use de dot listplot plotmarkers automatic medium

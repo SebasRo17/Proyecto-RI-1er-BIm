@@ -1,0 +1,1 @@
+trying use findclusters segment data point similar number far get work example l findclusters l set n parameter specify exactly n cluster work findclusters l however intent use findclusters figure n

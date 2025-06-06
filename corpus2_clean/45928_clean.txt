@@ -1,0 +1,1 @@
+reason run math exe form window command line mathematica disables altgr key bit annoying since keyboard locale key located key make mathematica unusable many novice user way workaround problem switching keyboard locale switch u keyboard student since hard enough time finding character typed keyboard possible get altgr key work math exe

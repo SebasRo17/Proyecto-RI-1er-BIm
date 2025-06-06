@@ -1,0 +1,1 @@
+dsolve x x x x x x dsolve bvnul branch general solution given boundary condition lead empty solution solution check e x solution e x e x x e x x e x true write code like solution sol dsolve x x x x b x x sol b whats mean branch general solution explain phenomenon

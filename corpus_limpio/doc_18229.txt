@@ -1,1 +1,0 @@
-correct assuming science instruments buffer acquired data onboard ram downloaded upon receipt mro command

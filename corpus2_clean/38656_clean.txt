@@ -1,0 +1,1 @@
+trying plot contour function f x z face cube example represents domain function way mathematica contourplot evaluates contour along domain want face colored function enter image description

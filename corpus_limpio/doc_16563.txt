@@ -1,1 +1,0 @@
-directory tmp start x created system directory wasnt created root contains empty file owned

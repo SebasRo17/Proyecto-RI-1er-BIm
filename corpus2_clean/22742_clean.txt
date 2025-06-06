@@ -1,0 +1,1 @@
+generated matrix using mathematica left begin array ccc text co theta text sin theta text co theta text dx text dx text dy text sin theta text sin theta text co theta text co theta text dy text dy text dx text sin theta end array right want change variable name dx xr dy yr could

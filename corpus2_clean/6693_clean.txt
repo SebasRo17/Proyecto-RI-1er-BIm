@@ -1,0 +1,1 @@
+trying run regression using fit output financialdata spy jan however date returned financialdata format recognized fit function return date format need date expressed decimal form relatively new mathematica got believe easy way transform list provided financialdata one format date decimal price guidance would appreciated

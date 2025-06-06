@@ -1,0 +1,1 @@
+let say four function x x x x writing pattern match x x x easy f x true f false f x f x x true false reverse also straightforward g x x true g false g x g x x false true would match member x obviously work h memberq name x tostring head true h false h x h x x h x false true true seems excessive especially context contains large number function

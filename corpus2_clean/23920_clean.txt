@@ -1,0 +1,1 @@
+let say want compute following function mathematica g n k g n k g n k know g n n g n n example g g g less trivially g g g g g g g g g g g g g g attempt following code recurrencetable n k n k n k r r r r n k grid however spit lot error message relating function called two variable one expected

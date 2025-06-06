@@ -1,0 +1,1 @@
+use cellularautomation function neighborhood defined connection node example neighborhood node node start manipulate node sort flatten table range n k rand randominteger n n k rule mapthread rule node rand color randominteger n black red graphplot rule vertexrenderingfunction color edgeform black sphere color black yellow white style text fontweight bold fontsize n k step

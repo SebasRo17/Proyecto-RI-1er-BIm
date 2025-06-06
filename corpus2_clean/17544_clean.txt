@@ -1,0 +1,1 @@
+following problem possible plot complex number created function complexplot cn plot x plotrange aspectratio axeslabel epilog background none pointsize point cn im cn cn im cn cn im cn complexplot plot complex number want one graphic number pair myplots table complexplot linpolesall n n show myplots work overlay plot last one tried show myplots myplots idea thanks

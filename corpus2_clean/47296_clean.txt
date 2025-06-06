@@ -1,0 +1,1 @@
+given list arbitrary precision number e g actual list element long test need accumulate list specified element value treated clear accumulation reset zero point list continues example using zero clear result would e g using function lst clr foldlist clr lst rest lst test seems pretty snappy wondering efficient way

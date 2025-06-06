@@ -1,0 +1,1 @@
+macbook pro cuda enabled video card yet mathematica seem recognize example following cudalink setup get need cudalink cudaq false cudadriverversion cudadriverversion nodriv message raised additionally according documentation card listed despite nvidia saying otherwise convince mathematica card support cuda

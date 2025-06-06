@@ -1,0 +1,1 @@
+would like create window student may enter equation clicking button function get plotted original spanish quiero realizar una ventana en la cual el alumno tenga la opci n de ingresar una ecuaci n la cual al presionar un bot n se grafique

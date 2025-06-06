@@ -1,0 +1,1 @@
+noticed different behaviour mathematica matrix representation matrix different b matrixform obtain different result using matrix command like eigensystem kind definition use program

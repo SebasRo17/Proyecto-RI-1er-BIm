@@ -1,0 +1,1 @@
+function contains loop sometimes take several hour run important keep high precision insert print statement throughout check status simplified example f x block minprecision x print n way ignore suppress minprecision print used like make printed output easier read

@@ -1,0 +1,1 @@
+define temperature variable celsius mathematica calculate right answer multiplying boltzmann constant example temperature quantity celsius temperature quantity kelvin temperature quantity boltzmannconstant temperature quantity boltzmannconstant quantity joule wrong answer quantity joule correct answer mathematica able manage unit conversion something wrong

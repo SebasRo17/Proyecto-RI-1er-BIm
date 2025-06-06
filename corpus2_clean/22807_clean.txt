@@ -1,0 +1,1 @@
+w n expand sum binomial n k k k n k k n f x z polynomialremainder w z w w x j j j k k k j k print j k n max findinstance ab f j k ab w code give max case aim find max case q reduce time code thank

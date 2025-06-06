@@ -1,0 +1,1 @@
+sequence x k k z k k n subset mathbb r point along path represented function gamma colon mathbb r mathbb r map distance along path location space way mathematica output interpolation parametrized like gamma sequence subset range

@@ -1,0 +1,1 @@
+set function f x f x x e x set variable actualroot function findroot starting actualroot findroot f x x get output x later want compare output different estimate root calculate error ab actualroot estimateroot actualroot get output ab x x get mathematica evaluate expression also tried using n give decimal evaluation work

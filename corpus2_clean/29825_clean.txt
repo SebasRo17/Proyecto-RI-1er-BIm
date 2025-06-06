@@ -1,0 +1,1 @@
+made simple case testf x z x z simplify testf x z x z normalized simplified result could specify condition assumption

@@ -1,0 +1,1 @@
+version using gridlines automatic would put grid line every log spaced tick mark logplot x x x gridlinesstyle lightgray gridlines automatic frame true enter image description version longer case enter image description simplest way recover old behavior

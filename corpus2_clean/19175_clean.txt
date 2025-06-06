@@ -1,0 +1,1 @@
+want make inputfield horizontal cursor like enter image description note blinking cursor horizontal mouse pointer nevertheless text input still horizontal vertical code show inputfield standard vertical cursor want horizontal one x null style inputfield dynamic x imagesize alignment center bold possible

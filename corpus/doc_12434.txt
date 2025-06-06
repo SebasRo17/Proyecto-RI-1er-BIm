@@ -1,4 +1,0 @@
-
-This design will work but I don't think it can take easily take advantage
-of expose event redraw optimization; that is, the whole window will be
-redrawn, not just the area with the new item.

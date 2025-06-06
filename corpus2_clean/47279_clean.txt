@@ -1,0 +1,1 @@
+would like triangulare signal drive ode system using squarewave something seems go wrong though integration uext rate squarewave rate umax evaluate different graph problem thanks rate umax sol flatten evaluate uext uext rate squarewave rate umax ndsolve uext rate squarewave rate umax uext umax uext show plot evaluate sol sol aspectratio plotrange automatic frame true imagesize

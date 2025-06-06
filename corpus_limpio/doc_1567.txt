@@ -1,1 +1,0 @@
-chimes indicate hardware failure type system startup

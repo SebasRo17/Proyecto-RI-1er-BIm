@@ -1,0 +1,1 @@
+efficient way solving problem considering term fibonacci sequence whose value exceed four million find sum even valued term sumfib n fibonacci n n mod sumfib print sumfib

@@ -1,0 +1,1 @@
+want extract number alphanumeric string tried stringtake thiru result got still string determined evaluating numberq stringtake thiru return false

@@ -1,0 +1,1 @@
+continuous differentiable monotonic bounded function called f infinity f c know c want find smallest value called suffices f c sure one could somebody give hint function use task since afraid findroot work case even know given smaller starting findroot center give nearest solution solution somewhere near wrong neither solve work f injective

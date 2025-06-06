@@ -1,1 +1,0 @@
-true enough zilog scc break detect popular part number quirks especially hdlc mode signetics duscc break start detect break end detect two bits receiver status register enable interrupt either bits going high also one null put fifo per break detected simply best serial chip ive ever worked many less quirks scc imho secondbest death devices

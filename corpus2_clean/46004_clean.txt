@@ -1,0 +1,1 @@
+thought rather simple thing able find solution polynomial expression like expr b c expr b expr b c want replace every negative sign plus expr new b c expr new b expr b c problem fullform b plus time b thus cannot use simple replacement know simple way update example work simple replacement expr expr fullform expr time complex

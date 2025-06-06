@@ -1,0 +1,1 @@
+plot function defined integral specific following equation frac pi int sqrt sin arccos left frac e right sin frac mathrm translating mathematica input e pi nintegrate sin arccos e sin arccos e need plot txe

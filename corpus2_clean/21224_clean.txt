@@ -1,0 +1,1 @@
+following code ay exp sin az exp co ay ay az az j dsolve r r az ay z r z az r ay yo pyo z zo z pzo z py j pz z j p py pz r sqrt yo zo pyo pzo j ndsolve x p x x produce message ndsolve ndfdmc computed derivative dimensionality consistent initial condition fix plot x plot x j plotstyle automatic plotrange axesorigin

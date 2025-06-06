@@ -1,0 +1,1 @@
+like run r version installed window system within mathematica execute following command installr rhomelocation c program file r r bin x get following error message installr fail failed install r following error encountered unable load dynamic library anybody know fix issue many thanks advance

@@ -1,0 +1,1 @@
+want make sequence like follows r r r r r n r represents coordinate type manually one one make sequence make typing easier confortable even without type lazy admit problem involve n coordinate generate sequence length n naively write follows table r n tableform make list could generate sequence incomplete expression like expression right side make mathematica table

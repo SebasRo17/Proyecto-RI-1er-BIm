@@ -1,0 +1,1 @@
+want solve following system equation begin case sqrt x x sqrt x x sqrt x x x x end case tried reduce sqrt x x sqrt x x sqrt x x x x x real also tried solve nsolve evaluation exhausted patience know given system left frac frac right real solution tell mathematica get solution

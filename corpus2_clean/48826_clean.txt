@@ -1,0 +1,1 @@
+consider following code produce sequence x ldots x n x cdots digit easier way n x table sum k k n r table mod x k n k n x r also code defines list r remainder division x n output r like following determine index producing first two equal element r example since r r like math x x

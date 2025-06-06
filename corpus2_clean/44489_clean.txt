@@ -1,0 +1,1 @@
+answer question helped use euler method worked simple function function complicated get empty plot function frac sin pi code clear x x x first ndsolve x sin x x pi x x startingstepsize method fixedstep method expliciteuler grid table x listlineplot grid wrong

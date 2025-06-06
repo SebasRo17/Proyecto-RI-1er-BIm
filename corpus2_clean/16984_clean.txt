@@ -1,0 +1,1 @@
+consider following code data data data sg listlogplot tooltip data joined true mesh automatic sl listlogplot tooltip data joined true mesh automatic lg listlogplot tooltip data joined true mesh automatic show sg sl lg plotrange problem individual plot scale mess combine using show command scale label simply disappear idea fix

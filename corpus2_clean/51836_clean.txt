@@ -1,0 +1,1 @@
+want series expansion expression frac left e e sqrt e e e e v right second order v using assumption e e tried series e e sqrt e e e e v v assumption e e fullsimplify still sqrt e e term result make assumption e e work

@@ -1,0 +1,1 @@
+open docx file containing mathematica graph computer without mathematica software installed graph look corrupted example plotmarkers framelabel look differently keep graph looking originally computer without mathematica

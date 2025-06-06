@@ -1,0 +1,1 @@
+plotting two histogram graph g histogram bc chartstyle red g histogram bcx show g g plotrange enter image description would like plot overlap see compare trying chartstyle overlapped working

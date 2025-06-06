@@ -1,1 +1,0 @@
-list mentioned tgif handles everything except rotation size text supports degrees rotation currently supports standard font sizes however allows arbitrary scaling entire drawing effectively allows font sizes different sizes per drawing tgif takes compiled option sparcstation told compiles linux havent tried yet works color monochrome x

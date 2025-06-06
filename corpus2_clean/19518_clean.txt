@@ -1,0 +1,1 @@
+using ndsolve want solve differential equation till quantity function dependent variable reach certain value function criterion complicated able reproduce error simple de x ndsolve x sin x whenevent stopintegration x error message get ndsolve nbnum function value x true false argument idea would great

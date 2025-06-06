@@ -1,0 +1,1 @@
+plot graph make mathematica tell coordinate cut axis looking

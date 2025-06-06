@@ -1,0 +1,1 @@
+could someone point direction creating autoregressive distributed lag model mathematica

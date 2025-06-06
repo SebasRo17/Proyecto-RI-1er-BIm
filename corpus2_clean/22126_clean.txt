@@ -1,0 +1,1 @@
+list structured like list header header header using custom function find number column specific header name extract data column header header data map part whatcolumn header list let say would like extract data column header header would need map code line following list list header header organize placeholder something like seem work data map map part whatcolumn list list

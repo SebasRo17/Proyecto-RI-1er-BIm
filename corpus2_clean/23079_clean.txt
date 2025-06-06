@@ -1,0 +1,1 @@
+provide data export mathematica csv format slow compared format seen following table json sec mb txt sec mb xlsx sec mb csv sec mb somebody give hint speed explanation slow

@@ -1,0 +1,1 @@
+quite complicated function variable f n dj n dj n n dj n dj n dj n n dj n n n dj n n n n n n n n n dj n n dj n dj n sqrt n n dj n n dj n dj n dj n dj n n dj n n n n n n n dj n n n n want show function always less n geq j geq indeed resolve forall n dj n dj f n dj get true wondering way could show rigorously e hand ask mathematica show step used get true since need put paper

@@ -1,0 +1,1 @@
+using contourplot defining parameter space feasibility function function simply return everything true everything false question without knowing algebraic expression function find point inside feasibility region distant border example contour square point would looking would center contourplot sin sin x x contour framelabel x enter image description idea appreciated thank advance

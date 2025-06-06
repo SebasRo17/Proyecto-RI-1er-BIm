@@ -1,0 +1,1 @@
+pick number uniform distribution need expected value sum largest pretty sure answer agrees simulation would like get mathematica tried assuming b c expectation b c b c distributed uniformdistribution return wrong

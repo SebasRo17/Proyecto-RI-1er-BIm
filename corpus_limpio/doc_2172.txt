@@ -1,1 +1,0 @@
-soundblaster board pc jumpered irq port conflict parallel port ide controller multiio board port vga board choose another irq besides irq safe use motherboards recently adding modem computer noticed uses sb card ive never problem im wondering thought would cause conflict would also like explanation anyone explain sb pro lpt share irq please thanks

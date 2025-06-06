@@ -1,0 +1,1 @@
+want grid background function x one small detail want coordinate point centre background square corner playing bresenham line algorithm want see nearest centre square line go

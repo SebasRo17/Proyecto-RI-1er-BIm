@@ -1,0 +1,1 @@
+want mathematica interpret subscripted variable symbol found documentation suggesting notation package could need notation symbolize parsedboxwrapper subscriptbox x subscript x still get subscript anything wrong

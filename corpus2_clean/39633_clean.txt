@@ -1,0 +1,1 @@
+trying plot listlineplot table co x p x p imagesize plotrange listlineplot table co p x x p imagesize plotrange take lot time render computer become unusable something rendering faster least making process slower use computer normally nvidia gtx video board know cuda link asking much like get advice someone experience matter

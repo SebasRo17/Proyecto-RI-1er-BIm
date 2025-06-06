@@ -1,0 +1,1 @@
+want draw one plot showing solution following ode different value n ndsolve x x x g x n x g x g g g x plot evaluate g x x plotstyle automatic

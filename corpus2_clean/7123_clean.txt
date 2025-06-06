@@ -1,0 +1,1 @@
+background see question moving control manipulate palette similar gui object suggested answer question use createdialog window group handle control added windowfloating true option clicking second time external button creates identical copy window question best way enforce one createdialog window created

@@ -1,0 +1,1 @@
+trying simplify expression using assumption got inconsistent behavior mathematica working indexed variable consider assuming subscript x real refine im subscript x assuming subscript x real subscript x refine sign subscript x sign subscript x assuming subscript x refine sign subscript x appears assumption indexed variable real work assumption positivity indexed variable seem work

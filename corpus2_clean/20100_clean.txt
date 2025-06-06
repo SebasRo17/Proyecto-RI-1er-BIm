@@ -1,0 +1,1 @@
+new mathematica finding difficult plot ellipse tried using plot x x getting error something wrong syntax need rewrite equation plot

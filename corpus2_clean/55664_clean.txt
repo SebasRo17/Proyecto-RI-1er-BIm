@@ -1,0 +1,1 @@
+data uploaded ideone code data readlist dbm txt number number model b f c result nonlinearmodelfit data model b c f result result parametertable fitplot plot result f f error nonlinearmodelfit cvmit failed converge requested accuracy precision within iteration idea

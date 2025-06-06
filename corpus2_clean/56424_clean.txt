@@ -1,0 +1,1 @@
+function nearest define custom function using distancefunction option e g dist u v x ab u x ab v use like nearest distancefunction dist possible give user defined distancefunction regionnearest v see

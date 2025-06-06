@@ -1,1 +1,0 @@
-want able send pixmap one client next along want send colormap foreground background pixel values far problem problem however pixmap id colormap id go telling server second receiving client wants associations two ids tia john

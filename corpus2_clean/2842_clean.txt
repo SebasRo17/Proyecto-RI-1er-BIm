@@ -1,0 +1,1 @@
+would good replacement inputfilename added recently mathematica achieve backwards compatibility let say using loading auxiliary data package file found convenient way use relative path purpose however sure achieve example packagedir directoryname inputfilename svgparser xml parser initializexmlparser svg filenamejoin packagedir cache svg dtd

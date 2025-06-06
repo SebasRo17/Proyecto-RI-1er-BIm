@@ -1,0 +1,1 @@
+need compute int int int z dxdydz domain x z leqslant z geqslant im trying use spherical coords int pi int frac pi int r co theta r sin varphi dr theta varphi try mathematica integrate integrate integrate r co theta r sin phi r theta pi phi pi result wrong

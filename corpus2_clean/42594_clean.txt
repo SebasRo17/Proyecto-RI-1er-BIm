@@ -1,0 +1,1 @@
+let say five four dimensional vector p mu p p p p want fill entry vector cdot total number resulting vector satisfy following constraint p p p p text p mu p mu p mu p mu p mu text mu convenient way create constrained vector mathematica maybe built function

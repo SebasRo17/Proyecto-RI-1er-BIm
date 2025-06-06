@@ -1,0 +1,1 @@
+want pas list pure variable function ordering variable matter instance want palindrome function might func want able generalise arbitrary number variable func n want simple way write function g n call func n variable achieve tried generating list n table seems mathematica interpreting ampersand correctly

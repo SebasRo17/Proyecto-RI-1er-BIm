@@ -1,0 +1,1 @@
+following equation h h k h boundary condition h h k constant factor plot h c versus k c far done sol dsolve h h k h h h h plot h sol k note expected plot v k since mathematica refusing plotted v k result look like mathematica graphic however solution damped oscillation shown expected plotsshown dotted line

@@ -1,0 +1,1 @@
+let assume sol solution ndsolve given interpolatingfunction f interpolatingfunction want plot fixed x sufficient write plot f plotrange frame true want define partial derivative f cannot use following code gradtheta f x x replaceall rep interpolatingfunction developer packedarrayform automatic automatic neither list replacement rule valid dispatch table cannot used replacing

@@ -1,0 +1,1 @@
+perform fullsimplify list left sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt right get left sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt right note third expression get simplified sqrt sqrt reason bug mathematica complexity function genuinely consider sqrt sqrt simpler sqrt sqrt expression input form sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt fullsimplify

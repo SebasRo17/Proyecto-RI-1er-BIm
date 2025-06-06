@@ -1,0 +1,1 @@
+set degree freedom pearsonchisquaretest pearsonchisquaretest ex normaldistribution sigma pvalue degreesoffreedom shorttestconclusion significancelevel return reject need set degree freedom

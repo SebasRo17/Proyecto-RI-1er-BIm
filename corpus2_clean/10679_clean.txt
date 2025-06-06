@@ -1,0 +1,1 @@
+use createdocument cell opts create notebook notebook open small default window size need manually maximize every time good way maximized default

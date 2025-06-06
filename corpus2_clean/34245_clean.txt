@@ -1,0 +1,1 @@
+trying plot implicit function satisfying complex transcendental equation code following contourplot e e l e l cosh sqrt e e l e l co l sin sqrt e l e e l sqrt e l sinh sqrt e l e need real solution e function l also e min l know empty plot think solution range since tried l several solution one e thus think must something wrong plot

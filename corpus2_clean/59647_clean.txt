@@ -1,0 +1,1 @@
+need something like complexinfinity true false use tostring get want tostring complexinfinity true false someone know better way belive transforming string way

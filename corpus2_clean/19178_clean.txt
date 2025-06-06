@@ -1,0 +1,1 @@
+investigating cohomology complex manifold need construct chain complex mayer vietoris sequence etc use mathematica numerically tracing manifold geodesic implemented representation cohomological class differential complex anyone used mathematica area anything related eg multidimensional topology

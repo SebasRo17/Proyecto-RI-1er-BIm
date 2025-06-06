@@ -1,0 +1,1 @@
+using linux would like able programmatically open notebook running mathematica instance command line currently something like opt wolfram mathematica executables mathematica foo nb launch new kernel frontend instance possible use running frontend opening notebook short enforcing single instance behavior believe command line option

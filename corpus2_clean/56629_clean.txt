@@ -1,0 +1,1 @@
+suppose function z x left frac frac x iy x iy frac x right want contour plot frac partial z partial x ax x tried code work z ab x x x contourplot z x x x seems rather straightforward sure missing

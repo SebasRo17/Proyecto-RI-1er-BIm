@@ -1,0 +1,1 @@
+exit package middle example beginpackage mypackage begin private dosomething frontend null abort dosomethingiffrontenddefined end endpackage abort really quit whole package command could use goto sound good also want quit want use definition dosomething part

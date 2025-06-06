@@ -1,0 +1,1 @@
+suppose function phi alpha x left begin array l l alpha x quad text x x quad text x alpha x alpha quad text x end array right wish run simulation random walk length phi x drawn beta distribution parameter alpha know deal phi random walk process especially given condition edit mean previous x instance suppose time observation start frac x x x x piecewise x x x x x x x

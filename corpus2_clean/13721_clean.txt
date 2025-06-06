@@ -1,0 +1,1 @@
+say function f n complex variable z nc want contour integrate expression z integration unit circle origin complex plane oint cal c cdots oint cal c f z cdots z n z z n would guess sense pick residue n dimensional complex function f exactly sure residue interpretaton contour integration complex plane would like know set mathematica hopefully residue finding problem

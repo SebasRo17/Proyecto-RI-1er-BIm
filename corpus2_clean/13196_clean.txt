@@ -1,0 +1,1 @@
+font used mathematical symbol noticed choosing another font via stylesheet change math font e g greek symbol symbol stay time suspect mma substituting missing symbol new font one time internal one surely mathematica choosing courier result different greek symbol one found font include neccessary symbol

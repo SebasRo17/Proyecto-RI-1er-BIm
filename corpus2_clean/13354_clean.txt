@@ -1,0 +1,1 @@
+working research project need learn use mathematica calculate subspace specifically plan solve following operation would greatly appreciate could give example solve example vector space n consider sub space left langle right rangle calculate equation defining n find generator subspace magic matrix time time time square matrix called magic sum element row column diagonal always

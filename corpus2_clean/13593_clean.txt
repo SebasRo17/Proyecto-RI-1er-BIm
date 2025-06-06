@@ -1,0 +1,1 @@
+make hatching filling plot like hatching filling plot use another one plot shifting make filled area plot listlineplot table x w x w w filling top fillingstyle white fill listlineplot table x w x w w filling top fillingstyle lightgray plotstyle lightgray show fill plot plot make hatching filling fill plot

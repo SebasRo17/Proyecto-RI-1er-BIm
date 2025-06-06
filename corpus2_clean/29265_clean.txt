@@ -1,0 +1,1 @@
+following code image img imagesize data imagedata img fdct fourier data tdata inversefourier fdct image tdata seems fail inversefourier function error get image imgarray specified argument array rank machine sized number actually sure wrong checked discrete fourier transforms output fourier used inversefourier get inverse idea wrong

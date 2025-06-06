@@ -1,0 +1,1 @@
+solve soliton scattering coupled equation need get two different graph still graph come also equation quite complicated containing hyperbolic trigo maybe dont know whether problem come hyperbolic equation used becoz initial condition coding u g ndsolve x pi x pi x g pi x u pi x cosh x x sinh x cosh x u x sinh x cosh x x x x plot evaluate x plotrange plotpoints

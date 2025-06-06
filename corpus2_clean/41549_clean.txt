@@ -1,0 +1,1 @@
+two list data b want compute cross correlation two list time lag like mentioned wikipedia correlation function found mathematica correlationfunction one seems compute autocorrelation list wondering another function anybody help

@@ -1,0 +1,1 @@
+trying calculate thermodynamical cycle often use list equation simple example list x z z x z z x solve list x z x z problem appears want use calculated value x z later calculate parameter mathematica every time keep returning x z instead numerical value result solve nested list anyway access value

@@ -1,0 +1,1 @@
+basically need function take list give possible permutation reason use permutation apply another program score permutation separately based certain criterion permutation range give entirely much data function work list range int int permutation include member original list repeat function produce possible permutation appreciate help stuck

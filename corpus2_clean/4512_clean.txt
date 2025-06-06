@@ -1,0 +1,1 @@
+consider following list b c c e e f x z would like apply union element list following way union b c c e e f x z problem union list return desired result applied list please consider following example list union list problem occures intersection instead union

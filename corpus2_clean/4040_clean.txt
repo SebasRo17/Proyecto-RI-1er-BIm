@@ -1,0 +1,1 @@
+possible duplicate using plotlegends show mess graphic created composite plot function enter image description want add legend plotlegends seems work inside show mathematica plot probably printed tooltip work create legend plot

@@ -1,0 +1,1 @@
+two list x coordinate different z coordinate form x z x z xn yn zn x z x z xn yn zn want construct list x z z x z z xn yn zn zn e construct list containing difference z coordinate x coordinate possible simple command construct loop create new list scratch

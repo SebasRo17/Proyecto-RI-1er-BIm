@@ -1,0 +1,1 @@
+trying create manipulate plot showing electric field due collection point charge moment created plot allows x position charge manipulated using slider however would particularly like able click drag point plot created locator manipulated like however work attach function help would greatly appreciated

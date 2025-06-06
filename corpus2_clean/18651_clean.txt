@@ -1,0 +1,1 @@
+fairly new mathematica trying write function equation xx x sqrt h sqrt h yy h known x yy function give list number equal list length way write function encompasses variable x yy assuming would start xx x yy best method create loop

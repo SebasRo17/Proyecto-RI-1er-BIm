@@ -1,0 +1,1 @@
+tried search similar question existed found anything someone help code plot normal series co x x x getting error message general ivar valid variable would like plot series expansion thanks advance regard umberto p reduced piece work working able reproduce error

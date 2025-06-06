@@ -1,0 +1,1 @@
+need add either vertex edge graph also sometimes vertex edge mixture two write function

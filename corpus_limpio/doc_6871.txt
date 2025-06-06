@@ -1,1 +1,0 @@
-please reply via email use terminal software windows terminalexe crossttalk doesnt use whole window mean softwares window size max still scrolls around window use whole window set stty rows still scrolls top windows could anyone tell setup software use whole window

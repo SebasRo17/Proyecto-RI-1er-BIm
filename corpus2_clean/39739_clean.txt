@@ -1,0 +1,1 @@
+index binary string lexicographic order empty string corresponds string corresponds string want function given natural number n geq return binary string lexicographic index n

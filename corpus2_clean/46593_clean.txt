@@ -1,0 +1,1 @@
+given matrix shape l l would like compute trace text tr sigma n otimes sigma n otimes ldots otimes sigma n l n n n l sigma n pauli matrix n identity n specific value l write function l perform computation

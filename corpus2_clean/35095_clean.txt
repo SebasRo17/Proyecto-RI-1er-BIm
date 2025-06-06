@@ -1,0 +1,1 @@
+tc chop findroot nsum hypergeometric f l l infinity polylog exp polylog exp polylog exp tstart accuracygoal precisiongoal tstart ni min max max min ni dat chop table max tc ni listlineplot dat mathematica cannot plot ni point keep running hour produce plot small number point e g ni could tackle problem

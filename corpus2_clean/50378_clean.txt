@@ -1,0 +1,1 @@
+trying color simple plot using listlineplot based data form vector listlineplot data would like use one colordata color scheme like temperature line color depending third value table vector data source color coding value

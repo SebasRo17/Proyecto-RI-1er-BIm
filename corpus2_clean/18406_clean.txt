@@ -1,0 +1,1 @@
+front end v given cell contains content hit backspace clear content nothing left hit backspace one time cell becomes section new feature use edit would someone verify effect comment

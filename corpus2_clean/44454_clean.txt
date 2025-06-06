@@ -1,0 +1,1 @@
+extremely new mathematica trying import edgelist representing network think missing something major process far import visualize data setdirectory c path file net import data csv graphplot net format data follows b c b c e c f c g f imported couple different network end looking sure missing major step likely declaring edgelist

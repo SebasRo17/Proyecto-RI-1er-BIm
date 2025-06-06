@@ -1,0 +1,1 @@
+according various source e g wolfram binomial coefficient n choose k defined whenever k n negative integer k le n type binomial mathematica return looked documentation definition binomial say general n choose defined gamma n gamma gamma n suitable limit apparently n since gamma defined suitable limit case applied mathematica return choose precisely suitable limit

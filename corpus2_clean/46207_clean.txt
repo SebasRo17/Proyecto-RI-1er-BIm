@@ -1,0 +1,1 @@
+option align text automatically adjust font descent attached graphic string contain g visibly shifted upward even though string uniformly rendered text style name fontfamily helvetica fontsize b enter image description way align string vertically font baseline also see issue simpler example graphic line text g text h plotrange somehow replicate issue osx enter image description

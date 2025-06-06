@@ -1,0 +1,1 @@
+following function f lst list matchq lst pattern lst want match list ordered pair real tried following pattern matchq list list real real returned false know matchq list return true pattern sufficiently specific since also match among others correct way construct pattern want

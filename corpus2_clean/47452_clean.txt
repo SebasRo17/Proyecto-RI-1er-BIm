@@ -1,0 +1,1 @@
+using traditionalform make output larger size want change general font size gui make output one expression larger tried traditionalform x z fontsize large work fontsize apparently allowed attribute

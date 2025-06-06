@@ -1,0 +1,1 @@
+trying use notebookwrite paste plot another notebook code look something like ptemp show plot x x plot x x nb createdocument notebookwrite nb ptemp run code get error message unknown box name graphic sent boxform expression way use notebookwrite insert graphic exist sort wrapper graphic would make notebookwrite able

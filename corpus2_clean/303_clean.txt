@@ -1,0 +1,1 @@
+every write generic function use quite often month come however package development mathematica well documented tell able find coherent description online deal tiny issue bit end usually give copy paste function every new notebook really way go anyone develop package could walk open mathematica save something included via package give good reference

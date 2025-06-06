@@ -1,0 +1,1 @@
+draw image circle x action transformation phase flow equation dot x dot sin x dot x mean dx dt help suggestion appreciated following code show plot trace point action may helpful splot streamplot sin x x streamcolorfunction rainbow manipulate show splot parametricplot evaluate first x ndsolve x sin x thread x point x plotstyle red point locator savedefinitions true

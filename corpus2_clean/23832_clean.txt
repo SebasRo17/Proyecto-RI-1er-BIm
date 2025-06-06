@@ -1,0 +1,1 @@
+say matrix like left begin array c c c x xz w x wz xy z z x w z x end array right possible ask mathematica rank depending x z w

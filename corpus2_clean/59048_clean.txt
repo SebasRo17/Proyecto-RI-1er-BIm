@@ -1,0 +1,1 @@
+plot sphere form x z try regionplot x z x z get error set write tag plus protected understand find example equation plotted either

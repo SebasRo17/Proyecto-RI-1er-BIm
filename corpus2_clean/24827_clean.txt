@@ -1,0 +1,1 @@
+applying edgedetect image generates black white edge detected image suspect corresponds underlying binary matrix access underlying data structure map given matrix position corresponding coordinate processed image ideally like list say matrix whatever corresponds white line edge detected image coordinate

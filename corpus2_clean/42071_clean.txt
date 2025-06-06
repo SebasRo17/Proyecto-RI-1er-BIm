@@ -1,0 +1,1 @@
+trying maximize somewhat complicated function probability distribution p q input maximize p q p q p q p q p q p q p q p q p p p p q q q q p p p p q q q q p p p p q q q q n however get error nmaximize nrnum function value real number p p p p q q q q find odd since thought constraint disallow oddly enough findmaximum work fine

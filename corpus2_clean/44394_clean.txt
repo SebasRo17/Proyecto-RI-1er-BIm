@@ -1,0 +1,1 @@
+according mathematica integral nintegrate log log x log x x might possibly evaluate overflow indeterminate infinity although calculation show problem case exactly mathematica yield result nintegrate inumri integrand log log x log x evaluated overflow indeterminate infinity sampling point region boundary problem code another problem related mathematica

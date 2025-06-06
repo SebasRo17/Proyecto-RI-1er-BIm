@@ -1,0 +1,1 @@
+matrix constructed element element iteration thus non square square want make square filling function determine matrix square thinking something like determinant matrix possible fill else nothing det matrix indeterminate fillwithzeros matrix pretty sure det matrix indeterminate correct way express thought maybe could help syntax even suggest better way thanks

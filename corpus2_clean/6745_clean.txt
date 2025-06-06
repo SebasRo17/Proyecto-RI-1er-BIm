@@ -1,0 +1,1 @@
+would like set function return true least two argument given list equal give function return false since none argument equal would happen gave gave return true know simple problem think easily tell convenient way achieve

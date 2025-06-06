@@ -1,0 +1,1 @@
+someone provide example combinatorica based graph us showgraph graph take explicitly defined list edge auto generated graph able find documentation describes expected input format

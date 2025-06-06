@@ -1,0 +1,1 @@
+looking compact way specify pattern match rule list matchq allows enumerating rule rule list arbitrary order e g given rulelist b c str rulelist b c str following pattern match rulelist rulelist matchq rulelist b b pattern written compact form e g using optionspattern

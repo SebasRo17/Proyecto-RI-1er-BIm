@@ -1,0 +1,1 @@
+parametric plot like following parametricplot sin co pi frame true axeslabel x axesstyle arrowhead plotrangepadding wrong label would like ax label x positioned besides arrowhead e left vertical arrowhead x horizontal one since use frame replacement ax ax middle edge believe cannot use approach suggested question could achieve

@@ -1,0 +1,1 @@
+want compose string contains newlines tried following tostring stringform sometext newline well othertext texta textb would expect produce string looked like sometext texta well othertext textb instead get string look like sometext texta textb well othertext directly entering string sometext texta newline well othertext textb give correct result going

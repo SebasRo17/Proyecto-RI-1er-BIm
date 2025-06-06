@@ -1,0 +1,1 @@
+following input assuming n integer n k integer k k n fullsimplify binomial n k binomial n k return binomial n k binomial n k give k n k make

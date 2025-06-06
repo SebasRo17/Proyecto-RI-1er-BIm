@@ -1,0 +1,1 @@
+trying get name symbol passed function f x symbolname x x setattributes f holdfirst x f x x evaluated anyway symbolname sym argument position expected symbol symbolname missing

@@ -1,1 +1,0 @@
-without real technical details hard answer question suppose already xoring two parts produce bits real key material maybe theyre using exportable version

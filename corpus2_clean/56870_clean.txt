@@ -1,0 +1,1 @@
+although would know perform cross validation test fitting model using function like nonlinearmodelfit wonder way providing right parameter fittedmodel available think would good way improve fittedmodel function future version mathematica

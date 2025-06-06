@@ -1,0 +1,1 @@
+use cutepdf creating pdf output requires manually selecting print ctrl p cutepdf writer printer pressing ok automated

@@ -1,0 +1,1 @@
+domain decomposition natural technique reducing computational cost solving large scale linear system somebody know using mathematica

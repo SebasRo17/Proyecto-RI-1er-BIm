@@ -1,0 +1,1 @@
+question probably best illustrated small sample code manipulate plot eqn eqn eqn eqn x eqn r x eqn e x r would like able user input two equation including variable r use slider manipulate variable issue manipulate change r within input field update graph way allowing user input equation contains one manipulate variable without change variable within input field

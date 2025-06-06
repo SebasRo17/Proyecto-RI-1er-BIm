@@ -1,0 +1,1 @@
+easy way generate arbitrary two dimensional polyomino tiling specifically would like generate array integer coordinate example output graphic showing tiling pattern tile centered integer coordinate array tile labeled integer coordinate way three dimension access wolfram mathematica

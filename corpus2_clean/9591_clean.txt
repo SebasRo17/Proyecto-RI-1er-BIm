@@ -1,0 +1,1 @@
+new mathematica new programming like mathematica using api display line nth derivative function e g n way accomplish mathematica without explicitly typing command derivative course e g mathematica iterative construct

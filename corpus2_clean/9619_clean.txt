@@ -1,0 +1,1 @@
+documentation fold say fold f x list give last element foldlist f x list surely way implemented right case step fold return large object would huge waste memory actually store whole list pick last element end test trace work advertised skip printing intermediate step sometimes

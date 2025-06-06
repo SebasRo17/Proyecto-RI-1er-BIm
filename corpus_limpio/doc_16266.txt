@@ -1,1 +1,0 @@
-hello world want write xtapplication code like dosomework need user input xmcreatedialog waitforuserinputinput input ok morework else otherwork morework otherwork callback functions application simply waits user answer question code xtmotifapplication thanks much advance greetings huub

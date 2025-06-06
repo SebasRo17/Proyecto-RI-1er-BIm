@@ -1,0 +1,1 @@
+say two matrix case higher order tensor b want solve equation b need list equation equate entry wise element b pas list solve dsolve whatnot simpler way get list thread thread b flatten work matrix need add another thread rank sure code golfer come somehting elegant unreadable

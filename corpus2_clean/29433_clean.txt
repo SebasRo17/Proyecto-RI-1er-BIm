@@ -1,0 +1,1 @@
+like invoke rowreduce matrix time parameter example consider rowreduce rowreduce always return identity matrix tell mathematica distinguish case might division zero edit maybe need clarify problem bit know much matrix except contain time dependence whatever form given matrix want perform operation attain time depending row echelon form matrix valid subseteq mathbb r

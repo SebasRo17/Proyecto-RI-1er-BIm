@@ -1,0 +1,1 @@
+multidimensional integration form somefunc nintegrate otherfunc x z z z z z z x x z x z need evaluated z z x x however mathematica still evaluates integrand backwards even question tell nintegrate simply give case move next integration step tried modify upper integration boundary follows p z max z z accepted mathematica integration boundary fix

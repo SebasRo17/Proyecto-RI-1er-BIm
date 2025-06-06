@@ -1,0 +1,1 @@
+similar problem posted difference plot using evaluate v using evaluate however due numerical evaluation cannot use evaluated true plot option small example give error f nintegrate x x plot table f evaluated true desired output equal plot f f f evaluated true fix example

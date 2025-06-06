@@ -1,0 +1,1 @@
+read description similar problem cannot make work example know list dim value plot x control variable z want plot x condition z determine colour list data similar problem found nc listplot data plotstyle directive pointsize large joined true colorfunction function x data nc red black line point seems recognise colour point similar suggest solution

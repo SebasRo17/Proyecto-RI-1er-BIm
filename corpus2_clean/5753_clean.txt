@@ -1,0 +1,1 @@
+list b list visualized tree using treeform b treeform b would like find possible traversal tree seems subset might usable tried subset b gave null set another possible problem subset perhaps respect leveling tree looked combinatorica package see way traverse tree direction top bottom possible way

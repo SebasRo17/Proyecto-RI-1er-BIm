@@ -1,0 +1,1 @@
+comparison data n n n timing parallelsum n timing harmonicnumber n appendto data data result following show built function always win question rewrite built function parallelized function e g rewrite harmonicnumber n parallelsum n could win general case advantage parallelization help appreciated

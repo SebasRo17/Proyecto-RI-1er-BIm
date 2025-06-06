@@ -1,0 +1,1 @@
+want differentiate function f specific expression f depends x parameter k k x depend k k use total derivation operator dt f x differentiated say mathematica k k constant without assigning value

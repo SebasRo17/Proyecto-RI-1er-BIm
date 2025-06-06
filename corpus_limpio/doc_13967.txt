@@ -1,1 +1,0 @@
-capture buttonpressbuttonrelease events multiple clients want know user still display locking screen get keypresskeyrelease pointer motion events user pressing mouse button location mouse doesnt move cant capture events oreilly xlib programming manual vol says page one client select button events one window one time due grab automatically takes place help would appreciated

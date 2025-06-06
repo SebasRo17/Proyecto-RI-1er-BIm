@@ -1,0 +1,1 @@
+system non linear equation ndsolve get solution plot phase space parametricplot solution want plot vector field want help specific want see whether fixed point stable unstable know watching nonlinear dynamic vector field much faster way figure stability fixed point

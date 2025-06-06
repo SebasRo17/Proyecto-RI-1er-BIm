@@ -1,0 +1,1 @@
+discontinuous function u square wave would like whenevent trigger signal go high low e value u change hoping use derivative u determine squarewave period duty unitbox mod period duty system x u whenevent mod u squarewave x u whenevent u print params sol ndsolve system params x u discretevariables u plot evaluate x u u sol plotlegends x u u unfortunately seem work output output

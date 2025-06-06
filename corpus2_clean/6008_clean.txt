@@ -1,0 +1,1 @@
+consider following snippet pt randomreal g graphic polygon dynamic pt plotregion panel locatorpane dynamic pt g would like able drag triangle whole found none assume added via code e eventhandler found example question select act upon multiple locator e drag scale apply transformation point

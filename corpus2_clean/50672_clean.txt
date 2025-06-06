@@ -1,0 +1,1 @@
+alternative way appendto delete also replace k every update want avoid copytensor following code probably reason behind memory performance problem large value n f compile n integer module fk table randomreal n k table randomreal n tt ksum tt ksum total fk k mapthread min randomreal k ksum tt round total k fk delete fk appendto fk k

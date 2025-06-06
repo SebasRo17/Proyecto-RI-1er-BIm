@@ -1,0 +1,1 @@
+get type loop mathematica print j k l j k l b z c want work first iteration j k l take value b z second iteration value c result b z c interested kind looping structure job necessarily need loop

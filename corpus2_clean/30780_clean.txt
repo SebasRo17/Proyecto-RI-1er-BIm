@@ -1,0 +1,1 @@
+notebook arg input txt arg output txt u import arg table u u extremely complicated long chain operation export arg u would like run python program like def run arg arg mathematica code arg arg range run input format output format preferably without gui several thread parallel use core mathematica

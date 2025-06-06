@@ -1,0 +1,1 @@
+following command return empty plot plot pdf transformeddistribution z x distributed x exponentialdistribution distributed z bernoullidistribution yet randomvariate work fine smoothhistogram randomvariate transformeddistribution z ab x distributed x exponentialdistribution distributed z bernoullidistribution merely give particular example focus unduly want generalize

@@ -1,0 +1,1 @@
+currently trying find numerical solution differential equation form w x x delta g g x l delta g x l subject boundary condition w w l w w l ndsolve appears choking singularity stiffness constraint idea might go dealing thanks advance

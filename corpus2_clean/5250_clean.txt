@@ -1,0 +1,1 @@
+could somebody please tell always getting error message trying run following code dsolve x c x b x x x error message dsolve bvfail branch general solution unable solve condition

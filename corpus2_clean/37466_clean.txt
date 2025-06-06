@@ -1,0 +1,1 @@
+found simple example illustrates problem contourplot x x plotlegends expression try export pdf get following contour plot legend bug legend expression misspaced unreadable known bug known work around

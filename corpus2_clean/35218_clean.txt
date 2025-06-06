@@ -1,0 +1,1 @@
+trying solve simple pde mathematica get mathematica give explicit analytical solution code made basically repeat output given input input output wrong pde u z const u z z dsolve pde u z z u z const u z dsolve u z const u z u z z

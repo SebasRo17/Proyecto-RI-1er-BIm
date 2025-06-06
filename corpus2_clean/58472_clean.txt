@@ -1,0 +1,1 @@
+datestring year month day hour minute second millisecond return difference replacing return presumably exactly represented machine precision number millisecond cutting last digit rather rounding decimal place anyone suggest simple fix

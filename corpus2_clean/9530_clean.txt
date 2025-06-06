@@ -1,0 +1,1 @@
+align tick label tick label text end centered data point course work fine rotation degree similar angle see example chart plot listplot table n n xticks table n rotate value tostring n degree n listplot frame true frameticks automatic none xticks none labeled list plot

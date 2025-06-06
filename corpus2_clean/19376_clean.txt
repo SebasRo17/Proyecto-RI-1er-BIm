@@ -1,0 +1,1 @@
+edit need find index depends certain condition able implement list time point two constant c length list n want find index leq n found according n c n infty example know example would like function tell c ti n tip implement

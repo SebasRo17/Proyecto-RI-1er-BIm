@@ -1,1 +1,0 @@
-hi could please tell errors ways trying update drawable drawable happens pixmap button problem true appears work sprintftmpstrrdfun mygc tmpstr strlentmpstr problem new info drawn old info still even pass xcleararea false see clear redraws new info old info still help please thanks randy paries intergraph huntsville alabama

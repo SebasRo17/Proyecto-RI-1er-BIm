@@ -1,0 +1,1 @@
+given following list li would like get list flatten note actual list huge list list contained list variable length example one contains inner list contains

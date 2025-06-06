@@ -1,0 +1,1 @@
+rather simple question able figure implement solution mathematica would like define variable size square matrix say n x n matrix whose entry ij form kroneceker delta ij n k fact matrix want deal n dimensional irreducible representation su eventually would like compute trace product certain matrix even get tr identitymatrix n n work approach problem

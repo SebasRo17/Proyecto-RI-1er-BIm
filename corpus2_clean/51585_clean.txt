@@ -1,0 +1,1 @@
+consider given example replaceall x x x p f p return f f work good choose x x x x p f p x f f work x correct output f f f f wrong cure edit possible way one possible way use replaceall inspired eldo coefficient power x combined way fun x b x c x x nfun exponent fun x x sum coefficient fun x x f nfun result f b f c f f however replace rule x still mystery

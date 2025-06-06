@@ -1,0 +1,1 @@
+need add lables right arrayplot row color black square row depending value two list color list number range mapped using color scheme arrayplot mesh true label color

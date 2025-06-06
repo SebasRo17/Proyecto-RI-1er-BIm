@@ -1,0 +1,1 @@
+working creating line plot histogram following g bincounts reap histogram randomvariate normaldistribution function bin count sow count g listlineplot bincounts like know normalised line area curve compare shape histogram independent number count

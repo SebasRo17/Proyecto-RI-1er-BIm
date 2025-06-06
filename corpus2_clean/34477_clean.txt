@@ -1,0 +1,1 @@
+let say list like good element bad element good element good element bad element would like build function display element list one time press left key append focus element list good element whereas press right append another list bad element mathematica kind function usually come bit code time really know function start

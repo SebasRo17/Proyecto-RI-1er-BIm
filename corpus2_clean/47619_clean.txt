@@ -1,0 +1,1 @@
+simple markov process defined mp discretemarkovprocess change initial state process without defining entirely new process way set initial probability mp different value

@@ -1,0 +1,1 @@
+want draw normalized tangent arrow use normalize command follows tangent table sin sin normalize co plot sin x x plotrange epilog red arrowhead arrow tangent get plot enter image description seems good take close look length arrow see length normalized tried show graphic command instead epilog got plot someone tell missed

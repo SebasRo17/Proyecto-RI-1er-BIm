@@ -1,0 +1,1 @@
+imagecapture option device specifying camera use currentimage take option relevant argument changing defaultimagingdevice might might work would pretty awkward solution program need frequently take frame different camera quickly way use currentimage one camera better workaround

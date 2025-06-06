@@ -1,0 +1,1 @@
+want generate approximation function fit curve point goal obtain actual formula possible bspline function using following code pt f bsplinefunction pt piecewiseexpand command work another way obtain formula

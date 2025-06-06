@@ -1,0 +1,1 @@
+create operator act like derivative everything right example left partial x partial z right x psi make evaluate x partial x psi psi x partial psi z x psi want derivative distribute

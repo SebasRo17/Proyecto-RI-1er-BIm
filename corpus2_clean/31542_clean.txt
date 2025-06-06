@@ -1,0 +1,1 @@
+would like plot fractional function say f sin x mean f f x sin x similarly define half derivative operator h h f x frac df x dx like ideal situation evaluate function different point plot numerically solve equation mathematica possible get taylor series side question mathematica treat operator separate entity

@@ -1,0 +1,1 @@
+solving analytical expression need take log something however mathematica seems unable reduce simple log exponential log e x output x work laurens

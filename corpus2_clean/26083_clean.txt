@@ -1,0 +1,1 @@
+data set form example data stored text file e g data txt need convert matrix format number place cell like term list mathematica need word final data set supposed matrix number idea

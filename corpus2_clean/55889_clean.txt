@@ -1,0 +1,1 @@
+large square dataset plotting listcontourplot data x without coordinate point e default contour plot us axis range x since set point however remap axis plot data axis range realize rescale give formula remap point range e g x tell listcontourplot use index data hence tick mark thx rick

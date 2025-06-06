@@ -1,0 +1,1 @@
+matrix real component want split two matrix dimension contains positive component remaining entry filled zero contains negative component suppose matrix represented usual way mathematica list list sparse array efficiently elegantly mathematica

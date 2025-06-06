@@ -1,0 +1,1 @@
+want solve two coupled equation ndsolve x x x x x x easy see derivative undetermined ndsolve fails mathematica help center told one possibility start small instead another possibility use option solvedelayed true avoid singularity solved form equation unfortunately neither method worked

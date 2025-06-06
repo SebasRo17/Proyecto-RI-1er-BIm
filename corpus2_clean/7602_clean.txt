@@ -1,0 +1,1 @@
+two list xyz color graylevel graylevel rgbcolor graylevel graylevel graylevel graylevel rgbcolor need use function graphic green sphere plot sphere coordinate xyz list colour col list applying mapthread

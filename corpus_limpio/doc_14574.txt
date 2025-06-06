@@ -1,1 +1,0 @@
-almost window managers twm mwm olwm derivates support escape sequences purpose put following login youre using csh tcsh sh modify term xterm echo endif note stands esc vi enter pressing ctrlv esc g means ctrlg vi press ctrlv ctrlg first sequence puts string title bar second icon btw also put current working directory title bar make alias cd alias cd cd echo cwdg greetings thomas

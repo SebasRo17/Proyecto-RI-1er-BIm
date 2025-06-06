@@ -1,0 +1,1 @@
+problem seem solve neither analytically mathematica namely expression x b ax b want solve x b find method mathematica would provide answer without specifying b example solve root findroot reduce work quite new software however wondering whether missing something equation truly solved general using

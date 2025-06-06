@@ -1,0 +1,1 @@
+given weather data follows quantitymagnitude weatherdata california meantemperature day value get average temperature day year list association example january december

@@ -1,0 +1,1 @@
+trying satellite camera move around earth unit sphere take picture earth satellite keep constant distance earth always look toward earth center manipulate graphic sphere viewvector co sin pi produce size circle matter angle used code scale image think using viewvector correctly clarification would greatly appreciated

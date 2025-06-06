@@ -1,0 +1,1 @@
+write mathematica function output arbitrary structure constant su

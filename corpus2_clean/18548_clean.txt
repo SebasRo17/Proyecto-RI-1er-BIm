@@ -1,0 +1,1 @@
+love notebook work mathematica edit code real time hit ctrl shift run additionally copy paste different cell around organize test idea search replace plot visualization etc built system question could adequately adapt mathematica use terminal replacement might get transferred stackoverflow com terminal editor exists work like mathematica notebook interface

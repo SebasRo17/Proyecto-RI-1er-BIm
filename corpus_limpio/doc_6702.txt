@@ -1,1 +1,0 @@
-ok im driven batty trying create popupmenus ie press menu appears would really like use standard athena classes achieve goal best attempts get menus come without using menubutton parent widget tree know possible xtpopupspringloaded little twiddling something escaping

@@ -1,0 +1,1 @@
+currently matrix containing list spherical coordinate column r r point column theta column phi row ordered triple r theta phi function get operate matrix plot point sphere radius thank chase

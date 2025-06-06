@@ -1,0 +1,1 @@
+specify arbitrary number variable name initialize inside module block example want something like module join mu array symbol lambda tostring lambda print mu lambda print mu lambda instead get sort error improper local variable definition tried wrapping thing evaluate making hold release sequence nothing seemed work help would much appreciated best wish andy

@@ -1,0 +1,1 @@
+solution system differential equation ndsolve x k k x x x x satisfies equation x ndsolve solves system speed eventually move away initial value anyway make ndsolve keep speed normalized

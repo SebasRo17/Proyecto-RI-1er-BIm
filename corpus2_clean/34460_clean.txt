@@ -1,0 +1,1 @@
+would like ask make plot maybe using plot logarithmic scale along axis example function f x x x x varies varies interested making plot f x low range therefore think might better scale axis logarithmically suggestion would highly appreciated

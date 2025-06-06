@@ -1,0 +1,1 @@
+similar question fitted line plotted alongside data code show listplot data plot lm x x would like include band around line indicating average error example data lm linearmodelfit data x x show listplot data plot lm x x plotstyle red axesorigin enter image description

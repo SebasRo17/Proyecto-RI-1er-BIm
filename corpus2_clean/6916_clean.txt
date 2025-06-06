@@ -1,0 +1,1 @@
+example given help plot sin x x meshstyle gray could changed something like plot sin x x meshstyle sunsetcolors obviously work way modify syntax done

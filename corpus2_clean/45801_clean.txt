@@ -1,0 +1,1 @@
+truth table boolean expression represented like table one line table contains value want output given input e desiredoutput best way transform data form processed term function booleanminimize

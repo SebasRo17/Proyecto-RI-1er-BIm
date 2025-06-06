@@ -1,1 +1,0 @@
-help im trying configure ncsa telnet work ethernet board use ftp fine whenever attempt use telnet machine hangs blank screen blinking green cursor ideas

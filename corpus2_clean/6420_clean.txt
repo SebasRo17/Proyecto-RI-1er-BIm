@@ -1,0 +1,1 @@
+issue eigensystem command need diagonalize bunch complex valued matrix importantly need keep exact ordering eigenvalue brought diagonal form example eigensystem return three eigenvalue corresponding eigenvectors listed order decreasing magnitude absolute value even annoying loop run already diagonal matrix b reorder eigenvalue command give eigenvalue without sorting

@@ -1,0 +1,1 @@
+someone help please solving following stochastic master equation density matrix rho enter image description rho density matrix sigma pauli matrix dt time dw show wiener increment enter image description parameter constant b show commutator operator b

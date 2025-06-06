@@ -1,0 +1,1 @@
+generate interface mathematica fairly large library would like use librarylink generation seems much simpler platform window v wondering constraint regard compiler option etc first foremost compile bit mode bit cygwin toolkit file tell mathkernel exe pe executeable whatever architecture x bit would library incompatibility compiling v vc option must respect

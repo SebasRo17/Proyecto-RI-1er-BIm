@@ -1,0 +1,1 @@
+im trying generate list random standard independent normal variable first generate random list say real number range make standard independent random variable however strategy working mathematica alternate way approach problem

@@ -1,0 +1,1 @@
+user nasser showed elegant way plot complex number data table randomreal randomreal p listplot im data axesorigin plotrange imagepadding aspectratio frame true framelabel im none complex plane plotstyle directive red pointsize show p graphic circle change code input multiple list possible plotted different color

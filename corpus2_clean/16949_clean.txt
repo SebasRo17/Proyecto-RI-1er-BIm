@@ -1,0 +1,1 @@
+want build grid look like top left table shown without outside frame enter image description tried f riffle centerdot f transpose f transpose grid enter image description like result three time dot need know fix suggestion

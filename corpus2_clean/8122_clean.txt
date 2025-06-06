@@ -1,0 +1,1 @@
+confused mathematica us get rd element j get j th element array seems counter intuitive main reason separate array indexing function call e see f currently function call f f array accessing th element question given mathematica know type argument infer dealing function apply argument object array index thus need separate notation array indexing

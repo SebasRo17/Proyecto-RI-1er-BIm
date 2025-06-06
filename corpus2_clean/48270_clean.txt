@@ -1,0 +1,1 @@
+constructing graph using graphplot want vertex different size others like graphplot vertexsize medium however give error set size individual node

@@ -1,0 +1,1 @@
+possible get symbolic derivative equation vector argument without specifying every vector element explicitly something like f vector b vector dot b f b

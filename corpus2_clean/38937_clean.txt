@@ -1,0 +1,1 @@
+figure wrong table nest problem keep using argument instead last result normally first parameter starting point using pure function output something like

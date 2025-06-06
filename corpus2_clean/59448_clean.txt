@@ -1,0 +1,1 @@
+use custom cdf defined kolmogorov smirnov test one input vector data whose cdf claim derived want check whether agrees closed form result order wondering whether way feed command two data vector one data vector one cdf one specify distribution name mine new one name yet thanks hirek

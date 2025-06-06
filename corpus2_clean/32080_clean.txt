@@ -1,0 +1,1 @@
+trying use notebookwrite nb notebookread evaluationnotebook copy cell evaluationnotebook new notebook nb move around evaluationnotebook using different application selectionmove nb would like copy exact cell grouping current document well seem happen newly created notebook nb see consecutive cell without grouping copying group achieved help much appreciated

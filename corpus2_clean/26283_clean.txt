@@ -1,0 +1,1 @@
+suppose symmetric homogeneous polynomial expression p x x cdots x n want check whether function g x p form sum le j le n g ij x x x j function find g example b c b ab c c b c b c b c ab c b c b b c c b c ab b b c bc b c c b ca c mathematica b c b b c c b c b c b c b c b c b b c c b c b b b c b c b c c b c c

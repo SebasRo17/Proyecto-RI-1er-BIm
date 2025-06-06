@@ -1,0 +1,1 @@
+flatten f g f b f c result f g f b c expected answer f g b c wrong code

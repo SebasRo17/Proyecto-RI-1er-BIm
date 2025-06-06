@@ -1,0 +1,1 @@
+possible get screenshot entire desktop directly mathematica ubuntu running mathematica reason guiscreenshot fails something like guiscreenshot work strange reference guiscreenshot given example last one caption capture entire screen copy paste notebook expects parameter included code need guikit get error shown image screenshot image

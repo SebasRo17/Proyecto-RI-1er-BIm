@@ -1,1 +1,0 @@
-im using read joystick hideously slow something like cpu time spent reading joystick program nothing printf joyread problem lot programs trap like smartdrv slow hell interface read joystick port reasonably safe fashion via polling isnt platform clockspeed specific thanks

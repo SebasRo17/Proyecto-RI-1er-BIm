@@ -1,0 +1,1 @@
+trying solve simple coupled ode mathematica error keep popping new mathematica clear x z x deq deq deq deq deq deq deq deq deq deq deq deq deq deq deq deq deq deq deqsys deq deq deq deq deq deq deq deq deq sol ndsolve deqsys ndsolve dvnoarg function appears argument

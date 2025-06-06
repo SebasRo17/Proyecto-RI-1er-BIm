@@ -1,0 +1,1 @@
+plotting graph node graphplot directededges false vertexlabeling true method springelectricalembedding packingmethod closestpackingcenter however output produced look like many node overlapping tell mathematica produce large picture node overlap true might practical large graph node would like node overlap another enter image description

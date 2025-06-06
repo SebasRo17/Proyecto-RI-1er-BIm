@@ -1,1 +1,0 @@
-code sent please replace line xtaddcallbackpopupshell xtncallback mypopup xtpointerpopupshell xtaddcallbackbutton xtncallback mypopup xtpointerpopupshell rest question remains

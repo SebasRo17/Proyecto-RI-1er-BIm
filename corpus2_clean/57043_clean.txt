@@ -1,0 +1,1 @@
+function return result always represented p q pi r ln ln sqrt p q r mathbb q actual mathematica expression returned always exactly form e g sqrt log log difficult extract rational coefficient expression manually need process hundred expression want make process automated

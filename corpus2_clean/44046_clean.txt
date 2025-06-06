@@ -1,0 +1,1 @@
+trying get list word string sound like easy task mathematica following code text mer avoir pris le temp tolowercase stringsplit text except wordcharacter however output mer avoir pris le temp mer avoir pris le temp word character hence like ignore like idea

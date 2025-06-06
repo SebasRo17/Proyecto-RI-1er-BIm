@@ -1,0 +1,1 @@
+consider example d dataset transpose b allowedheads mathematica graphic say need work ratio two value work fine d b mathematica graphic fails d b mathematica graphic would easier get result complexinfinities operation fail desgin oversight workaround use d quiet b time general solution general infy prevent failing though failure message displayed properly

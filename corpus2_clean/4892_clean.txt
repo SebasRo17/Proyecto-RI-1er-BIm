@@ -1,0 +1,1 @@
+several tex file contain information form commandnamea bob blabla commandnameb bob commandnamec bla commandnamed frac commandnamee commandnamef bob commandnamefilename possible read information via mathematica like example list bob bob frac commandnamef bob bob purpose would use enumaration file together content file calculate statistic generate graphic bunch tex file whole

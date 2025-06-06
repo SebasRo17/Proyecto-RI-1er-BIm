@@ -1,1 +1,0 @@
-recently purchased tektronix xterminal im problem graphics widget wrote display waveforms doesnt work xterminal buttons etc show seems take right amount time draw nothing visible graphics window clue start looking program works fine suns color bw could anyone suggest line attack problem tekxpress color xterminal running host sun ipx running sunos

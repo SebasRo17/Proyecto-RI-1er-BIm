@@ -1,0 +1,1 @@
+trying plot derivative function g x g x defined root another equation however getting nonsensical answer derivative advice would much appreciated simplified code jra jrb x x x g x numericq findroot jra jrb x maxiterations ttot plot g x x plotrange plot g x x plotrange g

@@ -1,0 +1,1 @@
+paper written latex used symbol mathcal want put axis label plot however could find functionality mathematica possible

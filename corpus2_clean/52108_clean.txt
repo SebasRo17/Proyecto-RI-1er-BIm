@@ -1,0 +1,1 @@
+one extract integer digit using integerdigits reassemble integer using fromdigits function reassembles output realdigits real

@@ -1,0 +1,1 @@
+mathematica program output piecewise function part expression recognised specific number using fullsimplify example output arccos arcsec sqrt actually equal pi also arccos arccos sqrt actually equal wondering way mathematica recognise sort output simplified form know use numerical approximation wondering possible keeping output exact closed form

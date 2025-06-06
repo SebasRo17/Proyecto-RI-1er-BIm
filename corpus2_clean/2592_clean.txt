@@ -1,0 +1,1 @@
+suppose list positive integer data want count number subset length including empty set whose total exceed value naive approach would sumzaehl data length select total subset data would work larger list rapidly increasing number subset iterative method work larger list sumzaehliter data module n length data v j v n data j j j v j v j v j v functional way realize

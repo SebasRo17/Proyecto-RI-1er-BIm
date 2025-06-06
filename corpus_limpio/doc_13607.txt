@@ -1,1 +1,0 @@
-hi weve problems setups printing serial printer dmp laser used works windows write output ok dos send plain text output anything fancy garbles doesnt output exception outputting lserjet appears fast enough receiving data bother handshaking messages im sure im alone ive tried printnetwork manager options think anyone similar problems theyve cured would like tell bout thanks

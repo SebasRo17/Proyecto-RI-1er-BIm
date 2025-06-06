@@ -1,1 +1,0 @@
-anyone written device driver use ascension bird xwindows

@@ -1,0 +1,1 @@
+looking z score distribution integrated area sum unfortunately always get error mathematica nonnumerical value someone know solve nintegrate pdf studenttdistribution x x infinity tried well solve studenttpvalue x x one get value output ultimately want test hypothesis value check part student distribution

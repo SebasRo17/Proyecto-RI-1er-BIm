@@ -1,0 +1,1 @@
+type following code mu mu x first list x mu rest list x one would think would happen mu input number would output however get error message recursionlimit reclim recursion depth exceeded however use following code lsum lsum l first l lsum rest l sum x lsum list x work thought namely input lsum x x x xn output sum xi

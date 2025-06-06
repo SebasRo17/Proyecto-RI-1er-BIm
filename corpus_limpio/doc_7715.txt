@@ -1,1 +1,0 @@
-try telnet login tocserve get compuserve network enter hostname cis youll get userid prompt havent figure let know also let know backspace key works

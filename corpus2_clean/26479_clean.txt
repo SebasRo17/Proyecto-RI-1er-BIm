@@ -1,0 +1,1 @@
+work expected table x x however parallel version paralleltable x x complains expression cannot parallelized applies iterators like subscript x etc instead x fix

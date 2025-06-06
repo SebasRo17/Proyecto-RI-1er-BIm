@@ -1,0 +1,1 @@
+function given parameterized definite integral f integrate besselj x besselj x x suspect root near evaluate root arbitrary precision unfortunately mathematica cannot evaluate integral symbolically know possible would glad anybody could suggest update seems integral actually divergent except isolated value odd multiple see never zero converges

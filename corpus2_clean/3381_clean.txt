@@ -1,0 +1,1 @@
+suppose list range want set element list fine dandy unless part span length list force assignment behave consistently case always want first behaviour conceivably someone might always want second behaviour error length match

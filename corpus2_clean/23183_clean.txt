@@ -1,0 +1,1 @@
+trying simulate stochastic differential equation time space unsure done mathematica sde would like study dn x n x n x dt sqrt n x dw partial xn x dt exponential decreasing space initial condition n x exp x possible simulate itoprocess thank best andrea

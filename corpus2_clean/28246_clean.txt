@@ -1,0 +1,1 @@
+like export output matrixplot however output file size seems depend specification imagesize might export tiff data n time matrix plotted presumably one could set imagesize reflect matrix dimension however would one appropriately pad ax ax label command using matrixplot export export matrixexportfileexample tiff matrixplot

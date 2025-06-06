@@ -1,0 +1,1 @@
+image bright pixel remaining one dark difference order magnitude want binarize matrix corresponding image making value zero besides bright one function binarize want accepts image input indeed use plot matrix input mess thing image includes axis label etc help appreciated

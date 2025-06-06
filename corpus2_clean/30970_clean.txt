@@ -1,0 +1,1 @@
+try filter sublists list match pattern test string string b string string result result string string string mean first entry string second tried select test evaluates

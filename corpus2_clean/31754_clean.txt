@@ -1,0 +1,1 @@
+number function provide result wrapped arbitrary head important case result evaluated take level example expr hold g level expr hold hold case however provides parameter causing undesired evaluation case expr time power infy infinite expression encountered complexinfinity failure behavior attained

@@ -1,0 +1,1 @@
+plot sin x x axeslabel x value sin x code give graph graph ax font small problem enlarge ax text x x without changing basic

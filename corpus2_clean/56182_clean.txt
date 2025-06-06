@@ -1,0 +1,1 @@
+split curve equidistant point lpts l line lpts show graphic blue thick l boxed false graphic red pointsize large point lpts enter image description

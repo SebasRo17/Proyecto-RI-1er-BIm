@@ -1,0 +1,1 @@
+trying solve homogeneous fredholm integral equation second kind e lambda x int limit b e phi k x dt lambda eigenvalue determined phi polynomial anyone come across mathematica routine thanks mark

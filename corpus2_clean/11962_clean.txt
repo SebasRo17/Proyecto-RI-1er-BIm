@@ -1,0 +1,1 @@
+generate random directed connected graph need create graph pas connectedgraphq

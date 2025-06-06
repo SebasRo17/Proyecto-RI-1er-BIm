@@ -1,0 +1,1 @@
+problem exercise wagner book implement mymapthread term thread apply work power equal example attempt mymapthread func list thread apply func list mymapthread power b c mymapthread equal b c false mymapthread func list thread unevaluated apply func list mymapthread power b c mymapthread equal b c false false question screwed correct answer wrong

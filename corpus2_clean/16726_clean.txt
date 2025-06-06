@@ -1,0 +1,1 @@
+seems never built two axis plot list plot mathematica make r need rlink installr revaluate x rnorm rnorm par mar c plot x type l col red par new true plot x type l col blue xaxt n yaxt n xlab ylab axis mtext side line legend topleft col c red blue lty legend c return plot popup window enter image description get plot generated code appear output cell

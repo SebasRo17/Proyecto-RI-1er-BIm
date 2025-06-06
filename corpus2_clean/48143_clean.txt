@@ -1,0 +1,1 @@
+trying maximize two function first one code run correctly return desired answer maximize ax log log ax cy bx log b log bx dy cy log c log ax cy dy log log bx dy x x x ax log bx log b cy log c ax log ax cy cy log ax cy dy log bx log bx dy dy log bx dy x second one maximize x log x log u log u v log v x u log x u v log v x u v x u v x u v get thing wrote input wrong fix

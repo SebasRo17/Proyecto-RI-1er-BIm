@@ -1,0 +1,1 @@
+integrate diracdelta z diracdelta x z z infinity infinity assumption x element real x element real

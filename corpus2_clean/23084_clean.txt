@@ -1,0 +1,1 @@
+mathematica course using mathematica updated version every time open notebook go evaluation menu click evaluate notebook way set automatically evaluates notebook upon opening keep getting answer shortcut use notebook open pressing shift enter cell answer would like anything open notebook every cell evaluated already since tutorial course long contains ton notebook

@@ -1,0 +1,1 @@
+huge square matrix lot zero column zero row left begin array ccccccccc end array right general know zero column row th row empty th column also zero question internal command delete zero column zero row motivation question want evaluate eigenvalue huge matrix slow reduce matrix efficiently eigenvalue sped

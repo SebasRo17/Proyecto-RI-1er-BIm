@@ -1,0 +1,1 @@
+using example code question possible show plot ie step manipulation simultaneously manipulate function series listplots based single variable possible show list plot simultaneously ie overlay listplots one static plot way think copying pasting code n number time changing variable one naming listplot using show b c seems fairly labour intensive

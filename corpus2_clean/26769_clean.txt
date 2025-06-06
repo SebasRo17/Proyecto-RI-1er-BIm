@@ -1,0 +1,1 @@
+trying construct palindromic number came code palind n fromdigits join mod n tuples mapat rest array range ceiling n palind better idea

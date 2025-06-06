@@ -1,0 +1,1 @@
+generated spline function called f using bsplinefunction domain f bsplinefunction splineweights wanted find point function intersects line point used generate spline taken graphically know intersection occurs within domain f k however running code findroot first k first f k end line produce negative number way solve meeting point two function

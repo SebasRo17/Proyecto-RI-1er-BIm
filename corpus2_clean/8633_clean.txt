@@ -1,0 +1,1 @@
+suppose use grid display table tab following frame cell tab b spanfromleft spanfromleft spanfromleft grid tab frame give output gridall programatically generate table header cell framed gridsome created erasing cell divider manually using paint larger table would like programatically thanks

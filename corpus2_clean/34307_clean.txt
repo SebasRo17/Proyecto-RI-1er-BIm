@@ -1,0 +1,1 @@
+trying manipulate plot bernoulli root follows enter image description following code clearly going work included effort illustrate meaning sol solve n table bernoullib n z n manipulate listplot z im z sol root n think trouble obviously variable would like manipulate n root root could think also unsure format ax point size remain constant throughout manipulation

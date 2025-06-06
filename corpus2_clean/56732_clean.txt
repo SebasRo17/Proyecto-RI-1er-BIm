@@ -1,0 +1,1 @@
+read obj file meshregion e g compute area import object try area tell correctly specified region even e g stanfordbunny also turn geometry meshregion example area exampledata geometry spaceshuttle work either seems geometry one representation different part mathematica bad

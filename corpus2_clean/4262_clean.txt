@@ -1,0 +1,1 @@
+trying understand difference edgedetect morphologicalperimeter researching question understand image background white yield completely different result enter image description however sure whether guaranteed return result background white test enter image description could someone confirm conclusion show counter example

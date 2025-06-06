@@ -1,0 +1,1 @@
+trying use tick option listlineplot put tick x axis point axis get axis tick

@@ -1,0 +1,1 @@
+anyone success importing excel spreadsheet holding array formula mathematica syntax using import test xlsx sheet sheetwitharrayformula error returned import fmterr cannot import data xlsx format edit sample excel file found

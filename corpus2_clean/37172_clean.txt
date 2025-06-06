@@ -1,0 +1,1 @@
+let v begin bmatrix end bmatrix v begin bmatrix end bmatrix let begin bmatrix end bmatrix matrix colon bbb r bbb r relative basis b v v found v begin bmatrix end bmatrix v begin bmatrix end bmatrix would find formula begin pmatrix begin bmatrix x x end bmatrix end pmatrix answer book begin bmatrix x x x x end bmatrix

@@ -1,0 +1,1 @@
+would like create mapping list wondering slick way example consider list l waveletfiltercoefficients daubechieswavelet primalhighpass would like define function map integer zero suggestion

@@ -1,0 +1,1 @@
+day day work mathematica use stylesheet derived mathematica default stylesheet one modification would like make stylesheet reduce spacing section title first cell inside section controlled cellmargins option another notebook option set reduce gap

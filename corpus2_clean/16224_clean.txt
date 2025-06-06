@@ -1,0 +1,1 @@
+framelabel manipulate would like part string hyperlink possible tried various thing e g insert hyperlink hyperlink function nothing worked

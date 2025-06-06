@@ -1,0 +1,1 @@
+suppose n time n matrix observed entry say restricted subset n time n want know possible rank reformulated following question exist vector x xy restricted equal observed value good way test mathematica dimension n could large set would set relatively small size comparison n

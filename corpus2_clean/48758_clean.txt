@@ -1,0 +1,1 @@
+want solve differential equation dsolve r r l l r r work fine output r c sphericalbesselj l c sphericalbessely l add condition r e dsolve r r l l r r sphericalbesselj r output case

@@ -1,0 +1,1 @@
+attempting solve pde prescribed paper reading however mathematica seem happy way posing problem im case r approximation r inf k sol ndsolve u r r r u r r r u r derivative u k u u u r receiving error stating boundary condition u specified single edge boundary computational domain answer probably simple however seeing

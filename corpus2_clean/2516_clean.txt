@@ -1,0 +1,1 @@
+might something stupid see simple example show trying hide box failing tried different position code little weird might problem splot sphericalplot co theta theta pi phi pi mesh none boxed false plotpoints agraphicscomplex splot graphic boxed false lighting point rgbcolor boxed false agraphicscomplex graphicscomplex pt objs graphicscomplex r sin arctan r r pt objs box go away

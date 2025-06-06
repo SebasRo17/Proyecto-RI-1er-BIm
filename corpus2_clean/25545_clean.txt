@@ -1,0 +1,1 @@
+matrix thousand row want submatrix comprising row original matrix e g negative element column

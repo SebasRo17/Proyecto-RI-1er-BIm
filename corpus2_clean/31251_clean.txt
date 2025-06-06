@@ -1,0 +1,1 @@
+define vector function vec r r co sin command r give vector tangent curve drawn r specified value generate curve r interval pi via parametricplot co sin pi would like draw tangent vector whose tail actually touch curve example would like draw vector described r prime tail r even better would wrap inside manipulate draw tangent vector pi accomplish either goal

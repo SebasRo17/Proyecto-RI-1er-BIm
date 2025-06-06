@@ -1,0 +1,1 @@
+anyone know whether possible embed richedit control within mathematica notebook using netlink goal would able view edit mathematical text typeset using microsoft word within mathematica notebook background development mathematical typesetting capability microsoft office richedit control available murray sargent blog

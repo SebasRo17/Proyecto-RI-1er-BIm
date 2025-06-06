@@ -1,0 +1,1 @@
+want every output expression notebook use powerexpand also format number scientific way without explicitly calling scientificform powerexpand every input e want able enter sqrt l n sqrt l n instead get e l n aside way make mathematica never use radical symbol use exponent instead

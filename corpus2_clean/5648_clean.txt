@@ -1,0 +1,1 @@
+find x c x dot c n x n n given c initial condition x dot x n distribution n would like know efficient elegant way code using loop

@@ -1,0 +1,1 @@
+background mathematica tutorial dynamic interactivity read way developing gui mathematica use manipulate want investigate question equivalent manipulate lower level mathematica function

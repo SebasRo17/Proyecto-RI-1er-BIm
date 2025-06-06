@@ -1,0 +1,1 @@
+trying make polar plot two variable function radial angular part instance r r co make plot using contourplot way using polarplot contourplot r f r co f contourplot sqrt x arctan x x radius till angle

@@ -1,0 +1,1 @@
+trying calculate function coshintegral x sinh x cosh x sinhintegral x unfortunately mathematica seems hit point x thing become unstable see plot infinity area rather confused going plot function anyone know happening fix

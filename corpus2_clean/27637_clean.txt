@@ -1,0 +1,1 @@
+mathematica solve dx x dx form equation example trying solve system equation given eqn w x x x w x x w x eqn v x x x v x x v x u x eqn u x x x u x x v x u x w x eqnset eqn eqn eqn w v u w v u dsolve eqnset w x v x u x x getting dsolve returning input statement unevaluated

@@ -1,0 +1,1 @@
+code mathematica notebook want find eigenvalue matrix created called hmatrix defined however type eigenvalue hmatrix get hmatrix back extra set bracket preceded eigenvalue essentially getting eigenvalue matrix wish know sort syntax use find eigenvalue hmatrix p s sp hmatrix matrixform s co sp sin sp s co sp sin sp s s co sp co sp p sin sp sin sp p p

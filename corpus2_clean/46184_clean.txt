@@ -1,0 +1,1 @@
+try minimize following f gamma integrate exp u u u u infinity put nminimize f x x x gave error function might bounded said nminimize cvdiv failed converge solution function may unbounded x obivously true wrong cheer

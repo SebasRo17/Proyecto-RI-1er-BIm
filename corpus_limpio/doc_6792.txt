@@ -1,1 +1,0 @@
-hi anybody implements rpc server hp xwindows sun xview notifyenablerpcsvc call automatically executes rpc processes detects incoming request wonder similar function hp xmotif perform function help appreciated

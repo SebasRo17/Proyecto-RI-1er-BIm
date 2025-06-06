@@ -1,0 +1,1 @@
+change number point customticks mathematica built function numberform plot numberpoint work use e g linticks

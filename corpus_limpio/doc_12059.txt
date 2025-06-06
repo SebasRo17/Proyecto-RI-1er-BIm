@@ -1,1 +1,0 @@
-think running xapollo server want server install run xdomain xkeysymdb could add apollo specific keysyms aplinedel apchardel apcopy apcut appaste apmove apgrow apcmd apshell apleftbar aprightbar apleftbox aprightbox apupbox apdownbox appop apread apedit apsave apexit aprepeat apkpparenleft apkpparenright victor victor gattegno

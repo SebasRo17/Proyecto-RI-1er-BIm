@@ -1,0 +1,1 @@
+attempting capture dynamic stream multiple usb webcam using mathematica using imagecapture device imagingdevices x tried open multiple instance mathematica using imagecapture different device different instance luck complex task mathematica alone wolfram community related question link

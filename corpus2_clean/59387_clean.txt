@@ -1,0 +1,1 @@
+function generatingfunction give generating function taylor series similar function newton series f x sum k infty binom x k delta k f left right

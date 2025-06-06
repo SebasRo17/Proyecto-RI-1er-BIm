@@ -1,0 +1,1 @@
+considering weather data last year london make scatter plot show previous day temperature function today temperature

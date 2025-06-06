@@ -1,0 +1,1 @@
+want evaluate following integral take min must reduce time calculate table create graph take long anyone idea use mathlink import fortran minroot g numericq b numericq module rts rts solve g b g rts select rts nval n im nval nval min rts aa g numberq b numberq pi b g nintegrate sqrt g b g minroot g b qq g numberq nintegrate co aa g b b b nintegrate g qq g e g g thanks help

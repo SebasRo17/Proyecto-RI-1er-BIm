@@ -1,0 +1,1 @@
+like draw large number cylinder using graphic list specifying cylinder element look like following p x p p z p x p p z r p x p p z p x p p z r p x p p z p x p p z r first subelement e g p x p p z p x p p z specifies coordinate two end point cylinder second subelement e g r r specifies radius specific cylinder way use mapping draw cylinder condensed line code

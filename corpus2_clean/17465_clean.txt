@@ -1,0 +1,1 @@
+need tool detect fundamental frequency pitch sound googled pitch detect found nb file task file mathematica format downloaded installed signal processing package help file use obsolete function like discretewindow continuouspiecewisedata etc also tested signal system toolbox reason output case newer replacement function way find definition old package

@@ -1,0 +1,1 @@
+following work list freeq n integer freeq last transpose factorinteger n freeq n integer freeq last transpose factorinteger n freeq n integer freeq last transpose factorinteger n freeq list true false b freeq list true false c freeq list true false transpose b c course inefficient coding wondering approach really taking

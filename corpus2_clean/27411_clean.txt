@@ -1,0 +1,1 @@
+trying calculate integral mathematica integrate cosh x co n x x assumption n integer got result frac sinh pi co pi n n cosh pi sin pi n pi left n right result obtained manually force mathematica change sin n pi co n pi n

@@ -1,0 +1,1 @@
+possible read whole file mb memory use binaryread function data loaded memory read cast type need proper streamposition pointer need process slow directly file prefer manipulation done memory especially require many memory access many binaryread call thank effort

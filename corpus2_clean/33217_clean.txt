@@ -1,0 +1,1 @@
+trying compute following integral integrate exp sum cw b n cw currently mathematica output sqrt erf sqrt n b sqrt erf sqrt n b sqrt sqrt n blatantly incorrect dependence example also little connection input replace n integer first expression output correct result integration want general result n summands wrong edit willing make assumption b real nonetheless seem matter

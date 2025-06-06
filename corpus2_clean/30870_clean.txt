@@ -1,0 +1,1 @@
+function f mathbb c rightarrow mathbb c want able see effect f particular region mathbb c e g happens unit disk transformation know plot particular region complex plane using regionplot e g regionplot evaluate complexexpand ab z z x x axeslabel automatic shade interior unit disk light purple color possible modify code snippet see effect f z unit disk given f

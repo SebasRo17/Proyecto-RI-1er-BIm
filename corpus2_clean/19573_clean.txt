@@ -1,0 +1,1 @@
+say function definition also implement memoization f x f x x f x f x x apply function data f f function bunch downvalues stored result pattern based definition easy way retrieve stored result leaving pattern based definition

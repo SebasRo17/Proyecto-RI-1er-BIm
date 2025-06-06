@@ -1,0 +1,1 @@
+would like compare two array enter image description b enter image description get enter image description using b b positive b matrixform seem work anyone tell wrong basically conditional update b sum b non zero detected b else nothing work summing must first flatten

@@ -1,0 +1,1 @@
+calculate derivative function k defined code vectoranalysis k exp r l r setcoordinates cartesian x z r sqrt x x z z he k x z der grad k fullsimplify der fullsimplify he fullsimplify he part output fullsimplify der e sqrt x x z z l x x l sqrt x x z z l x x z z would like function k appear result instead mess possible

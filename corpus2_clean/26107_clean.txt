@@ -1,0 +1,1 @@
+mathematica latex converter place mathematica code including thing like matrixform console straight latex document

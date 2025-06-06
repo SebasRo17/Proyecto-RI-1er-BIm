@@ -1,0 +1,1 @@
+simple list say want extract subset element correct syntax e g j want j work get following warning set nosym contain symbol attach rule clearly using wrong placeholder element wish ignore

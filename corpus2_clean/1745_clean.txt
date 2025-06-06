@@ -1,0 +1,1 @@
+suppose pane containing dynamic text example updated logging function pane dynamic logtext scrollbars false true imagesize full scrollposition want pane remain scrolled bottom always see last line text tried setting scrollposition infinity full would possible interface achieve neither work

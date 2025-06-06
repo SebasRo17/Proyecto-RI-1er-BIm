@@ -1,0 +1,1 @@
+trying fit function parameter however result strongly depend initial value parameter data toexpression import findfit data g x g log k x r g k x g r result k x g different set initial value parameter findfit data g x g log k x r g k x g r k x g also get following message findfit nrlnum function value list real number dimension k x g know solve issue

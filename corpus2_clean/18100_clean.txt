@@ -1,0 +1,1 @@
+two list b c e c need remove element first list appears second list get b e

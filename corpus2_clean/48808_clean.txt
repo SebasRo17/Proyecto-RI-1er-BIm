@@ -1,0 +1,1 @@
+given matrix want get list possible correlation vector x take permutation range length x union case x b b get necessary permutation finally correlation partition flatten x get desired result course happy code would wellcome suggestion one could write succinctly

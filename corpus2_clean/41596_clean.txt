@@ -1,0 +1,1 @@
+idea solve analytically integral integrate erf sqrt b b c b tried substitution u b work need numerical integration solve via term taylor expansion seems difficult solve maybe somebody got idea

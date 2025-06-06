@@ -1,0 +1,1 @@
+using mathematica awhile never come even close maxing cpu cycle function consume lot cpu cycle right running script us parallelize consuming also related question way get mathematica use cpu nice get answer faster

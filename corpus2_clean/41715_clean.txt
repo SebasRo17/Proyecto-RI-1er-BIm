@@ -1,0 +1,1 @@
+bar verticalgauge gaugemarkers scalerange gaugestyle darker green graylevel ticksstyle none gaugeframesize none scalepadding imagesize aspectratio labelstyle none epilog text style fontsize scaled grid map bar randominteger frame spacing remove tiny space visible around cell using spacing seem work thanks

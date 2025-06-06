@@ -1,0 +1,1 @@
+attempting simple plot want add asymptote marker module p g p plot sqrt x x plotrange g graphic line line p show g p plot get tick mark tick however combine plot pair line tick tick mark ax disappear observe even vertical tick gone issue pushed combined image

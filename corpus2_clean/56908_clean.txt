@@ -1,0 +1,1 @@
+expression sum product undefined derivative derivative e g fg dt f g dt g f would like find maximum order derivative would returned example first attempt use case make list order derivative would send dt x dt x n n however reason dt f dt f fail match respective pattern trigger rule rule x replaced f rule trigger f function way search without strict list available function

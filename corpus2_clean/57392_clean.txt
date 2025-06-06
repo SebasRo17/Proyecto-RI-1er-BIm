@@ -1,0 +1,1 @@
+calculation result got graphic beginning work used constant parameter want make graphic parameter axis varying proceed

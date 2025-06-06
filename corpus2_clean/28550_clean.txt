@@ -1,0 +1,1 @@
+dynamicmodule several graphic element would like create button would change parameter run entire module say h plot sin k x x initial value k want create button increase k k k h would run plot without using print h h really large dynamicmodule

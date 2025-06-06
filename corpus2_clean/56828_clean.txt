@@ -1,0 +1,1 @@
+one go implementing custom data backend usable mathematica example something like countrydata financialdata would like expose data backend service similar access logic used mentioned data library

@@ -1,0 +1,1 @@
+following equation begin equation x k arccos bigg frac dr frac sin x k theta sin x k sqrt b co x k theta bigg nonumber end equation b r theta constant x k arccos ab sin x k r sin x k sqrt b co x k equation written x n f x n show converges using mathematica find first derivative equation given using mathematica also possible show first derivative bounded

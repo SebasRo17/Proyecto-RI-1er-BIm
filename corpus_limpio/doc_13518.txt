@@ -1,1 +1,0 @@
-hi trying implement pointer feature xlib multiple windows take input show output simultaneously displays want implement pointer feature would like get pointer come windows choose pointer menu every one able see give hints proceed replies greatly appreciated

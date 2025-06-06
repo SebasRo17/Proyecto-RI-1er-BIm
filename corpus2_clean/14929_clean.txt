@@ -1,0 +1,1 @@
+tinkering notebook load large chunk data memory noticed run multiple time past chunk reside memory understand reason one happens past output mechanism keep reference cannot garbage collected way explicitly make mathematica forget data

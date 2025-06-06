@@ -1,0 +1,1 @@
+trying use graphicscolumn plot two curve different range example graphicscolumn plot sin x x plotrange aspectratio frame true ax false imagemargins plot co x x plotrange aspectratio frame true ax false imagemargins epilog text frequency center bottom rotate text power center degree x label displayed properly e cut edge graph enter image description improve

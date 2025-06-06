@@ -1,0 +1,1 @@
+new mathematica tried play around integral sum rule integration work simple example mathematica recognize int h f x dx h int h f x dx reduce integrate f x x h h integrate f x x h get output reduce nsmet system cannot solved method available reduce normal error

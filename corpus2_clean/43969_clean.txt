@@ -1,0 +1,1 @@
+simple question using student version mathematica often homework type notebook save pdf using save option however resulting pdf word wrapping freak often get line printed text go halfway across page jumping next line want able set page width match ordinary document whole notebook display correctly pdf simple way

@@ -1,0 +1,1 @@
+part data anaylsis using function trace give name array data use label plot eg data array called r run tostring trace r simply return string r fine dandy problem arises try list data array write trace r r expect give list r r instead get wrong help much appreciated

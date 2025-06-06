@@ -1,0 +1,1 @@
+sqrt expression equal sqrt tell mathematica simplify first form second form

@@ -1,0 +1,1 @@
+trying solve simple system differential equation dp dn dsolve dp f x x f x dn f x x b f x f f x using dsolve unfortunately mathematica able handle task way force mathematica print result course simple problem one could hand point

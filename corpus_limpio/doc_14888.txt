@@ -1,1 +1,0 @@
-hi im looking algorithm would generate good crosssection rgb colours given limited colour map size problem im writing application pc may colors want use one colormap palette application id like contain even spread colours visible spectrum could use rgb cube problem lot colours almost identical human eye

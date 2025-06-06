@@ -1,0 +1,1 @@
+want determine balance distribution x x x x x x want solve solve x x x x x x x x x x x x x x x x x x get error rowreduce luc result rowreduce badly conditioned matrix may contain significant numerical error solve system

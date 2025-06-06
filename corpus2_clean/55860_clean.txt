@@ -1,0 +1,1 @@
+looking read byte dev random o x linux simplest approach fails operating system see workaround random openread dev random evaluation openread noopen cannot open dev random failed binaryread dev random integer evaluation binaryread nffil file found binaryread dev random integer failed

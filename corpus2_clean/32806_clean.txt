@@ -1,0 +1,1 @@
+could find smallest constant c satisfies frac k e sqrt pi sqrt k k leq c k assuming k geq integer course take log side divide k mathematica somehow minimize c code main term e sqrt pi x n x x n x sqrt pi n x x x n k

@@ -1,0 +1,1 @@
+expression n sum binomial n n n n binomial n n hypergeometric f n n would like find exact asymptotic expression large n suspect something like sqrt n n quad numerical experiment possible work exactly using mathematica

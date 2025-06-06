@@ -1,0 +1,1 @@
+want create simple table three input column one output column call input x z take value output column function f x z sample table x z f x z f f etc possible combination thanks

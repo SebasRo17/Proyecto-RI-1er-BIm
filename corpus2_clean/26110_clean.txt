@@ -1,0 +1,1 @@
+empirical data describes dimensional probability density function want visualize data meaningful way using mathematica first instinct use heat map style plot high probability would shown red low blue white however novice come mathematica visualization power would like community input better way visualize data

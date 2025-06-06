@@ -1,0 +1,1 @@
+want find similar letter charlist characterrange l l imagedata binarize rasterize charlist table join nearest complement l l rule table imagedata binarize rasterize ii ii ii charlist graphplot rule directededges true vertexlabeling true clear think code could better refactor

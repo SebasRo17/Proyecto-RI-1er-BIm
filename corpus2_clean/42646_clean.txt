@@ -1,0 +1,1 @@
+want randomize certain element list since code list b c e f g list randomsample list list work fine trying see could speed thing little bit one call list using pure function code list b c e f g randomsample list list trigger infinite recursion know function evaluates argument passing function infinite recursion still confuses thought thanks

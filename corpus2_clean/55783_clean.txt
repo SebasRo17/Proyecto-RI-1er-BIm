@@ -1,0 +1,1 @@
+function consists four variable currently want view function one variable interval three variable parameter plug value three parameter value stay fixed want see function change parameter vary function complicated want approximate rational form tried using minimaxapproximation however good single variable mathematica offer function suitable need

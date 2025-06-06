@@ -1,0 +1,1 @@
+got solve second order equation coefficient depend parameter k k omega k omega b kc k also solution omega omega k depend k code parameter l l w subscript coefficient aa w kk pi l l subscript bb pi l w l cc subscript pi l kk l dd pi l w kk pi l l solving sol last simplify solve aa dd bb cc make mathematica plot solution function k try plot evaluate kk sol kk plotrange work

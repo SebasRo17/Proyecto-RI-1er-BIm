@@ -1,0 +1,1 @@
+trying get cudafunctionload work mathematica installed latest clang nvidia tool keep getting error message cudafunctionload cmperr message text found clang error unsupported option dumpspecs note others problem asked nvidia wolfram reaserch help come solution far although suspect problem clang latest version compatible mathematica help insight lead would much appreciated

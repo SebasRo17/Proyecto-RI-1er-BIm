@@ -1,0 +1,1 @@
+map f g b c v map f x g x b c question output different map f g b c f g f b g b f c g c map f x g x b c f x g x f x g x f x g x

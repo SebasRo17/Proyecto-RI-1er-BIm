@@ -1,0 +1,1 @@
+trying expand solve equation contains matrix certain matrix working assumption element x vector n element zu vector n element fu diagonalmatrix n element matrix n n real solve fu zu x zu x fu x x expandall fu zu x zu x fu x simplify fu zu x zu x fu x none input work something wrong mathematica cannot solve matrix equation symbolically

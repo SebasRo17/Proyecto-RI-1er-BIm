@@ -1,0 +1,1 @@
+trying plot slope field ddot differential equation know frac dt ddot frac dot ddot want show already accelerating solution ddot small positive driven accelerate even already decelerating one ddot small negative driven deceleration essentially want find dddot would look like respect time

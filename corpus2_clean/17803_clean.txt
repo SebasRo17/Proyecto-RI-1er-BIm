@@ -1,0 +1,1 @@
+create percentage axe plot use tick configuration listplot range tick automatic integerpart mod row range enter image description disadvantage non automatic range scale subticks different size elegant simple miss mathematica ticksfunction equivalent could better control also tried something like listplot quantity range percent without succes clue better approach

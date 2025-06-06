@@ -1,0 +1,1 @@
+easy way get transparent plot work save graphic using compatible file format gif png tried background opacity white background none yet exported pngs appear still white background

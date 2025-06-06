@@ -1,0 +1,1 @@
+consider following expression sqrt left sqrt x x x right x sqrt x x x x code f x sqrt sqrt x x x x sqrt x x x x mathematica one see non smoothness x sim plot f x x mathematica graphic guess numerical issue one deal

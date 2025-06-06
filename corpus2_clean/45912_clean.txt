@@ -1,0 +1,1 @@
+advanced novice mathematica user done fair amount single variable calculus thing semester using mathematica multi variate calculus tried use mathematica solve double integral got incorrect result discovered syntax integrate command list variable opposite order appear integrand first blush seems dumb annoying perhaps good reason like know anyone else annoyed

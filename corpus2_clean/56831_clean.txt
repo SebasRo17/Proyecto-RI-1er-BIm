@@ -1,0 +1,1 @@
+integration want integrate int infty sin pi f dt f take value array form f time step array please suggest method tried using trapezoidal method numerical integration gave bad approximation easy method inbuilt function another method

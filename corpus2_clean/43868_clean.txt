@@ -1,0 +1,1 @@
+long list like list first column date second value list sorted date want gather element way every two consecutive element time difference less second solution like done defined date da datelist da year month day hour minute second replacelist list b c b c ab datedifference date date c second however match preferred output may cluster data

@@ -1,0 +1,1 @@
+got data type list class mw would like split number list based number character second list element case desired output would newlists class class w stringsplit list get right direction string want split always position list however know thread new sublist original list

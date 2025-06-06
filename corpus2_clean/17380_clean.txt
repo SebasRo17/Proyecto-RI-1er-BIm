@@ -1,0 +1,1 @@
+possible duplicate plot infinite series coding mistake mathematica v newbie mathematica trying plot function f x x interval pi pi together plot want two partial sum tried plot f x seem get right anyone show code f x x n x sum n n sin nx n infinity partialsums table n x n plot evaluate f x partialsums x anything wrong code hope someone shed light

@@ -1,1 +1,0 @@
-use gc subwindowmode attribute set includeinferiors default clipbychildren however beware children different depth parent semantics undefined protocol

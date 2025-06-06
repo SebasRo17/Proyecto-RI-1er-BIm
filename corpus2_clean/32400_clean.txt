@@ -1,0 +1,1 @@
+topologicalsort return one many unique ordering wikipedia topological sort form hamiltonian path dag two valid topological ordering case always possible form second valid ordering swapping two consecutive vertex connected edge simple know many possible ordering also grouping swapping feel kind awkward whats preferred method

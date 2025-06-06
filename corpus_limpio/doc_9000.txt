@@ -1,1 +1,0 @@
-hi wonder possible parent window paint area childs could possible implement rubberband across multiple xwindows select objects displayed one window

@@ -1,0 +1,1 @@
+solving ode ndsolve mathematica return interpolation function need discrete sampling function however naively write example slv f ndsolve f f f result table slv slow large time fine sampling large number function principle mathematica must already store discretized representation function interpolation function way access suggestion make code faster thanks

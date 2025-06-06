@@ -1,0 +1,1 @@
+example histogram randomvariate normaldistribution plotrangepadding frame true frameticks expected produce histogram without tick however histogram incorrect tick meanwhile use tick specification plot plot pdf normaldistribution x x pi pi plotrangepadding frame true frameticks plot correct tick

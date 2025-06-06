@@ -1,0 +1,1 @@
+trying solve following non linear system nsolve pi co pi sqrt sin pi x x x real butit seems mathemathica converge

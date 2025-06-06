@@ -1,0 +1,1 @@
+trying extract string word end man problem wordboundary seem work return whole string ignoring actual word boundary code mystring big fan superman spiderman batman stringcases mystring wordboundary man

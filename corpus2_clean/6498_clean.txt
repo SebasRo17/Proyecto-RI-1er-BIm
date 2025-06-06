@@ -1,0 +1,1 @@
+trying fit non standard pdf data finddistributionparameters work great give parameter distribution back using maximum likelihood cannot find way get mathematica spit standard error confidence interval estimated parameter anyone know go different program e matlab

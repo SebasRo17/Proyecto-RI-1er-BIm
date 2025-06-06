@@ -1,0 +1,1 @@
+epilog inset crop first last letter g fontsize set large value varies font family plot co pi pi aspectratio plotrange ax true imagesize epilog inset graphic text style b c e f g fontsize render enter image description option hack still us epilog inset opposed using show passing text graphic work correctly

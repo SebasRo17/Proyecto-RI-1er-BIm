@@ -1,0 +1,1 @@
+way use mathematica test whether function continuous given domain

@@ -1,1 +1,0 @@
-busmastering isa bus talking isa bus dma channel active one time presumably transferring data single device even though least devices scsi bus explain devices dma transfers single scsi card isaat bus time also im still trying track copy ibms reference book pc technical manual page

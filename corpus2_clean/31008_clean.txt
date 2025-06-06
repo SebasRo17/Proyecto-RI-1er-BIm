@@ -1,0 +1,1 @@
+try solve integration f x following type mathematica f x frac int frac sqrt x dy met boundary problem searched basic command like nintegrate principalvalue dose work think command finding value integration calculating function anyone provide suggestion

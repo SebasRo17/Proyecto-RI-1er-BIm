@@ -1,0 +1,1 @@
+want set decimal place whether real number anything purpose wrote following function decimalplaces number setprecision number case pas argument return case pas argument return case pas argument return return case pas argument return return finally function satisfying case testcases solve fell free want edit question thank

@@ -1,0 +1,1 @@
+ensemble data point x need fit according f b x x leq x ref g c x x geq x ref parameter need adjust b c x ref model f g nonlinear respect parameter sure select x ref among x run separate curve fit add sum square change find minimum way automate procedure mathematica would provide best value b c best x ref selected among x perform second step full regression help appreciated

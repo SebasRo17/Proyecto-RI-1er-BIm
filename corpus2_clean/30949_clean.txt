@@ -1,0 +1,1 @@
+way calculate rational canonical form n time n integer matrix using mathematica perusing documentation web nothing far

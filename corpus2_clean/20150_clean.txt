@@ -1,0 +1,1 @@
+issue non regulary spaced data set number x z list data plot data listdensityplot want get data interpolated plot processing one us listinterpolation data min xvalues max xvalues min yvalues max yvalues interpolationorder interpolation poor suppose data regular tensor grid way get mathematica listdensityplot

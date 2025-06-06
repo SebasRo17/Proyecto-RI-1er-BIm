@@ -1,0 +1,1 @@
+declare function f follows f n sum x sum sqrt x x n n input limit f n n infinity yield answer fact evaluation terminated second write limit f x x infinity get answer according manual entry sum iteration variable treated local effectively using block matter use version

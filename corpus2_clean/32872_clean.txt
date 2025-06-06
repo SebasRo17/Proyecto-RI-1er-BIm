@@ -1,0 +1,1 @@
+example non differentiable point function f x x x find non differentiable point continuous function defined numerically

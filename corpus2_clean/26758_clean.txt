@@ -1,0 +1,1 @@
+list form b c let say want operate transformation second element sublist transformation function together example want standardize moment implemented transpose mylist b c newlist transpose mylist standardize mylist output correctly b c find little cumbersome approach become complicated hard read sometimes natural way

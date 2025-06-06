@@ -1,0 +1,1 @@
+trying generate list random number workingprecision particular reason getting entry tested following line x randomreal uniformdistribution workingprecision x randomvariate uniformdistribution workingprecision way omit get true precision missing something

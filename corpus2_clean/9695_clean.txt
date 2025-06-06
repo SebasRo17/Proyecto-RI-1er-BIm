@@ -1,0 +1,1 @@
+run following problem tried evaluate simple integral assuming integrate sin infinity infinity mathematica claim answer zero even though evaluate hand using residue convince answer pi e weird substitute numerical value instead answer correct also switch pole mathematica give incorrect answer pi cosh instead simply minus previous result anyone problem like

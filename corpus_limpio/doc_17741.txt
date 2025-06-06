@@ -1,1 +1,0 @@
-actually detecting break done watching character containing zero bits framing error resulting receipt means line stayed zero bit state even past stop bit time slot basically indicates break special way detect break found theres magic signal generated uarts etc

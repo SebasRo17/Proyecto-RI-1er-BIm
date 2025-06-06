@@ -1,0 +1,1 @@
+anyone know higher order svd mathematica good reference seems understand formalism yet maybe someone already experience mathematica could speed understanding thanks another interesting reference ftp ftp c sjtu edu cn zhang lq paper tensorfactorization icpr tensorrepresentaion wang pdf

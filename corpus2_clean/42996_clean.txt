@@ -1,0 +1,1 @@
+mathematica linearprogramming automatic integer give wrong result linearprogramming automatic real give correct error linearprogramming lpsnf solution found satisfies constraint point view buggy behaviour miss something someone confirm newer mathematica version

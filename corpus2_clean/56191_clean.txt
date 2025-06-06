@@ -1,0 +1,1 @@
+complicated large integral want evaluate closed form need approximation mathematica seems keep running way make mathematica use cpu power anything speed calculation integral following integrate x x integrate x x co z z pi sin x x co x pi also long expect take thank help

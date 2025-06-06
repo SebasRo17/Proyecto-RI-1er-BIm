@@ -1,0 +1,1 @@
+trying get loop structure using repeatedly evaluate another cell referred body using cell tag construct x x notebooklocate code frontendtokenexecute evaluatecells x cell called code cell contains code want run x x code seems enter endless loop expected two number x became equal loop would stop wrong

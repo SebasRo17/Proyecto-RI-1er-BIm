@@ -1,0 +1,1 @@
+creating taylor polynomial exporting using texform polynomial p x displayed mathematica show instance x x x however texform always revers polynomial giving largest power first texform p x x x x keep polynomial order taylor polynomial generally thought constructed low high power reading generated format bit confusing

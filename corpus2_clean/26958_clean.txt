@@ -1,0 +1,1 @@
+suppose following recurrence equation f p f ip p p j quad textrm quad f l f p l p j constant p probability normalization sum lp want use rsolve solve p possible know set rsolve periodic relation

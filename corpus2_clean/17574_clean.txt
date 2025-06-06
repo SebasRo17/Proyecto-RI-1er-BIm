@@ -1,0 +1,1 @@
+need help set print set need databaselink jdbcdrivers mysql connector j conn opensqlconnection jdbc mysql connector j localhost test username root password root sqlexecute conn insert number value set know know escape set insert statement database field type text

@@ -1,0 +1,1 @@
+hi absolute newbie need send mathematica data program originlab plot change graph anyone know possible send data mathematica via mathematica link originlab tried possible send data originlab kernel use programming power mathematica receive result back originlab

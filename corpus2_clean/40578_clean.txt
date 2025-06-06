@@ -1,0 +1,1 @@
+hello getintersectionpoint p p module pt vecs n var distance sol x z pt p vecs p pt n length pt var array n distance sol minimize total x z transpose pt vecs var x z join var call function p p p p obtain like x z fix rename local variable

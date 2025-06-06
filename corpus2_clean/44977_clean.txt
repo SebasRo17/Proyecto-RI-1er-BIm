@@ -1,0 +1,1 @@
+define g z z min z max z z min z max z min z max z z min z max z true plot using plot g z z get enter image description plot using listplot g range plotrange joined true get enter image description expect plot fail plot function expected

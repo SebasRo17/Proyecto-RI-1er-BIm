@@ -1,0 +1,1 @@
+simple example would like suppose list real number would like perform simple check see element positive course could simple loop feel mathematica would efficient way spirit functional programming clumsy loop test false counter counter length counter counter test true

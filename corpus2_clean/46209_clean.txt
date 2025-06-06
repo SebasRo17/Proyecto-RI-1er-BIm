@@ -1,0 +1,1 @@
+trying symbolic calculation like substitute last two equation turn substitute first equation enter image description enter image description want obtain fourth order differential equation enter image description read material official documentation still know mathematica somebody help tell book website refer calculation mathematica

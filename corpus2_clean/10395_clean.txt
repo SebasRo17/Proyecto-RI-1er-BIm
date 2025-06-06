@@ -1,0 +1,1 @@
+define package wide function variable approach recommended tried use context begin function failed clear fun fun module begin mycontext x end fun mycontext x would expect mycontext x seems undefined fragment fail instead

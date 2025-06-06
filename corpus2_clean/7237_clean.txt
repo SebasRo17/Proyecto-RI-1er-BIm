@@ -1,0 +1,1 @@
+plot generated plot function want export pdf file problem export function somehow cut tiny bit plot left side result something like exported image like know get exported file without cropped

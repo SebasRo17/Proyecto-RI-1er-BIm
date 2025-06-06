@@ -1,0 +1,1 @@
+put chart legend inside bar chart tried placed right top work work plot however work barchart

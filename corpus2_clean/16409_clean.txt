@@ -1,0 +1,1 @@
+need store rather big number variable tried storing variable z n varying n guess best idea first problem encountered tried check whether z n set see picture inside loop always true outside loop correct value happening mathematica idea tagged question feel free change output

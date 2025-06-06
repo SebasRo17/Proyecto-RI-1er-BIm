@@ -1,0 +1,1 @@
+make plane first image like plane second transparent specially tried messing opacity mesh avail someone help disregard vector completely enter image description right code first image show plot sqrt x sqrt x x plotstyle rgbcolor mesh none plot x x plotstyle rgbcolor plotstyle opacity mesh none graphic arrow boxratios boxed false axesorigin

@@ -1,0 +1,1 @@
+need get number combination binary digit digit binary number minus forbidden pattern like xxxx xx x xxx xx x xxx x x digit valid combination would like count number much larger fact simply enumerate

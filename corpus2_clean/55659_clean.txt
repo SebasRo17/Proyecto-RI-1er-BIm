@@ -1,0 +1,1 @@
+best way populate upper triangular alternatively lower triangular symmetric matrix vector element example input give alternatively even problem many solution course looking best criterion elegant readable shortest fastest one input length binom n frac n n consider n known feel free use version functionality

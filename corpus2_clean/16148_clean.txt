@@ -1,0 +1,1 @@
+question compute table containing f n n f n denotes n th derivative f function f x x mathrm e x f x xe x table f x x n n tableform solve value derivative

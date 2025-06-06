@@ -1,0 +1,1 @@
+consider following list b c list c e f list g c h would like get symmetric difference hence result must b e f g h whether result sorted irrelevant btw using complement list list list return b since complement give element e e mathematica documentation center

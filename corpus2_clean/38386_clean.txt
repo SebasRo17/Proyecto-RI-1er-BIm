@@ -1,0 +1,1 @@
+working mathematica notebook often want reorder cell time adding cell bottom notebook realize may better insert calculation earlier point existing cell convenient way reorder cell mathematica notebook without cut paste ideally would like able drag cell bracket possibly holding modifier key searched internet general stackexchange particular come nothing

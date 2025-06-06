@@ -1,0 +1,1 @@
+required computed following expectation e displaystyle sum limit n frac x n bar x e displaystyle sum limit n frac x n frac n bar x sigma x n x sim n bar x sigma x forall cdots n x bot x j forall j looking solve expectation symbolic variable unknown thanks help alexandre

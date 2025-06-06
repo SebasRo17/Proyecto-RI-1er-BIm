@@ -1,0 +1,1 @@
+initially ran large say changed later number monte carlo simulation mcrun want see average data result start converge reasonable value basically first ran simulation took average data based first average data based show data n n n print data n plot data data data x mcrun mcrun mcrun possibly animate later using manipulate sensitivity analysis done later

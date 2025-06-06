@@ -1,0 +1,1 @@
+mathematica reference website give example using maximalby function however using see desired output lead wonder mathematica stopped using function example maximalby last get maximalby last get since work use rankedmax get desired result

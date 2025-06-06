@@ -1,0 +1,1 @@
+two function x x u v u v chain rule say function f x df dx df du du dx df dv dv dx similarly df dy df du du dy df dv dv dy get mathematica give df dx term u v df du df dv point x u v u v easily invertible give u x v x

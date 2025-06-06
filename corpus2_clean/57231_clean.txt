@@ -1,0 +1,1 @@
+excel table column first one date second one value want plot value v date need first clean non number string like junio make date something mathematica would understand unidad indexada per odo junio valor fecha peso junio julio

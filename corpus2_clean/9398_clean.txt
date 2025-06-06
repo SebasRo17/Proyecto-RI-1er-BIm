@@ -1,0 +1,1 @@
+please consider following need extract mylist last part tuple mylist tried apply following work mylist number b number c number c please note b c must number otherwise last tuple mylist would extracted since mylist represents tuple result must

@@ -1,0 +1,1 @@
+optimization code var array subscript x ka objectivefunction total ka var nminimize objectivefunction apply thread greaterequal var total var element var integer flatten var maxiterations possible mma capture value variable also objective function iteration plot versus iteration number separate plot one plot

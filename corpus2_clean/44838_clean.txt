@@ -1,0 +1,1 @@
+trying execute following tensortranspose outer metric x mathematica say tensortranspose symmperm invalid permutation symmetry generator permutation would error metric dimentions x could anyone tell wrong

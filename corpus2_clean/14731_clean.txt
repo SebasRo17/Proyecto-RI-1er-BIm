@@ -1,0 +1,1 @@
+wrote code retrieves temperature data three city every hour five day problem default station weatherdata get data sometimes unavailable therefore want know find list weather station city retrieve data alternative station default station unavailable

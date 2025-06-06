@@ -1,0 +1,1 @@
+cam simplify sum unitstep n sqrt n n sum n infty frac sqrt n sum n infty frac sqrt n tried simplify fullsimplify neither worked

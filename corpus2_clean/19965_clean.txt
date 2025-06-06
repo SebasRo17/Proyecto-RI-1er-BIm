@@ -1,0 +1,1 @@
+one multiply list matrix list vector elementwise example multiplying identitymatrix identitymatrix x return neither dot time accomplishes wrong dimension cumbersome way would result result x surely cleaner way

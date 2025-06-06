@@ -1,0 +1,1 @@
+sorry vague title sure phrase using mathematica solve fairly simple algebraic equation tried substitute solution original equation check seem recover original answer minimal example eq b sqrt b sol solve eq b fullsimplify b sqrt b sol final line output sqrt sqrt sqrt sqrt sqrt sqrt even specified positive fullsimplify enough make last line output missing

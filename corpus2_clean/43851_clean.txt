@@ -1,0 +1,1 @@
+question regarding linear equation solver specific x diagonal matrix every method tried c gaus gcc bicgtab work although method would work fine different matrix mathematica linearsolve gave solution matrix question type solver mathematica use linearsolve

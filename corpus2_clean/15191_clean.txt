@@ -1,0 +1,1 @@
+best way call ndsolve solving system differential equation form x bm x x cm x dv ev interval x n vector bm cm n x n coefficient matrix dv ev n vector say n randomreal n n bm randomreal n n cm randomreal n n dv randomreal n ev randomreal n

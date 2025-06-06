@@ -1,0 +1,1 @@
+trying use mathematica make work binary data missing something consider string want flip last bit become guess would use stringreplacepart struggling achieve stringreplacepart return function replacing single character given position

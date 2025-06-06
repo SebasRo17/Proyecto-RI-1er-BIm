@@ -1,0 +1,1 @@
+display graphic representation maximum minimum temperature one city one selected time period day period time period morning afternoon evening night next day like x axis show date axis show temperature already wrote small bit code find mean given time interval mean select flatten weatherdata city name temperature numberq

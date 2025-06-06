@@ -1,0 +1,1 @@
+realize plot function plot multiple function x time using also know regionfunction option used specify particular region domain want plotted query whether combine two together use different regionfunction different function parent plot statement plotting multiple conditional function rather whole domain f x begin case sqrt x text leq x leq x text x x text leq x leq end case

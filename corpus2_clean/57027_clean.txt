@@ -1,0 +1,1 @@
+wrote code plot maclaurin expansion co x various degree f x co x animate plot evaluate normal series f x x x pi pi plotrange code work well next added original function plot work f x co x animate plot evaluate normal series f x x f x x pi pi plotrange found one function list style also work correctly plot evaluate normal series f x x x pi pi plotrange wrong

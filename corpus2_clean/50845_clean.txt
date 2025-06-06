@@ -1,0 +1,1 @@
+let say following pde x u xx u yy u following change variable x x e x x e use mathematica compute u xx u yy u term u s u tt u t u u using definition chain rule

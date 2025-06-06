@@ -1,0 +1,1 @@
+possible duplicate use map function two argument function f x z x z want call several different x value using map z fixed way one liner x value xvals want somehow get f f f f map would great many core want speed parallelized map

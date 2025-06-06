@@ -1,0 +1,1 @@
+basically want write function compute following sum f l sum leq k cdots k n leq binom k k cdots k n mathrm supp k l subseteq left n right wrote following function work l f l return total multinomial take l f l f missing thank edit added condition index k forgot mention earlier mathrm supp k l mean l set index component vector k k k n nonzero

@@ -1,0 +1,1 @@
+want logplot function trouble number format tick example logplot ab besselj x sin x x frame true frameticks automatic none none none output plot output use command logplot ab besselj x sin x x frame true frameticks holdform none none none get plot output actually prefer tick form n none command shown work simple clever way cope grateful reply

@@ -1,0 +1,1 @@
+mathematica us ilu procedure automatically precondition large sparse linear system e g linearsolve mat rh method krylov preconditioner ilu timing wish incomplete factorization large sparse matrix standalone procedure would grateful someone could give tip written code provide ilu ilut approximate inverse standalone procedure

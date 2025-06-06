@@ -1,0 +1,1 @@
+sin x show plot sin x x pi plotstyle red plotrange pi plot sin x x pi pi plotstyle green plotrange pi simpler way especially one require repeating plot command time

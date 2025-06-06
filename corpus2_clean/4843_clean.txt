@@ -1,0 +1,1 @@
+find vertex reachable given start vertex following directed edge cyclic directed graph given graph v v v v v v v v v v vn vn vn vn ending vertex edge vij list vertex v v

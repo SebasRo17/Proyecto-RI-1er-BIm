@@ -1,0 +1,1 @@
+code cell generate module x x range x cell g generate memoryinuse evaluate cell repeatedly memory consumption keep growing mb time seen o task manager reason seems mathematica free memory taken old value g someone please explain going way force freeing old g value due issue need keep quitting mathematica kernel

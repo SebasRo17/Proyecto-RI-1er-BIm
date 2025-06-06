@@ -1,4 +1,0 @@
-Has anybody made a converter from irit's .irt or .dat format to
- .pov format ?
-
-Thanks!

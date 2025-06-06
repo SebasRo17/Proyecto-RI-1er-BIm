@@ -1,0 +1,1 @@
+trying solve finite hilbert transformation like following form f x frac int frac g x dy given function f x want solve g x know direct way solve integral equation mathematica moreover found boundary problem solving anyone provide useful tip

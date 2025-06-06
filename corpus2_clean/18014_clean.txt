@@ -1,0 +1,1 @@
+one supposed work physical constant mathematica v first open mathematica physical constant speedoflight recognized load physicalconstants package using physicalconstants get following error message general obspkg physicalconstants obsolete legacy version loaded may conflict current mathematica functionality however point speedoflight properly defined

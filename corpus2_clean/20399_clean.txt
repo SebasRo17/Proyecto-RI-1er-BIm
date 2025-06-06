@@ -1,0 +1,1 @@
+would like use listplot plot point would like plotmarkers open circle use plotmarkers graphic circle following example circle large way specify size open circle use plotmarkers thanks time mydata listplot mydata plotrange joined true mesh full frame true plotstyle directive red thick plotmarkers graphic red thick circle plotmarkers

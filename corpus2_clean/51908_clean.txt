@@ -1,0 +1,1 @@
+trying color bsplinesurface complex way luck using colorfunction use colorfunction using bsplinefunction parametricplot would prefer go route example surface would like color graphic edgeform seedrandom bsplinesurface table x unitstep ab x unitstep ab randomreal x boxed false would like able color peak one color red color fade away gray flat part enter image description

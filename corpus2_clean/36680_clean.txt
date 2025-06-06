@@ -1,0 +1,1 @@
+function f x want define new function g x equal f x f x positive right way sorry silly question cannot find proper way accomplish simple task mathematica

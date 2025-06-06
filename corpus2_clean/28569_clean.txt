@@ -1,0 +1,1 @@
+list seed point indicates bottom left value voxel order improve accuracy function need equally sample point apply function instance step size get seed point related voxel example seedpoints h stepsize based first seed point nearly get desiredoutput h h h h h h h h point must related voxel meanly h h h hope sufficiently clear help idea appreciated

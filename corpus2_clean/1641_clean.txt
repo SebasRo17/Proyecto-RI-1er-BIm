@@ -1,0 +1,1 @@
+since every single time start mathematica first action aligning window properly notebook left screen help right wondering whether could done automatically look like enter image description could make mathematica use window position size default

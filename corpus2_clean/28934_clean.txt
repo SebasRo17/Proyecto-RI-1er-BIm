@@ -1,0 +1,1 @@
+plot hyperbola represented following complex equation left z right left z b right tag convert following form contourplot x x contour plot hyperbola

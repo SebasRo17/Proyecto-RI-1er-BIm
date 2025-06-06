@@ -1,0 +1,1 @@
+function g x n recursive expression x variable n number iteration case n x example following f f x n x f x n g x n arctan f x n co f x n exp f x n data table g would like fit function time g x generated data succesful fit give get example mathematica

@@ -1,0 +1,1 @@
+submatrix let call p p begin pmatrix end pmatrix want n let say n submatrices placed diagonal result expected look like q begin pmatrix end pmatrix write code mathematica

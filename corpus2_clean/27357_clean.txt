@@ -1,0 +1,1 @@
+currently running rather compilex mathematica calculation laptop sometimes run memory error however access larger simulation server via ssh mathematica installed possibility use additional calculation power calculation already found connecttoaremotekernel understand correctly work mathematica installed system

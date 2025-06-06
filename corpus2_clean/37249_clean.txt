@@ -1,0 +1,1 @@
+wonder simple way split list disjoint sublists e g list b e f b c c f g h get result listdis b b c c e f f g h one get disjoint sublists element connected another element element inside list like disjoint chain element obviously sublists length

@@ -1,0 +1,1 @@
+systemmodeler v work anymore mac ox model centre work fine simulation centre produce error message error executable generated var folder g dfgpd n x bfg phwn v gn sme exe also preference system modeller cannot find compiler g use bin although problem try run model mathematica everything working fine previous version mac osx seems compatibility issue systemmodeler osx fix coming

@@ -1,0 +1,1 @@
+following command version n integrate x sin x x give time way correct solution interestingly indefinite integral come correct increase precision mathematica give error following number result given nintegrate exactly problem known issue workaround

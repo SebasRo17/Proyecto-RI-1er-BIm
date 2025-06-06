@@ -1,0 +1,1 @@
+list coordinate like one x x x xn yn need get minimum maximum x value minimum maximum value possible use built min function example give minimum x value

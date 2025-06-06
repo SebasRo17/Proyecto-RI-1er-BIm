@@ -1,0 +1,1 @@
+defined function take coefficient differential equation argument solves differential equation ndsolve return value solution time plot seem find minimum value code demonstrates problem f k ndsolve k plot f k k work great nminimize f k k k k fails nminimize fails error ndsolve ndnum encountered non numerical value derivative find minimum function f

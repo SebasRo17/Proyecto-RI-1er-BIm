@@ -1,0 +1,1 @@
+data file six column x z ux uy uz respectively would like plot vector field trying te import c user oliver document campo txt table ignoreemptylines true x te te z te ux te vy te wz te point transpose x z vel transpose ux vy wz listvectorplot transpose point vel plotrange full vectorpoints vector field must picture enter image description

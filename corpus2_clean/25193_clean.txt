@@ -1,0 +1,1 @@
+would like solve following ode begin case x e x x end case edit second equation used x e x following code ndsolve x exp x x x get warning power infy infinite expression encountered fix note case small change initial value make large change solution substituting small number say good enough way fix

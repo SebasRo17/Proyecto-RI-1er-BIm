@@ -1,0 +1,1 @@
+trying show wind stream geographic area following code range time even work realtime data work range time filtering also taking mean problem could somebody help please liststreamplot table x co sin mean deletecases weatherdata x winddirection missing notavailable degree x

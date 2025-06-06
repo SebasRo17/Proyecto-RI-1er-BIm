@@ -1,0 +1,1 @@
+hi first post problem bothered lot suppose time square matrix begin bmatrix ldots ldots ldots ldots ldots ldots vdots vdots vdots vdots vdots vdots ldots vdots vdots vdots vdots ldots ldots ldots ldots end bmatrix write using mathematica course need define something like function assign element position matrix

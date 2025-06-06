@@ -1,0 +1,1 @@
+say want compute largest common subset among large number set q one option would simply run command intersection q q q q q q q however seems choke large number input set order element another option would compute q intersection q q q intersection q q q intersection q q forth two procedure equivalent better way

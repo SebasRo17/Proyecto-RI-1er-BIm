@@ -1,0 +1,1 @@
+storing value xldata result grid form want change value inputfields show change dynamically evaluate result use result variable code result xldata b c e f length xldata inirow j j length xldata j xldata j inirow append inirow inputfield xldata j fieldsize result append result inirow grid result

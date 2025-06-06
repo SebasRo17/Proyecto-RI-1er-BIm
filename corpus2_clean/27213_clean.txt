@@ -1,0 +1,1 @@
+new mathematica yet coded lot matlab currently working network simulation model implemented matlab need port mathematica question given graph g coordinate x node want plot network node corresponding coordinate done case also used matlab function gplot job similar plotting function mathematica

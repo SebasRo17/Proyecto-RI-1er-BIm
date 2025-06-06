@@ -1,0 +1,1 @@
+generate mesh tetgen easily used similar function way use tetgen generate mesh know functionality easily implemented would like use mathematica provided function need experiment number node element want solve pde using fem really play around mesh generation

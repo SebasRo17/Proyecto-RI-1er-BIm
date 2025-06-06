@@ -1,0 +1,1 @@
+trying quantum algebra computation mathematica able make noncommutative multiplication linear factorize power however still issue associativity particular would like able remove bracket expression like b c get b c reason already procedure substitute b b work bracket b anyone know overcome problem

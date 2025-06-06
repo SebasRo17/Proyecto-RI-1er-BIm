@@ -1,0 +1,1 @@
+colorprofiledata mathematica handle device dependent color space however image embedded color profile e g srgb rendered displayed differently adobe photoshop course support color management mma support icc color profile rendering image

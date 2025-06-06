@@ -1,0 +1,1 @@
+anyone know problem following code fix sure wrote whenevent section correctly way want solve equation plot v x go zero obvious interval thanks tmax sol p reap ndsolve x x x x x x whenevent limit x x sow x tmax
