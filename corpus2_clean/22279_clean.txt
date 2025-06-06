@@ -1,0 +1,1 @@
+using standard report stylesheet mathematica output plot set get white background however axis label still gray background change white small example change stylesheet standardreport plot sqrt x x plotstyle thickness red axeslabel prob drug x prob drug xgivenpos plotrange aspectratio background white enter image description

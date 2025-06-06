@@ -1,1 +1,0 @@
-need help binding value home end keys keyboard w running mit dist im using pc running exceed windows xterminal home end keys send value application needs defined used xdefaults define keys override keyhome n keyend xterm name varnet works perfect however key keypad also defined ideas help please thanks

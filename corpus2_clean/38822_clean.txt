@@ -1,0 +1,1 @@
+wl example weatherdata return undated list value add annotation nonmetricvalue weatherdata new york city meantemperature day weatherdata new york city meantemperature day nonmetricvalue seems like bug since proper effect would change value aside syntax problem wrong would like able get date list temperature fahrenheit directly weatherdata

@@ -1,0 +1,1 @@
+option myplot option plot myplot args defining wrapper function like like inherit system function option use option myplot option plot option myplot option plot

@@ -1,0 +1,1 @@
+trying plot function bf x r hat v bf b unit vector hat v vector bf b given spherical coordinate simplicity assume hat v sin theta co phi sin theta sin phi co theta bf b sin co b b constant easy plot however want angle theta phi satisfy implicit equation say co theta phi b c

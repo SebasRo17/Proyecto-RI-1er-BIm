@@ -1,0 +1,1 @@
+simplified code like display two plot within manipulate use locator controltype set value x relative position within first plot print x command inserted obvious locator using coordinate entire graphic plane manipulate print x graphicsrow listlineplot x plotrange listlineplot x plotrange x controltype locator

@@ -1,0 +1,1 @@
+large mathematica expression look roughly like f exp x exp x b x b x c c x c x n n b n c n symbolic constant isolate prefactor x e function check pattern f return c

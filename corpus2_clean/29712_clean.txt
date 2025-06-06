@@ -1,0 +1,1 @@
+list expression text file would like mathematica evaluate export result end file new file expression seperate line text file

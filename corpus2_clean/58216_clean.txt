@@ -1,0 +1,1 @@
+dsolve rcs snph sqrt r rcs b snph rcs r rcs snph rcs snph snal r ri rcs snph r b snal r constant ndsolve small shift given boundary value trick work fine showing proper integral however standard procedure workaround dsolve limit integration assigned integrand improper

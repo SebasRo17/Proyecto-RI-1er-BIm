@@ -1,0 +1,1 @@
+grid dynamic object responding mouseovers seem quite slow general instance grid table mouseover framed background blue framed background white j spacing lagging avoided

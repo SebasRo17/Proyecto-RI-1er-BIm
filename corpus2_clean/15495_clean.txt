@@ -1,0 +1,1 @@
+generating long table list form pn using export pn dat pn table seems job exporting using pn import pn dat table pn readlist pn dat reconstruct list first way considers imaginary number something else second one return insane data like idea right using toexpression return faild

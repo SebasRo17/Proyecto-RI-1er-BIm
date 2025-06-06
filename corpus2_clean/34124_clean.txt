@@ -1,0 +1,1 @@
+trying determine limit sequence function f n x left frac pi arctan n x right n define f x n arctan n x pi n enter limit f x n n infinity give answer instead enter assuming x limit f x n n infinity get answer e frac x pi assuming x limit f x n n infinity give answer normal limit give answer assuming x bug missed something thanks advance

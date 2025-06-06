@@ -1,0 +1,1 @@
+border point body wish fill interior solid color let u say n point stacked n time matrix first column indicates x co ordinate second column denotes corresponding co ordinate

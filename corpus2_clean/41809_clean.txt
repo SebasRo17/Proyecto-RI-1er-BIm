@@ -1,0 +1,1 @@
+using graphplot like make directed arrow connecting vertex node middle edge find way even possible using graphplot graphic related command mathematica basically like plot enzyme substrate network like connect node e enzyme edge connecting substrate product p scale enzyme substrate product combination help greatly appreciated

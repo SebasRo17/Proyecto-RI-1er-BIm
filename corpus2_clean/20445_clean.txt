@@ -1,0 +1,1 @@
+trying use colorfunction opacity contourplot code data randomvariate binormaldistribution smoothkerneldistribution data cf z opacity z red sc contourplot evaluate pdf x x plotrange plotpoints colorfunction cf colorfunctionscaling true produce enter image description ugly mesh avoided using mathematica o x

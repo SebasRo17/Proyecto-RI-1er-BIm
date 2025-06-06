@@ -1,0 +1,1 @@
+standard histogram generate pdf overlay using show plot like something similar pairedhistogram find example tried using epilog figure pas graphic primitive correctly matched correct histogram like add overlay overlay specified histogram pair pairedhistogram data data automatic pdf chartstyle lightorange lightblue none none chartlegends placed name name top

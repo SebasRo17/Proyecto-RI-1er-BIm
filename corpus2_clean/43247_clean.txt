@@ -1,0 +1,1 @@
+type sum f x x infinity sum f x x infinity would like mathematica return something like sum f x x maybe f f f seem want maybe worried difference make sense sum converge simple way let mathematica know would like make kind simplification

@@ -1,0 +1,1 @@
+easy add arrow ax figure taking advantage axesstyle arrowhead difference horizontal vertical coordinate small instance using plot x x axesstyle arrowhead arrow appear horizontal vertical axis however know add arrow one whose difference big example following program run plot x x axesstyle arrowhead arrow cannot seen obviously want know make arrow found evidently previous one

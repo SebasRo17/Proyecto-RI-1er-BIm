@@ -1,1 +1,0 @@
-ive come across circuit integrated circuit systems inc called chip genlocks vga card dual input ntsc signal output chip basicly pixel clock various speeds notice outputs clock output used amiga system must ntscvga ntscntsc simple circuits boost ntsc vga signal need genlock laser disc video john

@@ -1,0 +1,1 @@
+stirling number second kind number way partition set n object k non empty subset mathematica implemented stirlings enumerate set ideally would like get list list list contains k list question partition set subset size k seems relevant

@@ -1,0 +1,1 @@
+background following snippet intend use manipulate form different color selected manipulate slidercol row kleur colorslider dynamic slidercol appearanceelements swatchspectrum imagesize baselineposition scaled make work field slidercol slidercoln n see option copying code row many time question less verbose way implenting multiple color selector using color slider

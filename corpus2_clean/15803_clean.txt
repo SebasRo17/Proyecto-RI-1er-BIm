@@ -1,0 +1,1 @@
+enter image description mathematica code reproduce logplot x x e sqrt log log x x x x log x x plotlegends linelegend expression legendmarkers automatic prevent equation form modified would also nice could get log x appear log x note want avoid second copy expression input

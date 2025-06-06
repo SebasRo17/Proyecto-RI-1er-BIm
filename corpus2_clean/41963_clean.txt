@@ -1,0 +1,1 @@
+plot includes region plot want make rectangle shading region plot show legend dumb way think make another region plot small rectangular space show legend seem like great idea considering might want change plot better suggestion practice want label following example regionplot x x meshfunctions mesh

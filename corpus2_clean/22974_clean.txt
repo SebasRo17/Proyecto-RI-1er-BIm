@@ -1,0 +1,1 @@
+say signal f represents excitation pulse periodic declining zero amplitude according answer instance fourier data mathematica assumes otherwise specify data periodic get correct spectrum

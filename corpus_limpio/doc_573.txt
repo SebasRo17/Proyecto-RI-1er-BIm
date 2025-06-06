@@ -1,1 +1,0 @@
-hi folks thanks ones replied however problem turned simple xresources space xtermfont removing xrdb fixed problem also symptom users proper capitals xtermfont thanks

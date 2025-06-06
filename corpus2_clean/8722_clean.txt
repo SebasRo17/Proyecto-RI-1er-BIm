@@ -1,0 +1,1 @@
+need produce dimensional equispaced grid given function way calculate intersection point function grid edge first question produce grid mathematica really get possible modeling grid polygon might need help done using simple graphic object like done

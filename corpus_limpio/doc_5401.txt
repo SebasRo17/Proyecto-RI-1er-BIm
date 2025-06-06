@@ -1,1 +1,0 @@
-radiosity sources wanted read compgraphics group never found something radiosity anybody interested would glad hear somebody looking sourcecode radiositymethod already read common literature e gfoley think little examples could help understand radiosity works common languages c c pascal prefered hope help

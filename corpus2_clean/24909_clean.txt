@@ -1,0 +1,1 @@
+v could type say full texf get fullsimplify texform auto completion quite nice need press shift key capital v auto completion appears type full texf handy possible make auto completion ignore case

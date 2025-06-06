@@ -1,0 +1,1 @@
+trying simplify following expression sum binomial k beta n gamma gamma k n k first set assumption n integer k integer since know n k integer answer got mathematica v rather complicated however one thing found strange solution contains floor k ceiling k clearly k k since integer strange thing get error try simplify precise way achieve goal

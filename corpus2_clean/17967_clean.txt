@@ -1,0 +1,1 @@
+data randomreal normaldistribution densityhistogram data plotrange method distributionaxes histogram problem histogram ax aligned density plot plotrange tried using mathematica someone please help fix problem graph

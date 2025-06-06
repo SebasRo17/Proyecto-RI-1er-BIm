@@ -1,0 +1,1 @@
+task enter image description image shadow removal important topic image processing feel curious may take look google image shadow removal also question se around example however find mma implementation want reinvent wheel already rolling anybody know mma codebase using starter note image may go manual way better spend many hour developing full blown algorithm

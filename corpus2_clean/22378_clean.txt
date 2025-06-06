@@ -1,0 +1,1 @@
+suppose lista f listb b c want make new listc mb mb mb mc mc fa fb fb fb fc fc tell mathematica many copy particular element make listc outer seems like good start return combined element two item list example get instead

@@ -1,0 +1,1 @@
+sometimes want provide key legend plot listplot without using plotlegends package sometimes want use option plotlabel inside plot listplot plot x x x plotstyle red blue plotlabel red curve x nblue curve x way actually make string red curve x red string blue curve x blue within plotlabel

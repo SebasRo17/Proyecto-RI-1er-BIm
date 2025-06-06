@@ -1,0 +1,1 @@
+avoid recursion following example clear myrule clear myhead myrule myhead x myhead myhead x myhead x myhead x replace myhead x myrule myhead myhead myhead b make first rule example treated replace applicable complexrule block complexrule block replace complexrule complexrule

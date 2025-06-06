@@ -1,0 +1,1 @@
+suppose following list li range want remove n consecutive term periodically list example suppose want drop term etc could sequentially follows drop drop li give get really messy drop n consecutive term n large way one drop function better compact efficient way achieve list huge example n could etc want general solution thanks

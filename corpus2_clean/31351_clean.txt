@@ -1,0 +1,1 @@
+consider calculation hand want collect multiple second column like result something like following main purpose show solution step notebook latex begin align det det left begin array ccc end array right end align maybe something collect function generate possible result begin align det det left begin array ccc end array right end align

@@ -1,0 +1,1 @@
+using listloglinearplot abscissa label every decade way tell mathematica label decade need use inside manipulate ax scale according chosen variable enter image description example code kind using x x x x manipulate listloglinearplot table table gridlines none plotstyle thickness joined true plotrange automatic

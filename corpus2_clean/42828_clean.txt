@@ -1,0 +1,1 @@
+plotted pdf gamma distribution various parameter e g using manipulate manipulate plot pdf gammadistribution x x however plot get quite different get using r know correct example pdf gamma peak curve plot mathematica produce give peak like anybody idea wrong

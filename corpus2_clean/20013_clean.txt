@@ -1,0 +1,1 @@
+grid density plot say something like graphicsgrid partition table densityplot sin x sin x want show color legend bar next plot know option plotlegends automatic single density plot graphicsgrid partition table densityplot sin x sin x plotlegends automatic get color legend bar repeated four time one density plot naturally want show single bar common density plot graphicsgrid

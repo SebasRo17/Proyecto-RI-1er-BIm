@@ -1,0 +1,1 @@
+surface given data point form x z easiest way get interpolated value z f x given coordinate x course data list

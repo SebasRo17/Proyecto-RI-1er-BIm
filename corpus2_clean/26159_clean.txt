@@ -1,0 +1,1 @@
+changed default notebook context unique notebook variable roll across numerous open notebook however made command clearall global stop working clear declared variable also tried clearall evaluate context work either idea

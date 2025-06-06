@@ -1,0 +1,1 @@
+output built mathematica function often form e g solve would efficiently without converting back forth string convert array form

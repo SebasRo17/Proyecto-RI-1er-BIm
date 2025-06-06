@@ -1,0 +1,1 @@
+like change font mathematica us output setting font corresponding style stylesheet bit simply overriding default output style cell styledata output fontfamily open sans fontsize seems effect way missing style used output something different note duplicate set default font output despite title

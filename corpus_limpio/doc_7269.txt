@@ -1,1 +1,0 @@
-alright ignore delved bit deeper xkeyevent found looking evstate bunch masks check lockmask one capslock unfortunately appears numlock mask varies server server one tell mask numlock meta eg sgis vendor server numlock whereas solaris openwindows numlock unambiguous means determining numlocks mask runtime given server sorry wasted bandwidth appalling ignorance

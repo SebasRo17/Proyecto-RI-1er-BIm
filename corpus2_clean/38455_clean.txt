@@ -1,0 +1,1 @@
+please help writing project dont know solve big matrix enter image description compute return row row st row nd row

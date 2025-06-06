@@ -1,0 +1,1 @@
+trying generate two variable recursive sequence instance mathematica z b z n b z n tried see z get bunch gibberish n variable iterating parameter throw whenever want goal generate table term based various iteration n sequence would defined term would like test various value generate numerical sequence two problem define function properly implement recursion use mathematica

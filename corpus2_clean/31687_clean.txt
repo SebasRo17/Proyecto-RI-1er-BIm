@@ -1,0 +1,1 @@
+mathematica unlike many language defines variable global scope unless explicitly asked define variable local scope e g using module block question define scoping construct defines variable locally default unless otherwise stated instance x scope x specify global variable x x equal x equal equal undefined one define function scope demonstrated

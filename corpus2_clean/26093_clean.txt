@@ -1,0 +1,1 @@
+need calculate limit sequence given recurrence relation tried following limit differenceroot function n n n n n n n n n n n n n n n n n n n n n n n n infinity returned unevaluated

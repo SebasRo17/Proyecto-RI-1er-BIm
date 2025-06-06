@@ -1,1 +1,0 @@
-scsi ide drive working together years scsi supposedly pretty transparent types drives esdirllideetc oftentimes need get correct drivers get work odd environments information purposes

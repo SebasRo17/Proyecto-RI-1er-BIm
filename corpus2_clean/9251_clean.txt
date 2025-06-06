@@ -1,0 +1,1 @@
+trying import text file ucs little endian codification read correctly hidden option read file tried import using byteordering option readlist example file find thanks

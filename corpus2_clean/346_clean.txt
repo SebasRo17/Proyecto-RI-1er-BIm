@@ -1,0 +1,1 @@
+recent version mathematica provide option unique context cell group via evaluation notebook default context unique cell group appealing concept find unusable code span multiple cell group would like way specify unique context cell group certain level every section separate context every subsection subsubsection solution need affect new cell group created

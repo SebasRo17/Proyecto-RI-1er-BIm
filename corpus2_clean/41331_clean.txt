@@ -1,0 +1,1 @@
+series pde equation solved ndsolve certain variable b want see output time b change thinking loop formulation variable increment pdes solved output time saved sure implement mathematica whether even best way eventually want use output curve fitting data suggestion would appreciated

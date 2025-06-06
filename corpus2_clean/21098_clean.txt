@@ -1,0 +1,1 @@
+know two integer n n find two different integer x nearest satisfy mod n x mod n example f f n small brute force test whether integer factor n find nearest two factor twonear n integer integer module l sortls l select range n mod n sortls sort transpose l l ab ab sort sortls twonear twonear deal problem n n

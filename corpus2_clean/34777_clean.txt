@@ -1,0 +1,1 @@
+would like solve numerically differential equation displacement x mass spring k system compliant stopper equation something like x k x f f defined ab x certain value x equal k x x ab x x mathematica function use define f ndsolve solve corresponding equation

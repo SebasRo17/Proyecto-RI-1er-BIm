@@ -1,0 +1,1 @@
+spent reasonable amount time find origin error larger code segment str stringtostream b c data readlist str record stringlength data setstreamposition str data read str record stringlength data close str calculate

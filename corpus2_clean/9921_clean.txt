@@ -1,0 +1,1 @@
+created mathematica script found line commented opened vi gedit text editor either need get rid manually bash script run mathematica script unix terminal create script include shebang usr local bin mathematicascript script first line save file package resulting file look something like package input usr local bin mathematicascript script input f x x line commented anything need

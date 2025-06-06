@@ -1,0 +1,1 @@
+integrate diracdelta k diracdelta b k k infinity infinity diracdelta b work fine integrate k diracdelta k diracdelta b k k infinity infinity give expected b diracdelta b fixed

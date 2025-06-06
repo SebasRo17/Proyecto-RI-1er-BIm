@@ -1,0 +1,1 @@
+reason cause parallelized mathematica code run full performance

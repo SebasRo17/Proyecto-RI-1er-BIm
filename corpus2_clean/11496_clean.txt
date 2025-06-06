@@ -1,0 +1,1 @@
+list need able assign rank individual element giving number related position list sorted allowing tie example would transformed depending sorting higher value lower value variant pagerank assigning point edge value set edge point ranked highest ranked point getting number second highest point getting tried using sort approach encountered anything could described elegant

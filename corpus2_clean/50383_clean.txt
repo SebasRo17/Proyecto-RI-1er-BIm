@@ -1,0 +1,1 @@
+im trying plot following function f x left begin matrix x x x x notin end matrix right leq x x geq geq im trying without success something like plot piecewise x x x x x x boxed false axesorigin dont know piecewise function support multiple condition like x x piece

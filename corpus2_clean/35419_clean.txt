@@ -1,0 +1,1 @@
+created plot horizontal barlegend temperaturecolors see code plotlegends placed barlegend temperaturemap tick table legendmarkersize legendlabel degree c labelstyle bold black bottom center want barlegend temperature decreasing left right mean value color reversed high temperature left enter image description

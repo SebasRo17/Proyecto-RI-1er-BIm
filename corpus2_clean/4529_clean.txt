@@ -1,0 +1,1 @@
+use central spectrum whole range example like see lowest value purple deep blue color tzvw showlegend listcontourplot tzvw colorfunction colordata rainbow contour range contourlines false frameticks ticklst automatic none none plotrange automatic framestyle aspectratio imagesize delaunaydomainscaling true regionfunction function x z

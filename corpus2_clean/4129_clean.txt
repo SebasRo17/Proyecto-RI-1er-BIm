@@ -1,0 +1,1 @@
+let say debugging program step step want print expression using showit example way output result print top already printed expression instead bottom

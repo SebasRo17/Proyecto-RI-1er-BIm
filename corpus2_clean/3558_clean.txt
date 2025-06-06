@@ -1,0 +1,1 @@
+background enter matrix block matrix format following want create f left begin matrix end matrix right n n square matrix size column vector length n solution question work case following code work case transpose append transpose append identitymatrix matrixform transpose append transpose append identitymatrix matrixform question best code case n

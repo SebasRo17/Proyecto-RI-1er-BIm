@@ -1,0 +1,1 @@
+given expression like b c sqrt f g h programatically expand quartic without fractional power right copy paste input expression manually move sqrt rh square suspect easier way mathematica perhaps using coefficient function something similar

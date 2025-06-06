@@ -1,0 +1,1 @@
+trying obtain convex hull transparent face small number point would like plot point shown small sphere number along ax tried p listpointplot p plotstyle red sphere large plotrange axeslabel automatic could help

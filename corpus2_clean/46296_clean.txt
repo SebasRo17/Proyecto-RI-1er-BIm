@@ -1,0 +1,1 @@
+documentation mathematica mentioned use hyperlink tooltip wrapper similar manner style however following example seem work vertex highlighted red neither hyperlink access tip highlightgraph graph tooltip test hyperlink miss something

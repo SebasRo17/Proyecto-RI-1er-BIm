@@ -1,0 +1,1 @@
+mathematica documentation say possible estimate matrix condition number norm infinity norm raise message extract reference documentation tutorial linearalgebramatrixcomputations changed expression compute norm error update requested want try check error system simply type mat linearalgebra matrixconditionnumber mat norm

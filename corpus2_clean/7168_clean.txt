@@ -1,0 +1,1 @@
+want solve numerical optimization problem using semi definite programming package add equips mathematica functionality

@@ -1,0 +1,1 @@
+consider following example flatten table f b c b c f tuples range flatten table b c f b c unevaluated b c f permutation range flatten table f b c b c b f subset range true true true similar built function performing flatten table f b c b c b simpler way

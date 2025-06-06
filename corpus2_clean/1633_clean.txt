@@ -1,0 +1,1 @@
+want write function generates square matrix sublists sublists range x b range x suppose x manually evaluate b b generate x matrix want make matrix automatically course without using loop tried different way nest range table make work absolutely use loop

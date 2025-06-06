@@ -1,0 +1,1 @@
+prevent mathematica automatically simplifying expression sqrt b case b mathematica print sqrt whereas case b mathematica print sqrt output program would better readable fraction stayed unsimplified square root symbol

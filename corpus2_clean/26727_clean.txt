@@ -1,0 +1,1 @@
+noticed following issue using constantarray constantarray bytecount set bytecount sure array expand memory without reason must multiply element want change another way efficient ensure change type data accident real integer problem

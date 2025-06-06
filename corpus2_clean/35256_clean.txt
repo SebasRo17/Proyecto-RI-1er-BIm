@@ -1,0 +1,1 @@
+let say use selectcomponents select morphological component image according criterion like elongation let say pull different set morphological component using another criterion like area selectcomponents testimage elongation selectcomponents testimage area properly merge single set non intersecting morphological component

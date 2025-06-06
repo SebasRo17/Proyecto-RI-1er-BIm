@@ -1,0 +1,1 @@
+trying generate phase plot sinusoidal voltage discrete point using following code listplot table sin n co n n aspectratio axeslabel real imaginary plotlabel plot would also like make arrow originates origin end point plane also would like label point corresponding value n possible

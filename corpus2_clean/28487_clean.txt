@@ -1,0 +1,1 @@
+want run mathematica code repeatedly even kernel shuts memory designed program continue appending data file currently restart kernel manually every minute anyone idea one automate process thanks

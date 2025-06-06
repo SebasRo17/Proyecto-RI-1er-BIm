@@ -1,0 +1,1 @@
+assign variable data imported excel containing column time mean standard deviation want perform operation three variable get new variable excel file found link

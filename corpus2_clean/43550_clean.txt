@@ -1,0 +1,1 @@
+suppose array p b c function f take variable number argument want evaluate f b c type f p return array f f b f c f right thing get f accept element p opposed p argument edited add per request comment concrete example suppose p would like expression return multinomial say work type multinomial p give multinomial multinomial multinomial

@@ -1,0 +1,1 @@
+documented findroot f x x x min max search solution stopping search x ever get outside range min max returning error findroot reged findroot f x g x x x y want obtain behavior constrain x possible particular interested case many solution satisfy constrain want get many possible giving several starting point

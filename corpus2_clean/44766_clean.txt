@@ -1,0 +1,1 @@
+list element l want make list l element equal l made length l l b l appendto l b result l wrong take first element l b ok convert l l good precision

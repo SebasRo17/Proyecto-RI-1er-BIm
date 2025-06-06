@@ -1,0 +1,1 @@
+say constraint x x x x want use constraint nminimize function seems mathematica run problem example nminimize output error saying function variable real x constraint defines variable positive better way write constraint

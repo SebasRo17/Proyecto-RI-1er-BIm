@@ -1,0 +1,1 @@
+normalize last column matrix mm transpose transpose matrixform step step mt transpose msum mt mt mt msum mt msum mlast transpose mt mt mt elegant method mathematica

@@ -1,1 +1,0 @@
-dec nt adaptec scsi controller hard disk cdrom drive add ethernet card reboot system receive error message boot device found pull card reboot everything fine ive moved controller card various slots different positions slot controller slot controller result dec hasnt responded problem yet help would appreciated

@@ -1,0 +1,1 @@
+syntax connecting specific instance sql server database code need databaselink conn opensqlconnection jdbc microsoft sql server jtds arc web skwspatial username mathematica databasename xyz database password xxxxx problem connecting arc web cannot connect one instance mathematica sql server

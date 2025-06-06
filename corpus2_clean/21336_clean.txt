@@ -1,0 +1,1 @@
+would like define vector say v x z want fixed norm say unit norm v impose condition v

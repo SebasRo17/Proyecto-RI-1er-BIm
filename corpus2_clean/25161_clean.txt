@@ -1,0 +1,1 @@
+trying calculate continuous integral within discrete integral something similar yet complex nsum nintegrate x x receive following error code nintegrate inumr integrand x evaluated non numerical value sampling point region boundary proper way tell mathematica evaluate expression

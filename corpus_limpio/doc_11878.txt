@@ -1,1 +1,0 @@
-sun acquired frame buffer card supposed support color visual monochrome visual default visual xnews server monochrome unable change visual tried using xgetvisualinfo get visual depth success xdpyinfo gives information deep visual monochrome two possible solutions someone patches xsun server could forward us otherwise could someone instruct us access color openwindows

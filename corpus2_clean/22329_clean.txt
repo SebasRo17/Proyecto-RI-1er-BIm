@@ -1,0 +1,1 @@
+first make time orderless clearattributes time orderless evaluate expand x z produce x x z evaluate distribute x z get x x z last expected case question happen interest academic practical since would like use thing like expandall later code

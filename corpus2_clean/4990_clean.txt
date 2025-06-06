@@ -1,0 +1,1 @@
+apparently mathematica syntax coloring engine belief second assignment following code excerpt concocted illustration purpose possible unwanted assignment since unchecking box preference cause red highlighting disappear enter image description idea mathematica believe assignment possibly unwanted variable b used test conditional loop whereas f g

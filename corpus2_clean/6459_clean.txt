@@ -1,0 +1,1 @@
+running following notebook deployed cdf file sometimes annoying accidentally pressing shift return break user interface panel dynamicmodule input inputfield dynamic input string would like know one programmatically prevent cell evaluated shift return pressed user stay inputfield instead thrown seeing new generated cell appear

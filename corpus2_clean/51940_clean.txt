@@ -1,0 +1,1 @@
+suppose list data listplot x list errorbars erry erry nice high level way make list errorlistplot x errorbar erry course easy iteration table however keep reading right way mathematica use iteration least list

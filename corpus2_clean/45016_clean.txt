@@ -1,0 +1,1 @@
+mathematica provides nonlinear unconstrained test problem need optimization unconstrainedproblems lp test problem exampledata linearprogramming anyone know good source constrained nonlinear problem mathematica format also nice essential would mixed integer linear nonlinear test problem

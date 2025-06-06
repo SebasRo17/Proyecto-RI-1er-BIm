@@ -1,0 +1,1 @@
+want plot region point satisfy following equation r able plot region cartesian coordinate h r r regionplot h sqrt x arctan x x plotpoints enter image description would like plot region polar ax think make polarplot plot region probably

@@ -1,0 +1,1 @@
+let b two string q ary alphabet character c c q alphabet like return pair value r k r represents count character k represents number instance character position b example two binary string sa sb character return value r k character return r k fastest way carry string operation using array instead string

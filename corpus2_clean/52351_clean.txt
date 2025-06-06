@@ -1,0 +1,1 @@
+suppose multidimensional list shown randominteger obtain result left begin array ccccccc end array right applied function sort left begin array ccccccc end array right problem trying sort row wise played around function quite getting want someone guide please

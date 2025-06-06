@@ -1,0 +1,1 @@
+importing data file comment symbol mathematica given file like blabla bulbul symbol put front header line mathematica skip start reading line tried work gnuplot work know could tell mathematica skip line control file output would nicer use kind tag

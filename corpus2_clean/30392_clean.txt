@@ -1,0 +1,1 @@
+example typed following data need tetgenlink pt surface tetgenconvexhull data get needed point surface generate convex hull instead got error message make work fix

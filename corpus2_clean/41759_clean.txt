@@ -1,0 +1,1 @@
+want create cell resize automatically notebook resized hoping find function called notebookdimensions use dynamically

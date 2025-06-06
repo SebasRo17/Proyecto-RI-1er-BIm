@@ -1,0 +1,1 @@
+little question consider one html source string export test html htmlsource get one html file whole image source export test txt filetoexoprt copyfile test txt test html get result html file direct way

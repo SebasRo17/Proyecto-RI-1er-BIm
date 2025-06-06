@@ -1,0 +1,1 @@
+two set game player player pick game data say g p p p g p p g p p p interest though build connection among player common game played instance since p played p p game connected build adjacency matrix player hundred game thousand player question efficiently get adjacency matrix given data thanks input

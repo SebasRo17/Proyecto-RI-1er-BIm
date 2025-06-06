@@ -1,0 +1,1 @@
+extremely limited user mathematica could someone tell set following nonlinear regression problem sum f x f x x b b lerchphi x b x parameter adjusted b preliminary work provides reasonable estimate parameter use input level make mma life easier

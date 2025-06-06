@@ -1,0 +1,1 @@
+change exclusionsstyle plot inside manipulate sample though seems produce equivalent result exlusionsstyle none manipulate plot x x x b x exclusion b exclusionsstyle dashed b

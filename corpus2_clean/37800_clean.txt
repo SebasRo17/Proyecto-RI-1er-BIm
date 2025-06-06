@@ -1,0 +1,1 @@
+want essentially take image n time n pixel expand sparse array spacing pixel factor pixel input image occupies one corner cell time time new pixel expanded image n time n pixel cell set want create padded array one line data wxyz output w x z think mathematica sparsearray might way go sure go implementing

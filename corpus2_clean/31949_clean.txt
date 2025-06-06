@@ -1,0 +1,1 @@
+trying change celllabel cell using setoptions cell celllabel test setoptions notebookread nb celllabel test nb notebook without success done thanks help

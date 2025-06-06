@@ -1,0 +1,1 @@
+writing code documentation need list mathematica built function used explicitly written function way extract list built function used code example insert b c x style text bold range b b would require list containing insert style range

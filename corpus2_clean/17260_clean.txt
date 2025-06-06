@@ -1,0 +1,1 @@
+set data look like x z x z describes point space want make heatmap data point high density shown cloud marked different color dependend density fact want result script data randomreal smoothdensityhistogram data pdf colorfunction rainbow mesh enter image description

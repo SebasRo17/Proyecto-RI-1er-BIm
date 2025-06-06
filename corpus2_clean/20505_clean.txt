@@ -1,0 +1,1 @@
+make replacement rule applied part expression break condition placed whole expression example suppose frac xy x x want change x getting result frac x x x e without turning original expression infinity want replacement raise warning error least need way replacement seems like easy idea came replaceonce expr rule rule mapat rule expr position expr rule get goal

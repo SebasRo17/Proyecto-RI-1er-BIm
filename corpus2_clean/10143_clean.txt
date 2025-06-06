@@ -1,0 +1,1 @@
+find value column list corresponds minimum value column

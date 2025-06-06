@@ -1,0 +1,1 @@
+using listlineplot inside manipulate function display data seen mathematica allows zooming panning either plot work listlineplot also seen thread stackexchange custom function zoom pan seem work apply listlineplot error message graphic primitive directive solution missed able zoom pan listlineplot

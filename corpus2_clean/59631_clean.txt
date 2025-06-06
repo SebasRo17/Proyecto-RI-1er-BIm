@@ -1,0 +1,1 @@
+plot one eventually hide whole bounding box use option boxed false remove selected part wire frame surround plot

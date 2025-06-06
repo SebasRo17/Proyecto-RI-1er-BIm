@@ -1,0 +1,1 @@
+set curve take large value approaching trying create straight line certain slope truncate plot curve go line value x current code lm sqrt c lm c lm pr c pi c pi plot table pr release axesorigin enter image description

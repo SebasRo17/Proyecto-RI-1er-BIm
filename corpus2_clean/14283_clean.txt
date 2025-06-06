@@ -1,0 +1,1 @@
+want solve following linear equation begin align x z x z end align output x z know way solve function used solve also thankful let know way many possible also especially specific way using lu decomposition solve equation

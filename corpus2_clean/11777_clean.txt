@@ -1,0 +1,1 @@
+possible create c program using mathlink invoke maple kernel execute basic maple command using openmaple envisioning following install maplelink start external program maplelink installs mathematica definition runmaple runmaple runmaple expr return string output maple executes expression expr sample output runmaple seq also open using j link

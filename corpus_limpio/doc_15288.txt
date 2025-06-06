@@ -1,1 +1,0 @@
-link lm math library bug suns shared libraries linking assert nodefinitions trick

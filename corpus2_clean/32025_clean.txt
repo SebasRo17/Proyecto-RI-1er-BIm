@@ -1,0 +1,1 @@
+one measure execution time time spent code finish program mathematica understand general timing function timing absolutetiming timeused etc used measuring cpu wall time know pro contra caveat different method

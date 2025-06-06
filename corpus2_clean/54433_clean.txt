@@ -1,0 +1,1 @@
+suppose equation sin x z x wz want mathematica plot contour x ax z limit w rightarrow tried code work reduce sin x z x wz x w contourplot z tried different method using solve work either contourplot x solve sin x z x z x z

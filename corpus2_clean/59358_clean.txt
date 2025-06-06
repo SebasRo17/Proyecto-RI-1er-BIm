@@ -1,0 +1,1 @@
+given function f x region complex x plane find singularity f region e issue command mathematica return type singularity parameter let specific discontinuity jump pole branch point example f x sin x sign co x g x x h x sqrt x b edit restriction real x first version text good idea changed

@@ -1,0 +1,1 @@
+example code list triple produce one sublists least one zero value position lowest non zero value sublist returned condition applies identify sublists whose lowest value zero overall position non zero value obtained lose position overall list mylist partition randomsample range would like get returned something like z list thanks help

@@ -1,0 +1,1 @@
+long list coordinate defined space need extract first three coordinate example coords need define list first three component reducedcoords please notice working mathematica

@@ -1,0 +1,1 @@
+would best express following mathematica begin pmatrix end pmatrix begin pmatrix r r r r end pmatrix begin pmatrix end pmatrix r element vector elegant way r r r r re r hold r hold r hold r hold releasehold re

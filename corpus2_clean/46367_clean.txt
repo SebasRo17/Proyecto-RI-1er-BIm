@@ -1,0 +1,1 @@
+list number plotting using treeplot code plotting u n module coor flatten table table j j n step flatten table table u k l k u k l k u k l k u k l k k l l n treeplot step directededges true vertexlabeling true vertexcoordinaterules coor plotlabel plotting u need node painted different color example dsu su way

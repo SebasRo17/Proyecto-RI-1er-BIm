@@ -1,0 +1,1 @@
+equation mathematica solves give huge output however notice output expression occurs many time namely e b b b b x b c constant however expression appear form e e sqrt e e struggling tell mathematica make replacement b b b b x space space e wherever appears way tried handy mathematica note change output idea

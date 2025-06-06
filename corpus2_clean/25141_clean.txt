@@ -1,0 +1,1 @@
+try evaluate integral heaviside function turn erroneous output zero integral integrate heavisidetheta k sqrt kx ky kz kx infinity infinity ky infinity infinity kz infinity infinity kx ky kz real right answer volume sphere seems mathematica know

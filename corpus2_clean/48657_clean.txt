@@ -1,0 +1,1 @@
+array like following left begin array ccc end array right swap row column transformed left begin array ccc end array right question touch upon subject rather swapping simply rotates matrix

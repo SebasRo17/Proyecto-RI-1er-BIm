@@ -1,0 +1,1 @@
+function intersection take number list set find intersection however precise input intersection intersection mean difficulty automatising procedure using table example wish first construct myinput table j j intersection myinput work flatten seem able flatten level help thanks

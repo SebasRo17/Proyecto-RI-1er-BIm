@@ -1,0 +1,1 @@
+color beziercurve red green line pt graphic thick beziercurve pt line vertexcolors red green spline

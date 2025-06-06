@@ -1,0 +1,1 @@
+would like assign vertex random number minimum bound equal smallest vertex maximum equal value largest without repeat ie x grid vertex would labeled without repeat randomly

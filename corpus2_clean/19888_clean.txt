@@ -1,0 +1,1 @@
+problem quite similar nested nintegrate define two function r x evaluate q x ndsolve q q q q q fn k numericq exp nintegrate r exp beta r k beta want know value nintegrate fn k k obtain following error nintegrate inum integrand fn k numerical k adding numericq r k obtain error nintegrate inumr integrand fn k evaluated non numerical value sampling point region boundary wrong

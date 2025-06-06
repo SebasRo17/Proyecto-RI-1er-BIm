@@ -1,0 +1,1 @@
+trying solve recurrence two variable rsolve g n g n g n g g n g n n boundary condition g g n n plug get input back error message inputting recurrence incorrectly mathematica simply unable find closed form

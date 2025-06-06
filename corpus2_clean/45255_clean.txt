@@ -1,0 +1,1 @@
+function given f x j j j co x co x co sqrt j j sin x j co x co x co sqrt j co x co x co sqrt j j sin x j j sin x x independent variable j j two parameter tried reduce f x j j x f x j j j j x real find extremum however take forever mathematica give result

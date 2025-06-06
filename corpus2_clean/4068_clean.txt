@@ -1,0 +1,1 @@
+really appreciate anyone help solve ode plot answer x begin align xy x x x x x x x x operatorname erfc x end align following boundary condition infty used ndsolve answer cannot find starting value variable x original source equation xy x x x x x x x x erfc x

@@ -1,0 +1,1 @@
+using following code animate listpointplots dat animate listpointplot transpose dat n dat n x numericq numericq x transpose dat n dat n x numericq numericq x axesorigin point line n animationrunning false however listpointplot different x range range ax constantly move animated picture making poor comparison behaviour way fix ax animate function

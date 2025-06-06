@@ -1,0 +1,1 @@
+obvious way force mathematica separately integrate term sum according doc part sum cannot integrated explicitly whole sum stay unintegrated want term nice closed form want compute former done work seems inelegant integrand mp mp f mp actual integrand much complicated myint integrand expand myint b myint myint b myint integrate mp fullsimplify give correct integrate mp f mp mp

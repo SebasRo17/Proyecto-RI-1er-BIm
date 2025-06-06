@@ -1,0 +1,1 @@
+refactoring old code used really short name local variable coming regret easy way rename local variable scope using wolfram workbench example could change inside test print statement test code print l inside module test x module l l x code print l ctrl quickfix rename variable discovered researching question seems work whole file using wb anybody even still us wb

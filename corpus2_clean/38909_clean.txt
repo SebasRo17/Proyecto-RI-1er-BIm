@@ -1,0 +1,1 @@
+find area x sin x typed far mathematica clear f g x f x x g x sin x plot f x g x x plotstyle red blue plotrange filling graph worked however try next step solve f x g x x give intersects even tried retyping equation solve sin x x x nothing working wrong

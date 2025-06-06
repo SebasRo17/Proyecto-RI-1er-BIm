@@ -1,0 +1,1 @@
+tried divide two large matrix dland pl size x look like dl enter image description pl enter image description using conditional function spread dl pl sparsearray j pl j dl j pl j test spread dl pl matrixform test get result shown get message resulting test matrix element say complexinfinity sure ignore message zero element aligned enter image description

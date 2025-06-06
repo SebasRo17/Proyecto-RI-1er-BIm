@@ -1,1 +1,0 @@
-try imagemagick test one told anyway sure xserver supports truecolor visuals check xdpyinfo

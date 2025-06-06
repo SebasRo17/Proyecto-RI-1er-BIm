@@ -1,0 +1,1 @@
+trying parallelize script mwe done launchkernels container setsharedvariable container fun x x container paralleltable fun unsure done correctly mainly two thing concerned using paralleltable necessary parallelize expression looped e fun necessary make container paralleltable result shared variable

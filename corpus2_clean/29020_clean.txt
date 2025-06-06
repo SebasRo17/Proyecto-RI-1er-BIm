@@ -1,0 +1,1 @@
+would like define function based output following dsolve call dsolve b varx b varx x b x x x x x v x x tried following x dsolve b varx b varx x b x x x x x v x x showed message recursionlimit reclim recursion depth exceeded believe right idea

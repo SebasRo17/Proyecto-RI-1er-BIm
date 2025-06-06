@@ -1,0 +1,1 @@
+manipulate barchart table pdf binomialdistribution n p plotrange epilog pointsize rgbcolor point n p imagesize n variable appearance labeled p skew appearance labeled lady gentleman convert binomial distribution inside manipulate smoothhistogram simply put insert term smoothhistogram script

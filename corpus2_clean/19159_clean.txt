@@ -1,0 +1,1 @@
+want rewrite code arrayplot n eq x range n tuples n g listplot im flatten x nsolve eq enter image description like listplot reap x sow x x aspectratio written arrayplot table x x

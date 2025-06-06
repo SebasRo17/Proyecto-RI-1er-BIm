@@ -1,0 +1,1 @@
+denote h n n th hermite function h n x frac n sqrt n n sqrt pi mathrm e frac x frac mathrm n mathrm x n mathrm e x trying find th st nd term gram schmidt process hermite function h n used usual procedure gram schmidt process able calulate first term computer got stuck way calculate

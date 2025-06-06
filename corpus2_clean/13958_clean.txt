@@ -1,0 +1,1 @@
+difference two way specifying dependent package method beginpackage foo bar xxx yyy method beginpackage foo bar need xxx need yyy always effect note package may used big collection package complex interdependency

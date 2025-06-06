@@ -1,0 +1,1 @@
+rather unusual problem understand mathematica renaming one variable function cause function stop working example code f b l x first dsolve x x x b l x x x changing one variable name cause code throw error message non working code f r b l x first dsolve x r x x b l x x x

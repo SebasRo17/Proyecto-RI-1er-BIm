@@ -1,0 +1,1 @@
+wish make functional replacement inside held expression like f x real x hold n real f n hold get hold f f instead best way make replacement without evaluation held expression

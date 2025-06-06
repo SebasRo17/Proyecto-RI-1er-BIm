@@ -1,0 +1,1 @@
+seen question saving data global context set notebook evaluation context unique notebook global context work quite well idea save every variable file case thanks ok solved replace global whatever context return actually feature request mathematica automatically save everything notebook

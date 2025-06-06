@@ -1,1 +1,0 @@
-im writing driver needs remap io ports means virtual mode unfortunately virtual mode means wont get along expanded memory managers need make emm driver anyone emm code point emm code source thanks morgan

@@ -1,0 +1,1 @@
+would fastest way take array containing n element plot two dimensional histogram x b bin listdensityplot taking upwards half hour using compiled code

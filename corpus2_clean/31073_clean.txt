@@ -1,0 +1,1 @@
+might detect inputfield come focus example ideally something like would work eventhandler inputfield default string focusgained messagedialog focus focuslost messagedialog unfocus focus messagedialog focus reading question assumed focusgained focuslost focus would something luck yet

@@ -1,1 +1,0 @@
-view eps files x image color encapsulated postscript need view screen utilities let convert encapsulated postscript plain postscript

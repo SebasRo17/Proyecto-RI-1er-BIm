@@ -1,1 +1,0 @@
-upgraded old local bus motherboard two month ago bought controller card local bus grafic card diamond stealth vlb try put new grafic card new controller together system dont want boot stop controller card checking try change amibios setup nothing works one thing disable rombios adress controller card system one step checking system cache memory nothing thanks answer chrobert

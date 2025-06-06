@@ -1,0 +1,1 @@
+fundamental region mathbb r defined solely inequality e region intersection half space kind square pyramid function well defined inside region would like plot function level surface inside region using contourplot however easy way stipulate region simply form min max type declaration mathematica seems require anyone know please

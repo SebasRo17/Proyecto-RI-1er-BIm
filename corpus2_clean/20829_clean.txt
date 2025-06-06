@@ -1,0 +1,1 @@
+code k l n n pi l v x x f x x co x x b n l integrate f x v x sin sqrt n x x l w x sum b sin sqrt x exp k u x v x w x manipulate plot u x f x v x x l plotstyle thick black thick blue thick red axeslabel x u plotrange plotlegends expression note right edge box output jump back forth depending many decimal place shown specific value anchor right edge move back forth

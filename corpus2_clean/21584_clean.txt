@@ -1,0 +1,1 @@
+want find first prime number form n used code timing select table n n primeq give desired answer take second rough idea value n check timing select table n n primeq take time long question simple ish way make mathematica stop desired number solution found

@@ -1,3 +1,0 @@
-
-That's nothing.  They wouldn't let the British buy Inmos Transputer systems
-because of security concerns.  And we designed the damn things!

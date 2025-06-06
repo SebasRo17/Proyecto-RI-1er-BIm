@@ -1,0 +1,1 @@
+list pair number representing connection object real world number identifier object gap range smallest number largest number etc need visualise object related intended create graph representation network

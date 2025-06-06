@@ -1,1 +1,0 @@
-ive done asic digital design cpu design would seem fpu used cache accessed chip buffersdrivers idle multiplier isnt multiplying barrel shifters arent shifting microcode isnt microcoding etc means transistors arent switching means less power dissipated cmos means less heat understand pentium shuts sections cpu arent used order cut heatpower

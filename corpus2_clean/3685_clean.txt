@@ -1,0 +1,1 @@
+want plot graphic want facegrids tick specify tried several solution cannot get working result code provided job except x axis draw facegrid middle coordinate tick advice welcome code plot exp r bn r bn axesstyle thickness tick boxed false mesh performancegoal quality facegrids axeslabel x z mathematica graphic

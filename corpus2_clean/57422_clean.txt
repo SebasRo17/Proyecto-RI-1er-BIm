@@ -1,0 +1,1 @@
+considering data want fit data linear fit find average error linear fit using mathematica temp weatherdata location meantemperature start end day show listplot partition reverse temp value plot line x plotstyle red generates enter image description find average error linear fit

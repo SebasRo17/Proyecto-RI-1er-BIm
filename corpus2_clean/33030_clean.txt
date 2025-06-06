@@ -1,0 +1,1 @@
+interested function would stop mathematica reducing fraction input mathematica output want output nice function need want define recursive function behavior f f n numerator f n denominator f n want obtain f f get complicated example f f n mod n numerator f n n numerator f n denominator f n get really annoying store

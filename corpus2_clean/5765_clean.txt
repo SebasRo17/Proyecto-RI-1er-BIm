@@ -1,0 +1,1 @@
+command mathematica check date file last modified suppose two notebook file nb file nb need way find notebook older command exists way mathematica regardless operating system working

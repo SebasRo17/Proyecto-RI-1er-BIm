@@ -1,0 +1,1 @@
+need create list input receives number n element contain return n tried using hold release come solution

@@ -1,1 +1,0 @@
-animation frequently done copying client resident ximages server resident pixmaps using xputimage done original ximages deleted animation loop performed using xcopyarea pixmaps windows drawable hope helpfull

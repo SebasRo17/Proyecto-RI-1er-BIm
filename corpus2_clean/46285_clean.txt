@@ -1,0 +1,1 @@
+like use stringcount count number subwords string form designed stand character specified set starset b c modifiedstringcount string example string abaacawabcaa would generate output overlap false output overlap true way

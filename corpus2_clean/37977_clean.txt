@@ -1,0 +1,1 @@
+two list say b length n like compute following minimum b n b also like know index element min occurs

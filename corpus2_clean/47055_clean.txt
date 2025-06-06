@@ -1,0 +1,1 @@
+purpose model attack piano key key pressed sound must emitted key released sound must stop decreasing volume partial success time fixed example time following code simulates key pressed second know change sound stop natural feeling immediately key released button graphic white rectangle emitsound sampledsoundlist preemptive emitsound play e e time sin pi time

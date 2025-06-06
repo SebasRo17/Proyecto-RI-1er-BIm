@@ -1,0 +1,1 @@
+know ndsolve coupled piecewise used solve series discontinuous differential equation one function different example z begin case x text x x text x end case rm z rm x tried something like xyz first ndsolve x co x x x x co z piecewise x x ab x x x z x z idea correctly incorporate z condition

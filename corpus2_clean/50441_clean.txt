@@ -1,0 +1,1 @@
+silly question mine mathematica take second evaluate function f plug value f new function g f f let ignore evaluation time new function g long take g f f second second second make mathematica temporarily remember value f thanks

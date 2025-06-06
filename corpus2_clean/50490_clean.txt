@@ -1,0 +1,1 @@
+set figure would like show grid publication currently export figure eps use another software package add label b c panel figure rather tedious way label panel mathematica example possible label panel following grid plot sin x x pi pi b plot co x x pi pi c plot arcsin x x pi pi plot arccos x x pi pi grid b c spacing frame

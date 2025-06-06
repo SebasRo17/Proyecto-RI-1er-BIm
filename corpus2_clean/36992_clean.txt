@@ -1,0 +1,1 @@
+created custom menu mathematica title bar editing menusetup tr executes code using kernelexecute piece code may sometimes produce error message still interested seeing seem come either selectednotebook message console different outputstream used command executed mathematica menu way redirect output message generated command still visible user

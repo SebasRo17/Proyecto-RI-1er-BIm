@@ -1,0 +1,1 @@
+would like apply eigenvalue list matrix following foo x x foo foo foo foo eigenvalue however get error message eigenvalue matsq argument position non empty square matrix problem

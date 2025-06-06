@@ -1,0 +1,1 @@
+let say polygon different overlap want draw plot one single graphic linearly adding gray value e point n overlapping polygon graphic grayvalue n wish graphic opacity table disk would work opacity add linearly find easy way want current idea go via image graphic imagedata arrayplot might lose lot precision way

@@ -1,0 +1,1 @@
+little project demonstrate something b l rc randomchoice b c c appendto l rc c e count l count l n f e want insert two inputfields value b want evaluate rest cell whenever input new value b also curious b note inserting inputfields problem problem reevaluation cell event

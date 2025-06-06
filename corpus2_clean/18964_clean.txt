@@ -1,0 +1,1 @@
+plot normal curve filling curve right vertical line would prefer vertical line start x axis stop plotted curve basically trying shade area curve specific region

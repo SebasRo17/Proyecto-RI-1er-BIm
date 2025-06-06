@@ -1,0 +1,1 @@
+trying print christoffel symbol second kind surface mathbb r currently using something along line print subscript subscript capitalgamma k j j k unfortunately superscript suppressed force display

@@ -1,0 +1,1 @@
+come across several way implement enable autosave see notebook autosave frequency configuration saving code cell evaluation insurance front end hanging set versioning system within notebook never found reason enabled default seems incredibly useful surely must good reason wolfram chose leave unconfigured autosave enabled default

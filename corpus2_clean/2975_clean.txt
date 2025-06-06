@@ -1,0 +1,1 @@
+default notebook interface text wrap possible prevent wrapping

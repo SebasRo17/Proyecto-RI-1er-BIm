@@ -1,0 +1,1 @@
+data x data grid around airfoil trying figure draw radial polar line grid look like mesh tried listplot listlineplot managed get circular line radial one data look like airfoil listlineplot airfoil llplot improve image

@@ -1,0 +1,1 @@
+trying render image path extruding circular cross section along path creating snake like path image found illustrate tube seem figure way found tube command need find way turn set point curve basically need find necessary control point beziercurve bspline fit set x coordinate interpolation spline method used generate spline set point

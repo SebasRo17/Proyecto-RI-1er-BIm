@@ -1,0 +1,1 @@
+way set setting option inspector path relative global mathematica variable trying set default stylesheet setting defaultstyledefinitions style sheet located userbasedirectory systemfiles frontend stylesheets need setting independent path userbasedirectory using setting different machine user directory different name setting value containing userbasedirectory work

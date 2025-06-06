@@ -1,0 +1,1 @@
+solve system equation step step mahematica begin align x p l q l b x p q b x l b end align p q term x l b

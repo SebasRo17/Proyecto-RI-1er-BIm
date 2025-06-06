@@ -1,0 +1,1 @@
+tried run following code f x arctan x arcsin x x plot f x x x setdelayed df x f x x plot df x x start complaining general ivar valid variable general ivar valid variable general ivar valid variable general stop output general ivar suppressed calculation code work f x arctan x arcsin x x df f x x plot df x miss something issue

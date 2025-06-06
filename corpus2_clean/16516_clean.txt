@@ -1,0 +1,1 @@
+version window use listlineplot tooltip work seems lost somewhere data tooltip work ok using listplot data table tooltip x x x listplot data tooltip show ok listlineplot data tooltip show enter image description looked possible issue listlineplot seen mention question make tooltip work listlineplot thanks

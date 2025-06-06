@@ -1,0 +1,1 @@
+smooth data distribution regular grid rectangular cross section channel need find interpolating function f x tried interpolation x f x f work interpolation work rectangular grid thanks giovanni

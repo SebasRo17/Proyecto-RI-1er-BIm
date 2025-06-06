@@ -1,0 +1,1 @@
+exactly custom stylesheet processed style depends inherits style consider e g setting font would expect setting font section yy setting font xx would result font yy section xx everything else override text section work expected seems global override least fontfamily someone clarify

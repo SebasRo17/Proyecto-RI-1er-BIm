@@ -1,0 +1,1 @@
+compile x real memberq x output false fact seems get compiled false every input look compileprint call main evaluator memberq included compile compilerfunctions list idea

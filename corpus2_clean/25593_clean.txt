@@ -1,0 +1,1 @@
+starting learn mathematica got stuck question noob question please help need define function named continuedfraction take user input type list continuedfraction b c output b c continued fraction like page done far input notebook know hard fx x fold x x b c fx b c e b b b b b c c c c c e e e e e course correct answer p functional programming pure function hint use fold

@@ -1,0 +1,1 @@
+probably rather basic question presume simply unable make proper use option function trying figure default font fontfamily guess plotlabel tried e g option plotlabel fontfamily variation avail many thanks

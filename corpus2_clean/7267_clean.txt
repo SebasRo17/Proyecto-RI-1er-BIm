@@ -1,0 +1,1 @@
+command produce chart two line datelistplot capreg equity joined true would like add label chart capreg red label chart equity blue would like color capreg line red line equity blue idea many thanks advance

@@ -1,0 +1,1 @@
+problem find two linearly independent solution x xy x x form x r x x x cdots x r b x b x b x cdots done x x x x x x r sum c n x n n result mathematica gave x x r c x c x c x c x c x c conclude x excuted replacement make x excute replacement

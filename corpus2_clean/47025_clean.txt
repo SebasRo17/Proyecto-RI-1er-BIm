@@ -1,0 +1,1 @@
+listplot want mesh position tick reason default chosen automatic question function read reproduce automatically generated tick list e g xtickslist ytickslist use like mesh xtickslist ytickslist alternative solution course also welcome solution explicite value want finally want use general recipe edit easy call setdirectory data import file dat listplot data viewpoint data work

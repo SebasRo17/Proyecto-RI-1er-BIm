@@ -1,0 +1,1 @@
+sometimes computation take long time sleep night want shutdown pc next morning wake want start mathematica resume computation familiar virtual machine vmware looking feature like vmware suspend resume mathematica feature

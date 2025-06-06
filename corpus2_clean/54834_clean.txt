@@ -1,0 +1,1 @@
+say list string l l text delete want delete li match text delete deletecase give one match exactly

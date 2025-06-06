@@ -1,0 +1,1 @@
+use following code find number consecutive prime number using formula n n found euler starting n nb nb union nb select range primeq false nb also get output list value iterator corresponding number consecutive prime would like get something like

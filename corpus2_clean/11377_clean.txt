@@ -1,0 +1,1 @@
+solving recurrence relation introduction algorithm clrs rd edition problem n n frac lg n tried way like expending iteration method came following equation even n frac lg n frac lg n frac lg n frac lg frac lg frac lg odd n frac lg n frac lg n frac lg n frac lg frac lg frac lg assume solve need able sum sum n frac lg help greatly appreciated thanks

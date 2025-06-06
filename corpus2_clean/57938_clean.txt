@@ -1,0 +1,1 @@
+mathematica documentation updated findinstance adding support region use case trying sample point set disk region discretizeregion regionunion table disk randomreal randomreal findinstance x element region x real n however code fails generates following error findinstance elemc unable resolve domain region membership condition x element going wrong

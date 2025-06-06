@@ -1,0 +1,1 @@
+function stringreplace g k v j x fails provide expected answer vg instead return g due unusual way mathematica handle string order allow symbol image string would one string replace symbol literally replaced order string shown

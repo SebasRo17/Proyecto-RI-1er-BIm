@@ -1,0 +1,1 @@
+would like know go increasing size number appear legend make larger default small publication purpose example contourplot fn n v v n clippingstyle automatic plotpoints colorfunction bluegreenyellow labelstyle directive thick large framelabel style v large style n large plotlabel style large plotlegends automatic

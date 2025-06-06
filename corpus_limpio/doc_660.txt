@@ -1,1 +1,0 @@
-application running one window application id like iconize window later deiconize back window could help would appreciated

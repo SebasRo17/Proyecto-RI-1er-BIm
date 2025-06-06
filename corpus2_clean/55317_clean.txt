@@ -1,0 +1,1 @@
+trying implement slider whose control range varies depending current value dynamic asd slider dynamic asd dynamic asd asd however problem slider remains place control scale change thus value leap soon scale change illustrate reach ten scale change slider remains place thus value go immediately new ten possible slider jump instead value perhaps briefly locking value ten

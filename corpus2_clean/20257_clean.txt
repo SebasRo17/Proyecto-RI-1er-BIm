@@ -1,0 +1,1 @@
+possible change output build function would like change output identitymatrix n tried format identitymatrix n comparison also tried format sin x sine tostring x result error tag identitymatrix identitymatrix n protected guess function protected build function way change output format build function

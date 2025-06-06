@@ -1,0 +1,1 @@
+trying solve system one dimensional two point boundary value problem ndsolve would like use fixed mesh specified calculation way mesh uniformly spaced thanks

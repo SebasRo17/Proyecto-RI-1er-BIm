@@ -1,0 +1,1 @@
+possible draw mathematica state space diagram like two enter image description tried lot since fairly new mathematica could reproduce desired result

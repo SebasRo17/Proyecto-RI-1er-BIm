@@ -1,0 +1,1 @@
+draw intersection function sphericalplot csc sqrt boxratios axeslabel x z mesh none plotrange plotstyle directive blue opacity

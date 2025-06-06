@@ -1,0 +1,1 @@
+wrote small script palette allows highlight specific cell notebook using selectionmove mycell cell cell selected expected sometimes cell part cell group section subsection etc currently closed cell hidden selectionmove reveal far find way open parent group cell programatically cell shown possible

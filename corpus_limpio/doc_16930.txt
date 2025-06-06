@@ -1,1 +1,0 @@
-specify ramdomplacement randomplace tvtwmrc places windows notinteractively pseudo random positions screens

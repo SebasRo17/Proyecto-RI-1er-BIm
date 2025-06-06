@@ -1,0 +1,1 @@
+trying put point intersection two curve one ouput differential equation solved ndsolve output interpolation nsolve cannot find intersection coordinate

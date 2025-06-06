@@ -1,0 +1,1 @@
+would like mathematica print error message current notebook together output default option mathematica recently turned somehow getting output notebook cell style message go window called message set option back

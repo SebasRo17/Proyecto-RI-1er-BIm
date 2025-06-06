@@ -1,0 +1,1 @@
+right way generate random probability vector p p ldots p n n sum p uniformly distributed n dimensional simplex interval table n randompoint block randomvariate uniformdistribution interval total unsure correct particular unsure different randompoint block table random n total latter clearly distribute vector uniformly first code right one

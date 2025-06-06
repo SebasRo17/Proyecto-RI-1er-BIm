@@ -1,0 +1,1 @@
+bring image web using import command like import good image sometimes web request complicated must use urlfetch tried importstring urlfetch jpg unreadable image know make image load correctly suspect related string encoding able solve

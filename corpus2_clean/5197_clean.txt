@@ -1,0 +1,1 @@
+possible split list two list specific position main list example data xa ya xb yb xc yc xz yz want split list two new list data xa ya xb yb xi yi data xj yj xk yk xz yz specific value position successful using part maybe another possibility

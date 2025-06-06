@@ -1,0 +1,1 @@
+list data dimension plotted using listpointplot setting fourth dimension color follows listpointplot list data plotstyle pointsize large blend darker green yellow red flatten data rotationaction clip want show colorbar tried function showlegend work idea

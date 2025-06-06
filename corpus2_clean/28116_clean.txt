@@ -1,0 +1,1 @@
+would like run time consuming function timeconstrained f x maxseconds able change maxseconds running increasing decreasing max time using slider ideally decrease maxseconds time already consume stop could implement functionality inside f would f want create way question thanks advance theodore

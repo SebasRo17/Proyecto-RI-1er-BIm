@@ -1,0 +1,1 @@
+trying write set homework question would like output evaluate constant sum may present homework question something like sum n n n c randominteger c randominteger c randominteger c randominteger f x c x c x c f n n n defer sum f n n c sum n text c f n seems like using defer correctly fix

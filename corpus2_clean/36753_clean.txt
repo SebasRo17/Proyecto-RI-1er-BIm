@@ -1,0 +1,1 @@
+use epilog inset within plot coordinate specified within inset match plot axis scale plot x x epilog inset text plot epilog inset note text placed x different thing happens inset used within logplot logplot x x x epilog inset text logplot epilog inset coordinate still text positioned appears respect axis coordinate counter thanks advance r

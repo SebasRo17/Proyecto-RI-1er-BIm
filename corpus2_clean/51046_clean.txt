@@ -1,0 +1,1 @@
+mkdirs make directory structure equivalent mathematica want specify something like dir dir dirn want mathematica create directory structure dir dir dirn

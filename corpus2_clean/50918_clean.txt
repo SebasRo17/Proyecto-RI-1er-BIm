@@ -1,0 +1,1 @@
+trying get fourier series function work square wave duty cycle ie rectangular wave squarewave period duty unitbox mod period duty xx squarewave plot xx background gray curvexx fouriertrigseries xx plot curvexx background gray code set squarewave check plotting alright far take fourier series check plotting wrong go wrong

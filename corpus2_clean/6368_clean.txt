@@ -1,0 +1,1 @@
+use wolfram workbench get kernellink object evaluate simple expression like know export package execute function java code please show example

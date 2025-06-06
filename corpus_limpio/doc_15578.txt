@@ -1,1 +1,0 @@
-removed ide drive reformated two scsi disk use boot disk system run windows fine enhanced mode meg ram adaptec bios enabled system runs fine runs windows standard mode fine returns dos prompt trying run mode ive tried emmexclude sysrombreakpoint gives thanks advance hal

@@ -1,0 +1,1 @@
+bit trouble making parametricplot two curve defined two function p g clear p g g solns solve p p p p p g p p p p solns notice function p take value certain plot g p however using command parametricplot g p give random curve x axis value x axis also going leq leq x component defined g could anybody tell going show make actual parametric plot thanks advance

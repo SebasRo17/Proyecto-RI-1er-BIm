@@ -1,0 +1,1 @@
+trying use get load pretty substantial package custom menu mathematica toolbar added via menusetup tr problem standard second evaluation timeout seems apply command executed kernelexecute fraction get evaluated command time wondering whether option passed kernelexecute item menuitem remove time constraint command executed completely

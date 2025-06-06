@@ -1,0 +1,1 @@
+binarized image mathematica would like generate list coordinate cluster pixel connected moore neighborhood e g c c c c c n k coordinate k th pixel n th set pixel connected moore neighborhood simple way proceed mathematica image analysis tool set

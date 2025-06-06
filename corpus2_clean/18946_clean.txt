@@ -1,0 +1,1 @@
+trouble using outputresponse instance consider following command simplify chop outputresponse transferfunctionmodel systemsmodellabels none none unitstep output zero version mac zero transfer function result feedback connection series connection two transfer function missing many thanks ed

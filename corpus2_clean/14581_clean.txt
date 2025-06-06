@@ -1,0 +1,1 @@
+getting error syntax sntunc unicode longname string unterminated following astrosymbol name string tostring toexpression name something need wrap escape sequence avoid error

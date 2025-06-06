@@ -1,0 +1,1 @@
+way choose format size font within notebook particular cell go another cell default size font pt activated want font size stay constant throughout entire notebook go back need manually change hand example format size point

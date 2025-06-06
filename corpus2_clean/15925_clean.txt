@@ -1,0 +1,1 @@
+simplify c c transformationfunctions automatic e verbose version default behaviour transformation function actually get applied similarly fullsimplify documentation say default fullsimplify use reduce well would know else use use

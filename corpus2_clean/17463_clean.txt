@@ -1,0 +1,1 @@
+mathematica recurrencetable vector simple example recurrencetable x n x n x x n output want something similar instead multiplying want multiple element x n different number example one would think would work recurrencetable x n x n x x n since time listable get error recurrencetable excptn value numerical exception get result using mapthread etc thought

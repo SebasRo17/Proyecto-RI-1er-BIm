@@ -1,0 +1,1 @@
+trying implement sparsearray using function give condition different matrix element would need function f instead mod mod would like f f f function f exist

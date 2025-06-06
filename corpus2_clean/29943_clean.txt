@@ -1,0 +1,1 @@
+new mathematica probably small error figure code dialoginput textcell choose folder inputfield dynamic x filenamesetter dynamic x directory defaultbutton dialogreturn x click browse button nothing happen click ok file system browsing window appears

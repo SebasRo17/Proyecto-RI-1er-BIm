@@ -1,0 +1,1 @@
+need use mathematica find solution x epsilon sin power series term epsilon assume need create equation f x epsilon sin express epsilon sum n n epsilon n input series seem get work help would appreciated

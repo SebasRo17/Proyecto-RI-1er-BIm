@@ -1,0 +1,1 @@
+simple way enter decimal number mathematica interprets exact rational number

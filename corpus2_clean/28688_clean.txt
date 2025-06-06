@@ -1,0 +1,1 @@
+need numerical value pdf file like one mathematica graphic use usual import command pdf import page image mathematica used import numerical value pdf

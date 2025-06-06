@@ -1,0 +1,1 @@
+list integer choose n random number replacement list example list list routine find sublists element within list case sorted generally true small program working less general slow something done code l module h takewhile l l drop h sort randomchoice range table length

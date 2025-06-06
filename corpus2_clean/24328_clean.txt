@@ -1,0 +1,1 @@
+need write c c program call function mathematica especially like solve ndsolve problem mathematica documentation seems mention plenty detail regarding create c function call within mathematica case need opposite maybe read well explain

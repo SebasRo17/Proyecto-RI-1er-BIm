@@ -1,0 +1,1 @@
+developing package contains function requires evaluation expensive table use paralleltable instead work correctly always give error message repeatedly kernel like table iterb iterator mypackage private mypackage private nsrc appropriate bound avoid error need distribute variable explicitly

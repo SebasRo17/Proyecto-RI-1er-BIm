@@ -1,0 +1,1 @@
+time k matrix c length k vector v want form time k matrix ij c ij v j numpy simply divide two object like c v fails mathematica efficient way

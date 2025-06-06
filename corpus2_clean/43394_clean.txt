@@ -1,0 +1,1 @@
+adjusted code accordinly advice got however still problem code look like ndsolve r f r r r r f r r r f f f r f r f f r f r r co piecewise true r f f f r r f f f r f maxstepfraction run get following error message ndsolve ndsz step size effectively zero singularity stiff system suspected please anyone help

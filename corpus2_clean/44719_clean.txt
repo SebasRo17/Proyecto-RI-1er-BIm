@@ -1,0 +1,1 @@
+want work formal vector space spanned integer triplet v text span b c b c mathbb n mathematica addition example input instead getting calculated entrywise would like mathematica return simplest way implement

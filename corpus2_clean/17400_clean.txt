@@ -1,0 +1,1 @@
+two tensor arbitrary equal rank n equal dimension b want get third tensor rank n c want element element join element corresponding element b contracted list c example n b b b b b c b b b b think might doable combination inner list sure

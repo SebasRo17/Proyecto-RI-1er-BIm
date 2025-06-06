@@ -1,0 +1,1 @@
+string variable want obtain another string contains representation string variable content n b need get string containing exact character including escape character r n b function output similar repr n b python function make attempt return string would yield object value passed eval

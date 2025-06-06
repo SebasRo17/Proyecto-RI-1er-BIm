@@ -1,0 +1,1 @@
+large table triplet whose structure list table b randomreal b would like search list looking closest entry labeled b given input x return associated third item triplet give example x would like return triplet c c associated random real table tried using nearest structure table seem compatible search

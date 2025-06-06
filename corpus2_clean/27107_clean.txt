@@ -1,0 +1,1 @@
+problem writing mathematica function requested show result experiment measurement uncertainty mu like measurementvalue mu number ought rounded precision given two significant digit mu example getting proper format mu simple numberform mu idea round properly measurement value finally want write function return proper format value mu output

@@ -1,0 +1,1 @@
+set statement sol ndsolve f f f f f f f f dfend numericq f sol sol findroot dfend plt plot evaluate f sol sol plotstyle red thick plotrange working fine want loop beta start let say increase everytime till block code executed use show plt plt plt command add every graph done

@@ -1,1 +1,0 @@
-newly pixel could set bitmap mask clear bitmap draw rectangle deleted gxor draw one stay gxclear gxxor entire pixmap screen note pretty effective way animation ever need replace gxclear gxxor joe hildebrand hildjjfuentezcom software engineer fuentez systems concepts

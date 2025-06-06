@@ -1,0 +1,1 @@
+enter expression like b shown want e entered case variable sorted alphabetically entering e g b get b output make harder read complex expression like avoid also includes difference inside expression prevent placing negative positive maybe good idea would somehow tell mathematica prefer sorting variable minimizes length expression

@@ -1,0 +1,1 @@
+trying solve heuristic search mathematica get list succesor node called open two node heuristic value e g open node node h node node hi noden noden hn need select two firts element matter order heuristic lower following code used sort element first item sort open try select case first second number heuristic value lower select open return list open choose lower heuristic thanks

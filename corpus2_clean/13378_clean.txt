@@ -1,0 +1,1 @@
+trying plot x b x c b c x take range value tried parametricplot x x b x c x b c parametricplot handle two parameter work around us findinstance really slow rangeplot eq equal x xmin xmax ymin ymax var list constraint regionplot findinstance constraint eq var x xmin xmax ymin ymax rangeplot x b x c x b c b c result rangeplot better way

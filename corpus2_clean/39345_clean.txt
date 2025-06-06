@@ -1,0 +1,1 @@
+evaluating lim z e pi n frac z e pi n z n mathematica limit z exp n z n z exp n mathematica return correct example setting n get nonzero result n limit z n z exp n z exp n went wrong mathematica assuming something value n

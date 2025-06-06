@@ -1,0 +1,1 @@
+let suppose function f x want approximate using pade expansion decide would maximum number term used way mathematica find degree numerator denominator order best approximation given range x manually one could expect quite tedious help suggestion really appreciated

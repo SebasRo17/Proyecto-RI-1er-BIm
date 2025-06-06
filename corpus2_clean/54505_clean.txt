@@ -1,0 +1,1 @@
+density plot example densityplot sin x x pi pi would like collect point densityplot file always use listdensityplot draw point may draw point software read several post plot generalize densityplot

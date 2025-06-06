@@ -1,0 +1,1 @@
+used contourplot plot graph x sin pi co pi x following input eqn x x sin pi co pi x contourplot evaluate eqn x x pi pi find dy dx used following code yprimeeq eqn x x x sol solve yprimeeq x simplify dydx x first sol x stuck finding slope tangent line graph know plug x know write mathematica

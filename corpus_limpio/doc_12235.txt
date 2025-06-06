@@ -1,1 +1,0 @@
-ive tried compiling several sparcstations gcc fixing bugs missing constant definitions plus couple things got compile link starting client server get black window sometimes client core dumps sometimes server sometimes get broken pipe sometimes sits nothing although occassionally get cursor become crosshair dogfight thats ive sent word author plus fix last week reply yet

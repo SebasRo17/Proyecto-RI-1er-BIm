@@ -1,0 +1,1 @@
+ode system like specify vector equation ndsolve clear use whenevent system specified way ultimately like whenevent change value one state variable vector equation reach threshold example following code work whenevent applying conditional test list value replacing also work sol ndsolve whenevent idea anyone

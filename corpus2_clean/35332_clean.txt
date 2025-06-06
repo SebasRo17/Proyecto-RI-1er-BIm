@@ -1,0 +1,1 @@
+problem following let c list coordinate say c x x xn tensor possibly symmetry defined using array command e g tensor covariant component array tt dim dim dim dim n want declare every component function coordinate unfortunately command like array tt x x xn dim dim dim work suggestion

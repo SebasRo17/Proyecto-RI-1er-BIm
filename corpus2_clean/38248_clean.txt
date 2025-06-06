@@ -1,0 +1,1 @@
+want export data three dimensional histogram format x z blank line different line one plot histogram gnuplot simply using splot data dat u w l right way obtain

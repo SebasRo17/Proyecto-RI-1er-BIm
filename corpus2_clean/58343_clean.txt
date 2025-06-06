@@ -1,0 +1,1 @@
+trying evaluate partial derivative function f x point e limit limit f x x n x x however higher derivative find fails evaluate limit hand use series function series f x x x n produce coefficient problem question difference two method series assuming missing manually derivative

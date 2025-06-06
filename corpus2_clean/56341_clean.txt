@@ -1,0 +1,1 @@
+list style data b c e f b c e f need delete element b equal b test b list use element used deleteduplicates deleteduplicates data know method give correct result tested small amount data list element minute running without success efficient method

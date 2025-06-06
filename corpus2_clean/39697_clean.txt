@@ -1,0 +1,1 @@
+find detailed information algorithm used mathematica especially numerical method manual seem iclude specific case example get different lu decomposition matrix using mathematica ludecomposition implement crout algorithm even thought believed standard unique solution

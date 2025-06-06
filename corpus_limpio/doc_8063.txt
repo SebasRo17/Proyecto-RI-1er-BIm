@@ -1,1 +1,0 @@
-factory testing slot test rig connects connector verifies proper board operation

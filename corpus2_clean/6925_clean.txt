@@ -1,0 +1,1 @@
+make plot like plot exp x x resulting plot look like exp plot near notice tick x axis labeled way increase precision tick label tick labeled something like etc

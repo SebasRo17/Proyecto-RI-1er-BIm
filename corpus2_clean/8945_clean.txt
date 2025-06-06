@@ -1,0 +1,1 @@
+seems deletecases compatible string pattern least directly see example question true case seems earlier question really address example suppose list string want delete string contain letter x deletecases ab axb x give undesired output ab axb one workaround select ab axb stringmatchq x give correct output ab deletecases ab axb x work

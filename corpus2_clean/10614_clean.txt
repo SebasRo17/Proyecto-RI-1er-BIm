@@ -1,0 +1,1 @@
+need find eigenvalue time real symmetric matrix given also n periodic boundary condition used diagonal element zero also diagonal element non zero unequal real number according said matrix sparse numeric mathematica

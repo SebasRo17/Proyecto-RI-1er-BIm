@@ -1,0 +1,1 @@
+one pick menu option format edit stylesheet one open default nb link newly opened notebook header read deafult nb style definition one navigates page header stay place however none header style defined default nb produce specific header style produce type static header menu command dock cell

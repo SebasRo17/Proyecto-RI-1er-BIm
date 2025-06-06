@@ -1,0 +1,1 @@
+plotrange option list table x exp sqrt x x listloglogplot list plotrange joined true work although error output hold listloglogplot

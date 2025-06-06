@@ -1,0 +1,1 @@
+want make simple interactive user interface like gui user click add edge button edge specified fiels added graph new graph may new layout want make animation old new graph see question answer question example found change graph plot change input without waiting click user know add edge graph generate frame animation rest

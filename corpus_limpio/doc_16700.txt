@@ -1,1 +1,0 @@
-thanks got two sources well full quote follows dorothy denning cryptography data security addisonwesley page cryptosystems must satisfy three general requirements enciphering deciphering transformations must efficient keys system must easy use security system depend secrecy keys secrecy algorithms e enciphering deciphering mike

@@ -1,0 +1,1 @@
+let say sphere n dimension x x x n r want know projection x x plane case figure circle get mathematica projection plot course need apply complicated case n dimensional surface simple defined implicitly f x x n hope forgot much math school asking mathematica

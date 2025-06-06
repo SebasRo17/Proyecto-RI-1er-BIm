@@ -1,0 +1,1 @@
+new mathematica interested solving following bvp epsilon x experience coding although read mathematica documentation still bit confused think understand dsolve actually give plot

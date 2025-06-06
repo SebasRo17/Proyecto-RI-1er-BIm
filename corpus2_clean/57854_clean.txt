@@ -1,0 +1,1 @@
+solved two ode function numerically first ode vertical equation motion second one horizontal equation motion tried find path equation used parametricplot plot path want equation path express using solution ode point question follows assuming solved ode numerically got answer like interpolatingfunction approximate function calculus g ndsolve g q q q q q

@@ -1,0 +1,1 @@
+possible duplicate generating graph interactively gui plot graph possible manipulate vertex move attached edge follow one option tried change graph graphic object edge vertex lose sense connected

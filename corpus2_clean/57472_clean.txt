@@ -1,0 +1,1 @@
+reading studying book algebraic curve trying find way mathematica help following book isbn x allows use ca program question many time two given curve intersect origin quad quad x rewrite x quad b quad x x view curve using contourplot x x x x however idea find multiplicity zero origin really stuck

@@ -1,0 +1,1 @@
+following code generates familiar plot manipulate plot sin x co x colorfunction temperaturemap however approximately minute pressing play button mathematica crash noticed memory usage increased gb crashed run macbook pro ghz gb anyone replicate problem

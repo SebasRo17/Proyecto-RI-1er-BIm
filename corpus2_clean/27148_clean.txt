@@ -1,0 +1,1 @@
+notebook take user defined function starting value track orbit particle iteration function problem occurs user enters starting value orbit go infinity f x x x get error message general ovfl catch

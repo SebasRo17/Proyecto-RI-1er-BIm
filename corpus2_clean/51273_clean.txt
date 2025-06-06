@@ -1,0 +1,1 @@
+extract path subgraphs p undirected graph g want list vertexnames subgraphs order connected example g graph vertexlabels name imagepadding h subgraph g vertexlabels name imagepadding highlightgraph g h vertexlist h graphimage vertexlist h always give vertex name order specified line possible extract vertex name order connectivity given example give reverse instead

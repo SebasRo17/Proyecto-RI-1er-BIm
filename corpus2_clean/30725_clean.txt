@@ -1,0 +1,1 @@
+compact way represent constraint nmaximize b c b c b c like x b c x something

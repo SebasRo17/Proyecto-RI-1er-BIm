@@ -1,0 +1,1 @@
+test case data randomreal po randominteger r replacepart data po absolutetiming data po absolutetiming data r null null true similar matlab code take second tic rand po randperm e po toc elapsed time second looking efficient way

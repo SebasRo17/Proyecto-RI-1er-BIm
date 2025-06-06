@@ -1,0 +1,1 @@
+write following code recursion equation work correctly rsolve p n n p n p n n p sum k k n n n

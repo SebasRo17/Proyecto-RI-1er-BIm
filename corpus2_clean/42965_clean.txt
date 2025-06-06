@@ -1,0 +1,1 @@
+anyone confirm using win bit connecting sql server db fetch datetime column sqldatetime object contain entry integer fractional second component fetch date sqldatetime object contain integer fetch time column integer entry even though column contains time millisecond component zero

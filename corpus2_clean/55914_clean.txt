@@ -1,0 +1,1 @@
+native way implement multi core parallel solving pde wolfram mathematica wm support finite element method actually useless without parallelization usually pde system heavy one solves using one core sort domain decomposition way parallelize calculation

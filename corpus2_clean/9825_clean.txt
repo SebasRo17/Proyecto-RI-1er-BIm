@@ -1,0 +1,1 @@
+matlab offer function polyeig computing polynomial eigenvalue appear instance quadratic eigenvalue problem see application begin equation lambda r lambda k x end equation r k matrix realistic way accomplishing mathematica realistic mean one actually employ specialized algorithm p anyone wolfram reading perspective whether may appear future release mathematica

@@ -1,1 +1,0 @@
-menu definition put quit twm ffunction execute quit define function execute quit someprogram fquit barry margolin system manager thinking machines corp

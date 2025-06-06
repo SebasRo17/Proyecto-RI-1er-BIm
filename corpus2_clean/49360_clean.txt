@@ -1,0 +1,1 @@
+would like create contour plot e z dfrac z z look like picture left manage one right tried incrreasing number contour effect missing something fundamental show table contourplot im e x x x k e x x x k x contourstyle directive red directive blue plotpoints contour aspectratio automatic k plot trying recreate website specific pdf

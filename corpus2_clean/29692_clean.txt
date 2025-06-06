@@ -1,0 +1,1 @@
+complex function f x want plot contour f x order contour plot v x want treat real variable x complex one thanks much

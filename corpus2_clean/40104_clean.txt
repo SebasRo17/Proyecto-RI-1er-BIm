@@ -1,0 +1,1 @@
+currently trying use element matrix defining function however trouble somewhat simplified version problem say matrix sin x co x tan x arctan x want define function term first element would go tried f x seems work try evaluate value x return sin x help would much appreciated

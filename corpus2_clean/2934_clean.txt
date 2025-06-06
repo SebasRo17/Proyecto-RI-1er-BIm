@@ -1,0 +1,1 @@
+data data c b b c use sort data get list ordered incremental order first column last third suppose want first column increasing order second decreasing order third increasing order tried sort sortby work output b b c c probably simple question apparently obvious

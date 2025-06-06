@@ -1,0 +1,1 @@
+say following datalist one two piechart datalist chartlabels datalist plotlabel test plot pie chart displayed correct distribution chart label displayed output datalist one two one two also tried following chartlabels tostring datalist outcome thanks advance help

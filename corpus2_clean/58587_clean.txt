@@ -1,0 +1,1 @@
+tried create adjustable b zier curve following simple code however curve show problem please help pt bez bezierfunction pt manipulate show graphic red point lo green line lo ax true parametricplot bez lo imagesize lo pt locator enter image description

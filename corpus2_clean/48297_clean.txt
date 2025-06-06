@@ -1,0 +1,1 @@
+see contourplot show x z axis default mean inside graph tried adding axis true call make effect

@@ -1,0 +1,1 @@
+suppose table tab display using grid possible force column equally spaced column width data discarded hidden view tab aaaa b spanfromleft spanfromleft spanfromleft grid tab frame none none true true gridcolumn

@@ -1,4 +1,0 @@
-
-	window = XCreateWindow(...);
-	XSetTransientForHint(display, window, window);
-	XMapWindow(...);

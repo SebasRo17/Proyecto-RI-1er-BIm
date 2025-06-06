@@ -1,0 +1,1 @@
+wondering handle following situation vector known dimension would like handle symbolically suppose something like avec array bvec array b equation also scalar represent norm vector e norm avec suppose write expression like expr avec avec bvec would like mathematica whenever avec avec encountered replace whenever avec bvec encountered leave symbolic expand element vector achieve

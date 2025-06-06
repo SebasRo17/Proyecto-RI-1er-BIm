@@ -1,1 +1,0 @@
-clarify little soundexe selfexpanding archive contains driver actually called speakerdrv think

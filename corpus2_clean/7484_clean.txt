@@ -1,0 +1,1 @@
+working research problem discrete geometry sphere packing believe able reduce finding solution diophantine equation n frac x z text n x z mathematica attempted use findinstance command order find solution finite number way define domain accepts real integer etc domain way around findinstance x z x z idea would use find instance solution domain undefined

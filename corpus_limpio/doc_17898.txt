@@ -1,1 +1,0 @@
-anyone tell get total number color cells allocated default colormap eg colormap defaultcolormapmydisplay myscreen maximum number allocated cells given defaultcellsmydisplay myscreen general number cells actually allocated much less depending color requirements windows currently place id like way determine number thanks advance derek

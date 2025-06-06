@@ -1,0 +1,1 @@
+create colour chosen hue given fixed lightness level example create reddish colour col colorconvert col grayscale return precisely graylevel mathematica something built assist need read colour converted various representation note b value hue h b correspond graylevel value need precise control certain colour use look like converted greyscale

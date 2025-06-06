@@ -1,0 +1,1 @@
+trouble one plot trying make using ndsolve system differential equation plot parametricplot scale length graph ax come unsatisfactory way set minimum maximum range ax using parametricplot

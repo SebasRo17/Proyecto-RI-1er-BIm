@@ -1,0 +1,1 @@
+problem unevaluated derivative example code need integration wrt evaluated differentation wrt x need stay unevaluated see point exactly purpose inactive hold function differentiated would like know workaround extract anything dependent x inactive derivative help would highly appreciated integrate co inactive co f x inactive f x x x pi

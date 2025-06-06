@@ -1,0 +1,1 @@
+need construct symbolic hermitian matrix like n b b conjugate n b b able set variable n b order obtain hermitian matrix tried assumption hermitianmatrixq give false result need cholesky decomposition matrix

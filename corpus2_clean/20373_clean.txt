@@ -1,0 +1,1 @@
+default large number displayed scientific form output like x mathematica would prefer number accounting form like output change default output number form scientific form accounting form

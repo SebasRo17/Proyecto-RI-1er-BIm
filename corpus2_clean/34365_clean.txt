@@ -1,0 +1,1 @@
+trying plot solution system equation function parameter manipulate quiet sol solve ka p l l pll p p pll r p l pll p l pll complex x pll sol r x plot hold evaluate complex r r hold evaluate complex r r release r plotstyle red blue ka p plot gap eliminate enter image description

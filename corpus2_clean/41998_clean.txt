@@ -1,0 +1,1 @@
+use mathematica version mata diagonalmatrix constantarray matb normal sparsearray band band band mata matb give e eigenvalue matb mata give error eigenvalue exnum eigenvalue received matrix non numerical exact element e eigenvalue n matb mata give answer question would e give error matrix numerical understand n matb mata needed get eigenvalue

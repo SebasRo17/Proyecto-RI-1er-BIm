@@ -1,0 +1,1 @@
+need generate plot function say z sin x co contour line drawn specified interval also want label contour line z value discovered superimpose contour line graph thanks post adding contour line plot however still cannot figure label contour line z value done

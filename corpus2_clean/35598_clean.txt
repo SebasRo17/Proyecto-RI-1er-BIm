@@ -1,0 +1,1 @@
+need compute linearised einstein equation around fixed metric g mu nu flat metric someone know mathematica package review help

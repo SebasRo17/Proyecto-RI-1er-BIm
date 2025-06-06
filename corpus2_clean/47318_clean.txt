@@ -1,0 +1,1 @@
+new mathematica could use help trying plot function generates recursionlimit exception wondering g g g j g j h j h h plot g x x recursionlimit reclim recursion depth exceeded evaluating g h j work fine idea would much appreciated

@@ -1,0 +1,1 @@
+w vra sin w vrb sin w vrc sin w ia sin w ib sin w ic sin w v sign vra ia sign vrb ib sign vrc ic plot v plot dispaly surface v show three dimensional ax please help

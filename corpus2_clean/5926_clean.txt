@@ -1,0 +1,1 @@
+complex function single variable expressed analytical form also depends parameter would like mathematica show value parameter real part second derivative function always positive strictly speaking maybe given much detail real part derivative stuff ultimately inessential want mathematica tell choice parameter real function positive everywhere hope question clear though

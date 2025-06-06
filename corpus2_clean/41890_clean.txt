@@ -1,0 +1,1 @@
+seen couple similar question able figure solution particular problem probability density function two variable p x v interpolating function really want generate set random x v value based distribution tried dist probabilitydistribution p x v x v randomvariate dist get error randomvariate noimp sampling probabilitydistribution implemented idea get working

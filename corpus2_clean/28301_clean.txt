@@ -1,0 +1,1 @@
+running older mathematica v seems go edge graph twice bug fixed latest version please try command graphplot edgerenderingfunction true print e black vertexrenderingfunction true print v black v e none e none e none e none e none e none v v v

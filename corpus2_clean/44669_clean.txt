@@ -1,0 +1,1 @@
+want compute exact solution heat equation got error u x equation transmition heat solution differential equation du dt alpha u dx u x g x x u u alpha computed pde u x u x x dsolve pde u x x u u u x x however got error dsolve dsvar u cannot used variable wrong thanks help

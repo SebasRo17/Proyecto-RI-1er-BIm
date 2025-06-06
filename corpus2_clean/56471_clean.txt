@@ -1,0 +1,1 @@
+series rule would like apply series expression variable cannot get mathematica correctly recognize rule apply variable exponent example let suppose know b b b c b b c work fine try b b b general rule good deal complicated problem always get mathematica recognize correctly applies reduction rule

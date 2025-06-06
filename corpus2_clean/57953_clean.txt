@@ -1,0 +1,1 @@
+problem defined simple list function like lst f lst floor drew plot plot f x x work fine calling logplot logplot f x x following error appears plot part pspec part specification floor x neither machine sized integer list machine sized integer anyone suggest going deal error thank advance

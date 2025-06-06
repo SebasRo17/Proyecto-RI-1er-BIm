@@ -1,0 +1,1 @@
+want increase number minor tick plot want label searched site also mathematica documentation find solution yet could anyone please tell example plot sin x x frame true frameticks true true false false ax true axesorigin want get minor tick mark major tick mark axis output plot

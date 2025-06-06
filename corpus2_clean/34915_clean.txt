@@ -1,0 +1,1 @@
+c program output set number time step blank line separate successive time step example data format want import mathematica following format data e data time step one list

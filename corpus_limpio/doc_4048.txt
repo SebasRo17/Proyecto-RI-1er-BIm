@@ -1,1 +1,0 @@
-assume literally trying create widget type textwidgetclass use asciitext widget instead jim

@@ -1,0 +1,1 @@
+system recursive equation x f x p p g p x h x p want evaluate initial condition variable tried several possibility like table x p x p range extremely slow mwe might given x x p p x p x p x p x p command table x p x p range generate output slowly noticed calculate value put value initial condition x p manually redo code repeat work much much faster way automatize

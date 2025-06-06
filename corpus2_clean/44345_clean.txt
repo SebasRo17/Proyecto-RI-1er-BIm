@@ -1,0 +1,1 @@
+given following connection sql query work data come wrong data table sqlselect conn col col sqlcolumn col n sqlcolumn col n use table function get expected result inserting actual number running query need create x table data obviously large data set impractical key export piece piece suggestion

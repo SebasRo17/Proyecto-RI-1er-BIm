@@ -1,0 +1,1 @@
+possible use stringexpression pattern argument e something like foo char wordcharacter num numberstring char num moment using somewhat convoluted function like bar str string stringmatchq str char wordcharacter num numberstring stringcases str char wordcharacter num numberstring char num

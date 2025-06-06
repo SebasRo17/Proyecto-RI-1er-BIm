@@ -1,0 +1,1 @@
+continuing question posted earlier would like find equation stable fixed point curve using graph e curve somehow find equation x f x trying using solve keep getting error would also like find value bifurcation begin e becomes unstable look like f c x x c c take nestlist f c plotdata table flatten listplot plotdata plotrange frame true ax true

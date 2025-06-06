@@ -1,0 +1,1 @@
+trying simulate fraunhofer diffraction single slit using densityplot run code densityplot sinc plotpoints colorfunction graylevel aspectratio frame false get image great like coloring based red scale lightest area bright red corresponds nm ne laser following image show type red scale like mimic red diffraction jpg thanks

@@ -1,0 +1,1 @@
+problem working requires compare several list overlapping data point traverse one list like compare data list one efficiently especially must done potentially hundred time obviously control order make comparison method would work limit number time done necessarily guarantee order drop take could used interested know fastest method something else

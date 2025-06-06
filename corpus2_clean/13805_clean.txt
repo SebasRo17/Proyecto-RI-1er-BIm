@@ -1,0 +1,1 @@
+possible duplicate generating table content create dynamically self updating table content notebook toc contain title section subsection subsubsection etc self update new section added existing one changed dynamic self updating part may loosen question hard e function ran generate toc manually copy

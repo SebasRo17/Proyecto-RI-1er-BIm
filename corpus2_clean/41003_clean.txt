@@ -1,0 +1,1 @@
+two list v v element list may positive negative want create list v whose entry v v posive otherwise v trivial way implement use loop faster way tried using logical operator vp boole positive v vn boole negative v v vp v vn v tought using logical operation would faster going index instead slower would fast way

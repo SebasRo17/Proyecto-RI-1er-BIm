@@ -1,1 +1,0 @@
-stuff gfxshow aminet sites includes utility called filter hamlab handle commonly used kinds pic clp files biggest problem clp files dont usually contain palette need convert pic right palette first creates rampicpal file convert clp files

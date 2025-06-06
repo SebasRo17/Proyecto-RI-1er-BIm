@@ -1,0 +1,1 @@
+difference output following code first clearall global b sqrt sqrt c b reduce euclideandistance euclideandistance b c sqrt sqrt real reduce euclideandistance euclideandistance b c real sqrt

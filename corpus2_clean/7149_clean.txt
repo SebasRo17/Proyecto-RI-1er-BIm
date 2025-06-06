@@ -1,0 +1,1 @@
+using iterative arithmetic calculate wave propagation help nestlist use small step size iteration guarantee accuracy lead much data e g point plotting result consumes much memory clever way cope intend use loop simplified example nestlist sin one idea use sow reap idea integrate nestlist nest idea

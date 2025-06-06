@@ -1,0 +1,1 @@
+sometimes loop accidentally made big evaluate mm try run entire loop program actually seem frozen go evaluation abort interrupt evaluation anything even save seems kind work saving closing file going evaluation quit kernel little ridiculous really hard kill thank

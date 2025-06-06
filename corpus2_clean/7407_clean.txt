@@ -1,0 +1,1 @@
+background want make jigsaw image simple one piece polygon following strategy mind create set polygon assign image original image texture set texture coordinate know documentation lena example use image texture chopping image part assign part texture feasible strategy following question question given image size width height slice n piece size width n height n

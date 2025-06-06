@@ -1,0 +1,1 @@
+given data titanic exampledata dataset titanic association query work titanic newkey age numeric symbol key titanic age titanic newkey age fail error missing keyabsent known issue numeric key especially conveninent multiple parametrized query currently requires workaround keymap tostring later back toexpression

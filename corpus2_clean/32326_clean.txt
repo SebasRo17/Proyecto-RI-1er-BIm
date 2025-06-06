@@ -1,0 +1,1 @@
+possible add celllabel multiple line trying code setoptions notebookselect mb celllabel column line line cell selected mb notebook nothing show solution thanks

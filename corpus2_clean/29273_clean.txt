@@ -1,0 +1,1 @@
+run problem ordered array set coordinate example orderedarray note element first contain single coordinate need fill blank e position via interpolation procedure would best way reading instruction interpolatingpolynomial example playing around bit immediately clear ideally like able specify gap filled assuming linear curve polynomial order

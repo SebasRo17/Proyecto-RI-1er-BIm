@@ -1,0 +1,1 @@
+wanted know crop manipulator plot code plot z z x manipulate popupwindow graphic discreteplot sin pi pi extentsize full imagesize scaled x aspectratio z z openerview vertical control manipulator controlplacement bottom tried using export import function working fine imagecrop import export test gif graphic wanted know way think export import take lot time execution

@@ -1,0 +1,1 @@
+exercise power programming mathematica wagner need function take function variable argument like critpts f x rh got something like derivative f x condition end want something generate list rule like x describe value critical point example would function worked mean something like critpts x x would generate something like x even know generate list rule

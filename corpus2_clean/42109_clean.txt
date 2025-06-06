@@ -1,0 +1,1 @@
+assuming element n integer integrate sin x sin n x x pi return obviously wrong n assuming n integrate sin x sin n x x pi return pi particular evaluating integral yield sin n pi n indetermined n someone explain mathematica obtain correct result

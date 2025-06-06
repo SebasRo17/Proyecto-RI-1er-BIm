@@ -1,0 +1,1 @@
+multiplying three matrix give diagonal matrix instead zero entry get small number someone explain going fix p inverse p

@@ -1,0 +1,1 @@
+would like know implementation function nextprime would look like implemented mathematica core language

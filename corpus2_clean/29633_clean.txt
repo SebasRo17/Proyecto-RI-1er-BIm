@@ -1,0 +1,1 @@
+simple scenario see bezier function know polynomial approximate pt graphic beziercurve pt green line pt red point pt

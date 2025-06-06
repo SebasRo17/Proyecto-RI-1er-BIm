@@ -1,0 +1,1 @@
+happened file infile test data txt outstr openwrite infile instr openread infile read instr record close instr content test data txt lost

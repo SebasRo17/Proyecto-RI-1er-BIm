@@ -1,0 +1,1 @@
+got following opencl function kernel void mergesort global const float global float local float aux try call receive internal error openclfunction invprop opencllink encountered invalid property allocated memory openclmemoryallocate float remove local kernel executed kernel work fine standalone c application thx

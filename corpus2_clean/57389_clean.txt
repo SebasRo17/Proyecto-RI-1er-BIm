@@ -1,0 +1,1 @@
+presume spectrum function wavelength example blackbody spectrum enter image description want convert single rgb color display screen e color object would appear eye googling see way matrix transformation single wavelength hoping someone already solution coded mathematica arbitrary input spectrum

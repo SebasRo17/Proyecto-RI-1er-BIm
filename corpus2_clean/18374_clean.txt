@@ -1,0 +1,1 @@
+numerically solving ode equation kv e x kx sol ndsolve x x x need plot x versus time v versus time v versus x figured first two plot problem plotting v versus x e versus

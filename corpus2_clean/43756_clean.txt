@@ -1,0 +1,1 @@
+dynamicmodule n solns solve x n x myxvals x solns myarrows table arrow myxvals k im myxvals k k n mytext table text complexexpand x solns k myxvals k im myxvals k k n graphic red myarrows pointsize large blue point plotlabel style row style x italic n bold epilog mytext plotrange imagesize trying tranform using manipulate give n range able manipulate graph afterwards value

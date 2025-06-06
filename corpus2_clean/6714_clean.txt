@@ -1,0 +1,1 @@
+trying use weatherdata give sure temperature humidity wind speed cloud cover certain location want information weekday e g monday friday last year make list date format datelist datestring weatherdata use

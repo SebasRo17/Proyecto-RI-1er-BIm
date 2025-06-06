@@ -1,0 +1,1 @@
+use mathlink call mathematica c program opening mathematica close connection however know connection still debugging day find point thus want ask way close connection open new one seems like optimal solution ok thanks

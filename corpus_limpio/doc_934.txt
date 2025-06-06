@@ -1,1 +1,0 @@
-eps plain postscript wrapped comments stripped dubious commands compatibility simply save gsave showpage def include eps file grestore restore showpage end file way show natural page position size programs may use boundingbox comment eps file arbitrary scale rotate translate include complicated ways

@@ -1,0 +1,1 @@
+trying export data b spline function table excel tried exporting many different file type xl txt dat show excel data one cell currently successfully done showing plot data set ordered pair imported b spline fit data set f bsplinefunction data show listlineplot data plotstyle red parametricplot f would like export data b spline function way viewed table excel thank

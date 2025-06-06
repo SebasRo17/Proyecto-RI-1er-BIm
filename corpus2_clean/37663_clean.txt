@@ -1,0 +1,1 @@
+use mathematica check statement like left frac sqrt z z right le true complex number z also use mathematica check statement subset complex number example complex number imaginary part less zero

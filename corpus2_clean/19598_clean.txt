@@ -1,0 +1,1 @@
+two independent ode system ndsolve x b ndsolve b draw parametricplot one ode parametricplot evaluate x wonder draw parametricplot two independent ode system parametricplot x taken taken b

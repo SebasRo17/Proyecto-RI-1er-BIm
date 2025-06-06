@@ -1,0 +1,1 @@
+system resource file miscstrings tr template resource packagetemplate notebook cell boxdata rowbox beginpackage placeholder code cell boxdata rowbox begin private code cell boxdata rowbox end code cell boxdata rowbox endpackage code suppose also automatic way insert use template

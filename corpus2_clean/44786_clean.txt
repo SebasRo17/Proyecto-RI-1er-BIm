@@ -1,0 +1,1 @@
+example assume following code given f x block b sin x b co c b want change without much typing prepareab x sin x co f x block b b prepareab x c b functionality available workbench

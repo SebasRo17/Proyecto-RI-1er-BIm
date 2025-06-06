@@ -1,0 +1,1 @@
+double click right gutter input cell hide corresponding output cell double click gutter output cell hide input cell would like hide input output cell possible within gui

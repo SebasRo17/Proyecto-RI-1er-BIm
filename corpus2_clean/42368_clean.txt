@@ -1,0 +1,1 @@
+trying use colorfunction function plot want cubic equation change colour plot x x tanh x x plotrange ax false frame true frameticks none plotstyle darker green thick blue thick colorfunction function x x red black colorfunctionscaling false plotstyle thick code produce enter image description ideally would like displayed possible mathematica without using drawing tool

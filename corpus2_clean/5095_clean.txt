@@ -1,0 +1,1 @@
+function f x x k want iterate xn g xn time starting x keep last value want assign value function able use calculate iteration input constant k eg k k store corresponding value extracted k k table possible figure done stuck take nestlist f

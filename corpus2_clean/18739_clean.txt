@@ -1,0 +1,1 @@
+trouble generating plot solution differential equation always end blank ax clear global remove global x k x k g u v co theta v v sin theta soln dsolve x k x k g x x u v x simplify soln parametricplot x solution come fine graph always come blank sure making rookie mistake somewhere would appreciate someone point

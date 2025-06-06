@@ -1,0 +1,1 @@
+notebook evaluation certain cell produced hundred adjacent output cell using print need create list containing expression output cell element assign list variable without running evaluation could suggest way automate process avoid manually copying expression

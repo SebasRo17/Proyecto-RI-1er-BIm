@@ -1,0 +1,1 @@
+trying extract data table rlink generated rdataframe need rlink installr revaluate require datasets revaluate data airquality airquality revaluate data frame airquality rdataframe output would like extract goody like rnames rdata may work independently btw tableform rdataframe awesome tried messing around inputform got stuck extract rnames rdata etc standard mathematica list

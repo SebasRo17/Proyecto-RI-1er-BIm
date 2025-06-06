@@ -1,0 +1,1 @@
+tried following code change fieldsize make equal actual value menusize tried remove first delimiter actionmenu popupmenu flatten table delimiter lable ittration appearance popupmenu enabled true background rgbcolor fieldsize please tell change background color field

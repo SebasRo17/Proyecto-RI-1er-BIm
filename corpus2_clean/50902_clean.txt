@@ -1,0 +1,1 @@
+trying calculation parallel requires setting maxpiecewisecases small test case work maxpiecewisecases print maxpiecewisecases parallelevaluate maxpiecewisecases print maxpiecewisecases instead output evaluation kernel kernel kernel

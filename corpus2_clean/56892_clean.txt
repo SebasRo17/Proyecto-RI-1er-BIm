@@ -1,0 +1,1 @@
+solve following ode mathematical u dx u quad text c condition left frac u dx right x u x b left frac du dx right x w b c constant

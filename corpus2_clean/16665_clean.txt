@@ -1,0 +1,1 @@
+try edit inputfield using eventhandler mouseclicked inputfield editable tried like eventhandler inputfield dynamic mouseclicked print click inputfield print inputfield editable

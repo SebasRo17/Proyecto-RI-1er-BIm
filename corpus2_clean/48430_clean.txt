@@ -1,0 +1,1 @@
+trying simplify following expression frac n r p q n p n q p r q r n p n q p q frac n r n p p q frac p r q r p q put mathematica use fullsimplify nothing happens though would simpler express sum small fraction tried using apart also nothing could anyone recommend way force mathematica simplify expression like

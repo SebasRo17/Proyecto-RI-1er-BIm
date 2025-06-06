@@ -1,0 +1,1 @@
+want able plot z r using dsolve ndsolve something else tried clear bit thanks clearall global constant rho g patm gma mu r psat variable r equation pl rho g z patm eqn pb rho g z patm gma r eqn r psat pb rho g z patm r pb eqn z mu r pl pb r eqn eqn eqn eqn r z sol ndsolve eqn r pb z z

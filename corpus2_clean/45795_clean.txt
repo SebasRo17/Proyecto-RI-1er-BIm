@@ -1,0 +1,1 @@
+supose discrete function show st nd th value h want find maximun subset index function easily must prgram one

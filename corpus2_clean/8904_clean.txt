@@ -1,0 +1,1 @@
+trying export string matlab mat file possible straightforward way export file mat data number surrounding brace work get error message export type cannot exported mat format clue edit make little clearer like save matrix string mat file

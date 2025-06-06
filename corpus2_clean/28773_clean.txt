@@ -1,0 +1,1 @@
+set trig equation c c c constant excepted result c c c r c c c r c c c following code worked slow faster method eliminate c co sin b c co b sin c c co c sin r tan tan b tan c b c

@@ -1,0 +1,1 @@
+using mathematica physic research want minimize hamiltonian equation respect two variable also discretized problem single constraint plot result nminimize two variable end behavior one stable way making nminimize precise get stable solution

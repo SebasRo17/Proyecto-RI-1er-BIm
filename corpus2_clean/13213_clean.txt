@@ -1,0 +1,1 @@
+reason tick work arrayplot thread range aspectratio colorfunction rainbow plotrange frameticks none none none frame true plotrangepadding basestyle directive opacity fontfamily bitstream charter imagesize automatic

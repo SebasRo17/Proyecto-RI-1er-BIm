@@ -1,1 +1,0 @@
-say new thermostat sound

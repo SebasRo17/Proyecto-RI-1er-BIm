@@ -1,0 +1,1 @@
+trying use nonlinearmodelfit fit data data fit nonlinearmodelfit data b g x ea b g ea x give nonlinearmodelfit nrlnum function value n list real number dimension b g ea function using fit data get imaginary value value parameter force mathematica avoid value

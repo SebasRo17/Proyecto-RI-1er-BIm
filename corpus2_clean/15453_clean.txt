@@ -1,0 +1,1 @@
+question using logarithmic tick colorbar mathematica use package colorbarplot type density order show legend well default tick set tick problem data range cannot see intermediate value value large exponent two end range absorb colour one solution would logarithmic tick also negative value idea another solution without using colorbarplot would also welcome

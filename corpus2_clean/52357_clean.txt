@@ -1,0 +1,1 @@
+started using mathematica entered following manipulate contourplot x x x n x n got plot wanted incredibly small way make larger

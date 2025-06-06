@@ -1,0 +1,1 @@
+simple script saved file hello usr local bin mathematicascript script print hello world run file using math script hello file set executable hello window osx run mathkernel script hello print hello world terminal change print quotation mark

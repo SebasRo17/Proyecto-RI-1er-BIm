@@ -1,0 +1,1 @@
+want nmaximize expression example say f x x dot x x x subject constraint x x x x x x x x x certain number constraint constraint geq also know f x x dot geq literature available kind problem even problem complicated tried nmaximize nminimize problem give correct result expect nmaximize nminimize even say solution found tackle problem

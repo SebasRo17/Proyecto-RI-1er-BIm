@@ -1,0 +1,1 @@
+trying fit data exponential function exp b x c mathematica return fittedmodel use nonlinearmodelfit data exp b x c b c x help would gladly welcomed

@@ -1,0 +1,1 @@
+trying solve bvp problem u u u u u u u u eps phi inst map first ndsolve u x u x x u x eps u x eps u x u u u x method shooting startinginitialconditions u u plot evaluate x phi inst yet solution found problem ndsolve berr significant error boundary value residual returning best solution found know start

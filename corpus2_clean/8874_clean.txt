@@ -1,0 +1,1 @@
+physic report hand list two dimensional data point approximately form linear line want calculate best linear fit put data point linear fit line plot put name unit x axis possible put slope intersection best fit plot possible mathematica example data time displacement

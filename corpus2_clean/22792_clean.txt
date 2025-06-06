@@ -1,0 +1,1 @@
+create notebook createdocument set option visible false way tell still open without setting back visible outputnotebook createdocument visible false complication initial notebook object reference reassigned e create another document notebook object reference symbol outputnotebook createdocument later run code figure first outputnotebook invisible still open

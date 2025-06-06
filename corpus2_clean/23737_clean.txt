@@ -1,0 +1,1 @@
+function two variable f x would like restrict domain value x greater zero also want plot function restricted value tried use regionfunction function x work

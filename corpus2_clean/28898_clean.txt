@@ -1,0 +1,1 @@
+say list coordinate array like create new array pair nearest neighbor coordinate previous array place k point equispaced linear interval point example k would generate array nice one liner

@@ -1,0 +1,1 @@
+following problem given list polynomial p p pn variable x x n find list monic monomials q qm x x n matrix depend x x n p example taking p x x x x x b x c x x x possible solution x x x x x x x b c managed find long clumsy solution using lot replacement rule want know easy way something like many thanks advance

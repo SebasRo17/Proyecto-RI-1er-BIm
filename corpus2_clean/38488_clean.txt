@@ -1,0 +1,1 @@
+would like use mathematica perform optimization portfolio composed stock first part compute yield expected yield know finish optimization portf aapl ba ibm bmw de dis r pep brby l axp bti priceshift financialdata price month portf interested minimization portfolio variance e risk given return

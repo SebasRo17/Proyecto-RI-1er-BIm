@@ -1,0 +1,1 @@
+convenient method compute auc area curve metric quantifies receiver operating characteristic roc like shown enter image description data used build roc pair real value although data closed form polytope documentation area state polytope edge need unit length case general convenient way pas data nintegrate integration method eg trapezoid v interpolation appropriate roc auc problem

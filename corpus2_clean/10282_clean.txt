@@ -1,0 +1,1 @@
+trying create plot using listlineplot x axis represented logarithmic scale reversed larger value right side found scalingfunctions reverse reverse axis scalingfunctions log scale axis log scale two command work together anyone idea

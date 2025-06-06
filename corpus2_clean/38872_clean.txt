@@ -1,0 +1,1 @@
+would like output field something like following manipulate n x n x n x n x n x controltype inputfield output calculation combined

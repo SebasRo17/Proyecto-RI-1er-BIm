@@ -1,0 +1,1 @@
+possible using financialbond function calculate yield bond paying gradual coupon example bond maturity year pay first year next two finally last two actual price bond redeemed par know answer using timevalue cashflow function want know possible calculate straight financialbond function

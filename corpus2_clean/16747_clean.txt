@@ -1,0 +1,1 @@
+code making label used button expression build better way make label objection way set enabled true button becomes clickable application want anything clickable button stringjoin label tostring null background black basestyle white bold enabled false

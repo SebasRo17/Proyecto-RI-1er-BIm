@@ -1,0 +1,1 @@
+got follwing code add time empty list plotvals append plotvals l nmax output empty list case

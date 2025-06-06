@@ -1,0 +1,1 @@
+trying solve recurrence n n l l n l n l n l n l n n n n l n l using ode l dsolve x x l x x x x l x l x l x x x l work l possible maybe another way solve recurrence

@@ -1,0 +1,1 @@
+need construct vector similar v x x x x n x n make vector wisely

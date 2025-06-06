@@ -1,0 +1,1 @@
+nice way define output formatting expression product n k j n would like use something like however mathematica evaluate prod n k n neq j frac lambda n lambda n lambda work around moment adopted sum product exclusion prod n text deletecases range k j frac lambda n lambda n lambda

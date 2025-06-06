@@ -1,0 +1,1 @@
+lorenz code sol ndsolve x x x z x z x z x z x z maxsteps infinity x v z x v p parametricplot x z sol pdata p manipulate listlineplot pdata plotrange length pdata p plot x sol p data p manipulate listlineplot p data plotrange length pdata possible run p p simultaneously sync

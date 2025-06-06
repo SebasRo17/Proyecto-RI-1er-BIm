@@ -1,0 +1,1 @@
+got coordinate two list latitude longitude would like check coordinate certain grid example list qlon qlat grid border slat nlat elon slon idea elon wlon outside grid qlon slat nlat outside grid qlat would like merge test one go like elon wlon slat nlat could get working another thing output show something point outside grid

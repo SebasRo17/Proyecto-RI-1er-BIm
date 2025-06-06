@@ -1,0 +1,1 @@
+need change function symbol multiple time assigning another symbol trying symbol overwrite assuming assignment reference example input func x x func func func x func x func func func func func func func x x func func func give following output func func func could make assignment changing one function influence changing

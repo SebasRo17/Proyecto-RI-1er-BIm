@@ -1,0 +1,1 @@
+would work replace head b newhead b c head arg newhead arg newhead c b nested within another head replaced using rule b c head arg newhead arg newhead b c using replacerepeated holdpattern help b c head arg newhead arg b c holdpattern head arg newhead arg b c holdpattern head arg newhead arg newhead b c question way replace b newhead using transformation rule

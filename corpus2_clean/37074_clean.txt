@@ -1,0 +1,1 @@
+wrote following code find area circle x using monte carlo simulation mcarea num module hit miss index x hit miss index index num index index x random real random real sqrt x hit hit miss miss return hit num mcarea around larger make num result get larger bit seem correct output far something wrong code

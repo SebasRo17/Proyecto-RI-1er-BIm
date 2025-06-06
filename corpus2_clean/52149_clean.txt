@@ -1,0 +1,1 @@
+im trying find maximum gradient vector g x tried several option including findmaximumvalue findmaximum etc find full function shown help would greatly appreciated g x e x x e x x e x x e x x e x x e x x e x x e x e x e x e x e x e x e x

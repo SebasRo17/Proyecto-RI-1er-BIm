@@ -1,0 +1,1 @@
+like solve equation b b represents system linear equation b c e f without writing linearsolve time simple way accomplish input b b b c c c e f e f e b matrixform b identitymatrix want solve b probably wrong linearsolve identitymatrix matrixform

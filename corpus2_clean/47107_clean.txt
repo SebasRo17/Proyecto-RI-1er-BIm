@@ -1,0 +1,1 @@
+loglogplot output legend correctly give list function logplot loglogplot option plotlegends output legend first one like image get legend plot

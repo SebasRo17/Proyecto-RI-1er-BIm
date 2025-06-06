@@ -1,0 +1,1 @@
+mma version big advance logic support boolean computation official name developed version fairly robust support propositional calculus much predicate calculus end would help lot internal function capable transforming formula logic formula mean prenex normal form even better skolem normal form anybody aware rd party package address problem

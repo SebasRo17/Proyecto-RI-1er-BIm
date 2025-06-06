@@ -1,1 +1,0 @@
-reason place outside corner location requested thats icccm says code almost certainly break calling xmapwindow xflush guarantee window visible managed window manager even work isnt reliable way find much decoration window manager placed around window dont know far move window manager refuses move window

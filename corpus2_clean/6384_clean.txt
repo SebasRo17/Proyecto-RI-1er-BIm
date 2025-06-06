@@ -1,0 +1,1 @@
+would like export long table complex number text file using export file txt sample line obtained file look like first understand come appear mathematica file get rid would prefer formatting number like e instead ultimate purpose import maple export feature would welcome note need least digit precision

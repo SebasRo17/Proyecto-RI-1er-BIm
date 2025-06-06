@@ -1,0 +1,1 @@
+looking solve following cubic equation x beta x gamma x c plugged sample value beta gamma c try solve equation using mathematica solve function get one real root complex root however tried plotting equation value clearly see real root obtain sure root real mathematica give back complex root thanks

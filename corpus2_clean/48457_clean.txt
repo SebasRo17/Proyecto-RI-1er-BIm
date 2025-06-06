@@ -1,0 +1,1 @@
+one evaluation running want another evaluation mathematica put second one queue run first evaluation finish however first evaluation may take long time second one may easy calculation possible running second evaluation without giving waiting first evaluation btw using mathematica window bit also happy use ubuntu suggestion welcome

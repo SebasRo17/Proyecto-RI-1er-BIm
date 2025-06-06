@@ -1,0 +1,1 @@
+trying use button controller manipulate done thing like manipulate p column plot sin x n x imagesize n button export export test jpg p better way thinking making something like manipulate column p plot sin x n x imagesize x export test jpg p n x false true controller x represented button instead checkbox

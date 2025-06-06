@@ -1,0 +1,1 @@
+written following code able get trajectory able draw direction field x x v time plot eigenvalue eigenvectors x x x system x x sol dsolve system x x particularsols partition flatten table x x sol c c j j parametricplot evaluate particularsols plotrange axeslabel x x

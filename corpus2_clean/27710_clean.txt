@@ -1,0 +1,1 @@
+trying define object type mathematica follows operator makeboxes operator pow sym fmt sbox stringq sym sym toboxes sym abox superscriptbox pow sbox interpretationbox abox operator pow sym work fine use integer power example x operator x give x however work use symbol power example operator b x give x b need changed

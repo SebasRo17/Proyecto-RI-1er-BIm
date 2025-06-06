@@ -1,0 +1,1 @@
+post office metric space p distance function defined follows p mathbf x mathbf begin case mathbf x mathbf vert mathbf x vert vert mathbf vert mathbf x neq mathbf end case vert mathbf x vert sqrt x x euclidean distance mathbf x x x mathbb r origin interested drawing ball metric centered point mathbf p radius r b r mathbf p triangleq mathbf x p vert mathbf x mathbf p r anyone tip

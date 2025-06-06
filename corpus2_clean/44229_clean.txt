@@ -1,0 +1,1 @@
+want large data analysis want able import file fast way tried import quite slow readlist take half time code using file filename path dat table delete import file table headerlines file file file header line foot line dont want question import file using readlist ignoring unwanted line another approach improve import performance

@@ -1,0 +1,1 @@
+difference projection table conjugate autovett k somevector k r dimension projection gave result ok dimension basecomp dimension transpose basevector startstate kroneckerproduct basecomp transpose basevector dimension startstate scompostartstate table conjugate ccnothvec k startstate k length ccnothvec dimension scompostartstate difference vector vector need dimensional vector

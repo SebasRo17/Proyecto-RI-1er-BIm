@@ -1,0 +1,1 @@
+image look like convert image graph get position edge using morphologicalgraph becomes graph collection polygon import g morphologicalgraph edgestyle directive orange opacity thickness graphstyle thickedge show colornegate dilation g wondering polygon possible extract number edge

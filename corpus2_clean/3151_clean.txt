@@ -1,0 +1,1 @@
+ndsolve mode operation use solve partial differential equation never gave much thought recently came across question accordingly used trace realized th order non linear partial differential equation solved using lsoda method digging revealed lsoda method ordinary diff eq chooses adam bdf method solve problem first place ndsolve convert pde ode reference would useful

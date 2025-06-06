@@ -1,0 +1,1 @@
+need help creating plot manipulate variable volume three surface trying make look like example volume need volume lie within cylinder x plain z cone z x converted cylindrical coordinate z r theta far show revolutionplot r r theta pi parametricplot co u sin u v u pi v thank

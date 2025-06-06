@@ -1,0 +1,1 @@
+trying plot fourier transform solution differential equation tried plot evaluate ab fouriertransform evaluate p ndsolve p p p p p maxsteps omega omega plotrange without success wrong

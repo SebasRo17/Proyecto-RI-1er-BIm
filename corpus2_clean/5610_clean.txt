@@ -1,0 +1,1 @@
+following code simplify integrate f x c x b c assumption c integrate c f x x b c obviously right answer integrate f x x b solve without placing c outside integrate function

@@ -1,0 +1,1 @@
+trying use combinatorica package mathematica version following code graph need combinatorica chromaticnumber adjacencygraph graph output code chromaticnumber graph think mathematica recognize function chromaticnumber compatibility guide list function use function

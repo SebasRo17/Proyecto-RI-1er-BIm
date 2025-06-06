@@ -1,0 +1,1 @@
+gap appears location exclusion top slider set play gap avoided filled manipulate x x yt x x plot yt exclusion plotstyle thick black plotrange frame true ax false imagesize basestyle fontsize framelabel x rotatelabel false plotrangepadding epilog pointsize red dashed line point yt black dashing line red point black arrowhead arrow red dashing line yt

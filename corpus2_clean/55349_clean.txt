@@ -1,0 +1,1 @@
+suppose following list list w r f first last k r first e e last r expecting case list first x last first x last result first last first e e last case flatten list first x last first x last result first last first e e last result build suitable pattern get desired result

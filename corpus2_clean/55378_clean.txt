@@ -1,0 +1,1 @@
+okay list angle call would arrange n grid g distance adjacent angle element row column wise minimized g many element get pick n duplicating element allowed every element must used least toy example put x array g toy example list angle put x grid duplicate element g hopefully clear enough let know

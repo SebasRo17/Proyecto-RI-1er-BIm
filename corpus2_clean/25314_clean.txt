@@ -1,0 +1,1 @@
+algorithm mathematica using groupelementtoword group g

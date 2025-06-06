@@ -1,0 +1,1 @@
+polynomial equation like tribonacci polynomial example x x x finding root polynomial want show root complex plane tried lot method follows found one worked f x x x listplot x solve f x x

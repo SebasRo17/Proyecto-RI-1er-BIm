@@ -1,0 +1,1 @@
+found following code compile real fourier table n j j work correctly following posted correction compile real fourier fourier complex table n j j firstly compile care matching size input output secondly could someone kindly explain work

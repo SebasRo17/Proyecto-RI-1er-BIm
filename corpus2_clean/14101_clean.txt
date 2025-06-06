@@ -1,0 +1,1 @@
+code colorfunction meant highlight value f x greater x colorfunction red black example part plot sin x figure lie line x red part black get enter image description missing expect make simple embarrassing mistake seeing show parametricplot u sin u u pi colorfunction red black plotstyle thickness plotrange plot x x pi plotstyle gray dashed

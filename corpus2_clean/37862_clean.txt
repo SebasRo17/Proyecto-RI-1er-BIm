@@ -1,0 +1,1 @@
+seems stupid question wonder get interval series expansion current series command series f x x n give series expansion x n want something like series f x x h give series expansion x h x obviously get series f x x series f x x h however believe take longer time take

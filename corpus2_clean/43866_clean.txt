@@ -1,0 +1,1 @@
+may simple question please close already answered nested list kr want use function flo x z list modifying mapthread given list k eg look like mapthread flo l k rest k want output look like qfr flo l flo l flo l flo l flo l flo l flo l flo l flo l tried following without much luck missing mapthread flo l rest kr

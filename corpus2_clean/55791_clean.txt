@@ -1,0 +1,1 @@
+following plot plot table c r c c evaluate r plotlegends linelegend legendlabel c labelstyle graylevel bold legendfunction frame axeslabel r plot plotlabel plot need include constraint r c c plot show r r modify code

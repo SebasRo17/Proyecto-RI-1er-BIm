@@ -1,0 +1,1 @@
+following expression want extract data contour plot r r besseli r besseli z sin z z sin z besseli z sin z z sin z z sin z besseli z sin z z sin z besseli z sin z z sin z besseli z sin z besseli z sin z z sin z z sin z contourplot z r plotpoints frame true framestyle thickness ax false framestyle thickness contourshading false output text file

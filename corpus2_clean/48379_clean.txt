@@ -1,0 +1,1 @@
+mathematica session evaluate need finitefields fld gf example like compute z result like z n tried fld fld mathematica give subscript mod simplify z get zero

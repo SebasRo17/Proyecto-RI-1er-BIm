@@ -1,0 +1,1 @@
+know similar question answered somewhere work case reason following problem mathematica want compute f h x x h x x h x function x say sin x written following code mathematica setattributes f holdall f h x x h x x h sin x output f h error general ivar valid variable better way composition function mathematica sarah

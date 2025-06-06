@@ -1,0 +1,1 @@
+differential equation look like dsolve r r c g r z c r r r r e r boundary condition etc go need get r r using value e r r however r defined r nintegrate f exp r r r herein lie problem realise dsolve us integrate internally function want solve nintegrate cause problem sure else evaluate error function idea

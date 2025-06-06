@@ -1,0 +1,1 @@
+short script ndsolve second order nonlinear bvp output produce interpolatingfunction object would like load data check well data fit function performing least mean square sum know go function represented one interpolatingfunction object minimal ish code produce function included r f r f eqn h f r f r r f r f r h f first f ndsolve eqn f r f r f f r r r help would appreciated

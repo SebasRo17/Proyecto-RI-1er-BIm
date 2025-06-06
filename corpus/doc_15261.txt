@@ -1,3 +1,0 @@
-Should come with visual basic. New version is vbrun200.dll.
-Thx Dave L
-

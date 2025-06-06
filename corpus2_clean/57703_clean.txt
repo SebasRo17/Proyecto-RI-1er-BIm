@@ -1,0 +1,1 @@
+retrieve style definition certain style within cell notebook stylesheet example retrieve fontcolor fontfamily input style either current notebook default nb preferably without reference existing cell style

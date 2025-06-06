@@ -1,0 +1,1 @@
+smoothed data bspline b x would like extract certain point spline x value x easiest way came minimize b x finding parameter x value following code data spline bsplinefunction data splinedegree tstfc spline findminimum ab tstfc x x seems like spline getting evaluated solve standard way extract point spline thanks

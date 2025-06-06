@@ -1,0 +1,1 @@
+one dimensional array element consisting number array need divided group item group want count many element finding stored three array n n n n containing statistic zero n statistic one n statistic three example one might get n first element original array zero following zero mathematica please keep mind function first appearing later version available

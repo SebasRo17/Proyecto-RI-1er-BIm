@@ -1,0 +1,1 @@
+start equation solve numerically z x range x frac xyz x z using data point z want solve special condition x z want plot graph x everything must done numerically eqn x z x z contourplot evaluate eqn x z fulldomain table z solve eqn z method reduce x eqn x z special table solve eqn fulldomain method reduce x ifun interpolation special plot ifun x x epilog map point special

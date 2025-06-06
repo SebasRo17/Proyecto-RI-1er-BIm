@@ -1,0 +1,1 @@
+take example original numerical integral complex nintegrate exp eta eta using plot seems work plot derivative integral

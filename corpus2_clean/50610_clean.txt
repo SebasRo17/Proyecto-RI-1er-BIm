@@ -1,0 +1,1 @@
+matrix trying find normalised eigenvectors using eigensystem command getting result normalize command far see involves applying vector individually chance option anyone come across mathematica automatically many thanks

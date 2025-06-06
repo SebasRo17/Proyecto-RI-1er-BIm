@@ -1,0 +1,1 @@
+recently using mathematica write undergraduate paper want use two pattern list b b c c b b c c make code short exchange b b c c element achieve b b c c trail firstpattern b b c c one two tom david achieve b b c c two one david tom write code firstpattern however failed wonder correct

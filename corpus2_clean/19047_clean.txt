@@ -1,0 +1,1 @@
+want try solve following x b x b variable coefficient small positive cannot get analytic solution surprised nsolve job novice mathematica anyone able nsolve x mathematica get numerical result

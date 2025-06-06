@@ -1,1 +1,0 @@
-hi folks anybody know good cc compiler supports api microsoft windows maybe windows nt thanx

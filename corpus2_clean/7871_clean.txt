@@ -1,0 +1,1 @@
+trying make demonstration rounding different number digit affect thing find way round number specified number digit round function round nearest whole integer always want way seems change way number displayed internally stored want throw away precision seems mathematica want allow example would like round must way life find

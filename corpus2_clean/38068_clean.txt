@@ -1,0 +1,1 @@
+example equation sin x log x solved nsolve mathematica return message nsolve nsmet get message c program ikernellink kl mathlinkfactory createkernellink kl waitanddiscardanswer kl complextype typeof complex kl evaluate x nsolve equation x kl waitforanswer complex re complex kl getcomplexarray code kl close

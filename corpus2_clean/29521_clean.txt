@@ -1,0 +1,1 @@
+want modify style one axis stuck something like plot x x labelstyle red course modifies ax solve problem

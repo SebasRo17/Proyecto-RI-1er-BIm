@@ -1,0 +1,1 @@
+specifically want take element lowest level array sum element holding higher level sorry vague expression maybe example would make clear array level try b c e f g h j want obtain b e h sum obtain b e h following illustration mathematica tried try could work summation total try could sum element last level however idea sum part last level solution

@@ -1,0 +1,1 @@
+trying use mathematica solve following system equation life get work following stiffness l matrixform displacement b matrixform force x l l matrixform need solve stiffness displacement force use linearsolve spit back input command need solve b x thanks help

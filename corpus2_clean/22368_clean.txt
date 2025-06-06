@@ -1,0 +1,1 @@
+given function defined f x sum x g g total log x length x easily calculate derivative fixed n f x x x x x x yield g g log x g g log x g g log x want differentiate w r x general case something like f x x yielding something like g total g log x length x possible ideally chain solve well write something like solve f x x table length x x get something like x e g total g length x

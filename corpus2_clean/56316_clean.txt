@@ -1,0 +1,1 @@
+function f k co k co x k sin want change parameter theta phi k see effect function use command achieve manipulate contourplot f k x plotlegends automatic k pi pi problem change one parameter say theta continuously plot evaluated slowly running cannot see actual graph change parameter see real evaluated result immediately

@@ -1,1 +1,0 @@
-ibm monochrome display adapter output capabilities

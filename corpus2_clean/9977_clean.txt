@@ -1,0 +1,1 @@
+given pretty long expression tmp would output expression external file tmp like format output break line contains extra space operator fact mathematica selecting expression could right click copy plain text could paste external text editor without problem possible specify output stream using plain text format
