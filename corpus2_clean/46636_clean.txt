@@ -1,0 +1,1 @@
+say list million integer million digit want crude sieve see chance prime mathematica primeq function appears slow performs large number trial miller rabin primality test lucas primality test giving yes answer could try looking small factor first say remove small fraction list way turn certainty primeq faster tuneably cruder way test primality within mathematica

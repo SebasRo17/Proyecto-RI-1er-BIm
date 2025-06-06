@@ -1,0 +1,1 @@
+following document generate curve arrow tube using following code arrowtube ra arhd graphic arrowhead arhd arrow tube bsplinecurve table co sin pi pi ra boxed false viewpoint imagesize automatic method shrinkwrap true give curve arrow tube seems arrow align curved path fix

@@ -1,0 +1,1 @@
+mathematica plotting horizontal line following example listplot table frame true gridlines none output get rid line

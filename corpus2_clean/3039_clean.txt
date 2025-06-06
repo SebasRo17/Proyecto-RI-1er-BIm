@@ -1,0 +1,1 @@
+superscript included axis label use caret symbol e g plot x x axeslabel x x one include subscript axis label use underscore character seem work e g plot f x axeslabel x f x

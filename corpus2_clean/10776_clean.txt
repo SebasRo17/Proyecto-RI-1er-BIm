@@ -1,0 +1,1 @@
+possible set font family arial ax legend label globally found setoptions legending gridlegend legending legendcontainer framed append fontfamily arial legend trying set axis label

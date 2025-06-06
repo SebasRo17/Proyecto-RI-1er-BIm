@@ -1,0 +1,1 @@
+let p n sequence prime number x n set integer less equal x divisible p dot p n define follows x n deletecases map total table map coprimeq prime range n true range n x n range x range x inefficient sure efficient way

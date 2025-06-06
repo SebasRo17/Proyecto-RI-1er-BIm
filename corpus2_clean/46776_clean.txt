@@ -1,0 +1,1 @@
+matching pattern repeated use repeat count replacement rule example case repeated x x sequence table x obviously instead hard coding want length repeat workaround example first first position case repeated x x seems cleaner solution though

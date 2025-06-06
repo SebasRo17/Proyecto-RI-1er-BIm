@@ -1,1 +1,0 @@
-writing xbased dosemu requires xkeyreleasedevent found keycode xkeyreleasedevent wrong run program linux display set local linux sun host two keycodes two xservers different course keycode xkeypressedevent ok anybody verify anything wrong thanks

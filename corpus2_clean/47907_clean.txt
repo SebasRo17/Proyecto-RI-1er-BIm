@@ -1,0 +1,1 @@
+discovered strange behavior evaluate function case clear f f x x g x evaluate f x x clear f g x x case clear f f x x g x evaluate f x x f x clear f g x f x derivative f x think case behavior strange derivative f evaluated properly g defined see difference

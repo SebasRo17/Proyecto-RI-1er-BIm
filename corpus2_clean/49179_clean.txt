@@ -1,0 +1,1 @@
+want solve dx dt sqrt x x complex solve hand analytically initial value draw imaginary part versus real part obtain ellipse expected tried solve mathematica failed code ndsolve x x x x method explicitmidpoint startingstepsize parametricplot evaluate x im x plotrange full mathematica graphic would appreciate someone could help fix problem

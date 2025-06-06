@@ -1,0 +1,1 @@
+simple way mathematica check condition expression involving multiple variable fall within given range example say real valued function f x z x z real number want find set f x z whenever x z contained way

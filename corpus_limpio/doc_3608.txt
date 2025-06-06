@@ -1,1 +1,0 @@
-changed intel box discovered xclients xload etc would longer work bomb message error cant open display cant find correct shared libraries need recompiled used correct options systems use thanks

@@ -1,0 +1,1 @@
+consider function f mathbf c rightarrow mathbf c defined f alpha beta z w frac alpha z frac beta w alpha beta complex number want plot function different parameter value alpha beta function f alpha beta anyone help coding mathematica

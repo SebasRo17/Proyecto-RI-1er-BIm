@@ -1,0 +1,1 @@
+possible use ccodegenerate generate code call function c library example would like something like ccodegenerate compile x f x f f function defined library would link generated code tried first make f available mathematica via librarylink ccodegenerate issue warning ccodegenerate wmreq return failed

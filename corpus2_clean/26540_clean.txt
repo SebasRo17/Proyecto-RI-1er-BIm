@@ -1,0 +1,1 @@
+running pretty large optimization problem actually consists outer inner optmization problem use parametricndsolve solving ode system optimization done mathematica us almost ram memory try remove global memory used still easy way check ram used

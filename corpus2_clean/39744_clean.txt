@@ -1,0 +1,1 @@
+get histogram logarithmic scale axis data randomreal normaldistribution histogram data log logcount get log scaled histogram axis using mathematica

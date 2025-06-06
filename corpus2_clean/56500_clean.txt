@@ -1,0 +1,1 @@
+following equation k sin b k k co b k sin b k b set value b want plot value k range increment equation becomes zero value want print value k later plot k function ratio b general question struggling logic solve put loop xxx k sin b k k co b k sin b k b b xxx print k print continue thanks

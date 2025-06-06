@@ -1,0 +1,1 @@
+like able feed expression mathematica mathematica convert expression texform without simplification whatsoever trivial example currently enter texform mm return frac like able feed return frac obviously solution would effectively involve writing parser specifically looking relatively short clean solution

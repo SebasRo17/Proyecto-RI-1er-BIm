@@ -1,0 +1,1 @@
+two matrix b identical dimension simplest shortest way find index differing element

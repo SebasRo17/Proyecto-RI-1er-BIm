@@ -1,0 +1,1 @@
+find series solution ode mean taking taylor series exact solution want solve nasty nonlinear differential equation locally via plug chug surely built option mathematica

@@ -1,0 +1,1 @@
+following problem trying optimize function pre defined assumption using mathematica wrote following simple code assumption minimize x x x clear answer since x ge x ge positive however mathematica fails calculate simple problem wrong use another function minimization

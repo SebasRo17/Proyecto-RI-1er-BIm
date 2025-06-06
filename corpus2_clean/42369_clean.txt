@@ -1,0 +1,1 @@
+consider following linear programming problem linearprogramming answer returned taking textbf x begin pmatrix end pmatrix satisfies textbf x ge land textbf x ge textbf b value objective function solution clearly smaller suggested optimal solution mathematica would expect mathematica able solve small lp problem even degenerate something wrong

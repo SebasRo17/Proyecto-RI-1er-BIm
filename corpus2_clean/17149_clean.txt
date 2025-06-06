@@ -1,0 +1,1 @@
+want plot real part sphericalharmonicy want plot frac sqrt frac pi co phi sin theta evaluated following expression sphericalplot sqrt co sin result got show negtive part wrong spherical

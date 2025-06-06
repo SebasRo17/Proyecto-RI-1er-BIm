@@ -1,0 +1,1 @@
+would like loop jump pi instead j j nmax incr pi actually want j n pi n take value n iteration stop nmax n pi know pretty trivial question found anything equivalent documentation center

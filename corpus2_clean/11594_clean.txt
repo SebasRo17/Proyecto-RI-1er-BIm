@@ -1,0 +1,1 @@
+trying solve something like f x integrate f x g x g x known f x function solve numerically fine seen example integral equation wonder direct way solve mathematica

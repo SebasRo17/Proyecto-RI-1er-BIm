@@ -1,0 +1,1 @@
+want extract cut part image since mask rectangular want set pixel masked zero black current approach something like img import path image image jpg x temp dimension imagedata img center radius pixel select flatten table j x j center center radius replaceimagevalue img map pixel even though work extremely slow large image way speed

@@ -1,0 +1,1 @@
+want get following expression mathematica latex begin bmatrix e parallel e perp end bmatrix tried use inbuilt symbol character special character window get error error thought maybe type parallel perp convert tex work get different error erros way achive want thanks

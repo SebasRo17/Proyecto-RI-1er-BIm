@@ -1,0 +1,1 @@
+trying solve identity using mathematica sqrt sqrt sqrt sqrt b c know b c positive integer want find b c tried findinstance b c sqrt b c b c integer work tried approach using findinstance luck miss something using wrong function answer b c

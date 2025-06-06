@@ -1,0 +1,1 @@
+let k p fixed positive integer want create table k tuples x x ldots x k comprised solution positive integer equation x x cdots x k quad text leq x x ldots x k leq p example set k p make mathematica generate set table integer triple x x x x x x leq x x x leq also would seperately generate table positive integral triple x x x x x x geq quad text leq x x x leq

@@ -1,0 +1,1 @@
+imagine following matrix x want select sublists greater equal list greater sense x negative entry output look like r since element sublists equal greater element list compared element element thanks help thanks quick answer searched meanwhile found one higher c select b nonnegative min c seem right

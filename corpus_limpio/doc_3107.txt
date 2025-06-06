@@ -1,1 +1,0 @@
-deleted plain motify using dialog inline like simply isnt done need set callbacks buttonswidgets dialog let callback routines work callbacks carry flow logic xview sun actually supports neatly notify box return status inline actualy ease coding goes event driven style application summary redesign required

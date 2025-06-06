@@ -1,0 +1,1 @@
+would like draw quadrilateral inscribed within circle construct figure taking account arbitrary specified side length still ensuring vertex quadrilateral lie circle

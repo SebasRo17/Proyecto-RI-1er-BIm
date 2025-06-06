@@ -1,0 +1,1 @@
+want function take expression following form x convert x particular consider following test case exp x b x x x become tofunctionnotation tofunctionnotation exp x b x x x note want keep expression processing tried using match symbolname string pattern figure

@@ -1,1 +1,0 @@
-question accessing certain addresses chip particulary eprom although dont know much understand theres pin chip voltage applied kicks address question determine many bytes address incremented example code want accessed also say move address pointer positions thanks info

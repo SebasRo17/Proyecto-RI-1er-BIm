@@ -1,0 +1,1 @@
+trying get solution vector differential equation x aa x aa x matrix aa code function ndsolve x aa x x x giving error ndsolve deqn equation list equation expected instead true first argument true true please help solve vector de

@@ -1,0 +1,1 @@
+struggling find right function mathematica isolate specific character string got formula string imported excelfile like x x x x x x want isolate coefficient e g x maybe store seperately know coefficient x thought would easily done browsed help mathematica couln find example help far maybe help function best task

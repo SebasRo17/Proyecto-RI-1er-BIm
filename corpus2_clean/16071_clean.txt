@@ -1,0 +1,1 @@
+would like convert matrix structure like b c b c matrixform print one look like b b c c matrixform print way still work column alphabetical order

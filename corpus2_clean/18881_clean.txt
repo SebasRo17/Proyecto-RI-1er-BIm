@@ -1,0 +1,1 @@
+problem output traditional form sign constant copy paste word far away solution bb makeboxes bb n traditionalform rowbox subscriptbox stylebox overscriptbox stylebox nfontfamily time new roman n fontweight plain nfontslant italic nfontfamily time new roman nfontweight plain nfontslant italic rowbox sequence riffle table subscriptbox c bb traditionalform bb traditionalform

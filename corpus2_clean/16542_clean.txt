@@ -1,0 +1,1 @@
+mathematica interactive date input control let user choose date browsing calendar view returning selected date date list example something like datepicker jquery

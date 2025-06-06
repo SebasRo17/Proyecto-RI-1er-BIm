@@ -1,0 +1,1 @@
+getting started symbolicc package trying figure handle function pointer typedefs like say typedef double rh double double problem ctypedef function expects argument ctypedef type var really function pointer declarationss c work ordinary pointer typedef done using cdereference ctypedef double cdereference xp sure make work context cfunction

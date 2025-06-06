@@ -1,0 +1,1 @@
+want evaluate indefinite integral using integrate command know answer written term elementary function square root log etc mathematica seems give answer term hypergeometric f function get give answer term elementary function integral following int sqrt left frac w right left frac w u v right mathrm w thanks

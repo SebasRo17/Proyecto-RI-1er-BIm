@@ -1,0 +1,1 @@
+consider statement forall x left x rightarrow exists exists b exists c b c x right true provided universe discourse mathbb n use resolve follows assess validity statement resolve forall x implies x exists b c b c x mathematica return true specify mathbb n domain mathematica justify returning true way specify mathbb n domain

@@ -1,0 +1,1 @@
+list obtained differentiating list expression contains zero symbol say x x x x x result list x get position non zero entry mathematica cannot compare symbol zero directly could convert element list string faster way

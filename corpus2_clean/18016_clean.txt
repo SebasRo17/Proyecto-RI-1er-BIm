@@ -1,0 +1,1 @@
+remote kernel server would like use process data connection work e able use local front end remote kernel however cannot figure access remote kernel data local machine thought could simply use import path computer file want import succeed something like import computername ip address user myusername desktop data txt table import nffil file found import

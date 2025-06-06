@@ -1,0 +1,1 @@
+matrix whose dimension x x assignment written program using loop maxx maxy maxz n h k table h b b h c c h pt w w length pt length pt w pls plus k length pls pls n n maxx h b maxy h c maxz h every iteration get new value n assign correct position matrix efficiently fast possible counter bit confused solve issue hand create matrix saving n end loop help appreciated

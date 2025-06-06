@@ -1,0 +1,1 @@
+frame pairedhistogram manipulate frame tick want specify control frame tick paired histogram spacez randomvariate poissondistribution spacem randomvariate poissondistribution pairedhistogram spacez spacem plotrange chartstyle red blue basestyle fontsize axesstyle thick barspacing colorfunction function opacity barorigin xaxis enter image description

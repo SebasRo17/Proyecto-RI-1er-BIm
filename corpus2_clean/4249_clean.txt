@@ -1,0 +1,1 @@
+dynamicmodule requires loading mathematica package usual method seem apply need mathematicapackage etc tried dynamic initialization need package partial success sure done regularly cannot find mma documentation effect best way load mathematica package dynamic dynamicmodule manipulate

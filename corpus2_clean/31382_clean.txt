@@ -1,0 +1,1 @@
+mathematica program calculates series large vector need save future reference addition scalar value want save file tagged mathematica name calculation proceeds putappend work data value stored losing associated name dumpsave seem append file store value name goal able load back expression later analysis name gave sure simple experience mathematica find need help

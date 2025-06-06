@@ -1,0 +1,1 @@
+currently running mathematica would like know define custom operator let say define operator called time time b cdot b b also want know commutative associative inverse identity whether closed z would mathematica

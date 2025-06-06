@@ -1,0 +1,1 @@
+want create function take variable x reassign value x x f x x however f yield mathematica error addto rvalue variable value value cannot changed make sense asking mathematica assign value change assigned value variable x

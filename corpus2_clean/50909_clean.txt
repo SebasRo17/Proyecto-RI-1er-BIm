@@ -1,0 +1,1 @@
+possible fix parameter nonlinearmodelfit within function instead defining fix parameter beginning notebook fitting multiple set data function certain parameter go zero data set fixing zero inside function would lot easier constantly changing parameter used fit data

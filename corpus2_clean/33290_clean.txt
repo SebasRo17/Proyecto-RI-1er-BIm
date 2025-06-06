@@ -1,0 +1,1 @@
+suppose fixed n x n matrix call b fastest way evaluate v b v many different vector v since b constant matrix allow number operation needed evaluate v b v arbitrary v reduced

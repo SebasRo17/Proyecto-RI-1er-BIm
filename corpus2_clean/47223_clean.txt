@@ -1,0 +1,1 @@
+trying solve matrix equation matrix tridiagonal problem message keep appearing enough memory code n matrix dimension sparsearray band band band n n tridiagonal matrix f x piecewise x x x x initial condition constructing right hand side vector g table f n n n vector u linearsolve g solution need actualy need norm u u suggestion would helpful thank advance

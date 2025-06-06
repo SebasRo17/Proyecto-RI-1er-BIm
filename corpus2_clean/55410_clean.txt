@@ -1,0 +1,1 @@
+im playing around countrydata want pas list argument listcountries data gdp externaldebt countrydata gdp listcountries work well want something like countrydata listcountries data read something mapthread make

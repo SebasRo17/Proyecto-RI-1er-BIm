@@ -1,0 +1,1 @@
+trying expand expression several term similar e lh sinh l h h expand command give back original expression even partial expansion try expand expand e l h e l h h e l h h get back e h l e h h l e h h l expandall e h l e h l h l e h l e h l h l would like e lh sinh l h h expanded e h l e h h l

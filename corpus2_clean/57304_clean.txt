@@ -1,0 +1,1 @@
+need dirac matrix work consists paulimatrix zeromatrix zeromatrix identitymatrix identitymatrix define dirac matrix gamma paulimatrix zeromatrix zeromatrix paulimatrix matrixform got result enter image description need something else need monolithic table consist individual block get need something universal need use construct gamma matrix spinors

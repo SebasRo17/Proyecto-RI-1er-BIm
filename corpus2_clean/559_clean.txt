@@ -1,0 +1,1 @@
+mathematica includes three function know used effectively actually define variable give value within local scope module block difference function scoping construct may exist know decide one appropriate use given instance documentation describe different construct extent feel like insufficiently clear exactly differ short example demonstrate difference would great

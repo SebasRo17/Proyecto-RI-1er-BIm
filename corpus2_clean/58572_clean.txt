@@ -1,0 +1,1 @@
+consider complex linear ode system x ax left begin matrix end matrix right one first find eigenvalue eigenvectors using jordandecomposition get general solution matrixexp question quick way mathematica get solution form real imaginary part separated v c v c iv v v mathbb r

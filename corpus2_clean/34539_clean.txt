@@ -1,0 +1,1 @@
+possible refer next element list using map always use case example write b c write b c problem last element also avoided last example would like get something like b b c c

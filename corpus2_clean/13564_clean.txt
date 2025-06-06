@@ -1,0 +1,1 @@
+python function def isprime n return n xrange n check number prime number using write function similar mathematica

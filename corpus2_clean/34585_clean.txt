@@ -1,0 +1,1 @@
+want create rule function z left right hand side non working code usage torule l r l x r torule f b want output f x b however code get f x b coming get rid

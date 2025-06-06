@@ -1,0 +1,1 @@
+example might want generate length n word alphabet b c one three b two c example word abbbcc like generate word already tried generating permutation particular string like abbbcc deleting duplicate slow purpose

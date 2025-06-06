@@ -1,1 +1,0 @@
-ive trying figure way get adobe illustrator autotrace exactly see screen misses edges templates many pixels resulting images useless need exact tracing approximate ive tried adjusting freehand tolerances well autotrace tolerances doesnt help suggestions

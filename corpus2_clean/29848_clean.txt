@@ -1,0 +1,1 @@
+calculate set morphological component component morphologicalcomponents binarize image use selectcomponents filter component satisfying metric example chosencomponents selectcomponents component elongation however way use selectcomponents select component pixel within certain rgb range convex hull example could select component pixel red component

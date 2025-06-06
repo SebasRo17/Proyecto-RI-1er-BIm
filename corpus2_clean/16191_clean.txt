@@ -1,0 +1,1 @@
+trouble adding legend plot example discus simpler real problem describes well vector called x dimension x use command listplot plot one row x time plotx p listplot x appendto plotx p length x therefore list plotx contains six list plot point show plot use command show show plotx want create legend graph example x x x x x x thanks

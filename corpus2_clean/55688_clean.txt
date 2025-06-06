@@ -1,0 +1,1 @@
+possible mathematica convert plot contour plot without recompute value point realize looking directly plot similar contour plot wondering mathematica able take plot input give contour plot output

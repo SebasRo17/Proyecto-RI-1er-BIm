@@ -1,0 +1,1 @@
+need frame frame analysis video import video file need file large import use import fn frame n command import image one one take long time n get large example first frame take sec th frame take sec mathematica seems reading start file time obviously work way speed e g using stream tricking mathematica use imagecapture get image video file instead webcam thanks

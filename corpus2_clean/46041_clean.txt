@@ -1,0 +1,1 @@
+pdf half normal distribution frac sqrt sigma sqrt pi exp left frac x sigma right x int infty frac sqrt sigma sqrt pi exp left frac x sigma right mathrm x frac sqrt sigma make sense integral equal one right mathematica code used compute integrate sqrt pi exp x x infinity assumption wrong

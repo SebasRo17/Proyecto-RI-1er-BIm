@@ -1,0 +1,1 @@
+imagine list tlist item item item item item item like take random sample numitems element list randomsample tlist numitems way specify random sample contain subset element tlist e g item item item hope element random sample returned scrambled including order element subset

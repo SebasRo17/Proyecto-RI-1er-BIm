@@ -1,0 +1,1 @@
+would like plot result findroot certain range input tried code plot evaluate findroot f b b want plot root f b v b ranging sure code working although get plot also get error findroot nlnum function value verythinspace gamma verythinspace b sqrt b verythinspace b n list number dimension note function trying find root f b gamma b sqrt b b thanks

@@ -1,0 +1,1 @@
+command listplot data joined true visually connect adjacent data point array line however option appears missing listpointplot manner join join line adjacent three dimensional point large number point data structure really like keep standard output format listpointplot

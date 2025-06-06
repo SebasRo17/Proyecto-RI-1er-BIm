@@ -1,0 +1,1 @@
+want apply function every element list without taking brace account depth level form output example b c e f f b f c f f e would applying function flatten data keeping depth let know precise enough

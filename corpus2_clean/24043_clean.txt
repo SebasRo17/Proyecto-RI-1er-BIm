@@ -1,0 +1,1 @@
+appears documentation share style via stylesheets trying set customised default stylesheet notebook tried simple idea complex one without success edit provided default nb change saving make model notebook say amodel nb customise notebook style copy model style install stylesheet amodel nb apply notebook effect

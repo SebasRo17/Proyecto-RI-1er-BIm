@@ -1,0 +1,1 @@
+trying make graphic random walk want first last point color case first one red last blue dont know wrong code randomwalk n nestlist table random real table n onedim randomwalk firstpoint onedim lastpoint onedim listplot hue pointsize point firstpoint hue pointsize point lastpoint line onedim

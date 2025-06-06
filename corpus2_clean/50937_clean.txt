@@ -1,0 +1,1 @@
+would like export graphic generated loop jpg like graph want combine later latex beamer animation put export command inside loop could manage change name file since name inside way solve problem thank much

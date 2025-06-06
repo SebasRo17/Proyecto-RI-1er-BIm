@@ -1,0 +1,1 @@
+would like resolve symbolically following equation dsolve c x c x c x x sin pi co pi c x b sin pi x co pi x c x c x x correspond system begin align c left x right c left x right frac partial c partial sin x cdot left co x right frac partial c partial x b sin cdot left co right end align mathematica give error dsolve overdet fewer dependent variable equation system overdetermined

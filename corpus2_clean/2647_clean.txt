@@ -1,0 +1,1 @@
+possible duplicate patterntest work composition x matchq x function null numericq unevaluated holdall false matchq x function null numericq unevaluated holdall true difference highlighted front end indicating syntax error best way use function matchq validate expression pattern matching unevaluated form numericq holdallcomplete false put test following return false matchq x test

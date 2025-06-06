@@ -1,0 +1,1 @@
+suppose mathematica notebook saved certain location disk given pattern need get list expression matching pattern appear input output print cell notebook every expression wrapped hold prevent evaluation ideally also want extract expression cell erroneous incomplete input expression complete strictly necessary

@@ -1,0 +1,1 @@
+symbol foobar create symbol foobar create symbol theta symbol subscript theta work

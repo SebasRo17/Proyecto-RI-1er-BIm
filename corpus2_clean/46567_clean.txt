@@ -1,0 +1,1 @@
+would like copy parameter main kernel mathematica parallel kernel available running command like launchkernels parallelevaluate var kernel running problem say another variable var want copy content kernel specific kernel

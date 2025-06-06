@@ -1,0 +1,1 @@
+example punt legend inside graph save graph save graph save legend expr p expr p expr p plot expr expr expr p basestyle absolutethickness plotlegends linelegend expression basestyle absolutethickness solve expr expr p another question insert solution la line inside graph see result

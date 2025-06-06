@@ -1,0 +1,1 @@
+trying use module local function e need define inside module tried norm p module fun p p p fun p p p p max fun p fun p function compiling try evaluate say try norm giving error telling module lvsym local variable specification fun p p p fun p p p p contains fun p p p fun p p p p symbol assignment symbol avoid error want give function space

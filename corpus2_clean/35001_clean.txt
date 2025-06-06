@@ -1,0 +1,1 @@
+specific reason datedifference cannot give exact number case datedifference jan jan week also like know various daycountconvention setting interact calculation particular week month etc

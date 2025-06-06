@@ -1,0 +1,1 @@
+consider following example mean table boole random random absolutetiming n mean boole thread randomreal n randomreal n absolutetiming expected second method efficient since used vectorized operation work slowly know possible make faster used mathematica window

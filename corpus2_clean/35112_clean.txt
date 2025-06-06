@@ -1,0 +1,1 @@
+learned rather succinct way delete tagged cell using notebooklocate would prefer notebook scroll selection delete operation delete tagged cell without notebook scrolling minimal example cellprint expressioncell x celltags oldcell button remove old cell notebooklocate oldcell notebookdelete

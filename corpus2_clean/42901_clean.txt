@@ -1,0 +1,1 @@
+possible simplify assuming functional equation examlpe use one function g invers another f simplify g f x g f x x return g f x similar fullsimplify

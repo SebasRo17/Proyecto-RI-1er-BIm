@@ -1,0 +1,1 @@
+mathematica appears tonumberfield always recognize root object explicit algebraic number tonumberfield root tonumberfield nalg root explicit algebraic number different root polynomial work fine tonumberfield root algebraicnumber root bug way work around edit case matter first root expression fullsimplify

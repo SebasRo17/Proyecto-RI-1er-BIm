@@ -1,0 +1,1 @@
+want solve large lp problem using nmaximize small instance bigger problem max sum sum c v c f c quad sum f c leq forall f c geq c wrote following nmaximize sum f c v c sum f c c f c declare f c variable

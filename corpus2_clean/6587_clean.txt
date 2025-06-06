@@ -1,0 +1,1 @@
+interested implementing symmetry group would useful central symmetry isometry transformation built function rotationtransform translationtransform reflectiontransform able find something like central symmetry goal translate one object kind image built graphical primitive symmetric analog anyone thought please write

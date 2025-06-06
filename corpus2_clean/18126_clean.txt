@@ -1,0 +1,1 @@
+function log x x x return expected function value x graph drop x using home version assuming operator error unless told otherwise older version plot without problem advice welcome

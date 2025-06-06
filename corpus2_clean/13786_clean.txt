@@ -1,0 +1,1 @@
+stuck variable assignment scenario antennapower measure antenna module x x sd measure xa ya antenna n sd pi xa x ya antennapower error message module lvset local variable specification x x sd xa ya contains x x sd assignment x x sd assignment symbol allowed

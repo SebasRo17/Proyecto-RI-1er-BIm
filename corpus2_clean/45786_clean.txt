@@ -1,0 +1,1 @@
+trying solve following differential equation x frac x x x boundary condition mathematica using following code sol ndsolve x x x x x plot x sol x however mathematica give infinite sequence error ignorance concerning numerical solvability kind nasty differential equation way let mathematica solve equation neatly

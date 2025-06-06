@@ -1,0 +1,1 @@
+using function well defined real value e g heavisidetheta within ndsolve internally ndsolve work course complex number sometimes return numerically vansihing complex value e g break function possible get rid complex part like applying chop step

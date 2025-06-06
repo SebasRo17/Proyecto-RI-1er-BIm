@@ -1,0 +1,1 @@
+define colorfunction contourplot using piecewise example making contourplot function p x sin x sin want define colorfunction way example p plot different color p example need following plot enter image description color column right show color corresponds value p

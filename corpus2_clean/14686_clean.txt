@@ -1,0 +1,1 @@
+list symbol defined using table symbol tostring n giving n case use part argument interpolation giving vchamber want define function give something like fvchamber n variable hence argument list variable expression vchamber hoping something like fvchamber function vchamber would work wrong looked answer found one yet

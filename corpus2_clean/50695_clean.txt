@@ -1,0 +1,1 @@
+using o evaluated limit sqrt n n n infinity start session caused error made kernel quit see warning error message hand evaluating similar expression limit n n n infinity generates warning anyone reproduce issue

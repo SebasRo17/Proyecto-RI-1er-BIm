@@ -1,0 +1,1 @@
+alway use vi edit fortran file use ctags know variable function already defined use vi edit mathematica file tried use ctags file work searched solution google luck could give suggestion

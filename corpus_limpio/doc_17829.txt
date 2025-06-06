@@ -1,1 +1,0 @@
-anyone offer suggestion problem several boards whose sole purpose decode dtmf tones send resultant ascii pc boards run serial interface need run boards somwehat simultaneously need able ho ok pc problem hook serial devices one pc inexpensivley send data simulataneously close help would greatly appreciated abhin singla

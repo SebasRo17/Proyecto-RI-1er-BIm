@@ -1,0 +1,1 @@
+trying draw sierpinski carpet code work think elegant way way maybe couls use tuples permutation similar function simplify code enter image description f x x map mean x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x nest join f graphic rectangle clear

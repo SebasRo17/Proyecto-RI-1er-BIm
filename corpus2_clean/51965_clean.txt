@@ -1,0 +1,1 @@
+multivariate gaussian distribution k dimension look like frac sqrt pi k mathbf sigma mathbf e frac mathbf x mathbf sigma mathbf x mathbf x k dimensional vector mathbf sigma k k symmetric positive definite matrix want mathematica integrate expression mathbf x result nothing else known particular know number dimension

@@ -1,0 +1,1 @@
+written module assignment like v n rk x n n z n v n v v n v n v n want modify efficient faster built function like foldlist fixedpoint composelist etc tried foldlist however get right syntax program use function purpose would write better use program like help appreciated

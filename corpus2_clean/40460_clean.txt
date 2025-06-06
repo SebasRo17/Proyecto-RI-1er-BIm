@@ -1,0 +1,1 @@
+trying perform linear regression weather data seem figure perform operation right temperature weatherdata chicago temperature month model linearmodelfit temperature x x idea wrong

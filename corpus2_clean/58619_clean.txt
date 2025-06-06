@@ -1,0 +1,1 @@
+data multimeter precision rdg dgt want take last digit say add last digit like realdigits add somehow fromdigits get result seems trivial see

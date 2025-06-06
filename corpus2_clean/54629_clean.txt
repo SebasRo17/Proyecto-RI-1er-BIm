@@ -1,0 +1,1 @@
+mathematica release appears changed default styling plot visible change thicker line different default color thus answer stackoverflow question valid mathematica example plot code give identical output mathematica although version fns table x n n plot fns x plotstyle colordata colorlist plot fns x enter image description question new way getting default color reproduce us

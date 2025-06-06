@@ -1,0 +1,1 @@
+experience using mathematica parallel calculation need something simple parallelize calculation f calculate time n iterates f k sum r j j k setsharedfunction f r f table r n r n f n n thanks help

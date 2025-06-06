@@ -1,0 +1,1 @@
+trouble getting contour line plot listplot tried listcontourplot give really weird looking graph ton dfferent level would like get contour line listplot look like topo map something contour map plot essence would like combine notebook currently look like enter image description

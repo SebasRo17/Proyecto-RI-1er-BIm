@@ -1,0 +1,1 @@
+defined function p k sqrt r k l k r l generate matrix however output function never full simplifies even use simplify function always leaf output root followed matrix binary operator anyone tell need simplify output

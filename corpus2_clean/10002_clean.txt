@@ -1,0 +1,1 @@
+using loop printing five inputfields loop get value variable tx want compare value dynamically print result comparison going loop tx reap sow inputfield tx dynamic tx right wrong

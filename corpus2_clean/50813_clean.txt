@@ -1,0 +1,1 @@
+function w x x cosh x x n k take derivative w x get n k sinh n k n k cosh n k odd expected result n k x sinh x cosh x know use replacement rule achieve direct way

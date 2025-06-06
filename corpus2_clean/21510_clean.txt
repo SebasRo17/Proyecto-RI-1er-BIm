@@ -1,0 +1,1 @@
+list consists element date datelist format number flag n e g n n n want extract element dated within last day also date range one year previous two separate list presume way would define interval absolutetimes end range filter list basis e apply filter intervalmemberq basis absolutetime first element element list presume something pure function get syntax right

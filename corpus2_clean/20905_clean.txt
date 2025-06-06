@@ -1,0 +1,1 @@
+want export text xlsx data data matrix column row get error message export toomany cannot export xlsx number column exceeds limit format however write data csv load excel everything work way write data size xlsx directly test sample data randomreal export test xlsx data happens mathematica

@@ -1,0 +1,1 @@
+differential equation written eqns subscript x alpha subscript x subscript x beta subscript x subscript x subscript x gamma subscript x delta subscript x subscript x subscript x epsilon subscript x lambda subscript x subscript x subscript x subscript x sol dsolve eqns subscript x subscript x subscript x

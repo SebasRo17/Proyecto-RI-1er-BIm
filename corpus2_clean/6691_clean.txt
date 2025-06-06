@@ -1,0 +1,1 @@
+u sin x v co x w co x sin x need plotlegends plot u v w x plotrange plotstyle absolutedashing dashed dotdashed dotted plotlegend graphic absolutedashing line graphic dashed line b graphic dotdashed line c graphic dotted line error option must rule list rule coordinate skeleton pair number scaled offset form would please help

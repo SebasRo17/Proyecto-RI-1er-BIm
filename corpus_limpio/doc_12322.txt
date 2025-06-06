@@ -1,1 +1,0 @@
-yet another xview question easy way detecting user resized frame externally way window manager eg grabbing letting go frame resize corners olwm please let know derek

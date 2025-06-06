@@ -1,0 +1,1 @@
+would like add trusted path global preference mathematica mac go notebooksecurityoptions click tool button trustedpath click add dialog box appears asks path reading official documentation notebook security still idea enter simple specific path eg desktop box find documentation filename function well left guesswork tried several guess vain

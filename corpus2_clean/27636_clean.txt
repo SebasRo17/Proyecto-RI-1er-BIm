@@ -1,0 +1,1 @@
+list x z coordinate wavefront sensor working however imported point actual value still get imported x nan trying find way get rid faulty point far find way identify affect graph run trouble performing operation set point tried several thing like delete deletecases stringtrim avail run deletecases graph nan example get back set point also using mathematica thanks

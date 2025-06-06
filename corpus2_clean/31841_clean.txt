@@ -1,0 +1,1 @@
+press enter example become clear test adding textbox instead current notebook eventhandler inputfield string returnkeydown setselectednotebook evaluationnotebook selectionmove evaluationnotebook notebook notebookwrite evaluationnotebook test might force text added notebook instead inputfield edit ideally looking solution involve removing focus inputfield

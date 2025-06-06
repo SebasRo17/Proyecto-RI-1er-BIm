@@ -1,0 +1,1 @@
+solving following system g b c findroot b c c pf parametricndsolvevalue x g b x co x x integrate b x b b mathematica give two error message say findroot nlnum function value b list number dimension c replaceall rep findroot b c c neither list replacement rule valid dispatch table cannot used replacing fix issue

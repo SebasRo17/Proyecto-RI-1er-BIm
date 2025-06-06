@@ -1,0 +1,1 @@
+trying solve nonlinear programming problem using findminimum solver mathematica execute printing findminimum eit algorithm converge tolerance iteration best estimated solution feasibility residual kkt residual complementary residual returned still use solution calculate one constraint using printed data outside defined range

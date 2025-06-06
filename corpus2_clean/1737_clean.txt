@@ -1,0 +1,1 @@
+suppose string containing c representation floating point number example e want convert mathematica number toexpression give plus time e

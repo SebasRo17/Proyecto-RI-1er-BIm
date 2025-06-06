@@ -1,0 +1,1 @@
+use euler method modified euler solve differential equation dy dt take h n iteration see mathematica give analytic solution problem compare analytic solution found problem mathematica give analytic solution compare solution numerical solution given mathematica first problem confused interval idea two problem anyone help

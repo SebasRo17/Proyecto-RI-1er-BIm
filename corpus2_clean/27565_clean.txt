@@ -1,0 +1,1 @@
+straightforward way go ordered list like ord b c e f g h disordered list like randompos c h g b f e use something like deleteduplicates randomchoice ord really robust easier way

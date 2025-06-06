@@ -1,0 +1,1 @@
+framed plot want use tick create customized tick mark along line plot x x frame true frameticks automatic problem put axis tick left right hand side keep tick left side plot usual

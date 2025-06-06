@@ -1,0 +1,1 @@
+assume parameter definition first p th alpha p value lh b define two function tmp x e x lh b e x lh p value tmp x alpha p th alpha lh e alpha x subtracting x yield small number p value tmp tmp want plot tmp x tmp x value p value x stop logplot tmp x tmp x x plotrange mathematica graphic tried meshfunctions without success anyone give hint

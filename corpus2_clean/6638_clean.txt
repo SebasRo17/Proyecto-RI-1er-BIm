@@ -1,0 +1,1 @@
+consider following snippet dynamicmodule manipulate graphic translate geometrictransformation blue polygon scx scy tuples range wi range scx x scale scy scale wi width heigth mathematica graphic want stable fixed panel polygon displayed thus independent slider value applying plotrange option graphic function example work expected question set fix panel size

@@ -1,0 +1,1 @@
+g completegraph vertexsize medium propertyvalue g vertexlist g vertexweight propertyvalue g vertexweight propertyvalue g vertexlist g vertexweight propertyvalue g vertexweight propertyvalue g vertexlist g vertexweight propertyvalue g vertexweight come see last result propertyvalue applies vertexweight property set vertexstyle like doc everything fine change vertex color one one

@@ -1,0 +1,1 @@
+new mathematica tried searching doc specific example achieved far return error probably wrong syntax plot sin x x pi filling range x pi

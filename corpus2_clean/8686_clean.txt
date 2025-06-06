@@ -1,0 +1,1 @@
+seems imagecrop allows one specify final size image example imagecrop image size spec crop image image size size one specify side image pixel taken using spec know final size size image want snip pixel right side image might want series image whose size known least immediately

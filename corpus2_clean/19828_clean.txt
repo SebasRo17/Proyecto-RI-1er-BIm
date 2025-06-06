@@ -1,0 +1,1 @@
+problem polynomial let say polynomial x x x check expression simplified additionally would like locate uncombined term x x print tried lot polynomial built function simplify expression output example monomiallist x x x x x command suppress automatic simplification thanks

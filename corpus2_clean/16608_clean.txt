@@ -1,0 +1,1 @@
+code used make tabular ui dynamicform row col dynamicmodule x constantarray row col column row table j j inputfield dynamic x j number fieldsize tiny row j col appendto cancelbutton defaultbutton dialogreturn createdialog column flatten spacing automatic alignment left modal true dynamic x enter image description retrieve user input form dialog

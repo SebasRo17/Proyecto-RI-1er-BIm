@@ -1,0 +1,1 @@
+wish plot function f g region bounded f color c f region bounded g color c g region bounded color c f c g e g c f red c g blue c f c g magenta tried plot sin x co x x filling axis blue axis red bad found documentation additive mixture color plot

@@ -1,0 +1,1 @@
+want solve following equation x x co x x use explicit euler method partition interval n subintervals n done f x u v u co x b eulerexplicito f b module x h h n b x appendto h f x appendto x x h return transpose x aproxeuler eulerexplicito f b n aproxeuler know change result bad

@@ -1,0 +1,1 @@
+want plot taylor polynomial f x sin x x degree around point rectangle pi pi time pi pi currently using plot series sin x x x x pi pi pi pi nothing actually happens also tried computing point graphing quite plot seems like hassle anyone idea

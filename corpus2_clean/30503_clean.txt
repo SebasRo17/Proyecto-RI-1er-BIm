@@ -1,0 +1,1 @@
+operating system ubuntu add new file usr local wolfram mathematica addons package call mathematica failed message get noopen cannot open qdensity make work

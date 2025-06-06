@@ -1,0 +1,1 @@
+easy way draw outline around sphere something like edgeform work looking perhaps thick red line making plot many sphere different color opacity need way visually distinguishing one use one inert

@@ -1,0 +1,1 @@
+used nsolve partial differential equation boundary condition get numerical solution mathematica say form interpolatingfunction defined function f x evaluates solution given x want able retrieve value x f x c given constant c pick x set maximizes different non interpolative function g x possible

@@ -1,0 +1,1 @@
+would like custom tick x axis listplot nothing showing wrong data listplot data frameticks r rr r r frame true plotmarkers automatic medium ax false imagesize get enter image description

@@ -1,0 +1,1 @@
+manipulate function mathematica allows user adjust value parameter graphical way plot multiple function graph also use manipulate time manipulate row plot f x n x plotrange plot f x n x plotrange n give two independent plot single curve multiple curve plot

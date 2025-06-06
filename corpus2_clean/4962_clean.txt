@@ -1,0 +1,1 @@
+broken plot see example image frequently always seeing broken line plot try overlay top another plot using show especially common plotting top boxwhiskerchart like seen similar artifact combination graphic seems like probably bug way work around edit requested example data code reproduces plot show boxwhiskerchart outlier listlineplot

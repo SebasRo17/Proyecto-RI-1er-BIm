@@ -1,0 +1,1 @@
+want plot rectangle using graphic rc graphic blue rectangle add deformation function chi mathbf x x x hat mathbf e x x hat mathbf e deformation function specifies new coordinate function old one plot new shape

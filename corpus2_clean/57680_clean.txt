@@ -1,0 +1,1 @@
+use weatherdata request work example use weatherdata chicago get correct output c kcgx c try weatherdata chicago temperature get failed collection curated data like chemicaldata work fine think connection problem

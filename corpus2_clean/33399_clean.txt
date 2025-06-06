@@ -1,0 +1,1 @@
+run following code empty notebook setoptions evaluationnotebook testoption n r open notebook notepad find cellcontext testoption n n confirm bug feature version operative system using mathematica win prox workaround

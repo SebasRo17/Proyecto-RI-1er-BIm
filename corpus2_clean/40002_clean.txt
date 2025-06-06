@@ -1,0 +1,1 @@
+function calculates probability randomly landing fibonacci number greater n f n integer floor log goldenratio sqrt n n extend complete differentiable function agrees original value given integer input

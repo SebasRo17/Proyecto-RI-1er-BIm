@@ -1,0 +1,1 @@
+trying adapt following piece part powerf function amax z max z solve fullsimplify powerf z real p z modified code want also make plot depends parameter amax however following work z amax max z amax solve fullsimplify powerf amax z real p z fix

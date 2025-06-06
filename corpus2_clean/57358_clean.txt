@@ -1,0 +1,1 @@
+suppose p point plane function f q defined f q block norm p q rgbcolor continuously color point plane thier distance p easiest way plot tried densityplot exactly looking basically want specify color function point plane plot contour would bonus apology exact question asked

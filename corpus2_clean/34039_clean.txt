@@ -1,0 +1,1 @@
+instead adding axeslabel x z every time code order ax appear make mathematica display ax default also get mathematica display ax default shown following image want obviate rotate image manually every time mathematica make initial display enter image description

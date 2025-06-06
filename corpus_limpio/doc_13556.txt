@@ -1,1 +1,0 @@
-dont know theres corresponding patch solaris sounds like following bug supposedly fixed solaris olwm jumbo patch window system hang errant pointer grab actually suspect ow problem may different since readme file says patch sunos version ow olwm maybe line came earlier version patch forgot take version barry margolin system manager thinking machines corp

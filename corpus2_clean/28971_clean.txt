@@ -1,0 +1,1 @@
+imported data excel sheet want extract part list based condition first want create one list whit coca cola data want another list mcdonald data key thing want extraction process able spot data move one ticker another aa matrixform dub symbol full name date open high low close adj close volume type ko coca cola company stock mcd mcdonald stock mcd mcdonald stock mcd mcdonald stock

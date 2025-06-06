@@ -1,0 +1,1 @@
+trying compute product sequence matrix using command paralleldo course use simpler command able computation order set current problem considered table matrix another less trivial value r paralleltable identitymatrix n would like compute something like g identitymatrix g r g n reduce computing time would like use paralleldo someone help please

@@ -1,0 +1,1 @@
+trying create table iterator two range different iteration step let consider simple example want find square number step step could like table need lot typing though iterate two range without type number hand

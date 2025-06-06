@@ -1,0 +1,1 @@
+want make function trace hypotrochoid one period motion trying change color trace color radius change color dot view easier came following function hypotrochoid b h b co h co b b b sin h sin b b myfigure b h manipulate parametricplot hypotrochoid b h c pi plotrange b h b h b h b h c though test myfigure nothing show testing know coloring certain syntax require

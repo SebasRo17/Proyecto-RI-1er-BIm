@@ -1,0 +1,1 @@
+wikipedia edit watchlist page logged user list hyperlink user watchlist example account enter image description tried use urlfetch urlsave follows urlfetch urlsave seems cannot grab link watchlist thought urlsave saving webpage html file hand internet explorer wrong even import import also source cannot get hyperlink log wikipedia get link using mathematica

@@ -1,0 +1,1 @@
+polynomial expression order n say n f x x x x x want approximate polynomial order need make coefficient power x greater zero mathematica

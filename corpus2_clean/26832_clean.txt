@@ -1,0 +1,1 @@
+sample graphic object gr graphic geometrictransformation red sphere table translationtransform enter image description apply different color directive using geometrictransformation get something like following effect gr graphic geometrictransformation rgbcolor randomreal sphere table translationtransform enter image description change gr gr normal gr change many sphere

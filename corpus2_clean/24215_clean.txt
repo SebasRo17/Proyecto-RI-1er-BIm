@@ -1,0 +1,1 @@
+able connect specific m access database window computer mathematica via command databaselink conn opensqlconnection jdbc odbc databasename however cannot figure connect database local area network disregarding trivial network problem computer ping eachother even possible

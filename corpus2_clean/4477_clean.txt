@@ -1,0 +1,1 @@
+need convert binary float decimal float mathematica ideally two base fromdigits work

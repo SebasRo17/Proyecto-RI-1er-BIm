@@ -1,0 +1,1 @@
+want execute several command one text file use notebook get command example plot x x b listplot joined true show b plotrange plotlabel hy plot x x x b plot x x show b plotrange plotlabel sx want see plot mathematica run last command text file

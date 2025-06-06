@@ -1,0 +1,1 @@
+using listlineplot plot list containing list using default color listlineplot mylist would like able keep default plotstyle option first list last one tried mystyle append table automatic green thickness listlineplot mylist plotstyle mystyle list plotted green thickness best way

@@ -1,0 +1,1 @@
+playing around manipulate demonstrate simple geometric idea conic section put little sample together move slider move plane expect however let go slider graphic rescaled stop set plotrange aspectratio understand scale changing manipulate plot plot n x aspectratio plotrange mesh false cone graphic opacity cone plotrange aspectratio show plot cone aspectratio n

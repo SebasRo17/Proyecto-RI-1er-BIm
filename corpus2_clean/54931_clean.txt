@@ -1,0 +1,1 @@
+way write fullsimplify end line assumption write b b fullsimplify way include assumption b

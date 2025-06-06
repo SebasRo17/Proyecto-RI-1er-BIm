@@ -1,0 +1,1 @@
+plot content directory subdirectory infinity using treeform tried using mix filename stringsplit gatherby end find even promising start

@@ -1,0 +1,1 @@
+trying aquire data mathematica webservices example work fine webservices installservice conversionrate usd rub however try install service installservice mathematica return error message loadschema unsupported supported sequence loadschema elementschema element schema cannot found schema well versed xml however seems tag present code service provider mistake

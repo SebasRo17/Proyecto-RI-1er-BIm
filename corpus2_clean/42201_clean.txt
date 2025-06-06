@@ -1,0 +1,1 @@
+piechart nice functionality highlighting single pie click sticking little see following example piechart enter image description click green pie start stick enter image description way achieving programmatically browsed option piechart find anything want automatically create number plot highlighted section save automatically without click manually time

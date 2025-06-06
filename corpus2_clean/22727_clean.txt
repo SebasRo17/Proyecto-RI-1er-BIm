@@ -1,0 +1,1 @@
+way make mathematica show legend label like real number rather fraction form read barlegend option however related graphic set plotlegend automatic sample legend problem shown matrixplot rm colorfunction colordata graytones imagesize plotlegends automatic enter image description

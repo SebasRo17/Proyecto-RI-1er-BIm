@@ -1,0 +1,1 @@
+wrong clear b c x ax bx b c ax x sqrt x bx x sqrt b c x roadcost x ax x bx x minimize roadcost x c b c b x c x

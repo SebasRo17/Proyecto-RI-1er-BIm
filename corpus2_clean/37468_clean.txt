@@ -1,0 +1,1 @@
+hoping incorporate function plot option plot sin pi filling axis fillingstyle sin lightgreen lightred plot sin pi plotstyle sin dashed thick avail possible pas plot option know manually accomplish effect via piecewise complicated application mind would want manually precompute interval piecewise defined function would need defined

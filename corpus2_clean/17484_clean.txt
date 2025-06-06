@@ -1,0 +1,1 @@
+using plotlegends plotstyle containing instance pointsize creates legend match plot listplot table randomreal normaldistribution plotlegends b plotstyle pointsize enter image description get sensible legend using number pointsize solution involving named size like pointsize medium inadmissible unless somehow create point constant size relative plot size

@@ -1,0 +1,1 @@
+calculation would like keep unit straight figured using built unit functionality could help however using si prefix seem give desired output try executing code milli meter pi micro meter n instead getting say e meter get meter micro milli milli meter micro globally defined name wrong

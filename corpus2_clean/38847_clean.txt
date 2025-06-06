@@ -1,0 +1,1 @@
+going circuit analysis problem came second order differential equation decided solve mathematica l frac mathrm mathrm r frac mathrm mathrm frac c used following syntax dsolve l r c l yet mathematica return following error dsolve overdet fewer dependent variable equation system overdetermined however second order ode overdetermined two boundary condition

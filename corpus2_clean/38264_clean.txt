@@ -1,0 +1,1 @@
+want solve differential equation frac dx left k left frac x right n frac dt x dx right boundary condition l frac q k n using dsolve cannot get solution anyone help

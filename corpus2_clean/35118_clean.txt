@@ -1,0 +1,1 @@
+way change general setting mathematica type e g get output opposed useful representation e want raw number formatted adjusted form want use operator like setprecision ideally want change setting whenever type number get full answer possible perhaps using command like setoptions frontend

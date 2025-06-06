@@ -1,0 +1,1 @@
+new mathematica reading way book playing around manipulate noticed following work x x n plot plot x x aspectratio manipulate plot n expected work using setdelayed function definition sure understand work however following work manipulate module x plot x x n plot plot x x aspectratio show plot n

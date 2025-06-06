@@ -1,0 +1,1 @@
+way make notebookwrite undooable example let say open new notebook run notebookwrite evaluationnotebook cell new content subsection way make text dissapear hit ctrl z

@@ -1,1 +1,0 @@
-hello months ive unsuccessfully attempted get either serial port working system various systems diagnostics eg msd norton tell anything hook cant use two serial ports motherboard set internal faxmodem utility programs report ive checked make sure irqs addresses correctly listed manuals set missing something basic go help even point right direction would appreciated

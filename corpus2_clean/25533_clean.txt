@@ -1,0 +1,1 @@
+trying evaluate integral int x int x min x n n n dxdy mathematica seem yield result integrate n n n x x min x wolframm alpha also fails saying standard computation time exceeded anyway evaluate integral also tried assuming x x integrate n n n x x min x

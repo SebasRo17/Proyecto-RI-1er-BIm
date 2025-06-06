@@ -1,0 +1,1 @@
+hi would simply like fill region vertical gridline right boundry plot example z vals evvals ptss mapthread list z vals evvals listloglinearplot ptss plotrange frame true true false false framelabel style x fontsize style fontsize gridlines none look like e shade region x many thanks enter image description

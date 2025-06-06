@@ -1,0 +1,1 @@
+would like create button click evaluates cell containing manipulate code also would like another button click output manipulate disappears

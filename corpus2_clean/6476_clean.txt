@@ -1,0 +1,1 @@
+example neuralnetworks data sin range pi learn data let fit neural network model fitrecord neuralarfit learn feedforwardnet criterionplot false p netpredict learn model predicthorizon listlineplot flatten learn join p plot result length p length learn true predict value predict value e g p p p arbitrary n value right idea use neuralarxfit dimension first n want predict value

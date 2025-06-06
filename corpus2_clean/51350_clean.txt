@@ -1,0 +1,1 @@
+need use fortran matrix create mathematica therefore need format fortan understand focus simplest example let say tha matrix created mathematica supposed use fortranform fortranform give output list list list question cannot input file fortran since number far aware could input file fortran put list list list nothing mathematica give output help please

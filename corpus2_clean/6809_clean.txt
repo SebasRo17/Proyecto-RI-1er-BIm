@@ -1,0 +1,1 @@
+possible collapse cell group current notebook tried nb selectednotebook selectionmove nb cellgroup frontendtokenexecute openclosegroup nothing change

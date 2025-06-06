@@ -1,0 +1,1 @@
+consider list mylist b bc r b b r c r b c etc real number want sum term list r infinity since list long mathematica take long time evaluate table sum mylist k r k length mylist instead would like write function apply list element x r x x think would lot faster mathematica computing geometric series element

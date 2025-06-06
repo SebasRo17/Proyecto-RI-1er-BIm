@@ -1,0 +1,1 @@
+according mathematica textbook write n x n using infix notation x n n function one argument argument possible

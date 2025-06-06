@@ -1,0 +1,1 @@
+suppose need create slider associated variable given list clearall b c var b c slider dynamic var dynamic var unfortunately work variable value clearall b c var b c slider dynamic var dynamic var see first slider working mma attempt assign value raw object instead nevertheless simple slider dynamic dynamic produce desired result right way thing

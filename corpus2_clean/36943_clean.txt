@@ -1,0 +1,1 @@
+list l kind n mathbb n l sort randomsample subset range n randominteger binomial n contains k sized subset duplicating integer select subset l k length gather flatten k k need length n k big think must simpler way get length generating obtainable property l determines length

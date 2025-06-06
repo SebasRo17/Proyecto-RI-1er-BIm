@@ -1,0 +1,1 @@
+one option componentmeasurements compute centroid based pixel value underlying image write componentmeasurements morphologicalcomponents image image intensitycentroid possible however something like intensity squared cubed centroid

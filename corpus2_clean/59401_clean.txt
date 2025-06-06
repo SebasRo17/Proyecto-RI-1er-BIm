@@ -1,0 +1,1 @@
+contourplot x x contour contourlabels true aspectratio automatic contourshading none give result enter image description want result like enter image description hope code work contourplot x x contour contourlabels text background white aspectratio automatic contourshading none give result enter image description control position contourlabels

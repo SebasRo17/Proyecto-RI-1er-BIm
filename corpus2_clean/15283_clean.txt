@@ -1,0 +1,1 @@
+given expresion e term function f given another function g could write module replaces function f g expresion e return example myfunction expresion f g myfunction f x f sin x evaluate sin x myfunction f x x f x evaluate myfunction f x f evaluate hope clear sorry bad english

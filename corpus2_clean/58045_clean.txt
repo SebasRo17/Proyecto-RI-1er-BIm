@@ -1,0 +1,1 @@
+suppose following simple regionplot f x x g x x regionplot f x f x g x g x x enter image description trying change curve defined g x thick black curve leaving boundary plot unchanged tried adding region g x playing plotstyle work tried boundarystyle changed boundary plot kinda idea help would appreciated

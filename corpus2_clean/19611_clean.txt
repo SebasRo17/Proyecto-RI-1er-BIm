@@ -1,0 +1,1 @@
+absolutely new mathematica actually want try implementing little optimization method long story short assuming predefined two variable function f x want calculate hessian matrix gradient symbolically want able quickly plug specific x value done mathematica

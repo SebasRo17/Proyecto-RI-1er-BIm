@@ -1,1 +1,0 @@
-trying run xwd sun sparcstation ipx sunos openwindows using motif window manager unsuccessful using xwd motif get following xwd xwddmp x error failed request baddrawable invalid pixmap window parameter major opcode failed request xgetimage resource id failed request serial number failed request current serial number output stream

@@ -1,0 +1,1 @@
+solved pde numerically using ndsolve need able use solution initial condition another ndsolve way

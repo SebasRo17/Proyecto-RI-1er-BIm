@@ -1,0 +1,1 @@
+calculate following integral large value alpha mathematica int exp left alpha sqrt x x right rm x int exp left alpha sqrt x right rm x

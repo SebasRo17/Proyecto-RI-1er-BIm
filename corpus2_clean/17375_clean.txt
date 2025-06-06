@@ -1,0 +1,1 @@
+found example findroot usage find documented look like findroot f x x documentation show case findroot lh rh x xstart xmin xmax search solution stopping search x ever get outside range example found extra argument mean thanks

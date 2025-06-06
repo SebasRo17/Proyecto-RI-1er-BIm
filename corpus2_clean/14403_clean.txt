@@ -1,0 +1,1 @@
+mathematica provides score convenient function make plot various logarithmic scale ax instance using listloglinearplot discrete plot logarithmic x axis linear axis issue however would like x axis binary logarithmic scale instead default logarithmic scale natural decimal tick particular need etc equally spaced x axis highlight periodic nature function plotting may proceed

@@ -1,0 +1,1 @@
+list containing j value index want create matrix dimension n time whose entry index corresponding given list otherwise zero e g list given list n output able shown believe could achieved shorter elegant code maybe one liner check n n module flag list list length list n n list flag flag n table check j n j

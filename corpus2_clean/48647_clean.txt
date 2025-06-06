@@ -1,0 +1,1 @@
+list function g x f x c x create list new function dg x df x dc x

@@ -1,0 +1,1 @@
+related delete current notebook cell using keyboard difference want delete whole group cell including original input cell print output message etc cell generated belong group however case several input cell grouped delete whole group subgroup belongs one input cell

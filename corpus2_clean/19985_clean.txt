@@ -1,0 +1,1 @@
+trying create button us systemdialoginput fileopen browse file assigns file name variable example button select file fname systemdialoginput fileopen dynamic fname work time however file browse several nested folder away default directory update value fname way around better function use eventually would like use button within manipulate

@@ -1,0 +1,1 @@
+vector form xp x yp simple way creating following matrix vector p p x multiplying matrix vector get original vector back following variable defined v b c e x f x f b x f x f c x f x f x f x f e x f x f fast way convert number appearing next letter example next x subscript goal create vector consisting several element look like v

@@ -1,1 +1,0 @@
-planning convert motif app pixel font units would set apps resource file instead hard coded program however word people tried already unknown reason xmform offsets placed resource file still interpreted pixel units forcing people code offset font units program somebody confirm

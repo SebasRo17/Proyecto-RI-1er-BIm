@@ -1,0 +1,1 @@
+want table single column data heading along row column one might expect work like tableform one two three tableheadings mm mm mm col work display data row label correctly label column missing

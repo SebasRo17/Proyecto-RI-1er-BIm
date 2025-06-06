@@ -1,0 +1,1 @@
+want display table like enter image description use divider get far table x grid divider true false false false true false false false enter image description remove extra part divider

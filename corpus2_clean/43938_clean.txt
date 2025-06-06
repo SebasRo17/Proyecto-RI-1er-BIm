@@ -1,0 +1,1 @@
+dealing sparse matrix large dimension need locate positive negative element matrix make list corresponding position course write program scan every element give output possible neater way instance make list used position future need get list position entry example suggested giving example one smallest list instance want make list position element

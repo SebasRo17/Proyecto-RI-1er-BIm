@@ -1,0 +1,1 @@
+trouble nminimize trying nminimize f x x f complicated function whole reason using nminimize f complicated able compute arbitrary x fixed value x fine well nminimize seemed taking outrageous amount time memory added print statement inside f f x module print x ran nminimize code surprise mathematica print x name local variable nminimize calling function non numeric value stop

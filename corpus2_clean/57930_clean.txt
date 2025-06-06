@@ -1,0 +1,1 @@
+say power series f x x mathbb z x admits unique expansion f x prod infty prod j infty x j n j integer j point n j le n j le determined uniquely f x sum n sum j f j x j prod n prod j x j n j x n solve n j given f j principle matrix integer coefficient need inverted first generate matrix invert write something like mathematica say solve

@@ -1,0 +1,1 @@
+example following polynomial equation left begin array dfrac x dfrac x x frac x z z x dfrac x z z pt frac z z dfrac x x frac x x frac z z pt frac z frac x z x frac x x z z frac z z end array right mathematica expression x x x x z z x x z z x x x x z z z z z x z x x x z z z z extract real solution new rule mean general approach solution mixed real complex solution rule

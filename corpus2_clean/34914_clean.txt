@@ -1,0 +1,1 @@
+say directed graph inputted following format mathematica g b like plot graph using graphplot mathematica following syntax graphplot b vertexlabeling true directededges true vertexcoordinaterules auto vertexlabeling true would swap middle element last element list like g g would look closer argument graphplot b searched mathematica documentation unable find good way

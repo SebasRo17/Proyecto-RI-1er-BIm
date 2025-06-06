@@ -1,0 +1,1 @@
+system ode eqns solve first independently use result solve remaining easy example would dot x f x quad dot g x solve x want use interpolating function solve thanks

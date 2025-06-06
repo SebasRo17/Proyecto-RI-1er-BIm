@@ -1,0 +1,1 @@
+beginner mathematica programming trying play little tensor analysis encountered problem define example vector manner v v v v get recursive definition due situation v variable right hand left hand side

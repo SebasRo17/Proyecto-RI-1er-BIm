@@ -1,0 +1,1 @@
+simple way zoom particular portion plot similar gnuplot xmgrace using magnifier selecting region usually varying plotrange manually putting plotrange manipulate convenient option heavy plotting involve complicated function large data anything like magnifier tool something similar

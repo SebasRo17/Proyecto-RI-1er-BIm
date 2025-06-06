@@ -1,0 +1,1 @@
+possible evaluate erf arbitrary precision get result would like know arbitrary precision possible need compare gaussian approximation hypergeometric distribution value using result approx instead rely nintegrate specify directly precision

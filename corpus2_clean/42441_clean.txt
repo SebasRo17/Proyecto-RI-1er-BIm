@@ -1,0 +1,1 @@
+code trying make simulation double pendulum eq eq l l g tmax sol ndsolve l g sin p l p g sin p l p l sin p q q co p q q l g sin p l sin p q p co q q p l q p eq q eq p q p q tmax ndsolve conarg argument ordered consistently

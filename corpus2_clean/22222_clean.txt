@@ -1,0 +1,1 @@
+need specify length tick mark x axis barchart plot barchart barspacing ax true tick none ticksstyle red enter image description modify style setting tick mark x axis however found possibility remove see code option tick none give specified position tick mark particular want specify length positive negative direction like described tick description documentation center

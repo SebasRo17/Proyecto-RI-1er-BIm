@@ -1,0 +1,1 @@
+following algorithm b z z z z z z z z rationalize fullsimplify n n n root z im z solve b z n z g n plot graphic absolutepointsize lighter gray circle blue tooltip point root first listcurvepathplot root plotstyle blue frame true framelabel z im z plotlabel root tostring b z traditionalform n ax true x print g n loop working want embed graphic one graphic

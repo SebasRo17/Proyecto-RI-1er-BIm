@@ -1,0 +1,1 @@
+would like replace following code n flatten table join nestlist ab difference b c e n evaluate b c e n n n absolutetiming n join nestlist ab difference n tuples range n n n timing second method much slower first make fast

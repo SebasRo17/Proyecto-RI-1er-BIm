@@ -1,0 +1,1 @@
+question plot labeling mathematica x l l want draw graph v x evaluate plot x imagesize scaled plotlabel style v x fontsize get four different line plot want know label line relevant l value e g l corresponding line could anyone please tell

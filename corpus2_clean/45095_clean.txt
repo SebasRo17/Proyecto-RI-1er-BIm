@@ -1,0 +1,1 @@
+surface different cpts table x randomreal x surf bsplinesurface cpts surffn bsplinefunction cpts show plot surffn x x mesh none plotstyle red boundarystyle red basestyle thick graphic edgeform blue thick surf background graylevel enter image description

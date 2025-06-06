@@ -1,0 +1,1 @@
+histogramlist return list bin boundary list count one boundary count like pair feed listlineplot get alternative view histogram code bin count n histogramlist randomvariate normaldistribution point transpose riffle bin bin flatten riffle count count note also add zero bring resulting curve axis listlineplot point mathematica graphic simpler intuitive way achieving behavior

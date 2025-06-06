@@ -1,0 +1,1 @@
+mathlink support two communication protocol platform tcpip shared memory additional protocol supported system filemap pipe according doc much familiarity mathlink c language interface question mathlink communication protocol user customizable mathlink extended user use alternative underlying communication protocol example

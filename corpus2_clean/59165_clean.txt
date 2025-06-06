@@ -1,0 +1,1 @@
+macro tex file writing would like mathematica use notation output texform command example write equation b would like output use texform expression bias want mathematica output variable name b bias texform command achieved

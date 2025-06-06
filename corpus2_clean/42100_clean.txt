@@ -1,0 +1,1 @@
+ndsolve ndnum encountered non numerical value derivative x enter image description

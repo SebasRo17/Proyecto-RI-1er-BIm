@@ -1,0 +1,1 @@
+assuming two element permutation group algebra sum p n alpha pp want define linear product odot distributes sum pull scalar odot sum p n sum q n alpha p alpha qp odot q p odot q equiv permutationproduct p q try example distribute permutationproduct cycle cycle cycle cycle result cycle permutationproduct cycle cycle sure make take constant outside product

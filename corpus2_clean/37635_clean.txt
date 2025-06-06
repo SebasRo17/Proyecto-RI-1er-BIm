@@ -1,0 +1,1 @@
+trying write exercise greek using createwindow problem using greek character option windowtitle example createwindow documentnotebook windowtitle get new window title nu alpha one understand title cam get proper glyph instead full name

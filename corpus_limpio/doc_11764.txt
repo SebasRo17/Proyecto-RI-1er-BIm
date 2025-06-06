@@ -1,1 +1,0 @@
-hi rtrace ray tracer supports text primitive collections spheres cylinders chars made lines splines extruded please look asterixinescnpt directory pubrtrace pubrtracetmp demo images high quality text called textjpg jpeg encoded see first tell think

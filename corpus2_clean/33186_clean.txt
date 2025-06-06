@@ -1,0 +1,1 @@
+formula many contains sum perfectly able computation list however need several manual step therefore wonder would elegant way adding sequence hold expression something similar making run without needing step wise computation manually frac x bar x sum x bar x please note manually mean example calculating mean first subtract list sum

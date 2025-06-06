@@ -1,0 +1,1 @@
+trying solve two point boundary value problem piecewise system equation like dx piecewise x x dy piecewise x ndsolve x dx dy x x produce error ndsolve bvdisc ndsolve currently able solve boundary value problem discrete variable tried answer entering fun parametricndsolvevalue x dx dy x yt x end yt findroot fun yt end yt yield error way solve system thanks help

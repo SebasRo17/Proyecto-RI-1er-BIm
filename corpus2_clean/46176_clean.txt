@@ -1,0 +1,1 @@
+trying sum following expression co n co n n co n co n n n excluding term n split sum two first n second n n run two problem first series evaluate mathematica return expression however plot plugging value n n n always greater n find function well behaved interval second series n n sum evaluates complicated qpolygamma function fullsimplify help help would appreciated

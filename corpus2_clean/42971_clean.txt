@@ -1,0 +1,1 @@
+list containing zero nonzero element throw away zero element keep non zero one

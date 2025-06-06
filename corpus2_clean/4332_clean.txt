@@ -1,0 +1,1 @@
+consider following data whereas first element represent date absolute time e corresponds pattern absolutedate value would like calculate sum value corresponding absolutedate equal e g

@@ -1,0 +1,1 @@
+consider following three evaluation involving flatten flatten f f f x f x infinity f f x x expected flatten list f f x f x infinity f x x expected flatten list list f x f x infinity f f x x expected x x would like know expectation wrong

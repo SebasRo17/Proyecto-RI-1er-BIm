@@ -1,0 +1,1 @@
+would like find occurrence full stop followed capital letter string replaced mathematica e g string test new sentence output test new sentence edit also one pattern matching question string would like every line occuring next line n deleted one e g string line deleted nthis one nbut one deleted nthis one output one nthis one

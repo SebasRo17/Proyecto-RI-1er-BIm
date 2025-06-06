@@ -1,0 +1,1 @@
+could someone explain odd behavior derivative function drawing argument list derivative b c b c analogously derivative b b c c b b c c far good however lst b b c c derivative lst lst lst lst lst lst lst output last case lst lst one would expect based previous example get list list answer instead list get expected result

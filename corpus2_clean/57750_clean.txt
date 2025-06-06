@@ -1,0 +1,1 @@
+input mat quad quad left begin array cccccc end array right would like split matrix column zero process remove column matrix expected output output

@@ -1,1 +1,0 @@
-get pixel value drawable without copy client ximage use xgetpixel want select pixels animating window server without copy whole lot back client pointers appreciated gordon

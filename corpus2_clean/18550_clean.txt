@@ -1,0 +1,1 @@
+trying plot simple vortex cylindrical coordinate give v phi frac gamma pi r alternative method plot example using streamplot converting r cylindrical unit vector vec phi cartesian rectangular coordinate

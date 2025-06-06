@@ -1,0 +1,1 @@
+try example export txt n n readlist txt record plusminus b b know import handle correctly stringsplit import txt readlist generally much faster right well scanning post link inside noticed mathematica may good still want make sure possible

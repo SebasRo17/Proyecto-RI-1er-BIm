@@ -1,0 +1,1 @@
+generating sound object using sound primitive like need audio sound sound listwaveform get sample amplitude data produced sound primitive given sample rate obviously one could export sound wav file import directly let say rasterize function sound inverse listplay sorry rather simple question looking time could find anything

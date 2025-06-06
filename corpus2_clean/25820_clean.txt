@@ -1,0 +1,1 @@
+vector calculation without telling mathematica vector entry many arbitrary linear combination mathbb r want perform general calculation scalar vector product want use mathematica especially simplifying stuff like long equation scalar prodcuts vector product want write vector stuff like v b c vn bn cn want say v vn vector possible

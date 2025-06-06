@@ -1,0 +1,1 @@
+suppose application need configured specifically user system e g application need told location certain data directory best way provide possibility user user enter information every time load package

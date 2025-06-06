@@ -1,0 +1,1 @@
+new mathematica question regarding plotting ode boundary value problem let say ode alpha beta eq beta f x alpha f x f x bc f f f ndsolve eq bc f x x want plot alpha f f v beta plot beta take range ndsolve use shooting method numerical solution also extract data plot txt file

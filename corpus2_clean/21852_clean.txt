@@ -1,0 +1,1 @@
+try solve non homogeneous differential equation dsolve x x co x b co x c co x co x co x e co x fcos x co x h co x co x co x x x get solution square sin x co x want remove sin x term solution want express solution term co x co x input give result want

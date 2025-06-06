@@ -1,0 +1,1 @@
+add arrow certain point curve direction arrow tangential point line straight log plot logplot plotrange frame true true true false imagesize plotstyle directive black thick basestyle fontsize rotatelabel false aspectratio enter image description

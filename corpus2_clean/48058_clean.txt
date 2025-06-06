@@ -1,0 +1,1 @@
+dataset data ranked regard number ranking total dataset made simple example name set set b set c value name value transpose would like add rd column described rank total column tried rankedmax without luck exactly matrix show problem third column ranking highest lowest value left begin array ccc text set text set text set end array right create column

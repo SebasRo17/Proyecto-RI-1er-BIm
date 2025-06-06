@@ -1,0 +1,1 @@
+querying sql database databaselink resulting sqldatetime object shifted hour daylight saving time date stored database without dst shift seems like mathematica applying change eliminate spurious shift workaround getting absolutetime style integer instead sqldatetime expression would fine

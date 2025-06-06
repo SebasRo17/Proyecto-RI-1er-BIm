@@ -1,0 +1,1 @@
+list want get element list match given pattern want string match following pattern first last character aw two consecutive similar character era awe rt aa wrote following code inputset tostring outputset complement inputset select inputset stringmatchq stringexpression x x stringmatchq stringexpression x x got outputset easy simple efficient way

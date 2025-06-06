@@ -1,0 +1,1 @@
+discovered something rather odd using chemical curated data mathematica tried extract edgerules molecule molecule gave several copy said edgerules list bug found similar thing happening curated data example chemicaldata edgerules glutamine alanine serine input give copy edgerules given molecule

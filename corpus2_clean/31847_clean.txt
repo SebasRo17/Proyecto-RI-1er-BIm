@@ -1,0 +1,1 @@
+anyone know searched documentation online mathsource way coax following factorization mathematica lu lu factorization pa lu lu factorization partial pivoting paq lu lu factorization full pivoting ldu ldu decomposition found one library mathsource lu behave well

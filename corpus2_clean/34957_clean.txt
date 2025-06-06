@@ -1,0 +1,1 @@
+normal regex l make character right lowercase however seems like regex mathematica functionality example stringcases abba regularexpression l return following error message regularexpression msg mathematica support l l n p p u u x regularexpression l workaround use note sufficient need character lowercase thanks

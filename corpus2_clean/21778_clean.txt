@@ -1,0 +1,1 @@
+say symbol ownvalue define integration like f numericq nintegrate z z calling f result error probably holdall attribute nintegrate using evaluate help integration like done correctly

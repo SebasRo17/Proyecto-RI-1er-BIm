@@ -1,0 +1,1 @@
+trying find number n n n mod k using mathematica first try reduce n n n modulus however receive following error reduce nsmet system cannot solved method available reduce using n instead n work fine problem n top keep modulus k variable therefore receive solution dependent k

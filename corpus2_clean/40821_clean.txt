@@ -1,0 +1,1 @@
+today use lagarange method deduce robot dynamic equation use mma help calculate want use x b b v bx v v b represent point b displacement velocity square velocity respectively however mma give warning information set tag plus protected code subscript x b l sin theta l sin theta theta subscribe subscript x b xb go well question wtite variable like form calculate hand

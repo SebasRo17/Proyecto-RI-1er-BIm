@@ -1,0 +1,1 @@
+want mathematica simplify cosh x co x tell mathematica x real tried everything end giving cosh x back

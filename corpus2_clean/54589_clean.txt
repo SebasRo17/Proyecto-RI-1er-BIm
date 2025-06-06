@@ -1,0 +1,1 @@
+n board constantarray n n diag x module x x x x x n n board x x n n matrix zero given coordinate matrix need increase everything major diagonal one runchart work fine increase x one believe loop executing statement sure

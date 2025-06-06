@@ -1,0 +1,1 @@
+often seek display two graph side side common label option adding label graphicsrow mean think need use grid graphicsgrid include row top spanfromleft set allow graphically defined line text occupy entire row seems like lot work something simple better solution

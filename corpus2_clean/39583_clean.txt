@@ -1,0 +1,1 @@
+trying insert milliion line sql database get error jdbc error java heap space insert standart mathematica sql statement conn myconn ip column col col col col sqlinsert conn mytable column data closesqlconnection conn data list million element row command work fine smaller number row know could break data small chunk would like know solve increasing java heap space

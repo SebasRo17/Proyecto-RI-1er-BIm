@@ -1,0 +1,1 @@
+true return false negate boolean vector true false true exclamanation mark work like true false true

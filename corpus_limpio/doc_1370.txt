@@ -1,1 +1,0 @@
-hi im trying build mit core distribution sparcstation running sunos thing change projectroot sitedef make world process goes cc xdm get following error ld undefined symbol error code process continues finish anybody know whats wrong thanx info

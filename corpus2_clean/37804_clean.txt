@@ -1,0 +1,1 @@
+help page findroot say default findroot us newton method newton raphson solve nonlinear system still following puzzle jacobian calculated iteration symbolically using finite difference approximation dumping method step used jacobian step invertible

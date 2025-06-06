@@ -1,0 +1,1 @@
+anybody evaluate following sum sum limit n infty n left frac psi n n frac lambda n n right psi n chebyshev function lambda n von mangoldt function efficient algorithm evaluate sum used following code f n sum mangoldtlambda n sum n f n n mangoldtlambda n n n infinity

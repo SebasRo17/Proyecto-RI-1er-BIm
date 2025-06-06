@@ -1,0 +1,1 @@
+would like calculate following mathematica let x random variable probability function p x left begin matrix frac x text x text otherwise end matrix right calculate p x leq e x var x major problem create probability function correct distribution since specific distribution informed task solve help result respectively

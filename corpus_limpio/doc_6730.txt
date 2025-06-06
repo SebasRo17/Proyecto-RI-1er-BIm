@@ -1,1 +1,0 @@
-anyone know decode color information ntsc signal need convert data rgb video capture utility writing use ibm mmotion video adapter card need know v u signals work color process thanks advance information algorythms etc

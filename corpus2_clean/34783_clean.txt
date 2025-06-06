@@ -1,0 +1,1 @@
+long list date value would like use datelistplot plot subrange date date range axis automatically chosen min max value two date e trivial automatic zooming sure mathematic simple option choice must dumb cannot find help thanks p simple code show issue using financial data spx financialdata sp datelistplot spx plotrange automatic plotlegends placed namesfrom left bottom plotlabel

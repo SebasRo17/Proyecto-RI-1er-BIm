@@ -1,0 +1,1 @@
+trying solve equation dx dy psi x psi code eq x x x x x dsolve eq x output return unevaluated expression receive thing solution pde psi exp x

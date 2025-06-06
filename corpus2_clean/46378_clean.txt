@@ -1,0 +1,1 @@
+possible load static library lib compiled c using netlink similar mathematica

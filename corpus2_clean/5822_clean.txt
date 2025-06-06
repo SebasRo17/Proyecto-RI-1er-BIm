@@ -1,0 +1,1 @@
+trying build head recognizes molecule code mol arg invalid molecule mol except subscript string integer message mol arg expect code recognize molecule form mol subscript c subscript n issue message something like mol subscript c entered however enter last one message issued understand wrong

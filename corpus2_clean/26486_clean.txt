@@ -1,0 +1,1 @@
+describing hermite normal form hnf mathworld explains hermite normal form integer matrix implemented mathematica hermitedecomposition however us row convention thus making mathbf h upper triangular replaces condition h j leq h j h j balanced remainder pmod h ii way using mathematica without much coding compute hnf column convention

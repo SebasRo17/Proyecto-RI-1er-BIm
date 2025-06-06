@@ -1,0 +1,1 @@
+want integrate interpolating function x certain region xy plane problem mathematica taking long hoping someone know method speed calculation integration expression nintegrate x x accuracygoal precisiongoal method localadaptive chose localadaptive read usefull integration higher dimension interpolating function x look like enter link description

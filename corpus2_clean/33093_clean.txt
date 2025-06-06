@@ -1,0 +1,1 @@
+mathematica barcode image reader much like textrecognize allows user enter image barcode read get output string

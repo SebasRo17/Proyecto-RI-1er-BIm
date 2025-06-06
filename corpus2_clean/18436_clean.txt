@@ -1,0 +1,1 @@
+clear symbol used notation function description arrow enter textual mode within workbench

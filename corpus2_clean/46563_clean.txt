@@ -1,0 +1,1 @@
+written code listplot da plotmarkers filledcircle plotstyle black joined true mesh meshstyle red plotlegends placed style fontsize p top right want black line go red data point want plot legend red however using code get black plot legend enter image description set plot legend color independent plot extend solution multiple graph one plot

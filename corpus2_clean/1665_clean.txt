@@ -1,0 +1,1 @@
+consider list ak sublists length varying subsublist ak ak going gap missing point need compute mean sublists equal second value select flatten ak list second value item approx using paralleltable mean select flatten ak gazeno gazeno range need slow way computation faster download mb list ak uncompress import string

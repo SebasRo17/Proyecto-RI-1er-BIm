@@ -1,0 +1,1 @@
+using curvegraphics nb try related phase portrait graphic following work produce animation pic ndsolve x z x z z z x z x z animate true plotpoints imagesize headlength defaultduration last attempt export temp gif pic export gif animation wrong also welcome anyone idea better show see use nice phase portrait system maybe someone kind enough provide guidance really

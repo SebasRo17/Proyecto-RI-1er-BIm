@@ -1,0 +1,1 @@
+given directed acyclic graph want remove edge v rightarrow v j v j reachable v path given rich set graph algorithm mathematica best way achive background problem list job dependency e g rightarrow b mean job b start job finish list rightarrow b b rightarrow c rightarrow c redundant rightarrow c implied want reduce dependency bare minimum

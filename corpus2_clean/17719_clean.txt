@@ -1,0 +1,1 @@
+suppose list number want exponentiate element wise sum everything polynomial example b c would like get poly xy z x z x z unfortunately familiar functional programming style mathematica intended used write something like length term x part part b z part c poly poly term may expect taking quite long time evaluate would anybody thought would rewrite make efficient

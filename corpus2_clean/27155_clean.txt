@@ -1,0 +1,1 @@
+inputfield adjust fill remaining size window automatically example enter image description using imagesize option often either freeze take second longer run mathematica window longer issue

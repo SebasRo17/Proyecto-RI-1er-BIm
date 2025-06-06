@@ -1,0 +1,1 @@
+consider complete graph vertex enter image description method give list interesting edge say want get subgraph g corresponds precisely given edgelist use subgraph g e e undirectededge undirectededge get back original graph preserve color includes extra edge namely want however subgraph pattern argument might trick perhaps easier way

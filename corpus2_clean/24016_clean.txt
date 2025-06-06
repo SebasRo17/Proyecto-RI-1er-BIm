@@ -1,0 +1,1 @@
+would like use different norm instead norm findfit mathematica example instead using sqrt sum x mathrm model x mathrm data like use sum frac x mathrm model x mathrm data tell findfit use user created function normfunction however unsure syntax use defining x mathrm model anyone point example code using user defined normfunction findfit ndsolve

@@ -1,0 +1,1 @@
+often import file excel csv file come format like dimension case want name column first row case would mean row one would called equal tried several way keep getting different error simple efficient solution would mean want shown every time enter mathematica also word start capital word case would like transformed etc

@@ -1,0 +1,1 @@
+matrix sparse matrix want convert sparse block matrix basically want arrayflatten except want output sparse e g sp sparsearray sparsearrayflatten sp sp return sparsearray currently use sparsearray arrayflatten large matrix inefficient sometimes arrayflatten return sparse array completely figured example remove sign use instead get sparse result

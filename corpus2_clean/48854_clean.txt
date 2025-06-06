@@ -1,0 +1,1 @@
+expression h n n n n real integer n although indeterminate n mathematica computes limit n like use expression discreteconvolve even first declare h computation like discreteconvolve h discretedelta n n yield h explicit infinite summation representation result indeterminate make operation h usable

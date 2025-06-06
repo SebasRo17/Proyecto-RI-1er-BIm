@@ -1,0 +1,1 @@
+draw coloured diagram like graphic cmykcolor rectangle cmykcolor rectangle select red rectangle using drawing tool colour give different colour originally input enter image description exported image eps opened illustrator red back colour slider mathematica giving different value

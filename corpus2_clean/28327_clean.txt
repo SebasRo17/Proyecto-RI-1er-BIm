@@ -1,0 +1,1 @@
+using nmaximize following code nminimize x x randomvariate normaldistribution x x x x randomvariate normaldistribution x randomvariate normaldistribution x x x x x x x x x x x x x x x want variate random variable time capture optimized data including maximized function value variable time best way capture course situation answer also unboundedness taken account

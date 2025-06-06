@@ -1,0 +1,1 @@
+consider following line code densityplot sin pi x co pi x x mesh meshstyle thick following output mesh convert shown mesh graph object vertex aligned intersection line withe correct vertexcoordinates edge line segment plot connect corresponding vertex note g result graph following code give figure one show densityplot sin pi x co pi x x g

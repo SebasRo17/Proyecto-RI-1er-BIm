@@ -1,0 +1,1 @@
+want open one plot new window use javagraphics plot open new window put javagraphics one last plot work plot

@@ -1,0 +1,1 @@
+try plot gravity field something similar form like r r standart builtin vectorplot function vectorplot x x x x look like look like get something strange run command get suggestion thanks cx

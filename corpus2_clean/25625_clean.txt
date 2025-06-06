@@ -1,0 +1,1 @@
+trying get symbolic expression mathematica would like paste c matlab code accomplished nicely selecting expression right clicking select copy plain text however one small issue consider simplest possible case symbol b c b b tell mathematica produce output b b without go pain replacing manually space c matlab code espcecially long expression

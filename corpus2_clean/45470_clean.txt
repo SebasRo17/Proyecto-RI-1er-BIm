@@ -1,0 +1,1 @@
+want get solution ordinary differential equation imposed initial condition confused following code work remove global eqn x g x v x v x v x inicond v v eqnlist join eqn inicond dsolve eqnlist v x x anyone help

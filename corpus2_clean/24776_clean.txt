@@ -1,0 +1,1 @@
+following series f x sin x n ni x sum f k k x k gamma k gamma n k k n sum k x k gamma k gamma n k k n plot ni x f x x aspectratio automatic plotrange number term n plot give expected increasing plot becomes corrupted setting minprecision affect result series proven converge f x sin x bad plot

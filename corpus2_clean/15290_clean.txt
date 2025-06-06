@@ -1,0 +1,1 @@
+recently saw produce xkcd style graph evaluated code deployed result cdf everything working fine except cdf notebook graph scaled according size window start original size resizing window graphic also get smaller resized window want graph scaled window prevent

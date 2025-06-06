@@ -1,0 +1,1 @@
+trying make visual representation curve x x left right vector field defined vec f left x right however far tell seem facility allows mathematica looked much documentation could find seemed pertinent know separately e g plot x x vectorplot x x however unsure combine two plot plot time thanks advance

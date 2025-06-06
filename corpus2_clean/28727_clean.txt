@@ -1,0 +1,1 @@
+possible analytic calculation mathematica example want compute partial frac sum j n g j prod k j g k partial g l prod k neq l g k possible define analytic function arbitrary parameter n right hand defining function like f b c b c b b c want generally n vector vector

@@ -1,0 +1,1 @@
+would like expand function frac x frac x frac x frac frac x frac x left frac x left frac x right cdots right tried series x x infinity apprently work robust way realize kind expansion assume x sufficiently large

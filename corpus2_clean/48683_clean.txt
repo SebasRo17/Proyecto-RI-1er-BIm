@@ -1,0 +1,1 @@
+running binarize edgedetect filled black white image resulting black image image following color distribution image point falling either zero one bucket image import imagelevels image dragon binarize attempt b binarize image imagelevels b produce black image level showing zero value tried various threshold including default explicit value still get zero level

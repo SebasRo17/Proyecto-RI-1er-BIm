@@ -1,0 +1,1 @@
+choose letter four letter b c combination using combination formula frac n r n r b c b c b c consider collection subset set n element restrict exactly cardinality k k find combination group n dynamic letter common example expecting result combination two group k element three collection b c c b b c small example would like algorithm work large number set set

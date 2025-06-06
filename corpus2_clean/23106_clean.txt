@@ -1,0 +1,1 @@
+assume w n expand sum binomial n k k k n k k n f x z polynomialremainder w z w w x according definition function f depends x z want new function depends x z example put value x z want function g obtain thanks

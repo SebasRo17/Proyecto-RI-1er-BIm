@@ -1,0 +1,1 @@
+create two timeseries metainformation combine one temporaldata object lose metainformation timeseries object t timeseries metainformation signaalnaam cr hah eenheid t timeseries resamplingmethod interpolation interpolationorder metainformation signaalnaam cr hah eenheid td temporaldata t t td metainformation t gone design

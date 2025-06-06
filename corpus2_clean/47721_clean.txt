@@ -1,0 +1,1 @@
+histogramdistribution take list data point creates histogram return histogram form used distribution already binned data original data point create distribution object equivalent histogram distribution using binning data let assume binned data format histogramlist return example data bin n histogramlist randomvariate normaldistribution

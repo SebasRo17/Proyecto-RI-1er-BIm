@@ -1,0 +1,1 @@
+saw recent question r realized function compute chromatic index number graph really slow method deprecated combinatorica compute chromatic index number graph

@@ -1,0 +1,1 @@
+mathematica script table paralleltable f u u export filename csv table computes export table rather complicated function f execute using math script table command take long time calculate table would like abort calculation way obtain information already calculated far

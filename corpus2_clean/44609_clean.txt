@@ -1,0 +1,1 @@
+expression obtain integral integrate sqrt u fullsimplify denominator numerator result obvious common factor sqrt u let mathematica cancel common factor tried cancel refine variable positive

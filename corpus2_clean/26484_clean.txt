@@ -1,0 +1,1 @@
+trouble something seems straightforward recursive sequence would like produce look follows recurrencetable n n n n seems like work mathematica complaining n integer try call n th part really interested large recurrencetable form rather posted since recurrencetable seems much efficient generating large recursive sequence function able find would love find way able use

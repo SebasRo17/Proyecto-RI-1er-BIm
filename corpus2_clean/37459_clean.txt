@@ -1,0 +1,1 @@
+want plot piecewise smooth vector field instance f x x f x xy xy x h x x f x begin case f x text h x f x text h x end case plot f x mathematica

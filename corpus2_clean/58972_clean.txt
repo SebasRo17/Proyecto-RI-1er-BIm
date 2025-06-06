@@ -1,0 +1,1 @@
+huge panel data million observation group want calculate group wise mean also need id variable result done dat result table n mean select dat taking long time make quicker also want calculate group wise max value second column help greatly appreciated

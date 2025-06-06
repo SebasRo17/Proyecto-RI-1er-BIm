@@ -1,0 +1,1 @@
+created spline function list point made plot follows list g bsplinefunction list splineweights listplot table g need plot evenly placed point take plot sample table larger scale plot gaping hole extreme need way adjust density spline function without adding point adding point proving effective solution

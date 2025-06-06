@@ -1,0 +1,1 @@
+want integrate int pi dt frac b co c co b c real number c leq leq pi used straightforward command mathematica integrate b co c co assumption real b real c c get obviously incorrect answer pi frac b clearly integral propto c c gg question wrong general lesson learnt mathematica handle kind integration correct way ask perform integration

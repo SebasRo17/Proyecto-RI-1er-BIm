@@ -1,0 +1,1 @@
+evaluating int frac x x x x x dx version give following answer frac log x frac log x frac log x seems correct answer frac log color red x frac log color red x frac log color red x c missing something fix edit integrate x x x x x x

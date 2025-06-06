@@ -1,0 +1,1 @@
+want solve time dependent schroedinger equation partial psi h psi matrix time dependent h vector psi efficient way efficiently scale high dimensional space

@@ -1,0 +1,1 @@
+looking expansion series erfi x x infinity obtain e x sqrt pi x x note imaginary argument front look wrong think imaginary number front thought due branch cut positive x axis look like case looking output mupad matlab obtain correct expansion listed response bug

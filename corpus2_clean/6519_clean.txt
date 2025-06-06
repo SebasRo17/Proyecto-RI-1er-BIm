@@ -1,0 +1,1 @@
+let say n time n square matrix ldots exact number entry want find subspace v mathbb c n invariant matrix clean way way seems require writing ridiculous amount code scratch thing like calculate intersection get invariant subspace belonging particular generalized eigenspace etc

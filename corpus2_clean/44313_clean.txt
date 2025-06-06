@@ -1,0 +1,1 @@
+im trying solve pde system periodic boundary condition c c pi mathenmatica say ndsolve bcedge boundary condition c c pi specified single edge boundary computational domain replace everything fine anyone explain tell mathematica solve thanks reading

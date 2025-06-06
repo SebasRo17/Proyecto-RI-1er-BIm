@@ -1,0 +1,1 @@
+list vector vecs vec vec vecn veci list length n matrix n n called mat would like efficiently get number veci mat veci n list

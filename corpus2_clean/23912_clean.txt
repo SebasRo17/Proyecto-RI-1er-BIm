@@ -1,0 +1,1 @@
+output graph propertylist g terminalscoordinates vertexcoordinates vertexshape vertexshapefunction vertexsize vertexstyle extract vertex info separately different set

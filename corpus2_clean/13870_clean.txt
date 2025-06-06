@@ -1,0 +1,1 @@
+near tell notebookprint go directly default printer without employing system standard process opening print dialog first specifically like able use notebookprint alternative function someprintfunction print arbitrary expression expr using form someprintfunction expr standard system dialog printing appear way force notebookprint function

@@ -1,0 +1,1 @@
+given image would like measure much percentage relative square area black delimited square filled green import enter image description bit lost usage image processing function seems like morphologicalperimeter pixelvaluepositions imagedata could useful find way detect square matter calling imagedata area count number green pixel tip please

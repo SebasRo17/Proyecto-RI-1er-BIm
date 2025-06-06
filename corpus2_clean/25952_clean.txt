@@ -1,0 +1,1 @@
+server work would like use remote kernel access via terminal server running red hat client window know kernel set want check however know perform check terminal guide seen far require front end way configure remote kernel via terminal

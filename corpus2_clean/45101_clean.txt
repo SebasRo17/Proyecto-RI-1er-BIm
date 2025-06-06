@@ -1,0 +1,1 @@
+external program call mathematica script upon certain event script requires large mathematica library load take way run initial script load library following script call us kernel

@@ -1,0 +1,1 @@
+trying solve following system differential equation eqn x k x x c x x eqn x k x x c x x k x c x c co pi k sin pi solve using following code ndsolve ivals x x x x soln ndsolve eqn eqn ivals x x try solve get following error message ndsolve ndnum encountered non numerical value derivative understand would much appreciate help

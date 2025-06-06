@@ -1,1 +1,0 @@
-experiment sun openwindows xterm window log solaris machine using rlogin ls get first character line display last column display rest line wrapped next line display log condition persists check stty try reset effect condition happens tab set spaces set check

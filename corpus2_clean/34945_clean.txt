@@ -1,0 +1,1 @@
+procedure one may determine eigen value function r given xi say g eta eta r xi f h q ndsolve f x x f x h x r q x h x x h x xi x f x q x x q x f x f f h eta h q q eta f h q x xi findroot g eta eta r xi r eta eta maxiterations condition f normalisation condition problem code converge always output looking like enter image description thanks

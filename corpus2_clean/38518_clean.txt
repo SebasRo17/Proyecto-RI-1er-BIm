@@ -1,0 +1,1 @@
+time consuming computation obtained lot array variable however restart mathematica kernel computational result disappeared save workspace variable file use loading file next time restart mathematica matlab current workspace saved mat file save used load

@@ -1,0 +1,1 @@
+want define function involves differentiation step mathematica easily might form f b z j hypergeometric f b z z j work given numeric z small part problem using limited set j quite intensively z therefore important symbolic differentiation take place mathematica repeatedly trying symbolic manipulation running plot numerical integration cleanest elegant way

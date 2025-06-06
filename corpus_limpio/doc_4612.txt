@@ -1,1 +1,0 @@
-dear trying get standard connection going gvc ethernet card know router modem working able ping finger even telnetd however time crashes randomly help would greatly appreciated suspect hardware conflict pc running mb ram ethernet card configured irq ports thanks advance know much go dont even know questions ask sorry please send mail

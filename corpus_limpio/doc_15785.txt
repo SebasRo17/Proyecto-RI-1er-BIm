@@ -1,1 +1,0 @@
-hi im looking program able display bits images using sun sparc equipped parallax graphics board running

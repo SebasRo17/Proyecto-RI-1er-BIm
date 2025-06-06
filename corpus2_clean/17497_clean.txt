@@ -1,0 +1,1 @@
+execute following command mathematica n b n mathematica return b b b enter n b n mathematica return b without default value n mathematica return instance b b could someone explain different behavior

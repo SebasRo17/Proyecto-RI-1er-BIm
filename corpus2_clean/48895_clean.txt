@@ -1,0 +1,1 @@
+find list l position element satisfying boolean function f example pick first element equal minimized version aswer short code welcome

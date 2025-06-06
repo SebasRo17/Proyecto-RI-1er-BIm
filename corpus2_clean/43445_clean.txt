@@ -1,0 +1,1 @@
+want find fourier transformation function given f heavisidetheta heavisidetheta purpose use built function two way fouriertransform f q q fouriertransform f q q output different depending order variable please see q q q diracdelta q q diracdelta q q q diracdelta q diracdelta q q q q q diracdelta q q diracdelta q q q thought know different please help figure one correct

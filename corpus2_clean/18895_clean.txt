@@ -1,0 +1,1 @@
+trying simple variable substitution within contourplot working example contourplot x x contourplot x z x z second line although mathematically identical produce contour substitution correctly edit look like initial question solved simply wrapping argument evaluate however plot obey rule following work without evaluate plot x x plot x x z z

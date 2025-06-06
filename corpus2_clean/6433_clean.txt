@@ -1,0 +1,1 @@
+trying import csv file mathematica aim charting tradingchart command done take import eurusd csv tableform date low max volume open close tradingchart eurusd tradingchart ldata original data valid dataset list datasets dataset valid form hint fix

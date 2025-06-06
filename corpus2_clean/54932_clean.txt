@@ -1,0 +1,1 @@
+initialization code setting context path defining globally useful function notebook suitable init several notebook need run initialization code every time content used code put notebook run content initialization notebook

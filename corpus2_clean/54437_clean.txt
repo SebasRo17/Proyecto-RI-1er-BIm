@@ -1,0 +1,1 @@
+wish plot graph listloglogplot loglogplot parametricplot drawing line perpendicular x axis problem however parametricplot seem loglog equivalent plot function show combine non loglog plot loglog plot even coincide eg show loglogplot x x plot x x theoretically show two straight line show one way combine graphic without resolving using non loglog plot

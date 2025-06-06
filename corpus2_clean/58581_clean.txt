@@ -1,0 +1,1 @@
+use mathematica hence calculate exact area enclosed curve using mathematica f x x g x x x x got graph stuck finding area

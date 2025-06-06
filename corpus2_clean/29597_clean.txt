@@ -1,0 +1,1 @@
+hopefully simple question trying overlay text top loglogplot using epilog text however struggling coordinate text seems using placement example loglogplot x sin x x epilog style text x sin x place label x sin x roughly x plot coordinate system input however change loglogplot plot label get placed wherever specify going look right graph

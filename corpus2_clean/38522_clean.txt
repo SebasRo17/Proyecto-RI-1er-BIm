@@ -1,0 +1,1 @@
+higher dimensional function f x ln ln left x right x mathbb r n mathbb r want compute derivative command f xi f f xi higher check computation hand dont know define function f apply command im new mathematica user found right solution documentation center

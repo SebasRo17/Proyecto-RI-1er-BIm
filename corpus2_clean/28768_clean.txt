@@ -1,0 +1,1 @@
+simple manipulate example f x b x b manipulate plot f x u u x plotrange u b enter image description would like able control b individual slider well control dynamically updated achieve

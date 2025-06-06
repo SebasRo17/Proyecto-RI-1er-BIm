@@ -1,0 +1,1 @@
+way decompose bsplinefunction output two function x parametrizing curve bsplinefunction x x form allows easy calculation derivative arbitrary order x composite function use x like f sqrt x f etc edit would also like avoiding setdelayed much possible

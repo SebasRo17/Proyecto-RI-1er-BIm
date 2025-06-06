@@ -1,0 +1,1 @@
+graphic function like parametricplot contourplot always give rotating plot sometimes even stop rotating select plot example getting autorotation like animation parametricplot sin co b sin sin b co b boxratios automatic

@@ -1,0 +1,1 @@
+want make export plot inside manipulate however code run infinitely export infinitely manipulate module pl pl plot sin x b x export pl pdf pl pl b remove export manipulate problem disappears need inside manipulate reason control number evaluation certain code inside manipulate

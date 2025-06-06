@@ -1,0 +1,1 @@
+pure function tutorial give example map function x x b c would expect output b c instead return b c map function x x b c fullform even give plus power power b power c provides clarity going

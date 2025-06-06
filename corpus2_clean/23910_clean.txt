@@ -1,0 +1,1 @@
+would like draw diagonal tick mark around plot simultaneously rotate tick label well mocked would look like enter image description easy way mathematica believe beyond capability customticks package edit would like general enough work arbitrary plot range perhaps would easiest generate plot first normal tick mark apply replacement final graphic object

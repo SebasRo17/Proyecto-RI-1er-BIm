@@ -1,0 +1,1 @@
+possible revert notebook earlier version via mathematica notebook history panel would nice could select point time bottom graph revert back version enter image description hovering blue dot upper graph see previous current content changed cell mathematica must store somewhere maybe could even used instead better undo implementation

@@ -1,0 +1,1 @@
+question related composition function using slot slot interfering evaluation consider toy example list b c b c b c like take element list follows example list like able define programmatically tried n slot evaluate n slot evaluate n list give error answer appreciated even better answer us notation rather slot function

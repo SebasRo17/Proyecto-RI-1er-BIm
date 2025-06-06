@@ -1,0 +1,1 @@
+consider following simple code dump global context var dumpsave test mx global new notebook would like import var another context trying begin mycontext test mx end work var remains global context solution thank

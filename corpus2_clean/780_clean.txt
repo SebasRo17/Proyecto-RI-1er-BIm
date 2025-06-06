@@ -1,0 +1,1 @@
+application query mysql database many time data moment mathematica mysql running box yet take second query run return value feel slow hoping somebody might give counsel might sped absolutetiming sqlselect commoddb tbcommodprices price sqlcolumn ticker lav comdty sqlcolumn whichprice last sqlcolumn date null

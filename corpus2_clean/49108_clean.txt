@@ -1,0 +1,1 @@
+answer note calendar package function dateq documentation suggests input limited fixed format yy mm dd etc robust way check string date form self answer

@@ -1,0 +1,1 @@
+trying plot fourier series plot allways empty guess something wrong code dont know exactly looking previous question answer plotted function lot different way none worked someone help enter image description fx n underoverscriptbox sum n n exp ima pi ima pi exp ima pi psums table fx n n plot evaluate psums

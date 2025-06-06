@@ -1,0 +1,1 @@
+trying use epilog plot position epilog making much sense minimal example consider logplot sin x x pi epilog text x pi expected put x center graph instead show corner enter image description also tried listlogplot graphic produce similar result force epilog use position plot note using mathematica v linux

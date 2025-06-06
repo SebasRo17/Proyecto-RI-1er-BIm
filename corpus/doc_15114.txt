@@ -1,3 +1,0 @@
-
-    You can get the ApplicationContext associated with a widget by calling
-    XtWidgetToApplicationContext.

@@ -1,0 +1,1 @@
+need use shared library librarylink code shared library installed custom location also compiled try load function librarylink library get libraryfunction libload error mathematica able find shared library solution problem

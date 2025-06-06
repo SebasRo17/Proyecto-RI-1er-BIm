@@ -1,0 +1,1 @@
+want read file contains seven column real number mathematica seems problem high precision need code solfile openread sol je data readlist solfile real real real real real real real close solfile error message general digit digit position large used base readlist readn invalid real number found reading sol je fix

@@ -1,0 +1,1 @@
+feed large small enough floating point number tostring produce two line string first line containing exponent tostring creates problem counterintuitive written log file example tostring would written n practically unrecognizable especially inserted middle output would like see output like e e fine something like print floating point number format suitable single line output

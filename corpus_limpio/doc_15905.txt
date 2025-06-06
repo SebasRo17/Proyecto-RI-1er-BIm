@@ -1,1 +1,0 @@
-moment im trying grab portion starbase screen store area memory data needs format shouldnt problem app running bit screen though im fussy exact format actually intend write data tiff bits problem anyone know grab portion screen blockread call seems grab screen bit colour whatever screenwindow type get byte per pixel thanks advance martin

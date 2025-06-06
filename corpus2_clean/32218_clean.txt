@@ -1,0 +1,1 @@
+would like plot real valued function f two real variable x region x plane satisfying begin align x qquad x x end align straightforward way using plot

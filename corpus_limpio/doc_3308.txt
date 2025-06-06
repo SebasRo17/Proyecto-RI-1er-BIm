@@ -1,1 +1,0 @@
-much support need dont think theres anything prohibits implementing widget though write versions functions draw shadow traversal highlighting

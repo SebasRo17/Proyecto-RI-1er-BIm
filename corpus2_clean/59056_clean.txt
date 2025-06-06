@@ -1,0 +1,1 @@
+wanting plot solid revolution area two function leq x leq e leq leq ln x something like f x log x g x revolutionplot f x g x x e revolutionaxis x axesorigin boxed false mesh plotrange plotstyle opacity plot way fill empty space f x g x thanks advance

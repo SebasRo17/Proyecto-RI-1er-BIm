@@ -1,0 +1,1 @@
+get name definition builtin mathematica function instance would like see default tick plotting function implemented however clear name name never appears user example plot sin x co x x pi frame true frameticks none automatic basically want know get name function called automatic label thanks

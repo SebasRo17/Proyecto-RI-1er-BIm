@@ -1,1 +1,0 @@
-numbers kind benchmark want let start numbers pentium powerpc note alpha comparison clockdoubled system isnt doubling performance quite significant maybe increase performance besides wait state performance youd need cache anyway mean uses processor runs speed simms note memory speed corresponds clock speed mhz numbers ravikumar venkateswar rvenkateuiucedu

@@ -1,0 +1,1 @@
+consider big list inner list length list x z x z x z elementno want output like x x x specify elementno mean element position sub list removed want element position specify elementno want x x x

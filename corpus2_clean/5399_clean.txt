@@ -1,0 +1,1 @@
+list expression like following x x x x x x x x x x x x x x x x x x x x x x x x xij symbol suppose define expression like x j x k x j x k x k x j possible let mathematica substitute term list look like right side last expression left side necessary change xij list something else

@@ -1,0 +1,1 @@
+endogenous variable rd nr wr q nq r l w nu c c two exogenous variable ee k trying find rd f ee k nr f ee k c f ee k hence tried following code e q eliminate rd e nr e nr wr ee q wr ee q nq r k q nq w q r ee q nr nq nu l w nr nu wr nr c c ee l ee w q ee ee c ee q r rd rd nr wr q nq r l w nu c c also tried solve eqations ee k reduce still work could anyone give hint

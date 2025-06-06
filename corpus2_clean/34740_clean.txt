@@ -1,0 +1,1 @@
+noticed following difference assuming x real fullsimplify ab x x sign x assuming x real fullsimplify ab x sign x clear first line code return correct result wonder call derivative fails little investigation show f x ab x f derivative ab correct implies difference might come without setdelayed still fully understand second code failed

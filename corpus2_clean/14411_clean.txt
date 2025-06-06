@@ -1,0 +1,1 @@
+easy question found partial solution using say matrix x get part matrix say b n x n positive integer less original matrix row

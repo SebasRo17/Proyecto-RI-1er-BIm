@@ -1,0 +1,1 @@
+want line plot consistent style let say thick black purpose question contourplot x x contourstyle directive thick black opacity framestyle directive thick black plotlegends barlegend automatic enter image description however border legend bar thin grey change style match find relevant option barlegend documentation

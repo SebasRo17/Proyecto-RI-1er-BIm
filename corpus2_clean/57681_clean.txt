@@ -1,0 +1,1 @@
+graph dimacs format vertex color specified vertex color denoted line n u c u vertex number c integer representing color example triangle colored color p edge e e e n n n using import nicely import graph vertex color way read import forced write reader manually set vertex color

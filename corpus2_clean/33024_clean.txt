@@ -1,0 +1,1 @@
+nested list representing node binary tree none none none none easiest way show hierarchy without list head displayed intermediate node

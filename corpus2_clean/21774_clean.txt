@@ -1,0 +1,1 @@
+might simple mistake running idea trying fit ode system data error keep appearing ndsolve nlnum function value list number dimension sa st code adapted find best parameter fit data model interpolating function data clear ks kdm gof ks kdm eq ka k st ks k sa kdm st sa ka sa st sa k sa sa st gof ka k soltry st ndsolve eq ka k st sa first soltry data data data nminimize gof

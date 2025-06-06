@@ -1,0 +1,1 @@
+need perform long action button tried setting dynamicevaluationtimeout seems work want try using several button compute piece whole task problem start tell mathematica button pressed action performed without actually pressing button user way emulate thing within code need use preemptive link method queued solution looking

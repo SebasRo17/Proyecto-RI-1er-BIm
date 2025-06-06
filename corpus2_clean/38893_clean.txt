@@ -1,0 +1,1 @@
+approach example surface function surface x sin x normal vector point surface computed normalvector b surface xx yy xx surface xx yy yy xx yy b plot follows plot surface x x colorfunction function x z rgbcolor vectorangle normalvector x however fails

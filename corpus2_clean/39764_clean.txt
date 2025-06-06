@@ -1,0 +1,1 @@
+trying figure align different type plot one image example following code plot two line top matrixplot want line pas corner red square overlaid image overlay matrixplot table mod j j colorrules red white white aspectratio full plot x x x aspectratio full imagesize full create image line square fit together better

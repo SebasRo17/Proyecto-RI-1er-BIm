@@ -1,1 +1,0 @@
-depends nature rounding x allows user bit arithmetic pixel values ie xor foreground backgroun pixel values together calculate foreground color used function gxxor fill change foreground background viceversa rounding preserve types calculations clients use break ken

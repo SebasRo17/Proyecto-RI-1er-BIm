@@ -1,0 +1,1 @@
+want call nminimize function defined calculation got error simple example nminimize x x x x return x f x x x x calling nminimize f x give error nminimize nnum function value f number x wrong approach

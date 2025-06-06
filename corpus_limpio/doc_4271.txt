@@ -1,1 +1,0 @@
-program produces continuous tone calling xbell repeatedly interval equal duration bell run display tones buffered x server tone contunues occurrences program exited convenient way preventing eg emptying x server bell buffer program exits disclaimer please note personal view construed official comment jet project

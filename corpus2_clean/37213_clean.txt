@@ -1,0 +1,1 @@
+stack tiff file imported mathematica form p time time n matrix p number single image stack number horizontal pixel n vertical pixel want calculate covariance vector p mn rest vector n go n respectively end n matrix dimension time n get idea data size give number p geq n

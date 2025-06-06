@@ -1,0 +1,1 @@
+making c program program need rotation matrix around vector wanted extract rotationmatrix fi x z output put program unfortunately mathematica think operate imaginary component x z output get epic dimension xd tried fix problem rotationmatrix fi x z luck apparently mathematica track type variable user defined real imaginary way fix

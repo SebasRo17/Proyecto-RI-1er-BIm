@@ -1,1 +1,0 @@
-im trying compile xftp uses xw widget set im problems using motif seems version xw stuff ported patches port newer port altogether perhaps newer port xftp use thanks advance

@@ -1,0 +1,1 @@
+two list value xx yy want make scatter plot list plot xx x axis yy axis help document listplot tell use listplot x x create something like listplot xx yy thank

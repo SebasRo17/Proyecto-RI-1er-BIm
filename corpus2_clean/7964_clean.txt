@@ -1,0 +1,1 @@
+based example try parse date table including time fails modified example export test dat fieldseparators import test dat table datestringformat year month day hour minute second anyone understand work analogy case thanks

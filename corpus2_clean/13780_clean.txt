@@ -1,0 +1,1 @@
+chosen different font text unfortunately font larger standard time font math symbol e g greek little small could set fontsize math font would probably look good accomplish simple defining custom style via stylesheet private style definition correct way define custom size math font style definition display formula inline formula type inline cell latter apply

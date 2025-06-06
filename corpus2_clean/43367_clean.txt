@@ -1,0 +1,1 @@
+expression like expr f f f want transform list consisting function call argument mylist f f f anyone know clever way mathematica currently best solution using tostring string manipulation defintivly slow ugly

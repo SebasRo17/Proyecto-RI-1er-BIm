@@ -1,0 +1,1 @@
+two matrix expression x transpose transpose x x transpose x want mathematica recognize expression equal possible

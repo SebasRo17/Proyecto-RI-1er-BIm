@@ -1,0 +1,1 @@
+solving system simultaneous linear equation using solve running code get message saying large output generated option viewing ouput want use solution inside larger program next step relies ouput solve stuck unless reasonable way capture output solve way

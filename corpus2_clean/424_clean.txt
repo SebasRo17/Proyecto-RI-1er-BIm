@@ -1,0 +1,1 @@
+one find range number fall given list number f x list list return b b belongs list b form shortest possible interval match condition x b b x x b b f also consider outer range infty infty

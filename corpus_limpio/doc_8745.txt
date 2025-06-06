@@ -1,1 +1,0 @@
-gotten pl compile aix using cc server run simplys starts couple seconds later exits error displayed defines compile dsysv dsysvwait could somewhere share light maybe ibmcf file thanks

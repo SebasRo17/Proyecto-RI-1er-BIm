@@ -1,0 +1,1 @@
+let say ragged list element depth n way map function element e list foo foo result n bar bar bar bar want apply function bar part depth depth far attempt p list depth p bar p foo bar bar bar bar bar bar see pattern matching look list really use suspect could better functional solution possibly using scan reap sow

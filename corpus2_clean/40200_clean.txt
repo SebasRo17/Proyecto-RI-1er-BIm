@@ -1,0 +1,1 @@
+horrifically long expression output tex using texform get long equation need split multiple line splitting manually quite cumbersome solution within mathematica e way output equation multiline format sure need put input size page fine

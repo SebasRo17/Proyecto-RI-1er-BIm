@@ -1,0 +1,1 @@
+property net type actually generic list object try access property using numeric index e g work however iterate index using indexer get error net nofield public field property named exists net type resolve

@@ -1,0 +1,1 @@
+extract style attribute variable example var style astring bold get back astring using tostring var able get attribute bold

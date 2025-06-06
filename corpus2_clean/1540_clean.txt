@@ -1,0 +1,1 @@
+programmatically check preemptive evaluation whether main evaluation currently ongoing need function mainevaluationongoingq button evaluating print mainevaluationongoingq method preemptive print true main evaluation ongoing

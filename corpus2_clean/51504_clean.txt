@@ -1,0 +1,1 @@
+possible compute delta f nabla f f f x x x finite seem able specify spherical coorindates example want leave standard cartesian coordinate function actually using look like f x x x f x time f x time time f x separation variable way mathematica

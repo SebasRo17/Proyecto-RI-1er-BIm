@@ -1,0 +1,1 @@
+generalization example stuff x listx listy z listz almost table need way flatten outer bracket table l x z x l x l z l z use list need really exchange outerbrackets simply sequence append end list sequence remove bracket give desired result similar issue plague flatten flattenat etc solution good way

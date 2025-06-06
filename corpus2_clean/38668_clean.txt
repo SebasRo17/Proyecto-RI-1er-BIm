@@ -1,0 +1,1 @@
+simple way mathematica prevent rule reordering let give example b b c x x expand b though b b c c work fine course think mathematica determined second rule expression specific first rule ordered first replacerepeated mathematica never check first rule realize way rewrite work fine simple way tell mathematica reorder rule seems like

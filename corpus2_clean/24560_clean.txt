@@ -1,0 +1,1 @@
+calling minimize r r z z z r r z return r z obvious simply setting r z yield issue numerical instability anything done

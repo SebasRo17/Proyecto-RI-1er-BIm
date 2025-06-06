@@ -1,0 +1,1 @@
+function return function example f f way tell mathematica want part function evaluated f obviously example quite simple general evaluation may slow better performed tried wrapping important part case evaluate help thanks

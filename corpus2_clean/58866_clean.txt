@@ -1,0 +1,1 @@
+would like rounded tick mathematica plot look much better thick frame plot sin x co x x pi frame true framestyle directive black thick give plot square tick end would like round get something like plot round tick end function capform round clear use plot

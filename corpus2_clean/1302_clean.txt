@@ -1,0 +1,1 @@
+list transformation like list b b c used plot undirected graph graphplot want edge vertex b b want one remove either b b list end want list look like b c tried using deleteduplicates think understand testing part function add mathematica beginner made function compare two transformation cmptrans x x x return true cmptrans b b seem use testing part deleteduplicates

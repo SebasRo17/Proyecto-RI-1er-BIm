@@ -1,0 +1,1 @@
+hoping evaluate following integral integrate r r r r r infinity mathematica informs integral converge infty however numerical integration command nintegrate r r r r r infinity yield without mention difficulty believe

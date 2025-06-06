@@ -1,0 +1,1 @@
+read record file read file record read open stream read close stream reading like readlist readlist file record

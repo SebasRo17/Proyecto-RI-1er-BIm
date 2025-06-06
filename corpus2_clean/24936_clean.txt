@@ -1,0 +1,1 @@
+large data set k line two data column noticed linear trend want remove following first fit linear model model linearmodelfit data x x substract fit data data data data data model data model however take unacceptable amount time way speed thing

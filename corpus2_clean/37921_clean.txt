@@ -1,0 +1,1 @@
+new using dsolve trying solve differential equation getting nonsense mathematica tried solve even easier equation frac du dt u still get nonsense mathematica input clear u dsolve u u u output give u function supposed interpret know solution u e c mathematica

@@ -1,0 +1,1 @@
+using det function mathematica compute determinant n time n matrix entry form bt b integer variable would like know computational complexity function non symbolic matrix one find determinant time n gaussian elimination seems expensive compute determinant matrix someone know expensive

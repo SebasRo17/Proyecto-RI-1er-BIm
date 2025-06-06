@@ -1,0 +1,1 @@
+wondering mathematica give result function also log instead give ordinary log log fit problem better log clear x b c data aa nonlinearmodelfit data b log c x c b c x aa normal show plot aa x x plotrange listplot data plotstyle directive red pointsize

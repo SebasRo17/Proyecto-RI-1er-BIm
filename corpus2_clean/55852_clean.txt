@@ -1,0 +1,1 @@
+consider following simple logplot logplot exp x x logplot exp x nice way switch ax logplot aware plotting inverse function follows loglinearplot log exp exp job actual function using complicated want avoid using inverse possible tried various method transpose x axis plot would seem require modification order work

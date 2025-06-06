@@ -1,0 +1,1 @@
+using circletimes otimes operator defined circletimes b kroneckerproduct b use esc c esc b write otimes b instead kroneckerproduct b order find definition otimes symbol using information function assign usage symbol

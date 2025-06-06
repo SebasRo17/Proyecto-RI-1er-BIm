@@ -1,0 +1,1 @@
+title want output image body volume surface area shown nicely beside maybe table possible calculate surface area specific facet example consider simple case manipulate regionplot x z x z plotrange nintegrate boole x z x z get far showing plot data formatting well current progress

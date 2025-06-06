@@ -1,0 +1,1 @@
+mathematica installed mac tried see could cuda downloaded large directory gb named cudaresources osx library mathematica paclets repository however download tried see would give cudaq return false system seeing cuda going useful machine reclaim disk space word get rid downloaded data

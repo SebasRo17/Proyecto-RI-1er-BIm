@@ -1,0 +1,1 @@
+several equation seems mathematica plot well although set plotpoints contourplot csc x cot x x plotpoints enter image description tried cf compile real ab csc x cot x sow x x compilationtarget c parallelization true runtimeoptions speed graphic absolutepointsize point reap cf know join point better method enter image description

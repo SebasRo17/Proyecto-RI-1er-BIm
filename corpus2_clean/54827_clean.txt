@@ -1,0 +1,1 @@
+mathematica added autocompletion box work great set cellcontext notebook instead default global following longer autocompletes function define notebook specify function global autocomplete mechanism work see example enter image description way making mathematica autocompletion work function defined within notebook global function

@@ -1,0 +1,1 @@
+creating custom notation using notation package work fine put default personal package load fine mathematica startup make complete need one thing suppress notation palette appearing every time launch mathematica command put package

@@ -1,0 +1,1 @@
+time n matrix presumably full rank n would like row reduce leave last column unreduced want get output form pmatrix ast ast ast ast ast instead pmatrix rowreduce give seem mangle rowreduce would really like avoid manually implementing algorithm nice way thanks advance help give

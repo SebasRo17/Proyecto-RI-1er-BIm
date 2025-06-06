@@ -1,0 +1,1 @@
+missing something bug get different result adding bracket g graphic imagesize automatic aspectratio g graphic rectangle imagesize automatic aspectratio g graphic rectangle imagesize automatic aspectratio row imagecompose g g imagecompose g g imagecompose g show g enter image description

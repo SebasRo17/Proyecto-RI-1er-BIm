@@ -1,0 +1,1 @@
+created grid size placed button size grid button button null imagesize background red itemsize alignment center center frame true mathematica graphic tried increasing width button edge side appear expected increased height button grid get enlarged button height want enlargement happen avoid

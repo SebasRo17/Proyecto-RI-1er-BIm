@@ -1,0 +1,1 @@
+fairly new mathematica trying plot orbit earth around sun using equation quad r dt g dt r r r dt need break component give earth initial velocity essentially goal write code similar way might write fortran make use plotting function mathematica homework assignment unfortunately actually need basic fortran style anyone point right direction

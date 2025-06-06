@@ -1,0 +1,1 @@
+given time series data follows data evaluating case data year month day val year return data year way define function change criterion matching pattern example timeselection data pattern case data year month day val pattern pattern month return data february

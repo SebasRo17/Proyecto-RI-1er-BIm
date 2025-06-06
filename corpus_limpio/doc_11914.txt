@@ -1,1 +1,0 @@
-use xwd within program use xwd id xxxxx xxxxx window id obtained xtwindowwidget

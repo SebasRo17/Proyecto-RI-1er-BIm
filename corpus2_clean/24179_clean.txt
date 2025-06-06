@@ -1,0 +1,1 @@
+experimenting embedding cdf wordpress site mostly work plot running room along right edge seems like image floated left would fit look like output mma might simple answer yet force plot output float left see example issue

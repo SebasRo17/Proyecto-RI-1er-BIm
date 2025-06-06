@@ -1,0 +1,1 @@
+code insert expression list need remove insert anything want string variable number list suppose insert number blacklisted element list like l x x implement select l output desired output case would x x created working solution feel elegant could string blacklist element select x x stringmatchq tostring give desired output possible refine original attempt solution work bit simply

@@ -1,0 +1,1 @@
+assume following code code example clearly illustrate problem re iteration result appendto re iteration question want save result iteration identical excel file xl file end iteration finished one excel file result tried make code faster elegant using scan failed good mention rookie mathematica programmer much experience could please help poroblems

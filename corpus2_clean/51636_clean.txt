@@ -1,0 +1,1 @@
+plotting point occurs mathematica easy way specify point plotted uniformly scaled cartesian space example plotted show listpointplot aspectratio automatic plotrange automatic get would like looking box dimension something like aspectratio plotrange help way

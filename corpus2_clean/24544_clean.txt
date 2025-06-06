@@ -1,0 +1,1 @@
+mathematica lot function working graph functionality yet mature igraph library useful access igraph mathematica accessing functionality mathematica verification calling igraph c interface possible convenient use rlink call conveniently

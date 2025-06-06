@@ -1,1 +1,0 @@
-one know get telecaption decoder module need build close caption decoder thanks wayne

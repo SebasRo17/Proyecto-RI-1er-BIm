@@ -1,0 +1,1 @@
+given list unequal length want add together element wise treating missing element zero example b x give x b write function

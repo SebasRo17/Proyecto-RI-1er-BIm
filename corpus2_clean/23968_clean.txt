@@ -1,0 +1,1 @@
+series expands function also give idea asymptotic bound function series frac x x return x x x like eliminate big oh notation get example x x eliminate suppress asymptotic bound series return

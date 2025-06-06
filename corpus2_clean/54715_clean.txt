@@ -1,0 +1,1 @@
+edit let assume random matrix randominteger matrixform wanted algorithm following pick random element given table change order matrixelements small gaussian like cluster generated constraint either row wise coloumn wise sum remain constant upon swapping element suggestion welcome

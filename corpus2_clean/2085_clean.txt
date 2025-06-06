@@ -1,0 +1,1 @@
+get list date today palindrome say next n year finding palindrome difficult could find easy way generate list using datelist

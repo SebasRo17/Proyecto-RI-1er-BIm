@@ -1,0 +1,1 @@
+declared probability distribution follows dist b probabilitydistribution co b x sinc x x try create random variate using probability distribution get data point range data randomvariate dist histogram data probabilitydensity histogram prob dist clarify issue histogram look data contain number range seen

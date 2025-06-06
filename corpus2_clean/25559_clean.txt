@@ -1,0 +1,1 @@
+suppose set dimensional vector c n c tuples range n want define subset vector c following x c x also want count cardinality

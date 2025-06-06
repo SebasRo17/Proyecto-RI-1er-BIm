@@ -1,0 +1,1 @@
+mathematica struggling find inverse function f r f r arccos r r r r sqrt r r r r attempt use solve nsolve n solve f r r mathematica hang true inversefunction wondering strategy find inverse function even perhaps numerical approximation many function like need find inverse many thanks

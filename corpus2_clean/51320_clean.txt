@@ -1,0 +1,1 @@
+sure mathematica problem math problem c problem topic please transfer package combinatorica function listgraphs n return nonisomorphic undirected graph n vertex edge algorithm use think enumerate graph n vertex edge brute force check isomorphism graph think effective better algorism task thanks

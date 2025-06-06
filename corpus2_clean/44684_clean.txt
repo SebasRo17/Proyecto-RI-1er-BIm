@@ -1,0 +1,1 @@
+solve third order nonlinear differential equation f ff f f f f f infinity op comment ic ic ic sol ndsolve x x x x x ic infinity ic ic x plotrange plot x sol x finish used code solve using mathematica didnt get

@@ -1,0 +1,1 @@
+need calculate product graph edge weight path taking account edge direction e graph g ew graph g edgeweight ew path get path get

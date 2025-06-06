@@ -1,0 +1,1 @@
+task finding root loop list fx x x list print findroot fx k k output currently output follows forth want value list order perfom task plotting root f

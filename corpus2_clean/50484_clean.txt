@@ -1,0 +1,1 @@
+would like code given state give set state j accessible possible mathematica state space statespace transition matrix transitionmatrix know state go j transition matrix value j higher zero would like something like transitionmatrix j transitionmatrix true go

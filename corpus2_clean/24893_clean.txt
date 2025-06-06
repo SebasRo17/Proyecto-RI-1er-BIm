@@ -1,0 +1,1 @@
+know possible expand stirlings n term elementary function n tried functionexpand returned unevaluated functionexpand stirlings n stirlings n way mathematica

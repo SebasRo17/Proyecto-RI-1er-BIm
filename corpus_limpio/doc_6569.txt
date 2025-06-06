@@ -1,1 +1,0 @@
-dont know way except see modifiers th keypress event course reason need always know state modifiers even windows dont keyborads focus always ask keypress events root window get keypresses always know pressed think question implement xlookupstring always write another function interprets keypresses like look implementation xlookupstring xlib sources modify little bit

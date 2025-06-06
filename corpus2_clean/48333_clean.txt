@@ -1,0 +1,1 @@
+dataset format txt directed network containing matrix dimension x row give label two node showing direct link example network node matrix could first row mean link second row mean link etc could suggest way draw network specified mathematica

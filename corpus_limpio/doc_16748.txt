@@ -1,1 +1,0 @@
-hello edn magazine found note new ct io controller support several parallel port protocols including fast centronics microsoft enhanced capabilities protocol ecp enhanced parallel port epp last two handle data rates specification protocols available regards christian franke

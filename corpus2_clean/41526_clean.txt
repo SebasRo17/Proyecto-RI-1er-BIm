@@ -1,0 +1,1 @@
+would like use tensorreduce work tensor contraction ib ia index summed however tensorreduce bring following unique form assumption array tensorcontract tensorproduct tensortranspose tensorcontract tensorproduct tensorreduce tensorreduce output tensorcontract tensortranspose tensorcontract brought form thank

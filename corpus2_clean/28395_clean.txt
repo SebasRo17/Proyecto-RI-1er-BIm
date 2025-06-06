@@ -1,0 +1,1 @@
+want generate table euclidean distance point list given point e g table euclideandistance mylist c length mylist moreover euclideandistance return value greater like replace value given real number r simple way

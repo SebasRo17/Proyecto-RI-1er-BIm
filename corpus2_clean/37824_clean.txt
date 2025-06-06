@@ -1,0 +1,1 @@
+would like plot vector unit circle depending angle pi k vector rotated angle try following k pt sin pi k co pi k pt pt co pt sin pt co pt sin graphic arrow pt pt ax true axeslabel x z plotrange case like k almost work except first vector arrowhead line see figure case k second vector drawn anyone see problem plotted vector

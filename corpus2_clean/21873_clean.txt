@@ -1,0 +1,1 @@
+code clear f f function x x k x k manipulate plot f x x k nothing draw move slider missing something

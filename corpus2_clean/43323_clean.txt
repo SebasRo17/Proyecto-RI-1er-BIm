@@ -1,0 +1,1 @@
+generating set plot exploring changing parameter affect plot shape want plot different color color rule applying seems work last color list wrong syntax vmorse x exp alpha x x exp alpha x x morsesubstest alpha x plot vmorse x morsesubstest x plotrange plotlabel morse potential change alpha plotstyle red green blue

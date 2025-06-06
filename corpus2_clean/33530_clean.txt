@@ -1,0 +1,1 @@
+e b e e e begin align left begin array cc e lambda b b e e lambda end array right end align result quit true since b may equal b b block matrix

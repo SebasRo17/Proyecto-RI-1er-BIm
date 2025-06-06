@@ -1,0 +1,1 @@
+make notebook easier read non mathematica literate colleague included like output assignment expression look somewhat obvious normally expression assignment would look something like myvariable like get output look like myvariable sure convoluted way get output really simple thing input also still fairly easily readable without heap command wrapped around

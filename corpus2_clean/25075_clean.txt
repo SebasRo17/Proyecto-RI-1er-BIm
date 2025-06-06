@@ -1,0 +1,1 @@
+following example inside minimumx module x initialized result say otherwise solutionq function x integerq sqrt x x minimumx compile integer module x solutionq x x x minimumx minimumx minimumx define minimumx minimumx function module x solutionq x x x minimumx compile integer module x x solutionq x x x work expecting expected behavior report bug mathematica

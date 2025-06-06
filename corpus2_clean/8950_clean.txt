@@ -1,0 +1,1 @@
+would like evaluate pdf custom probabilitydistribution min max value however pdf return boundary condition elegant way prevent example dst probabilitydistribution x x pdf dst pdf dst would like return doc say pdf taken zero x x min x x max seems inconsistent pdf forced zero x x max

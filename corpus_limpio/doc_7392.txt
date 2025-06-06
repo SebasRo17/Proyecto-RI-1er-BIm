@@ -1,1 +1,0 @@
-wouldnt method vulnerable birthday attack currently cracker needs find key produces given ciphertext try keys average proposed method cracker needs pair key halves store guesses one half likely find mathching pair guesses assumed desencryption reversable key guessed modifications sboxes salt bits make nonreversable

@@ -1,0 +1,1 @@
+need plot function implicit form contourplot z z x x x z constraint x mathematica

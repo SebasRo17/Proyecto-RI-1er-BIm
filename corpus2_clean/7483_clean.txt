@@ -1,0 +1,1 @@
+color converted rgb cielab l b model calculate mix color l b color calculate mix want put weight w w w w color maximum minimum none weight

@@ -1,0 +1,1 @@
+mathematica different object like interpolatingfunction sparsearray define custom data object special data structure example f interpolation f inputform return u interpolatingfunction automatic automatic one evaluates output one get back interpolatingfunction could find documentation custom data object want define program

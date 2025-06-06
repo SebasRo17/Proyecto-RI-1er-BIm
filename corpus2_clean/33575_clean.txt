@@ -1,0 +1,1 @@
+want calculate hermite normal form matrix want unimodular transformation matrix way stop calculation unimodular matrix hermitedecomposition function return matrix reason want stop calculation unimodular matrix think save memory computation also may little faster matrix size around comment appreciated

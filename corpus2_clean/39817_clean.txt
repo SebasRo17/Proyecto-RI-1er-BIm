@@ -1,0 +1,1 @@
+would write density matrix matr related quantum system mixed state ham hamiltonian n spin system code wrote evl eve quiet eigensystem ham ord ordering evl evl evl ord eve eve ord matr constantarray nspin nspin monitor matrix eve nspin matr matr nspin time needed solve problem large number nspin quite long woul like know possible modify code order make process faster

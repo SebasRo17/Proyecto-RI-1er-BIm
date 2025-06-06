@@ -1,0 +1,1 @@
+starting equation prime prime x prime could get general solution using dsolve dsolve x x x x x x x c c log x c c however failed get singular solution x x c x c get

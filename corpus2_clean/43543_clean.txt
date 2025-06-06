@@ -1,0 +1,1 @@
+efficient way evaluating function two variable rectangular grid following nested loop fongrid x f module n fvals x n vector n vector f scalar function two variable fvals n matirx fvals j f x j n length x length fvals table n preallocate fvals fvals j f x j j n fvals

@@ -1,0 +1,1 @@
+assume x exponential random variable unit mean f x x e x x want calculate expected value frac x since x expecting mathbb e frac x mathematica give negative value tried following input expectation x x distributed exponentialdistribution mathematica answer eulergamma possible mistake

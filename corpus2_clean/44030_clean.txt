@@ -1,0 +1,1 @@
+multidimensional matrix b b b b c c c c would like convert regular matrix b b b b c c c c tried use flatten partition get result b b b b c c c c thanks advance

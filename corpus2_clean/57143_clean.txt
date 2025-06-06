@@ -1,0 +1,1 @@
+let x x two real number define column vector mathbf x x x let mathbf mathbf two time real symmetric matrix need plot surface begin align mathbf x mathbf mathbf x leq mathbf x mathbf mathbf x leq end align mathematica

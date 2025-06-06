@@ -1,0 +1,1 @@
+anybody know mathematica analogue matlab ode command need solve second order coupled ode system equation

@@ -1,0 +1,1 @@
+nested list list f h b would like apply function g element nested list starting top bottom list would like obtain g g g g g f g g h b using map g list work map g inside f h alternative ended using following function mapatleavesoflist g x list map mapatleavesoflist g x mapatleavesoflist g x g x mapatleavesoflist g list g g g g g f g g h b better suggestion

@@ -1,0 +1,1 @@
+used quite straightforward change default setting notebook term input output text style font size previous version mathematica using initialization cell command textstyle formattype however mathematica version function superseded basestyle may know use new function accomplish

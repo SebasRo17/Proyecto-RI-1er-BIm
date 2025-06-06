@@ -1,0 +1,1 @@
+want make plot similar loglinearplot power tick instead x axis value n x plot evaluate f n value x mark x axis instead default

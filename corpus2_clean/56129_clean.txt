@@ -1,0 +1,1 @@
+let create sample data n data table randomreal randomreal randomreal randomreal randominteger randominteger n want find minimum maximum value last column fifth one integer value thus excluding suggestion

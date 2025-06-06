@@ -1,0 +1,1 @@
+want create file text number code str openwrite f txt pagewidth infinity formattype standardform numbermarks true write str close str problem rounded number output file actually want file text explaining want parse test suite file mt data check row look like dataacc get childtestlocation nameofchildtest mt number dataacc list create testfile number becomes rounded

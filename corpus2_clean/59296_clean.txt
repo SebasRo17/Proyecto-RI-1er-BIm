@@ -1,0 +1,1 @@
+people answered question new mathematica supposed use manipulate show command produce two function one sin x line move tangent along f x sin x idea make sense page equation given hint manipulate plot sin tick range sin range epilog dashed line x x sin x sin x red pointsize point x sin x x anything help thank

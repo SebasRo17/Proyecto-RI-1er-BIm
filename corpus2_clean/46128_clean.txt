@@ -1,0 +1,1 @@
+tried force cuda using visual studio c compiler manipulating visualstudiocompiler file found c program file wolfram research mathematica addons application ccompilerdriver run cuda run mathematica hang need cudalink anyone faced similar problem anyone tried make modification

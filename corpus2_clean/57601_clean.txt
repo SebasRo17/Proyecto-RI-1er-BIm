@@ -1,0 +1,1 @@
+fitting data want put parameter table generated noninearmodelfit plot reasonable way want format parameter table show two decimal place show statistic p value

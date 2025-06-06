@@ -1,0 +1,1 @@
+often following notebook mathematica use make dataset associated error x uncy sqrt datavector thread x want make errorlistplot need add errorbar uncy value element data pair final datavector form x errorbar uncy easy way achieve without using loop

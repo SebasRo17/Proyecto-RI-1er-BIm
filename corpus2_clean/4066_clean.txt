@@ -1,0 +1,1 @@
+suppose plot like loglogplot x x gridlines automatic achieve get custom gridlines reduce number horizontal line know linear scaled plot edit linear scale basicly mygrid xmin xmax xstep ymin ymax ystep gridlines range xmin xmax xstep range ymin ymax ystep

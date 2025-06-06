@@ -1,0 +1,1 @@
+plot made densitylistplot mathematica cannot export properly pdf want export plot without ax label etc jpg image inset image empty graphic containing ax label etc far good problem export final graphic pdf image compressed file end weighing k instead k question specify format compression factor image embedded pdf

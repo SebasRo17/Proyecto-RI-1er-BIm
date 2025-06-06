@@ -1,0 +1,1 @@
+trying implement version hive plot advocated kryzywinski et al many example graph author webpage would good enough three ax able project coordinate onto three ax style graph like via vertexcoordinates basic hive first way make edge arc straight line krzywinski birol jones marra hive plot rational approach visualizing network briefing bioinformatics

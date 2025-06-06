@@ -1,0 +1,1 @@
+given simple graph like g graph b c b would like f g resulting b c instance vertexlist g result b c wanted simple way

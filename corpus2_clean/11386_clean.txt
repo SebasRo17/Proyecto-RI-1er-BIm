@@ -1,0 +1,1 @@
+example list list l b c b e b f want remove list contained list lafter b c b e f efficient way know could look different sub list compare every sublist select one want seems inelegant right way mathematica called

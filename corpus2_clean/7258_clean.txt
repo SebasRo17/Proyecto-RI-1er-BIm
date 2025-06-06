@@ -1,0 +1,1 @@
+following return true stringmatchq foo bar regularexpression stringmatchq foo bar regularexpression correct also stringmatchq foo bar regularexpression stringmatchq foo bar regularexpression

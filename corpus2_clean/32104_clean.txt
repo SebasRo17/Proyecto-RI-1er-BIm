@@ -1,0 +1,1 @@
+linearmodelfit slower nonlinearmodelfit data table x x randomreal x nlm nonlinearmodelfit data b x b x absolutetiming fittedmodel x lm linearmodelfit data x x absolutetiming fittedmodel x almost time slower nonlinearmodelfit

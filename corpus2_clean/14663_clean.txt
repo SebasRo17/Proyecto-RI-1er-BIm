@@ -1,0 +1,1 @@
+matrix enter image description would like sum first non zero element row get value simply ignore zero row similarly would like second non zero element row get

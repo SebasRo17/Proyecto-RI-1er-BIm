@@ -1,0 +1,1 @@
+want set zero offset frame origin word horizontal axis start exactly lower bound instead small offset example figure even though set range x x axis start small negative value need make x axis start exactly need plotlegends plot sin x x frame true framelabel x rotatelabel true plotlegend legendposition legendsize legendshadow none legendborder none enter image description

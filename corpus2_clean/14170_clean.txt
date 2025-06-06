@@ -1,0 +1,1 @@
+define shortcut notebook cell style stylesheet editor adding menucommandkey etc style definition define alt set create cell one style alt different style alt documentation mathematica menucommandkey style acceptable value include none appears possible shortcut style commonly use possible define additional shortcut

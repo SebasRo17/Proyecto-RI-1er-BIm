@@ -1,0 +1,1 @@
+multivariable integration like nintegrate x x need plot result term x

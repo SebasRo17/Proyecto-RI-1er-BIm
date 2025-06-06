@@ -1,0 +1,1 @@
+trying implement differential equation cellular neural network mathematica seen b u ioff ndsolve x x listconvolve x listconvolve b u ioff x u x ndsolve return two error listconvolve kldims kernel list x non empty list tensor rank ndsolve ndfdmc computed derivative dimensionality consistent initial condition would really appreciate help since beginner mathematica know wrong

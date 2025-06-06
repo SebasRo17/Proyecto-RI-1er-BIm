@@ -1,0 +1,1 @@
+fullsimplify get rid z factor following expression fullsimplify e x z e x z z z upon removing single piece expression first factor bracket simplification suddenly succeeds far tell special combination variable fails obvious problem simplifying way tweak fullsimplify function make succeed part longer expression want avoid looking problem manually using mathematica version win bit

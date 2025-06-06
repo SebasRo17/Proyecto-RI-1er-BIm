@@ -1,0 +1,1 @@
+trying solve following rational integral got assistance int infty infty frac x b x frac c x dx b c mathbb r would like also find analytical solution using mathematica tried integrate integrate x b x c x x infinity infinity give imaginary result based b c believe result real using integrate correct way

@@ -1,0 +1,1 @@
+simplest way plotting across multiple variable eg would like plot something like plot x x x x x x x x using simple command like plot x n x n realise syntactically correct hopefully serve illustrate point

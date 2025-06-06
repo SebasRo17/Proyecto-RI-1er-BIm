@@ -1,0 +1,1 @@
+need use feature summa package work mathematica give error cannot open utility filteroptions question alternative modern package similar feature way make summa work mathematica following nasser solved problem input filterrules opposite order e g filteroptions expand opts changed sequence filterrules opts option expand

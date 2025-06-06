@@ -1,0 +1,1 @@
+trying implement smooth approximation max ab function moreover want function map element wise tensor code assumption element array j k real element nlarge real nlarge tends infinity hyper x map exp nlarge x hypo x map log nlarge x smax x hypo plus map hyper x sabs x smax x x sabs tensordimensions expecting return j k instead get wrong

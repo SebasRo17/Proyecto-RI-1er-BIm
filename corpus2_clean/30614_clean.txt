@@ -1,0 +1,1 @@
+polynomial x b x b c c x b c c x c good coefficientlist polynomial x get coefficient list polynomialform tried give coefficient list coefficientlist polynomialform polynomial x

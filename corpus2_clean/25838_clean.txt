@@ -1,0 +1,1 @@
+want solve numerically geodesic upper half plane plot result quite known straight line parallel axis ii semicircle centered x axis problem solve coupled ode tried ndsolve result coming please write code help coupled ode begin align ddot x frac dot x dot ddot frac dot x dot end align thanking advance

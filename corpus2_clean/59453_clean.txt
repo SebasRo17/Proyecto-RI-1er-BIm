@@ -1,0 +1,1 @@
+trying set input file quantum chemical modelling software obtain xyz coordinate position angstrom using information obtained using chemicaldata initial input fructose chemicaldata fructose atompositions expect output example actual position coordinate angstrom atom x z c h

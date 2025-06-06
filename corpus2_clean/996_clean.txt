@@ -1,0 +1,1 @@
+would like express second derivative two dot variable first derivative saying f x overdot x print holdform f x f x possible syntax second derivative

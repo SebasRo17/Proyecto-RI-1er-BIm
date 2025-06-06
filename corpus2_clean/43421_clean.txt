@@ -1,0 +1,1 @@
+type vietnamese using utf encoding text display got error type vietnamese chinese mathematica please help

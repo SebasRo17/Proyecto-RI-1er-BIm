@@ -1,0 +1,1 @@
+wanted ask mathematica program plur decomposition symbolic matrix p l u r using full row column pivoting r reduced row echelon form entry matrix rational number floating point number symbolic expression

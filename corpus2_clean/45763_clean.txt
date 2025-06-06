@@ -1,0 +1,1 @@
+way numerically integrate vector function defined via piecewise example test piecewise sin exp nintegrate test give nintegrate inum integrand numerical error

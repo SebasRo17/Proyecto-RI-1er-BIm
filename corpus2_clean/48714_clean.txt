@@ -1,0 +1,1 @@
+example say create notebook cell close mathematica reopen notebook enter new cell b evaluate new cell shift enter want output without evaluating evaluate first cell posible want making stylesheet creator colorselectors inputfield etc want dafault value

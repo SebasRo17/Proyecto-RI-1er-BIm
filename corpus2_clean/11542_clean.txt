@@ -1,0 +1,1 @@
+matrix equal null matrix however due numerical precision brutal equality test matrix initialized zero work perform numerical equality test given threshold precision

@@ -1,0 +1,1 @@
+would like pretty print two column vector different length aligned top rather centered seems default example v b c v b c row matrixform v matrixform v alignment center top result pretty printing vector actually centered row rather aligned horizontal position top using graphicsrow instead row work change font rest nb second best solution approach could try

@@ -1,0 +1,1 @@
+coefficient desired polynomial array coefarr new mathematica think everything array actually list believe starting constant index want turn function evaluate like f x coefarr x coefarr etc f get answer way general

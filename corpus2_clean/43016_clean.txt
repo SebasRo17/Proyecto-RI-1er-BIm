@@ -1,0 +1,1 @@
+used extract hold retrieve sublist containing expression want evaluating e g foo extract ownvalues test hold hold expr expr expr sorry ask trivial question get length list obviously length foo return top level head hold attempting access lower level seems cause evaluation one way another technique missing
