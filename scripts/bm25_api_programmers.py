@@ -22,7 +22,7 @@ CORPUS_DIR = os.getenv(
     r"C:\Users\roble\OneDrive\Documentos\GitHub\Proyecto-RI-1er-BIm\corpus2_clean"
 )
 MODEL_PICKLE_PATH = os.getenv("MODEL_PICKLE_PATH", "bm25_programmers.pkl")
-K1 = float(os.getenv("BM25_K1", 1.2))    # MEJORA: K1 más bajo, textos cortos
+K1 = float(os.getenv("BM25_K1", 1.2))
 B  = float(os.getenv("BM25_B", 0.75))
 DEFAULT_FB_DOCS = 5
 DEFAULT_FB_TERMS = 10
@@ -40,7 +40,7 @@ STOPWORDS = set(stopwords.words("english")) | {
 }
 LEMMATIZER = WordNetLemmatizer()
 
-app = FastAPI(title="BM25 API Programmers", version="1.0.0")
+app = FastAPI(title="BM25 API Programmers", version="2.0.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -51,7 +51,7 @@ app.add_middleware(
 class SearchResult(BaseModel):
     doc_id: str
     score: float
-    snippet: Optional[str] = None     # MEJORA: Devuelve fragmento relevante
+    snippet: Optional[str] = None
 
 class SearchResponse(BaseModel):
     query: str
@@ -69,16 +69,19 @@ class ReloadResponse(BaseModel):
 bm25_model: Optional[BM25Okapi] = None
 document_ids: List[str] = []
 docs_tokens: List[List[str]] = []
-docs_raw: List[str] = []           # MEJORA: Guarda raw para snippets
+docs_raw: List[str] = []
 
-# ============ FUNCIONES AUXILIARES =============
+def add_bigrams(tokens: List[str]) -> List[str]:
+    # Genera bigramas a partir de la lista de tokens
+    return tokens + [f"{tokens[i]}_{tokens[i+1]}" for i in range(len(tokens)-1)]
 
 @lru_cache(maxsize=128)
 def preprocess_query(text: str) -> List[str]:
     txt = re.sub(r"http\S+", " ", text)
     txt = re.sub(r"[^a-zA-Z0-9\s]", " ", txt).lower()
     tokens = re.findall(TOKEN_PATTERN, txt)
-    return [LEMMATIZER.lemmatize(t) for t in tokens if t not in STOPWORDS]
+    lemmas = [LEMMATIZER.lemmatize(t) for t in tokens if t not in STOPWORDS]
+    return add_bigrams(lemmas)
 
 @lru_cache(maxsize=64)
 def rm3_expand(tokens_tuple: Tuple[str, ...], fb_docs: int, fb_terms: int) -> List[str]:
@@ -90,7 +93,6 @@ def rm3_expand(tokens_tuple: Tuple[str, ...], fb_docs: int, fb_terms: int) -> Li
     for idx in top_idxs:
         all_terms.extend(docs_tokens[idx])
     freq = Counter(all_terms)
-    # Penaliza los términos más frecuentes del corpus total (MEJORA)
     candidates = [t for t, _ in freq.most_common() if t not in query_tokens and t not in STOPWORDS]
     return candidates[:fb_terms]
 
@@ -118,8 +120,10 @@ def build_or_load_bm25_index():
         doc_id = os.path.splitext(os.path.basename(p))[0]
         ids.append(doc_id)
         raw_txt = open(p, encoding="utf-8").read()
-        tokens = raw_txt.split()         # Ya están limpios y tokenizados
-        docs.append(tokens)
+        tokens = raw_txt.split()  # Suponiendo ya limpio y tokenizado
+        lemmas = [LEMMATIZER.lemmatize(t) for t in tokens if t not in STOPWORDS]
+        tokens_and_bigrams = add_bigrams(lemmas)
+        docs.append(tokens_and_bigrams)
         raw_docs.append(raw_txt)
     document_ids = ids
     docs_tokens = docs
@@ -134,7 +138,6 @@ def build_or_load_bm25_index():
         }, f)
 
 def get_snippet(doc_tokens: List[str], query_tokens: List[str], win=25) -> str:
-    # MEJORA: Devuelve fragmento alrededor del primer match
     indices = [i for i, t in enumerate(doc_tokens) if t in query_tokens]
     if indices:
         idx = indices[0]
@@ -151,11 +154,6 @@ def on_startup():
     except Exception as e:
         raise RuntimeError(f"Error al inicializar índice BM25: {e}")
 
-@app.get("/", summary="Health check")
-def health_check():
-    total = len(document_ids)
-    return {"status": "ok", "total_docs": total}
-
 @app.post("/reload", response_model=ReloadResponse, summary="Reload index")
 def reload_index():
     preprocess_query.cache_clear()
@@ -164,6 +162,11 @@ def reload_index():
         os.remove(MODEL_PICKLE_PATH)
     build_or_load_bm25_index()
     return ReloadResponse(message="Índice recargado", total_docs=len(document_ids))
+
+@app.get("/", summary="Health check")
+def health_check():
+    total = len(document_ids)
+    return {"status": "ok", "total_docs": total}
 
 @app.get("/search", response_model=SearchResponse, summary="Buscar documentos")
 def search(
