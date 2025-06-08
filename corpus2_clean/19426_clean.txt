@@ -1,1 +1,0 @@
-large text file million section section contains line header b line numeric data want read first last line b section list x million line end import work since file big read memory command like scan filter

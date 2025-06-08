@@ -1,1 +1,0 @@
-matrixplot output would like zoom around drawing box define zoom region mouse thing fairly standard labview surely mathematica must similar set ability example matrix write testarray array randominteger matrixplot testarray

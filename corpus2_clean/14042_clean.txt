@@ -1,1 +1,0 @@
-would like transform following list data c c c c c c another list like output c c c c c c basically first column indicates level head level bill material would like put header item header quantity column besides component easier computation along thanks

@@ -1,1 +1,0 @@
-How can I convert a list such as:               a = {1, 2, 0.1}      into sequence so that I can pass them into a function, e.g. I want to be able to do something like this               Range[a]      so that the output will be: > 1, 1.1, 1.2, ... , 2.0

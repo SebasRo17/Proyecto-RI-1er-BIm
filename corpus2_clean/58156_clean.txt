@@ -1,1 +1,0 @@
-number big factorial given need find many zero number counted terminal zero dividing untill fifth power number thats part also need count number zero digit example zero need count spent hour still got nothing p actually even possible trying write program c count could divide number count zero huge even bit computer idea algorithm formula

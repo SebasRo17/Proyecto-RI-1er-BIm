@@ -1,1 +1,0 @@
-Is there a way to reverse the application of derivative rules in order to simplify expressions including derivatives? e.g. in Mathematica code: Want to go from               (g[x, y]*Derivative[1, 0][f][x, y])/h[x, y] + (f[x, y]*Derivative[1, 0][g][x, y])/h[x, y] -      (f[x, y]*g[x, y]*Derivative[1, 0][h][x, y])/h[x, y]^2      to               D[f[x, y]*g[x, y]/h[x, y], x]

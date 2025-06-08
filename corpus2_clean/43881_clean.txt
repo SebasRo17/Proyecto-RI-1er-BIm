@@ -1,1 +1,0 @@
-evaluate gt graph b b c c c vertexlabels name gt setproperty gt b vertexweight check property set propertyvalue gt b vertexweight next evaluate gt setproperty gt vertexweight check propertyvalue gt vertexweight check confirm b vertex still weight set propertyvalue gt b vertexweight idea wrong

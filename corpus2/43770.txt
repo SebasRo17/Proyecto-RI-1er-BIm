@@ -1,1 +1,0 @@
-I am trying to find the right way to compute the square root of a number defined in a finite field. For example,               << FiniteFields`     In[18]:= Sqrt[GF[17][{8}]]     Out[18]= Sqrt[Subscript[{8}, 17]]      Results in an incorrect answer. The correct answer is `5`.

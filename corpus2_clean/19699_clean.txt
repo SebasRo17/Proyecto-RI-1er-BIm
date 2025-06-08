@@ -1,1 +1,0 @@
-matrix receiving following message inverse luc result inverse badly conditioned matrix may contain significant numerical error tell mathematica isolate detect result badly conditioned matrix instance using statement condition put argument statement matrix badly conditioned p advice tackle kind matrix would good

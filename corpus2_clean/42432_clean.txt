@@ -1,1 +1,0 @@
-suppose following matrix j mat following criterion vector element corresponding row matrix check criterion element mat less corresponding element check vector want replace following vector replacevec element replacevec correspond row mat could give suggestion thank help

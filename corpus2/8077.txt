@@ -1,1 +1,0 @@
-Given a square matrix, is it possible to calculate its characteristic polynomial modulo `n`? Unfortunately, this function `CharacteristicPolynomial` doesn't have the `Modulus` option that many other functions have.

@@ -1,1 +1,0 @@
-list time duration string form hh mm s sample play duration want convert number second actually useful thing data would go must way get mathematica extract relevant thing string thanks edit surprised seem question related already may using wrong search term

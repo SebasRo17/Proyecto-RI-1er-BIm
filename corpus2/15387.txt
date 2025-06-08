@@ -1,1 +1,0 @@
-I wish to use `Distribute[p.(q+r)+m]` to get `p.q+p.r+m`. However, Distribute apparently does not thread through all parts of the expression. What should I do instead?

@@ -1,1 +1,0 @@
-I wanted to see how one can define a box operator in mathematica? $$ \Box\phi=(-\frac{\partial^{2}}{\partial t^{2}}+\frac{\partial^{2}}{\partial x^{2}}+\frac{\partial^{2}}{\partial y^{2}}+\frac{\partial^{2}}{\partial z^{2}})\phi $$ and then $$ \Box\psi(\phi) $$ Thanks.

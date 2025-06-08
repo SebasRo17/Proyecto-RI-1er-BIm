@@ -1,1 +1,0 @@
-mat randomreal vec randomreal leastsquares mat vec return x minimizes plus mat x vec best way make mathematica return x minimizes max mat x vec ended thank daniel l length first mat linearprogramming prepend constantarray l prepend riffle mat mat riffle vec vec prepend constantarray infinity l

@@ -1,1 +1,0 @@
-two matrix like table random j table random j want create new matrix main diagonal element zero diagonal determined based min j j came loop newm constantarray j j newm j j newm j j j better way avoiding loop possible use map

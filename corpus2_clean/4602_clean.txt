@@ -1,1 +1,0 @@
-print first part result datestring print addition result datestring add newline character end line automatically print like two string shown line

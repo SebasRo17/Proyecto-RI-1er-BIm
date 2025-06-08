@@ -1,1 +1,0 @@
-I have an `XL` File with data like :                 {{1,2,3},{4,5,6},{7,8,9}}      That `XL` file name as "MySheet1". I want to   1. change {2,2} position value(5 to 11).   2. change entire Third row. for that purpose I tryed with `Export` still not get it. can anybody help me?

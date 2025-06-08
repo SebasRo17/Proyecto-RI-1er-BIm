@@ -1,1 +1,0 @@
-Considering I have weather data for last 10 years for London, how can I make a scatter plot that will show the previous day's temperature as a function from today's temperature?

@@ -1,1 +1,0 @@
-The 3d graphic functions like `ParametricPlot3D` and `ContourPlot3D` always give me a rotating plot. Sometimes, I even can't stop it rotating when I select the plot. For example, I am getting autorotation, like an animation, from               ParametricPlot3D[{Sin[a] Cos[b], 2 Sin[a] Sin[b], 3 Cos[a]},        {a, 0, π}, {b, 0, 2 π}, BoxRatios -> Automatic]

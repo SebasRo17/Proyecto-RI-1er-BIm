@@ -1,1 +1,0 @@
-phd clinical neuropsychology someone helping analyse image jpg picture mathematica turn person made really bad decision well idea basically want analyze jpeg image get rgb histogram get value mean standard deviation histogram using imagehistogram image appearance separated work fine figure next step turning histogram plot number thank helping

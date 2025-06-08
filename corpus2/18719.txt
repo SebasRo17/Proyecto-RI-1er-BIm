@@ -1,1 +1,0 @@
-How can I monitor the communication between an installable MathLink program and the kernel? Can LinkSnooper do this?

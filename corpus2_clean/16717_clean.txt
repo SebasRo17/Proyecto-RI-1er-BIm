@@ -1,1 +1,0 @@
-list representing matrix one anyone know find minimum row ideally outputting new list row minimum original matrix element e answer work n list

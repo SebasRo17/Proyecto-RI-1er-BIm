@@ -1,1 +1,0 @@
-plot integrate sin x x x sin x x sin x diracdelta x x sin x x tried evaluating expression take forever right use nintegrate plot f took hr enter image description could get better plot

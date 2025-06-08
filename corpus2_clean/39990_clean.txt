@@ -1,1 +1,0 @@
-create three random image image randomreal image randomreal image randomreal scale single image imageresize scaled map imagescaled imageresize using scaled argument

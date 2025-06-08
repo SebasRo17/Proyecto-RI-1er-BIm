@@ -1,1 +1,0 @@
-I apologize for my heaviness as I am a _Mathematica_ novice. Is there a kind soul who can tell me how to draw diagrams like those shown on page 158, 160 and 161 of this document.Chaine de Markov I oversee several plotting examples unsuccessfully.

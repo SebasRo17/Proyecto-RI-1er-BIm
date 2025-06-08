@@ -1,1 +1,0 @@
-got multipeak histogram data want fit using gaussian distribution function f x amplitude centroid sigma amplitude exp x centroid sigma however two peak fit histogram get two set value amplitude centroid sigma amplitude centroid sigma

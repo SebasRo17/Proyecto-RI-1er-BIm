@@ -1,1 +1,0 @@
-plotting multiple list listplot listlogplot listlogplot lista listb listc listd liste plotrange automatic also fit f f b f c f f e data list overlay fit color x range

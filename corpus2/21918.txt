@@ -1,1 +1,0 @@
-How might I work with the following functions on a list, if the list is a disk based file?               Partition[]     DeleteDuplicates[]     Split[]       SortBy[]      The file is too large to `ReadList[]` or `Import[]` the data in the first place.

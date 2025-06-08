@@ -1,1 +1,0 @@
-I have this two sets: $A = \\{\emptyset, \\{\emptyset\\}, \\{\\{\emptyset\\}, \emptyset\\}\\}$ $B = \\{\\{x, \\{x, y\\}\\} | x \in A, y \in A\\}$ Now I want to list all possible elements that are in $B$. How do I do this?

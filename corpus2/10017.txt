@@ -1,1 +1,0 @@
-If I want to calculate with units, for example using Pythagoras theorem, I would do this:               c = Sqrt[(3m)^2 + (5m)^2]      The result will be `5 Sqrt[m^2]`. How can I define that `m = Sqrt[m^2]` and so forth?

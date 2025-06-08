@@ -1,1 +1,0 @@
-looking differentiable function f unit interval satisfy following equation forall p left right p f f p f p f f p way use mathematica solve equation dsolve course unable handle unless trick know

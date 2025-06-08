@@ -1,1 +1,0 @@
-trying diagonalize certain x matrix mathematica refuse find eigenvectors particular input eigenvectors b b b parameter receive error eigenvectors eivec unable find eigenvectors bogus output hand mathematica problem eigenvalue reason someone help figure going

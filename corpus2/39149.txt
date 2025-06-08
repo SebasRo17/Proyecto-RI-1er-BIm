@@ -1,1 +1,0 @@
-I found that               Hyperlink[im, "something", ImageSize -> 800]      The `ImageSize` only add some borders of my `im`. How to make my im become the actual size? You can try a big image.

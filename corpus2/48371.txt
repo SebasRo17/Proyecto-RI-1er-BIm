@@ -1,1 +1,0 @@
-How can I to define a constant in $Z_{2}$? For example, I want to create a constant `b` that inherits the properties of an element from $Z_{2}$. For example               b + b = 0     b^n = b

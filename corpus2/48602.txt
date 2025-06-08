@@ -1,1 +1,0 @@
-Still learning the fundamentals of the language I would like to ask you what advantages there might be in writing something like:               a[1] = 2;     a[2] = 4;     a[3] = "x";      It seems to me that it is always better to write               a = {2, 4, "x"};      Do you know about any practical constructs where indexed variables would offer an advantage?

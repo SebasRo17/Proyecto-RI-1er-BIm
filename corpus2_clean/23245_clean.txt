@@ -1,1 +1,0 @@
-provided two unlabeled graph g h would like test h subgraph g word like test whether prune fixed number vertex edge g transform graph h implementation something like mathematica perhaps available elsewhere efficiency within reason matter much note somewhat tolerate false positive false negative

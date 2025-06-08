@@ -1,1 +1,0 @@
-For every integer $x$ the equation `Mod[x, 1] == 0` holds. While               Simplify[Mod[x, 1] == 0, Element[x,Integers]]       gives `True`,               Reduce[Mod[x, 1] == 0, x, Integers]       gives `False`. Why?

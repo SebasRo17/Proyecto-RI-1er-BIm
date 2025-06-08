@@ -1,1 +1,0 @@
-Looking at the `Options` for `MatrixPlot`, there doesn't seem to be a mechanism for lowerbound threshold - i.e. ignoring values that fall below a certain cutoff. If my data set is very large, and I need a fast method of accomplishing this, would anyone have a recommendation?

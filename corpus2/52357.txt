@@ -1,1 +1,0 @@
-I just started using _Mathematica_ , and when I entered the following:               Manipulate[       ContourPlot[x^4 + y^4 + 2*x^2*y^2 - x^2 + y^2 == n, {x, -5, 5}, {y, -5,5}],        {n, -.2, 3}]      I got the Plot that I wanted, but it's incredibly small. Is there a way to make it larger?

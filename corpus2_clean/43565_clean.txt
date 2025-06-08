@@ -1,1 +1,0 @@
-two set data set subset fitting data using bspline data according following command table graphic green pointsize large point red point black bsplinecurve aspectratio ax true sp bsplinefunction splineknots unclamped dsp sp problem sp defined respect parameter curve fitting respect variable x defines domain data anyone know convert sp function x

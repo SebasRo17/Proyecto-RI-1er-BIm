@@ -1,1 +1,0 @@
-display effect uniform quantization step size q would like draw curve shown enter image description tried using plot round n n tick aspectratio automatic exclusionsstyle opacity axeslabel input output get look perfectly shown shown tick lebels appear different side axis attained

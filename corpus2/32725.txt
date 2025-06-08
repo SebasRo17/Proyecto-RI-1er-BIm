@@ -1,1 +1,0 @@
-Why does               Circle[{0, 0}] /. List[_?NumericQ ..] :> Sequence[]      return > Circle[{0, 0}] yet               Circle[{0, 0}] /. List[_?NumericQ ..] :> List      returns > Circle[List] ?

@@ -1,1 +1,0 @@
-making program need plot soluton ode possible obtain analytical solution idea use dsolve check output failed use ndsolve know set time limit using timeconstrained check dsolve instantly return input alculation complex analytical solution sorry answered elsewere tried search find anything related

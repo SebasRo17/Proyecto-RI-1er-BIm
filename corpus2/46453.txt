@@ -1,1 +1,0 @@
-Many functions, usuallly those involving integration, take a `GenerateConditions` option which often defaults to `False`, or at least it does for `Expectation` and and the Fourier transform related functions.   In what situations should the default be changed? What are the pros and cons?

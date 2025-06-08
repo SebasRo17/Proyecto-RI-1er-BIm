@@ -1,1 +1,0 @@
-try solve bit tricky problem want define line vector geographical point weight example many transaction done city tried way c citydata paris coordinate c citydata london coordinate c citydata hong kong coordinate listdensityplot c c c c listdensityplot weight evaluate code always get error message possible make simalution thank much

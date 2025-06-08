@@ -1,1 +1,0 @@
-note cross posted really big graph x code g weightedadjacencygraph vertexlabels vertexstyle rgbcolor vertexshapefunction square want create minimumspanningtree im trying minimumspanningtree g course working know something terribly wrong im begginer mathematica cant figure help

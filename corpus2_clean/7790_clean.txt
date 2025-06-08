@@ -1,1 +1,0 @@
-new mathematica want change fillingstyle dynamically plot want pick color color dynamically change sin plot rgbcolor row button color systemdialoginput color evaluate plot sin pi pi filling bottom fillingstyle dynamic able pick color plot changing dynamically change executing

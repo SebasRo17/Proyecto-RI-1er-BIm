@@ -1,1 +1,0 @@
-Is there a way to make a nice disk radius legend (with linear or log scale) for a BubbleChart[]? Something like the following example should be built in! ![enter image description here](http://i.stack.imgur.com/4hNYK.png)

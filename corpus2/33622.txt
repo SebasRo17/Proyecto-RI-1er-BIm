@@ -1,1 +1,0 @@
-I am looking for differentiable functions $f$ from the unit interval to itself that satisfy the following equation $\forall\:p \in \left( 0,1 \right)$: $$1-p-f(f(p))-f(p)f'(f(p))=0$$ Is there a way to use _Mathematica_ to solve such equations?   `DSolve` is of course unable to handle this -- unless there are tricks I don't know about.

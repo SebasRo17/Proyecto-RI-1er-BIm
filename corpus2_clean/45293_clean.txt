@@ -1,1 +1,0 @@
-using halirutan code thread unflatten list work well problem module local function f deleted function return output consequently end hundred thousand copy symbol form f xxxx eventually crash mathematica tried solution thread seem work workaround

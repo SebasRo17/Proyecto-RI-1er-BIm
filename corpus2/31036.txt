@@ -1,1 +1,0 @@
-A little question. Consider one html source string,               Export["test.html", htmlsource]      Then I get one html file with a whole image of the source.               Export["test1.txt", fileToExoprt]     CopyFile["test1.txt","test1.html"]      Then I get the result html file. Is there a direct way?

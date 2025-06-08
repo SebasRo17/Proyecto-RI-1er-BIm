@@ -1,1 +1,0 @@
-Is there a rule that tells Mathematica to set a semicolon at the end of each line (except of the last one)? My MWE is:               Export["..\\Thesis\\Hamiltonian_stark.dat",Table[j + 10 i, {i, 0, 9}, {j, 0, 9}]]      But I want something like               Export["..\\Thesis\\Hamiltonian_stark.dat",Table[j + 10 i, {i, 0, 9}, {j, 0, 9}],{EndOfLine->';/n'}]

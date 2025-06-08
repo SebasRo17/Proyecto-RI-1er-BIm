@@ -1,1 +1,0 @@
-define constant z example want create constant b inherits property element z example b b b n b

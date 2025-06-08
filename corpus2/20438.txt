@@ -1,1 +1,0 @@
-Where can I find the most up-to-date or whatever you consider to be the most useful symmetry-finding package for differential equations? I do not intend to restrict to, but would like to include those, that are designed to work within Mathematica. I'm looking for something analogous to this for Mathematica (software and documentation) or this for Maple.

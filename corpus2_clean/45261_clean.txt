@@ -1,1 +1,0 @@
-question related one except need graphic let say following drawing graphic line q p v arrow p p v arrow p p vx arrow p p vy dashed line q dir p v v dir fontsize background rgbcolor text q q text p p text v v ax true drawing sysytem drawing illustrate part work screen coordinate go top bottom reverse order want reverse somehow

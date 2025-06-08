@@ -1,1 +1,0 @@
-seem solve general quadratic equation solve ax bx c x output empty list solve equation

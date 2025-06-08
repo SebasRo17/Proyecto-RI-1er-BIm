@@ -1,1 +1,0 @@
-solve differential equation consists variable depending upon another differential equation

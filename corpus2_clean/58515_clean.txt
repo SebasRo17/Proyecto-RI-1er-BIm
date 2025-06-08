@@ -1,1 +1,0 @@
-following code display differently v v vectorplot x x x vectorscale automatic none vectorstyle red segment v arrowhead present image want arrowhead v arrowhead present want arrowhead tried using vectorstyle red arrowhead v avail

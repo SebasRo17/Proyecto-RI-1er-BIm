@@ -1,1 +1,0 @@
-writing noncommutative product want avoid typing redundant symbol like b c b c want type b c mapped product b c call purist clever way avoid b c mapped time b c besides clearall time documentation inner working pre parsing time

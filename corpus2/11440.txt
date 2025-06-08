@@ -1,1 +1,0 @@
-A newbie question this one - MMA help seems to suggest it would be possible to place a button on ( or have a button be ) each node of graph, labelled with the name of said node. I have no idea where to start with the syntax for this though...any help much appreciated.

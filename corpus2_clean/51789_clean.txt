@@ -1,1 +1,0 @@
-like draw curve using plot tried follow code plot table n sqrt pi exp n x n x plotstyle directive black thick axesstyle directive arrowhead graylevel thick opacity tick none plotrange aspectratio regionfunction function x ab x come enter image description confused gray ax front black curve esp x ax move ax backward show curve well

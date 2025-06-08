@@ -1,1 +1,0 @@
-example using exampledata testimage girl mathematica graphic general way make background transparent tried various combination edgedetect threshold imageadd figure thank

@@ -1,1 +1,0 @@
-I want to differentiate the following equation:               n = (nchoosek)*p*(1 - p)^(n - k)      After differentiating my result is:               n = -1/log(1 - p)      But my problem is that I cannot differentiate this. Can anyone please help me to do this?

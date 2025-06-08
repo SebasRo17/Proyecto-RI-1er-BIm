@@ -1,1 +1,0 @@
-The question seems trivial, but no sign of such thing in reference. Also TicksStyle does not work for labels. Thanks, Regards

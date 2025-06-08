@@ -1,1 +1,0 @@
-I have multiple data sets, each of which is a 2D matrix. I want to construct a new 2D Matrix in which each element is the average of that element for all the original data sets. i.e               NewMatrix[i][j] =1/N *(Matrix1[i][j] + Matrix2[i][j] + ... + MatrixN[i][j])      I can't quite figure out how to do it in _Mathematica_. Thanks

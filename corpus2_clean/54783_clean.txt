@@ -1,1 +1,0 @@
-want add unit number display label chart tried size sizesstr tostring size kb barchart size barorigin left chartlabels placed sizesstr right enter image description instead bar displaying xxx kb get kb whole list blame stringjoin listable get number bar related short bar text go beyond vertical axis get label right bar instead inside

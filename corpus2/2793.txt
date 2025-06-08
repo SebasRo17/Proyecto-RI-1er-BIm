@@ -1,1 +1,0 @@
-Is there any way to "close" a package (or a symbol, or a context) in that if a user of the package adds definitions to the symbol they will be tried before the package defined ones, just like what happens with built-ins?

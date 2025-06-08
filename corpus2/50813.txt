@@ -1,1 +1,0 @@
-I have the functions               w[x_] := x*Cosh[x]       and                x[a_] := n/k*a.       I take the derivative `D[w[x[a]], a]` and get > >     a*n^2/k^2*Sinh[a*n/k] + n/k*Cosh[a*n/k]. >   This is odd because I expected the result > >     n/k*(x*Sinh[x] + Cosh[x]). >   I know I can use replacement rules to achieve this but is there a direct way?

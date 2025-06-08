@@ -1,1 +1,0 @@
-suppose like generate table integer table great suppose want integer even select table evenq fine small thing like iterate say n thing maybe n satisfy predicate pretty terrible way good idiomatic way could use loop guess append ing must better way right

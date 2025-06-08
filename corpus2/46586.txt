@@ -1,1 +1,0 @@
-Ok I must be missing something. I have a section with the "last updated date" in a text cell, I'd like it to autoupdate. Is there a "insert current date" command hidden away in some menu?

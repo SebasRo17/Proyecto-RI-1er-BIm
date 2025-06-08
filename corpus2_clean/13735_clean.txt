@@ -1,1 +1,0 @@
-like draw plot sin x x epilog plot sin x x position intuitive work epilogdata table x sin x x plot sin x x epilog red pointsize large point epilogdata using epilogdata table x sin x x draw something want anyway also played inset got luck far

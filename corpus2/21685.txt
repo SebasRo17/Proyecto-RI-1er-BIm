@@ -1,1 +1,0 @@
-I need to plot triangular mesh on a cylinder. However the function `Cylinder` doesn't have a `mesh` option. By using `ParametricPlot3D[{Cos[phi], Sin[phi], z}, {phi, 0, 2 Pi}, {z, -4, 4}, Mesh->All]`, it gives a hollow cylindrical surface with fine mesh. How can I get a "solid" cylinder with coarse triangular mesh?

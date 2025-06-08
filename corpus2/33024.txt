@@ -1,1 +1,0 @@
-If i have a nested list representing nodes in a binary tree, `{3, {2, {1, None, None}, None}, None}`, what is the easiest way to show the hierarchy, without all the List heads being displayed as intermediate nodes?

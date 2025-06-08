@@ -1,1 +1,0 @@
-How do I perform               Integrate[Sin[x]^2/(z^2 + R^2 - 2 zRCos[x])^(3/2), {x, 0, Pi}]      where `z` and `R` are constants. I would like if possible the result in terms of `z` and `R`.

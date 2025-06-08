@@ -1,1 +1,0 @@
-I am using the PairedBarChart feature as follows:               PairedBarChart[Range[5], Range[5], BarOrigin -> "XAxis"]      ![enter image description here](http://i.stack.imgur.com/jWRWa.png) How can I (i) remove and (ii) change the number of the small tick marks on the y-axis (i.e., the ones between the numbers 1, 2, 3, ...)? Thanks for your help!

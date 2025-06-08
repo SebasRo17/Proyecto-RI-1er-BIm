@@ -1,1 +1,0 @@
-make normal line plane actually look perpendicular cc plot x x plotrange bb parametricplot plotstyle thick show cc bb mathematica graphic line look even close perpendicular plane

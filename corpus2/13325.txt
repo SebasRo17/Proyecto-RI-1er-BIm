@@ -1,1 +1,0 @@
-I want to prove the expression $$1^2 + 2^2 + 3^2 + \cdots + n^2 = \dfrac{n(n+1)(2n+1)}{6}$$ by method of mathematical induction with Mathematica, but I do not know how to start. How do I tell Mathematica to do that?

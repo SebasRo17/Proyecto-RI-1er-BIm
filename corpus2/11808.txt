@@ -1,1 +1,0 @@
-How can I define a user defined function within `DynamicModule`? For example, if               h[x_] := x^2      I want to find `h[2]`.

@@ -1,1 +1,0 @@
-would like numerically solve forward backward looking recurrence equation mathematica system something like x n x n n n n subject x n problem boundary x beginning n boundary end n n hence forward backward looking mathematica command recurrencetable handle would need obtain result arbitrary level n numerical result fine would efficient method tackle problem

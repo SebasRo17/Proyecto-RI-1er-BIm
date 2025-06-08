@@ -1,1 +1,0 @@
-want write function mathematica two input n output latex notation f n sum n n leq c n f x f x f n x n n integer problem hard code f given n alright want write generic function take n spit required right hand side becomes difficult keep changing array size along way depending value n probably simpler way mathematica

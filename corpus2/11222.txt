@@ -1,1 +1,0 @@
-In geometry 3D, let $A(1,2,-3) $ and $B(-1,4,1)$ are two points. In the plane $(P):2x-3y+3z-17=0$, find a point $M$ such that the scalar product of two vectors $AM$ and $BM$ will have the least value. How do I tell Mathematica to do that?

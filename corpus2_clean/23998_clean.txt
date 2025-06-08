@@ -1,1 +1,0 @@
-executing command nonlinearmodelfit data c exp b x b c x data data getting nonsensical result horrible fit tried various method option always get bad fit goal try replicate ti would give know enough stuff know ti always seems give reasonable fit mathematica

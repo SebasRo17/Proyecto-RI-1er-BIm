@@ -1,1 +1,0 @@
-No answer is given when I evaluate the following expression:               p[x_,t_]:=D[h[x, t], x]     DSolve[{       D[h[x, t], t] == 11120 D[h[x, t], {x, 2}] + 0.000625,       h[60000, t] == 10,       p[0, t] == 0,       (h[x, 0])^2 == 45100 - 0.0000125 x^2     }, h[x, t], {x, t}]      Did I go wrong somewhere?

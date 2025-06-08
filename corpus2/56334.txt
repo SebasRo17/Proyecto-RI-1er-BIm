@@ -1,1 +1,0 @@
-I just want to know if there's a way to plot sets in the complex plane. For example $$A=\\{z\in \mathbb{C},z+e^{z}=0\\},\\\A=\\{z\in \mathbb{C},\Re(z)+e^{z}\geq0\\}.$$

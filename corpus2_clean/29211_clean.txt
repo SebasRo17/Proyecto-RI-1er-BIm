@@ -1,1 +1,0 @@
-example display input window position left winmargins automatic automatic inputstring testing windowmargins stop fieldsize small windowmargins winmargins want display window centered horizontally screen tried use following work winmargins scaled automatic automatic get horizontally centered input window

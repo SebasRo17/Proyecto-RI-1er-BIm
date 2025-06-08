@@ -1,1 +1,0 @@
-new programming array containing let say element first want randomly select two element record select two element array twenty element record process continues let say time draw want repeat two element already drawn used randomsample generate random number j yarray j randomsample range print yarray j j

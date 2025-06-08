@@ -1,1 +1,0 @@
-Is it possible to simplify assuming a functional equation, for examlpe to use that one function, g, is the invers of another, f.               Simplify[g[f[x]], g[f[x_]] == x]      just returns `g[f[x]]`, and similar for FullSimplify.

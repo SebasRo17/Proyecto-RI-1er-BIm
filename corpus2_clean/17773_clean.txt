@@ -1,1 +1,0 @@
-try use interpolatingpolynomial f f f f f method hermite wolframalpha wrong

@@ -1,1 +1,0 @@
-use mathematica r able keep code output organized notebook interface although get r structure mathematica using revaluate figure get textual output say summary fit perhaps done redirecting output temporary file like case plot wonder native solution

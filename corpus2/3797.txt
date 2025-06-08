@@ -1,1 +1,0 @@
-When I use `Limit` to evaluate the $k \to 0$ limit of               ((k + 2) (α^2 - Sqrt[α^4 + k]) + k)/(α^2 - Sqrt[α^4 + k] + 2 k)      If `α` and `k` are assumed to be real, `Limit` gives the answer: `2`. However, I believe the correct answer is               (2 (-1 + α^2))/(-1 + 4 α^2)      So, when should I trust the answer of `Limit`?

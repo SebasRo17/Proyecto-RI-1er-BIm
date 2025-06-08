@@ -1,1 +1,0 @@
-Recently there was a handful of CDF embedding-related topics. However I would like to ask whether anyone has succeeded in embedding CDF into MediaWiki page? I've attempted to do so with the Widget extension but it fails to load fully. Is there any way to fix this?

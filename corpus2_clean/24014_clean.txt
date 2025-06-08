@@ -1,1 +1,0 @@
-dbarchart add bar graph would required dataset get wider run page printed way fix height width dbarchart maintains size proportion become large print regardless dataset receives thanks

@@ -1,1 +1,0 @@
-I am using a Windows machine with 8 cores. No other process than Mathematica 8 is using CPU time right now - still the MathKernel.exe CPU usage does not go beyond 13%. My current computation takes forever and I feel that might be the reason. How can I adjust the CPU usage of Mathematica to use, say, up to 90% of CPU?

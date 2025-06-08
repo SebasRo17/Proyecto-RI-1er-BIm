@@ -1,1 +1,0 @@
-system ode solve integration process event want catch want continue integration event b catch first one example let say want calculate pi method flag false ndsolve method eventlocator event flag eventaction flag true pihalf reason work event keep triggered even though value flag change screenshot end process get pi might disastrous use value build airplane solve

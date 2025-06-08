@@ -1,1 +1,0 @@
-like calculate mean median value function interval b however seem find help specifically like something work like following f x funcmean f x way actually compute integral b nintegrate f x b workingprecision suspect built function calculating median interval

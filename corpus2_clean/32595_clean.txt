@@ -1,1 +1,0 @@
-two data set one range another range want draw two density plot common scale fix scale thanks

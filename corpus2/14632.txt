@@ -1,1 +1,0 @@
-Graphics3D[{       {RGBColor[#], Sphere[#, 1/50]} & /@ Tuples[Range[0, 1, 1/5], 3]       }      ]      It gives this: ![enter image description here](http://i.stack.imgur.com/SHsMu.jpg) Now I want to get this one: ![enter image description here](http://i.stack.imgur.com/PEnR1.jpg) How? As simple as doable. Thanks in advance.

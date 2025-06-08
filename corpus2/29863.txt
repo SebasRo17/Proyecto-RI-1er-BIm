@@ -1,1 +1,0 @@
-I have a very long expression like `a + b x/y + f + c y/x + d (x z)/y + ...` where `a , b, c, f ...` are coefficients and `x,y,z,...` are variables. I need to pick up the terms without variables which are `a , f` here how can I do this? Or even collection of the zero order terms will be helpful.

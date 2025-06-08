@@ -1,1 +1,0 @@
-following simple example mymod module return print test expected module exit return never reach print instead mymod test sure always used former expected logic past lost memory changed something way return work

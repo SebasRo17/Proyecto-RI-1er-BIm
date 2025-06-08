@@ -1,1 +1,0 @@
-simple way plot list point joined stair step instead straight line point imagine something like stairsteplistplot would produce flat line vertical line find concise way producing plot

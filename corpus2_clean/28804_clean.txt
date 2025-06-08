@@ -1,1 +1,0 @@
-three dimensional autonomous equation want find critical point corresponding eigenvalue critical point x z function time function z x z x x z x z z z x z x z z z z wrote code work top page say running nothing happens f x z z x x z g x z x z z z x h x z x z z z z sys x f x z g x z z h x z solve f x z g x z h x z x z

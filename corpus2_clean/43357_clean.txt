@@ -1,1 +1,0 @@
-mathematica function similar one called coneplot matlab given spatial coordinate x z velocity component v x v v z able produce following graph enter image description plot data listvectorplot get arrow shown sample data form x z v x v v z data

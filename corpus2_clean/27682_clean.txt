@@ -1,1 +1,0 @@
-rule tell mathematica set semicolon end line except last one mwe export thesis hamiltonian stark dat table j j want something like export thesis hamiltonian stark dat table j j endofline n

@@ -1,1 +1,0 @@
-option mathematica preference change font whole notebook know change font individual cell

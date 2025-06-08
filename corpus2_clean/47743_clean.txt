@@ -1,1 +1,0 @@
-two presburger formula b b false need find simpler formula simple make b false simple way automate largish formula mathematica formula start sum product form thousand product less variable already using fullsimplify simplify b preserving equivalence need go even simpler hence weaker set condition

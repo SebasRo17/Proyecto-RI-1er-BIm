@@ -1,1 +1,0 @@
-Having known the fact that the evaluation of the integrals containing fractional parts often contains   errors, I wonder if the integral below possibly evaluates to $0.7$ or this is just a coincidence that               N[Integrate[Tan[x] - Floor[Tan[x]], {x, 0, Pi/2}], 16]      yields $0.6991518856432281$. How could I check if $0.7$ is or isn't the right answer?

@@ -1,1 +1,0 @@
-imagine list forex data data list different size different case using financialindicator wildersmovingaverage data get list wildersmovingaverage given period output function list question one may limit function order compute value wildersmovingaverage last data point compute whole list time consuming list huge

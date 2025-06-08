@@ -1,1 +1,0 @@
-Suppose f is a function of two variables: $f = f(x,y)\quad$ and $L$ is a list. Could someone help me in defining a list of the form: $D = \\{f(x,y)\ |\ x \in L,\ y \in L\\}$ I tried this:               D = List[ f[x,y], {x,y} ∈ KroneckerProduct[L,L]]      But I got syntax errors.

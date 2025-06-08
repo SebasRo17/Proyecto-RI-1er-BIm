@@ -1,1 +1,0 @@
-ordinary differential equation contains coefficient function depend implicitly independent variable via algebraic equation trying go ahead use nsolve solve coefficient function work even approximately problem seems evaluation nsolve fix anybody know help pp w w sol ndsolve f w nsolve pp f f w f interpolatingfunction f sol nsolve pp w

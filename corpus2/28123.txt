@@ -1,1 +1,0 @@
-I want to create an one column matrix with the 1st element to be -1, and all the other elements to be zero. However, I want to be able to make a matrix of this kind with arbitrary dimension, that is, an arbitrary number of rows.

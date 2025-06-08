@@ -1,1 +1,0 @@
-suppose list number like list list list need partition six subset one number mean one close possible others example list partition subset one equal size sould length list mean subset close possible others subset mean objective minimize meanvariance subset

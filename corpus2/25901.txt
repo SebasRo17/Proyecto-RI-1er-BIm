@@ -1,1 +1,0 @@
-I am almost sure I remember seeing an online tool on the Wolframs website for creating CDF's for _Mathematica_ users with version 7. Am I right? And if so, where can I find it?

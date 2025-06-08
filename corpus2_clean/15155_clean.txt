@@ -1,1 +1,0 @@
-mathematica provide way compare two symbolic expression find greatest example want find greatest n n log n n n n variable

@@ -1,1 +1,0 @@
-trying use ndsolve analyze transient transmission line started simple one ndsolve u x x x u x u x u x u sin u x voltage initially constant one end line shorted approved mathematica say ndsolve ndnco number constraint initial condition equal total differential order system plus number discrete variable could ndsolve used transmission line transient analysis

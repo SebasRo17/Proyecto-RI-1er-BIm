@@ -1,1 +1,0 @@
-I have an expression `V = (a[1] + a[2])b[1]`. How would I define a function of `a[1]`, `a[2]` and `b[1]`? I'm looking for something like this `f[a[1]_,a[2]_,b[1]_]=(a[1] + a[2])b[1]` but Mathematica isn't satisfied with that definition.

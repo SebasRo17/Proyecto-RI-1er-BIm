@@ -1,1 +1,0 @@
-possible duplicate create function arbitrary number variable want use function f different set argument example f x z well f x z x z xn yn zn write definition accept type call

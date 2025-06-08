@@ -1,1 +1,0 @@
-How can I get an equation of the similar shaped curve? ![enter image description here](http://i.stack.imgur.com/2ASTq.png) I've tried to get it like `y = a + c x^2 + d x^3`:               Fit[{{-3, -3}, {0, 3}, {6, 4}}, {1, x^2, x^3}, x]      But it lacks two roots. I can't use `PolynomialFit` because of the lack of points.

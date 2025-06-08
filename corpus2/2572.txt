@@ -1,1 +1,0 @@
-What is the complete list of valid Front End Tokens? Preferably, by version number.

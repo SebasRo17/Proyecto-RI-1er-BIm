@@ -1,1 +1,0 @@
-vector whose length n part n section order want define function compare th th section find minimum program n following f x min total total boole thread x x total total boole thread x x total total boole thread x x could generalize f x n min total total boole thread x x total total boole thread x x total total boole thread x n n x way could speed code help suggestion appreciated

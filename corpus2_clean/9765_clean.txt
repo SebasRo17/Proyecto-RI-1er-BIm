@@ -1,1 +1,0 @@
-sorry question basic familiar mathematica interested way systematically address following sort problem suppose u u x function two variable mathbb r satisfies liouville type equation delta u e u check hand function v partial xy u partial x u cdot partial u harmonic e delta v question make mathematica verify interested complicated example want check hand principle

@@ -1,1 +1,0 @@
-Is there any way to completely remove the head of an expression function? For example, how would I remove the head `Cos` from `Cos[a]` to give only `a` as an output.

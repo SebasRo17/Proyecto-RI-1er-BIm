@@ -1,1 +1,0 @@
-consider following firstoutput style test fontsize setoptions style fontsize secondoutput style test would like string test appear secondoutput firstoutput setoptions style fontsize apply secondoutput anyone idea

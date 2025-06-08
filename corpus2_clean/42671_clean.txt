@@ -1,1 +1,0 @@
-simple way making smoothdensityhistogram plot logarithmic scaling density densityhistogram simple matter log pdf hspec argument smoothdensityhistogram native option

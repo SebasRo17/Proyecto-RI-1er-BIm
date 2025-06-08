@@ -1,1 +1,0 @@
-How can I construct an infinite matrix with finite sub-matrices of the form               A = (B0,  0, B1           0, B2,  0           0,  0, B3)      where each Bi is a rectangular or a square matrix?

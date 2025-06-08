@@ -1,1 +1,0 @@
-Is it possible to span one expression across multiple cells? E.g. long if statement or function evaluation. I looked in documentation and searched forum/google and could not find.

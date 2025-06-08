@@ -1,1 +1,0 @@
-I need to use shared libraries in some LibraryLink code. The shared library is installed in a custom location because it was also compiled by myself. When I try to load functions from the LibraryLink library, I get `LibraryFunction::libload` errors because Mathematica is not able to find the shared library. What is the solution to this problem?

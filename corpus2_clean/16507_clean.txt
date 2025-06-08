@@ -1,1 +1,0 @@
-list form would like sort calculate sum third column whenever first two column equal e case output would elegant way

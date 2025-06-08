@@ -1,1 +1,0 @@
-I used               TeXForm[HoldForm[Integrate[x^2, {x, 1, 2}]]]      to convert the integral $$\int_1^2 x^2 \, dx$$ How to get $$\int_1^2 x^2 \, \mathrm{d}x ?$$

@@ -1,1 +1,0 @@
-trying get code working func dynamic plot func idea like dynamic parameter change graph without need actually evaluate plot command change parameter code delivers plot printed screen tried adding evaluate command well without luck missing dynamic command something wrong thank answer help

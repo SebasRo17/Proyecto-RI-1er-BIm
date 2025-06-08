@@ -1,1 +1,0 @@
-I am trying to compute the following integral               Integrate[E^(I*k*Omega*t), {t,0,T}, GenerateConditions->True]      for which Mathematica returns               ((-I)*(-1+E^(I*k*Omega*T)))/(k*Omega)      apparently not recognizing that `k` can be 0. Why `GenerateConditions` doesn't work as expected?

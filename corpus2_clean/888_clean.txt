@@ -1,1 +1,0 @@
-suppose interpolatingfunction object defined epsilon let call f best way construct function g coincides f epsilon satisfies g g interpolatingfunction small perturbation near epsilon allowed generalization welcome well

@@ -1,1 +1,0 @@
-expression tan left frac sqrt l sin theta sqrt l co theta right simplified theta attempt got following job arctan sqrt l co sqrt l sin powerexpand trigtoexp simplify powerexpand appears rather clunky better way simplify expression

@@ -1,1 +1,0 @@
-I have the following function:                  B[z_]=((z*(z - 0.5)*(z + 0.5))/((1 - 0.5*z)*(1+0.5*z)))      I want to plot the roots this polynomial according to angel like below the picture with Mathematica. ![enter image description here](http://i.stack.imgur.com/34lwM.png)

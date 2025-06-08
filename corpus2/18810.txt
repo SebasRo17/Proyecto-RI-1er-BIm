@@ -1,1 +1,0 @@
-I would like to make a following chart ![BoxWhiskerChart with log y-axis](http://i.stack.imgur.com/AWr5t.png) Ideally I would also like to control the boxes position on a logarithmic x-axis. Some inspiration how to do the latter may be found in the answer to my other question: How to controll position on the x-axis of a boxWhiskerChart TIA:)

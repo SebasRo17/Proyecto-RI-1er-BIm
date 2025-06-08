@@ -1,1 +1,0 @@
-I would like to typeset the following in a _Mathematica_ notebook: $$\langle P \rangle$$ Is it possible to typeset left and right angle brackets? In $\LaTeX$, they are given by `\langle` and `\rangle`. I do not see such symbols in the documentation, but I may be overlooking them.

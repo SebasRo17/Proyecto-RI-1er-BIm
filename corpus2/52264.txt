@@ -1,1 +1,0 @@
-Suppose I have constructed a matrix with all elements as a constant (say 1):               N=4;     A=ConstantArray[1, {N, N}];      Now I want to make A(2,3)=23 and A(4,3)=43. Can I modify such elements once the matrix is constructed? Thank you.

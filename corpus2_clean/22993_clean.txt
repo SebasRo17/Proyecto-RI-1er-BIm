@@ -1,1 +1,0 @@
-wrote simple recursive function calculating power table pol tb list n integer positive n tb tb pol tb n pol pol n integer positive pol n tb x array function work n try call n greater take wrong result message recursionlimit reclim recursion depth exceeded familiar mathematica would appreciate idea wrong

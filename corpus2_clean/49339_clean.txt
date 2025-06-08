@@ -1,1 +1,0 @@
-following question way open multiple mathematica notebook tab group rather mathematica notebook opened separate window way display line number mathematica notebook line number displayed differnt text editor

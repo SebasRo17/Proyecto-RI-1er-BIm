@@ -1,1 +1,0 @@
-I would like to make the substitution `x^(11*y) -> r` in the following equation               x^(11 *y^z) - 1       to end up with:               r^(y^(z - 1)) - 1      How can I do this in _Mathematica_?

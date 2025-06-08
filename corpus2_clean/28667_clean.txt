@@ -1,1 +1,0 @@
-assume dot x v x periodic respect dynamical system x mathbb r n quad mathbb r qquad v x v x let x periodic solution elementary function assume must x smooth need one use mathematica compute symbolically fundamental matrix linearised around x system monodromy matrix help would appreciated

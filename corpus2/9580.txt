@@ -1,1 +1,0 @@
-This is a tesseract, a four-dimensional cube, which contains two cubes. Here, each side length of the smaller one is 1, while the side length of the bigger one is 2. How do make I it? I am still working on it, and I wish to see different approaches. ![rotating tesseract](http://i.stack.imgur.com/NIxpn.gif)

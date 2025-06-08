@@ -1,1 +1,0 @@
-Suppose I have iris data In the Dataset Format. ![enter image description here](http://i.stack.imgur.com/QCRUC.png) How to split the iris data Into training and testing for Machine learning? For example,Transform the data for Classify.

@@ -1,1 +1,0 @@
-How can I make |a|*|b| show well in a notebook? I typed `|` from keyboard to denote absolute value. General cleanupIt will auto adjust by matching in my notebook so that sometimes it will not show as expected. Maybe I can close the auto-matching feature? ![enter image description here](http://i.stack.imgur.com/GnuwU.png)

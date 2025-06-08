@@ -1,1 +1,0 @@
-I am trying to plot several level curves of the cone: [x=ucos[v], y=usin[v], z=u],[0<=u<=2,0<=v<=2Pi] in the x-y plane. Does anyone know how to do this? Thanks

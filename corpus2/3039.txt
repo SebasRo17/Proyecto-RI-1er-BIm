@@ -1,1 +1,0 @@
-Superscripts can be included in axis labels by the use of the caret symbol (e.g., `Plot[x^2, {x, -1, 1}, AxesLabel -> {x, x^2}]`). How does one include subscripts in an axis label? The use of the underscore character does not seem to work (e.g., `Plot[f, {x, -1, 1}, AxesLabel -> {x, f_i(x)}]`).

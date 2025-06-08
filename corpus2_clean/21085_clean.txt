@@ -1,1 +1,0 @@
-possible easily modify manipulate slider automagically skip certain value example say plotting equation perfectly well behaved value x x x except x blow cause mathematica emit many error message could course check x body manipulate something sensible would nice could say manipulate avoid x

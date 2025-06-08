@@ -1,1 +1,0 @@
-How can I do WorldPlot with the WorldProjection -> Winkel Tripel or Robinson projections. Mathematica has Mollweide and several others defined, but not these popular projections adapted by National Geographic.

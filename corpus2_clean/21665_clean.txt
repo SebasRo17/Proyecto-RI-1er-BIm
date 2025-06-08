@@ -1,1 +1,0 @@
-set graphic primitive sphere would like assign either one subset color e g green red random color rgb interval writing something like graphic rgbcolor randominteger randominteger randominteger sphere spherelist appears assign one random color sphere force work generating string explicitly specifies random color sphere simple way make work

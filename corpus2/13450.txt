@@ -1,1 +1,0 @@
-Is there some way to have all sliders expanded by default in a Manipulator object, i.e. as if I had clicked all "+" signs?

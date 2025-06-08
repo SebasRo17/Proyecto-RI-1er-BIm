@@ -1,1 +1,0 @@
-sort following list list next group contains one element first result would sort list sameq work completely result still incorrectly sorted matter element increasing order equally acceptable result would

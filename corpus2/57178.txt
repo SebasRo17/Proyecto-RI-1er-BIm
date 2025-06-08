@@ -1,1 +1,0 @@
-Are there any export formats which preserve the ability to interact with 3D Graphics? (In particular, the ability to rotate.) EDIT: I've found this question: How to make a 3D plot auto-rotate? which produces an object with head DynamicModule. Can I export as an animated gif or QuickTime movie?

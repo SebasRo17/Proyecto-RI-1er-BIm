@@ -1,1 +1,0 @@
-I am struggling to understand contour integration. How would it be applied in _Mathematica_? I am hoping that if I see it written in _Mathematica_ code, it will help me understand it. eg how would $$\int_\gamma \text{}(z) = \int_a^b \text{f}(z(t)) z'(t) \, \text{d}t$$ be coded? (Example taken form Wikipedia.)

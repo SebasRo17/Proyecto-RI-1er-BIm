@@ -1,1 +1,0 @@
-want count number zero right end large number like use something like length last split integerdigits seems clumsy since potentially full work split whole list digit need length run end list efficient particularly mathematica elegant way edit answer example

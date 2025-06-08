@@ -1,1 +1,0 @@
-Suppose that $q[t]$ is obtained by `NDSolve` as an `InterpolatingFunction`, and I want to define $Q[t]$ to be some function of $q[t]$, say $\sqrt{q[t]}$. How can I define it in such a way that I become able to plot its time derivative for example?

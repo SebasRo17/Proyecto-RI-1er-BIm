@@ -1,1 +1,0 @@
-I know it is perfectly possible to show the bivariate probability distributions in MMA. But my question is can we show each dimension of distribution in 2D dimension while we are showing the 3D plot? The same as here: ![enter image description here](http://i.stack.imgur.com/B4cuc.png) How we can have the 2D histograms in the sides and 3D histogram in between?

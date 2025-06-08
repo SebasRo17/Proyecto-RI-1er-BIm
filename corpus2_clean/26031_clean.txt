@@ -1,1 +1,0 @@
-large sphere radius r would like pack n smaller radius radius r r arranged face centered cubic fcc packing arrangement e kepler optimal sphere packing geometry way use mathematica built latticedata functionality accomplish perhaps fact pruning step lattice type mathematica data

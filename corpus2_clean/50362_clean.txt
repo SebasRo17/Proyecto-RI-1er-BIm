@@ -1,1 +1,0 @@
-trying go wolfram blog example country flag analysis problem understanding following piece code countrycolors catch intersection stringsplit head missing throw countrydata flagdescription colornames countrydata colornames list color understand piece code know used define pure function used prefix example yield true return country name mean

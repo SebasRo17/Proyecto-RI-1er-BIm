@@ -1,1 +1,0 @@
-Just to take an example, because my original numerical integral was too complex:               T[t_] = NIntegrate[Exp[(eta - 1)*t], {eta, 0, 4}]      But when I am using                Plot[D[T[t],t],{t,0,1}]      It seems it doesn't work. How can I plot the derivative of the integral?

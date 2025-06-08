@@ -1,1 +1,0 @@
-I know there is a `Rectangle[]` function, but it is always filled with some color. What I need is a rectangle, which is empty inside (only it's boundaries visible). I just need to overlay it on plotted function to indicate some of it's area.

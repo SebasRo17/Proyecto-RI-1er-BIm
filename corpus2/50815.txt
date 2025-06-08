@@ -1,1 +1,0 @@
-I was expecting something I could interpret as a rect function. I don't think the Dirac delta function qualifies — for one thing, I think that would be the transform of a constant.               FourierTransform[Sinc[t], t, ω]      > >     2.50245 DiracDelta[ω] >   Is there a way to make sense of this? I'm using v.9.0 home

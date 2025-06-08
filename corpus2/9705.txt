@@ -1,1 +1,0 @@
-Consider the following:               FirstOutput=Style["Test", FontSize -> 20]          SetOptions[Style, FontSize -> 20];     SecondOutput=Style["Test"]      I would like the string `"Test"` to appear in `SecondOutput` as in `FirstOutput`. Why does `SetOptions[Style, FontSize -> 20]` not apply to `SecondOutput`? Does anyone have an idea?

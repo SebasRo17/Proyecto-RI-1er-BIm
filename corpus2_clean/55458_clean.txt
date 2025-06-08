@@ -1,1 +1,0 @@
-evaluate following chebyshev series first kind two different way get two different result n chebyshevt co pi n chebyshevt co pi clearly first result correct one could someone please explain difference occurs e g perhaps peculiar way long chebyshev polynomial numerically evaluated problem arise shorter length chebyshev polynomial

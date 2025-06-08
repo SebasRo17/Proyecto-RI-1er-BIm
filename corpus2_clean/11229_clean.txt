@@ -1,1 +1,0 @@
-way conditionally take control modify flow depth first scan breadth first scan say example particular node found consider leaf node continue rest processing usual meaning traverse child node

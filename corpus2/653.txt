@@ -1,1 +1,0 @@
-I am looking for practical uses of the function `DynamicWrapper` . I read documentation and know whatever it says. I would appreciate a clear example of a useful dynamic interface (an app) that would be hard to implement without `DynamicWrapper`.

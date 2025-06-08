@@ -1,1 +1,0 @@
-system two recurrence equation need solve use rsolve rsolve h n h n h n h n h n h n h n h n n return code without error rsolve h n h n h n h n h n h n h n h n n going wrong even seeing error additional info modelling frequency two variant h h discrete time n total frequency population h h two variant frequency depend see code

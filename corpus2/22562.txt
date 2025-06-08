@@ -1,1 +1,0 @@
-_Mathematica_ has great plotting capabilities. However, sometimes what is needed is a very basic black and white plot without textures, lighting, glow and other complex features. So, here is my question: what kind of `Plot3D` options will allow me to get something similar to ![](http://i.stack.imgur.com/KCO3l.png)

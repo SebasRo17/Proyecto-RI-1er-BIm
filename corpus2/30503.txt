@@ -1,1 +1,0 @@
-My operating system is Ubuntu. I add some new .m file to /usr/local/Wolfram/Mathematica/9.0/AddOns/Packages/ and then call for it in Mathematica, but failed with the message Get::noopen: "Cannot open !(\"Qdensity.m\").". What should I do to make it work?

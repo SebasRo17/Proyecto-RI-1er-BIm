@@ -1,1 +1,0 @@
-grid work grid table append constantarray button imagesize spanfromabove alignment center center frame want first row one single place except button get crap grid table append prepend constantarray spanfromleft constantarray button imagesize spanfromabove alignment center center frame second piece code make button align like first time

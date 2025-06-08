@@ -1,1 +1,0 @@
-consider example plotoptions plotpoints maxrecursion plot x x plotoptions cause error plot nonopt option expected instead plotoptions beyond position plot x x plotoptions option must rule list rule would say plotoptions list rule use plot x x plotpoints maxrecursion work correct way passing list option plot one situation happens want create several plot option

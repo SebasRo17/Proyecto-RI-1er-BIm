@@ -1,1 +1,0 @@
-note fixed version want put expression multiple file simultaneously following code tex openwrite test txt tex openwrite test txt write tex tex anything close tex close tex test txt empty work correctly writestring instead write course always map write statement stream go writestring since would convenient use list write first argument post issue bug

@@ -1,1 +1,0 @@
-would like show graphic repeatedly change parameter neither following show anything give error message plot sqrt n x x n n n n plot sqrt n x x merely show plot n return plot sqrt n x x n pause return plot sqrt n x x n n n n return plot sqrt n x x tried pause others avail make work

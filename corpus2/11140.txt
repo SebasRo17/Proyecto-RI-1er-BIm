@@ -1,1 +1,0 @@
-Is there a mathematica package that implements common voting systems (like IRV where voters will rank the candidates)?

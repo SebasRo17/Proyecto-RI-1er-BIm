@@ -1,1 +1,0 @@
-want plot x manipulate w attempted work expected c f diffeq x c x sin x f co w inicond x x eqnlist join diffeq inicond soln ndsolve eqnlist x manipulate plot evaluate x soln plotrange axeslabel x w appropriate way plot numerical solution differential equation varying parameter

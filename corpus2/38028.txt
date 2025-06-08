@@ -1,1 +1,0 @@
-If I have a vector say for example $\vec{r}(t)=<t,t^2,3t^2>$ and a function $f(x,y,z)=\sqrt{1+30x^2+10y}$ whats the best way to express $f(x,y,z)$ as a function of the parameter $t$?

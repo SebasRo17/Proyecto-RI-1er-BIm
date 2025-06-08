@@ -1,1 +1,0 @@
-anyone know make two data plot one data sample showed volume transaction tradingchart function thanks edit sorry english two data sample want plot one ordinary plot using example listlineplot second data sample showed bellow way volume ploted tradingchart enter image description edit resume data sample want first ploted main graph second bellow edit data data

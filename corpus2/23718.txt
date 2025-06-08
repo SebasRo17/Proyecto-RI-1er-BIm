@@ -1,1 +1,0 @@
-I want to solve the equation $$x^y + y = y^x + x$$ with $x$, $y$ are integer numbers. I tried               Solve[x^y + y == y^x + x, {x, y}, Integers]      How to solve the above equation?

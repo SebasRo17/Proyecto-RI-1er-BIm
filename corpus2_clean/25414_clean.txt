@@ -1,1 +1,0 @@
-running problem generating persistent hsqldb troubleshooting came upon following behavior need databaselink tc opensqlconnection jdbc hsqldb tofilename directory temp username sa closesqlconnection tc code generates three file located directory despite fact connection closed two file temp lck temp log cannot deleted mathematica kernel shut normal behavior

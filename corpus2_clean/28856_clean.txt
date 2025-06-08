@@ -1,1 +1,0 @@
-interal mathematica integrate b assumption b get back b log b log b however problem second term imagine set b positive number well would lead imaginary number instead real one real integral indeed changing sign work good puzzled mathematica choses solution guess must related choosing branch logarithm something similar still figure suggestion

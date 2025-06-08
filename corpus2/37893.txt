@@ -1,1 +1,0 @@
-Can anyone explain me, why this line of simple code is so slow? And can it be improved somehow?               p = Import["http://www.ultimatte-software.com/images/2FSN-TLW-wide03-ultimatte-software-blue.jpg"];          Timing[Image[(ImageData[p] /. {r_, g_, b_} -> {b} 2 - {g} - {r})]]

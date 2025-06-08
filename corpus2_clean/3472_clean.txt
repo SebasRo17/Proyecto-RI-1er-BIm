@@ -1,1 +1,0 @@
-understand function like elementdata countrydata need download date data first launched however trying use cuda first time mathematica ran need cudalink cudaq downloaded data several minute given quite fast net connection must amount really large amount data mathematica download case guess driver check downloads

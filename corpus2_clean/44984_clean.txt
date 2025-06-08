@@ -1,1 +1,0 @@
-suppose define new notation rule like notation overbar x mean x already notebook written using overbar directly way tell mathematica reinterpret notebook using new rule reparse instance overbar mean

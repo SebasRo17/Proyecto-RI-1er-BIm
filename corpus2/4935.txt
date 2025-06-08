@@ -1,1 +1,0 @@
-How would I plot the PDF (probability density function) of `WeibullDistribution[1/5, 50]`, `WeibullDistribution[1/4, 40]`, `WeibullDistribution[1/3, 30]` and `WeibullDistribution[1/2, 20]` in the same graph?

@@ -1,1 +1,0 @@
-running window machine nvidia gtx according reference gpu hardware cuda mathematica supported hardware way get running cudaq false cudainformation evaluation cudainformation syslibfld cuda failed load system library refer cudalink system requirement system requirement cudadriverversion

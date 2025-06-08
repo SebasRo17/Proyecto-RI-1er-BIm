@@ -1,1 +1,0 @@
-How I can obtain the $n^{th}$ approximation of the following Operator form integral equation? $F(t)=A(t)+\int_0^tds B(s)F(s)$, where $A(t)=\bigg{(}\begin{matrix}t&0\\Cos(t)&1 \end{matrix}\bigg{)}$, $B(s)=\bigg{(}\begin{matrix}e^s&0\\0&e^{-s} \end{matrix}\bigg{)}$

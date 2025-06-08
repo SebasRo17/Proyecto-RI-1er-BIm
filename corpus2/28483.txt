@@ -1,1 +1,0 @@
-For example               {a + b} == {c + d} // Thread     (*{a + b == c + d}*)      how to get `{a + b} == {c + d}` from `{a + b == c + d}` ? This is my try               Equal @@ List /@ Join @@ {a + b == c + d}      Are there other ways to do this?

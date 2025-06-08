@@ -1,1 +1,0 @@
-This is a special case of my question How to do nor on matrices?                    a = IdentityMatrix[3];           b = {{1, 0}, {0, 1}, {0, 0}}           MapThread[Complement[#1, #2] &, {a, b}]       _Mathematica_ returns `{{}, {}, {1}}` , whereas I expect `{{0}, {0}, {1}}`, which is what I need.

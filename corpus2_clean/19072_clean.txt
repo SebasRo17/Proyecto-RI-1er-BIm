@@ -1,1 +1,0 @@
-default horizontal gridlines placed front vertical gridlines style directive absolutethickness graphic circle frame true imagepadding gridlines automatic gridlinesstyle style lightgray black black lightgray graphicsrow mathematica graphic place vertical line front appear uninterrupted wish resort manually drawing line expression

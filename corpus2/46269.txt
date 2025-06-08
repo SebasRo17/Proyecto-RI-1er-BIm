@@ -1,1 +1,0 @@
-I have created a matrix/table with an imported dataset. I want to know what the variance is for 3 values at a time but across 68 columns. I would like to do this in an automated way rather than 1 set of values at a time. Is there a way? I'm new to Mathematica, so if there is a really simple way, I don't know about it yet!

@@ -1,1 +1,0 @@
-need transform image imagetransformation time critical application therefore precalculate lookup table lut transformation function true pixel range width height however use imagetransformation img lut datarange full get error message imagetransformation imgtrnsfun function lu map pixel position form x x possible provide lookup table imagetransformation

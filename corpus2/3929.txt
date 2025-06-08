@@ -1,1 +1,0 @@
-I have the Time Series package and Mathematica 8. In the package, there is the function 'StationaryQ' to test the stationarity of a known model. Is there any function in Mathematica to test the stationarity of a given list of data?

@@ -1,1 +1,0 @@
-plot find volume solid enclosed paraboloid z x z x answer volume pi

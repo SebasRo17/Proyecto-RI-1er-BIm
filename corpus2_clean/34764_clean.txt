@@ -1,1 +1,0 @@
-consider root arbitrary indecomposable polynomial sol solve x x x returned expression x root x root x root x root x root everything seems ok let u evaluate expression inputform sol returned expression x root x root x root x root x root extra argument appeared bug mystery extremely smart property use mathematica bit window

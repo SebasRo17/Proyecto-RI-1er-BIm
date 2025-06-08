@@ -1,1 +1,0 @@
-tool get coordinate clicking plot seems work fixed number significant digit way quickly lose sensibility tool really becomes useless following example show problem plot enter image description imagine feature tending bug classification way correcting behavior

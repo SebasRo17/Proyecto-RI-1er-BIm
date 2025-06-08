@@ -1,1 +1,0 @@
-trying compute sequence function using iteration keep running problem trying use built looping command recursive nature definition code version show first two function output function also piecewise linear easier way compute yn n b b x x f x b x g x b b x b h x b x b x x f x x g x h x plot x x f x b x g x b b x b h x b x b x x f x x g x h x plot x x

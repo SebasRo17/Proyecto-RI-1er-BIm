@@ -1,1 +1,0 @@
-financial data list time value pair element data financialdata ko ohlcv need extract part data fall time interval part much use function timeserieswindow slow example data timeserieswindow data absolutetiming null faster function similar functionality operation fater

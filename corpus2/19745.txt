@@ -1,1 +1,0 @@
-Is it possible to use WolframAlpha computational power to evaluate equations in Mathematica version 8.0.4? The thing is, it takes ages for my computer to evaluate certain equations. It would be great if I could use WolframAlpha (or something else?) to compute these equations .

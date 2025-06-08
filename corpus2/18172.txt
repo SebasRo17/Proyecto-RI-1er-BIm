@@ -1,1 +1,0 @@
-The Chinese characters "竟" and "竞" are very similar in their appearance. I am trying to find "竟" in the following picture. I tried use `TextRecognize` but it didn't work. Can you tell me any other way? ![enter image description here](http://i.stack.imgur.com/GR1Ml.jpg) ![enter image description here](http://i.stack.imgur.com/xlscr.jpg)

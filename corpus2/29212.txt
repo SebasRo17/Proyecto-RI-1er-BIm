@@ -1,1 +1,0 @@
-Both the operating systems are installed side by side on my computer. The Windows hard drive mounts as an external hard drive on running Linux and I can access all the Windows files, as you'd know. So is it possible to run Mathematica from the terminal or any other way? It will be very useful if possible.

@@ -1,1 +1,0 @@
-For example, this Wolfram Alpha query shows this graph: ![enter image description here](http://i.stack.imgur.com/zFEXx.png) But it does not show the code for plotting it in _Mathematica_. `Plot[x^x, {x, -1, 1}]` only plots the real values. How can I do this in _Mathematica_?

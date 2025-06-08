@@ -1,1 +1,0 @@
-assumption x real real real b real work co x sinc x sinc x fullsimplify true co sinc sinc fullsimplify true co x sinc x co sinc sinc x sinc fullsimplify co x sinc x co sinc sinc x sinc co b sinc b sinc b fullsimplify co b sinc b sinc b strange behavior

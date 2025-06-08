@@ -1,1 +1,0 @@
-One can truncate all the vertices of a polygon at once with `Truncate`. I want to do exactly that -- but only on a single vertex. Is this possible with _Mathematica_ 9? How?

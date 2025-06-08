@@ -1,1 +1,0 @@
-In ODE solutions _Mathemathica_ uses `Erf` and `DawsonF` functions instead of the integral expressions they represent. How can I force _Mathematica_ to show the integrals in its output? For example,               ClearAll[A];     A[x] /. DSolve[A'[x] == E^-x^2, A[x], x] /. C[1] -> 0      > >     {1/2 Sqrt[π] Erf[x]} >   But I would like to see the integral for `Erf`.

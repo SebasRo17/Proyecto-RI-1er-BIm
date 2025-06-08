@@ -1,1 +1,0 @@
-following code produce error message exported cdf title question although seen similar issue se problem manifest blinking plot output cell bracket goal export code cdf stymied manipulate plot plotrange epilog pointsize red point go controltype trigger animationrate savedefinitions true initialization x x exp

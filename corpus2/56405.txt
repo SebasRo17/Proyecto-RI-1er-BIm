@@ -1,1 +1,0 @@
-I have a vector like this:               V = {a*exp1+b*exp2+c*exp3, a*exp4+b*exp5+c*exp6, a*exp7+b*exp8+c*exp9}      and I want to get : > >     mat = {{exp1, exp2, exp3}, {exp4, exp5, exp6}, {exp7, exp8, exp9}} >   from vector               var = {a, b, c}      so : `mat.var === V`

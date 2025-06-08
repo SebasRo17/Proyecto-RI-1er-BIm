@@ -1,1 +1,0 @@
-want generate matrix given size whose element specified use array get however would like

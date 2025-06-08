@@ -1,1 +1,0 @@
-I want to give assumptions for the `D` function. Say I want to calculate $\frac{d|x|}{dx}$ for $x>0$, which is 1. I write `D[Abs[x], x, Assumptions -> x > 0]` which gives `D::optx: Unknown option Assumptions in D[Abs[x],x,Assumptions->x>0]. >>` Why doesn't D take assumptions?

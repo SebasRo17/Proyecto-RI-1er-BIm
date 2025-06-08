@@ -1,1 +1,0 @@
-make real time audio processing mathematica way image using dynamic currentimage know possible use systemdialoginput recordsound function make real time dynamic example would like create one notebook could make alert sound beyond level possible

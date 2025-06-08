@@ -1,1 +1,0 @@
-How can I obtain a non-trivial solution of the following: $$\frac{a}{b+c}=\frac{b}{c+a}=\frac{c}{a+b}$$ The answer is $a=b=c=1$.

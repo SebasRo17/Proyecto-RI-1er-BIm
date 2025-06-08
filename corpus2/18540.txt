@@ -1,1 +1,0 @@
-I have a list of rows in database such as               {{a,b,c}, {d,e,f},{g,h,i}}      I want to be able to add each row across and each column down (like a spreadsheet). In other words be able to pick columns and rows and add down or across.   Could you point me in the right direction?

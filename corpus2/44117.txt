@@ -1,1 +1,0 @@
-I made a project in mathematica, and I have to present it in front of a couple of layman in two days, but I have to use school laptops and for some stupid reason I am not allowed to download anything on that laptop. So my question is: Is there a site which can run my code so I can show what I've made using mathematica?

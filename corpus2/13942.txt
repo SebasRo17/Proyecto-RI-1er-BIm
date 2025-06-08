@@ -1,1 +1,0 @@
-How would I draw the graph of a function `dy/dt=((Ry^2)/T)-Ry` in _Mathematica_? I have tried a few times but the constants are confusing me.

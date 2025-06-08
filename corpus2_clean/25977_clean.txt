@@ -1,1 +1,0 @@
-suppose want solve equation want obtain first root case used solve b b z b give b z sqrt z want use result directly plot command code plot z plotrange getting plot use plot z sqrt z z plotrange getting plot correctly guess contains b unable plot handle situation p prototype actual problem want solve way output large copy paste plot command

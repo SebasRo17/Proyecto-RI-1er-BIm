@@ -1,1 +1,0 @@
-plot stepwise function like f exp sin f f exp see function f dependes previous value

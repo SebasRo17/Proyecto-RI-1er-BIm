@@ -1,1 +1,0 @@
-lately working quite lot compile also started using wolfram workbench natural question arises possible syntax highlighting local variable variable inside compile well screenshot demonstrating problem notice blue x lower right hand side image green screenshot manage find anything preference using wb

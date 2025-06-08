@@ -1,1 +1,0 @@
-two multivariate gaussian distribution p x p z mean vector x z covariance matrix sigma x sigma z model simple linear model x w z n n noise vector mean diagonal covariance matrix form sigma identity matrix observe variable x calculate joint distribution p x z conditional distribution p x z p z x

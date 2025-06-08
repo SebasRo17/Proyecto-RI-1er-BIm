@@ -1,1 +1,0 @@
-want perform simple analysis greek text collect different word used count frequency seems built command work well greek letter instance word stringcases rpr wordcharacter output rpr get mathematica recognize kind word

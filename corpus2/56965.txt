@@ -1,1 +1,0 @@
-I know this is a novice question but I would like a pattern for a list containing zero or more zeros followed by exactly one 1, followed by zero or more zeros. Something like: {0___,1,0___} But specifying that 0 must be zero.

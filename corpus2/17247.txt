@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Fixed color scale in multiple density plots I want to normalize different `DensityPlot`s. The scale for the color bar is from 0 to 1. I can do the job in Origin after I get all the data, but I think Mathematica can do it also. I am not very familar with `ColorFunctionScaling`--could you show me an example?

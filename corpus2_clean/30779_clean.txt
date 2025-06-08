@@ -1,1 +1,0 @@
-integrate heavisidetheta x diracdelta x x heavisidetheta

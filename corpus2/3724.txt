@@ -1,1 +1,0 @@
-How can I place a mark, like a cross-hair (to suggest "X marks the spot") and a text label associated with it, at a particular position on an image (mine in particular is `Colorize`d)?

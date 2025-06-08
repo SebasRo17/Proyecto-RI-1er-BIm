@@ -1,1 +1,0 @@
-Has anyone tried to use the Google speech API with Mathematica? This would open up exciting possibilities when combined with the free form input already available in Mathematica and with the recently announced "Wolfram Language everywhere" strategy.

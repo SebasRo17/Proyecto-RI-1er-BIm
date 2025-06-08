@@ -1,1 +1,0 @@
-trying create latex style document section number form subsection number etc need numbering automatic insert new subsection numbering subsequent subsection automatically adjust easy way presumably editing stylesheet looked bunch option seem find appropriate one

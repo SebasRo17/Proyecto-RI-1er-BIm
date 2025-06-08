@@ -1,215 +1,178 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-bm25_api.py
-
-Servicio web (API REST) para indexar un corpus preprocesado con BM25 y
-permitir consultas desde una interfaz externa.
-
-Dependencias:
-    pip install fastapi uvicorn rank_bm25 nltk
-
-Cómo usar:
-    1) Ajusta la constante CORPUS_DIR para que apunte a tu carpeta de archivos limpios (corpus2_clean).
-    2) Ejecuta:
-         uvicorn bm25_api:app --host 0.0.0.0 --port 8000 --reload
-       (o el puerto que prefieras).
-    3) Desde cualquier cliente HTTP (navegador, Postman, fetch en JS, Angular/React) 
-       pide:
-         http://localhost:8000/search?query=matrix%20rank&topk=10
-       y obtendrás un JSON con los 10 documentos más relevantes.
+bm25_api.py (v5)
+API REST con BM25 afinado, CORS, cache, feedback, paginación,
+y manejo de errores si no hay documentos.
 """
-
 import os
 import glob
 import pickle
+import re
+import time
 from typing import List, Optional
+from functools import lru_cache
 
+import numpy as np
+import nltk
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from rank_bm25 import BM25Okapi
+from collections import Counter
 
 # ==================== CONFIGURACIÓN ====================
+# Ajusta la ruta a tu carpeta de .txt limpios
+CORPUS_DIR = os.getenv(
+    "CORPUS_DIR",
+    r"C:\Users\roble\OneDrive\Documentos\GitHub\Proyecto-RI-1er-BIm\corpus2_clean"
+)
+MODEL_PICKLE_PATH = os.getenv("MODEL_PICKLE_PATH", "bm25_model_v5.pkl")
+# Hiperparámetros
+K1 = float(os.getenv("BM25_K1", 1.5))
+B  = float(os.getenv("BM25_B", 0.75))
+# Feedback por defecto
+default_fb_docs = 5
+default_fb_terms = 10
+# Token pattern
+TOKEN_PATTERN = r"[a-z0-9]+"
 
-# Carpeta donde están los .txt limpios (uno por documento).
-# Cámbiala según tu estructura de directorios.
-CORPUS_DIR = r"D:\Universidad\8 - Octavo\Recuperacion de la informacion\Proyecto-RI-1er-BIm\corpus2_clean"
+# NLTK resources
+nltk.download("stopwords", quiet=True)
+STOPWORDS = set(stopwords.words("english")) | {"theorem","lemma","proof","example","equation"}
+nltk.download("wordnet", quiet=True)
+LEMMATIZER = WordNetLemmatizer()
 
-# Nombre del archivo pickle donde podemos guardar/recuperar el índice BM25
-MODEL_PICKLE_PATH = "bm25_model.pkl"
-
-# ==================== FIN DE CONFIGURACIÓN ===============
-
-app = FastAPI(
-    title="BM25 Retrieval API",
-    description="API para consultar documentos más relevantes usando BM25 sobre un corpus preprocesado.",
-    version="1.0.0",
+# FastAPI app
+app = FastAPI(title="BM25 API v5", version="5.0.0")
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
-
+# Schemas
 class SearchResult(BaseModel):
-    """
-    Esquema de un resultado individual de búsqueda.
-    """
     doc_id: str
     score: float
 
-
 class SearchResponse(BaseModel):
-    """
-    Esquema de la respuesta al endpoint /search
-    """
     query: str
     topk: int
+    offset: int
+    duration_ms: float
+    expanded: bool
+    expansion_terms: Optional[List[str]]
     results: List[SearchResult]
 
+class ReloadResponse(BaseModel):
+    message: str
+    total_docs: int
 
-# Variables globales que almacenarán el índice BM25 una vez construido o cargado
+# Globals
 bm25_model: Optional[BM25Okapi] = None
 document_ids: Optional[List[str]] = None
+docs_tokens: Optional[List[List[str]]] = None
 
+# --- Helpers ---
+@lru_cache(maxsize=128)
+def preprocess_query(text: str) -> List[str]:
+    txt = re.sub(r"http\S+", " ", text)
+    txt = re.sub(r"[^a-zA-Z0-9\s]", " ", txt).lower()
+    tokens = re.findall(TOKEN_PATTERN, txt)
+    return [LEMMATIZER.lemmatize(t) for t in tokens if t not in STOPWORDS]
 
-def build_or_load_bm25_index(corpus_dir: str, pickle_path: str):
-    """
-    1) Si existe el pickle en disco (pickle_path), lo carga y retorna (bm25, doc_ids).
-    2) Si no existe, lee todos los .txt en corpus_dir, construye BM25Okapi y 
-       guarda (pickle.dump) la tupla (bm25, doc_ids) en pickle_path para reutilizar luego.
-    """
-    global bm25_model, document_ids
+@lru_cache(maxsize=64)
+def rm3_expand(tokens_tuple: tuple, fb_docs: int, fb_terms: int) -> List[str]:
+    query_tokens = list(tokens_tuple)
+    scores = bm25_model.get_scores(query_tokens)
+    idxs = np.argsort(scores)[::-1][:fb_docs]
+    all_tokens = []
+    for idx in idxs:
+        all_tokens.extend(docs_tokens[idx])
+    freq = Counter(all_tokens)
+    candidates = [t for t, _ in freq.most_common() if t not in query_tokens and t not in STOPWORDS]
+    return candidates[:fb_terms]
 
-    # Si ya está cargado en memoria, no lo volvemos a cargar
-    if bm25_model is not None and document_ids is not None:
-        return bm25_model, document_ids
-
-    # 1) Intentar cargar el pickle si existe
-    if os.path.exists(pickle_path):
-        print(f"[INFO] Cargando índice BM25 existente desde '{pickle_path}'...")
-        with open(pickle_path, "rb") as f_in:
-            data = pickle.load(f_in)
-            bm25_model = data["bm25"]
-            document_ids = data["doc_ids"]
-        print(f"[INFO] Índice BM25 cargado. Total de documentos: {len(document_ids)}")
-        return bm25_model, document_ids
-
-    # 2) Si no existe pickle, construir de cero
-    print(f"[INFO] No se encontró '{pickle_path}'. Construyendo índice BM25 desde '{corpus_dir}'...")
-
-    # Obtener todos los archivos .txt en corpus_dir
-    pattern = os.path.join(corpus_dir, "*.txt")
-    archivos = sorted(glob.glob(pattern))
-    if not archivos:
-        raise FileNotFoundError(f"No se hallaron archivos .txt en '{corpus_dir}'")
-
-    docs_tokens = []
-    doc_ids_list = []
-
-    for ruta in archivos:
-        nombre = os.path.basename(ruta)
-        nombre_base, _ = os.path.splitext(nombre)
-        with open(ruta, "r", encoding="utf-8") as f:
-            texto = f.read().strip()
-            tokens = texto.split()  # Ya están lematizados y separados por espacios
-            docs_tokens.append(tokens)
-            doc_ids_list.append(nombre_base)
-
-    # Construir BM25Okapi
-    bm25_model = BM25Okapi(docs_tokens)
-    document_ids = doc_ids_list
-
-    # Guardar en disco para reutilizar después
-    with open(pickle_path, "wb") as f_out:
-        pickle.dump({
-            "bm25": bm25_model,
-            "doc_ids": document_ids
-        }, f_out)
-    print(f"[INFO] Índice BM25 construido y guardado en '{pickle_path}'. Documentos: {len(document_ids)}")
-    return bm25_model, document_ids
-
+# --- Build or load index ---
+def build_or_load_bm25_index():
+    global bm25_model, document_ids, docs_tokens
+    # Load from pickle if exists
+    if os.path.exists(MODEL_PICKLE_PATH):
+        with open(MODEL_PICKLE_PATH, 'rb') as f:
+            data = pickle.load(f)
+            bm25_model = data['bm25']
+            document_ids = data['doc_ids']
+            docs_tokens = data['docs_tokens']
+        if not document_ids:
+            raise RuntimeError("No documents loaded from pickle.")
+        return
+    # Build from files
+    files = sorted(glob.glob(os.path.join(CORPUS_DIR, '*.txt')))
+    if not files:
+        raise RuntimeError(f"No .txt files found in {CORPUS_DIR}")
+    docs, ids = [], []
+    for path in files:
+        ids.append(os.path.splitext(os.path.basename(path))[0])
+        docs.append(open(path, encoding='utf-8').read().split())
+    document_ids = ids
+    docs_tokens = docs
+    bm25_model = BM25Okapi(docs_tokens, k1=K1, b=B)
+    with open(MODEL_PICKLE_PATH, 'wb') as f:
+        pickle.dump({'bm25': bm25_model, 'doc_ids': document_ids, 'docs_tokens': docs_tokens}, f)
 
 @app.on_event("startup")
-def on_startup():
-    """
-    Al iniciar FastAPI, construir o cargar el índice BM25.
-    """
+def startup():
     try:
-        build_or_load_bm25_index(CORPUS_DIR, MODEL_PICKLE_PATH)
+        build_or_load_bm25_index()
     except Exception as e:
-        # Si hay un error al arrancar (por ejemplo carpeta no existe), lo propagamos
-        print(f"[ERROR] Al inicializar BM25: {e}")
-        raise e
+        raise RuntimeError(f"Failed to load index: {e}")
 
+@app.get("/", summary="Health check")
+def health():
+    total = len(document_ids) if document_ids else 0
+    return {"status": "ok", "total_docs": total}
 
-@app.get("/", summary="Página de bienvenida")
-def read_root():
-    return {
-        "message": "API BM25 en línea. Consulta en /search?query=tu+texto&topk=10"
-    }
+@app.post("/reload", response_model=ReloadResponse, summary="Reload index")
+def reload_index():
+    preprocess_query.cache_clear()
+    rm3_expand.cache_clear()
+    if os.path.exists(MODEL_PICKLE_PATH):
+        os.remove(MODEL_PICKLE_PATH)
+    build_or_load_bm25_index()
+    return ReloadResponse(message="Index reloaded", total_docs=len(document_ids))
 
-
-@app.get(
-    "/search",
-    response_model=SearchResponse,
-    summary="Busca los documentos más relevantes para una consulta dada"
-)
+@app.get("/search", response_model=SearchResponse, summary="Search endpoint")
 def search(
-    query: str = Query(..., description="Consulta de búsqueda (palabras separadas por espacios)."),
-    topk: int = Query(10, ge=1, le=100, description="Número de resultados a devolver (máx 100).")
+    query: str = Query(..., description="Search query"),
+    topk: int = Query(10, ge=1, le=100),
+    offset: int = Query(0, ge=0),
+    feedback: bool = Query(False),
+    fb_docs: int = Query(default_fb_docs, ge=1, le=20),
+    fb_terms: int = Query(default_fb_terms, ge=1, le=50)
 ):
-    """
-    Endpoint GET /search?query=...&topk=...
-    - query: texto con la consulta. Ej: "matrix rank theorem"
-    - topk: cuántos documentos devolver (por defecto 10).
-    
-    Retorna un JSON con:
-    {
-      "query": "...",
-      "topk": 10,
-      "results": [
-        {"doc_id": "beir0001", "score": 12.3456},
-        {"doc_id": "beir0203", "score": 11.2345},
-        ...
-      ]
-    }
-    """
-    global bm25_model, document_ids
-
-    # Asegurarnos de que el índice BM25 está cargado
-    if bm25_model is None or document_ids is None:
-        raise HTTPException(status_code=500, detail="El índice BM25 no está inicializado.")
-
-    # 1) Tokenizar la consulta muy sencillamente (split por espacios).
-    #    Si quieres remover stopwords o lematizar la consulta, podrías agregarlo aquí.
-    consulta_tokens = query.lower().strip().split()
-    if len(consulta_tokens) == 0:
-        raise HTTPException(status_code=400, detail="La consulta está vacía después de procesar.")
-
-    # 2) Calcular puntajes BM25
-    scores = bm25_model.get_scores(consulta_tokens)
-
-    # 3) Obtener índices de topk documentos (orden descendente)
-    #    Hecho con argsort en NumPy (rank_bm25 utiliza NumPy internamente)
-    import numpy as np
-    idxs_ordenados = np.argsort(scores)[::-1][:topk]
-
-    # 4) Construir lista de resultados
-    resultados = []
-    for idx in idxs_ordenados:
-        doc_id = document_ids[idx]
-        score = float(scores[idx])  # convertir a float puro para JSON
-        resultados.append(SearchResult(doc_id=doc_id, score=score))
-
-    return SearchResponse(query=query, topk=topk, results=resultados)
-
-
-# Si prefieres un POST en vez de GET, podrías definir otro endpoint como este:
-#
-# class SearchRequest(BaseModel):
-#     query: str
-#     topk: Optional[int] = 10
-#
-# @app.post("/search", response_model=SearchResponse)
-# def search_post(body: SearchRequest):
-#     return search(query=body.query, topk=body.topk)
-#
-# Con esto, en lugar de usar /search?query=... usarías
-# POST /search   Content-Type: application/json   {"query":"matrix rank","topk":5}
+    if bm25_model is None:
+        raise HTTPException(500, "Index not initialized")
+    start = time.time()
+    tokens = preprocess_query(query)
+    expanded_terms = None
+    if feedback and tokens:
+        expanded_terms = rm3_expand(tuple(tokens), fb_docs, fb_terms)
+        tokens += expanded_terms
+    scores = bm25_model.get_scores(tokens)
+    idxs = np.argsort(scores)[::-1]
+    sliced = idxs[offset: offset + topk]
+    results = [SearchResult(doc_id=document_ids[i], score=float(scores[i])) for i in sliced]
+    duration_ms = (time.time() - start) * 1000
+    return SearchResponse(
+        query=query,
+        topk=topk,
+        offset=offset,
+        duration_ms=round(duration_ms,2),
+        expanded=bool(expanded_terms),
+        expansion_terms=expanded_terms,
+        results=results
+    )

@@ -1,1 +1,0 @@
-How to use remote kernels inside a home router? My router has the demilitarized zone (DMZ) feature, which can expose my computer to the internet, and should be able to work, but I can't figure out how to setup the connection command in Mathematica to make it work.

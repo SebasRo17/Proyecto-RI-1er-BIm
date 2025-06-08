@@ -1,1 +1,0 @@
-want create listlineplot interpolationorder however using plot marker like listlineplot plotmarkers automatic interpolationorder plot marker become mixed avoided

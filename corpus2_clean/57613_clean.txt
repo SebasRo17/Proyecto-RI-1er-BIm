@@ -1,1 +1,0 @@
-need index vector according first occurence distinct element written index list module x list p p flatten map position x deleteduplicates x table x p length p x give expected result vec index vec could functional efficient solution look like could solution extended work matrix ad mat give

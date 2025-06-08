@@ -1,1 +1,0 @@
-consider code variable sin x fun compile x real variable compilationoptions inlineexternaldefinitions true nminimize fun x x code return compiledfunction cfsa argument x position machine size real number x get error resolve issue edit use instead sin expression like b reality expression variable must find nminimize cannot define function expression use instead sin

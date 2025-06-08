@@ -1,1 +1,0 @@
-I consider myself a pretty good _Mathematica_ programmer, but I'm always looking out for ways to either improve my way of doing things in _Mathematica_ , or to see if there's something nifty that I haven't encountered yet. Where (books, websites, etc.) do I look for examples of good (best?) practices of _Mathematica_ programming?

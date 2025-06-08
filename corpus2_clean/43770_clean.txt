@@ -1,1 +1,0 @@
-trying find right way compute square root number defined finite field example finitefields sqrt gf sqrt subscript result incorrect answer correct answer

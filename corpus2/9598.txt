@@ -1,1 +1,0 @@
-This question is not the same as my last one. How do you find the $n$-th derivative where $n$ is a variable? For example, you can find the nth derivative for a specific $n = 3$               D[Log[1 + x], {x, 3}]      but how do you get _Mathematica_ to show the $n$-th derivative for $n$ as a general variable? For example, from Wolfram Alpha

@@ -1,1 +1,0 @@
-trying tally sort number consecutive occurrence list certain value instance data total data set would tally criterion value greater worked problem found following code randominteger case split tally sort close trying case code provides sorted list consecutive integer equal one however seem modify decision criterion tally value certain criterion might go

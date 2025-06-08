@@ -1,1 +1,0 @@
-sometimes run situation graphic object mostly plot take draw good practice would suggest evaluation outside plot whatever plotting function sometimes one forgets drawing process take much time question whether possible change thing plotlabel font plotstyle strictly aesthetic property plot without asking mathematica recalculate point

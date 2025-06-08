@@ -1,1 +1,0 @@
-time matrix function strans output two time matrix list given time matrix input output strans want append two matrix queue enqueue operation enqueue q elem freeq q elem qt q qt elem write code without using loop p heard multiple time whole concept mma loop

@@ -1,1 +1,0 @@
-defined following function sw h sin h sin based upon whether use solve nsolve get different answer solve sw get different answer nsolve sw answer using solve complete correct however nsolve give partial answer anyone idea mathematica get answer method

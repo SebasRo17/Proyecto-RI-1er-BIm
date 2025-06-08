@@ -1,1 +1,0 @@
-large list list dimension need print x z data every st part print x x piece every st part list tried job also memory efficient way perform task table print mylist part mylist

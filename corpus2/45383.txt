@@ -1,1 +1,0 @@
-I have the following string:               "174,861.00 (      4,053.52)     206,850.48   118.29 (     31,989.48)"      Parentheses stand for negative numbers. I will like to get it converted/formatted to the following:               "174861.00,(4053.52),206850.48,118.29,(31989.48)"      Just having a problem collapsing the spaces between the `(` and the next valid digit.

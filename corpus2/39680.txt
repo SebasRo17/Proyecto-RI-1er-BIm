@@ -1,1 +1,0 @@
-I enter an image and in the suggestions bar under the image, one of the suggestions is "Edge detect". I click on it and a nice cell with all the options comes up. How do I get the code for all of what _Mathematica_ returns? Clicking "Done" merely returns the value of the variables on the sliders.

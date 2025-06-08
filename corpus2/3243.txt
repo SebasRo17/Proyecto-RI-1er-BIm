@@ -1,1 +1,0 @@
-As sophomoric as this question seems, how should I save plots in grayscale in Mathematica? I generally like eps images for their scalability and I use ghostscript or other third party perl scripts to convert my images to grayscale.

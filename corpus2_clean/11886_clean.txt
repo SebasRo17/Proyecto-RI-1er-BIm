@@ -1,1 +1,0 @@
-trying understand mathematics behind counting number representation positive integer n distinct k th power e would really like know mathematica function powersrepresentations hand explanation reference even special case particularly interested k would appreciated thanks

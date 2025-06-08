@@ -1,1 +1,0 @@
-select element main diagonal matrix need create list

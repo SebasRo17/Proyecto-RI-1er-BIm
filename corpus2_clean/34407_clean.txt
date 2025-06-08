@@ -1,1 +1,0 @@
-wish generate surface intensity plot airy disk perhaps two dimensional gaussian approximation airy disk x plane specified coordinate hope something like solid surface coloration ok decent mesh approximation representative curve built method generating sort intensity plot treating like graphic object translated placed desired

@@ -1,1 +1,0 @@
-question suggested test whether input function matrix number one could create following test matrixnumq exp matrixq exp numericq define function myfunction w matrixnumq w simple enough case way test pattern input single line pattern test complex something like myfunction w matrixq numericq w clearly work give idea looking

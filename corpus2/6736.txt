@@ -1,1 +1,0 @@
-I want Mathematica to simplify `Cosh[I x]` to `Cos[x]` if I tell Mathematica that `x` is Real. I have tried everything, but it ends up giving `Cosh[I x]` back.

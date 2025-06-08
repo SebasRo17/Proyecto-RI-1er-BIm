@@ -1,1 +1,0 @@
-Is there a way to "lock" some cells in a notebook so they can't be edited? It's usually input cell that's documenting some functionality. I'd like other readers of the notebook to be able to execute them but not changing them.

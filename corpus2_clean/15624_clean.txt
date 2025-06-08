@@ -1,1 +1,0 @@
-following piece code plot stateresponse nss unitstep tstep tstop evaluate tstop plotlabel state variable open loop response step dd give five variable plot want export plot excel compare data get export format exported mathematica data want e six column anyone help

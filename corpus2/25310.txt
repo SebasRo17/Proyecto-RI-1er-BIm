@@ -1,1 +1,0 @@
-I'm installing Wolfram gridMathematica in HPC cluster with TORQUE Resource Manager. There is a big problem because Mathematica suppost PBS pro. Can you help me or give some advice or coments?

@@ -1,1 +1,0 @@
-The command               ColorData["Atoms", "Panel"]      indicates RGBColors of "Atoms" by clicking a panel. As I don't want to reinvent the wheel, I asked myself: How to transform ColorData["Atoms", "Panel"] in a clickPanel for chemical elements, which could be used as argument for other functions like ElementData[ ] or IsotopeData[ ]?

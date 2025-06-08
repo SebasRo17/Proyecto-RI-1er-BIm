@@ -1,1 +1,0 @@
-put antialiasing true barchart work code barchart chartstyle none chartlayout grid tick none antialiasing true barchart png apply anti aliasing barchart

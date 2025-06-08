@@ -1,1 +1,0 @@
-customize header like add username machinename datestring evaluated cell creation time header easy know particular cell generated glance similar people customize unix terminal prompt

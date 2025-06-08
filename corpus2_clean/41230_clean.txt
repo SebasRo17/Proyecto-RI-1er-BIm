@@ -1,1 +1,0 @@
-performing calculation excel sheet end tridimensional matrix export xlsx format vector q contains name sheet length q length documentation usual way export named excel data something like export file name xlsx q q n n since length variable know automatic way tried something like q mathematica process way thanks

@@ -1,1 +1,0 @@
-How to generate this type of sequence? $$ f(n, x) = x f'(n-1, x) \hspace{2 mm}, f(0, x) = e^x$$ How do I evaluate it for numerical values for $x = 1$ or any number?

@@ -1,1 +1,0 @@
-The summary box for `Dataset` objects shows the number of levels and elements at the bottom. How can we get these values programmatically? For example, "4 levels, 350 elements" in the Planets dataset: ![Mathematica graphics](http://i.stack.imgur.com/bFxA3.png)

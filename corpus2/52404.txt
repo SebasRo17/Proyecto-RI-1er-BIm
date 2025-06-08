@@ -1,1 +1,0 @@
-In the version 10, a lot of functions returned a box with brief information which is very useful. For example:               Interpolation[{1, 2, 3, 5, 8, 5}]      ![enter image description here](http://i.stack.imgur.com/ae6Xk.png) So what's that little box, and how can I make a function that return a similar box which contains some of the information?

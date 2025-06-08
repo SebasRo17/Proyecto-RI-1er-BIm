@@ -1,1 +1,0 @@
-I have a list               Y={y1,y2,y3,...,yn}      And I would need to find x such that > `Abs[x-Y[[i]]]` for all $y_i$ in $Y$ is minimum. I unfortunatly can't remember my highschool Statistics courses where this function was defined.

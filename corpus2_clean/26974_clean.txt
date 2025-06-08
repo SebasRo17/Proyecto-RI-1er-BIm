@@ -1,1 +1,0 @@
-came across following situation evaluating sort co result co wondering criterion mathematica use output according documentation sort order string dictionary uppercase reading expect dictionary sort like co co anyone explain criterion used mathematica perform sort thanks advance

@@ -1,1 +1,0 @@
-I'm trying to write some code that will return the final value of an annuity whose monthly payouts may or may not be constant each month. Right now I have working code for constant payments, but I'm not sure how to do changing payments. Would I use `Range`? Code:               vals = Function[{P, r, n}, P ((1 + r)^n)];     Total[Table[vals[200, .01, n], {n, 60}]]

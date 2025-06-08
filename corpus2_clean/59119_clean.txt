@@ -1,1 +1,0 @@
-solve x ay z bx z x begin array lcr x z b x z x end array value b system unique solution b equation consistent c equation inconsistent

@@ -1,1 +1,0 @@
-histogram create without specifying plotrange work fine tick axis displayed histogram mydata plotrange automatic automatic however indicate plotrange vanish histogram mydata plotrange automatic tried setting tick manually histogram mydata plotrange automatic tick mathematica stubbornly refused display anyone know fix

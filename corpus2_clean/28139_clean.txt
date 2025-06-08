@@ -1,1 +1,0 @@
-sqrt r e gamma r psi r set var r e gamma r psi r simplify sqrt var var get left r right sqrt e gamma r psi r tell mathematica perform full square root calculation r e gamma r psi r

@@ -1,1 +1,0 @@
-Im a _Mathematica_ newbie. Can someone tell me how to watch the progress of a plot. For example say I want to watch the curve `Exp[-x]` when `x` progresses from 0 to 5. How could I do that?

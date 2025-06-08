@@ -1,1 +1,0 @@
-want run mathematica script terminal want print line like matlab would suppress output ending line otherwise print output line get print last line without using print var saving variable every line possible

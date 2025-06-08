@@ -1,1 +1,0 @@
-Assume a database with 10,000 elements of data is queried, through a statistical interface, for the average data value. The response is determined using the random-sample query method, with a subset of 500 elements being used. Assuming you had access to all data elements, how could you determine what the least accurate response could be?

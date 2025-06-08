@@ -1,1 +1,0 @@
-Let's say that I have a polynomial like this:               a + b + c      Is there any way that I can get _Mathematica_ to transform it to:               a*(1 + b/a + c/a)      I found such a manipulation on polynomials very common when deducing equations by hand; however, I have been trying all day and still can not figure out how to make _Mathematica_ do this automatically.

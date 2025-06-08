@@ -1,1 +1,0 @@
-created function f slider slider dynamic execute call f time slider dragged

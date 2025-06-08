@@ -1,1 +1,0 @@
-In **Mathematica** how can I compute this integral:$$ \iiint_{D}\sqrt{(1-9z^2)(1-4y^2-9z^2)}\,dx\,dy\,dz$$ where D is the domain: $$D: x^2 +4y^2+9z^2\le1$$ Please I need help!!!

@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  PolarPlot render oddities When I use manipulate or animate function, the result shows a non-smooth plot. How to make the manipulate or animate commands show good and smooth plot?

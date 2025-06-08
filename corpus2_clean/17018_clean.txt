@@ -1,1 +1,0 @@
-possible create interactive code mathematica via eventhandler manipulate perhaps continually update calculation based external data time user input received trivial example code show current time second continually updating allows user click number change color thank

@@ -1,1 +1,0 @@
-Say if I have a formula like so:               a1*a2*a3^(a4 + 1)*(1 - E^(a5*a6/a3^a4/a2)) == 0      How do I move a3 to the right? I've tried to follow other examples here on stack exchange but couldn't find anything that worked on this kind of formula. Using Solve[] causes this error: > Solve::nsmet: This system cannot be solved with the methods available to > Solve.

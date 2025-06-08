@@ -1,1 +1,0 @@
-I would like to add new attributes to built in symbols (e.g. `ElementData` or `PolyhedraData`) so that I can still call the symbol in the same way (e.g. `ElementData["name","property"]`) but now with a new, user-added property. Is that possible?

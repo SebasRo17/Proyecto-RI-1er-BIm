@@ -1,1 +1,0 @@
-Is there any built-in function in Mathematica, to get vector length? So I don't have to do this `Sqrt[v[[1]]^2 + v[[2]]^2 ]`

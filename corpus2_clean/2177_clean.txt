@@ -1,1 +1,0 @@
-suppose list value function f want find element maximizes return value function mathematica let call function listmaxarg following example listmaxarg total return function mathematica library simplest way write sure write function using loop looking something functional style

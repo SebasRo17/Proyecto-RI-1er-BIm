@@ -1,1 +1,0 @@
-would someone mind showing plot floor function appropriate endpoint tried google best could find something posted longer appears work sorry overly basic got couple week experience mathematica one work edit looking create graph similar one shown wiki page floor ceiling function concerned frame tick mark

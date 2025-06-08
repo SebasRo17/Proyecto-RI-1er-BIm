@@ -1,1 +1,0 @@
-custom stylesheets nice graphic banner docked cell according doc page tutorial introductiontotoolbars seem bit overkill img rasterize framed tmy header background lightblue framestyle white imagesize image cell boxdata toboxes img imagesize imagesize imagedimensions img dockedcell cellmargins cellframemargins setoptions inputnotebook dockedcells image

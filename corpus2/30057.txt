@@ -1,1 +1,0 @@
-I'm trying to run a remote kernel, but my local system administrator is wary of opening up ports for incoming connections. > Is there are particular range of ports that Mathematica uses to communicate > with remove kernels? Even if it's a wide range (e.g. 40000-70000), such an answer would still be helpful to me.

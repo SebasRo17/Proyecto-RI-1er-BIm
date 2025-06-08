@@ -1,1 +1,0 @@
-How do you find the number of elements in a matrix that are non-zero. For instance, the following matrix has 5 nonzero elements.               {0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1}

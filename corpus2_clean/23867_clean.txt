@@ -1,1 +1,0 @@
-complexexpand ab b give sqrt b complexexpand ab b hand give ab b let evaluate b instead

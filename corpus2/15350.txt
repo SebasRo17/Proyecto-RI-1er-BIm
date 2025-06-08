@@ -1,1 +1,0 @@
-I'd like to embed a Youtube tutorial video inside a CDF. I'm guessing this is not possible as my search for how to do this has been in vain. I'm imagining an embedded Youtube video like one sees on a blog.

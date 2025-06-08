@@ -1,1 +1,0 @@
-How I solve this system of equations STEP BY STEP in mahematica. \begin{align} (x + 1)^2 [(p - l)^2 + (q - m)^2] &= (a - l)^2 + (b - m)^2 \\\ (x + 1)^2 [(p - a)^2 + (q - b)^2] &= x^2[(a - l)^2 + (b - m)^2]\end{align} For $p$ and $q$ in terms of $x, l, m, a, b$.

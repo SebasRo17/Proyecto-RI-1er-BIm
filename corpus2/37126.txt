@@ -1,1 +1,0 @@
-I am aware of the command `AstronomicalData["Jupiter", "Distance"]` from which I can get the distance between the earth and Jupiter. Is there any way to use `AstronomicalData` to get the distance between the sun and Jupiter?

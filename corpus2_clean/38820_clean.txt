@@ -1,1 +1,0 @@
-example given lambda lambda lambda best way generate upper triangular matrix time whose singular value lambda note given matrix eigenvalue ha lambda geq sqrt lambda singular value h conjugate transpose generally b u v u v unitary matrix b singular value

@@ -1,1 +1,0 @@
-noticed mathematica documentation mention usage name label vertexlabel edgelabel graph option use weight automatically name

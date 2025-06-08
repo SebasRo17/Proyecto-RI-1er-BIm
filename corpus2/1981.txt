@@ -1,1 +1,0 @@
-Is there a way in which when you choose to format the size of the font within your notebook, for a particular cell, when you go into another cell, the default size font (12pt) will not be re-activated. I want the font size to stay constant throughout the entire notebook, until I go back and need to manually change it by hand. Example: > Format -> Size -> 16 Point

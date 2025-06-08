@@ -1,1 +1,0 @@
-try evaluate following code contourplot x z x z z x z mesh none boxed false axeslabel x z plotpoints ax false contourstyle directive red opacity specularity yellow aspectratio viewpoint resulted heart look broken enter image description increase plotpoints value improves appearance solve happening

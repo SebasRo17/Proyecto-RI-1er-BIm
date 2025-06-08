@@ -1,1 +1,0 @@
-In a BubbleChart, how can influence the elements plotted depending on a value in the tuple plotted? I want to create a BubbleChart from the following data:                lines = {{1, 10, 2}, {2, 15, 1}, {3, 27, 4}, {4, 35, 2}}      but instead of the bubbles, I want to draw a line as long as `z`.

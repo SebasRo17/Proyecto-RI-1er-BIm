@@ -1,1 +1,0 @@
-Why I have this behaviour?               R /: Greater[R, 0] = True     R > 0       => True     Simplify[Sqrt[R^2]]       => Sqrt[R^2]      I expect `R` as last result.

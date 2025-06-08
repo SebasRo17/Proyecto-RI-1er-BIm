@@ -1,1 +1,0 @@
-Does anybody know if _Mathematica_ has an analogue of MATLAB's `ode45` command? I need to solve a second order coupled ODE system of equations.

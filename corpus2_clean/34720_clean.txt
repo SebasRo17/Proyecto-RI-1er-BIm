@@ -1,1 +1,0 @@
-trying find letter word mathematica dictionary anagram amount anagram seem find letter word mathematica dictionary output result letter word input wordperms flatten map dictionarylookup map stringjoin permutation character word dictionarylookup sorted sort map sort map character word part select tally sorted part found part select tally sorted part map wordperms found

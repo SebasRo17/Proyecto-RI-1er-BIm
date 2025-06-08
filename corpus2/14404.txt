@@ -1,1 +1,0 @@
-Mathematica has two ways to integrate: `Integrate` and `NIntegrate`.   But what about `D`? `D` and `Derivative` are for symbolic differentiation. How can I differentiate _numerically_?

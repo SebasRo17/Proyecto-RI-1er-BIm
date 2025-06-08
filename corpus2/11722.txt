@@ -1,1 +1,0 @@
-I have data which has the following appearance: `data = {{DateList, Real}, ..., {DateList, Real}}` It's easy to visualize the data by using `DateListPlot`. In addition to `DateListPlot`, I would also like to show a function which fits the data and the moving average of the data. I hope I described the problem clear enough.

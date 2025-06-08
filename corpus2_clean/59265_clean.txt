@@ -1,1 +1,0 @@
-want find n largest value matrix replace others zero solution found us replaceall becomes slow size matrix grows findlargestvalues matrixq n integer v union flatten n x real x v example small randomreal matrixform enter image description findlargestvalues small matrixform enter image description timing example large randomreal findlargestvalues large timing first faster way

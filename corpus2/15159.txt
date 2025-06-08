@@ -1,1 +1,0 @@
-Is there a way to integrate the Mathematica menu bar into the Ubuntu Unity global menu bar at the top of the screen? (I'm not looking to run mini- applications.) Thanks!

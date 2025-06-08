@@ -1,1 +1,0 @@
-how can I define my own list in which I have all primes less than x?

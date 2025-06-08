@@ -1,1 +1,0 @@
-I would like to be able to suppress multiple outputs when a cell is evaluated. Is there a way to enable the "Evaluate in place" menu item of the Evaluate menu?

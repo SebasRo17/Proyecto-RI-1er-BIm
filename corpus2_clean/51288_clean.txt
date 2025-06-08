@@ -1,1 +1,0 @@
-question must simple answer googling searching website produce answer asking working three variable x theta want tell mathematica function f function x alone expression f want mathematica produce output like f x f f xx etc asked differentiate f instance want get ask mathematica f theta since f depend theta define f thank much

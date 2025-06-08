@@ -1,1 +1,0 @@
-want show plot sum subscript c subscript c r k k r want list subscript c element subset select subset range k total example k result select subset range total want assign c c sum firstly assign c c sum secondly etc result able get graphic want plot

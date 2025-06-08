@@ -1,1 +1,0 @@
-The documentation for Simplify[expr] says that it _performs a sequence of algebraic and other transformations on expr, and returns the simplest form it finds._ How can I see which transformations it applies?

@@ -1,1 +1,0 @@
-I want to see how well some curves fit a data set. If a curve doesn't fit after 100 iterations, I get the error `cvmit`. How do I test for and handle this error within my code?

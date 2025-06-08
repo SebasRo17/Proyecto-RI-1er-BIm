@@ -1,1 +1,0 @@
-I find the integral               Integrate[Sqrt[2 x - x^2] + x^3 Log[(9 - x^2)/(9 + x^2)], {x, 0, 2}]      and got               1/2 (-36 + \[Pi] + 65 ArcTanh[4/9])      How can I write this answer has the form $\dfrac{65}{4} \ln \dfrac{13}{5} + \dfrac{\pi}{2}-18$

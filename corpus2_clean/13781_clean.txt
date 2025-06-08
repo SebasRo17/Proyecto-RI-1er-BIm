@@ -1,1 +1,0 @@
-use style displayformula displayformulanumbered margin empty space around formula latter display number set style one expects

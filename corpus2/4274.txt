@@ -1,1 +1,0 @@
-Is there a built-in function for studentized range or do I have to build it myself? Is there a test of normality for the studentized range?

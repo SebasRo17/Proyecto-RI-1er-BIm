@@ -1,1 +1,0 @@
-How can you compute Itō Integrals with Mathematica? I tried searching through the documentations but I didn't find anything. P.S. I was not at all sure how to tag this question. I had to put in at least one tag, and I do not have enough reputation to create a new one. Somebody with more rep can feel free to tag it appropriately.

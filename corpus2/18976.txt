@@ -1,1 +1,0 @@
-I'm trying to solve an integral equation of the form `Constant == Integrate [g(x)f(x,Efermi), {x,-200,200}]`, for the parameter `Efermi`. The function `g(x)` is `Exp[-(x^2)/5000]` and `f(x)` is `1/(1+Exp[(x-Efermi)/25]`. In addition to this, if the `Constant` is an array, I'd like to extract `Efermi` as an array. Any inputs on how to go about solving this would be appreciated.

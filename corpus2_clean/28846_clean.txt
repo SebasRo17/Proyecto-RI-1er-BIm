@@ -1,1 +1,0 @@
-consider simple input probability g g g distributed uniformdistribution gg generates piecewise continuous function begin case gg gg le frac frac gg text true end case question mathematica output true rather gg

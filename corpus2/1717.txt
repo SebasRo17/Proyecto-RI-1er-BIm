@@ -1,1 +1,0 @@
-I display a financial chart which I display with `InteractiveTradingChart[]`. My problem is that when my financial is displayed, even though I ask for 6 months of data, the chart only shows a subset of that. I can go to the bottom of the chart and enlarge the area of interest manually. How do I tell `InteractiveTradingChart[]` to display the whole time period I requested?

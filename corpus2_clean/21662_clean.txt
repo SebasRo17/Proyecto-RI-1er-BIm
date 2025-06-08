@@ -1,1 +1,0 @@
-purpose minimal example let say list function like f numericq nintegrate z z want integrate expression involving f say ndsolve f problem return expected result f evaluates inside ndsolve done correctly

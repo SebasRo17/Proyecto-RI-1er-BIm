@@ -1,1 +1,0 @@
-want create matrix h dimension nxn matrix element h j physical problem dealing necessary build following trivial way know fortran time able figure wolfram mathematica fortran way iy n ix n jy n jx n ix iy n j jx jy n give list j give value matrix elemnts h j enddo enddo enddo enddo anybody know wolfram mathematica

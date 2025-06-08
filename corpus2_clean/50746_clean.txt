@@ -1,1 +1,0 @@
-need write code like operation take second stop operation possible somehow without manual interruption

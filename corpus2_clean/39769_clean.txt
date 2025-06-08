@@ -1,1 +1,0 @@
-h tmax fun x arrayq h x x h sol ndsolve fun table j j tmax flatten evaluate sol tmax matrixform plot table flatten evaluate sol tmax plotrange table plot change color two line plot flatten evaluate sol give flatten evaluate sol give interpolatingfuction

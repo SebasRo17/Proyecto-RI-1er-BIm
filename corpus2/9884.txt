@@ -1,1 +1,0 @@
-I would like to have `ArrayPlot[]` also present the value of each cell in it, similar to the `LabelingFunction` that is available in other types of plots. How do I do it?

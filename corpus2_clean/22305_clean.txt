@@ -1,1 +1,0 @@
-familiar mathematica certain extent subtlety still elude currently trying solve following problem function f x continuous know create contourplot also list point x would like insert contour plot background working genetic algorithm would like visualize population converges global optimum would like show population least best candidate generation contour plot could done

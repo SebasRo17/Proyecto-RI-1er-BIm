@@ -1,1 +1,0 @@
-I have the following equation $T = -800n + 12000$. I know that this is a linear function and that the two points $(0, 12000)$ and $(15,0)$ lie on the line. When I have 2 other values of n between 0 and 15, how is it possible to determine their corresponding T-values with Mathematica.

@@ -1,1 +1,0 @@
-I have a random distribution of points in the $x\\!-\\!y$ plane. I can obtain a graphical representation of the probability distribution function using `SmoothHistogram3D`. Now I need to use this in another calculation. To do this I need a function that approximates `SmoothHistogram3D`. Could you please tell me how to do it?

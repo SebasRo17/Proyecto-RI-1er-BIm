@@ -1,1 +1,0 @@
-execute matrixplot identitymatrix result good size however evaluate grid matrixplot identitymatrix itemsize automatic matrixplot much smaller even page wide make matrixplot appear original size grid prefer hard code size picture picture show second matrixplot small

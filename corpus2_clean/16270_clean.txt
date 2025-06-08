@@ -1,1 +1,0 @@
-solve equation type z b overline z c b c mathbb c approach set f z z b overline z c transform z x get real linear system assuming x mathbb r solve frac f x overline f x frac f x overline f x problem happen lot program writing wondering faster way would ideal mathematica solve linear system directly

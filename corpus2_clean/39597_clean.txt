@@ -1,1 +1,0 @@
-want get coordinate bisection point given line segment specified resolution example line given output coordinate first iteration second iteration distance point less resolution say convenient way

@@ -1,1 +1,0 @@
-today noticed something think first time used inside compile variable value within module block sequentially shared compile module b b compare behavior outside compile module b b documented behavior happy accident undocumented relied upon trick avoided

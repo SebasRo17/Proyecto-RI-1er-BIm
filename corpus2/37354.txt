@@ -1,1 +1,0 @@
-Is there a way to make `Orthogonalize` do the normal Gram-Schmidt procedure without normalizing the result? As far as I've understood this was possible with Mathematica 5.2. One way would be to just multiply with the norms but being complicated expressions the whole thing would be easier without normalizing in the first place.

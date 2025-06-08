@@ -1,1 +1,0 @@
-given spatial curve represented parametric equation possible mathematica calculate symbolically least numerically volume convex hull

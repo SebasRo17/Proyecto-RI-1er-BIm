@@ -1,1 +1,0 @@
-do you think that Wolfram would integrate the Neural Networks package in the new version of Mathematica? Also because the Neural Networks package is not compatible with ListPlot in Mathematica 9.0. Thanks!

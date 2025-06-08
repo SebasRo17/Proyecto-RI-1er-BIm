@@ -1,1 +1,0 @@
-non linear integral equation like solve mathematica int mathrm x frac b x v b x b v solve integrate b x v b x b v x b v v problem come exotic problem auction theory want find optimal bidding function b v v way get solution problem mathematica closed form solution preferred duh plot numerical one also ok

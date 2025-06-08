@@ -1,1 +1,0 @@
-parallel way perform operation index length w w appendto index give list index list w negative little slow faster cleaner way get answer essentially fortran statement

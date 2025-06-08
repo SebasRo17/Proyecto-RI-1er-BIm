@@ -1,1 +1,0 @@
-How do I round to ieee 64 bit floating point with mathematica? I've tried `N[22250738585072014/10000000000000000 10^-308, MachinePrecision]` and I get 2.22507*10^-308 as a result (0x000ffffe2e8159d0 in hex), though it should be 2.2250738585072014e-308 (0x0010000000000000 in hex). Thanks.

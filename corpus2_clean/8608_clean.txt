@@ -1,1 +1,0 @@
-seems clear cut case mathematica actually producing wrong answer warning trying express fact integer exists factorization even factorization n n mathematica say replace domain real complex say true bug using function incorrectly resolve forall n exists p q p q n integer false reduce forall n exists p q p q n n p q integer false

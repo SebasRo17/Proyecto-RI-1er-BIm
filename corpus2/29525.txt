@@ -1,1 +1,0 @@
-Is there a way to force either `ToBoxes` or `MakeBoxes` to respect the spacing that occurs in the code? For example is there a way to force the following to print the code like so.               CellPrint@Cell[       BoxData@MakeBoxes[         f[          y          ]         ], "Input"]      would output               f[      y     ]

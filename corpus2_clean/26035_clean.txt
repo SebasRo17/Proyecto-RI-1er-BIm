@@ -1,1 +1,0 @@
-user defined function take three vector input suppose like f b u total total u b usually vector b matrix format u example b u give result word function f applied row u using loop want know using map functional command table

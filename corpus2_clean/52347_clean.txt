@@ -1,1 +1,0 @@
-function eb subject question asked recently see stack exchange example specified boundary r n r r r n work expected also want specify value function r n fcor r r n function constant value eb r n value boundary however unsure code combine two specification single expression considering using piece wise unclear specify far attempt failed idea

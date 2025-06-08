@@ -1,1 +1,0 @@
-let list sample b c f g want go individual sublists operation tried thing like rule replace sam x x b b w e w e get b c b b f g getting individual list want use rule replace edit make question clear want specify interested one particular list operation idea able traverse sublists using rule replace work expected result like b c f g

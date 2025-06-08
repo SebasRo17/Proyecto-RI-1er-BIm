@@ -1,1 +1,0 @@
-In a picture, there are many different colors. How can I just want to find the position of one color. In the following picture, if I would like to find the coordinates of the position of blue, how can I achieve that? Thank you very much! ![enter image description here](http://i.stack.imgur.com/1wEvU.jpg)

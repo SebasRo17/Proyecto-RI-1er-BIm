@@ -1,1 +1,0 @@
-The input               ToExpression["\\sqrt{x y}", TeXForm]      gives me the `$Failed` output. Maybe my very old computer is the problem, but that's the only command that has caused me problems, and that input is from the tutorials.

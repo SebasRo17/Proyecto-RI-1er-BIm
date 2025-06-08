@@ -1,1 +1,0 @@
-Is there any Mathematica command or well known technique to take the direct product between two symmetric/permutation groups?

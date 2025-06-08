@@ -1,1 +1,0 @@
-output limit interval precisely limit pi n n integrate x n x n infinity

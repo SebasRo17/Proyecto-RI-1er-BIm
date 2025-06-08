@@ -1,1 +1,0 @@
-How could I define a function that references other values? eg               a = 2 x; b = 4 k;     f[k_, x_] := a^b

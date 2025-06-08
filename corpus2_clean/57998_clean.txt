@@ -1,1 +1,0 @@
-want run simplify refine various expression keep touching anything contains specific head example would like refine following expression assumption x anything part expression whose head log expr sqrt x log x log x refine expr x instead log x x log x would like see x log x log x logarithm remain unsimplified

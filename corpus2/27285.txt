@@ -1,1 +1,0 @@
-I have one technical problem with printing large matrix 50x50 with lot of data. Always when I want to export .nb to .pdf, I can see just part of matrix, never all. Is there solution for this? I need to present data, but not in a .nb file. It is easy to do scrolling left or right in a .nb file - but how to print the whole matrix to a .pdf file?

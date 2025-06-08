@@ -1,1 +1,0 @@
-1) How do I find the intersection of `f[c_] := y^2 - 2 x^2 (x + 3) == c ((y + 1)^2 (y + 9) - x^2)` between the plots of f[0] and f[2] I tried plugging-in numbers. But I can't seem to find the intersections 2) Also how do I graph this http://i.imgur.com/MjwmLCC.jpg ? I figured out the equation to be `y=x^2-9` but I don't know what to do next.

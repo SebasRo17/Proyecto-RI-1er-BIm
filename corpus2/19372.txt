@@ -1,1 +1,0 @@
-This is a continuation of the previous post: How to enter textual subscripts and superscripts?. When dealing with complex in-line math expressions inside a `"Text"` cell _Mathematica_ by default formats them in `TraditionalForm`. Is it possible to force _Mathematica_ to create in-line cells with the same style as the style of enclosing cell?

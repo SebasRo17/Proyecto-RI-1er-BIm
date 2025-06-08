@@ -1,1 +1,0 @@
-I have a simple Markov process defined with               mp = DiscreteMarkovProcess[1, ( {          {1/3, 1/3, 1/3, 0},          {1/2, 1/4, 0, 1/4},          {0, 0, 1, 0},          {0, 0, 0, 1}         } )];      How I change the initial state of this process, without defining an entirely new process. Is there a way to "set" the initial probabilities of `mp` to different values?

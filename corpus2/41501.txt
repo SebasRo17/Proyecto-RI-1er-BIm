@@ -1,1 +1,0 @@
-I would like to show an exclusion plot, by having a filling made of parallel tilted lines. Any ideas? Something along these lines ![enter image description here](http://i.stack.imgur.com/y82aW.gif)

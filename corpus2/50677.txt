@@ -1,1 +1,0 @@
-Integrate[Log[x]/(1-x)^2,{x,eta,Infinity}]      The conditions are `eta>0`, and `eta->1`, how to incorporate the conditions?

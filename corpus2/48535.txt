@@ -1,1 +1,0 @@
-I have these two Equ' $$x'[t]=Sin[y]$$ $$y'[t]=Cos[x]$$ and im trying to plot the phase space(plane) for this system... ive tryed Equationtrekker but cant seem to find the way to use it this way... any help? Thanks!

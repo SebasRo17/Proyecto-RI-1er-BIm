@@ -1,1 +1,0 @@
-Is there a way to print variables using their names, or to extract the corresponding information for later analysis ?

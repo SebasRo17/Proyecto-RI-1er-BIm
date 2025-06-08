@@ -1,1 +1,0 @@
-would like send set mathematica expression e simple type easy represent temporarily store c list using mathlink c api know many compute need count able call mlputfunction conveniently send list without needing know number element beforehand one idea put loopback link counting transfer content loopback link hoping simpler solution

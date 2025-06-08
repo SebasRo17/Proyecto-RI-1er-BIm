@@ -1,1 +1,0 @@
-I is easy to enter $ \sum_{s=1}^{n}k(s) $ But how can I enter $ \sum_{s=1,3}k(s) $ ? When I try it, Mathematica says               Syntax::sntxi: Incomplete expression; more input is needed .      Also the following didn't work. $\sum_{s=1,3}^{3}k(s)$

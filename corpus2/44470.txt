@@ -1,1 +1,0 @@
-If I have               x = 2      and I want to evaluate               y = x^2      I would like to the output to show               y = (2)^2      before evaluating to 4.

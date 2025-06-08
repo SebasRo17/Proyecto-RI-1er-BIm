@@ -1,1 +1,0 @@
-I'm trying to import this file:               Import["https://dl.dropboxusercontent.com/u/35192406/jarlaxxe_tweets.\     csv", CharacterEncoding -> "UTF8"]      But I am getting errors like:               $CharacterEncoding::utf8: The byte sequence {240} could not be interpreted as a character in the UTF-8 character encoding. >>      Any idea why? And any solution?

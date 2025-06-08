@@ -1,1 +1,0 @@
-following code animate plot myvariable x x myvariable animationrunning myvariable false true make animation stop automatically reaching defined value note tried make stop evaluating myvariable expression get error unrecognized option name animationrunning encountered reading animatorbox

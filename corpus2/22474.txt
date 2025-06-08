@@ -1,1 +1,0 @@
-I have problems making `Button` evaluate an input like this one:               Button["Load", Get["/Users/simonlausen/Desktop/Input/ex1.mx"]]      I have tried a bunch of things, but haven't found any elegant solution. What to do?

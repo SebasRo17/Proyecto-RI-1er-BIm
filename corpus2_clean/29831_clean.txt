@@ -1,1 +1,0 @@
-image big black disk bounded white boundary center image contains stuff outside spot boundary stuff color include black white wonder whether mathematica either following find position point central disk change color central disk red preserving part image enter image description

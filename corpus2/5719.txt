@@ -1,1 +1,0 @@
-How can I wrap text around a circle? For example: the text in the sectors of this chord plot. Perhaps one could use `FilledCurve[]` and then apply a `GeometricTransformation[]`?

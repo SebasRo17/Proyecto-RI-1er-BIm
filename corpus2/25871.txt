@@ -1,1 +1,0 @@
-I must plot some data in radians and would like to use this image as a background to that graph. Although it looks good the lines are degraded in image form. thus the reason for this question. Can something like this be drawn in Mathematica? ![Colored Circular Graph](http://i.stack.imgur.com/uSM96.jpg)

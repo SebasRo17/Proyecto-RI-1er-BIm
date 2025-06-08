@@ -1,1 +1,0 @@
-need determine maximum value x b x c know coefficient upper lower x value say input value b c xlower xupper given input determine maximum value quadratic function goal implement function signature funcmax b c xupper xlower could get argument extremal value using input

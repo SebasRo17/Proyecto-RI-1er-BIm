@@ -1,1 +1,0 @@
-I wrote               Graphics3D[{Opacity[.9], FaceForm[Yellow], PolyhedronData["Dipyramid", "Faces"]}]      and I get this picture: ![decahedron](http://i.stack.imgur.com/FQGu6.jpg) I would like to plot a decahedron without any defects on its surface. How can I do this? Thanks!

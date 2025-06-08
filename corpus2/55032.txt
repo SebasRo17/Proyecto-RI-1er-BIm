@@ -1,1 +1,0 @@
-Anyone have any good resources for learning mathematics, already sufficient in JAVA. not math... only in calc 2. I want to plot the slope field of `y(x)= (1200e^(kx))/ (c + e^(kx))`? Any suggestions? Code so far.               VectorPlot[{1, 1200 e^kx/c + e^kx} {x, -2, 2}, {y, -2, 2}]

@@ -1,1 +1,0 @@
-Print["first part of the result", DateString[]]        Print["addition to the result", DateString[]]      will add a newline character at the end of line automatically for each `Print[]`. But I'd like the two strings to be shown on the same line. How can I do this?

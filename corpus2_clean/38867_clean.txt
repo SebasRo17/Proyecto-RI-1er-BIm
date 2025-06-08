@@ -1,1 +1,0 @@
-following matrix va va table j true l q j problem pack va developer topackedarray va print developer packedarrayq va true matrix vb va sparsearray form vb sparsearray l q j j true one pack vb developer topackedarray vb print developer packedarrayq vb false anybody know way pack sparsearray vb

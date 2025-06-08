@@ -1,1 +1,0 @@
-possible parallel linear algebra arbitrary precision within mathematica simple manner done machine precision

@@ -1,1 +1,0 @@
-Derivative of the `Abs` Function in _Mathematica_ looks very different than the actual answer. Why? How to correct this? For example I entered `D[Abs[x - 1], x]` and got the output `Abs'[-1 + x]`. Is there a syntax error in my input?

@@ -1,1 +1,0 @@
-using name part pattern inside alternative come behaves differently string normal pattern stringmatchq ab x c x stringmatchq ab x x c false true matchq x x matchq x x true true stringmatchq ab x c x b false

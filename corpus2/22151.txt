@@ -1,1 +1,0 @@
-I am new to _Mathematica_ , I am searching for a way to create an expression with a sequence of terms such as:               (x-1)/x  (x-2)/x  (x-3)/x  (x-4)/x … (x-n)/x

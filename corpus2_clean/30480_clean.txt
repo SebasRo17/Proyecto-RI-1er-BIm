@@ -1,1 +1,0 @@
-simple task giving trouble suppose like take output traditionalform integrate x x post process append vertical bar like x bigg set left right bracket like left frac x right trying figure best way approach problem convert output string use stringjoin

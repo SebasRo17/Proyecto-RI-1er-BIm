@@ -1,1 +1,0 @@
-How to solve a differential equation which consists of variables depending upon another differential equation?

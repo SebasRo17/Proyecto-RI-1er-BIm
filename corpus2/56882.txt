@@ -1,1 +1,0 @@
-This must be duplicate but can't find any related post. I'm want to pas it two argument in postfix like `f[a_,b_]:=a+b;` `1,2//f` More generally, can somebody explain me in detail, how to use the @f ,~~f~~, and //f

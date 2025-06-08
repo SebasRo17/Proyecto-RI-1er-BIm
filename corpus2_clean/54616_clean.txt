@@ -1,1 +1,0 @@
-often get data table column name row name example gene name id chr sample sample sample itm nm chrx fam nm chr like divide block namely data block numeric data read column name row name corner name currently usually something like rw import table csv colnames rw rownames rw cornernames rw data rw quite clumsy feel mathmatica anyone better

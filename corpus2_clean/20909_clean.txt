@@ -1,1 +1,0 @@
-densityhistogram display well bin shown much larger others oddly empty bin appear drawn smaller occupied bin densityhistogram randomvariate binormaldistribution enter image description arrayplot similar problem solved pixelconstrained pixelconstrained emulated densityhistogram

@@ -1,1 +1,0 @@
-When I want to copy a scientific notated number from a TraditionalForm output to an input it formats it in a weird way: ![enter image description here](http://i.stack.imgur.com/yRa83.png) Another thing I want to do is only copy a few number of decimals, and remove the accent (`), at the end: ![enter image description here](http://i.stack.imgur.com/wMPbY.png)

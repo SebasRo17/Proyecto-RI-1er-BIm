@@ -1,1 +1,0 @@
-Is it possible to change the Dashed Style of a curve into circles with Plot command ?               Plot[Cos[x], {x, 0, 2*Pi}, PlotStyle -> Directive[Dashed, Thickness[0.005]]]      ![enter image description here](http://i.stack.imgur.com/Q1554.jpg)

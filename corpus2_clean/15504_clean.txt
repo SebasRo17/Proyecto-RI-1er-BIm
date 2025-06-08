@@ -1,1 +1,0 @@
-input following line version press ctrl k get drop auto completion list including rectangle enter image description input version give one candidate enter image description short cut key ctrl k seems working question thing missed get drop auto completion menu full candidate list operation system window bit

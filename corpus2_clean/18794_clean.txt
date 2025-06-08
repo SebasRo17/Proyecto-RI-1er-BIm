@@ -1,1 +1,0 @@
-trying solve equation using mathematica keep getting following error solve nsmet system cannot solved method available solve importantly running half hour without giving solution also tried reduce work either suggestion fix error new mathematica apology basic question trying find angle x e b co v v e b e v b co eq e sin sin v b sqrt x x e co co e co co sqrt x solve eq

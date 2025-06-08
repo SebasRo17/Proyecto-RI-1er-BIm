@@ -1,1 +1,0 @@
-output following code input waals p v v b r contourplot waals b r p v contourplot p v v p v work fine wrong specify parameter equation

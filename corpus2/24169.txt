@@ -1,1 +1,0 @@
-I'm new to Mathematica and I need to ask how to graph a sphere, cylinder, etc.. using cartesian equations. For example in sphere's case $x^2+y^2+z^2=1$ I tried to use `Plot3D` but it doesn't work..

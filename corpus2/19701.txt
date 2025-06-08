@@ -1,1 +1,0 @@
-Suppose we have a function `f[x, y, z]` and we want to get all its variables `Sequence[x,y,z]`, what method can we use then? The only one that I can come up with is like this:               f[x, y, z] /. func_[vars___] -> Sequence[vars]      But it is not very elegant from my point of view. Is there any more suitable method? Thanks!

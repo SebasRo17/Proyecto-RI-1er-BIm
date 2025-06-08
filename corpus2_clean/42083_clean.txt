@@ -1,1 +1,0 @@
-large matrix calculation need generate symbol first like f mu nu would like get mu nu need symbol assign anything way achieve

@@ -1,1 +1,0 @@
-randominteger produce vector length randomly count index need vector index start plotting x axis start look following listplot randominteger searched help found option axesorigin tried following listplot randominteger axesorigin look value axis shifting axis without adjusting index vector starting still count vector index

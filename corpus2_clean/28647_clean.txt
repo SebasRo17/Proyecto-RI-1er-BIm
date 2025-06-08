@@ -1,1 +1,0 @@
-following code contourplot x x x x x x x x x x x x x x contourstyle black thick contour colorfunction directive lighter lighter lighter yellow white give enter image description color function color area black line white color area black line yellow however use colorfunction rainbow give correct coloring result enter image description make st color function behave expected

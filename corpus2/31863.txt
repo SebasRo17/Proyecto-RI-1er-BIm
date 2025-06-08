@@ -1,1 +1,0 @@
-I'm trying to get my head around NotebookWrite for the last few days. I can't understand why               NotebookWrite[nb,       Cell[        StringForm["some text = ``", 3]       , "Text"        ]]      doesn't seem to produce what I would expect: some text = 3 in the newly defined notebook nb. Why is this? How can this be achieved? Thanks all, once again!

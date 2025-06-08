@@ -1,1 +1,0 @@
-I am using discrete plot to plot a 1D array. But I want to plot some points specified by a span in one style (for example, in red) and the rest points in other style (e.g. in blue).

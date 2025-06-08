@@ -1,1 +1,0 @@
-using option plottheme scientific plotlegends placed automatic right matrixplot would like change font size legend label would usually specifying barlegend lakecolors labelstyle fontsize know color function used base theme scientific would like keep range min max value automatic would best way change legend font case

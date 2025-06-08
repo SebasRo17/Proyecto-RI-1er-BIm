@@ -1,1 +1,0 @@
-would like solve difference equation lotka volterra difference equation tried model using parameter b c obtain following eq r n r n r n b r n f n f n f n b r n f n c f n rsolve eq r n f n n rsolve r n r n f n r n f n f n f n r n r n f n n mathematica give clue wrong anyone help find problem

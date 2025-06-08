@@ -1,1 +1,0 @@
-array data want map standardize column array use following code composition transpose standardize transpose data shoter way get result p maybe using mapthread function standarize take list input edit picked bad example use example data result desire

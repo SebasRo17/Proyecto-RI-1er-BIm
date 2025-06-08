@@ -1,1 +1,0 @@
-text file row need delete one row fast possible later operation repeat best way mathematica solution using netlink jlink etc welcome update found solution c efficient way delete line text file know adapt using netlink another option probably use java io randomaccessfile class java familiar java jlink help appreciated

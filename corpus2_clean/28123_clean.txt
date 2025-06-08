@@ -1,1 +1,0 @@
-want create one column matrix st element element zero however want able make matrix kind arbitrary dimension arbitrary number row

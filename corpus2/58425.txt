@@ -1,1 +1,0 @@
-i have a scatter chart of probable of happen some thing like below chart ![enter image description here](http://i.stack.imgur.com/j6iCu.png) link of google chart i what determine the probable The most point in below chart , can use a mathematic method to determine for programming

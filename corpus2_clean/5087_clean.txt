@@ -1,1 +1,0 @@
-since polarplot support filling best way shade fill region two polar curve instance would generate version following graph region inside first curve outside second curve filled polarplot sqrt co co pi pi mathematica graphic

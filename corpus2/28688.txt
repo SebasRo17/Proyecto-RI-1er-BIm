@@ -1,1 +1,0 @@
-I need the numerical values from pdf files like this one. ![Mathematica graphics](http://i.stack.imgur.com/xuZAG.png) When I use the usual `Import` command, the PDF imports, but pages of images. How can _Mathematica_ be used to import the numerical values from a PDF?

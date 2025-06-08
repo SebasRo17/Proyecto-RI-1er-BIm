@@ -1,1 +1,0 @@
-find sum number divided atleast one edit sorry complicating need work anything requires much heap space long loop fail

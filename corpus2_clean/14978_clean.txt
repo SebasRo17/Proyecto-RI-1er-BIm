@@ -1,1 +1,0 @@
-want make vertical radiobuttonbar manipulate far workaround look like manipulate sel text one sel text two sel text three control sel one controltype radiobutton control sel two controltype radiobutton control sel three controltype radiobutton controlplacement left way line radiobuttons thanks

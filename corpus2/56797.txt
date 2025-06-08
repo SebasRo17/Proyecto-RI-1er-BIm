@@ -1,1 +1,0 @@
-It is known that `CharacterRange["a", "z"]` gives list of characters from a to z. Does _Mathematica_ have something similar for weekdays and months of the year? Something like:               Somefunction["Saturday", "Friday"]     (* {"Saturday", "Sunday", ...} *)          Somefunction["January", "December"]         (* {"January ", "February ", ...} *)

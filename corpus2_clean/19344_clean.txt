@@ -1,1 +1,0 @@
-want get answer ndsolve form table value x let say want copy result excel microsoft word put appendix make chart tried use reap sow function order ndsolve x x co x x x reap sow x however instead giving number x give interpolation function anyone idea get x type equation

@@ -1,1 +1,0 @@
-mathematica mathematica graphic latex alpha underset square overset square lim sup sqrt n left n right

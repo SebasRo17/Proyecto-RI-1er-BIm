@@ -1,1 +1,0 @@
-want find position element equal matrix example case following matrix left begin array cc x x end array right x x want get two set built function

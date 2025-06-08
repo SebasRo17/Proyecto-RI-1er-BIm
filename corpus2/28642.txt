@@ -1,1 +1,0 @@
-I have a file that defines an array of numbers like this:               freq["AQs"] = 8.846947803007962E-4     ...      I am reading the file with `ReadList["myfile.txt", Expression]` but Mathematica reads the above entry as `20.0` `instead of 0.000884695`. How can I read the array correctly? Thanks.

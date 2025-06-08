@@ -1,1 +1,0 @@
-I am trying to import a file:               filename = "furan.b3lyp.6-31G*.sdat"     path = "/home/molkee/Desktop/plots/scr/" <> filename;     FileExistsQ[path]     data = Import[path, "Table"];      I am getting the _Recursion Limit_ error. I guess this happens because of the asterisk in the filename, but why? What is going on? What is the right way to import it? FILE

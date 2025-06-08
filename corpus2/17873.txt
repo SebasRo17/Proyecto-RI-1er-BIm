@@ -1,1 +1,0 @@
-Non- _Mathematica_ formats, e.g. .doc or .txt files, are directly shown in a new notebook when I click on a hyperlink pointing at these objects. But I would rather have (for example) .doc files opened using Microsoft Word. How can one create a hyperlink that opens a file in its associated application, rather than in _Mathematica_?

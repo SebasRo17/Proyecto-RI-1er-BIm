@@ -1,1 +1,0 @@
-Lets define two identical functions $f$ and $g$ in a slightly different way               f = Interpolation[Table[{i, i^2}, {i, -5, 5}]];     g = Function[x, Interpolation[Table[{i, i^2}, {i, -5, 5}]][x]];     Timing[Do[g[1], {i, 1000}]]/Timing[Do[f[1], {i, 1000}]]     {12.0023, 1}      Does the second definition calculates the interpolating function every time $g$ is evaluated?

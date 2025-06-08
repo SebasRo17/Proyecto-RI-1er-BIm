@@ -1,1 +1,0 @@
-need plot triangular mesh cylinder however function cylinder mesh option using parametricplot co phi sin phi z phi pi z mesh give hollow cylindrical surface fine mesh get solid cylinder coarse triangular mesh

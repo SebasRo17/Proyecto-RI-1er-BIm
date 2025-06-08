@@ -1,1 +1,0 @@
-want make cdf windowsize constant end user resize either dragging window maximizing built mathematica function

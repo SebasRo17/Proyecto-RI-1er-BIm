@@ -1,1 +1,0 @@
-new mathematica original program rewrite part clear global da dt endtime q dq g ddq g q dq dq ddq dt q q dq dt da append da dq endtime dt listplot flatten da datarange endtime plotrange quit q denotes coordinate particle ddq denotes acceleration depends coordinate q particle order make posted program readable clean provided acceleration value one element

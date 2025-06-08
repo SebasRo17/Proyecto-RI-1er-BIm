@@ -1,1 +1,0 @@
-want write evaluate expression something like h sum j e ij x iy j h frac sum j e ij x iy j sum j ij x iy j correct syntax

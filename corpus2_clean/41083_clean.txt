@@ -1,1 +1,0 @@
-evaluating sin time matrix calculated want check taylor series expansion sin x using myfn b n sum matrixpower b k factorial k k put k well summation list dun know either take changing sign whenever trying evaluate b n sum matrixpower b k k factorial k k seriously stuck could anyone help

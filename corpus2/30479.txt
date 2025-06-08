@@ -1,1 +1,0 @@
-I see these around the web and would like to make them in Mathematica.   Combining them in an array is actually quite mesmerizing! ![Moving Illusion](http://i.stack.imgur.com/zHC6P.jpg)

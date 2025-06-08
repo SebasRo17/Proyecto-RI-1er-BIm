@@ -1,1 +1,0 @@
-I got a real array `A`, where `Dimensions[A] == {5000, 5000, 5}`. Some of the values in `A` are `-1`, others are not. How can I use `Position[]` to find the indices of those values which are **not** `-1`?

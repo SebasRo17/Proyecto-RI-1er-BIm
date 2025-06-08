@@ -1,1 +1,0 @@
-I need to play with a lot of powers such as `10^-3`. `1E-3` does not work for it. Is there any short form for it?

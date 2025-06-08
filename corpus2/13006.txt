@@ -1,1 +1,0 @@
-Continuing the theme of minor interface annoyances, one of the unique features of Mathematica as a text editor is the automatic adjustment of text location as you type. This could be a bit disorienting...Any way to make it stop?

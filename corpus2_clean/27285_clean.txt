@@ -1,1 +1,0 @@
-one technical problem printing large matrix x lot data always want export nb pdf see part matrix never solution need present data nb file easy scrolling left right nb file print whole matrix pdf file

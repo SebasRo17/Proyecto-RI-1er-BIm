@@ -1,1 +1,0 @@
-I'm trying to determine _only_ if a solution to a linear system of equations exists. I have been using `LinearSolve`, which works fine, but it solves the system as well. Is there another more efficient method for only checking the existence of a solution?

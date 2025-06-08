@@ -1,1 +1,0 @@
-version densityhistogram worked plotrange expected seedrandom densityhistogram transpose randomreal normaldistribution randomreal normaldistribution plotrange enter image description version upper bound obeyed new padding lower bound ignored enter image description make densityhistogram obey lower bound plotrange

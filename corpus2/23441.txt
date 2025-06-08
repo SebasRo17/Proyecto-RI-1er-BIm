@@ -1,1 +1,0 @@
-FullSimplify[Sqrt[1/(a^2 b^2)], Element[{a, b}, Reals]]      gives               Abs[1/(a b)]      How do I simplify the following expression               FullSimplify[Sqrt[(1 + a + b)/(a^2 b^2)], Element[{a, b}, Reals]]      into $\frac{\sqrt{a+b+1}}{\left| a b\right| }$ ?

@@ -1,1 +1,0 @@
-trying evaluate integral numerically int infty exp j dm everything ok integration method specified nintegrate exp besselj infinity method clenshawcurtisrule specify workingprecision integral remains unevaluated nintegrate exp besselj infinity method clenshawcurtisrule workingprecision wrong code using mathematica v update bug still present version

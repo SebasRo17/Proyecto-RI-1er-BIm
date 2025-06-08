@@ -1,1 +1,0 @@
-possible duplicate minimizing function many coordinate suppose function f vec x computes certain polynomial element list vec x use nminimize findminimum find vector vec x minimizes function f vec x edit found question minimizing function many coordinate asks thing answer offered using array worked problem well

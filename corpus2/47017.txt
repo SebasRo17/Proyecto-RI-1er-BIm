@@ -1,1 +1,0 @@
-m={{a, b, c, p}, {d, e, f, x}, {g, h, k, z}, {u, v, w, y}};      I want to swap 1st and 2nd rows by 4th and 3rd rows respectively. And then, swap 1st and 2nd columns by 4th and 3rd columns.

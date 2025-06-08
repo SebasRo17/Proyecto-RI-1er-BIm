@@ -1,1 +1,0 @@
-trying display text tau theta using following graphic directive inside show several graphic object graphic fontsize text tau theta however displayed text shown tau theta instead tau theta huge deal trying keep notation consistent enclose text quote display correct order text font instead math font suggestion using version make difference

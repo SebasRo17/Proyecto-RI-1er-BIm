@@ -1,1 +1,0 @@
-using wolfram alpha explore set defined inequality somehow able reproduce picture mathematica best way plotting set defined f x leq f polynomial tried implicitplot give nice result possible add something plot fact would like also plot certain curve lie inside set defined inequality possible obtain graph

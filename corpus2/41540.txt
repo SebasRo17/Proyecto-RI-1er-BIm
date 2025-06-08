@@ -1,1 +1,0 @@
-I have tried to solve this integral:               Integrate[E^(-((a^2 b c^2)/(a^2 + b)))/(a^2 + b)^2,a]      Mathemathica is not able to solve it, I have tried the integration by parts and it did not work, as well as some substitutions. Any idea how to tackle this problem?

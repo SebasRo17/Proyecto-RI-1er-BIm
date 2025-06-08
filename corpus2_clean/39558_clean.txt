@@ -1,1 +1,0 @@
-use code solve pde f x f x first ndsolve f x x x f x f f f x sin pi x f x x maxstepsize give correct solution take higher see happens absolutetiming table f x x absolutetiming table f x x null null threshold appears appears order magnitude slower evaluating interpolating function reason edit using ndsolve option interpolationorder work around

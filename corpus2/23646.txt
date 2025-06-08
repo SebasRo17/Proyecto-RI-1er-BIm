@@ -1,1 +1,0 @@
-Has anyone tried access Amazon AWS API from _Mathematica_ , I'm assuming the HTTP WebService module of _Mathematica_ would be a starting point. Any suggestions on getting started would be welcome.

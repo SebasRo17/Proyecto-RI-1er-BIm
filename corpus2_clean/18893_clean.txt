@@ -1,1 +1,0 @@
-anybody point direction guide extend voronoidiagram function mathematica handle three dimensional situation e point help greatly appreciated update current voronoimesh function v still compute voronoi diagram strange since delaunaymesh convexhullmesh function work data set guess waiting continues wolfram research employee idea omitted timeframe functionality included mathematica

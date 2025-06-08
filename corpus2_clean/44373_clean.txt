@@ -1,1 +1,0 @@
-integration analytical solution behavior described r function mathematica give weird oscillating answer anybody explain help overcome issue r f r nintegrate besselj r k besselj r k k infinity accuracygoal sol table ab f r r r listlineplot sol plotrange

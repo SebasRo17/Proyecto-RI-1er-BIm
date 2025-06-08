@@ -1,1 +1,0 @@
-plot array option colorfunction rainbow arrayplot plotlegends automatic colorfunction rainbow enter image description want point value point value appear white missing value instead purple specify color discrete point override colorfunction rainbow

@@ -1,1 +1,0 @@
-given integer n want get two list set pair divsors b exactly two factor n cdot b b set pair b two summands n b code came work like know efficient elegant even build alternative function int int divisor int function int int range int also case want later eliminate list list differ order e g reduce b b b side note problem arise writing code bigger problem

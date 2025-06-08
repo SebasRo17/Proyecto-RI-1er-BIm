@@ -1,1 +1,0 @@
-Is there a command to find the poles of a function $f=f(z)$? example: let $$f(z) = \frac{1}{z^2-1}$$ then we know that the poles are at $z=\pm 1$ but is there a special command in mathematica to do this?

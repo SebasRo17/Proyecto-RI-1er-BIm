@@ -1,1 +1,0 @@
-want make polygon straight border line purpose wrote following code show straight border graphic style polygon lighting ambient lightblue boxed false rotationaction clip make polygon straight line enter image description

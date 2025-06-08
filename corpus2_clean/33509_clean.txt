@@ -1,1 +1,0 @@
-trying fit part dataset function ae b sqrt x c friend using gnuplot got reasonably good result however try mathematica nonlinearmodelfit tmean exp b sqrt x c b c x e sqrt x data around b around c around initial guess mean getting bad result data mathematica edit added data

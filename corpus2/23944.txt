@@ -1,1 +1,0 @@
-I need solve a very large complex matrix (not sparse and not symmetry) eigenvalue problem, e.g., 1e4*1e4 or even 1e6*1e6. How large dimensions of the matrix can Mathematica support? And, how about the run time? Or, any one have good suggestions for this?

@@ -1,1 +1,0 @@
-evaluating integral lorentzian know equal one first define function evaluate integral two slightly different way surprisingly get right answer symbolic integration first g x pi x x integrate g x x infinity infinity x undefined integrate g x x x infinity infinity issue

@@ -1,1 +1,0 @@
-found worddata database english word possible part speech word ambiguous e g result verb noun worddata result partsofspeech noun verb case however distinguished based context question one use mathematica perform part speech tagging text either built function extension many known algorithm implementation available yet able find way leverage mathematica

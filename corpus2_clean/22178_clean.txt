@@ -1,1 +1,0 @@
-able connect vertica database also able run select query able run query backslash vertica command like postgresql command trying run tried variation like varying number backslashes without success sqlexecute conn wrong help would greatly appreciated edit add error getting jdbc error vertica vjdbc error syntax error near

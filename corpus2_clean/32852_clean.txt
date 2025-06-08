@@ -1,1 +1,0 @@
-want call mathematica c program suppose two number x want define x c program call mathematica want mathematica sum return result use linux want know use mathlink written mathematica file c file last compiler command want complete program

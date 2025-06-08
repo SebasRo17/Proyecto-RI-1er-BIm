@@ -1,1 +1,0 @@
-q coordinate quadrilateral get output brute force want find simpler solution perhaps something like f q initialization f x x q want better way perhaps matrix form f f f f

@@ -1,1 +1,0 @@
-numerical solution differential equation form list x z plane would like rotate listplot around z axis generate plot length list step size point tried rotate point degree time obtain list triple use listplot method however take minute generate plot efficient way rotating listplot thinking cutting number point rotated many point omit retain feature original plot

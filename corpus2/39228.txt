@@ -1,1 +1,0 @@
-Trying to figure out if the infinite triple series has a nice closed form. It seems _Mathematica_   is unable to help us here. Numerically, things remain the same, no response. Could you help?               N[ Sum[ n! k! m!/(n + k + m + 2)!, {n, 0, ∞}, {k, 0, ∞}, {m, 0, ∞}]]      **EDIT** : in 2 variables, the double series evaluates to $\pi^2/6$.

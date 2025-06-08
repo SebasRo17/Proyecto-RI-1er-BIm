@@ -1,1 +1,0 @@
-In Maple, you right click and can evaluate an expression (whatever it is) at a specific point say: Expr.= abcddafjosjfoj, then right click and simply evaluate at c=-34 say. But how does one do the correspoinding operation in Mathematica? Must one define a function first for this simple task? ![image](http://i.stack.imgur.com/4Edwb.png)

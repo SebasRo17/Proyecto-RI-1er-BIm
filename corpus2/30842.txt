@@ -1,1 +1,0 @@
-I have a time-series list of stockA, which I call `bas`. I have taken the natural log of `bas` by using               LOG[bas]       As you you know this gives the natural log of each number in the time-series list. This is what I want to do now               OPR = Log[bas/(bas at t-1)]*100       How can I get this?

@@ -1,1 +1,0 @@
-How can I convert a string containing a hex number such as `"6b"` to a hex digit that _mathematica_ can use to do math with? I have tried using `ToExpression["6b"]` but that just give me another string. Note: Java's `BigInteger`class can construct hex integers from strings. Is there something like this in _mathematica_?

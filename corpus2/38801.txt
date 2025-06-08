@@ -1,1 +1,0 @@
-Sorry - bit of a yes/no question: Is it possible to make the slider from a manipulation jump in irregular steps? Or would the best way to overcome this be to just create a series of buttons that jump the manipulation to the desired position?

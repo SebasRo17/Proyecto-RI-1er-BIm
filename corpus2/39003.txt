@@ -1,1 +1,0 @@
-I need to apply Van Gogh's stroke brush effect to a random image ![Van Gogh's painting](http://i.stack.imgur.com/kN0cD.jpg) Take the following image as an example:![Example Image](http://i.stack.imgur.com/XwYg7.jpg) Thank you so much if you could help!

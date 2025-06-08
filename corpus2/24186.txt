@@ -1,1 +1,0 @@
-Consider the code below:               s = Solve[(3 - Cos[4*x])*(Sin[x] - Cos[x]) == 2, x, InverseFunctions -> True];     Select[s[[All, 1, 2]], Element[#, Reals] &]      In MMA 8.0, I get               {-\[Pi], \[Pi]/2, \[Pi]}      but in MMA 9.0, I get an empty set { } Assuming the solution by MMA 8.0 is correct, can someone show me a work around for MMA 9.0?

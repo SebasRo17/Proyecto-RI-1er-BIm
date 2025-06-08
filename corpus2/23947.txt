@@ -1,1 +1,0 @@
-I started using Mathematica 9 on Ubuntu 12.10 and, sometimes, autocomplete doesn't work. The suggestions window shows up for just a fraction of second, and quickly disappears. Do you have any idea on how I can sold this problem? Thanks in advance!

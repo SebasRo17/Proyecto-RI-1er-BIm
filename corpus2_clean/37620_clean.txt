@@ -1,1 +1,0 @@
-list data element data range n n want define function interpolating list every point except way

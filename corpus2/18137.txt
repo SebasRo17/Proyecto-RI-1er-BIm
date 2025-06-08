@@ -1,1 +1,0 @@
-I'm not sure how to remove the paper background from this logo with v9. ![enter image description here](http://i.stack.imgur.com/LKZfw.png) This is really not the same as this question, but I think similar methods apply.

@@ -1,1 +1,0 @@
-With `Graphics3D[Sphere[{0,0,0},1]]` I can render a uniform 3D sphere, but how can I render an ellipsoid? I would need to specify the rotation of the ellipsoid and the length of the main axes. And the method should be reasonable fast to display around 100 at once.

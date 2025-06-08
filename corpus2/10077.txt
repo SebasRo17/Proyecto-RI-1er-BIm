@@ -1,1 +1,0 @@
-Does Mathematica have a way to "fix" a correlation matrix that is not positive semi-definite? I looked through the documentation and search the internet but could not find anything.

@@ -1,1 +1,0 @@
-I know this option exists in NonlinearModelFit and probably in other fit models as well but for some reason the best result i get is with FindFit. Regards Doron

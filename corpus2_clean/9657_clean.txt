@@ -1,1 +1,0 @@
-emitting constant sound note interruption fixed duration easy dynamic duration easy

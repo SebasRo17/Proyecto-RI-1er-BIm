@@ -1,1 +1,0 @@
-following command regionplot log p p p p c mathematica gave following error message regionplot boolf log p p must boolean function idea log p p boolean function look like innocent inequality work regionplot note simplified inequality involve c original version contain c

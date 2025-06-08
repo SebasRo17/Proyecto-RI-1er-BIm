@@ -1,1 +1,0 @@
-I am analyzing time series data using the `ContinousWaveletTransform` function and plotting the results with `WaveletScalogram`. I would like to plot the cone of influence on top of the `WaveletScalogram` plot. Is there a relatively simple and general way to calculate and plot the cone of influence? (note - using the default `MexicanHatWavelet`)

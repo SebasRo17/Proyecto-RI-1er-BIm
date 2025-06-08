@@ -1,1 +1,0 @@
-mathematica ubuntu render font poorly text readable make hard concentrate programming since smoothing ubuntu low dpi screen good either turned using font friendly without smoothing e g courier new mathematica completely ignores fact smoothes anyway proprietary way seems different way ubuntu smoothes smoothing system wide enabled option modify disable behavior

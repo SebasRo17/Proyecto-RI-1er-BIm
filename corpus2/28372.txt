@@ -1,1 +1,0 @@
-I am trying to conjugate a symbolic expression, and I have explicitly stated the real terms. However, I simply can't get it to work:               Conjugate[      ComplexExpand[       I Cos[z] Sin[y] + Sin[z] +         A (Cos[z] - I Sin[y] Sin[z]), {z \[Element] Reals,         A \[Element] Reals, y \[Element] Reals}]]      What am I doing wrong here?

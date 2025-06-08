@@ -1,1 +1,0 @@
-How can I define a style with `FontSize` from **Section** and `CellFrame` from **Program**?

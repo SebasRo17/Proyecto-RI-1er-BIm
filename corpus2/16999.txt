@@ -1,1 +1,0 @@
-I am relatively new to _Mathematica_ , and I would like to know how I could use it to represent an Argument Map, such as those that you generate on online tools such as http://debategraph.org. The goal is to test an algorithm on a Argument-Map-like data structure. I think this should not be too difficult as they are nothing else but simple graphs with vertex/edge labeling.

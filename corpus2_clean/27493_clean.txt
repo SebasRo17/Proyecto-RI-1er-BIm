@@ -1,1 +1,0 @@
-want paste image surface plot example consider image want paste surface sphere contourplot x z x z mesh best way edit clarification main objective make globe find general way use arbitrary image surface choose map sphere example popular one texture good option find difficulty use contourplot plot make point clear would request show example image following surface plot ab x x

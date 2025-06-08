@@ -1,1 +1,0 @@
-Say I want to convert some number $N$ to base $k$. Here, I might use the command `BaseForm[N,`k]`, e.g.,`BaseForm[10,`2]` which gives the output 1010[2] (where [2] is subscript). How can I drop the subscript and manipulate the number as if it is a normal integer in decimal form? I'd ideally like to do this without any string processing?

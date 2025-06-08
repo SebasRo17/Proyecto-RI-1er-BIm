@@ -1,1 +1,0 @@
-I have a user defined function h[i_,j_] and I would like to find its minimum value over all integers $1 \leq i \leq 100$ and $1 \leq j \leq 100$ and $j \leq i$. I would just like Mathematica to try all the possibilities rather than attempt any symbolic minimization. How can you do that?

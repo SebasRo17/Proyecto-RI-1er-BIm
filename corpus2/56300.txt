@@ -1,1 +1,0 @@
-I want to apply a function to every element of a list without taking braces into account (depth level), but with the same form of output. Here is an example :               {a,b,{c,d},{{e}}} -> {f[a],f[b],{f[c],f[d]},{{f[e]}}}      It would be the same as applying the function to `Flatten[data]`, but keeping the depth as is. Let me know if I am not precise enough.

@@ -1,1 +1,0 @@
-Here is my SSCCE:               a[1] = 2; a[2] = 3; a[3] = 6; Histogram[a]      This throws and error though. Here are my questions:   1. What kind of data type is a? Is it an Array? a List? So far as I can tell it's neither.    2. How do I get the above to work?

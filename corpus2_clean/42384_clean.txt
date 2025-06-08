@@ -1,1 +1,0 @@
-plot default frame tick plot sin x x frame true ax false enter image description define range well step separation left frame tick plot sin x x frame true frameticks range automatic automatic automatic ax false get following output enter image description well two obvious issue first shown cpu accuracy moreover tick number decimal digit get

@@ -1,1 +1,0 @@
-listpointplot seems point style available default plotmarkers option function way change point style example want draw point small cube

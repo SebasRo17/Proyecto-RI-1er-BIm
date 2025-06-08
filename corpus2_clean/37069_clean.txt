@@ -1,1 +1,0 @@
-example characteristicpolynomial x x x plot characteristicpolynomial x x give error

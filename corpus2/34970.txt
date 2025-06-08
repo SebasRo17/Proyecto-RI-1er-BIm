@@ -1,1 +1,0 @@
-With Mavericks, everything works fine except saving documents -- then I get this error: > Internal self test error MacDialog | c | 2 Fixes? Ideas? Any help appreciated.

@@ -1,1 +1,0 @@
-I want to solve this equation with `NDSolve[]` using the Euler method:               x'[t] == 0.5*x[t]-0.04*(x[t])^2      with initial condition and step size               x[0] == 1, h == 1       and final time = 10. I also don't know how to make a table including `x'[t]` and `x[t]` and time.

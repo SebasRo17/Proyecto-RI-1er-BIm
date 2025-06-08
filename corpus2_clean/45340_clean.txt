@@ -1,1 +1,0 @@
-given function f x x plot f x region f x x without solving inequality f x

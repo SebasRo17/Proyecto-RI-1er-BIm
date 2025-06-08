@@ -1,1 +1,0 @@
-following issue find solution far nlm nonlinearmodelfit transpose x b x c b c x maxiterations piecewise nlm max nlm max max plot narrow segment plot note see plot inconsistency lead badly inconsistency calculation tried set accuracy precision initial data parameter piecewise function workingprecision result anyone know solve

@@ -1,1 +1,0 @@
-Does Mathematica have any function to resolve a Unix symlink (recursively, if necessary) to its real path?

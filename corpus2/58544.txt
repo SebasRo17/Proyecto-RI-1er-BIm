@@ -1,1 +1,0 @@
-I want to connect an interface from National Instruments to Mathematica in mac, i already download the driver Ni-DAQmx_Base_3.6 from NI page. How to tell Mathematica to dump data from the interface?

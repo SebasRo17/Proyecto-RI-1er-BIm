@@ -1,1 +1,0 @@
-I want to get symbolic expression for BesselJ derivative, where BesselJ is represented as series:               D[Sum[((-1)^k/(Gamma[k + ν + 1] k!)) (z/2)^(2 k + ν), {k, 0, Infinity}], z]      but I get following:               1/2 (BesselJ[-1 + ν, z] - BesselJ[1 + ν, z])      How to get derivative of this series in explicit form?`

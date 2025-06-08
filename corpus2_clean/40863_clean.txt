@@ -1,1 +1,0 @@
-matrix called r element depend parameter g would like plot matrix change g see graph change used code manipulate listplot r g however nothing happens determine parameter g plot listplot r use manipulate cannot plot suggestion thank advance

@@ -1,1 +1,0 @@
-When I evaluate the Mertens function to infinity:               NSum[MoebiusMu[k], {k, 1, \[Infinity]}]      I get -1, but I expected to get -2. I wanted to modify the function thus:               Unprotect[MoebiusMu];       MoebiusMu[1] := -1       Protect[MoebiusMu];        in order to get -2. But that gives me -3. So, why does `NSum` return -1.?

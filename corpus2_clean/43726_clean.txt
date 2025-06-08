@@ -1,1 +1,0 @@
-basic example yet describe problem large system coupled first order ode output one solution becomes ic next ndsolve case equation except various coefficient get updated according pre existing list solve sequence time trick try speed process something compile perhaps suggestion would hugely appreciated

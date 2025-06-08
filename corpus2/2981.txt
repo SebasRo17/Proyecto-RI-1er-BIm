@@ -1,1 +1,0 @@
-Normally the Z axis is plotted from bottom-to-top as shown below : ![normal z-axis running bottom-to-top](http://i.stack.imgur.com/lnoQ0.jpg) I got a plot with the axis ( **axes** to be more precise) reversed as shown below:![enter image description here](http://i.stack.imgur.com/mqQmh.jpg) Is there a way to **force the axes to be plotted top-to-bottom**? Thanks!

@@ -1,1 +1,0 @@
-I have to rearrange graph described by               j = {1 -> 2, 2 -> 3, 3 -> 1};      appling some function to all vertices on the right so rearrange[j] output should give me               {1 -> f[2], 2 -> f[3], 3 -> f[1]}      I guess I can use ReplaceAll, but can't guess how.

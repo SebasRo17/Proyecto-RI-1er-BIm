@@ -1,1 +1,0 @@
-Mathematica cannot seem to properly number citations when there are several citations to the same reference. Is there some trick to make this work?

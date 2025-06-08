@@ -1,1 +1,0 @@
-trying make legend plot actually made one cannot understand big space legend position graphic legend graphic capform none red thickness line graphic capform none blue thickness line b graphic capform none green thickness line c legendtextspace result wrong legend

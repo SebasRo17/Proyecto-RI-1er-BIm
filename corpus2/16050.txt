@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Why doesn’t PatternTest work with Composition? I'd like my function to only evaluate when the argument is a list of pairs. It seems like `Repeated` and a question mark should work:               fourPears[argument_?MatchQ[#, {{_, _} ..}] &]      but it does not. What's wrong with this?

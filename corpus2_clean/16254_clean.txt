@@ -1,1 +1,0 @@
-need calculate following singular integral nintegrate log co pi however failing converge tried specify maxrecursion precisiongoal exclusion neither helped one calculate singular integral mathematica

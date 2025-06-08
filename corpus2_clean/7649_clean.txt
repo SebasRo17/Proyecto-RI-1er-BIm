@@ -1,1 +1,0 @@
-let say matrix mathbf polynomially dependent single variable want find individual matrix mathbf mathbf mathbf mathbf mathbf ldots use multiple variable also specify certain symbol treated manner e g c constant matrix would c ideally applicable vector tensor also

@@ -1,1 +1,0 @@
-This is probably a rather basic question and I presume I am simply unable to make proper use of the `Options[]` function: I am trying to figure out what the default font (or `FontFamily`, I guess) is for `PlotLabel`. I tried e.g. `Options[PlotLabel, FontFamily]` and some variations, but to no avail. Many thanks.

@@ -1,1 +1,0 @@
-How I can build a palette of matrices?. So, I would like a palette with a 3x3 square matrix, a square matrix 4x4, 1x3 row matrix, 1x4 matrix row, column matrix 3x1 and 4x1 column matrix.

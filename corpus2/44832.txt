@@ -1,1 +1,0 @@
-The definite integral template takes 4 arguments as can be seen here: ![enter image description here](http://i.stack.imgur.com/pKK5Z.png) Is it possible to make a function that can be called in the same kind of way? For example is it possible to make this call a function foo, like so: ![enter image description here](http://i.stack.imgur.com/Bifxi.png)

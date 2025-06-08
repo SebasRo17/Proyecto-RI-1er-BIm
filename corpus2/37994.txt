@@ -1,1 +1,0 @@
-Is it possible to export an interactive (in terms of mouse clicks) _Mathematica_ manipulation / animation as an interactive swf file, including converted actionscript? I realise this is probably not possible from inside _Mathematica_ , but just wondering if there was a 3rd part program that did it?

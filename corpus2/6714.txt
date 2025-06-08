@@ -1,1 +1,0 @@
-I'm trying to use `WeatherData[]` to give me (not sure how) the temperature, humidity, wind-speed, cloud cover... at a certain location. I only want the information for weekdays (e.g. Monday-Friday) for the last 83 years. How do I make a list of all these dates in a format (`DateList` or `DateString`) that `WeatherData[]` can use?

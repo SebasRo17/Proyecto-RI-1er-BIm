@@ -1,1 +1,0 @@
-want program always save text file unix style lf line break even mathematica run window way built export command work depends operating system example following code testfile newlinetest txt teststringlist abc abc export testfile teststringlist list binaryreadlist testfile linux mac o give exactly want window add extra cr symbol normal way save text file unix style newline window

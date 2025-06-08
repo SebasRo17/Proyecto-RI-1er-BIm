@@ -1,1 +1,0 @@
-`Run["program"]` will run an external program and return the return code. `Import["!program", "String"]` will run the program and return the output as a string. How can I get both the output and the return code? I need a cross platform solution. It would be nice (but not strictly necessary) to get stderr too. Do we need J/Link to achieve this?

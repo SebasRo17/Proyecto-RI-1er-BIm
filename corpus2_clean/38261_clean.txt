@@ -1,1 +1,0 @@
-maybe bug maybe infix act differently function fact treeform infix f x tostring infix f x crash kernel use mathematica maybe case infix behaves strangely anybody explain happens

@@ -1,1 +1,0 @@
-two image used create scatter plot image x axis image axis color plot point bin count

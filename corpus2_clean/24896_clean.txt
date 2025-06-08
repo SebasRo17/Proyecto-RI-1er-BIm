@@ -1,1 +1,0 @@
-solved equation using findroot computed value print output get certain precision copy past individual number say first two row get increase precision visible output eyeball

@@ -1,1 +1,0 @@
-introduce package listed package without adding contextpath note question concerned defining package evaluating code e g evaluating cell rather loading package file useful want add capability without introducing new bare symbol way live context must referenced explicit context unless user add context back context path

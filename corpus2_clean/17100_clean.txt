@@ -1,1 +1,0 @@
-simple functional programming question simple edgelist defined mathematica would like modify value certain element list based condition see define conditional know scan edgelist modify element return another edgelist could someone show simple example accomplish mathematica

@@ -1,1 +1,0 @@
-want plot output response state space model use stateresponse calculate plot run code face message ndsolve mxst maximum number step reached point even use ndsolve command solve equation code answer u kk stateresponse ssmmodelc unitstep possible increase number step stateresponse

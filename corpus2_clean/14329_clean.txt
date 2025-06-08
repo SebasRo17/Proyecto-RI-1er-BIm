@@ -1,1 +1,0 @@
-file look like want import change decimal point convert right head manipulate like number attempt work data apply stringreplace import file data

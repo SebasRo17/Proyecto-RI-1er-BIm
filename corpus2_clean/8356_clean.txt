@@ -1,1 +1,0 @@
-anyone created winbugs bayesian inference using gibbs sampling interface mathematica similar bugsxla excel like setup model define evidence notebook analyze result mcmc markov chain monte carlo run

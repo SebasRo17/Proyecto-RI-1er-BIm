@@ -1,1 +1,0 @@
-would like make stacked barchart bar variable width like rectanglechart however rectanglechart accept chartlayout stacked way anyone workaround example rectanglechart bar different width enter image description stacked barchart bar decomposed two component enter image description would like make stacked rectanglechart variable width bar decomposed component

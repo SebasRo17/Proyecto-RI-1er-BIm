@@ -1,1 +1,0 @@
-Given a pair of strings, I'd like to return a list of all common subwords of a fixed length of "n" characters (i.e. contiguous subwords of length "n" that occur in both strings), allowing for overlaps. Is there a built-in or close- to-built-in way to do this in Mathematica?

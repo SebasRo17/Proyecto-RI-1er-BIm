@@ -1,1 +1,0 @@
-I want to get a file once and only once at the start of a coding session. Then, whenever I save the file in the Wolfram Workbench, have it be gotten automatically. How can I construct such a utility?

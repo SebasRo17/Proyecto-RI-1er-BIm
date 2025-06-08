@@ -1,1 +1,0 @@
-I'm having problems with getting coordinates out ofa `ListLogLogPlot` I basically plotted a list, then selected data points on the graph, moved these points around, and now I need to get the coordinates of the moved points. Any ideas? ![http://i.stack.imgur.com/5fhai.png](http://i.stack.imgur.com/S4wGH.png) ![enter image description here](http://i.stack.imgur.com/bQ2I9.png)

@@ -1,1 +1,0 @@
-I have a matrix containing on each position a pair of numbers $(a,b)$. I would like to compute the norm of each vector $(a,b)$ and keep the result in form of a matrix. So basically, I need to apply the function `Norm` elementwise to a matrix of vectors. How could I do that?

@@ -1,1 +1,0 @@
-ask mathematica find eigenvectors eigenvalue matrix mat b c b e c e f assuming b c e f eigenvalue mat assuming b c e f eigenvectors mat return stuff like root c b c e e b f f b c e f f f root c b c e e b f f b c e f f f root c b c e e b f f b c e f f f ask wolfram alpha enter image description wrong mathematica

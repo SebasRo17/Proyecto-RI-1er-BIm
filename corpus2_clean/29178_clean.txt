@@ -1,1 +1,0 @@
-would like implement recurrence relation polynomial u n x appearing large order asymptotics bessel function recurrence question u n x frac x x u n prime x frac int x u n dt u x saw implementation recursion polynomial one involves integration differentiation idea thank much advance

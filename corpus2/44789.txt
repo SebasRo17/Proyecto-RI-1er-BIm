@@ -1,1 +1,0 @@
-How can I put a chart legend inside a bar chart? I tried `Placed[ ... ,{Right,Top}]`, but it didn't work. It works for `Plot`. However, it doesn't work for `BarChart`.

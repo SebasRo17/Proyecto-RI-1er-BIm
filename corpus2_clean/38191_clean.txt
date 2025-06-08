@@ -1,1 +1,0 @@
-following code show error message findfit nrlnum function value n list real number dimension b findfit x b b x tried method work

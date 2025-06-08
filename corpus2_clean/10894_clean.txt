@@ -1,1 +1,0 @@
-possible calculate segment length segment diameter branch angle three dimensional geometry geometry contains vertex point polygon surface file import file graphic enter image description data import file vertexdata polysurface import file polygondata graphic point data

@@ -1,1 +1,0 @@
-There are four different cubes in an .obj file. After loaded into Mathematica, is it possible to assign four random colors to the cubes?                (* assuming the .obj file was loaded in the c: root *)      cubes = Import["c:\\4cubes.obj"] ;      Graphics3D[  First[cubes]  ]      ![enter image description here](http://i.stack.imgur.com/GaVST.gif)

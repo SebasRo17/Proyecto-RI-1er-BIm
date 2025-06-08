@@ -1,1 +1,0 @@
-I have a very simple example of a second order PDE:               eqn = D[u[x, y], x, y] + u[x, y] == 0;     sol = DSolve[eqn, u, {x, y}]      and _Mathematica_ cannot solve it! What is wrong!?

@@ -1,1 +1,0 @@
-polygon applying geometrictransform want get coordinate transformed polygon graphic g work show nicely normal g seem work wrong g geometrictransformation polygon

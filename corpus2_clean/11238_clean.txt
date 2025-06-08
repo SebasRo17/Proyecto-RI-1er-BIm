@@ -1,1 +1,0 @@
-polyhedrondata structure wonderfully rich would like create data polyhedron many mathematica provides possible need every property would like function way e g polyhedrondata mypolyhedron vertexcoordinates would return list vertex coordinate etc hack mypolyhedrondata would prefer use polyhedrondata possible thanks idea

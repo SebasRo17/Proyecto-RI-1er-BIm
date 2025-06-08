@@ -1,1 +1,0 @@
-list using partition map get partition would like get list look like tried play around partition map manage create list course easy way using loop appendto much need avoid loop anybody see way create list

@@ -1,1 +1,0 @@
-following listplot listplot filling axis fillingstyle thickness black labelstyle directive frame true plot problem line point thin change thickness propperly fillingstyle thickness black seems correct

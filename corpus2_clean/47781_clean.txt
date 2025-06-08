@@ -1,1 +1,0 @@
-trying calculate lim beta infty tanh left beta right mathrm sgn left right mathbb r mathrm sgn left right sign function problem mathematica evaluates integral something different assuming element real limit tanh beta beta infinity clearly true negative value overlooking something really obvious bug

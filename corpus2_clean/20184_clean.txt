@@ -1,1 +1,0 @@
-say want convert number n base k might use command baseform n k e g baseform give output subscript drop subscript manipulate number normal integer decimal form ideally like without string processing

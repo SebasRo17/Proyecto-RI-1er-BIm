@@ -1,1 +1,0 @@
-I have one question I've been trying for a while but I can't get the result for my equation.. So I've been trying hard but I can calculate only by hand but the problem is that I am afraid to miss any combination.. So lets get to my equation x*y*z=180 x,y,z should be from [1-10] so which combinations are possible ? Thanks in advance have a great day

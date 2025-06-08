@@ -1,1 +1,0 @@
-Can you please tell me how to plot $\sqrt{r}$ in 3d sph polar plot? In the spherical plot 3d there is no option I can put variable r. So how should I proceed.

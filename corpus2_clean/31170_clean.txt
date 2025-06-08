@@ -1,1 +1,0 @@
-eps file created using gle nothing wrong file g view read correctly however use mathematica read using import dcl eps return failed particular eps file found eps file want read eps file rasterize thus reducing size using mathematica v win xp idea mathematica cannot read file

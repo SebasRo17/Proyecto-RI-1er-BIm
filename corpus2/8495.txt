@@ -1,1 +1,0 @@
-I would like to know if someone has tried to link Mathematica with ITK code (call ITK code in Mathematica)?

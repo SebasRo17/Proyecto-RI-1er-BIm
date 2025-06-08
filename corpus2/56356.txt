@@ -1,1 +1,0 @@
-A function is defined as `f[x_]=Sqrt[1-x^2]`. How can I determine the fixed point of f? I've tried this: `FixedPoint[Sqrt[1-x^2],0]` But it only keeps running. So, help please.

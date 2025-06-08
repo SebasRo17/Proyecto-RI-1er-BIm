@@ -1,1 +1,0 @@
-following code plot cx p cx p axeslabel cx p val basestyle fontweight bold fontsize give following plot enter image description z axis label overlap z axis number prevent overlap label number axis

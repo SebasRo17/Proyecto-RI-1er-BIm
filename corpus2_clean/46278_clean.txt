@@ -1,1 +1,0 @@
-let g arbitrary graph number vertex v number edge e use subgraph generate well subgraph g vertex desire however use patt option subgraph method grab set n vertex greatest degree g word make list sort vertexdegree g select vertex subgraph starting right hand side output list working way left

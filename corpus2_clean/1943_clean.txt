@@ -1,1 +1,0 @@
-default keyboard shortcut window least switching focus next window ctrl f switching previous window shift ctrl f change ctrl tab shift ctrl tab respectively pair combination used default

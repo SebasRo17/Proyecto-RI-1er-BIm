@@ -1,1 +1,0 @@
-For example, the non-differentiable point of the function $f(x)=|x|$ is at $x=0$.   How to find the non-differentiable points of a continuous function that is defined numerically?

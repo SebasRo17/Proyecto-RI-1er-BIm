@@ -1,1 +1,0 @@
-mathematica script take hour run want able open another notebook running computation enough many core computer possible issue need configure running several notebook script parallel

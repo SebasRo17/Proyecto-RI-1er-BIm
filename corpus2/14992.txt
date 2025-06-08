@@ -1,1 +1,0 @@
-I use CutePDF for creating PDF output, but this requires manually selecting Print (Ctrl+P), with CutePDF Writer as the printer, and pressing OK. Can this be automated?

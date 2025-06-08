@@ -1,1 +1,0 @@
-large expression containing many term like sin arctan log log sin arctan log log trig function invoked rational multiple inverse trig function want expand trig function term turn sqrt sqrt log log sqrt sqrt log log tedious manually convert term looking function able automatically could help

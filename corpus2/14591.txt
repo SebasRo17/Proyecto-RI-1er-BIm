@@ -1,1 +1,0 @@
-How can I write my _Mathematica_ code so that it resumes at a specific place if any `Message` is displayed during the execution of an expression? For example, in Visual Basic for Applications there's `on error resume next`, or `on error goto`. I'd like also to be able to log the issue in a list so I can reproduce and correct the problem later.

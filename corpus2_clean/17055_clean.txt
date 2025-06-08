@@ -1,1 +1,0 @@
-reading michael trott visualization riemann surface algebraic function parametricplot r co r sin sqrt r sin surfacecolor hue r plotpoints boxed false ax false would coloring mathematica

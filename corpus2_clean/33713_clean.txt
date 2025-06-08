@@ -1,1 +1,0 @@
-trying make legend simple plot mathematica seem recognise command plotlegends declared beforehand need plotlegends get message need nocont context plotlegends created need evaluated also tried install pakage manually going file install experienced mathematica answer dummy appreciated

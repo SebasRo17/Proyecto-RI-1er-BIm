@@ -1,1 +1,0 @@
-pretty new mathematica need figure create n time n tridiagonal matrix n slightest clue begin edit got far sure set nxn sparsearray band x band band z matrixform

@@ -1,1 +1,0 @@
-Let `s` be a positive integer and let `DifferenceDelta` be this function with `step = 1`. Define `DifferenceDelta^s` to be an operator that applies `DifferenceDelta` `s`-times to any function `f[x]`. What _Mathematica_ syntax will give me the result of `(1 + DifferenceDelta)^s f[x]`? It seems that _Mathematica_ does not support operations with "pure" operators.

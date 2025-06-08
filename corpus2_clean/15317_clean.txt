@@ -1,1 +1,0 @@
-trigexpand tan x give frac sin x co co x co sin x sin frac co x sin co x co sin x sin expected frac tan x tan tan x tan evaluating trigexpand argument tan x tan x also return result term sine cosine get result term tangent

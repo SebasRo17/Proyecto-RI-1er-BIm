@@ -1,1 +1,0 @@
-anyone know get total intensity certain frequency range audio file let say audio file frequency range hz khz want extract total intensity every hz intensity hz hz etc

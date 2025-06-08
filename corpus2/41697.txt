@@ -1,1 +1,0 @@
-As I understand the input to the NormFunction is a list of residuals. Is there a way to get parameter values into the NormFunction as well? I ran into a problem where the norm depends on the values of parameters that are being fitted.

@@ -1,1 +1,0 @@
-creating non empty object use following syntax exportstring key value json key value create empty object run exportstring json produce empty array p empty object json

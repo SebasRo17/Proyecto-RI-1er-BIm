@@ -1,1 +1,0 @@
-string manipulation take dive character beyond ffff used e g mathematical alphanumeric symbol character display fine string manipulation unpredictable tocharactercode actually u c stringlength compare python len u characterencoding unicode characterencoding utf help way set string encoding properly

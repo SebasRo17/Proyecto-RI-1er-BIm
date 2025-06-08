@@ -1,1 +1,0 @@
-trying build button create new document contained dynamicaly changing table parent notebook using another kernel usual local problem created document using createdocument command kernel us seems locked local giving result error enybody know created document use kernel parent notebook thanks advance

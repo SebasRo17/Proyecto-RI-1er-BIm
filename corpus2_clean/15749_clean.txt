@@ -1,1 +1,0 @@
-trying reproduce api function written r accepts arbitrary number argument handle way would handle single argument list different data set mathematica idiom allows function defined f arg arg argn behaves f arg arg argn

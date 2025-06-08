@@ -1,1 +1,0 @@
-I have a function $\psi(r,\theta,\phi=\phi_0)$ with $\phi_0\in \Re$, $r\in[0,R]$ with $R\in \Re$, and $\theta \in [0,\pi]$ (spherical polar coordinates) and I want to plot it in Mathematica. I guess the proper way to do that is in polar coordinates, but how do I do that? The function is: $$\psi(r,\theta,\phi=0)=r^2e^{-r}\cos \theta $$

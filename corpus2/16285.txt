@@ -1,1 +1,0 @@
-I have a Voronoi Diagram (VoronoiDiagram/DiagramPlot) in Mathematica - and I need to export it to something I can import into ArcGIS. I'll settle for any sort of data/vector-based (non-raster) format. Obviously a BMP isn't going to work - I need the actual vector data.

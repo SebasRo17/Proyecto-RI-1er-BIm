@@ -1,1 +1,0 @@
-I wrote a small code and deployed into `CDF`.                 CDFDeploy[SystemDialogInput["FileSave"], Style["This is my name"],WindowSize -> {100, 100}]      The `String`(This is my name) shows in double quotes ,whenever we have to open `CDF`. ![enter image description here](http://i.stack.imgur.com/F7HTR.png) How can I remove that double quotes in `CDF`?

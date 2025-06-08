@@ -1,1 +1,0 @@
-How can I get a ternary density plot just like the plots from OriginLab? ![enter image description here](http://i.stack.imgur.com/Rhgn6.png) `ContourPlot` and `DensityPlot` seemingly can solve the `[f,{x},{y}]`-style，but cannot solve the `[f,{x},{y},{z}]`-style

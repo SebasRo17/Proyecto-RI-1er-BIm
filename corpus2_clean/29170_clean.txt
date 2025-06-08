@@ -1,1 +1,0 @@
-execute line data table j j data table j j opts imagesize automatic basestyle fontsize imagepadding bothplots row arrayplot data opts arrayplot data opts get following picture enter image description space plot data frame x array much smaller space plot data frame x matrix possibility avoide set space manually

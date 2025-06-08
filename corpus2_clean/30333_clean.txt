@@ -1,1 +1,0 @@
-bug fixed version fairly simple time complex matrix left begin array ccc frac frac frac frac frac frac frac frac end array right solving eigenvalue eigenvectors mat vals vecs eigensystem mat give mathematica begin array ccc left frac frac right end array nd eigenvector right bug incredibly obtuse

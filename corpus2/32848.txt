@@ -1,1 +1,0 @@
-I was wondering if there's a way to tell Mathematica to use the option `Appearance -> "Labeled"` for all `Manipulate` commands by default. I use this option quite often and it would be very convenient if I could set it to be the default behaviour

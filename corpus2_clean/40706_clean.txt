@@ -1,1 +1,0 @@
-want distribute range number logarithmically distributed mathematica

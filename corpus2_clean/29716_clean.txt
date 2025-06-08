@@ -1,1 +1,0 @@
-mysum p list imin module printouput imax imax imin length p printouput imin imax printouput printouput tostring traditionalform centerdot tostring part p imin traditionalform print printouput sum part p imin imin imax p mysum p code would like one separate line would also like remove first output look exactly like cdot frac cdot frac cdot cdot frac frac

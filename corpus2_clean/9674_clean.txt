@@ -1,1 +1,0 @@
-example plot sin x would get look like log plot sin x another log plot sin x flipped upside placed underneath first one way plot logarithmic distance x axis show positive negative value

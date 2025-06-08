@@ -1,1 +1,0 @@
-let suppose table take biggest element use max function want take maximum element also index element element table function help take indes element know value element

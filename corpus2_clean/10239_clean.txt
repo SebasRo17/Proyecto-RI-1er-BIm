@@ -1,1 +1,0 @@
-assume defined following function ff x x x would like apply ff list input xx xa xb xc yy ya yb yc order input following syntax mapthread ff xx yy output get first element function xa ya xb yb xc yc wrong

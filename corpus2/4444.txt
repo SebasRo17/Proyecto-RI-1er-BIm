@@ -1,1 +1,0 @@
-I need to create a plot for export and inclusion in a report. Is there a better way to label curves than `PlotLegends`? From what I've read and my personal experience, `PlotLegends` is pretty bad. Is there a better package for legends, or, ideally, a simply way to place small text next to each curve?

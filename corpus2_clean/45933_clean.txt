@@ -1,1 +1,0 @@
-want solve pde equation like schrodinger equation using finite difference mathematica understand code listcorrelate subscript h n u subscript u n anyone help mean role subscript u n

@@ -1,1 +1,0 @@
-trying define function f take list real purpose build function give list real integer string build appropriate probability distribution like something like f sample real makerealdist sample f sample integer makeinteger sample f sample string makecategoricaldist sample easily match real integer string part figure match list real integer string

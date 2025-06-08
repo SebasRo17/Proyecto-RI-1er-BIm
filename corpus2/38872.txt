@@ -1,1 +1,0 @@
-I would like to have 4 output fields for something like the following:               Manipulate[     n*x     n/x     n + x     n - x,     {n, 1, 10}, {x, 1, 10}, ControlType -> InputField]      but this just outputs all 4 calculations combined.

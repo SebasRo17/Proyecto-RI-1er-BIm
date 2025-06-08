@@ -1,1 +1,0 @@
-Is there a way to split an external file using Mathematica? (Other than importing it, dividing it internally and exporting the parts) For instance like some File Split utility do.

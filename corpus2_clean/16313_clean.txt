@@ -1,1 +1,0 @@
-following trigonometric system equation solved numerically sys co theta sin phi h co phi sin theta co theta sin phi co psi h co phi sin theta sin psi co phi psi co phi sin psi nsolve return solution even waiting long time nsolve n sys phi h theta theta psi

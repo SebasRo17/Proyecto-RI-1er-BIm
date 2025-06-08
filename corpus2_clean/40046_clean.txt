@@ -1,1 +1,0 @@
-suppose following list called list list contains element x x x x list x x x x would like function operates list give following output list x x x x x x simple way accomplish thread mapthread inner like feel like simple lot trouble coming simple solution far able come rather complicated solution transpose table length list x x x x x x

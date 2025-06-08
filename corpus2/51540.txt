@@ -1,1 +1,0 @@
-After executing MessageDialog[] how can I wait for it to close before continuing? I want to popup up a message and wait for the user to hit OK before continuing. Is there a mechanism for this?

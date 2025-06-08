@@ -1,1 +1,0 @@
-real symmetric matrix h symbolic form need matrix p diagonalize h also p orthogonal column eigenvectors h mathematica sample matrix h u u u u matrixform

@@ -1,1 +1,0 @@
-I have a set of points P that are evenly spaced on a square grid of length 1... I would like to map these points to the circle of radius 1 as nicely as possible, while preserving relative positions as much as possible. That is, the points in the square grid should map to the points in the unit circle. How can this be done in Mathematica?

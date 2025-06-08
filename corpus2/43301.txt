@@ -1,1 +1,0 @@
-From all I can see there seems to be no difference between "Wolfram Language" and regular Mathematica. Is Wolfram just a marketing rebranding of Mathematica or is there a new capability I am missing?

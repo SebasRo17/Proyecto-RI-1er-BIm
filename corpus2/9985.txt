@@ -1,1 +1,0 @@
-This works:               Manipulate[Plot[2*x + 3*y, {x, 3, 4}], {y, 3, 4}]      But this doesn't               f=2*x + 3*y     Manipulate[Plot[f, {x, 3, 4}], {y, 3, 4}]      My "f" is a painful long expression so I'd rather be able to get the latter method to work than work with the former.

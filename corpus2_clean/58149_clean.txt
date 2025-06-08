@@ -1,1 +1,0 @@
-need solve fredholm integral equation second kind f integrate f k kernel k besselj besselj ab struveh struveh ab real imaginary unit tried solve method described integral equation numerical solution ndsolve best algorithm case come across far take age end produce result due memory insufficiency could anyone please help solve

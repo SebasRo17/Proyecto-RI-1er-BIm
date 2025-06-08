@@ -1,1 +1,0 @@
-Trying to delete small elements from a list with               copy = DeleteCases[copy, {y_} /; y <= 1500.0 ]       but it does not work.

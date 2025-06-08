@@ -1,1 +1,0 @@
-using singularvaluedecomposition least square regression instruction work fine need singularvaluedecomposition x length singularvaluelist x way thing without calling singularvaluelist suppose similar computation done two time singularvaluedecomposition singularvaluelist

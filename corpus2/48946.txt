@@ -1,1 +1,0 @@
-I wish to know how do I count the number of occurrences of numbers that end in digits d. e.g. Say I create a list of Divisors of 12! I now want to count those divisors that end in 12. Like 12 & 112 would qualify but 120 would not. Thanks.

@@ -1,1 +1,0 @@
-generate list string list assigned variable eg convert var var var var compvar var var var var variable assigned compvarstr var var var var using tostring obviously convert variable assignment string e g compvarstr tostring compvar give unassigned variable name string e g var var var var apology duplicate bit look nothing seemed answer

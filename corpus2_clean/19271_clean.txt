@@ -1,1 +1,0 @@
-whenever make plot using max min function get break plot switch one expression max min eliminate break get one continuous surface particular example want make work parametricplot r co r sin max r co max r sin pi r mesh none boxed false ax none produce surface showing break plot possible reproduce effect simpler expression like plot max x x checked occurs mathematica window linux

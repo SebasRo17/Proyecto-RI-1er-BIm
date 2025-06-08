@@ -1,1 +1,0 @@
-The following is the 3D grid to visualize the lattice QCD simulations. Please help me, how to plot this fig. employing Mathematica. ![lattice QCD visualization figure](http://i.stack.imgur.com/TYA7S.jpg) Thank you very much.

@@ -1,1 +1,0 @@
-After I input the following:               data = Table[{3 + i + RandomReal[{-3, 7}],      i + RandomReal[{-2, 5}]}, {i, 1, 20}];          model = LinearModelFit[data, x, x]      I got something weird:               (*   FittedModel[-1.65238+<<19>>x]     *)      Does anyone know what `<<19>>x` means?

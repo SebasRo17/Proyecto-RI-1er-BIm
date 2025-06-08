@@ -1,1 +1,0 @@
-I am wondering how I can link a button to the play button shown if you expand "Show Animation Control", So something like,               Manipulate[x, {x, 0, 1}, Row[{Button["Play", ImageSize -> 80]}]]      But where pushing the button "plays" x

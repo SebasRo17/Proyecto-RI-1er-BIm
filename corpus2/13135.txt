@@ -1,1 +1,0 @@
-Which packages do you know of, that have the following properties:   * using custom notation (for input AND output would be preferable)    * well coded & designed (from your subjective perspective!)

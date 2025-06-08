@@ -1,1 +1,0 @@
-I usually use my OS with negative colors (to keep my eyes calm...). I had seen a function called `MouseAppearence` that changes the cursor. I would like configure _Mathematica_ to use another cursors on all notebook area. I need this because when I turn the color to negative the cursor disappears. This would be very useful to me. Someone knows how can I do this?

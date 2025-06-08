@@ -1,1 +1,0 @@
-receiving many error message using nintegrate nonlinearmodelfit much simplified version code arrives correct answer several message saying stopping integration real version fitting beta distribution situation similar complicated clearly getting best fit data cnet x b c nintegrate b c u u x print cnet print cnet print cnet print cnet chop nonlinearmodelfit data cnet x b c b c x

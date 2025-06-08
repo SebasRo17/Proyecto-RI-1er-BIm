@@ -1,1 +1,0 @@
-I have a problem like this, I am given the following sets `{a,b,c}, {d,e,f}, {h,i,j}`. I want to pick one element from each set, and output a list of all the possibilities. The output will be a set of sets, all which have the length `3`. I have tried many different approaches now.

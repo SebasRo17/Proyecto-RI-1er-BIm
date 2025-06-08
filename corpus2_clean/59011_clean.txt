@@ -1,1 +1,0 @@
-image trying pad transparent border get error specified padding value compatible channel image data table p image rawarray byte data byte rule colorspace automatic rule interleaving true imagepad p transparent error mean solve update test documentation figure padding transparent work even automatic color space enter image description

@@ -1,1 +1,0 @@
-use mathematica obtain approximate value area curve x axis interval subintervals using left endpoint midpoint right endpoint approximation note entire calculation need shown mathematica tried b n ln b f n sum f b n n leftsum f b n b n sum f b n n f x xleft n leftsum f

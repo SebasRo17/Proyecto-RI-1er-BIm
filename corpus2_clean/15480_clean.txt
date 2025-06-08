@@ -1,1 +1,0 @@
-say two list list b c list x z want map function f produce f x f f z f b x f b f b z f c x f c f c would assume map function first list produce list function run nd list something like map map f list list figure leave empty nd map kick separate generate combination argument

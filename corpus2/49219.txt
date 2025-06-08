@@ -1,1 +1,0 @@
-How can I find the range of the parameter `a` such that the improper integral               Integrate[(x^(a - 1))/(1 + x), {x, 0, ∞}]      converges?

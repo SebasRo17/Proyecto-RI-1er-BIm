@@ -1,1 +1,0 @@
-Since I am visualizing my work using Mathematica, I import some 3D models of molecules to my notebook. So, the question is, is there any way to modify somehow that imported models inside Mathematica to, for example, label bonds' length? Currently I use .mol2 format, but maybe some others formats provide that ability? Or can Mathematica process that models to `Graphics3D`? Thanks.

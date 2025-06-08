@@ -1,1 +1,0 @@
-I am able to do a permutation counr for the set `{a, a, b}` which gives me 3 groups. I am happy with that result. However, if the set is `{a, a, b, c, c, d}`, _Mathematica_ gives me all the possible groups, but it is difficult to count the number of groups. Can _Mathematica_ find the total number of groups? If so, which function to do I use?

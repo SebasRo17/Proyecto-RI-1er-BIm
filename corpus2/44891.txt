@@ -1,1 +1,0 @@
-I'm extremely new to Mathematica. I want to import 201 .dcm (DICOM) files into Mathematica 9. Is there a way to do this which doesn't require my doing it an image at a time? My ultimate need to is to then create a 3D image from these files. Can anyone help? Thanks

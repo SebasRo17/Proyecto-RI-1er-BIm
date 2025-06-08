@@ -1,1 +1,0 @@
-My goal is to draw a family (for different distances) of _3-ellipse_ for equilateral set of foci. _3-ellipse_ definition is: > "the locus of points so that sum of the distances to the three foci is > constant" Eventually I want to generalize this to **k-ellipse**. Thanks for your help I am bloked.

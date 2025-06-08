@@ -1,1 +1,0 @@
-r rotationmatrix x z compute rotation matrix axis angle representation given rotation matrix r compute x z example r result degree x z equivalent edit fine answer give r applied rotationmatrix p sorry tag wrong found matching tag

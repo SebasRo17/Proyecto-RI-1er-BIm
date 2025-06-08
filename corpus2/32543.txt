@@ -1,1 +1,0 @@
-What's a simple way to plot a list of points so that they're joined with stair steps instead of straight lines between the points? I'd imagine something like...               stairStepListPlot[{{0,0},{1,1},{2,2}}]      ...would produce a flat line from {0,0} to {1,0}, then a vertical line from {1,0} to {1,1} and so on. Can you find a concise way of producing such a plot?

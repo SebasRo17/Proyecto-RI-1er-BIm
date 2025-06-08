@@ -1,1 +1,0 @@
-Starting with the equation $$y^{\prime\prime}x^2={y^\prime}^2$$ I could only get the general solution using `DSolve`:               DSolve[{y''[x] x^2 == y'[x]^2}, y[x], x]     (* {{y[x] -> -(x/C[1]) + C[2] - Log[1 - x C[1]]/C[1]^2}} *)      However, I failed to get the singular solutions `y[x] -> x^2/2 + C[1]` and `y[x] -> C[1]`. So, how can I get them?

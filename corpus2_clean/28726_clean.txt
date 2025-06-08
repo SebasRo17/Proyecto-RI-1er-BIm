@@ -1,1 +1,0 @@
-wondering way could change value key press shift ctrl etc normally nothing pressed currentvalue return false hope might able change value true sort controller example would great could use check box tell mathematica shift depressed understand unlikely value protected probably fairly low level change intuitively would say done hoping chance would possible

@@ -1,1 +1,0 @@
-f e following square matrix x want keep first last row column replace number written n length first x table x j n j n x matrixform enter image description tried find functional solution f e replacement pattern gave unsuccesful attempt thanks showing alternative

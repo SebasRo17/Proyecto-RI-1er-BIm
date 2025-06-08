@@ -1,1 +1,0 @@
-trying solve ode two independent variable cannon firing cliff incorporating wind resistance dependent velocity tried following x component ndsolve x x x co x x assuming algebra correct properly phrase input give x

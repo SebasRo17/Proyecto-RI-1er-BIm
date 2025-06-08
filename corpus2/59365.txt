@@ -1,1 +1,0 @@
-Consider this example:               Complement[{a, y, c, d, e}, {a, c}, {d}]     (*{e, y}*)      I was expecting the result to be               (*{y,e}*)      why Complement reorder the resulted list? Any idea how to get the desired results using Complement? Thanks.

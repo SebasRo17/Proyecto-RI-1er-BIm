@@ -1,1 +1,0 @@
-two list data plotting two listlineplots would like two plot appear perpendicular graphic tried using modification answer question quite new mathematica trouble converting code work way implement method data list rather function variable

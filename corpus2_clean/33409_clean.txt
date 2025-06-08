@@ -1,1 +1,0 @@
-following problem used graphplot plot adjacency matrix divided node three group b c would like color node conditioning belonging group blue b red c grey example node distributed three group follows b c want color node blue one b red one c grey course x adjacency matrix use graphplot plot graph thank

@@ -1,1 +1,0 @@
-suppose want compute series sin f f infinity finally prefer sin f fourth order f first idea use function work f valid variable second idea use firstly f eps eps work well note also many reason series sin f f infinity solution

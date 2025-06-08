@@ -1,1 +1,0 @@
-want set zero offset axis like plotrangepadding also x axis mean dont want white offset left e right e axis frame range use normal plot dont get x axis offset least positive direction thought set zero offset frame origin would solve axis enter image description r r loglinearplot evaluate table r r plotrangepadding none plotrange filling axis frame true

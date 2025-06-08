@@ -1,1 +1,0 @@
-data given plot data listplot function give visualization bar plot want customize color bar plot need plot two color one side bar another top surface bar set color function achieve finaldata listplot finaldata filling bottom rotationaction clip axeslabel x z plotrange

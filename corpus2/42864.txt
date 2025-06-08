@@ -1,1 +1,0 @@
-I dont know how to go ahead with this The problem statement is "Make a piecewise linear function maker that accepts lists of points as input and has a piecewise linear function as the output". Lets say for example I have a data sect {1,1,1,0,0,1,1}.

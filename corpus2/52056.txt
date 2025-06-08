@@ -1,1 +1,0 @@
-Every planar graph has a dual. How can I obtain it with _Mathematica_? I know that `GraphData` provides the `DualGraph` property for its named graphs, but I have found no method for computing the dual of an arbitrary (non-named) graph. Even _Combinatorica_ seems to lack it.

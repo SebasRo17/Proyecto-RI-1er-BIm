@@ -1,1 +1,0 @@
-just trying to label a hyperlink, using an example right from the documentation....               StatusArea[      Hyperlink["Wolfram Research, Inc.", "http://www.wolfram.com"],      "Makers of Mathematica"]      This should display "Makers of Mathematica" in the status area, but displays the URL instead. Am I missing something here...? I'm using Mathematica 9 on a Mac. Tom

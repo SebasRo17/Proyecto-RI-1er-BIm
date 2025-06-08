@@ -1,1 +1,0 @@
-I have a series of frequencies of values, e.g. 5 times 1, 10 times 2 and 5 times 3, as in               list={{1,5},{2,10},{3,5}}      and I would like to convert this to long notation as in               list2={1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3}      what is the most elegant way to do this in Mathematica?

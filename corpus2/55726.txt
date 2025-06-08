@@ -1,1 +1,0 @@
-I believe I have come across a rather curious bug in `TreeForm`:               {"foo", "bar", "Plot"} // TreeForm      ![enter image description here](http://i.stack.imgur.com/tWLuC.png) Note that the string `"Plot"` is formatted as `True`. Unless I have accidentally changed something in my configuration this must be a bug. I am using version 10.0.0 under Windows.

@@ -1,1 +1,0 @@
-like function whether built given symbol whether bound value return string giving context name symbol example f return global example f developer maxmachineinteger return developer maxmachineinteger

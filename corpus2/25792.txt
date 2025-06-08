@@ -1,1 +1,0 @@
-I need to analyze very large datasets, and they obviously don't fit in a computer memory. I need to produce some statistics on these datasets, and this brings me here: How can I make some statistical analysis on **distributed** datasets? I imagine _Mathematica_ may split (hopefully _automagically_ ) data over many kernels, being local or remote. Anyone had any experience?

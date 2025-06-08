@@ -1,1 +1,0 @@
-executing plot plot x x plotlabel plot setdirectory notebookdirectory export plot pdf plot pdf result distorted font bug o window bit

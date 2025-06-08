@@ -1,1 +1,0 @@
-define function work like f x computesomething x treat x variable value could call function localset computation done assignment made following example var localset f var normal series exp var var downvalues f holdpattern f var var var var var notice want limited pattern variable x function called localset figure symbol used pattern evalute right side variable block construct

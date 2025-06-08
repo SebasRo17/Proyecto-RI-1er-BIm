@@ -1,1 +1,0 @@
-many function usuallly involving integration take generateconditions option often default false least expectation fourier transform related function situation default changed pro con

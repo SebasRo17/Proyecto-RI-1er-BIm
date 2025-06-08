@@ -1,1 +1,0 @@
-In this answer, what does the `: Hold[$IterationLimit]` part of the following construct do?               cfRemainders[x_, iter_: Hold[$IterationLimit]]

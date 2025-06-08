@@ -1,1 +1,0 @@
-consider example locatorpane dynamic pt plot sin x x epilog pointsize large point dynamic pt plotlabel dynamic pt appearance none trying add tooltip pt without success thing got using tooltip point like tooltip point dynamic pt show word point also solution use tooltip point pt thanks

@@ -1,1 +1,0 @@
-Given a list of latitude and longitudes say               {{32.6123, -117.041}, {40.6973, -111.9}, {34.0276, -118.046},       {40.8231, -111.986}, {34.0446, -117.94}, {33.7389, -118.024}}      how can I find the area enclosed by the polygon formed by these points. In other words, how can I implement the 3D convex hull (surface area) on a set of lat-long pairs?

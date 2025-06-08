@@ -1,1 +1,0 @@
-I want to print the expression $A[x] = 8020.6596 \times 1.055^x$ as is on a 2D graphic. I included the line               Graphics[Text[HoldForm[A[x] = 8020.6596 \[Times] 1.055^x],{2,0}]]      in the graphics call, but the first constant insists on printing as $8020.66$. How can I fix this problem?

@@ -1,1 +1,0 @@
-trouble using nminimize mathematica memory consumption overflow nminimize command function minimize mathematica give acceptable result bug anyone else similar issue workarounds

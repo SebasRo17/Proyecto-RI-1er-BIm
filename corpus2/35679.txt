@@ -1,1 +1,0 @@
-The `!True` returns `False` but how can I negate a boolean vector such as `{True, False, True}`? The exclamanation mark does not work here like this `!{True,False,True}`.

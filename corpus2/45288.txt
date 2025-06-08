@@ -1,1 +1,0 @@
-When using `CreatePalette[]`, the palette created always shows up on the upper left corner. Is there a way to make it show up at the center of the screen, just like what `CreateDialog[]` does?

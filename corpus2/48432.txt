@@ -1,1 +1,0 @@
-I need a behaviour provided by:               x = 2;     Block[{x = HoldForm[x]}, x]      > >     x >   `FrontEnd` marks this syntax as not quite correct. > ![enter image description here](http://i.stack.imgur.com/WViV3.png) It has not caused me any troubles so far so my question is: **could it be a problem?**

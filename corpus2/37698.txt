@@ -1,1 +1,0 @@
-The surface show below is very beautiful; however, I don't know its function either as an implicit function or in parametric form. Anyone have an idea about it and how to draw it with _Mathematica_? ![Beautiful surface](http://i.stack.imgur.com/LXGS9.png)

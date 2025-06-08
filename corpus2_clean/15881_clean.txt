@@ -1,1 +1,0 @@
-trying graphically represent error riemann sum current code look like show discreteplot log extentsize left plotmarkers point plot log output code would know like plot curve linear triangle plot ln x represents error riemann sum

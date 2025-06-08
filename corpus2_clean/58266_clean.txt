@@ -1,1 +1,0 @@
-simple diffusion equation point source c initial condition c elsewhere apply dsolve ndsolve solve equation tried specifying initial condition like ic c x c x c derivative c fails suggestion diff c x c x x ic c x c x c derivative c ndsolve diff ic c x x plot c x x

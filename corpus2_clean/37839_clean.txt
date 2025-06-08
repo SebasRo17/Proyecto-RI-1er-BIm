@@ -1,1 +1,0 @@
-simple equation x want know integer combination x yield solution want store various solution x input another equation x z end want list z value tell mathematica tried one x x array solve one x x one

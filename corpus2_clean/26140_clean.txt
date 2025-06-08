@@ -1,1 +1,0 @@
-difficulty resizing stream plot using locator whenever try resize stream plot one locator instead move cursor manipulate streamplot q x p x p p q x q x q q q p x p p q q x q q x plotrange p locator q locator q q rectify behaviour

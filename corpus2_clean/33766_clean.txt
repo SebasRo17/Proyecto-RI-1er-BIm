@@ -1,1 +1,0 @@
-plot mathematica version frac pi sin x frac pi sin x cdots frac n pi sin n x x pi pi n tried got error enter image description

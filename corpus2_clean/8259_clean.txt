@@ -1,1 +1,0 @@
-slider following code affecting plot without using manipulate module z f slider dynamic dynamic slider dynamic z dynamic z slider dynamic t dynamic t tf z transferfunctionmodel z f outputresponse tf z unitstep plot f plotrange

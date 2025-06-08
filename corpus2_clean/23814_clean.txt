@@ -1,1 +1,0 @@
-recently started using mathematica calculator teaching definitely overkill try use tool possible would like student able trace simple numerical calculation example enter b c x b c would like automagically generate x even could x way addition found seems rather good job b c clearall global b c x b c need automate suggestion

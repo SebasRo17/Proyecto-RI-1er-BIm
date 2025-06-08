@@ -1,1 +1,0 @@
-trying solve ode frac partial partial tau c n tau c tau n tau frac q c frac c e q tau left frac q c c right parameter c c c q would like evaluate later set problem follows assumption element q real q element c real c element const real element c real neqn tau q c const exp q tau c q c eqn tau c neqn tau c tau sol dsolve eqn tau tau giving tau

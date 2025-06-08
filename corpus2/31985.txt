@@ -1,1 +1,0 @@
-I'm new to _Mathematica_ and I spent the last hour trying to make the expression               expression =        3 + 2 cos[t] + 3 cos[2t] + 5 cos[3t] + 7 cos[4t] + 9 sin[t] +  4 sin[3t] + 5 sin[4t]      into a function of `t`. I tried               f[t_] := expression      but it didn't work.

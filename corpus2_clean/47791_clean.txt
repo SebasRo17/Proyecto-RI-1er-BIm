@@ -1,1 +1,0 @@
-mathematica notebook performs operation say b c set output file evaluation named using value like naming automatically take value assigned b c

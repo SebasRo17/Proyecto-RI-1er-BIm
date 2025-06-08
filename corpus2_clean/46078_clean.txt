@@ -1,1 +1,0 @@
-plotting hemisphere radius height sphericalplot radius boxratios height radius using boxratios flatten hemisphere height possible manually write show z axis value visible range radius

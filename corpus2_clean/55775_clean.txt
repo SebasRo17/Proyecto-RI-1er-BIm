@@ -1,1 +1,0 @@
-recently updated one pc exact build mathematica running exact notebook two findminimum call one mathematica take second converge whereas old version take second quite difference question anything changed implementation findminimum default setting would cause checked workingprecision changed mma clue minimal example checked code question got issue

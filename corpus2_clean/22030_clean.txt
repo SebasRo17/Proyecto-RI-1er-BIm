@@ -1,1 +1,0 @@
-want able find low complexity algebraic approximants decimal number example approximated solution polynomial x mathematica function rootapproximant seems like able approximation however get work rootapproximant n sqrt return sqrt correctly rootapproximant prefers approximate presumably need tell lower accuracy aiming option called degreecost passed work use achieve goal

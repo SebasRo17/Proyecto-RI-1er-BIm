@@ -1,1 +1,0 @@
-two list age score want find correlation people people score blank example data age score simply use deletecases remove score list change length cannot correlate two list different length suggestion

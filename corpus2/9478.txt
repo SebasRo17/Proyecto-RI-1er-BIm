@@ -1,1 +1,0 @@
-Can I insert a button in an image at specified location? I have tried but it shows Button is not a graphic function.

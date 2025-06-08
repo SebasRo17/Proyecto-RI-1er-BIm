@@ -1,1 +1,0 @@
-I have a matrix a `n` columns and `m` lines. I'd like to efficiently remove the lines that are not entirely composed of numeric values, lines like this:               {6.22926,6.23254,6.23128,,6.23453,6.22548,6.22938,6.23443,}      In this case the last element. The matrix is quite big, I have no clue what an efficient method would be.

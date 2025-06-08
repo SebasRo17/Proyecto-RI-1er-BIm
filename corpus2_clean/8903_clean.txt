@@ -1,1 +1,0 @@
-generate type sequence f n x x f n x hspace mm f x e x evaluate numerical value x number

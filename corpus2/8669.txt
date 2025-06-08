@@ -1,1 +1,0 @@
-I want to get a function as output form DSolve. For Example :               sol = DSolve[{Q''[t] + 40 Q'[t] + 625 Q[t] == 100*Cos[10*t], Q[0] == 0, Q'[0] == 0}, Q[t], t]      I want to use Q[t] as a function to use in an another equation.

@@ -1,1 +1,0 @@
-I have a notebook where evaluation of a certain cell produced hundreds of adjacent output cells using `Print`. I need to create a list containing all expressions from those output cells as elements, and assign the list to a variable **without re-running the evaluation**. Could you suggest a way to automate this process to avoid manually copying all expressions?

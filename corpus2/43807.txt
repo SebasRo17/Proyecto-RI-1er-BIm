@@ -1,1 +1,0 @@
-I am the admin of a Facebook group for our year at university and wanted to graph the members of the group like you can with your own friends so we can find the isolated people and get rid of them (as they are spamming). I have tried treating the page as an ID but don't really know how to proceed. Is this possible?

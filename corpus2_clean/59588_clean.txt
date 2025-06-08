@@ -1,1 +1,0 @@
-listplot custom axis label scrolling manipulate issue axis label scroll away plot scrolled command reproduce problem thanks edmund ticklabels lv lv lv lv lv lv lv lv lv lv manipulate listplot table j randomreal j window window axeslabel x value tick automatic ticklabels window window automatic window

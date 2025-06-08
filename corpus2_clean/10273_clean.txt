@@ -1,1 +1,0 @@
-list point want get smooth interpolation curve fit illustration point first second derivative start end point agree listinterpolation pt interpolationorder periodicinterpolation true even first derivative agree

@@ -1,1 +1,0 @@
-I am using a `For` loop for printing five `InputFields`. The loop gets its values from the variable tx. I want to compare the values dynamically with 10 and print the result. But, the comparison is going out of loop, why?               tx = {4, 1, 6, 7, 8};     Reap[For[i = 1, i <= 5, i++,         Sow[ {InputField[tx[[i]]],Dynamic[If[(tx[[i]] < 10), "right", "wrong"]]}]]]

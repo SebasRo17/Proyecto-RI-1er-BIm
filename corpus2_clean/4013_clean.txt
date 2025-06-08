@@ -1,1 +1,0 @@
-list list range say range range want obtain following output nth element list nth element range n basically range length list general question would create list th index list b k th index list b would tried mapthread trying use histogram function needed nice list

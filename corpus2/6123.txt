@@ -1,1 +1,0 @@
-My sytem is: 8.0 for Mac OS X x86 (64-bit) (October 5, 2011) When I start Mathematica and call               FormatValues[MakeExpression]        I get the following output: ![Mathematica graphics](http://i.stack.imgur.com/bbRo9.png) The message says: ![Mathematica graphics](http://i.stack.imgur.com/c5m7j.png) Where does it come from and what is a RefBox?

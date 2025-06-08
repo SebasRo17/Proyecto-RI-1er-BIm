@@ -1,1 +1,0 @@
-I am using `LocatorPane` with `LocatorAutoCreate -> True`. **I would like to have the appearance of each new locator be different**. Ideally I would like to use a dot with a numeric superscript that would be incremented as they where created, but just using the incremented number as the locator would be good too. Is this possible?

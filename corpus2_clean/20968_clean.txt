@@ -1,1 +1,0 @@
-change background color cell like enter image description colored cell become slightly indented line spacing increased change cell background color keeping cell layout element fixed

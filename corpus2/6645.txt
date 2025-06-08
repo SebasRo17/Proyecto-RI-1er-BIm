@@ -1,1 +1,0 @@
-I am consuming a webservice through NETLink that returns data directly in the response as a gzipped csv file. I can successfully process the data like this:               binz=response@data     BinaryWrite["tmp.csv.gz", binz]     Close["tmp.csv.gz"]     Import["tmp.csv.gz", "CSV"]      However, I am curious if there is a more direct way to achieve this? Thanks for any advice.

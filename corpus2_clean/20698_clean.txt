@@ -1,1 +1,0 @@
-following two list containing element sample li li equal length want combine list obtain new list look like element combined list contains corresponding element li li first three element li fourth element li combine fashion transpose li li b c b c faster way achieve list huge

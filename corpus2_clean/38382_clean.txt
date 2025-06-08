@@ -1,1 +1,0 @@
-using mathematica ubuntu tried first example documentation page return unevaluated need differentialequations ndsolveproblems need differentialequations ndsolveutilities ndsolve implicitrungekuttagausscoefficients ndsolve implicitrungekuttagausscoefficients problem

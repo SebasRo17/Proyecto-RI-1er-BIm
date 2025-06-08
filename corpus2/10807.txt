@@ -1,1 +1,0 @@
-I am trying to solve this equation: $$\beta^{-a} \Gamma(a) \sin(a \pi) + e^\beta \beta^{2 a - 1} \Gamma(1 - a) \sin(a \pi) = 0$$ I tried the following:               Solve[β^-a Gamma[a] Sin[a π] + E^β β^(2 a - 1) Gamma[1 - a] Sin[a π] == 0, {a, β}]      However this is not working. Can you help me?

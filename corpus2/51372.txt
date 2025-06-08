@@ -1,1 +1,0 @@
-I'm confused about the differences among various Wolfram products. In particular what is the relationship among Mathematica, Mathematica Online, Wolfram Programming Cloud, and Wolfram Desktop? Are the latter things I get access to through Mathematica (as I do with Alpha)?

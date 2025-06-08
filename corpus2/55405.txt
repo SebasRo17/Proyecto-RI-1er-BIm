@@ -1,1 +1,0 @@
-I occasionally get the error > The front end encountered an error while processing a "NotebookPredictions" > packet. I cannot find any documentation for this error message online. It does not seem to affect anything however, so is there a way to prevent this message from ever showing up?

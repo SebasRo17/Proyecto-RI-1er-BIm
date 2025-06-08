@@ -1,1 +1,0 @@
-let n prime q positive integer given polynomial f x r mathbb z x x n want find another polynomial f q x r q mathbb z q x x n f x f q x pmod q want mathematica tell whether inverse polynomial f q x exists find f q x example n q cited wikipedia entry ntruencrypt f x x x x x x x f q x x x x x x x x x x x

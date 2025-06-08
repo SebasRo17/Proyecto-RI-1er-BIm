@@ -1,1 +1,0 @@
-see mathematica limited support thing like opencl cuda standard like openmp openacc

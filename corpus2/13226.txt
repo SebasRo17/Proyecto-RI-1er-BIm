@@ -1,1 +1,0 @@
-I'd like to get exactly 5 divisions from _x_ to _y_ on a log scale. Can `FindDivisions` do this?

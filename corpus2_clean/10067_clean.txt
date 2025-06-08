@@ -1,1 +1,0 @@
-need function take expression return pure function based symbol expression symbol might value must protected evaluation probably easiest give example would like evaluate something like x extractpurefunction sin pi x obtain function x sin pi x sin pi idea

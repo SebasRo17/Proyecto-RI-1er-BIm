@@ -1,1 +1,0 @@
-easy way display automatically frameticks bottom top boxwhiskerchart currently showing number bottom data table randomvariate normaldistribution boxwhiskerchart data barorigin left chartlabels data aspectratio gridlines automatic none frameticks none none automatic automatic enter image description

@@ -1,1 +1,0 @@
-know mathematica functional programming style often efficient procedural style programming using loop code shown seems exception explain del l k delete l list range k length l k max r range max length r r del r timing r range max r del r length r timing r fold del range max range max timing r r r null null null true

@@ -1,1 +1,0 @@
-interpolated function f interpolation data would like calculate limit limit f h f h h get error

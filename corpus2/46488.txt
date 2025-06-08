@@ -1,1 +1,0 @@
-I am trying to find all roots in a range, using               y /. FindRoot[Sin[y] == 0, {y, #}] & /@ Range[7]      which gives               {0., 3.14159, 3.14159, 3.14159, 9.42478, 6.28319, 6.28319}      but I would like to get               {0., 3.14159, 6.28319}      What am I doing wrong?

@@ -1,1 +1,0 @@
-Please help. Trying to find area between three curves, `e^-x, x = 2, y = 1`. Can't find out how to plot `x = 2`. Don't want to use `Epilogue` unless it can shade the area enclosed by the three curves.

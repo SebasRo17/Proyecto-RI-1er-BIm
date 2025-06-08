@@ -1,1 +1,0 @@
-Is there any way of generating a density plot (or something similar) with one of its axes on a log scale? Essentially I'm trying to combine a `LogLinearPlot` and a normal `Plot` on two different variables to create the associated density plot. If this can't be done directly, what would be the best work-around?

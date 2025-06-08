@@ -1,1 +1,0 @@
-How does one plot Venn diagrams with Mathematica? I've searched quite a bit and I've found one source at MathWorld which provides the source code for doing them. But I don't understand this code, can someone help me?

@@ -1,1 +1,0 @@
-use mathematica pythonika run python code inside quite sure cause issue unicode python object look like instead e extra symbol letter thus string truncated length remains pythonika page author mentioned unicode supported although well tested anyone experienced possible workarounds

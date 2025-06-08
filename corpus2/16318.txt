@@ -1,1 +1,0 @@
-I was using `Needs["PlotLegends"]` By chance I removed `ShowLegend` by `Remove[ShowLegend]` How do I get back this function without restarting the kernel? Applying `Needs["PlotLegends"]` again seems not to help.

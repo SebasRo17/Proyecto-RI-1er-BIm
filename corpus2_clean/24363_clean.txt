@@ -1,1 +1,0 @@
-imported picture mathematica used name follow easy scheme name string joined integer ranging printing image screen work nicely print toexpression stringjoin name tostring however applying operation like colornegate colorreplace instead print result neither output error message possible process several image

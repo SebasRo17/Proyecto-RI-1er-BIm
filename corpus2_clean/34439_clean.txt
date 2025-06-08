@@ -1,1 +1,0 @@
-integrate x airyai x x integrate x airyai x x integrate x airyai x x gamma gamma need generalize parameterize integral sometimes get closed form result case like considered bug tell kind generalization may help particular case know trick besides replacing constant parameter

@@ -1,1 +1,0 @@
-Emitting a constant sound or note (no interruptions) for a fixed duration is easy, but a dynamic duration, not so easy.

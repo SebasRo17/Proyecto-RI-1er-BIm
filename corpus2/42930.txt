@@ -1,1 +1,0 @@
-Could someone please explain why the `___` pattern matches the first but not the second case?               MatchQ[Sum[1/2 (-kx^2 - ky^2) n^2, kx, ky], Sum[s___, kx, ky]]     MatchQ[Sum[E^(1/2 (-kx^2 - ky^2) n^2), kx, ky], Sum[s___, kx, ky]]

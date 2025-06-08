@@ -1,1 +1,0 @@
-Solve returns a solution in the form `{{x->y/a^2 + y^2/a^7}}`. Since I want to process the input (with another program) in terms of Laurent polynomials, I would like an output like `{{x->y a^-2 + y^2 a^-7}}`. Is this kind of output format possible? Edit: I would prefer a string "x=ya^-2 + y^2a^-7" (or something that could be parsed to this easily)

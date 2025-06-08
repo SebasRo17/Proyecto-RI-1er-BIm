@@ -1,1 +1,0 @@
-best way draw path red color dashed along surface smoothhistogram assume path desired x ax data smoothhistogram data enter image description

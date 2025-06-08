@@ -1,1 +1,0 @@
-How to disable rounding up the radius which is used to calculate the origin of the polar axes with the option `PolarAxesOrigin`? Example:               PolarPlot[Sqrt[n], {n, 0, 20}, PolarAxes -> True,     PolarAxesOrigin -> {0, 7}, PolarTicks -> {"Degrees", Automatic}]      ![polar plot](http://i.stack.imgur.com/5Dc3f.png) It rounds `7` to `8`, `13` to `15` and `521` to `600`.

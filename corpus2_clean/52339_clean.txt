@@ -1,1 +1,0 @@
-limit expr x subscript x direction computes limit x approach subscript x smaller value limit expr x subscript x direction computes limit x approach subscript x larger value confusing though x x approaching xo smaller value word left hand side would one therefore use left hand side right hand side see logic

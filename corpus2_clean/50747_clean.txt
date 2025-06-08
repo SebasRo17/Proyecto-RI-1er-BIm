@@ -1,1 +1,0 @@
-getting white solid instead solid texture sure wrong regionplot c plotpoints plotstyle directive texture exampledata texture brick solid defined c c c c c c c c

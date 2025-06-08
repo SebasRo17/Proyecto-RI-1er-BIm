@@ -1,1 +1,0 @@
-I thought `Riffle` would generalize such that               Riffle[{a,b,c},{1,2,3},{x,y,z}]      would return               {a,1,x,b,2,y,c,3,z}      It turns out that's not the case. What's the easiest way to do a multi-list riffle?

@@ -1,1 +1,0 @@
-tried plot exp x x colorfunction colordata temperaturemap plotlegends automatic attempt add colorbar legend plot work work densityplot exp x x colorfunction sunsetcolors plotlegends automatic suggestion get work first bit code thanks

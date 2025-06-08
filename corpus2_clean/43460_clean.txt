@@ -1,1 +1,0 @@
-let given complex number z satisfying condition z sqrt want find complex number z modul obtain least greatest value tried put z x z sqrt x sqrt therefore x used maximize x x x x minimize x x x x dont know use command ab x find modul x tell mathematica get result x x sqrt

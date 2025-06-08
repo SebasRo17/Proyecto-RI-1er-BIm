@@ -1,1 +1,0 @@
-How can I get the style such as Input, Text, Code, etc., of a selected cell? If a group of cells is selected, how can I get styles of all the cells in the group?

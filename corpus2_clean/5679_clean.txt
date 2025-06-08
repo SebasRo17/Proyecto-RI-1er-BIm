@@ -1,1 +1,0 @@
-facing following problem f x x u b x v ask mathematica calculate g x integrate expand f x correctly show expansion expression like integrate x u x b x u v v b x v output want replace integrate u etc using job anyone please enlighten

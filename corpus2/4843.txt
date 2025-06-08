@@ -1,1 +1,0 @@
-How to find all vertices reachable from a given start vertex following directed edges, in a cyclic directed graph given as               Graph[{v1, v2, ...},            {v1 -> v11, v1 -> v12, ..., v2 -> v21, v2 -> v21, ..., vn -> vn1, vn -> vn2, ...}]      where all the ending vertices of edges `vij` are in the list of vertices `{v1, v2, ...}`. ?

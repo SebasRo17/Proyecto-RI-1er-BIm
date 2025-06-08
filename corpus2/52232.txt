@@ -1,1 +1,0 @@
-I need to do some really easy in **WolfarmAlpha online**. I want to to plot `2x` for {`1` to `3`} and x^2 for {`3` to `5`}. I tried multiple combinations, none of them gave me what I want. The following input did not work either.               Plot[(2*x),{x, 1, 3}], Plot[(x^2),{x, 3, 5}]

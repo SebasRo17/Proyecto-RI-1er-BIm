@@ -1,1 +1,0 @@
-documentation simplify expr say performs sequence algebraic transformation expr return simplest form find see transformation applies

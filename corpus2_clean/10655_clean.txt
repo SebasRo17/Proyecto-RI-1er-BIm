@@ -1,1 +1,0 @@
-sqlconnections sqlconnection db closed sqlconnection db closed sqlconnection db open catalog db readonly true case sqlconnections sqlconnection open work match one open connection expression

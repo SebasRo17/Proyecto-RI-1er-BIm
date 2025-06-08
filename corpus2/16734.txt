@@ -1,1 +1,0 @@
-A friend of mine showed me this code sample:               RSolve[{a[n] == a[n - 5] + 1, Sequence @@ Table[a[i] == 1, {i, 5}]}, a[n], n] // Timing      It's solved by version 7 in about 40s, while in version 8 it keeps running for more than 10 minutes… is it a bug?

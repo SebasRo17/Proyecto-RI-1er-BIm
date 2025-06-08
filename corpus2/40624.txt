@@ -1,1 +1,0 @@
-Say I have two polynomials in $\mathbb{R}[X,Y,Z]$, whose intersection of zero loci correspond to a curve in the 3D space. What is the best way to plot the curve? ## Example: $$ f = X^2+Y^2-Z^2, \qquad g = 2X^3+Y^3-Z $$ I want to plot the curve given by $$ \begin{cases} &X^2+Y^2=Z^2 \\\\\\\ &2X^3+Y^3=Z \end{cases} $$

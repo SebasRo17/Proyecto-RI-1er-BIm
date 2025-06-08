@@ -1,1 +1,0 @@
-I have been trying to solve the integral equation below, but cant seem to find a way out of this. Can someone please help me out with suggestion? $f(t)=\int_0^{\infty}\frac{K_1a(t)}{a(t)+K_2}\,dt$ where $K_1$ and $K_2$ are some constants and $a(t) = \frac{Q}{(4\pi Nt)^{3/2}}*\exp(-x^2/(4Nt))$. Thank you so much

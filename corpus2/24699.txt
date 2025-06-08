@@ -1,1 +1,0 @@
-I tried the following but it basically returns unevaluated:               In[1]:= D[ArcTan[x], {x, n}]     Out[1]= Derivative[n][ArcTan][x]          In[2]:= FunctionExpand[Derivative[n][ArcTan][x], Element[n, Integers] && n > 0]     Out[2]= Derivative[n][ArcTan][x]      Is it possible to request Mathematica to expand it as a function of two variables `x, n`?

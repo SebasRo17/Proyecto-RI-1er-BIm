@@ -1,1 +1,0 @@
-label coordinate plotted graph want label coordinate plot sin x x pi pi plotstyle dashing thickness tick pi pi pi filling axis epilog pointsize point fillingstyle yellow background lightgray

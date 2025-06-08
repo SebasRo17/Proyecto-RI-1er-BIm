@@ -1,1 +1,0 @@
-I'm new to Mathematica so I don't know very well the program itself. I would like to manipulate as he does this person in youtube: http://www.youtube.com/watch?v=fCJHvQaGNiQ But I put all the information but nothing happens, I don't know if there are some changes from Mathematica 6 vs. the Mathematica 9. Thanks a lot!

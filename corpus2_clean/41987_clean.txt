@@ -1,1 +1,0 @@
-consider following limit limit sqrt x sqrt x x assumption mathematica give correct answer notice limit trivial compute numerator denominator vanish x therefore l hopital rule required remove assumption limit sqrt x sqrt x x mathematica give incorrect general although correct last result bug missing something

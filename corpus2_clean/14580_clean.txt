@@ -1,1 +1,0 @@
-sparsearray band band n n x b sparsearray band band band n n x r sparsearray band n n pde v r b r r v constructed matrix b r get mathematica solve single matrix need replace equation tried code failed need every element matrix multiplied respective scalar

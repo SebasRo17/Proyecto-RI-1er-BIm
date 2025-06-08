@@ -1,1 +1,0 @@
-task something like prependto evaluate table x sin x x pi tried also skipping evaluate get prependto rvalue error table x sin x x pi b prependto b everything work fine want part big code one line without defining first list separately would speed program need first list second one store deal problem edit case make join table x sin x x pi maybe better solution

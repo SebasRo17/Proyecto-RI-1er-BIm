@@ -1,1 +1,0 @@
-something like inverse powerexpand pull power outside expression x leadsto x x leadsto x happy assume x positive real see algebraic command would even right assumption

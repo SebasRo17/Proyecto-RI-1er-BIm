@@ -1,1 +1,0 @@
-I have done a time-consuming run and calculation. After many hours ( about 7 hours!), the black color which shows that the cell is evaluating, turn into gray and a strange text appears like this :               (Dialog) Input[157]:= (* my code in the cell *)      Does anyone know what it is and why this is happening ?!

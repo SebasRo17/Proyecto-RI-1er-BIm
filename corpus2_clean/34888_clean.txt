@@ -1,1 +1,0 @@
-surface plot x f x x f predefined curve c parametricplot g g f g g g g predefined c therefore curve surface want show object together use show c animate trajectory described curve c surface

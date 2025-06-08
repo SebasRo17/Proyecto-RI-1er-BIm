@@ -1,1 +1,0 @@
-try run mathematica grid since first time working cluster plan run job pb file bin sh pb q express module load math mathematica echo started mathematica pi echo ended exit got always error open display anyone know file pi look like n pi pi result txt quit

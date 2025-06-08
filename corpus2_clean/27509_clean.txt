@@ -1,1 +1,0 @@
-set data kind x z randomly chosen point x z supposed smooth function x unfortunately turn point stick local extremum want find remove data set problem x chosen randomly cannot choose nearest neighbor comparison easily method find nearest neighbor given list even directly find local maximum random grid

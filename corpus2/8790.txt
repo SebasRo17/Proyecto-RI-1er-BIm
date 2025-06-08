@@ -1,1 +1,0 @@
-Is there a built in method to de-list singleton expressions, like this rule- based solution:               expr_ :>  If[Length[expr] == 1, First@expr, expr]      In data analysis, this comes in handy to normalize the output of `Cases`, since a single exact match will be wrapped in a list, but wrapping that in `First` would break no-match cases and non-singleton lists.

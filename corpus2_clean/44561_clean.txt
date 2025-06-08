@@ -1,1 +1,0 @@
-issue came across applying one well known version euler maclaurin formula try realize mathematica go wrong code nintegrate cot x csc x x floor x x yield could give hand understand going

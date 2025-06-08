@@ -1,1 +1,0 @@
-using gate geant simulating photon beam interacting matter dose distribution gate output data analyze format wondering whether exists function mathematica could read file format display data worth matlab analyze read purpose comment soon deleted access moment mathematica installation file case anyone would like play

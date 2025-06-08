@@ -1,1 +1,0 @@
-I am trying to export a simple cuboid into .SVG format. In the output file, the cuboid is finely meshed, which increases the file size. How to remove this detailed mesh?                Export[FileNameJoin[{NotebookDirectory[], "trial.svg"}], Graphics3D[Cuboid[]]]      ![enter image description here](http://i.stack.imgur.com/UHBws.png)

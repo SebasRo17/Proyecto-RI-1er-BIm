@@ -1,1 +1,0 @@
-matrix real entry machineprecision compute eigenvectors construct matrix u ev eigenvectors u transpose ev u supposed orthogonal matrix thus transpose u u identitymatrix length u mathematica give latter equality accuracy transpose u u identitymatrix length u ab max possible make difference smaller let say order need get eigenvectors orthonormal accuracy order higher

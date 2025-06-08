@@ -1,1 +1,0 @@
-wondering mathematica output following system cannot solved method available reduce frac gamma frac n n frac gamma frac k k k n n used command reduce gamma n n gamma k k k n n integer tried unsuccessfully solve k n suppose something improper mathematica capable solve kind inequality wrong

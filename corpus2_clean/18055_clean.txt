@@ -1,1 +1,0 @@
-simulate simple experiment coin flip accumulate mean result th experiment figure computed mean asymptotically approach wrong code n c table randominteger n n c appendto n

@@ -1,1 +1,0 @@
-trying use function cddlib mathematica downloaded prebuilt file cddmathlink cddmathlink gmp quad quad followed instruction install evaluation never stop tried simple prebuilt example given mathematica worked suggestion p good programming also tried build mathlink program cddlib failed suggestion prebuilt file welcome

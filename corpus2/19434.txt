@@ -1,1 +1,0 @@
-Task: Finding roots in loop               t = List[1, 2, 3, 4, 5]     fx[x_] := a*x^2 - 5     List[Do[Print[FindRoot[fx[k] == 1, {a, 1}]], {k, 0, 5}]]      Output: Currently the output is as follows:                {a-> 6}      {a-> 1.5}      and so forth But I want to have the values of a in a List in order to perfom further tasks (Plotting root of f_a against a)

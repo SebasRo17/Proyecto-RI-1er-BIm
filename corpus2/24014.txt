@@ -1,1 +1,0 @@
-I have a 3DBarChart that adds bar graphs as would be required by the dataset, but as it gets wider runs off the page and can not be printed. Is there a way to fix the height & width of the 3DBarChart so that it maintains it's size and proportions and will not become too large to print regardless of the dataset it receives? Thanks!

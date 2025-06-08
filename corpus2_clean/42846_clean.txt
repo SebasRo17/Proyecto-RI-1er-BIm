@@ -1,1 +1,0 @@
-x x x b c e f g h graph undirectededge undirectededge g vertexlabels g g edgeweight c f imagepadding edgelabels undirectededge c undirectededge g f generates graph replace variable expected variable stay without replacement also facing problem labeling vertex using pattern someone know achieve replacement

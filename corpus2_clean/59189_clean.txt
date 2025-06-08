@@ -1,1 +1,0 @@
-consider graphic spill plot range like graphic red disk plotrange frame true plotrangeclipping false imagepadding framestyle thick mathematica graphic make graphic drawn front frame without drawing frame manually possibly undocumented option maybe graphic method option

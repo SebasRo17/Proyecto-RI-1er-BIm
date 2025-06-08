@@ -1,1 +1,0 @@
-I have used Mathematica for several years but at a pretty low level - piecing together built-in function inefficiently and fearing the sight of # and &'s when I see others use them (I never do). I would like to improve my skills. Which book would be best to read for someone familiar with Mathematica basics but would like to learn more sophisticated uses of Mathematica?

@@ -1,1 +1,0 @@
-When I run the following code in an empty notebook               SetOptions[EvaluationNotebook[], testOption -> "\n\r"]      and then open the notebook in Notepad, I find > $CellContext`testOption -> "\n\n" (1) Can you confirm this bug/feature in other versions/operative systems? I am using Mathematica 9.0.1 in Win8Prox64. (2) Is there a workaround?

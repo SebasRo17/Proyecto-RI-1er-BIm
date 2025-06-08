@@ -1,1 +1,0 @@
-consider x fullform list rule x therefore matchq x list rule produce true consider x fullform association rule x matchq x association rule produce false fact matchq x association produce false idea trying make mathlink xxxxxxxx wstp function serializing c structs association lacuna messing

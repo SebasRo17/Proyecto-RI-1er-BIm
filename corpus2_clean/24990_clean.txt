@@ -1,1 +1,0 @@
-plotting shortest distance point line using following code show plot x x listplot joined true plotmarkers automatic shortest line point line angle two line degree show like mathematica however since axis incrementing visually smaller step x axis get mathematica automatically use even step two ax

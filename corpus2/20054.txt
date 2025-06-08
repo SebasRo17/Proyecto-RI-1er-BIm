@@ -1,1 +1,0 @@
-Sometimes I only remember parts of a function name and I want find that function name quickly, and if I search in the document center, it will give too much informations related to that and difficult to find what I'm looking for. So is there a way to print out all the MMA functions in alphabetical order in a notebook, so that I can search only in the function names? Thanks.

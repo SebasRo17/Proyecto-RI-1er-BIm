@@ -1,1 +1,0 @@
-symbolic function used fullsimplify command simplify equation given calculating hand reach solution used trace command observe intermediate step trace give expression fullsimplify possible method observe step simplification trace fullsimplify b fd fd b fd fd b fd b fd fd fd b

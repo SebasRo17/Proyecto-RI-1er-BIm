@@ -1,1 +1,0 @@
-geometry let b two point plane p x z find point scalar product two vector bm least value tell mathematica

@@ -1,1 +1,0 @@
-symbolic definite integral like integrate sqrt u fullsimplify give output log u sqrt u copy output define function respect integrate variable f log u sqrt u finally substitute upper lower limit f obtain result f u f like manually copy step automatically

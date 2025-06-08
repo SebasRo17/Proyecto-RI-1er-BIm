@@ -1,1 +1,0 @@
-I want to find the jacobian matrix for 3 polynomial expression with 3 variables.. the polynomial expressions have the degree of 8.how to form it.?

@@ -1,1 +1,0 @@
-f[x2_] = ToExpression[StringTake[ToString[x2], -1]] x2;     f[a3]     (*Out: 2 a3*)      I expected the output to be `3 a3`, but apparently `x2` isn't evaluated in `ToString`. How would one construct a function that gives the expected result?

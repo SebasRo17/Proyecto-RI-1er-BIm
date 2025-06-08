@@ -1,1 +1,0 @@
-make module find sum digit given positive integer use command f x apply plus integerdigits x another module

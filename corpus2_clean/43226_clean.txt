@@ -1,1 +1,0 @@
-simple mathematica convert list list matrix need apply matrixform function voila possible reverse though matrix want convert back list list manipulate element easily possible listform function deletes matrixform element question example fullform one element matrixform list list list function would take input return simply list list list thank

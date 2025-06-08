@@ -1,1 +1,0 @@
-would like know write mathematica code inclusion exclusion principle formula governing p bigcup n sum k n k sum substack subset n k p bigcap p denotes probability event similarly cardinality union bigcup n sum k n k sum leq leq n cap sum leq leq n cap cap cdots n cap cap cdots cap n closed form bigcup n sum substack emptyset neq subset n k bigcap

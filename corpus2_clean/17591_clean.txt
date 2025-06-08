@@ -1,1 +1,0 @@
-select foo bar foo baz foo memberq foo bar foo bar foo like answer foo bar built memberq seems use matchq testing equality like memberq us sameq trueq equal work possibly funky argument pattern

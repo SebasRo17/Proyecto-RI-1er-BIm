@@ -1,1 +1,0 @@
-trying generate sound pitch go like sine wave pi pitch sin pi step thought way would somehow pseudocode like make f integrate e sin x x play sin f pi seems mathematica integrate e sin x fooled around integrate sin co play sin co pi want either

@@ -1,1 +1,0 @@
-using mathematica window want create slider look like following enter image description tried following slider dynamic n appearance large imagesize continuousaction false background black got enter image description get look like first image

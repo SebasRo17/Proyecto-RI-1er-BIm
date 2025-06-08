@@ -1,1 +1,0 @@
-function creates monochrome grayscale image must export bit bit tiff file mathematica documentation mention bit depth supported export make reference specify tiff export bit depth specified type export

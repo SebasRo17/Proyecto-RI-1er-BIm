@@ -1,1 +1,0 @@
-post rudimentary code show something wrong using goto label command compiled function believe something wrong seems command label found anybody know going toy compile x real label randomreal x print x goto print x done toy goto nolabel label found

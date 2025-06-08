@@ -1,1 +1,0 @@
-I am looking to make a physics based Mathematica project. Ideally the project would take around 12 hours, gathering any experimental data and analyse the findings. I'd have full access to university physics labs. The project would be for 2nd year physics students in the end and would aim to introduce using Mathematica in their work.

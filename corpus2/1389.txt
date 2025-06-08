@@ -1,1 +1,0 @@
-How does one change the default notebook background color?

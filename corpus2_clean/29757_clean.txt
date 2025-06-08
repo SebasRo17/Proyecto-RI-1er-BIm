@@ -1,1 +1,0 @@
-given array list number n element superlist efficiently compute array call medianlist length n element array median mean sublist entry index superlist example first element would medianlist median second element would medianlist median forth

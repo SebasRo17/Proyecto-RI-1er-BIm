@@ -1,1 +1,0 @@
-input reduce x x x x traditionalform output sqrt x sqrt sqrt x sqrt x sqrt sqrt sqrt x sqrt sqrt x solution hand solution hand

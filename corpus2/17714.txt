@@ -1,1 +1,0 @@
-How to abort or stop this **(accidently large defined)** SparseArray production?               s = N[SparseArray[Table[{2^i, 4} -> i, {i, 30}]]]        Alt+. or Alt+, seem to give up. Even your Windows task manager is struggling.

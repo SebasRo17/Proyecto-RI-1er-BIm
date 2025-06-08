@@ -1,1 +1,0 @@
-considering following case say p p p represents triangle addition want parameterize edge triangle currently edgest seems naive would like learn improve one somehow obvious way would cyclic list thus question title smart way treat list cyclic obviously pi could useful example example enter expect p output way improve definition

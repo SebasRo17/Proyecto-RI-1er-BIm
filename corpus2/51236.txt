@@ -1,1 +1,0 @@
-A flag is to be made with six vertical stripes by using colours yellow, blue, green and red in such a way that no two adjacent stripes should have the same colour. In how many ways is this possible? How could I compute this with _Mathematica_?

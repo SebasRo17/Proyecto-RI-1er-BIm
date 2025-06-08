@@ -1,1 +1,0 @@
-learning mathematica random order reading documentation approach like learning new thing consider following case syntax format foo x matrixform x foo syntax b foo x format matrixform x foo confusion use format left side seems counter intuitive programming language definition right side could explain

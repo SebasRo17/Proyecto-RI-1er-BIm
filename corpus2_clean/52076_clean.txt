@@ -1,1 +1,0 @@
-currently use data thomson reuters datastream add excel data requested need use data mathematica need update data frequently possible extract data datastream directly mathematica api anyone experience knowledge thing

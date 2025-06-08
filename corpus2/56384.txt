@@ -1,1 +1,0 @@
-I want to draw a simple line with some symbols, but so far have had no luck finding an easy way to do it in _Mathematica_. Does anyone know if _Mathematica_ can easily implement e.g. the example below? ![example](http://i.stack.imgur.com/lwbQp.jpg)

@@ -1,1 +1,0 @@
-tried use glow create neon light effect torus object result shown left picture look quite different real one right way obtain better result assuming obj file located root c model import c torus obj graphic glow cyan first model boxed false background black enter image description

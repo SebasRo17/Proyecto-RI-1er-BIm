@@ -1,1 +1,0 @@
-documentation v state parametricfunction generated parametricndsolve parametricndsolvevalue way creating parametricfunction definition similar creating interpolatingfunction interpolation motivation behind certain parameter need solution parametricndsolvevalue returned parameter want use analytical solution returner format parametricfunction

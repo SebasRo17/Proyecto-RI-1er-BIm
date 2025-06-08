@@ -1,1 +1,0 @@
-I defined a PDF called dist, for example like this one:               dist = ProbabilityDistribution[       Convolve[PDF[NormalDistribution[4, 5], x],         PDF[NormalDistribution[3, 1], x], x, t], {t, -Infinity, Infinity}]      Is it possible to get also a shifted PDF? For example $p_1(x)=dist(x), p_2(x)=dist(x-c)$ where c is a constant

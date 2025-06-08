@@ -1,1 +1,0 @@
-pde mixed boundary neumann dirichlet side region x left right time left l leq x leq l leq leq h x right h x something like exp left x x right matter neumann boundary condition curve left x h x right provide region ndsolve

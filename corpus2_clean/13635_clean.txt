@@ -1,1 +1,0 @@
-want define isgood false isgood true list list list several million integer fastest way

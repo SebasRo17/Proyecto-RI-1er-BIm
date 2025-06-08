@@ -1,1 +1,0 @@
-I would like to make a grid where each cell background is partially filled according to the numerical value being represented (on a scale from 0 to 1). Similar functionality to the one requested in this TeX.SE question. How can I achieve this with _Mathematica_?

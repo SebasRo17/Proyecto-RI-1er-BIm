@@ -1,1 +1,0 @@
-I want Mathematica to recognize that               A.(-B.C)+A.B.C = 0      Yet FullSimplify and the like leaves the expression as it is. How do I get around this?

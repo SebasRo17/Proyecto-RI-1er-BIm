@@ -1,1 +1,0 @@
-I've just learned Mathematica can send e-mails using external servers: this is great... ! Now, using this link, I've set this up using my Gmail account. But is it possible to incorporate somewhere my Gmail password, so as not to have to add it every time in the               SendMail[..., "Password"-> ... ]      command? Thanks all for your help!

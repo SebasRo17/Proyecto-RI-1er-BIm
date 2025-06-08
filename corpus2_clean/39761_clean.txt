@@ -1,1 +1,0 @@
-recursive integral sequence follows x r x frac gamma int x x dt vdots n x frac gamma int x x n dt quad wrote following code output answer correct know problem caused change variable leftrightarrow x n x modify problem x r k x k x fullsimplify gamma integrate x k x print x simplify x

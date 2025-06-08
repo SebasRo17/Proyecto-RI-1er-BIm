@@ -1,1 +1,0 @@
-my question is the following. I have an array, which elements are functions (say, sines of symbolic arguments). Some of the elements are zeros. I want to write code like: `If[T[i, j]!=0,(*do something*)];` But Mathematica won't compare expressions with numbers. What could you suggest? Thanks

@@ -1,1 +1,0 @@
-updating mathematica successfully generated beautiful fortran code using mark sofroniou format package posted mathsource however updating latest mathematica version program work following error displayed running code clear global format format get noopen cannot open format format could anyone tell set format mathematica

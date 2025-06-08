@@ -1,1 +1,0 @@
-Is there any way I can speed up this prime factor counting function? (I am looking for all numbers in a range with 3 prime factors (counted with multiplicity).)               Omega3[n_Integer] := \[Not] FreeQ[PrimeOmega[n], _?(# == 3 &)]     Omega3Count[n_] := Count[Range@n, _?Omega3]

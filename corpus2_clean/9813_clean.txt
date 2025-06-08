@@ -1,1 +1,0 @@
-suppose two list say b element would like find index first element b exceeds element none e result clever syntax much appreciated

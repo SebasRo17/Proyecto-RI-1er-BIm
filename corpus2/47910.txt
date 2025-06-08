@@ -1,1 +1,0 @@
-I'm trying to rotate the area between the graphs of $y=3$ and $y=x^2$ around $y=1$. I'm not attempting to just find the area as that would just be `π Integral[9 - x^4]`, but rather I'm trying to create a 3D plot that I can print with a 3D printer.

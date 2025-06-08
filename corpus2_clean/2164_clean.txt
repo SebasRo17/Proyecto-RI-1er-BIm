@@ -1,1 +1,0 @@
-inspired question would like know following code written without explicit loop etc clean efficient non contrived way unable max constantarray max x z n val n z x z n x z x val max x val max x z val max z z n r val max n r n z output array

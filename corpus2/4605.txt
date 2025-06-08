@@ -1,1 +1,0 @@
-Options[myPlot] = Options[Plot];     myPlot[args___] := ...      When defining a "wrapper" function like the above, I'd like it to inherit the `System`` function's options. Should I use `Options[myPlot] = Options[Plot]` or `Options[myPlot] := Options[Plot]`?

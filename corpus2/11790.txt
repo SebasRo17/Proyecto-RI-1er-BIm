@@ -1,1 +1,0 @@
-In Mathematica 7, the default plot color is a purple-like color (although I think it is _not_ `Purple`). Is it possible to use Mathematica to determine the RGB color values of the default plot color? Thanks for your time.

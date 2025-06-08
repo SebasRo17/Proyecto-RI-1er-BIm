@@ -1,1 +1,0 @@
-I have the following plots for two graphs:               RegionPlot3D[x^2 + y^2 + 1 <= z <= 4, {x, -2, 2}, {y, -2, 2}, {z, 0, 5}]           ContourPlot3D[x^2 + y^2 + z^2 == 25, {x, -5, 5}, {y, -5, 5}, {z, -5, 5}]      How can i do to see this two graphs together in the same plot?

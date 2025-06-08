@@ -1,1 +1,0 @@
-![3ds not working](http://i.stack.imgur.com/MPpmn.png) ![enter image description here](http://i.stack.imgur.com/tiacJ.png) I made a 3D image by stacking 2D images (Image3D command). When I tried to export it, 3DS and X3D are not working. What format can I export?

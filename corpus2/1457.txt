@@ -1,1 +1,0 @@
-Given two arbitrary vectors $\textbf{v}_1$ and $\textbf{v}_2$, how can I draw the plane which they span?

@@ -1,1 +1,0 @@
-want make animated barchart want plot different table range example next data set go however set barchart scalingfunctions log start number chart higher anyone know way fix p already tried plotrange work though

@@ -1,1 +1,0 @@
-export histogram without rasterising label ax seem unaffected bar pixelated zoom pdf viewer example run export test pdf histogram randomvariate normaldistribution get pdf look like zoomed histogram problem try run pdf p p pdf work around font problem including pdfs latex document since whole image get rasterised including text

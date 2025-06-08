@@ -1,1 +1,0 @@
-set coordinate sphere term cartesian coordinate would like convert spherical data point however try convert point tell solution indeterminate coordinatetransform cartesian spherical arctan indet indeterminate expression arctan encountered best andy

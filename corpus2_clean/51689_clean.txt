@@ -1,1 +1,0 @@
-given system first order differential equation x x constant denotes derivative make substitution x x implies x frac x derivative x left frac x right frac yx xy x x x need continue fashion next step example let x x find x etc way compute derivative mathematica instance would find x mathematica thanks radz

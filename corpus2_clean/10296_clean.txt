@@ -1,1 +1,0 @@
-completely new mathematica sorry question dumb solve system two second order non linear coupled differential equation got lagrangian equation motion particular system following code hope clear ndsolve co x derivative x sin derivative x derivative x x derivative x derivative x getting exactly output input mathematica returning piece code

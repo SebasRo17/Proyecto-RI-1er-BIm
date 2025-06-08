@@ -1,1 +1,0 @@
-something got curious playing around mathematica consider following contrived example clear x x x problem suppose defined globally x x problem get evaluated getting mapped delayed rule rh realised could x x releasehold thread hold look kinda complicated work better way shield list mapped global variable sort randomly tried module x x case temporary variable name got substituted

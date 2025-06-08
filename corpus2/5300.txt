@@ -1,1 +1,0 @@
-If I have a directed graph, how can I draw it with arrows pointing vertically from bottom to top, like showing a class inheritance pattern in OOP(object oriented programming)?

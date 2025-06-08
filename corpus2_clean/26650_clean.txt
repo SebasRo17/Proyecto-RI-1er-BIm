@@ -1,1 +1,0 @@
-extract middle element given list code work seems little long extract x part x integerq floor ceiling median range length x another shorter routine list even length give one value two think two value would better even list extract x part x quantile range length x concise efficient code return two element list even length

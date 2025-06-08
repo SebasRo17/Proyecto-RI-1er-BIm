@@ -1,1 +1,0 @@
-To read in expressions from a file, one can do `ReadList[file, Expression, 3]`. How to do the opposite, i.e. remove a number of expressions from a file, modifying the file on the disk?

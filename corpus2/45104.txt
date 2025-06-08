@@ -1,1 +1,0 @@
-I have a .bmp image 9600x5400 that shows a lot of points at various intensities. There are no lines inside this picture - only a lot of points. I would like to apply anti-aliasing on the image to make it smoother (and more beautiful). Can Mathematica help me on that? ![enter image description here](http://i.stack.imgur.com/FzHKm.jpg)

@@ -1,1 +1,0 @@
-I want to plot a graph from list of points, but each point also has uncertainty assigned AND date. Without uncertainties DateListPlot works great, without dates ErrorListPlot works OK, but how it could be done both at the same time? I tried displaying 2 plots (DateListPlot + ErrorListPlot) using Show, but it didn't work. Any ideas?

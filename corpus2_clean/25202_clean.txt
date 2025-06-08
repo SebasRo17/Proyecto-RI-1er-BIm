@@ -1,1 +1,0 @@
-make random function eta insert differential equation ndsolve edit example solve equation like frac dx dt eta

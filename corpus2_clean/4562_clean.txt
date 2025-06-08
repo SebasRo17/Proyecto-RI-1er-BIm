@@ -1,1 +1,0 @@
-really confused going wrong call findinstance findinstance matrixrank integer matrix rank also repeat call matrixrank function set equal findinstance return missing

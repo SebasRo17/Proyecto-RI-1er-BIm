@@ -1,1 +1,0 @@
-tried following command importstring data fullform list list list importstring data fullform list list list list list note first case output list string whereas second case output list list number force first case return integer second case

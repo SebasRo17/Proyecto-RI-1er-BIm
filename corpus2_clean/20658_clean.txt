@@ -1,1 +1,0 @@
-documentation erfc possible issue following command return number extremely close enter image description however run command fresh kernel get enter image description going wrapping command n seem help using mathematica o x

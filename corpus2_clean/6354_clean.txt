@@ -1,1 +1,0 @@
-directed acyclic graph g like order vertex graph object call vertexlist mygraph vertex appear topologically sorted order naive solution make new graph follows mygraph graph topologicalsort g edgelist g seems graph object sort vertex method good

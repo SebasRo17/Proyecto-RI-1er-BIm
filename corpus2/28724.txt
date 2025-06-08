@@ -1,1 +1,0 @@
-I am trying to learn Hilbert-Huang transform (HHT) and its applications (especially in ECG signal processing). There are several HHT packages (scripts) HHT for R and Matlab. Is there any known solution for _Mathematica_ or I should write my own implementation of HHT?

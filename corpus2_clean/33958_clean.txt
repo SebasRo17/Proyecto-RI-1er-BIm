@@ -1,1 +1,0 @@
-create new notebook following two input cell notebookwrite evaluationnotebook cell boxdata toboxes manipulator dynamic x output dummy cell evaluate whole notebook evaluation menu evaluate notebook see manipulator appear quickly disappear manually evaluate first cell manipulator disappear happening

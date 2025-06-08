@@ -1,1 +1,0 @@
-forgive newbie question trying create table following system following stirling example documentation mathematica echo input wrong recurrencetable n k n k n k k n boole n n boole n n k grid

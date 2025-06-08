@@ -1,1 +1,0 @@
-Is it possible to embed a Mathematica window into a .NET application? I mean not just the interop, but actually making the notebook editor window part of a .NET form. Is this possible?

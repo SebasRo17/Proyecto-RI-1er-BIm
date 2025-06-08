@@ -1,1 +1,0 @@
-would like run batch job within current mathematica file using r cmd batch job run background mathematica proceeds current calculation mathematica

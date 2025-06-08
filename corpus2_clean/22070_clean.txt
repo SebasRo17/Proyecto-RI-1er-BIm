@@ -1,1 +1,0 @@
-data set form x x n x n large n non parametric plot data scatter plot observation sorted along x joined line x plane look like enter image description want know construct define empirical distribution cdf corresponds plot know function empiricaldistribution could create distribution function question however generate mathematica function empirical cdf

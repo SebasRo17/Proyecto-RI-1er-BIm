@@ -1,1 +1,0 @@
-given pair string like return list common subwords fixed length n character e contiguous subwords length n occur string allowing overlap built close built way mathematica

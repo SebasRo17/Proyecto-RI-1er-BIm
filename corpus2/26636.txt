@@ -1,1 +1,0 @@
-I have a function               f[x_, y_, z_] := Exp[-x^2]*Exp[-z^2]      which traces out a tube along $y$. Is there a way to plot this 4D function, where the plot color is the 4th dimension?

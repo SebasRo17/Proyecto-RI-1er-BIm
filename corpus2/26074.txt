@@ -1,1 +1,0 @@
-I have a smooth data distribution on a 2D regular grid that is not a rectangular (it is a cross-section of a channel) and I need to find an Interpolating function `f[x,y]`. I have tried `Interpolation[{{x1,y1},f1},{x2,y2},f2},...}]` but it doesn't work. Does `Interpolation` work only on rectangular grid? Thanks Giovanni

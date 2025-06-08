@@ -1,1 +1,0 @@
-interested root function f b gamma b sqrt b b fixed value b particular want value b function stop root code findroot f b n print n b seems work sure keep trying new value b solution instead trying bigger bigger b max case also get error message findroot something worry accurate code thanks

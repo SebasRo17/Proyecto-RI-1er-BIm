@@ -1,1 +1,0 @@
-I used this as input               Table[600851475143/i , {i, 1, 600851475143}]      but got an error               Table::iterb:Iterator {i,1,600851475143} does not have appropriate bounds.      But this gives me no error why?:               Table[600851475143/i , {i, 1, 13}]

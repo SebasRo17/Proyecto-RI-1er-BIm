@@ -1,1 +1,0 @@
-integro differential equation form int e dt rm rm code f real nintegrate exp solution ndsolve f plot evaluate solution plotrange simply output error nintegrate nlim valid limit integration

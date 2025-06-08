@@ -1,1 +1,0 @@
-type mathematica solve sin sqrt x sin sqrt x x expecting return list pair solution form x x x x x x etc per documentation instead give quite expecting get function return list pair solution confused thanks

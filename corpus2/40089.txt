@@ -1,1 +1,0 @@
-This is Right.               NestWhile[Log, 100, # > 1 &]     {100} //. {x_} /; x > 1 :> {Log[x]}     100. //. x_ /; x > 1 :> Log[x]      This is wrong,why?               100 //. x_ /; x > 1 :> Log[x]      ![enter image description here](http://i.stack.imgur.com/0BFpO.jpg)

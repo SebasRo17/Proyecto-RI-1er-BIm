@@ -1,1 +1,0 @@
-I am building a cdf application,which has multiple screens,every screen was linked to another screen. Right now I am using `CreateDialog`. Are there any other options of displaying multiple screens to users?

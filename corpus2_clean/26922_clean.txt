@@ -1,1 +1,0 @@
-let say following plot graphic opacity rectangle want label vertex graph give coordinate case point p point p general want write function plotpolygonwithlabel polygon label label array like p p

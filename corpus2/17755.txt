@@ -1,1 +1,0 @@
-I have some function $f(x)$ I wish to evaluate, which is yielding divide-by- zero errors for sufficiently large inputs. How do I increase the precision with which this function is evaluated in order to prevent this? Can I do this while also plotting the function?

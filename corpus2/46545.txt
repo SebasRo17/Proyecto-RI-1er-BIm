@@ -1,1 +1,0 @@
-How can I create a list of bindings made to a certain variable when evaluating an expression? I want to determine three bindings made.

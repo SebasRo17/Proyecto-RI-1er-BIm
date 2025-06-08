@@ -1,1 +1,0 @@
-How does one enter very large numbers in up-arrow notation? Up-arrow notation was created by Donald Knuth to write very large numbers in it iterated exponentiation form, for example 6↑↑3 = 6^6^6.

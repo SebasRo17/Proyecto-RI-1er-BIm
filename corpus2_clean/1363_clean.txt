@@ -1,1 +1,0 @@
-wondering anyone know proper syntax change text property barchart chartlegend cannot seem figure get style apply example barchart chartstyle pastel chartlegends placed john mary bob bottom barchart chartstyle pastel chartlegends placed style john mary bob fontfamily courier bottom help would greatly appreciated

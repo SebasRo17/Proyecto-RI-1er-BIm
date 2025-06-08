@@ -1,1 +1,0 @@
-I'm using Clojure and I'd really love to be able to use some of Mathematica's functions inside it. Can anyone help with mathlinking it?

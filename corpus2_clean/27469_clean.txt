@@ -1,1 +1,0 @@
-try solve following equation ye quad aruments expect positive solution geq however ndsolve show starting approx oscilations arround amplitude quite small less similar result obtain using maple surely mean theoretical argument wrong may error ndsolve algorithm due bad property equation

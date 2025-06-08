@@ -1,1 +1,0 @@
-make construct similar c function try catch want use avoid showing lot error plot area example one argument becomes complex overflow etc want avoid creating plot anything go wrong look like one show graphic line complex complex mathematica graphic approach like check show graphic line complex complex show graphic check graphic line complex complex show graphic also fail

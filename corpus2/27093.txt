@@ -1,1 +1,0 @@
-Why mathematica not solve this equation: In: DSolve[{z''[t]==(z'[t])^2+(z[t])^2-Sin[t]-1, z[0]=0,z[Pi/2]=1},z[t],t] Out: DSolve[{z''[t]==(z'[t])^2+(z[t])^2-Sin[t]-1, z[0]=0,z[Pi/2]=1},z[t],t] There is other command for solve it?

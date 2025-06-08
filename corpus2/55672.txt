@@ -1,1 +1,0 @@
-I want to use the the following two functions to plot a perfect looking circle, but the graph always ends up looking a bit squashed. I've been playing with some of the parameters of the function but can't seem to get it to look right still. Here is the function:               Plot[{Sqrt[1 - x^2], -Sqrt[1 - x^2]}, {x, -2, 2}, PlotRange -> {-2, 2}]      Thanks for the help!

@@ -1,1 +1,0 @@
-following code worked mathematica mathematica compiled return message compiledfunction cflist nontensor object generated proceeding uncompiled evaluation fix clear cf cf compile module print break compilationtarget c cf

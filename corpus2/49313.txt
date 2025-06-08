@@ -1,1 +1,0 @@
-I want to draw a cuboid with rounded corners，like this: ![enter image description here](http://i.stack.imgur.com/HA2el.jpg) RoundingRadius only works with `Rectangle` or `Framed`.I have no idea how to draw a cuboid with rounded corners. What are your ideas? Thanks.

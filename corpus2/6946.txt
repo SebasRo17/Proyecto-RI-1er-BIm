@@ -1,1 +1,0 @@
-Is there a way to make values of variables persistent even after the kernel is stopped? Example, if I were to set up a list for which I append new list items (such as a check ledger, as a basic example). If I stop the kernel, the value of the variable is lost. I can import/export to .csv, .txt, or .xlsx but that kind of defeats the point. Thanks!

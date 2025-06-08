@@ -1,1 +1,0 @@
-matrix v size row vector v another matrix h would like calculate efficiently possible list value v dagger cdot h cdot v ldots tried using thread figure thank advance insight

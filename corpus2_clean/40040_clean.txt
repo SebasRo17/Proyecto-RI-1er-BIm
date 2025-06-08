@@ -1,1 +1,0 @@
-trying use string tag reap sow found following strange behavior also add function third argument reap reap sow sow b sow c sow b c reap sow sow b sow c sow b c max max max b max c whereas use numeric tag get following expected result reap sow sow sow sow max string tag seem work properly tag general know kind structure used tag

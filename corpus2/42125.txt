@@ -1,1 +1,0 @@
-The following Matrix represents my Hamiltonian.               m = {{ B/2 - d - j/2 + a, (Sqrt[2]*j)/2, M}, {(Sqrt[2]*j)/2, B/2 + a, 0}, {M, 0, (-3*B)/2 - d + j/2 + a}      How can I define the variables used in matrix such that the Mathematica assumes as they are real. because with this matrix, mathematica gives complex eigenvalues but my eigenvalues are supposed to be real.

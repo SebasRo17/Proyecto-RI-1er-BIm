@@ -1,1 +1,0 @@
-If have the following command               Position[{a, b, a, a, b, c, b}, b]          (* Out[1]= {{2}, {5}, {7}} *)      Is it possible to get only a sequence of values instead of this list, like               Out[2]= 2, 5, 7      I'm interested in the values only and don't need the list structure.

@@ -1,1 +1,0 @@
-I want to know how can I print out a list of prime numbers. Should I use `For`, `Do`, `If`, maybe `Mod`, but If I can - no prime. How should I approach this problem ?

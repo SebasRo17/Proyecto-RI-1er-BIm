@@ -1,1 +1,0 @@
-I want to export and then import back in a cluster object from Agglomerate. After the import, the imported object does not behave as a cluster - for example, ClusterSplit does not recognize it as a cluster object. Is there a data format that can be used, so that after export/import the imported object is a cluster?

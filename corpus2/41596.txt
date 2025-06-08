@@ -1,1 +1,0 @@
-Any idea how to solve analytically this integral               Integrate[(a Erf[a Sqrt[b/(a^2 + b)] c])/(a^2 + b)^(3/2), a]      I tried substitution u=a^2 + b, but it didn't work. I don't need numerical integration or to solve via the few terms of the Taylor expansion. This seems to be very difficult to solve, but maybe somebody has got an idea.

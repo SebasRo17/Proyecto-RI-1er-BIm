@@ -1,1 +1,0 @@
-want mathematica recognize b c b c yet fullsimplify like leaf expression get around

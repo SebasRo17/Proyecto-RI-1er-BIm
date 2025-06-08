@@ -1,1 +1,0 @@
-mathematica graph returned object head graph completegraph head graph right clicking graph object brings menu option convert graphic selecting option return new object head graphic need programmatically found command applied completegraph put example return object head graphic plot graph command mathematica convert graph graphic

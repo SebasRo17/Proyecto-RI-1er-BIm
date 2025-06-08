@@ -1,1 +1,0 @@
-tell mathematica use real mode example want graph x x need use real mode get right graph

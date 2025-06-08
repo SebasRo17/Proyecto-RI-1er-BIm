@@ -1,1 +1,0 @@
-vary initial condition numerical solution system ode make plot solution space condition one variable sol ndsolve x x x c x x want vary one condition variable say u range step want make plot solution space x u anyone please guide solving query

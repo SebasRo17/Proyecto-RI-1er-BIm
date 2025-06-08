@@ -1,1 +1,0 @@
-Does anyone know why `Import["http://**server**/file.m"]` can't make a change to `$Path`? It seems like `file.m` can set pretty much any other variable, but not `$Path`. I suspect `Get[]` would work, but I can't seem to get `Get[]` to fetch files over the web.

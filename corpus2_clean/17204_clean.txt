@@ -1,1 +1,0 @@
-basically want move graphic circle along given path sin x thinking trick might making x coordinate circle vary based equation able make anything except circle sits

@@ -1,1 +1,0 @@
-two array x value identical l j want add list following way word value data point x added achieve please note array necessarily length two array test first second first array second array generate code factor second table tempdata factor length tempdata second tempdata second second reverse

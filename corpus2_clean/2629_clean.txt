@@ -1,1 +1,0 @@
-regionplot exporting saving front end pdf eps small white line filling region example created regionplot x x plotstyle black output regionplot saving eps way prevent white line keeping vector graphic note line appear screen exported file also note actual graphic complex especially several different coloured region

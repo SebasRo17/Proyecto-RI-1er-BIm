@@ -1,1 +1,0 @@
-evaluate mathematica expression ab zeta x x ab zeta x result zero error could explain wrong

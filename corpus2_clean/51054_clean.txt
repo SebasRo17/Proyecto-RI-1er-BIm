@@ -1,1 +1,0 @@
-creating barchart wish actual value top bar label bar bottom basically created barchart label bottom cannot figure add value top bar value label show barchart value chartlabels label chartstyle pastel axeslabel year diagnosis background transparent basestyle fontfamily helvetica imagesize way view value top bar

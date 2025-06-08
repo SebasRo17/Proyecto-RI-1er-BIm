@@ -1,1 +1,0 @@
-I evaluated               Integrate[(1 + x/n)^n*Exp[-x], {x, 0, Infinity}] .       thinking the answer should be approximately $\sqrt{\pi n/2}$. _Mathematica_ gave me > ConditionalExpression[E^n n ExpIntegralE[-n, n], Re[n] > 0 || n ∉ Reals] which I am not sure how to interpret. How can I get _Mathematica_ to give me something closer to what I was expecting?

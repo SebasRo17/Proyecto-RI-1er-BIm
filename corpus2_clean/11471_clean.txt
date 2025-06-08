@@ -1,1 +1,0 @@
-trying solve following differential equation numerically ndsolve z r z r z r z z r z r z r r r z set initial condition z singularity tried set also r z singularity set r z however try solve equation value put boundary condition getting step size effectively zero singularity stiff system suspected method sort

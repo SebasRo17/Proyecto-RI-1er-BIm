@@ -1,1 +1,0 @@
-mathematica recently noticed whenever press equal sign type something like sech x get message enter image description tried search query p hamiltonian degree keep getting message though strange regardless search query mathematica still correctly interprets input anyone know message appears started seeing week two ago thanks

@@ -1,1 +1,0 @@
-I'd like to use `GraphData` to get a list of graphs with vertex connectivity at least 3. I know `GraphData["Nonplanar", 6]` gives all the nonplanar graphs on 6 vertices, but I can't figure out how to get `GraphData` to do a selection based on the `"VertexConnectivity"` property.

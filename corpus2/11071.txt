@@ -1,1 +1,0 @@
-I have an output graph on a saved notebook that I cannot reproduce with my data (I messed up the instructions). Can I take that graph, insert it in a new notebook and modify it? (I'm thinking about axes, labels, fonts, etc.)

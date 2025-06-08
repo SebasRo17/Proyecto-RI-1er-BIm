@@ -1,1 +1,0 @@
-plot let u say plot x x x want check way know automatic plot range add subtract range need assume something fictitious like plot x x x plotrange automatic way something like

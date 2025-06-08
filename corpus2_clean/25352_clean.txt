@@ -1,1 +1,0 @@
-need make list element array dimension x x x need select element based position following way name element e x z w need element x z w basically excludes upper triangular part submatrix submatrices upper triangular part tensor array question one b sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt tried many way figure thanks advance

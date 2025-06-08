@@ -1,1 +1,0 @@
-relatively simple operation like perform plot would like reflect plot across x axis tick label making sure label reflected concern rotating plot work expected rotate listplot joined true degree appear reflect command equivalent performs reflection operation tried using geometrictransformation scale seem work plot object go

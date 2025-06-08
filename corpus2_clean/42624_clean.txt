@@ -1,1 +1,0 @@
-following command paralleltable image graphic red disk show strange behaviour start new mathematica process every parallel kernel using kernel end mathematica process mathkernels running rasterize anyone explain help

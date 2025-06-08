@@ -1,1 +1,0 @@
-Can I make real time audio processing with Mathematica in the same way I can do with images using `Dynamic[CurrentImage[]]`. I know that is possible to use `SystemDialogInput["RecordSound"]` function, but you can't make real time dynamics on it. For example, I would like create one notebook that could make an alert when sound's beyond some level. It's possible?

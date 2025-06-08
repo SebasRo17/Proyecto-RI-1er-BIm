@@ -1,1 +1,0 @@
-algorithm used use option method findminimum function findminimum f x x

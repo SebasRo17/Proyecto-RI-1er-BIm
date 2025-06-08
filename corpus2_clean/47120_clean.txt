@@ -1,1 +1,0 @@
-million number list want take top k occurrence mma commonest slow write version randominteger mycommonest n take sortby tally last n mycommonest n b tally take b reverse ordering b n mycommonest n b tally b take ordering b n mycommonest n take sortby tally n timing faster edit c counterpart problem

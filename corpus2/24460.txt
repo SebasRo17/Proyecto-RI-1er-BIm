@@ -1,1 +1,0 @@
-This calculation makes the kernel crash because it needs so much memory. Thoughts on how to get around this?               PolynomialRemainder[1+x^267910657,1+x+x^20+x^32, x, Modulus->2]

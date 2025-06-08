@@ -1,1 +1,0 @@
-How can I plot f(x) on {y axis} with respect to 1/x on {x axis}?

@@ -1,1 +1,0 @@
-often data form year jan feb mar apr may jun jul aug sep oct nov dec want convert time value tuples type easily plotted using datelistplot written hackish code job feel messy unsatisfactory anyone know elegant mathematica way

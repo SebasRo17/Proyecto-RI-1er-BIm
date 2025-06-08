@@ -1,1 +1,0 @@
-When looking at the locally available licenses, I see four entries: "Mathematica", "MathKernel", "Sub Mathematica" and "Sub Mathkernel". Now "Mathematica", "MathKernel" and "Sub Mathkernel" are clear, but what are "Sub Mathematica" licenses used for? Are there parallelization constructs for the front end?

@@ -1,1 +1,0 @@
-give concrete example hope general question clear say three variable f g h know f mathcal x g mathcal x h mathcal x mathcal notation something sort want series expansion expression involving f g h consistent order x example write series x want keep term like f f g throw away term like f g g h simple way

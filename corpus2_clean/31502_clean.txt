@@ -1,1 +1,0 @@
-trying something like contourplot expand correlation b b b b b b apparently make computer freeze

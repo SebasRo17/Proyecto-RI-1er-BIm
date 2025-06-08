@@ -1,1 +1,0 @@
-manipulate quiet sol solve k p l pl k p l lp k pl l lpl p p pl lp lpl r p l pl lp lpl p l lp pl lpl complex x lpl sol r x plot complex r r k k k p k k k nice curve otherwise gap curve wrong

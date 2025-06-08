@@ -1,1 +1,0 @@
-let say histogram histogram randomvariate normaldistribution histogram want bar positioned left horizontal axis different colour mathematica documentation show height bar position histogram randomvariate normaldistribution colorfunction yellow red true blue colorfunctionscaling false histogram call position bar histogram put colorfunction

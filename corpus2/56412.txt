@@ -1,1 +1,0 @@
-For the following example:               {#, #} & /@ {1, 2}      I am trying to find a method to hold one of the slots (or both ) so that the function do not pass the values to the slot I want to protect. for example I want to get something like this:               {{1, #}, {2, #}}      I tried all type of Hold on the second slot but without and success. any suggestion?

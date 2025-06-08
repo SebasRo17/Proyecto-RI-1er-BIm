@@ -1,1 +1,0 @@
-For a numerical quantity `z`, `Abs[z]` returns the square root of the sum of the squares of the real and imaginary parts of `z`. If we then square it, do we lose numerical accuracy because we are squaring after taking a square root?   Is it better to use `Re[z]^2+Im[z]^2`?

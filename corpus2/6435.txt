@@ -1,1 +1,0 @@
-Since the Frontend crashes a lot, for important work it would be nice to have the notebook automatically branch and save itself every so many minutes. For instance, commands like StartSavingCopies[5] would save a copy with a new name "BackupFileNumberX.nb" every 5 minutes. How can we do this behind the scenes dynamically?

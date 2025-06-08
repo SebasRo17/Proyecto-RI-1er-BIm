@@ -1,1 +1,0 @@
-How to set degrees of freedom for `PearsonChiSquareTest`? I have this:               PearsonChiSquareTest[ex,  NormalDistribution[0, Sigma], {"PValue", "DegreesOfFreedom",   "ShortTestConclusion"}, SignificanceLevel -> 0.05]      Return:               {2.95529*10^-11, 12, "Reject"}      I need to set degrees of freedom to 4-5.

@@ -1,1 +1,0 @@
-possible mathematica solve equation like nabla f mathbf r mathbf e mathbf r f mathbf r tried reduce grad f x z x z ex ey ez f work

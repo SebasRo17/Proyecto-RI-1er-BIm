@@ -1,1 +1,0 @@
-plot ordinary histogram blue shading black border like randomvariate normaldistribution histogram simulate hatching like randomvariate normaldistribution histogram chartelements graphic black line get hatching black border time

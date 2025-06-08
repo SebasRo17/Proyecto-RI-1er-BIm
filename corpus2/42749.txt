@@ -1,1 +1,0 @@
-Is it possible for me to tell mathematica something is an integer? like if I typed               Sin[n Pi]+Cos[n Pi]      it would tell me it equals 1 for even n and -1 for odd n? This would really help me check my answers when trying to find Fourier Series (I am just learning them now)

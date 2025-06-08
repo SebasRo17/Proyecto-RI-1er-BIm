@@ -1,1 +1,0 @@
-list say name andy bob carly sandy jeff tim tom zach decide pick characteristic certain input would something work think something worddata output would look like andy jeff tim zach know type thing probably possible say would choose nonempty set would using select know select set name sure probably different way wanted continue practice function understand fully

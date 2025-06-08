@@ -1,1 +1,0 @@
-The following input will produce some answers, however how do we find out other details, such as the specific year the result corresponds to, as well as the source from which the data is obtained?               CountryData["France", "MaleElderlyPopulation"]          CountryData["Australia", "MaleElderlyPopulation"]

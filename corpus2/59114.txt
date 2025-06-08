@@ -1,1 +1,0 @@
-Well, maybe its a dumb question, but I can't find how to set axes scale factor for my `Plot`. For example, if I have x and y axes, I want to have 1 unit on the x axis same size as on the y axis.

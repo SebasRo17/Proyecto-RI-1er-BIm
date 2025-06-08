@@ -1,1 +1,0 @@
-trying define function myfunc special case myfunc x x log x myfunc x x seems work limited case myfunc x x put number anything else fails would fix myfunc indeterminate myfunc indeterminate interested making case number work

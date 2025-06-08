@@ -1,1 +1,0 @@
-wish use distribute p q r get p q p r however distribute apparently thread part expression instead

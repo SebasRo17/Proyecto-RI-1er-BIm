@@ -1,1 +1,0 @@
-Once a Package like `abc`` has been installed, we can use "`?abc`*`" to scan all the functions defined in this Package. Now I write a Package(`abc``). After I have installed it, I use `?abc`*` to scan the functions. But the function list is out-of-order. How can I set the function list to alphabetical order using `?abc`*` ?

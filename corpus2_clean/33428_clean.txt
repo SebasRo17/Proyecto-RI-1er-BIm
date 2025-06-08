@@ -1,1 +1,0 @@
-define relation variable expression also evaluated assuming index equal index given x j delta ij stackrel mathematica recognizes rightarrow x delta ii initial question define relation annihilation creation operator j like j dagger delta ij commutator defined quantum notation package want make index resp j optional mathematica recognizes dagger e assumes j index given way

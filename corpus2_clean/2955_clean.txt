@@ -1,1 +1,0 @@
-consider following list import g notebook list csv col list print count col get cell printed really want capture output another variable list far best way figured copy output edit text manually paste back variable surely better way

@@ -1,1 +1,0 @@
-would like adjust plot range pairedbarchart along bar direction however pairedbarchart randomreal randomreal plotrange along bar labeled axis automatic along center axis doesnt work

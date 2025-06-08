@@ -1,1 +1,0 @@
-Collect[Expand[(x + I y)^6], I]      yields               x^6 + 6 I x^5 y - 15 x^4 y^2 - 20 I x^3 y^3 + 15 x^2 y^4 + 6 I x y^5 - y^6      How can I obtain               x^6 - 15 x^4 y^2 + 15 x^2 y^4 - y^6 + (6 x^5 y - 20 x^3 y^3 + 6 x y^5) I

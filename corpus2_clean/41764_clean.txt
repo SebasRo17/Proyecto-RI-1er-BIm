@@ -1,1 +1,0 @@
-consider following list mylist head mylist real real string fact string complex number easy way converting mylist mynewlist head mynewlist real real complex

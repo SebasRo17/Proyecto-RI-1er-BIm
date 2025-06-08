@@ -1,1 +1,0 @@
-given set dot lk positive integer l find partition includes subset size l mathematica instance given l output text partition text partition text partition mathematica notation edit another example l

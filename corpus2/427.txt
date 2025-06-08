@@ -1,1 +1,0 @@
-If I have a list               list={3,7,4,5,1}      how to get the List of Intervals /Ranges               result = {{1,3},{3,4},{4,5},{5,7}}

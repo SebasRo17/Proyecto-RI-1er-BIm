@@ -1,1 +1,0 @@
-I've heard that Mathematica is usually faster when the code is list-based and/or uses a functional paradigm. I'm still working on getting the hang of this; there are a lot of `If`s and `For`s that I end up using in more complex code that probably shouldn't be there. In general how do I go about writing more functional and list based code?

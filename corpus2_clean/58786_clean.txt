@@ -1,1 +1,0 @@
-equation begin x z x want solve equation z x plug z x plug z inside second equation x z frac z x finally want plot x x tried numerically following work eqn x z x eqn x z z x table table z solve eqn x matrixform table solve eqn table x think problem feeding value table second table feed data table domain solving eqn

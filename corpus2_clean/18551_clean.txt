@@ -1,1 +1,0 @@
-want find number b c plane ax cz make distance point plane equal tried setsystemoptions reduceoptions exhaustivesearchmaxpoints clear n n b c traditionalform simplify x b c z solve ab n norm n b c b c b c integer set equation mathematica output contains duplicate example x x eliminate duplicate

@@ -1,1 +1,0 @@
-How do I perform the following summation in mathematica? \begin{equation} \Sigma_{m=1}^5 e_{ijklm}A^{mn} \end{equation} I have the $e_{ijklm}$ tensor of rank 5 in 5 dimension as a array and $A^{mn}$ as a 5x5 matrix.

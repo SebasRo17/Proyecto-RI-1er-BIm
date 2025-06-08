@@ -1,1 +1,0 @@
-finding pythagorean triple worked slowly tried compile give warning also use case failed sure ccompiler set correctly compile following code select flatten table x z x x z

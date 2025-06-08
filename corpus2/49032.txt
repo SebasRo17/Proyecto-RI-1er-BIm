@@ -1,1 +1,0 @@
-If I want the fair price of a bond with coupon interval twice per year with interest rate $i$ p.a., I use "CouponInterval"->1/2. However, **the InterestRate should be the effective, or nominal interest rate?** Thank you for help.

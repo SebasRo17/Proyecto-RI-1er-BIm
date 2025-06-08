@@ -1,1 +1,0 @@
-chemical data plotting using listlogplot data listlogplot data joined true enter image description want replace x axis tick value associated element e g replace xaxis la ce pr nd sm eu gd tb dy ho er tm yb lu suggestion achieve another plot function using

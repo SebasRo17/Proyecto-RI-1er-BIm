@@ -1,1 +1,0 @@
-I write the following code of a recursion equation, but it can not work correctly.               RSolve[{        a[0]==(1-p)a[n],        For[i=1,i<=n-1,i++,a[i]==p a[n-i+1]+(1-p)a[n-i]],        a[n]==a[0]+p a[1],        Sum[a[k],{k,0,n}]==1},     a[n],n]

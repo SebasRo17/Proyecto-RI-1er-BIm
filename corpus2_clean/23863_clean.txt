@@ -1,1 +1,0 @@
-finding local maximum curve want make plot easier read added point maximum would also like add tick text x value maximum saying xmax x dotted line point x axis simpler version plot making maxi findmaximum co x x coordin x maxi first maxi plot co x x pi epilog pointsize large point coordin picture better explain allowed post image

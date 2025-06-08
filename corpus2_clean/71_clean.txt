@@ -1,1 +1,0 @@
-consider case symbol multiple definition attached subscript b b c one clear unset remove one definition leaving others intact

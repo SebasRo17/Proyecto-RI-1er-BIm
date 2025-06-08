@@ -1,1 +1,0 @@
-u z sech z z log z w z sech z z log z z z plot u w plotrange frame true ax false false epilog inset graphic dotdashed line inset z inset graphic dashed line inset z plotstyle dotdashed dashed mathematica graphic want change format plot eps though part plot programed using epilog inset mean z z change form make plot unreadable revise program think use panel dont know

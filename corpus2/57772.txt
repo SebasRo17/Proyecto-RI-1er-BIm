@@ -1,1 +1,0 @@
-I have a mathematical statement as follows : > Tri := {(t1,t2): t1,t2>=0,t1+t2<=1} How can I tell _Mathematica_ that I need to define vectors `(t1,t2)` 'such that' (`:`) they satisfy the above condition?

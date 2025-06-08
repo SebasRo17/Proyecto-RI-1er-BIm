@@ -1,1 +1,0 @@
-ComplexExpand[Abs[a + b I]]      Gives > $\sqrt{a^2 + b^2 }$               ComplexExpand[Abs[a + b I]^2]      On the other hand gives > Abs[a + I b]^2 How can I let it evaluate to $a^2 + b^2$ instead?

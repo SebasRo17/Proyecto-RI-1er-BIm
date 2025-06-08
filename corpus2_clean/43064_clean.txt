@@ -1,1 +1,0 @@
-trying loglogplot following function fun n nintegrate e besseli sqrt sqrt n work use plot example manipulate plot fun j plotrange j n appearance labeled try loglogplot done code manipulate loglogplot fun j plotrange j n appearance labeled thing get crazy mathematica output bunch error sure wrong help matter would much appreciated

@@ -1,1 +1,0 @@
-Consider the following;               all = {a, b, c, d, e};     mean = Mean[all];     a1=Accumulate@Prepend[all, 0];     a2=Accumulate@Append[Table[mean, {i, Length[all]}], 0];     a3=a2-a1;     a4=Map[Reduce[# >= 0, all] &, a3]      Now I would like Mathematica to solve this with the restriction that all elements of `all` are positive Integers.

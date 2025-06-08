@@ -1,1 +1,0 @@
-Hi I have a function in a form of * * * $$\frac{a}{x}exp(\frac{b}{\sqrt{3}-x})$$ * * * The code is               Integrate[a/x*E^(b/(3^0.5 - x)), {x, 1, 3^0.5}]      But it can't work currently, even given the value of `a` and `b`. Can it be integrated by `Mathematica`? How can I get the approximation (or if you have the method to get exact integration) and plot the diagram?

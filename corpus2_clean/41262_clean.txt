@@ -1,1 +1,0 @@
-tried run large scale linear programming mathematica entered code import b mat labeleddata x linearprogramming b c x b two large scale matrix bound variabels linear programming code work think sth wrong importing matrix b fix edit data file access

@@ -1,1 +1,0 @@
-Is there a _Mathematica_ barcode image reader (much like `TextRecognize`) that allows the user to enter an image of a barcode and then read it to get an output string?

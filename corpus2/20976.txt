@@ -1,1 +1,0 @@
-I am doing some calculations from different notebooks. I need to export the results from all those notebooks in columns of the same file, like > a1 b1 c1   >  a2 b2 c2   >  a3 b3 c3   >  . . . where a, b and c are the different notebooks.

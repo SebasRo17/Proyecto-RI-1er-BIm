@@ -1,1 +1,0 @@
-trying demonstrate aliasing effect using sound sample rate fixed sound frequency increased would hear sound pitch go pas nyquist frequency tried far manipulate emitsound play sin samplerate manipulate emitsound play sin samplerate question sound little bit lag slider possible create responsive one like manipulate emitsound sound soundnote n n

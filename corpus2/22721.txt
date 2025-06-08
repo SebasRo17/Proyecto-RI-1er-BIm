@@ -1,1 +1,0 @@
-In Preferences -> Evaluation there is a menu to change "Format type of new input cells" and the only options available are: StandardForm, TraditionalForm, and Raw InputForm. ![menu](http://i.stack.imgur.com/2e6e0.png) Is it possible to set this to InputForm? Edit: This is V9.

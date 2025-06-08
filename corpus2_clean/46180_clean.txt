@@ -1,1 +1,0 @@
-initializing table inside function follows f module rm table plus rm calling function f multiple time different value want function exit elegantly initializing table later checking proceed break started could go far x f module rm table l true l break plus rm

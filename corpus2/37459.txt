@@ -1,1 +1,0 @@
-I want to plot a piecewise-smooth vector field. For instance: $F_1(x,y) = (x^2 + y^2, y^2)$, $F_2 (x,y) = (2xy,2xy-x^2)$ and $H(x,y) = x-y$ $F(x,y) = \begin{cases} F_1(x,y) \text{ if } H(x,y) >0 \\ F_2(x,y) \text{ if } H(x,y)<0 \end{cases}$ How can I plot $F(x,y)$ in Mathematica?

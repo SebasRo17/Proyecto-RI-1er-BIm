@@ -1,1 +1,0 @@
-anyone know syntax distancefunction trying define function use clusteringcomponents e g clusteringcomponents img distancefunction norm needless say work shown overflow reason also tried using imagedata img even terminate

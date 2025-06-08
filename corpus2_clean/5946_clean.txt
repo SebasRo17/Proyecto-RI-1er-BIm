@@ -1,1 +1,0 @@
-problem occasionally facing simplify equation shortest form form simple mean often grouping term according certain function example exponential function fourier series example exp k x exp k x exp k simplify give e k e k x instead x exp k x exp k often desired simple way achieve achieved using fouriertransform replacing diracdelta get coefficient neither elegant always possible

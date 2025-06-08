@@ -1,1 +1,0 @@
-In my day-to-day work with Mathematica I use a stylesheet I have derived from Mathematica's default stylesheet. One modification I would like to make to my stylesheet is to reduce the spacing between a section title and the first cell inside the section. This is _not_ controlled by the CellMargins option. Is there another notebook option that can be set to reduce this gap?

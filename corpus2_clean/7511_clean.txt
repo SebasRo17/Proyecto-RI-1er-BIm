@@ -1,1 +1,0 @@
-partition list partition whose size vary length k th partition function f k example l f k k partitioning p would look like p

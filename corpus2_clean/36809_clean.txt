@@ -1,1 +1,0 @@
-trying generate power series expansion following function x l c integrate e sum l sum l l l x generateconditions false x l e sum x l x l l work perfectly case l table coefficientlist series x x x possible solve problem

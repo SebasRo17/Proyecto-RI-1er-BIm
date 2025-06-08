@@ -1,1 +1,0 @@
-use mathematica run simple command example cpu usage mathematica exe remains even calculation quit kernel program continues consume resource close program entirely bug suppress behavior

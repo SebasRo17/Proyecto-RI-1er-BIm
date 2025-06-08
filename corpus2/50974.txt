@@ -1,1 +1,0 @@
-May be duplicate, but, how it is possible to make a matrix or table of smaller dimensions, from a matrix with bigger dimensions. I mean, one may want to extract a 25*25 table from a 25*50 matrix. I did not understand the solutions mentioned in this page and this one.

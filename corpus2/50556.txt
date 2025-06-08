@@ -1,1 +1,0 @@
-Integrate[ (Pi/4 - x/2)  cos (n *x), {x, 0, Pi}]      This doesnt give me desired results .n is natural 1,2,3,4,5...   I want to get something like $$\frac{1-(-1)^n}{2n^2}$$

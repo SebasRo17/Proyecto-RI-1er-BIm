@@ -1,1 +1,0 @@
-trying numerically solve sir model simple understand working b g ndsolve b x x b x g x r g x x r x r interpolatingfunction x interpolatingfunction r interpolatingfunction

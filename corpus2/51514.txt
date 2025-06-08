@@ -1,1 +1,0 @@
-In Mathematica, is it possible to exponentiate a differential operator such that the operator will act on a function, $f(x,p)$? Specifically, I wondering if I can get Mathematica to do this: $\exp(c\frac{d}{dp})f(x,p)=(1+c\frac{d}{dp}+\frac{c^2}{2}\frac{d^2}{dp^2}+\cdots)f(x,p)=(f(x,p)+c\frac{df}{dp}+\frac{c^2}{2}\frac{d^2f}{dp^2}+\cdots)$ where $c\in\Re$. Thanks.

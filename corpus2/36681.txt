@@ -1,1 +1,0 @@
-For example, if I have `Piecewise[{{x^2, x < 0}, {x, x > 0}}]`, how do I select only the function that is for `x < 0`? I want to set a new function equal to the `x^2` only, not the entire piecewise function.

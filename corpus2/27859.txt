@@ -1,1 +1,0 @@
-Suppose we have               WeatherData["Helsinki", "MeanTemperature", {{2007, 1, 1}, {2012, 12, 31}, "Day"}]      How we can have data just for 15th day of each month?

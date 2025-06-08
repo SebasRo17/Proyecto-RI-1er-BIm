@@ -1,1 +1,0 @@
-> Make a `Plot` and a `ContourPlot` that gives the same diagram and use > `ContourPlot` on a quadruple of equations to make ![plot](http://i.stack.imgur.com/GvFwc.png) I am thinking that I need to show a parabola reflected across the x-axis, and two sideways parabolas, but I don't know how to create this picture.

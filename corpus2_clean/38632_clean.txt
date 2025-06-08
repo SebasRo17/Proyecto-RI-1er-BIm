@@ -1,1 +1,0 @@
-encountered problem using simplify expression containing square root isolated following test case simplify x x sin sqrt result x sqrt x x sqrt simplified case x sin logic behind simplifying x keeping x difference vanish replace case simplify x x sin sqrt result true true true true

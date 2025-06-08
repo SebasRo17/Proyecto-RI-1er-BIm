@@ -1,1 +1,0 @@
-evaluated dsolve x x x g x x x x output ode actually solution x x g able solve ode maple enter image description get solution mathematica

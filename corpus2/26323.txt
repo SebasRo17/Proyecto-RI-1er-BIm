@@ -1,1 +1,0 @@
-temp = (layer = #;         layerS = ToString[#];         StringForm["Import[\"drainCdg_gdat0``\",\"Table\"]",           layerS]) & /@ {1, 2, 3}      how to get the output of this to actually execute Import command? i.e. go to a directory and import a series of files with indexed filenames ?

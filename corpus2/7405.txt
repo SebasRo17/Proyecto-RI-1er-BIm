@@ -1,1 +1,0 @@
-How can I sort a list and also get a list of indices that sort this list? For example: primary list is a               a={1,4,6,7,0,2};      sorted list is b               b={7,6,4,2,1,0}      and also return list c               c={4,3,2,6,1,5}

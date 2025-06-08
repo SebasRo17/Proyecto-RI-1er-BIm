@@ -1,1 +1,0 @@
-consider game function v begin align v geq v geq v geq v geq v geq v geq v end align plot function mathematica preferably one use regionplot graphic core plotted

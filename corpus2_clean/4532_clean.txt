@@ -1,1 +1,0 @@
-possible convert charcode keycode string want create variable generated equation

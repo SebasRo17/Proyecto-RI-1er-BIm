@@ -1,1 +1,0 @@
-set point dimension like modify listpointplot higher dimension mapped different variable color opacity point size etc example table randomvariate normaldistribution listpointplot option

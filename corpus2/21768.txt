@@ -1,1 +1,0 @@
-Imagine there is a given function f, defined with `SetDelayed`, say               f[x_] := Sin[x]^2 + Cos[x]^2.      Is it possible to get rhs of this function before evaluation? For instance of f[5] I want to get expression               Sin[5]^2 + Cos[5]^2.

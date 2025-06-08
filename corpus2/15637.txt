@@ -1,1 +1,0 @@
-I have the function: $F(\omega) = \frac{5\; - \;i\;\omega}{5^2\; +\; \omega^2}$ When $\omega$ has the values : $\\{ -7, -2,\; 0,\; 2,\; 7\\}$ How would I plot the Argand diagram in Mathematica? Or should I just treat it as a normal plot? The graph should look like a circle with radius $\frac{1}{10}$ passing through the points specified.

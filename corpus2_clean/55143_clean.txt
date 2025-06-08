@@ -1,1 +1,0 @@
-possible set number column mathematica text based interface disable word wrapping text based interface specifically concern output matrixform tableform wrap output column seems value hardcoded use text based interface within emacs shell buffer edit answer checked green solves problem test command give long output matrixform

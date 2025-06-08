@@ -1,1 +1,0 @@
-go setting recurrence relation first value constant second value another constant ideally like efficient way set without type term explicitly

@@ -1,1 +1,0 @@
-I like this, but.. .. how could I put the labels to know +- over where value I are moving? for examples, between 0 and 8.                Manipulate[{u*v}, Row[{Control[{u, 0, 1}], Control[{v, 0, 1}]}],        ControlType -> VerticalSlider, ControlPlacement -> Up]

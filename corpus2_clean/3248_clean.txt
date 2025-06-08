@@ -1,1 +1,0 @@
-ragged list ragged b c e x z would like trim right rectangular desired result b c x z seems like one word operation find one word far best padright null delete everything null transpose deletecases transpose padright ragged automatic null memberq null seems way complicated simple operation simplest way

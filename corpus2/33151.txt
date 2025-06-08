@@ -1,1 +1,0 @@
-How can I rank a vector such that the ties are replaced by their middle ranks. For example, `{1, 2, 2, 3}`. I want to rank this vector but the ties must be replaced by their mid-rank; i.e., given `{1, 2, 2, 3}`, I want to get the vector `{1, 2.5, 2.5, 4}`. Does there exist any fast command or function to do this?

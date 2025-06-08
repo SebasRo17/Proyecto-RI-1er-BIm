@@ -1,1 +1,0 @@
-trouble exporting contourplot dxf used autocad code lg contourplot sum sinc n pi co n x arctan x n x plotpoints setdirectory notebookdirectory export lg dxf lg relevant output export nodta graphic contains data exported dxf format help would appreciated thanks

@@ -1,1 +1,0 @@
-would like define function fourier series discrette data specific function draw graph using data idea get function plot periodic want obtain function work like fourier series expansion define function graph enter image description horizontal axis time vertical axis space

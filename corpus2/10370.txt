@@ -1,1 +1,0 @@
-I do not know if this is particular to Mac OS, but with version 8, the window name of a notebook no longer changes (with an appended *) when it is modified, as it used to do with version 7 (as well as older ones for as long as I remember). I found this feature really useful and wonder if one can re-enable something comparable (by tweaking preferences ?) on version 8.

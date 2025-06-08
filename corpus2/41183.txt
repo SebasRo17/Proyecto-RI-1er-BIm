@@ -1,1 +1,0 @@
-I have four equations, $$ z = xy \\ z=0 \\ y=x^2 \\ x=y^2$$ I would like to integrate the region bounded by them. Before this, I would like to plot the region they bound, but I cannot seem to find any documentation on how to do this with `Plot3D` or `RegionPlot3D`

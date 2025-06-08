@@ -1,1 +1,0 @@
-new mathematica know wrong written following pde problem initial boundary four total eq u x u x u x x x bc u u pi u x derivative u x sin x dsolve eq bc u x x need solve pde even try make solution hope help

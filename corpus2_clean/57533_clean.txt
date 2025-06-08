@@ -1,1 +1,0 @@
-plot cylinder x x plane x z x z coordinate system mathematica

@@ -1,1 +1,0 @@
-In 3D plots one can eventually hide the whole bounding box by the use of option `Boxed -> False`. How to remove only a selected part of the wire frame that surrounds the plot?

@@ -1,1 +1,0 @@
-I wrote some code to get a piecewise plot which is displayed correctly. Now I'd like to join the various parts of the plot, using some kind of interpolation, to get a continuous chart even though it's actually a piecewise one. Let me to give you an example. Assuming $f_1(2) = 3$ and $f_2(2) = 1$, how can I join the points $(2,3)$ and $(2,1)$ in the plot?

@@ -1,1 +1,0 @@
-When I export a plot to a PDF with something like               Export["test.pdf", Plot[Sin[x], {x, 0, 2 Pi}], "PDF"]      I get a file in which the axes have been separated from the rest of the plot in some editors and viewers (e.g., OmniGraffle): ![enter image description here](http://i.stack.imgur.com/YmBWh.png) Why is this happening? Is there a way to prevent it?

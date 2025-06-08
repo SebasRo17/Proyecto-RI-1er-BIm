@@ -1,1 +1,0 @@
-plot sin x co x x mesh pi meshshading black red specify want mesh say sine function cosine know use two plot combine show want

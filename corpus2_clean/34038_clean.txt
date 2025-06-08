@@ -1,1 +1,0 @@
-easier way plot coincidently plane x z parametric line x z two point moreover pick distinct colour choose size point tried following avail aa contourplot x z x z axeslabel x z bb parametricplot plotstyle rgbcolor axeslabel x z cc listplot axeslabel x z show aa bb cc referenced normal line surface plane plot plot multiple figure plot

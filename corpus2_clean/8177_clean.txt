@@ -1,1 +1,0 @@
-way mathematica understand big oh notation example want something like minbigoh minbigoh x x x minbigoh x x x idea want able augment min understand big oh comparison purpose write bunch expression mathematica reason big oh running time somewhat thanks

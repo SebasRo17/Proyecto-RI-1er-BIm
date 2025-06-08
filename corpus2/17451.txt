@@ -1,1 +1,0 @@
-I need to get an output graphics which does not show mouse cursor over itself. I didn't find a corresponding value in `MouseAppearance` documentation and ended up with               MouseAppearance[Graphics@Circle[{0, 0}], Graphics[{Opacity[0.01], Point[{0, 0}]}]]      Is there a right way of doing this?

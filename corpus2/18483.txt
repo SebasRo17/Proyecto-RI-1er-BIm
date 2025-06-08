@@ -1,1 +1,0 @@
-I'm a little confused with how to use the output from `DSolve`. The following works               s = DSolve[{y'[x] == x, y[0] == 0}, y[x], x];     Plot[y[x] /. s, {x, 1, 10}]      but I don't understand how it works. I am familiar with `/. a -> b` which will replace a with b, but I don't get what `y[x] /. s` is doing?

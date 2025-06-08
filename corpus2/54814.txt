@@ -1,1 +1,0 @@
-Mathematica quits (exits) when the single notebook I'm working on is closed. How to prevent this? Win7, v10 Mathematica

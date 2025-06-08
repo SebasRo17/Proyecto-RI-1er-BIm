@@ -1,1 +1,0 @@
-example change color pixel mean color three channel tried exampledata testimage lena mean remains unevaluated enter image description read color image list matrix change color code save back image

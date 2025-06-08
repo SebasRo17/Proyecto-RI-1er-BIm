@@ -1,1 +1,0 @@
-I know that it is possible to expand `StirlingS2[n, 10]` in terms of elementary functions of `n`. I tried `FunctionExpand` but it returned unevaluated:               In[1]:= FunctionExpand[StirlingS2[n, 10]]     Out[1]= StirlingS2[n, 10]      Is there a way to do this in _Mathematica_?

@@ -1,1 +1,0 @@
-I'm using very noisy biological data, and I need to assume, when doing linear regression, that there are errors in both `X` and `Y`. To my understanding normal regression only assumes errors in `Y`. Is there a way to specify error values for `X` and `Y` in _Mathematica_ , and take that into account when finding a linear relationship between the two?

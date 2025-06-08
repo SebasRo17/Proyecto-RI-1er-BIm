@@ -1,1 +1,0 @@
-trying solve following system mathematica poblacion p q k c q nsolve p p p k q c get working could please tell wrong

@@ -1,1 +1,0 @@
-sometimes make calculation mathematica produce big number mathematica show like annoying want see number normally without exponential notation something like make mathematica show number normally

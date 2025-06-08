@@ -1,1 +1,0 @@
-possible obtain machine precision double version infinity useful using librarylink c function accept double passing infinity raise type error infinity symbol

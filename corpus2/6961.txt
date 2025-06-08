@@ -1,1 +1,0 @@
-Is it possible to set a notebook's background to a nonscrolling image?

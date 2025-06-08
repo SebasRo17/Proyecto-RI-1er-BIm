@@ -1,1 +1,0 @@
-trying draw plot using solution differential equation z r r system u v v u r w v w r v initialvalues u v w sol dsolve join system initialvalues u v w ft r u e r co kz p plot ft framelabel ft frame true rotatelabel true plotrange plotstyle thickness code right went plot ft using result u

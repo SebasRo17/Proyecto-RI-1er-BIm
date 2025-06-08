@@ -1,1 +1,0 @@
-Can someone provide an example of a **_Combinatorica_** -based graph which uses **ShowGraph** and **Graph** and takes in an explicitly defined list of edges (not some auto-generated graph). I have not been able to find any documentation which describes the expected input format.

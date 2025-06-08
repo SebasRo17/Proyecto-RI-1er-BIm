@@ -1,1 +1,0 @@
-following integration text sqrt frac pi int infty frac e z left e frac z b left frac c z right l right sqrt z dz get different result use mathematica matlab mathematica code l sn sn b sn c result sqrt pi integrate e z sqrt z c z l e z b z infinity give whereas matlab result reason discrepancy

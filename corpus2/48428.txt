@@ -1,1 +1,0 @@
-Is there a way to convert a Delaunay Triangulation into a Graph structure so that one can generate an AdjacenyMatrix of the Delaunay?

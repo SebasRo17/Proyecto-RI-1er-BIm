@@ -1,1 +1,0 @@
-working notebook trying expand root cubic polynomial taylor series type series sqrt b mathematica take indefinite amount time forced halt execution occurs even simple function like exp x compute restart kernel something wrong computer month old know problem old hardware

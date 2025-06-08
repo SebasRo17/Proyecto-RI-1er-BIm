@@ -1,1 +1,0 @@
-I would like to define a 3-D vector as say v={x,y,z}, but I want it to have a fixed norm, say a unit norm |v|=1. How do I impose this condition on v.

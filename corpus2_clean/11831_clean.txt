@@ -1,1 +1,0 @@
-want visually demonstrate manipulation made graph instance graph g using command layeredgraphplot g bottom vertexlabeling true get figure output g adding edge using command get one g want show smooth transition two figure user track addition edge easy general way effect mathematica

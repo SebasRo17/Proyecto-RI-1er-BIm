@@ -1,1 +1,0 @@
-I have a list of numbers and I want to plot the fraction of numbers >= k against k which will naturally be a decreasing curve. How do I do that?

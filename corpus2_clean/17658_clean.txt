@@ -1,1 +1,0 @@
-new mathematica version trying display multigraph different colored edge code far g graphplot g edgerenderingfunction switch black line red line blue line green line purple line vertexlabeling true method circularembedding multiedgestyle example bug draw graph edge give many switch graphic primitive directive error get code draw edge properly thanks corey

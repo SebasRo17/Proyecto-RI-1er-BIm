@@ -1,1 +1,0 @@
-set ode solving plotting several trajectory parametricplot want color plot reflect time e parameter point tried something along line parametricplot sin co sin co tan colorfunction function hue color function seemingly arbitrary way cheer

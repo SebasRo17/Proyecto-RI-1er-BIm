@@ -1,1 +1,0 @@
-Using `FindFit`, _Mathematica_ selects an optimal algorithm when `Automatic` is selected. I'd like to know the name of the method applied to the `FindFit` computation. Is there any option to explain that?

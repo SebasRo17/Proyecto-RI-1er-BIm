@@ -1,1 +1,0 @@
-I have a huge expression with (Co)Sine of a sum like Cos[[Theta] - 2 [Phi]] (after using \Simplify). I wanted to know if it exists a function which forces Mathematica to express the result in terms of multiplication of (Co)Sine instead of (Co)Sine of a sum ?

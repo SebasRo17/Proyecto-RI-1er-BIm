@@ -1,1 +1,0 @@
-would like save image double precision tiff image looked tried many thing luck able import double precision tiff idl found data double precision problem export side data randomvariate normaldistribution pic image data real imagedata pic export real tiff tiff pic import real tiff tiff data run code find data non integer read back

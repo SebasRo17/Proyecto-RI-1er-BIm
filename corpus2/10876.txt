@@ -1,1 +1,0 @@
-Plot3D[f,{x,xmin,xmax},{y,ymin,ymax}]      In the above , is there any way to give range of y in terms of x. I want to give like `{x, 0, 9000}` and `{y, x, 9020-x}` and `f = 9020/(9020 + y)`.

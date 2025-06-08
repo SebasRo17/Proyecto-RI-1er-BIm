@@ -1,1 +1,0 @@
-I just saw a nice plot there: ![enter image description here](http://i.stack.imgur.com/gjON3.png) How could I implement that in Mathematica — by which I mean the plot structure, not so much the styling.

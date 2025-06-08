@@ -1,1 +1,0 @@
-get equation similar shaped curve enter image description tried get like c x x fit x x x lack two root use polynomialfit lack point

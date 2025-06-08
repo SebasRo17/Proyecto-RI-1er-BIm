@@ -1,1 +1,0 @@
-something like findroot f x x want findroot constrain solution x obtain

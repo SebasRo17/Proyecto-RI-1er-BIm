@@ -1,1 +1,0 @@
-working listdensityplot set triple x z dot data semi regular grid look plot however boundary dataset function continues bordering hue mathematica graphic simple way fix think work append data set dummy region zero like feel must something elegant anyone thought top function neatly described analytic function would rather simple

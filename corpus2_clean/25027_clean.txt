@@ -1,1 +1,0 @@
-week ago created big matrix order recreate stored using dumpsave file mx variable want read back use file mx appears work fine load file take moment mb size problem forgotten called matrix name variable used saved generating command unfortunately around way figuring variable called directly access data loaded

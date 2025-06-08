@@ -1,1 +1,0 @@
-need find minimum r maximum k following cubic equation exist three distinct real root rx rkx r k x rk possible find r k analytically provide help using mathematica would fine thanks

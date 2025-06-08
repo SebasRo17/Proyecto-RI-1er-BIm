@@ -1,1 +1,0 @@
-The Find edit box in the Find and Replace Dialog Window shows a default word while opening. How do I tell it to show the word in which the mouse cursor is located in the Notebook, rather than the last word searched for? I want it to work like pressing F1 to open the right reference in Documentation Center does.

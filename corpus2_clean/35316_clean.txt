@@ -1,1 +1,0 @@
-file attached image imported mathematica extracted first second column problem want extract data beginning row assuming extraction column called could easily use drop drop want file always beginning th row think wrap function empty entry clue anyone suggestion approach revamped image description

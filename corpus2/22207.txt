@@ -1,1 +1,0 @@
-How to make a defined symbol stay in symbol form?               w = 3; g = 4;          {w, g}[[2]]      > `3` I want the output to be **`g`** and not `3`. For example if I I want to save different definitions by `DumpSave` in different files like below: Example: `Table[DumpSave["/Users/simonlausen/Desktop/Input/ex"<>ToString[i]<>".mx",{w,g}[[i]]],{i,1,2}]` Any Suggestions?

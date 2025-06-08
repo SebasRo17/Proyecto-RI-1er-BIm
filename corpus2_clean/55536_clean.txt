@@ -1,1 +1,0 @@
-several hundred csv file logically named contains number character special character stored directory file large unequal number row column need information last line file would efficient way use mathematica get last line file summarize new csv file file name tag wreach suggested sure proceed especially given irregular title

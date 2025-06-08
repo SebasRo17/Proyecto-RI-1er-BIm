@@ -1,1 +1,0 @@
-perform following summation mathematica begin equation sigma e ijklm mn end equation e ijklm tensor rank dimension array mn x matrix

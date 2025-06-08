@@ -1,1 +1,0 @@
-suppose list want make new list contains entry first component pair repeat example element would eliminated since appears first component likewise also eliminated simple condition use select function thanks advance

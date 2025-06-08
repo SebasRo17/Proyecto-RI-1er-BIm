@@ -1,1 +1,0 @@
-I constantly find myself with multiple Windows Explorer windows open and it would be wonderful to be able to close them all at once using a Mathematica command. Is it possible to close Windows Explorer from within Mathematica ? The post here makes me think it must be possible: http://stackoverflow.com/questions/7644881/calling-a-command-line-program

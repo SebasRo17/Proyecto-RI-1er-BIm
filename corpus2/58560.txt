@@ -1,1 +1,0 @@
-I have the following code:               proc = DiscreteMarkovProcess[1, {{0.6, 0.4}, {0.3, 0.7}}]          Graph[{"A", "E"}, proc, GraphStyle -> "DiagramBlue"]      How can I 'force' to show the percentage values (0.6, 0.4 etc) on each arrow? I can see the values when I mouse hover it. Thank you.

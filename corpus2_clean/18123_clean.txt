@@ -1,1 +1,0 @@
-problem combining eventhandler mouseappearance want change cursor appearance primary button pressed item releasing arrow back thought work dynamic mouseappearance mysz eventhandler framed mouseup mysz arrow mousedown mysz strange thing using mouseclicked work course effect different work like second thing variable mysz updated button pressed appearance change

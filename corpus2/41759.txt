@@ -1,1 +1,0 @@
-I want to create a cell that will resize automatically if the notebook is resized. I was hoping to find some function called NotebookDimensions[], and use it dynamically.

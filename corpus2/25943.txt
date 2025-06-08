@@ -1,1 +1,0 @@
-I downloaded some demonstrations' sources (for example) and I want to change their colors. I am only stuck with the white outer background that is around the plot's yellow background. I would like to see a part of the code where I should put in something like Background->Color.

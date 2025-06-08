@@ -1,1 +1,0 @@
-running mathematica bit window laptop luck getting c compilation work need ccompilerdriver ccompilers full ccompilers return package load successfully package show ccompilerdriver entry contextpath first return ccompilerdriver following compiler installed microsoft visual studio professional intel c composer xe

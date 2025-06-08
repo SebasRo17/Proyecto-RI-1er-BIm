@@ -1,1 +1,0 @@
-What would be the fastest way to take an array containing about $n=10^6$ to $10^7$ elements and plot a two-dimensional histogram with A x B bins? ListDensityPlot is taking upwards of half-an-hour. Should I be using compiled code?

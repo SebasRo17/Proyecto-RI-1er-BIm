@@ -1,1 +1,0 @@
-big list principle described compact list list e b c f b c g h interested rewriting following e abcd f abcd g h work well applying simple rule list x b x c x x abcd x x x x however affected sublists x x depth difficulty constructing rule work instance list e b c f b c g h give desired result question way replaceall independent depth elegant method job

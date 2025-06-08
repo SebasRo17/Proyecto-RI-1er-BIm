@@ -1,1 +1,0 @@
-mathematica integrate command sometimes strangely integrates polynomial yielding unsimplified unexpected fractional result example line integrate h x q q x q q x h unsimplified result h q q q q q q q q theoretical result cannot fraction proper command line lead polynomial

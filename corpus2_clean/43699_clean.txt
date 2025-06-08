@@ -1,1 +1,0 @@
-would like convert number base use integerdigits using baseform notebook display output wrapper actually convert number base sequence cause problem want use integerdigits base number get list binary digit e g simply display integerdigits could solve thank

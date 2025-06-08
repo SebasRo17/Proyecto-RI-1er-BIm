@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Way to improve "show me this decimal number to M places, don't use > scientific notation"? How can I expand e.g. number 1.*10^-8 so that there would be no exponents? It should look like 0.00000001.

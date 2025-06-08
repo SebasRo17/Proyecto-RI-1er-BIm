@@ -1,1 +1,0 @@
-trying eventhandler graphic stuff mousedragged p pan graphic keydown z zoom mouse move graphic would similar graphic except pan graphic want change plotrange rather move graphic around window btw using mousedown custom modification graphic one reason want pan zoom associated pressing key

@@ -1,1 +1,0 @@
-capture output print function leave printed object final output wish edit e g module print plot sin x x pi would like use something like temporary setting preprint post rather use cell selection selectionmove notebookread aim somehow intercept print output plot object set variable without altering module attempt work enter image description

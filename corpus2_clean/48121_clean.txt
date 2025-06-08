@@ -1,1 +1,0 @@
-vertexindegree f vertexoutdegree f want ordered example graph node b c indegrees outdegrees want list tried sort vertexindegree f vertexoutdegree f ordering give expected result

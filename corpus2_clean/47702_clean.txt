@@ -1,1 +1,0 @@
-mathematica predefined cuda function like cudamap cudafourier etc question one call function part cuda library part predefined mathematica function example cuda large math library call cufft library instead using cudafourier would go write c code call cuda library function call c function mathematica seems round way something could quite find documentation thanks much

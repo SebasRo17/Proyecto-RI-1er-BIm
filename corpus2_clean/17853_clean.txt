@@ -1,1 +1,0 @@
-option menu histogram option called chartlegends add little box beside plot indicate curve represents cannot find similar option smoothhistogram know plotlegends new version would expected option valid smoothhistogram well anybody know way around issue

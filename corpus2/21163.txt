@@ -1,1 +1,0 @@
-In version 9 we can set the background to an image, however I'd like to save this into a stylesheet that can be installed.

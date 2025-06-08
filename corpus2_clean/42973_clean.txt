@@ -1,1 +1,0 @@
-list instance second list always smaller equal first one say find position element second list first list answer example want answer form implicitly give

@@ -1,1 +1,0 @@
-imagine two list list list b c e f use pick return third list consisting item list array position corresponding array position value leq n first list example n list f

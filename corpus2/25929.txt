@@ -1,1 +1,0 @@
-I want to replace a string in a selected region/cell in mathematica notebook/package. I searched but didn' t get any result. I think it' s a quite common feature for editors/programming environments. I guess workbench has this but I don' t have access to a copy. Maybe now the best option is to use some other editor to do this, is it?

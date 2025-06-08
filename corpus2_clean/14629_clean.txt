@@ -1,1 +1,0 @@
-use mintemperature maxtemperature temperature property weatherdata one city one line code

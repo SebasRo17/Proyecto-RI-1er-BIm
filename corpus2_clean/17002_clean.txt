@@ -1,1 +1,0 @@
-start x matrix would like remove first column get x matrix repeat x efficient way see insert add column row see command removing see maybe use extract single vector extraction

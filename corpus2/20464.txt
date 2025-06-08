@@ -1,1 +1,0 @@
-I have some numerical data from which I generate a PDF via:               pdf = HistogramDistribution[data];      Which can then be easily visualised thus:               DensityPlot[PDF[pdf, {x, y}], {x, 1.5, 3.3}, {y, -46, -44}, PlotPoints -> 100]      What I would like to do is be able to quickly draw 90% credible intervals on top of this plot.

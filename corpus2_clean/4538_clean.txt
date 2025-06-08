@@ -1,1 +1,0 @@
-possible custom distance metric defined determine distance two cluster agglomerative clustering mathematica dimension data string value along three dimension want define way measuring distance two cluster string also want stop clustering distance two cluster greater particular threshold value available mathematica

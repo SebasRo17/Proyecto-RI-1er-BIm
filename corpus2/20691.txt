@@ -1,1 +1,0 @@
-`Dynamic[x=7];` does not make `x` dynamic! But `Dynamic[x=7;]` makes `x` dynamic with initial value 7. The problem with the later is the presence of `Null` in the output. My question is: how can I assign a (big) value (or a huge list, etc.) to a dynamic variable AND suppress any possible output (including `Null`)?

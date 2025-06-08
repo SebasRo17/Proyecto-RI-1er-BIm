@@ -1,1 +1,0 @@
-I have various functions that export Excel and text files, and need to have them named with a name based on the content of some variables in the function and the time and date. How can this be done with Mathematica?

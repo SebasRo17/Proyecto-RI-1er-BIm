@@ -1,1 +1,0 @@
-running mathematica window machine processed code kernel k nsolve rationalize r r k r real version kernel return two value expected r r version kernel return first value default second value appear solution setting workingprecision least behavior occurs value k version kernel need massaging return value version kernel find default would cause

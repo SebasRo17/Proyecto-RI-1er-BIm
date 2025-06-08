@@ -1,1 +1,0 @@
-want generate graphic using discreteplot primepercent x x imagesize full filling none joined true primepercent x integer primepi x x generate computer becomes slow simply many data point wondering get load ram continually saving evaluated data file using different evaluation method graphic option course export save file generated

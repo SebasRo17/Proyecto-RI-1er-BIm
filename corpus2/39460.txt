@@ -1,1 +1,0 @@
-Can you extract the Style attributes from a variable. For example:               var = Style["aString", Bold, 24]      You can get back "aString" by using ToString[var] but I am not able to get the attributes {Bold, 24}.

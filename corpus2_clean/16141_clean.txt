@@ -1,1 +1,0 @@
-consider following example trying export following table export test dat table import see get import test dat table contains extra undesirable comma trying making data type list possessing issue element separated comma fix problem imported table exported

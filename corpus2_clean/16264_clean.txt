@@ -1,1 +1,0 @@
-two graph g graph vertexlabels placed one tooltip placed two tooltip placed three tooltip g graph vertexlabels placed five tooltip placed two tooltip placed three tooltip display appropriate label mouseover graphunion g g get desired graph tooltips vertex name gone graphunion g g option g expected get tooltips vertex g get tooltips vertex e vertex graph thanks much

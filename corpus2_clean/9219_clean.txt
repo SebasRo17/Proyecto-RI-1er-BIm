@@ -1,1 +1,0 @@
-consider following case list q r list b c f inner list list list q r b c f however last element list length list q r list b c inner list list list q r b c q r would expected wanted result like q r b c inner operation change list entry length generate output like expected result edit came potential answer question partition riffle list list q r b c seems somehow complicated

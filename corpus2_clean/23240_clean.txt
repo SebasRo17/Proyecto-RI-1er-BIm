@@ -1,1 +1,0 @@
-given following matrix array subscript enter image description find skew diagonal anti diagonal back diagonal matrix shown red enter image description

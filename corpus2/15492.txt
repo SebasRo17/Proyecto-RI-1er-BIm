@@ -1,1 +1,0 @@
-Is there a way to programmatically access the structure of curated data present in Mathematica (for each type of information, for example for CountryData or ChemicalData) that would allow access to any kind of available information ? This would also allow the possibility to build generic graphical interfaces for accessing the data.

@@ -1,1 +1,0 @@
-use usage tag allow mathematica v front end know multiple way call overloaded function function different number argument example sequentially run two command myfunc usage foo x z combine x z myfunc usage foo x z w even better second line overwritten first front end know case built example talking table front end recognizes many different template

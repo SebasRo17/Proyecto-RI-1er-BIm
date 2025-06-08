@@ -1,1 +1,0 @@
-Is there any difference at all between               f[x_Integer /; x >= 0] := x + 1;     f[x_Integer] := x - 1;     f[x_] := Null;      and               f[x_Integer] := x + 1 /; x >= 0;     f[x_Integer] := x - 1;     f[x_] := Null;      The output is identical in both the cases. Even if there is no technical difference, is it common practice to adhere one and avoid the other?

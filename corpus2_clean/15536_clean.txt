@@ -1,1 +1,0 @@
-matlab simulink simscape maple maplesim scilab xcos equivalent product mathematica

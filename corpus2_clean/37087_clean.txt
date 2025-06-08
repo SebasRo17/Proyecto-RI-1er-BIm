@@ -1,1 +1,0 @@
-given smooth function u x domain find maximal u x leaving x unconstrained plot level curve contourplot u x x sure numerically locate point want edit u solution pde sol ndsolve u x u x x x u x x u x u x u x u x exp x u u u x point interest lie domain x

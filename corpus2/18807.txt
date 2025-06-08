@@ -1,1 +1,0 @@
-You can see that there are gaps on all sides of the plot between the frame and the extent of the line that I've plotted. How do I get rid of these? I'd like the frame to cover $[0,1]\times[0,1]$ and no more.               Plot[x, {x, 0, 1}, Frame -> True]      > ![enter image description here](http://i.stack.imgur.com/Y5Ck5.png)

@@ -1,1 +1,0 @@
-simple example say wanted solve sin x x constraint x pi way

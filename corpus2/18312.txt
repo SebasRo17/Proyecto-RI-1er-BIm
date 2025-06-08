@@ -1,1 +1,0 @@
-I would like to calculate the numerical value of $\xi\in\mathbb{R}_{\geq0}$$$P(|U|<\xi)=0.95$$ where $U$ is standard-normal distributed. How may I do that in Mathematica?

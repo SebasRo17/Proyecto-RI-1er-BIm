@@ -1,1 +1,0 @@
-How can I find in a list `l` the positions of all elements satisfying a boolean function `f`. For example, how can I pick in `{1, 1, 1, 3, 2, 4, 1, 4, 1, 1, 2, 1}` the first element that does not equal `1`? A minimized version of an aswer (short code) is welcome.

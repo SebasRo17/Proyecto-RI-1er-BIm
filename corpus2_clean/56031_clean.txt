@@ -1,1 +1,0 @@
-use listplot showing result numeric computation enter image description make tick never know hand vertical center plot want put axis center center symmetry task plot default know axesorigin take center value put axis center automatically without caring tick enter image description

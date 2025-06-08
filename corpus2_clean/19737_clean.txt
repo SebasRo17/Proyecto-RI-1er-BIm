@@ -1,1 +1,0 @@
-new mathematica experimenting simply problem plotting tangent curve able move point tangent drawn using manipulate run following cell flicker lot also seems consume lot cpu way avoid manipulate module f x dx dy dx dy f x x tangent x x dx f x dy x dx f x dy g graphic line tangent x f x plotrange p plot f x x show p g x

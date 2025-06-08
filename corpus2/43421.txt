@@ -1,1 +1,0 @@
-I type Vietnamese using UTF-8 Encoding but Text Display got error. How to type Vietnamese, Chinese in Mathematica. Please help me.

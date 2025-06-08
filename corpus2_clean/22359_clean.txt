@@ -1,1 +1,0 @@
-would like minimize function including following nminimize n x x n n x x n x however mathematica complains value real

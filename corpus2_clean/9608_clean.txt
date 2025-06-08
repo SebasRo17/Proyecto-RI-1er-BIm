@@ -1,1 +1,0 @@
-documentation logplot respect axis would x axis plot option example example plot log scale x axis

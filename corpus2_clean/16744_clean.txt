@@ -1,1 +1,0 @@
-simply want add label ax without using drawing tool menu tried without success regionplot x x axeslabel automatic work either regionplot x x axeslabel x convenient way labelling ax region plot thanks help

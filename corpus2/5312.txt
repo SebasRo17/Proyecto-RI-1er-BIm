@@ -1,1 +1,0 @@
-Say I have a plot like               plot = DensityPlot[Exp[-((x-5)^2+(y-5)^2)/5^2], {x, 0, 10}, {y, 0, 10},PlotRange -> {0,1}]      ![Mathematica graphics](http://i.stack.imgur.com/cwkQu.png) Is there a way to change the `ColorFunction` _after the fact_ , as an operation on `plot` (say change it to `ColorFunction -> "Temperature"`) without changing the initial plot instructions?

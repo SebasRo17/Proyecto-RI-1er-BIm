@@ -1,1 +1,0 @@
-![how to revise it](http://i.stack.imgur.com/3nreu.png) _**My Methods:_**               Style["Mathematica", Pink]     "Mathematica" // Style[#, Pink]     Style@("Mathematica", Pink)      _How to revise it?Thanks!_

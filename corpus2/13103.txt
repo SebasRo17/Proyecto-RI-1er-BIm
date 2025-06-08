@@ -1,1 +1,0 @@
-I am trying to label one of the frames on a ListPlot as log_10(x). When I try `ListPlot[twodimndata,Frame -> True, FrameLabel -> {Style[Log10[r], 20], Style[d, 20]}}` the output on the x-axis is `Log[r]/Log[10]`, rather than Log_10[r] as I expected How can I get Mathematica to plot Log_10[r] on the x-axis?

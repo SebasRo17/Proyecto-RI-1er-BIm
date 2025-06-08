@@ -1,1 +1,0 @@
-want import list file using readlist data format like e imported like way increase precision import even better way change notebook precision globally

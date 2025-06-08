@@ -1,1 +1,0 @@
-Does there exist a way to use Eureqa software with Mathematica under Windows?   That is, is there a working client to connect to a Eureqa server?

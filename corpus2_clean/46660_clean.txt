@@ -1,1 +1,0 @@
-title say count number prime say smaller n contain

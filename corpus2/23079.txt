@@ -1,1 +1,0 @@
-I have to provide data exports from _Mathematica_ to CSV format and it is very slow compared to other formats as can be seen in the following table:   * JSON, 15 sec, 8.4 MB    * TXT, 23 sec, 5.6 MB    * XLSX, 37 sec, 3.0 MB   * CSV, 704 sec, 4.4 MB Can somebody give me a hint on how to speed this up? Or an explanation why it is so slow?

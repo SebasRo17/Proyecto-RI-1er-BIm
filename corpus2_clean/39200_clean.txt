@@ -1,1 +1,0 @@
-comment asserted divide b b different though documentation indicates particular asserted b evaluated b whereas divide b performs division directly asserted could result observable difference behavior machine precision number question difference exactly manifest example divide give different result tried edge case maxmachinenumber minmachinenumber find difference behavior two

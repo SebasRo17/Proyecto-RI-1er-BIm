@@ -1,1 +1,0 @@
-trying make function optional argument may change mathematica cache value function defined example optional time variable set function defined remove currenttime currenttime time datelist time datelist pause currenttime output split second way tell delayed set read function time

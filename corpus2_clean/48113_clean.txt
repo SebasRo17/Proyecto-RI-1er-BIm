@@ -1,1 +1,0 @@
-found mathematica provides wrong answer relatively simple analytically solvable integral integrate exp b co assumption b b provides result b incorrect integral computed easily writing integrand geometric series additionally compute numerically nintegrate exp b co produce right result different b bad bug something wrong could reason error

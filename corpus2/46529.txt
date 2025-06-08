@@ -1,1 +1,0 @@
-Any Idea why I can't get a result from this expression:               In[170]:= RandomVariate[HyperbolicDistribution[59.428`, 18.441`, 3.428`*^-9, -0.00065`]]          Out[170]= RandomVariate[HyperbolicDistribution[59.428, 18.441, 3.428*10^-9, -0.00065]]      I have found this Distribution modelling daily balance of a bank in order to calculate Liquidity Risk.

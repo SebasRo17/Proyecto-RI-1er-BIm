@@ -1,1 +1,0 @@
-consider following data ab cd af would like delete string data start result cd

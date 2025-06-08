@@ -1,1 +1,0 @@
-For example, I might want to generate all length `n=6` words on the alphabet `{A, B, C}` that have one `A`, three `B`'s and two `C`'s. An example of such a word is: `'ABBBCC'`. I'd like to generate all such words. I've already tried generating all permutations of a particular string (like `'ABBBCC'`) and deleting all duplicates. This is too slow for my purposes.

@@ -1,1 +1,0 @@
-remove overlapping red green color region leaving red one enter image description

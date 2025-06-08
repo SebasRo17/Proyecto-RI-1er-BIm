@@ -1,1 +1,0 @@
-working vector type mathematica purpose use following command assumption v vector want find gradient next vector expression vec v mid vec v mid usual grad function work vector tried grad v norm v v question possible find grad least norm variable vector type

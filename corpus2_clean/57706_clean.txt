@@ -1,1 +1,0 @@
-usually create course contract mathematica save pdf format notebook include hyperlink transferred pdf without problem last several version mathematica lease something different need version order preserve hyperlink tried setoptions frontendsession printingstyleenvironment working changed font size

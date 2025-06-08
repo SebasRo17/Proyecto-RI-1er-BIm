@@ -1,1 +1,0 @@
-idea defined function n variable want find n get partial derivation variable suppose function f w x z w x z possible find partial derivation using say rd variable case frac df dy

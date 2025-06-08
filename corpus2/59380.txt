@@ -1,1 +1,0 @@
-I am trying to plot the following function:               Plot[(0.014901060131333028` ((2 - 0.1` x)^2.5`)^2.5`)/((1 +          0.1` x Sin[Pi])^1.5`)[0.185903200617956`], {x, 0, 10}]      However, when I do I get nothing on graph. But if I plug in specific numbers then it is clear there is a value. Any help would be great

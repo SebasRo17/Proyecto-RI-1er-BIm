@@ -1,1 +1,0 @@
-would like compute smith normal form matrix coefficient gf p particular interested gf used smith normal form package integer polynomial matrix adapted work matrix finite field coefficient another way compute smith normal form mod p mathematica

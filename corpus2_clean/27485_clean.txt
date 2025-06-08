@@ -1,1 +1,0 @@
-would like create function mathematica return equivalent excel column label e g z aa az given column number think done integerstring representation set char z however excel us z done

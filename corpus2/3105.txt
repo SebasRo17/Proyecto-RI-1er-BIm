@@ -1,1 +1,0 @@
-I can't seem to use a rule to index a vector.               x = Range[10];     { i, x[[i]] } /. i -> 5      I get the following error when evaluating the above code, even if the next cell shows the correct result:               Part::pspec: Part specification i is neither an integer nor a list of integers.

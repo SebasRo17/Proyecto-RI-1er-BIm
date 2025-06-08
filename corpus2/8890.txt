@@ -1,1 +1,0 @@
-suppose $x^5-x-1=0$, $y^7-y-1=0$ and $z=x+y$. I want to find a minimal polynomial expression of $z$, such that $p(z)=0$, and the code can be written like this:               MinimalPolynomial[Root[#^5 - # - 1 &, 1] + Root[#^7 - # - 1 &, 1], z]      What does `MinimalPolynomial[]` do behind us (in other words, what is the algorithm?)

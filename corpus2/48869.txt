@@ -1,1 +1,0 @@
-Radical symbols ($\sqrt{\,\,\,\,}$) are the devil. Is there any way to get mathematica to never use them, and instead express everything as an exponential? i.e. I want               In[1]:= Sqrt[x]      to give $x^{1/2}$ instead of $\sqrt{x}$.

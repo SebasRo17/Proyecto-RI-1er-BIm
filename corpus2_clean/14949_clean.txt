@@ -1,1 +1,0 @@
-help export function absolutely unclear specify option output format according documentation png support grayscale output work still get rgb image export somefile png something colorspace grayscale

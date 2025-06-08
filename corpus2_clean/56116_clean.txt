@@ -1,1 +1,0 @@
-trying argmax function x x defined tried argmax f x x gave error x element cannot followed

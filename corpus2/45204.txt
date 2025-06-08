@@ -1,1 +1,0 @@
-Is anyone can tell me how to create Bezier Curve with given Bezier polygon and parameter t by using de Casteljau algorithm (not the Bezier function in Mathematica)in Mathematica code? Thanks a lot!

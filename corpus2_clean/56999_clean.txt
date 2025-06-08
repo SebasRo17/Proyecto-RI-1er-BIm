@@ -1,1 +1,0 @@
-let define two identical function f g slightly different way f interpolation table g function x interpolation table x timing g timing f second definition calculates interpolating function every time g evaluated

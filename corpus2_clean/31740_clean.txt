@@ -1,1 +1,0 @@
-find integer value p p integer

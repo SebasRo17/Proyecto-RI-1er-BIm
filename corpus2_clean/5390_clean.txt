@@ -1,1 +1,0 @@
-possible force mathematica perform computation hardware supported quadruple precision following test suggest computation fixed precision different machineprecision performed via arbitrary precision algorithm right possible speed digit accurate computation num randominteger first absolutetiming sin n num first absolutetiming sin n num range

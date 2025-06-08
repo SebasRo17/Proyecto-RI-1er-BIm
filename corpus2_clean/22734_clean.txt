@@ -1,1 +1,0 @@
-trying implement following got two vector x unequal length length much larger x want define new length equal length x taking appropriate average element example includes element x element would define new average every subsequent two element

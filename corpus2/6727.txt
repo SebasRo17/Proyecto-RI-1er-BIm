@@ -1,1 +1,0 @@
-Please consider the following list:               data={1, 0, 0, 0, 2, 5, 2, 3, 0, 0, 3};      Now I would like to split the list into 0-sequences and Not-0-sequences as following:               {{1}, {0, 0, 0}, {2, 5, 2, 3}, {0, 0}, {3}}      All numbers are non-negative `Integer`s, if that helps.

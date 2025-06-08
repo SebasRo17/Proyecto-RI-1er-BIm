@@ -1,1 +1,0 @@
-A few months ago I got a simple answer (see: 1 ) to the question of how to force numeric evaluation during use of functions such as NMinimize - namely the use of _?NumericQ in the argument list. I now have the same problem, only this time the argument to the user-defined function I'm trying to minimize is a list. Is there an equivalent to _?NumericQ for lists?

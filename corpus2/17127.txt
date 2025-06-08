@@ -1,1 +1,0 @@
-`Solve` and `Reduce` both can be used for solving equations. Just by working with them, I know there are some differences between them. but that is about all I know, and I want to know what the differences are. Could someone teach me about this?

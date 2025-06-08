@@ -1,1 +1,0 @@
-If you assume the matrix $A$ is invertible, then $A^{-1} \cdot A = I$. Is there an assumption for invertibility in Mathematica 9? How can one make the following evaluate to the identity matrix $I_3$?               $Assumptions = {Element[A, Matrices[{3, 3}]]}     Inverse[A].A

@@ -1,1 +1,0 @@
-want solve dae system want vary one initial condition manipulate looked putting ndsolve parametricplot work alpha beta sol parametricndsolve x x x alpha beta r r alpha x r r r beta x r r r r beta x r x x b c r r x r r b c manipulate parametricplot c x b b c

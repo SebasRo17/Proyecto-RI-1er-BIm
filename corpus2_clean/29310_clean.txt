@@ -1,1 +1,0 @@
-would like mathematica simplify expression left sqrt left c right c sqrt left c right sqrt left c c right right expression sqrt c c sqrt c sqrt c c tried powerexpand expression fullsimplify expression simplify expression

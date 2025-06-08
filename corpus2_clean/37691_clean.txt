@@ -1,1 +1,0 @@
-got real array dimension value others use position find index value

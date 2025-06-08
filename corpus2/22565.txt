@@ -1,1 +1,0 @@
-I am trying to evaluate this integral               Integrate[(kx^2/2)*Sin[\[Lambda]x], x]      from -pi/2(lamda) to pi/2(lamda) Everything there is a constant, and the only variable is x. this is the output i get               1/2 kx^2 x Sin[\[Lambda]x]      which i do not think is correct.

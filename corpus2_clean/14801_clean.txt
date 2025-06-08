@@ -1,1 +1,0 @@
-matrix b b b b b b b b b b b b b b b b b b want compute inverse pseudoinverse problem mathematica solves regarding b complex number change set b real tried assuming work maybe writing wrong idea fairly simple really good mathematica find solution elsewhere would greatful general answer one specifically example e g pseudoinverse real b work thanks

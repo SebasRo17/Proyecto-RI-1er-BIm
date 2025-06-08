@@ -1,1 +1,0 @@
-please consider subids ak cf cl fc mk subcolors lightorange lightblue lightyellow lightgreen lightred graphic subcolors flatten position subids rectangle subids enter image description could avoid output position example instead seems problem

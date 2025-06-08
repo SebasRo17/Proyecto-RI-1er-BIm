@@ -1,1 +1,0 @@
-mathematica provides several mechanism checking argument trapping error function definition typical method definition argument pattern definition condition definition switch combined message also seen technique us throw catch probably well known perhaps someone could explain work possible pro con limit

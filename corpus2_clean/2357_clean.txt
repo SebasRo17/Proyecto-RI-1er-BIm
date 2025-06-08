@@ -1,1 +1,0 @@
-get mathematica solve non homogeneous differential equation undetermined coefficient listed solve using p p particular solution incidentally like solution use dsolve already solve entire differential equation need see particular part verification work suggestion

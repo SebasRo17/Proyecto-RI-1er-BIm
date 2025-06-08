@@ -1,1 +1,0 @@
-say string aa bbc j b wa ajjcj j wj fc lot undesired character space example w j like strip string character provided example giving u output string teststring aa bbc j b wa ajjcj j wj fc stringreplace teststring w j aabbcbaac fc say convenient list undesired character space paragraph indicator etc way select certain character instead specifying certain character deleted example

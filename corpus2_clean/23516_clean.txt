@@ -1,1 +1,0 @@
-trying solve system ode using fourth order runge kutta method recreate certain result obtain degree beginner mathematica programming runge kutta method well b c e f r e g n p x x b x cx f e r g x k e n k k x p appreciate kind help month tried solve system gotten bad result model suppose fluctuate around equilibrium point code far happen

@@ -1,1 +1,0 @@
-context using mathematica create live document document interactive show mathematical derivation aware certain symbol available via capitalsigma esc esc however symbol want subsetneq subsetneq belong greek letter list something similar list mathematica symbol instead latex symbol thanks

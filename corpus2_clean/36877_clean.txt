@@ -1,1 +1,0 @@
-consider following toy code data table k sin k k listpointplot data plotstyle gray pointsize small boxed false axesorigin floor min data floor min data axeslabel x z generates following plot enter image description note axis label inside plot e right axis get tick label well axis label left axis

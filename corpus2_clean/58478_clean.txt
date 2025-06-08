@@ -1,1 +1,0 @@
-set point p evenly spaced square grid length would like map point circle radius nicely possible preserving relative position much possible point square grid map point unit circle done mathematica

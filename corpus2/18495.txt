@@ -1,1 +1,0 @@
-For example: `"#FF8000"`. How could I convert it to `RGBColor` or `Hue`?

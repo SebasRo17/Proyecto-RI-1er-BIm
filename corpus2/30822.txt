@@ -1,1 +1,0 @@
-FullSimplify[ Divisible[p^2 - 1, 24] , Element[p, Primes] && p > 3]      Should evaluate to `True`, but I get > >     Divisible[-1 + p^2, 24] >   Compare with               FullSimplify[Divisible[(6 k - 1)^2 - 1, 24], k \[Element] Integers]       Which does evaluate to > >     True >

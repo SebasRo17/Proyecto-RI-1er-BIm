@@ -1,1 +1,0 @@
-need formatting function say format x n output number fixed n significant digit without unnecessary dot example format format format format format time format time idea shorter simpler

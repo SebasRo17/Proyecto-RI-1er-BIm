@@ -1,1 +1,0 @@
-I have a question about `InputAutoReplacements`.               SetOptions[$FrontEndSession,         InputAutoReplacements -> {"spa" ->                  RowBox[{"〚", "\[SelectionPlaceholder]", "〛"}] } ]      It works, but always adds in spacing automatically. How can I get it fixed? Thanks! ![enter image description here](http://i.stack.imgur.com/wL9wy.jpg) Xiang Li

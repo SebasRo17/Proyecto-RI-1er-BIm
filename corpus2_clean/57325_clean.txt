@@ -1,1 +1,0 @@
-equation want plot e h e h e h nr e h nr e h nr e h nr e h nr e h pr e h pr e h h pr clear h h nr pr h h nr pr plot plotrange axeslabel stylebox nfontsize stylebox nfontsize stylebox nfontsize stylebox nfontsize stylebox nfontsize plotstyle directive black axesstyle directive black bold directive black bold save data plot txt file thanks

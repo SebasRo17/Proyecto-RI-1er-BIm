@@ -1,1 +1,0 @@
-Is it possible to add an entirely new menu, say menu "CustomApp" on the fly? For example a _CustomApp_ package could add its own menu "CustomApp" with submenus, ect, once _Needed_. Former examples I have seen, only dealt with adding to an existing menu.

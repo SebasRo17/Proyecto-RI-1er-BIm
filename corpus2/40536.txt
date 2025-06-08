@@ -1,1 +1,0 @@
-...or maybe switch the message. But I will be happy with no `Tooltip` at all. ![enter image description here](http://i.stack.imgur.com/Th4We.png) I've naively tried with               Block[{$PerformanceGoal="Speed"}, ...]      because it works in case of `Charts`` tooltips, but with no effect :)

@@ -1,1 +1,0 @@
-Is there a command or a trick to tell Mathematica to not automaticly evaluate some cells? I use the `NMinimize` function to calculates some coordinates and then use that data with `Manipulate`. When I run `NMinimize`, Mathematica automaticly runs `Manipulate`.

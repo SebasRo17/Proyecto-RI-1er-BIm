@@ -1,1 +1,0 @@
-numericq symbol true declare symbol numeric want expression matching e text text integerq treated numerical expression e numericq subscript e integerq true work also use numericfunction restrictive something like numericpattern

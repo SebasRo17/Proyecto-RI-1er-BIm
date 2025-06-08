@@ -1,1 +1,0 @@
-I have been trying to do the following series:               Series[HypergeometricPFQ[{1, 4, 4}, {4 - Sqrt[3], 4 + Sqrt[3]}, z],{z,1,0}]      Mathematica says that the result is infinite, without telling me precisely how it diverges with 1-z. I have tried FunctionExpand, FullSimplify and other commands, but so far, with no success. Any help would be most welcome. Best, Jorge

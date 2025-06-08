@@ -1,1 +1,0 @@
-got data bin measurement like start end height want something like picture data histogram see linked picture idea mathematica version whole thing fitting distibution curve

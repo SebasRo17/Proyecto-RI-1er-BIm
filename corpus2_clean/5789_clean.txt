@@ -1,1 +1,0 @@
-currently working solo project consists package file munit test notebook xl file use wolfram workbench ide want collaborate others project ideally would like used java dump everything cv system net check check one person repository admin question mathematica project need workbench plugins particular pitfall

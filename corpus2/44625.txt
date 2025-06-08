@@ -1,1 +1,0 @@
-How can I separate two parts of power of exponential functions in Mathematica? I have an expression similar to this one:               a*b*Exp[u+v]+c*Exp[u]      I want to set `Exp[v]` to zero. For this target I need to expand `Exp[u+v]` to `Exp[u]*Exp[v]`, then set `Exp[v]-> 0`. How can I expand `Exp[u+v]` to `Exp[u]*Exp[v]` in Mathematica?

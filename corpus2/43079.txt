@@ -1,1 +1,0 @@
-How would I draw a grid with dots on specified intersections? The image below shows the basic idea: ![enter image description here](http://i.stack.imgur.com/acXcH.jpg) If I wanted to label the grid lines with index numbers or letters, how would I do that?

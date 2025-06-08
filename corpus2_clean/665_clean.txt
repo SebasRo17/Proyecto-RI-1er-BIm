@@ -1,1 +1,0 @@
-start mathematica session either command line notebook front end notice several package already loaded using systeminformation packagesloaded jlink pacletmanager webservices system global understand system global even webservices jlink mathematica primary dependency java use

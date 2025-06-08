@@ -1,1 +1,0 @@
-I need to export a file with the extension .mac (short for macro in an external program), though it is essentially a text file (saving .mac in Microsoft notepad works fine). However if I try something like:               Export["test.mac", "The brown fox."]      I recieve the error:               Export::infer: Cannot infer format of file test.mac. >>      Is there a workaround?

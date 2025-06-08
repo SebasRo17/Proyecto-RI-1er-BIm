@@ -1,1 +1,0 @@
-I tried to use `VertexLabelStyle`, but seemed not recognized in my system with version number 8.0.0.0. Is this expected or I have missed something? From the online documentation page, I don't see this option was added after version 8.0.0.0; it just says "New in version 8".

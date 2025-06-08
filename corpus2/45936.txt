@@ -1,1 +1,0 @@
-How to define a function $f(x)$ such that $f(1.5)=1.5$, $f(1.)=1$, $f(0.)=0$, etc.? Namely, if $x$ is an integer with a decimal point, $f(x)$ returns the integer only, otherwise returns $x$. This will be useful in the labels of the following plots.               Table[Block[{a = aa}, Show[Plot[x^a, {x, 0, 1}, PlotLabel -> Style[Row@{"a", "=", aa}, 15]]]], {aa, 0, 2, 0.5}]

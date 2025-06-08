@@ -1,1 +1,0 @@
-would like solve p mathematica volterra integral equation nd kind p r int p r dt know function r would like find general way solve p given r aware convolution solved laplace domain want way since inverting transform brings whole set problem

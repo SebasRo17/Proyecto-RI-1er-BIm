@@ -1,1 +1,0 @@
-In a `FrameLabel` for `Manipulate`, I would like part of the string to be a hyperlink. Is this possible? I have tried various things (e.g. insert hyperlink, and the Hyperlink function) but nothing has worked.

@@ -1,1 +1,0 @@
-I was wondering if there are any issues with running a process on Mathematica, putting the computer to sleep, and then waking it up sometime later? It seems to work just fine on my test process (appending data to a list), but I wanted to know if there may be complications with doing this that I can't predict.

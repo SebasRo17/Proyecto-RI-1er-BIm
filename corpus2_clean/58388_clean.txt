@@ -1,1 +1,0 @@
-could someone please give illustrative example showing purpose construct form var mycomputation var true also wonder kind reference material available getting familiar programming idiom mathematica mean besides basic syntax one learn learn standard documentation repeated pattern programmer use somewhat similar design pattern proramming pearl java

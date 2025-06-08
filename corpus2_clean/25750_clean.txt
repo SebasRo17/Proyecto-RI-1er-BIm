@@ -1,1 +1,0 @@
-string pattern match explicit asterisk sign obvious example stringmatchq return false find mention escaping string pattern regularexpressions advanced tutorial

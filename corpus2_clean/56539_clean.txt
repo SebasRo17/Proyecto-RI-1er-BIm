@@ -1,1 +1,0 @@
-one implement discrete set state space model used kalmanfilter old timeseries application keen trying new paradigm statespacemodel mathematica mathematica doc timeseries package section state space form kalman filter fundamentally want make f g time index dependent list matrix ultimately want implement time varying capm model described tsay using mathematica idea

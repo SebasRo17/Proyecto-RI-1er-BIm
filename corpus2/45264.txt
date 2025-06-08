@@ -1,1 +1,0 @@
-How to plot the Cornu parametric Spiral in 3D With Mathematica. The 2D is quite easy. Thx. For more details you need to be familiar with the Cornu statement. $$\begin{cases} x(t)=\int_{0}^{t}cos(u^{2})du\\\ y(t)=\int_{0}^{t}sin(u^{2})du. \end{cases}$$

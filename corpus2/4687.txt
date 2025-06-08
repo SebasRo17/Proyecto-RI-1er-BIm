@@ -1,1 +1,0 @@
-How can I, in one line, generate all the dates with a constant day difference from one date to another? For example, if I'm interested in dates in the interval staring from 24.4.2012 till 2015 and a 28 day difference.

@@ -1,1 +1,0 @@
-find number element matrix non zero instance following matrix nonzero element

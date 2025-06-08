@@ -1,1 +1,0 @@
-Let's suppose that I have table `t = {1.23, 3.4, 10, 34, 1.78, 0.98, 12.56}`. To take the biggest element I can use `Max[t]` function. But I want to take not only the maximum element, but also the index of the element (so, which element in table it is). Is any function which helps to take the indes of element, when I know the value of this element?

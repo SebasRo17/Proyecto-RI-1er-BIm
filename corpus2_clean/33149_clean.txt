@@ -1,1 +1,0 @@
-sound sample sample rate list l n successive element sample fourier l return list n element frequency represented nth place fourier list

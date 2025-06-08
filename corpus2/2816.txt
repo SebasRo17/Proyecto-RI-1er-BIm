@@ -1,1 +1,0 @@
-I have an $M \times K$ matrix $C$ and a length $K$ vector $v$. I want to form the $M \times K$ matrix $S$ where $s_{ij} = C_{ij}/v_j$. To do this in numpy I simply divide the two objects like this                 S = C/v      but that fails in _Mathematica_. What is the most efficient way to do this?

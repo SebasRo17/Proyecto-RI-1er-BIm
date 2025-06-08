@@ -1,1 +1,0 @@
-tutorial mathlink concept introduced page last line author talking sending mathlink function definition like f x x c c unix want exactly like function use put definition mlputfunction mlputsymbol

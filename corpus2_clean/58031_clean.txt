@@ -1,1 +1,0 @@
-got piece artwork dimension x pixel attempted divide x array element smaller size x pixel would like find mean color element got job done double loop better way need faster way treat much larger piece enter image description clear avg avg constantarray image import idata imagedata image ddata partition idata j j j avg j mean flatten ddata j image avg got mathematica graphic

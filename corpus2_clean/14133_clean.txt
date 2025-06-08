@@ -1,1 +1,0 @@
-using create hyperlink dialog window create link tagged cell notebook destination notebook current notebook radio button figure create link hyperlink command tried hyperlink label tag hyperlink label none tag hyperlink label automatic tag etc nothing work

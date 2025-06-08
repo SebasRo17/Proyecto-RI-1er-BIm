@@ -1,1 +1,0 @@
-would plot begin case z x le z le x le z le end case tried contourplot piecewise z x le z le x le z le x z realise tex code know otherwise symbolise attempt

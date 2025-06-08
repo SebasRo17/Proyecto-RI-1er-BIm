@@ -1,1 +1,0 @@
-Inspired by this (please use Chrome or Firefox), I tried to simulate it, but I couldn't do it. I'm not familiar with `Dynamic`. Here is my simple code:               Dynamic[      Graphics[{Hue[Random[]], PointSize@Large,         Point[{0, Dynamic[Clock[{0, 5, 0.5}]]}]}, Axes -> 1, PlotRange -> 5]      ]

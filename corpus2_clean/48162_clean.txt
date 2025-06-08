@@ -1,1 +1,0 @@
-list string representing different type data gw b pl al gw b pl sio ppm want convert numerical string expression work want end something like gw b pl al gw b pl sio ppm tried convert whole list using toexpression convert non numeric element back string work trying evaluate element like gw b pl expression anyone suggest easy way

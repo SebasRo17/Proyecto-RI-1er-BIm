@@ -1,1 +1,0 @@
-It is not very difficult to face a function for which `ContourPlot` works too slow. And it seems natural that this function can be parallelized well. Anyway, naive `Parallelize@ContourPlot` produces " _ContourPlot[...] cannot be parallelized;_ "... So, is it possible to parallelize ContourPlot?

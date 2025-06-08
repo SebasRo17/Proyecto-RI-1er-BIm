@@ -1,1 +1,0 @@
-input colorfunction range black smallest value go red orange yellow end bright yellow almost white highest value listdensityplot

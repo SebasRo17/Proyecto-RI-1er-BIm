@@ -1,1 +1,0 @@
-solve pde boundary value like u x textrm f x using dsolve specific example want solve heat equation frac partial u partial alpha left frac partial u partial x frac partial u partial right strange boundary condition u x x want solve numerically strange closed curve

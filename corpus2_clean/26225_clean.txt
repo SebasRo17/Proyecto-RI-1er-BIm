@@ -1,1 +1,0 @@
-quite puzzled solve coupled ode numerically please tell run long time giving output mathematica using ndsolve please look ndsolve x x x z x z z z z z z z x z x z maxsteps infinity

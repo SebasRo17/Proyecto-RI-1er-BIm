@@ -1,1 +1,0 @@
-problem function interpolation use point shifted idea solution data import eqe txt table headerlines eqelambda table data n data n n length data h x hplanck c x f x log log x data h eqelambda data f eqelambda data table data n data n n length data intdata interpolation data listplot data plot intdata x x data file

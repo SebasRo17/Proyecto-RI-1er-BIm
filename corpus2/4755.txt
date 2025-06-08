@@ -1,1 +1,0 @@
-How would I create an output similar to the result produced by this LaTeX code:               M = \bordermatrix{~ & x & y \cr                       A & 1 & 0 \cr                       B & 0 & 1 \cr}      which when compiled, looks like ![enter image description here](http://i.stack.imgur.com/MJLX9.png)

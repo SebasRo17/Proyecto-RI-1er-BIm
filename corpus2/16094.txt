@@ -1,1 +1,0 @@
-Is there any way to mark integer points after plotting region in _Mathematica_? For example, if I:               RegionPlot[x >= 4 y && x <= 4 y + 3 , {x, 0, 63}, {y, 0, 15}]      ![Mathematica graphics](http://i.stack.imgur.com/ozJjh.png) then it highlights the region but I want to see Y value corresponding to integer X value. Can I do it with _Mathematica_?

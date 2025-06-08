@@ -1,1 +1,0 @@
-Is it possible to do FEM using hexahedral elements in _Mathematica_? If it possible, is there any help to do that?

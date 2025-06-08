@@ -1,1 +1,0 @@
-check whether sum cube digit number equal number following code tried return number question whenever match condition func x total map integerdigits x x x func apparently checking seems wrongly done caused issue fix

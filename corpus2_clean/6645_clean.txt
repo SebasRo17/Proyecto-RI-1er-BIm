@@ -1,1 +1,0 @@
-consuming webservice netlink return data directly response gzipped csv file successfully process data like binz response data binarywrite tmp csv gz binz close tmp csv gz import tmp csv gz csv however curious direct way achieve thanks advice

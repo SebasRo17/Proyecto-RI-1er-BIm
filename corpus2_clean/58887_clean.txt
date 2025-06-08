@@ -1,1 +1,0 @@
-series data ive ploted mathematica change x axis scale example instead x want plot data scale code data import desktop kmc final result txt list bb smoothkerneldistribution data cc smoothkerneldistribution data h pdf bb pdf cc time j time log h plt plot j frame true plotstyle blue pointsize plotrange

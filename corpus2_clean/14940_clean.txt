@@ -1,1 +1,0 @@
-matrix element represents pixel want plot matrix possibly arrayplot suppress aliasing final graphic export png currently disabling axis caption forcing size image match dimension matrix imagesize get desired result need show ax way

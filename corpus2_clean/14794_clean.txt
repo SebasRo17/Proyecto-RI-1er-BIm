@@ -1,1 +1,0 @@
-matrix like enter image description modify matrix make satisfy following condition element j matrix sum element row must equal sum element column j zero modified example good good bad bad

@@ -1,1 +1,0 @@
-would like write multiple line text inside inputfield using continuousaction true update variable x need enter inputfield dynamic x string continuousaction true enter image description image copy past text point press enter standard behavior try update x value change order make enter create new line break text inside inputfield instead try evaluate

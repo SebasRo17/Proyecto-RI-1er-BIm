@@ -1,1 +1,0 @@
-given list vector v v vn fastest way find maximal sublist linearly independent vector could add vector one one list check rank resulting matrix would like know better solution thanks advance

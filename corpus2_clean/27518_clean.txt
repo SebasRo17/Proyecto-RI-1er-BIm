@@ -1,1 +1,0 @@
-use mathematica draw bode plot always give precise version like bodeplot enter image description draw asymptotic version kind jw represented db straight line curve

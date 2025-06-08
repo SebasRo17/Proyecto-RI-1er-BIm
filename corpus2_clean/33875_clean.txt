@@ -1,1 +1,0 @@
-want get something like x x g x f x g g x f f x g g g x f f f x one way transpose foldlist f x foldlist g x posibble use foldlist

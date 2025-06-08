@@ -1,1 +1,0 @@
-need replace loop something else take forever big program hinted towards inner even though tried manage get need toy example actual problem input u u u b u u b u u b u u b v v v b v v b v v b v v b f f f f f output looking u v f u v f u v f u v f u b v b f u b v b f u b v b f u b v b f important loop construct inner table etc generally faster loop

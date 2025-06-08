@@ -1,1 +1,0 @@
-I am playing with openCL on Linux with an AMD gpu, and due to a glitch in the driver, I need to be 'root' to get stuff to work. Installation question here.

@@ -1,1 +1,0 @@
-would like export data file using saveas type dialog using something like filenamesetter name save give browse button help would greatly appreciated possible simply misunderstood documentation many thanks christina

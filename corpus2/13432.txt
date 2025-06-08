@@ -1,1 +1,0 @@
-I want to turn a sum like this               sum =a-b+c+d      Into a List like this:               sumToList[sum]={a,-b,c,d}      How can I achieve this?

@@ -1,1 +1,0 @@
-I want to evaluate this integral, but it won't work. Does anyone knows why?               Remove["Global`*"]          dm = (M/(2 π a)) a ;          i[ϵ_] = 1/(a Sqrt[1 - 2 (ϵ) Cos[θ] + (ϵ)^2]);     i1[ϵ_] = Series[i[ϵ], {ϵ, 0, 1}];     invertdist[r_] = i1[a/r];          ϕ[r_] = -Integrate[G dm invertdist[r], {θ, 0, 2  π}]

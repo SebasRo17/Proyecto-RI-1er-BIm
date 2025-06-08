@@ -1,1 +1,0 @@
-recently found physicalconstants package first thought nice since look quantity time copy worksheet noticed carried unit automatically bad thing seems go together well wolfram use base unit consequently use quantity newton divide quantity meter second result newton second meter kilogram first try made huge mess result way work useful way

@@ -1,1 +1,0 @@
-Possibly this is a very lame question for this site. There is a function $f(n)=-\ln(a*n); \space \Bbb Z \to \Bbb R$, and I want to define $a$ for pairs of values. For example: $f_1(n_1)=15; f_1(n_5)=1.157$ $f_2(n_1)=454; f_2(n_8)=1.0042$ and so on. How can I write a function that could calculate $a$ values from the starting values?
