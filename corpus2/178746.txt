@@ -1,0 +1,1 @@
+If you were asked to design the backward and forward button operation (as a library) in a browser, how would you do it? What will be your APIs and parameters to them? what data structure will be best suitable for this usecase?

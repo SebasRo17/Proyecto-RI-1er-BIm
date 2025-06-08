@@ -1,0 +1,1 @@
+Currently I am working on a code best described as C code living in C++ body. However I haven't been able to convince power that be to re-factor on ground of ease of maintenance. What in your opinion is the best argument for refactoring the code.

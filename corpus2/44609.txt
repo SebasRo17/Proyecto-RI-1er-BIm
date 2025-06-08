@@ -1,1 +1,0 @@
-I have an expression obtain from an integral, which is:               Integrate[ϵ^2/Sqrt[(ϵ - u)^2 + Δ^2], ϵ] // FullSimplify      The denominator and numerator of the result have an obvious common factor:               Sqrt[Δ^2 + (u - ϵ)^2]      How can I let mathematica to cancel this common factor? I have tried `Cancel` and `Refine` all the variables to be positive.

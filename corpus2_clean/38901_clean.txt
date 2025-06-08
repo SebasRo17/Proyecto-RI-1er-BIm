@@ -1,1 +1,1 @@
-square matrix form overset n underset n bigoplus r n r n circulant matrix diagonal matrix oplus kronecker sum size quite big seen form fact dense way namely element generated simple procedure needing much memory thing needing storage vector diagonal set smaller vector first row r n e totally two vector matching dimension actually diagonal matrix simple get sparsearray know make sparse circulant matrix question nice way store matrix sparsely could operated e g eigensystem arnoldi method something similar
+get problem solve

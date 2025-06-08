@@ -1,0 +1,1 @@
+Okay, I have been learning SPARQL to query dbpedia and I can't seem to find clear and practical tutorials related to SPARQL and the Semantic Web. If I say that an ontology is analogous to an SQL table definition or maybe a specification of an object's members should I be slapped?

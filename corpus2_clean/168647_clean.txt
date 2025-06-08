@@ -1,0 +1,1 @@
+say project dependency n version num num something changed depend newer version let num num ok incrementing dependency version nothing else change look like increment project version exactly increment increment third number called revision best practice complicated example may changing project dependency minor thing project

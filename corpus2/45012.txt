@@ -1,1 +1,0 @@
-When I evaluate with _Mathematica_ this expression               D[ Abs[ Zeta[x + I y]], {x, 2}] + D[ Abs[ Zeta[x + I y]], {y, 2}]      > >     0 >   the result is zero which is an error.   Could you explain what's wrong?

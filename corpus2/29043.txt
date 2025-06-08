@@ -1,1 +1,0 @@
-I'd like to use `Subscript[ϕ, 1]` as a function name:               Subscript[ϕ, 1][x_] = C1 + C2*x + C3*Exp[α*x] + C4*Exp[-α*x]      But as I use               ?Subscript[ϕ, 1]      I get the error meassage               Information::ssym: Subscript[ϕ, 1] is not a symbol or a valid string pattern. >>      How can I define `Subscript[ϕ, 1]` as a symbol so that I get an output?

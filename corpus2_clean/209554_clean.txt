@@ -1,0 +1,1 @@
+whenever write unit test always tried single assert per test make debugging easier test fail however follow rule feel like constantly copying test test becomes harder go back read maintain single assertion testing violate dry good rule follow find good balance like one test per realize probably one size fit solution recommended way approach

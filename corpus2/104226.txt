@@ -1,0 +1,1 @@
+As for interacting with the DOM, different browsers will offer methods -and results- that are different between them to some or other extent. But how about JavaScript itself? Do all browsers (or platforms e.g. Adobe Reader) implement the same syntax and behavior? Aspects that particularly worry me are function/object handling and arithmetical operations.

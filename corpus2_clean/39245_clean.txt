@@ -1,1 +1,0 @@
-want solve following non linear first order difference equation k k k text const course solution easily found want mathematica solve using rsolve k k k k k give k e log k solution much simpler considering restriction tell mathematica applying rsolve command p played around reduce command using assumption help

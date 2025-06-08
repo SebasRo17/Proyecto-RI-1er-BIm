@@ -1,0 +1,1 @@
+How are libraries typically distributed? Because they have to be compiled with the **same compiler** under the **same settings** as the project using it, distributing the `.dll`, `.lib`, etc. seems impractical. Is the source code just made available for download?

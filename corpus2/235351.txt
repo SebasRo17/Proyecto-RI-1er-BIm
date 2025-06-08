@@ -1,0 +1,1 @@
+I just dropped production database. It happened because I used dbCreate = "create" instead of "update" in DataSource.groovy. I was changing some domain models and wanted to update the database. dbCreate value was empty string (""), and I accidentally changed it to "create" instead of "update". How could I prevent this from happening in the future (grails wise or in general)?

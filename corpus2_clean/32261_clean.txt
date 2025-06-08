@@ -1,1 +1,0 @@
-say list look like list return last element sublist conditional sublist critical length k example set k return list naive way k list outputlist length list length list k outputlist append outputlist list length list outputlist surely must better way

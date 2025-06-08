@@ -1,1 +1,0 @@
-I want to extract contours from following image or I am wondering how to partition following image: line image looks like: ![enter image description here](http://i.stack.imgur.com/agPO0.png) This question is linked: How to superimpose contour lines on transformed image

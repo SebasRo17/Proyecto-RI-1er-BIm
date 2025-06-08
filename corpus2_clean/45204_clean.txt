@@ -1,1 +1,0 @@
-anyone tell create bezier curve given bezier polygon parameter using de casteljau algorithm bezier function mathematica mathematica code thanks lot

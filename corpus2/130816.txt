@@ -1,0 +1,1 @@
+I want to build an Android SIP application, and I'm looking at csipsimple's source for inspiration. I am using:   * Linux,   * Eclipse 3.7,   * Android sdk & ndk,   * swig. What are the development phases or steps for such an application? And what would be an appropriate licence? I am not asking for code, but for an overview of the development workflow for such an application.

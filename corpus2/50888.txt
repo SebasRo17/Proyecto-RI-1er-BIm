@@ -1,1 +1,0 @@
-Why does               Flatten[f[g[a, f[b]], f[c, d]]]      result in > >     f[g[a, f[b]], c, d] >   I expected the answer to be > >     f[g[a, b], c, d] >   What is wrong in this code?

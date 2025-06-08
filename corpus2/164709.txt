@@ -1,0 +1,1 @@
+So, how exactly do software patches work. If there is a certain bug in the source code of a program, how is this source code changed when one installs a patch? After the patch has been installed how is the program 'automatically' rebuilt?

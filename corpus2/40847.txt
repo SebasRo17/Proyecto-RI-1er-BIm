@@ -1,1 +1,0 @@
-Is there any faster way than using "Eigensystem" to diagonalize(get all the eigenvectors and eigenvalues) of a Hermitian(self-adjoint) matrix? That would be amazing :). Thanks.

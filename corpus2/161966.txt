@@ -1,0 +1,1 @@
+Is there a term for a 24-bit (3-byte) integer? I know uncommon bit counts (such as a _"nibble"_ or _"nybble"_ for 4 bits) have names, and having 24-bits in both video and audio technology, for instance, is very common.

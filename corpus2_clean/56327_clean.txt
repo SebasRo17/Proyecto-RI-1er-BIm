@@ -1,1 +1,0 @@
-plot disk marker colored according style line belong seedrandom data accumulate randomreal listlineplot data plotmarkers graphic disk imagesize plotlegends automatic enter image description curiously note colored legend make line match legend

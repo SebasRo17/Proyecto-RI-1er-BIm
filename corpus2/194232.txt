@@ -1,0 +1,1 @@
+I was recently searching for the mathematical formula to find closest point of approach (CPA) between one ship and another ship. I need to apply the formula in my radar ship program and I can't find the correct way to calculates it. Does anybody know what the correct formula (or pseudo-code) is instead of plotting it manually?

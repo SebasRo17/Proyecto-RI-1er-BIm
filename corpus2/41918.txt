@@ -1,1 +1,0 @@
-I have a polynomial in x and y. I want to keep all the terms with (combined) degree 4. Any pointers will be appreciated. Simple tricks for doing the same with univariate polynomial don't seem to work.

@@ -1,0 +1,1 @@
+I am developing an app where four types of user share same module. So is it a good idea to create:   1. one table and user_type and user_id (something like that)   2. table prefixes basically 4 diff tables of same columns   3. your own suggestion (keeping in mind its a CakePHP App so joins and contain will be there)

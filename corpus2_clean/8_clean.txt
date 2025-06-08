@@ -1,1 +1,0 @@
-consider block partitioned matrix matrix arrayflatten b c b c matrix say example b b b b b c find block inverse matrix desired solution using example inverse inverse b inverse inverse easily verified using simplify inverse arrayflatten b c arrayflatten inverse inverse b inverse inverse yield true solve block inverse problem arbitrary submatrices block matrix larger size e x x etc

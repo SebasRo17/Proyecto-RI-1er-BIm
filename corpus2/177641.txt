@@ -1,0 +1,1 @@
+I'm a programmer and use vim for all my software. I use the `hjkl` keys to avoid moving from the home row. Is it efficient/inefficient using the number pad on the keyboard? My thoughts are probably that it's inefficient because you need to move your hand? Many thanks.

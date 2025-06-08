@@ -1,1 +1,0 @@
-How can I download historical data from Yahoo ? Although Mathematica's FinancialData function uses Yahoo it could be useful to have more control on how to retrieve data from Yahoo's YQL.

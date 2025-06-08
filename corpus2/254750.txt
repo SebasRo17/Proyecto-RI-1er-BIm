@@ -1,0 +1,1 @@
+If software can be built to recognize faces and match those faces to names, then how is that CAPTCHA works? Recognizing letters seems a lot easier than matching faces.

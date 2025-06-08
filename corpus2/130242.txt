@@ -1,0 +1,1 @@
+I have read once in a book about exception where "an object of type Exception can be an instance of any subclassof Exception". I kinda get it, but there's still confusion can anyone clarify me the meaning of this?

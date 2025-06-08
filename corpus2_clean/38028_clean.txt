@@ -1,1 +1,0 @@
-vector say example vec r function f x z sqrt x whats best way express f x z function parameter

@@ -1,0 +1,1 @@
+method perform changing database insert update delete orm using row affected value order indicate success failure state operation consider returning num public id id usage num public id num success else fail compare using boolean b num public boolean id id num usage b num public boolean issuccess id issuccess success else fail one b better pro con

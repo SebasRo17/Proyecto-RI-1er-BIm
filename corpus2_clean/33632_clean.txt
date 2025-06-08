@@ -1,1 +1,0 @@
-trying construct matrix using matrix already defined example would like construct following matrix element matrix like identity matrix zero matrix already defined identity matrix zero matrix way construct matrix term matrix really want type like build matrix

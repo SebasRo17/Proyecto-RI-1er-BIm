@@ -1,0 +1,1 @@
+working c application load third party bulk insert table basically consists static logging statement scenario one write unit test case example read config xml file initialize third party library new datatable dt refresh test call sql bulk copy dbhelper dt dbhelper static

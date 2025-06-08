@@ -1,1 +1,0 @@
-I will need to make a video from the manual rotation of a 3D graphics. In order to do this, I will need to record the set of all view points that I made during rotation. There is method that we can use to get a single viewpoint, like discussed here, but can we find a way to use AppendTo or Sow and Reap to automatically store all the view points in a list?

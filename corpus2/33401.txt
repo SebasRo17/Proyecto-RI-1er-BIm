@@ -1,1 +1,0 @@
-generally, when I carry over work in a notebook from the previous day, I have to physically start from the top and re-evaluate every statement before I can begin from where i left off. Is there any setting I can enable so that the notebook will be in state when it becomes active? Thanks, Sid.

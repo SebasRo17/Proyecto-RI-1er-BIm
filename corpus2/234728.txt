@@ -1,0 +1,1 @@
+I am writing a web app using PHP and JQuery. I have a file full of functions to access the database. I have function names like `createUser`, `createRole`,`getUserByLogin`, `setSOMETHING`... Is there an accepted convention, or a compelling reason to choose how to organize this file? (alpha by name, grouped by creators, getters, setters..., by the table they reference,...)

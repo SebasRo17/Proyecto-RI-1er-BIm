@@ -1,0 +1,1 @@
+Looking for recommendations on industry-expert blogs from front-end web developers (emphasising RIA applications; e.g. HTML5, Javascript, AJAX, JQuery, Ext JS). Trying to sort out the best from the rest. Which blogs are the well respected and worth following?

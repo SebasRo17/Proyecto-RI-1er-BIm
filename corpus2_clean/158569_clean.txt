@@ -1,0 +1,1 @@
+let say linear f n b best way prove belongs n2 n need mathematical rigor need programmer answer logical way explaining precisely post question mathematics q instead programmer q

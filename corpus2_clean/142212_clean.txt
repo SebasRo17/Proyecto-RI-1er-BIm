@@ -1,0 +1,1 @@
+explain two line application config route php file codeigniter framework route default controller page view route page view num

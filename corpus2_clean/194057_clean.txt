@@ -1,0 +1,1 @@
+using mysql j orm wondering whether doa layer abstraction worthwhile option num use model throughout application num abstract building layer convert model backbone model using backbone throughout rest application instead abstraction important case normal use model orm throughout layer

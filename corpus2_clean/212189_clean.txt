@@ -1,0 +1,1 @@
+process concurrency thread concurrency quite obvious kernel see map directly real thing kernel manages come golang goroutines ruby fiber similar thing right clueless managed managed respective language implementation virtual machine know go vm mapped something kernel better handling

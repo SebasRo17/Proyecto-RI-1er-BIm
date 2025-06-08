@@ -1,0 +1,1 @@
+Which is the most permissive open-source license available? "Permissive" would be defined as "the minimal requirements about how the software can be redistributed".

@@ -1,1 +1,0 @@
-In the Internet I have found the article about the VEST package for abstract vector calculus simplification in Mathematica. http://arxiv.org/abs/1309.2561 However, I can not find any reference for downloading this package. Does anybody know where I can download this package?

@@ -1,1 +1,0 @@
-say want slider control value x another slider control value x would go

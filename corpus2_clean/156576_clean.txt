@@ -1,0 +1,1 @@
+looking something akin fxcop database basically want tool configure database standard naming convention field type complex custom rule want incorporate tool continuous integration process violation flagged immediately support oracle sql server tool address either good one tool support would better tool exist perhaps better tool utilize help achieve goal

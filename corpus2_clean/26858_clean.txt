@@ -1,1 +1,0 @@
-say two list lista b c listb e f would produce listc equates two element ie listc b e c f know easy somehow already spent slightly embarrassing amount time suspect involve map seem get element behave together per element seems append two together reason setattributes lista listable setattributes listb listable seems promising given

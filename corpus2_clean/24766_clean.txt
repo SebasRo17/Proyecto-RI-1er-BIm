@@ -1,1 +1,0 @@
-linearmodelfit give ordinary linear regression see lot option nothing like least square olr

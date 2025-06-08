@@ -1,1 +1,0 @@
-The built in function: `Orthogonalize[m]` where m is a list of vectors returns a orthogonal basis for m. However, I want to stick to the binary field. However, I tried this: `Orthogonalize[m,Mod[#1.#2,2]&]` But this just still gives a set of vectors with negative coordinates. Can anyone please help. Thanks.

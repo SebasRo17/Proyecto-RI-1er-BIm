@@ -1,0 +1,1 @@
+I'm giving a presentation on a small Timeline Application I made over the past few weeks. How might I make this small application into a much larger speech, about 3 minutes long. **Should I focus on how it was made or should I just focus on why people should use it?**

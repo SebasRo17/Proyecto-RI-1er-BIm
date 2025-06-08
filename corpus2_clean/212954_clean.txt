@@ -1,0 +1,1 @@
+dom childnodes defined node interface node type element document childnodes considered good design case admissible mean like defining radius interface shape even though know every shape radius

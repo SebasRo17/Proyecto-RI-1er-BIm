@@ -1,0 +1,1 @@
+suppose already existing codebase license header source file copying file add neccessary gpl cruft say revision num previous revision gpled well need rewrite repository history include gpl license revision num

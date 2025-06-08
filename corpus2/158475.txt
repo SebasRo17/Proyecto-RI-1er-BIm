@@ -1,0 +1,1 @@
+I have experienced with two kinds of team. After a feature is assigned to me, one kind of dev lead tell me the exact file or class to add my code, another kind of team just say the story or requirement to me. The latter job is hard, if the software I am working on is too big to grasp the structure. Should senior guys tell the place to add the code before coding?

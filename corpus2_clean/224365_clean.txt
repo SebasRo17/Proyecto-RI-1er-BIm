@@ -1,0 +1,1 @@
+using tdd bad practice pas newly written test could also pas another test example take following test php public module somemethod could made pas following public somemethod throw new exception would also pas test case fix know wrong test refactoring step write pass test

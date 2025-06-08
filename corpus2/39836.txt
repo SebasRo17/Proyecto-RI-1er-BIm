@@ -1,1 +1,0 @@
-I'm creating a styled notebook showing a simple theorem. I can set cell style as text or theorem or code to satisfy my requirement. But when I explain the theorem, I need to embed formula (not necessary for a whole line) into text. How can I do that. I didn't find any style for that.

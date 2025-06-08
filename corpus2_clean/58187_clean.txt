@@ -1,1 +1,0 @@
-second order ordinary differential equation want solve numerically although specified value boundary mathematica solution match boundary condition h f l phi x piecewise tanh x x l tanh x l x l ndsolve u x h phi x phi x u x f phi x u u l u x l vl x u x phi x plot evaluate vl x x l l plotrange u u l mathematica graphic correct way set boundary condition

@@ -1,0 +1,1 @@
+reason php language could updated future version make prefix name optional reason would break existing thinking would still required interpolation like hello time would optional example bob echo hello would still valid would bob echo hello

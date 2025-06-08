@@ -1,0 +1,1 @@
+So when you call malloc or new [] from your C/C++ application, how does the CRT translate it into Windows API calls?

@@ -1,1 +1,0 @@
-Suppose I have a list `A={x1,x2,x3}`, a list `B={3,4,5}`, and a function `f[x]=x1+x2+x3`. Is there a simple way to create a replacement rule `R` such that I can do a `f[x]/.R` to get `3+4+5`?

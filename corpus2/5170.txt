@@ -1,1 +1,0 @@
-Is it possible to easily find the position of a specific value in a list? For example, if the list is `{{x1,y1},{x2,y2},...,{xn,yn}}` I would like to know the position of `y = 123456.78`. I would prefer to not use `If`.

@@ -1,0 +1,1 @@
+solve want know efficient way matrix multiplication num num num num num num num num num f n n implemented using exponentiation squaring efficient

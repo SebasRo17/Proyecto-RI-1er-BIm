@@ -1,0 +1,1 @@
+The question is based on this issue in Chromium. It is marked as `Won't Fix`. Do you see any reason to block a local html file from accessing another local html file located in the same folder?

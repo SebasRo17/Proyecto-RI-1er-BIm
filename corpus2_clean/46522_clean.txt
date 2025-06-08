@@ -1,1 +1,0 @@
-evlauate data randomreal fit findfit data sin x b b x fit get something like b try plot point fitted function together one figure show listplot data plot sin x b x get figure want show listplot data plot sin x b fit x return error occur insert fit replaceall correct mistake

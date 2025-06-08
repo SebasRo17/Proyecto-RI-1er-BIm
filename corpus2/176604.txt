@@ -1,0 +1,1 @@
+I am expecting a job interview for a C++, what kind of questions should I expect? I have been programming with C for 5 years. I know what OOP is and I have been reading about it for some time. But it is most likely I can miss important details because I do not do anything real on C++. Best Regards,

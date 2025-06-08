@@ -1,0 +1,1 @@
+I am a CS student, and am really astonished that I didn't know about Donald Knuth and his TAoCP. Now that I do, I really look forward to diving into it. Would going for the entire volume 4 be a good idea? Also, is there a place online where I can read up (especially, the algorithms and DS part) ? thanks, Yati

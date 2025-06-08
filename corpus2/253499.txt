@@ -1,0 +1,1 @@
+I'm sorry if this is opinion based, but how do you guys make sure that HTML, CSS and JS have uniform variable naming? I use vim, but I don't know if IDEs are smart enough to do this on their own. In case it's not clear, the issue is that if I change a variable name in HTML, I need to go and change the variable names in CSS and JS.

@@ -1,1 +1,0 @@
-need numerical integration differentiation numerical integration tried apply technique described accepted answer similar question x f numericq nintegrate x g numericq f nintegrate g however still generates error nintegrate inumr integrand g evaluated non numerical value sampling point region boundary approach work due differentiation missing

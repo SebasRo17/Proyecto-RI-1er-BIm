@@ -1,0 +1,1 @@
+In some recent articles I have read I have found that in the programming ladder compiler design is always considered as highest level activity. Why is this so? Why not database design or network protocol architecture. Here is one such article.

@@ -1,0 +1,1 @@
+I'm pretty new to code review, and I feel often overwhelmed by incoming changes. I mean when there are serious code changes, coming from several developers I tend to accept everything without reviewing the whole, especially when I have lots of stuff to finish up. What are the techniques to help in being efficient in this area ?

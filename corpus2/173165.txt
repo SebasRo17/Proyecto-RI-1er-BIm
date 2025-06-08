@@ -1,0 +1,1 @@
+As per IEEE 12207, who has to perform Software integration testing (SOIPL): SW Testing team or SW Development team?

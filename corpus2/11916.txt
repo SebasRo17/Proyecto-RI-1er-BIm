@@ -1,1 +1,0 @@
-The Outline stylesheet only seems to cover 6 levels of depth. Is there any way to increase that? Here's an example. Hitting tab on the last level just indents its content, but doesn't add another level of depth. ![enter image description here](http://i.stack.imgur.com/17Shy.png)

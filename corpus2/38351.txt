@@ -1,1 +1,0 @@
-Is there a quick and easy way with `Graphics` to replace the standard data points in a plot with a custom image?

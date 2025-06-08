@@ -1,0 +1,1 @@
+I hear the term 'bolt-on' used in many contexts, specifically in my organization where PeopleSoft is used extensively. I don't know exactly how it differs from an 'extension' of an existing product, a new module within an application, or an 'add-on' like you would purchase for a product you own. Is there a more formal definition of 'bolt-on' that I'm not familiar with?

@@ -1,0 +1,1 @@
+reading ddd quickly wondered avoid naming clash technical term domain term example commonly used repository pattern class customer also something called repository domain would best avoid confusing two

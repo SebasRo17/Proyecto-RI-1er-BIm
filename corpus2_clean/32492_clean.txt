@@ -1,1 +1,0 @@
-would like input vector spherical coordinate r theta phi able operate vector dot cross product result given spherical coordinate system easy way achieve mathematica

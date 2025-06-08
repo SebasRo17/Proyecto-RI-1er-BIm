@@ -1,0 +1,1 @@
+List.ForEach(Console.WriteLine);          List.ForEach(s => Console.WriteLine(s));      To me, the difference is purely cosmetic, but are there any subtle reasons why one might be preferred over the other?

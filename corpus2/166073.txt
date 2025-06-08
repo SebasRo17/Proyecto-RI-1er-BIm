@@ -1,0 +1,1 @@
+I had some C background back in the university, however, I have been programming in java for 2 years and most of the C stuff were left behind. Now I need to prepare for a test about C/C++, I doubt that I can go right into it with only some remnant of C knowledge. What could they possible cover in the test?

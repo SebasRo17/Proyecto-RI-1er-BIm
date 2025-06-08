@@ -1,1 +1,0 @@
-list like following want final list like first element sub list need check sub list first element remove sub list first element repeated final list repeated twice

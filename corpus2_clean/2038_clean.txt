@@ -1,1 +1,0 @@
-documentation yuri e kandrashkin optionsexplorer package say add following menu command menusetup tr item option explorer kernelexecute toexpression optionsexplorer menukey modifier control command menuevaluator automatic want accomplish thing corresponding frontend addmenucommands expression autoload pacletmanager configuration frontend init find kernelexecute function

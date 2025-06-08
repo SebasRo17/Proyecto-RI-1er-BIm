@@ -1,1 +1,0 @@
-My _Mathematica_ code runs slowly               MinimalPolynomial[Sqrt[2] + Sqrt[3]+ Sqrt[5]+ Sqrt[7]+ Sqrt[11]+ Sqrt[13], x]      runs slowly, but the Maple version               evala(Norm(convert(x-(sqrt(2)+sqrt(3)+sqrt(5)+sqrt(7)+sqrt(11)+sqrt(13)), RootOf)));      runs quite fast Is there a faster way do this in _Mathematica_?

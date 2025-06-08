@@ -1,1 +1,0 @@
-got trial version mathematica want experiment using data analysis csv file would like import mathematica data represented matrix array column represented column vector rather cell representing row also need chop header got far data import

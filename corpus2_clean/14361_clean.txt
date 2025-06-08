@@ -1,1 +1,0 @@
-basic quantum mechanic problem trying learn mathematica help would much appreciated vec l vec x time vec p vec x component begin align x r sin theta co phi r sin theta sin phi z r co theta end align vec p component p x hbar dfrac partial partial x etc show l z hbar dfrac partial partial phi

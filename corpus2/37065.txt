@@ -1,1 +1,0 @@
-According to the documentation, > `Share[expr]` changes the way `expr` is stored internally, to try and > minimize the amount of memory used. How should I then interpret the fact that `x1 != x2 + x3` after running the following code?               e = Table[j (x + i), {i, 5}, {j, i}];     x1 = ByteCount@e     x2 = Share[e]     x3 = ByteCount@e

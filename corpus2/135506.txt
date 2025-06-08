@@ -1,0 +1,1 @@
+Coding a new website. Basically, for position elements using CSS I would use percents and figured that was the best thing to do since everyone's monitor was a different size. But I noticed a lot of big websites use pixels. I don't understand how you can use pixels to position things since we all have a different size screen?

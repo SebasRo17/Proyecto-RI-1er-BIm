@@ -1,0 +1,1 @@
+couple question uml firstly would show use case end sequence diagram secondly alt sequence diagram would need show would happen even nothing would happen moving onto next call third last arrow diagram always going asynchronous continue wait

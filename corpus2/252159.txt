@@ -1,0 +1,1 @@
+Only one or two years ago, I remember reading Python constructs that would be removed from Python -- reduce was one of them -- and other constructs that would be emphasized like comprehensions and generators. I saw a very nice description of how Python could be made more functional here, and I was wondering on which list lambda appeared, supported or soon-not-to-be supported.

@@ -1,1 +1,0 @@
-Why does _Mathematica_ return > Sum::div: Sum does not converge. >> When I input               Sum[Boole[!IntegerQ[x]], {x, 1, Infinity}]      The sum is obviously 0.

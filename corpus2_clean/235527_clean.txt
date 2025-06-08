@@ -1,0 +1,1 @@
+searched stackoverflow found difference two still sure case one would prefer singleton case one would choose use static language support static class like obviously referring class containing static method field please give concrete example case would pick one explain

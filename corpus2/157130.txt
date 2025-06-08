@@ -1,0 +1,1 @@
+How do you name your iterators when you return a begin and an end iterator from a class? Without it sounding clunky, that is. Example:               typedef std::vector<Idea> Ideas_Type;          Ideas_Type::const_iterator GetIdeasBegin() const;     Ideas_Type::const_iterator GetIdeasEnd() const;      Should it be GetIdeasBeginIter? IdeasBegin?

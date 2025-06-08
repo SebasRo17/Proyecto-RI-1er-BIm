@@ -1,1 +1,0 @@
-I am running Mathematica on a Raspberry Pi and the above error message comes up virtually every time I press `ctrl + shift + K` to view the suggested functions and their templates. I cannot find anything about this specific error online and it is becoming very irritating. Does anybody know what may be causing this and how I can fix it?

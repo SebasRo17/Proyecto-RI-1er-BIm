@@ -1,0 +1,1 @@
+i'm looking for a framework to build a webserver. This server will be used to manage webservices. huge amount of client may be able to connect to principally set data which will populate a noSQL DB. we work with python and naturally we would like a python framework. i looked at bottle, gevent, twisted and tornado but it's hard to choose. Some feedbacks or propositions ?

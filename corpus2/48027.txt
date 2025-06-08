@@ -1,1 +1,0 @@
-I don't have experience using Mathematica for parallel calculation. I need to do something simple to parallelize the calculation of f which is calculate each time n iterates:               f[k_] := Sum[r[j], {j, k}];     SetSharedFunction[f]           r[1] = 1;     f[1] = 2;          Table[r[n] = 2 r[n - 1] + f[n - 1], {n, 2, 4}]      Thanks for your help.

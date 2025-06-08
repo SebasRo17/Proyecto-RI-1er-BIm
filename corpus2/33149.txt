@@ -1,1 +1,0 @@
-I have a sound sample (sample rate: 44100). When I have a list `l` with `n` successive elements from the sample, `Fourier[l]` returns a list with n elements. Which frequency is represented at the nth place in the fourier list?

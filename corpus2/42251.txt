@@ -1,1 +1,0 @@
-I wanted to know how would I use Mathematica in order to check if the number is a perfect power I saw the algorithm but couldn't grasp it enough to implement it, so can anybody help?

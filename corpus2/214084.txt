@@ -1,0 +1,1 @@
+I have a big pdf with the documentation for a project and I need to render this to doxygen (so take each function from the pdf and write it out into doxygen). Any suggestions on how to do this quickly and effectively (other than doing it by hand)?

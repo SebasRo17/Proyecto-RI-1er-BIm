@@ -1,0 +1,1 @@
+I'm trying to do research on these css preprocessors. Are there any advantages of using sass over less as a css preprocessor? Factors that i'm looking for include community size, software project maturity, community size, etc. I know there was another question related to this; but it was not constructively written and closed.

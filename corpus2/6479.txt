@@ -1,1 +1,0 @@
-When you type a function in Matlab, quickly a suggestion box comes up showing functions similar to the one you're typing. I thought that Mathematica didn't have this but one day, I typed half of a function and the went to the kitchen when I got back, the suggestion box was there. I'm not sure if it appears after some time or if I accidentaly pressed some key.

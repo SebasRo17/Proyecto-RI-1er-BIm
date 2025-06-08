@@ -1,1 +1,0 @@
-I spent a reasonable amount of time to find the origin of an error in a larger code segment.               str = StringToStream["a1;b1;c1"];          data1 = ReadList[str, Record, 1];     StringLength[data1]     {8}          SetStreamPosition[str, 0];          data2 = Read[str, Record];     StringLength[data2]     8          Close[str];      You can't calculate with a {8}.

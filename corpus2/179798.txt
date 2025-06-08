@@ -1,0 +1,1 @@
+How could a random generator be implemented? I'm not speaking about the invocation of a language _mathRandom()_ method, but the implementation of the routines that lead to generate numbers totally random.

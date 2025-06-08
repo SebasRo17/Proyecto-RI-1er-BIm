@@ -1,1 +1,0 @@
-I want to find all data points inside curve as given below:               data = RandomReal[{-1, 1}, {200, 2}];     ParametricPlot[{Sin[u], Sin[2 u]}, {u, 0, 2 Pi},       Epilog -> {Red, Point[data]}]      Short solution is preferable Thanks.

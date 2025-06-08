@@ -1,1 +1,0 @@
-I tried,               Refine[Sin[k]^2/(k^2 + k + 1) < 1/(k^2), Element[k, Integers]]      > $\frac{\text{Sin}[k]^2}{1+k+k^2}<\frac{1}{k^2}$ It returns unevaluated. I tried converting Sin[x] into Taylor series but it still doesn't evaluate it.Is there some work around for this or is it that I am doing something wrong ?

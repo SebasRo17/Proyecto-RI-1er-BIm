@@ -1,0 +1,1 @@
+I left a bit of a door open recently on my site. Someone tried to post PHP code to a CMS page editing module, but it wasn't executed. I have this code and was wondering if there is somewhere I should post this code for peoples interest etc. It's PHP code.

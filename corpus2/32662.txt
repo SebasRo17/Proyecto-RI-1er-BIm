@@ -1,1 +1,0 @@
-I'd like 3Dplot a list of data with `4` columns (these are mesh outputs):               x1 y1 z1 Dose1     x2 y2 z2 Dose2     .     .     .      which command i should to use??

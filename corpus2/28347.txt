@@ -1,1 +1,0 @@
-I often end up with a function that contains the term $1/(1 + x^2/y^2)$, and I need to evaluate this in the limit $y\rightarrow 0$. By hand, I can rewrite this as $y^2/(y^2 + x^2)$, but how can I tell _Mathematica_ to make such a simplification? I have tried using `1/(1 + x^2/y^2) // Simplify` and `Expand`, but neither work as intend (actually, they doesn't change anything).

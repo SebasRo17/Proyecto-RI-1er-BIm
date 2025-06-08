@@ -1,0 +1,1 @@
+entity framework stuff using repository pattern passed controller called client using jquery ajax basic rule format passing around list within server suppose could pas around iqueryable yes client could pas around list version first guess idea

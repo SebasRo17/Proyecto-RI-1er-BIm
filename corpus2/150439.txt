@@ -1,0 +1,1 @@
+I ask because I've seen a couple of OO PHP tutorials which do not adhere to this, but to me it just makes sense. It makes it easy to instantly see if a file is a class or not, if non-class files all use lowercase names.

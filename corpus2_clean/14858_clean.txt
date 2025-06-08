@@ -1,1 +1,0 @@
-evaluated code plot plot x x g rasterize plot imageresolution everything look good except tick ax invisible seems mathematica draw tick default size scaled image image scaled made small distinguished imageresoltion specify smaller tick less pleasing image get ax tick look right

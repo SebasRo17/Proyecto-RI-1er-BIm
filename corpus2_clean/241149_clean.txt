@@ -1,0 +1,1 @@
+want achieve two thing swing application first need canvas zone drag element rectangle circle outside pane inside canvas place position dropped also possible select element canvas move around drop another location canvas technique would fit best job please leave comment something unclear

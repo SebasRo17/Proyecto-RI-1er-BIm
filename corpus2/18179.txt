@@ -1,1 +1,0 @@
-Is it possible to profile compiled code? I am using Workbench 2.0 and the Profile[] command but I do not get a profile of my compiled function. I apologize if the answer is readily available but I could not find it Workbench documentation nor using Google.

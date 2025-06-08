@@ -1,1 +1,0 @@
-q need simplify algebraic expression according particular pattern namely begin equation x left begin array text text even x text text odd end array right end equation example x b x c x simplified ax bxy cxy need something like x b x c x x recognize parity power expression q one get one term sum example example three term x b x c x possibility decompose full expression x b x c x

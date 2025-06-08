@@ -1,0 +1,1 @@
+It seems like there are many different styles to write JavaScript, in fact I've heard that JavaScript is an expressive language. But the point of code is functionality (function) not expression (form). Is there a library that will be adopted into the ECMA standard the way the STL and Boost Library were adopted in to the C++ standard?

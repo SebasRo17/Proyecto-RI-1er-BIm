@@ -1,0 +1,1 @@
+Why do projects opt to stay on an older framework version of the .NET Framework? For example, staying on .NET Framework version 3.5 which was released in 2007 instead of upgrading to the latest 4.5.1 version? Jon Skeet's Noda Time also targets .NET 3.5. Why?

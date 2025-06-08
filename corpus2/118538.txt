@@ -1,0 +1,1 @@
+I am considering purchasing High Performance MySQL (2008). This book discusses MySQL 5.0 and 5.1. Is this book still relevant today, or is it too old?

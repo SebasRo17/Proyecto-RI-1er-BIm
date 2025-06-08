@@ -1,1 +1,0 @@
-want necessarily put package mathematica userbasedirectory local hard drive somehow tell mathematica look package directory like dropbox basically two computer running mathematica one home one work would like able work editing running package computer

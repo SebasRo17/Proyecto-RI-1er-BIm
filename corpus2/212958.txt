@@ -1,0 +1,1 @@
+I'm just curious. If I'm a lead dev in a company of a dozens of developers is there any way I can prevent a newbie developer from creating a fat view? By fat view I mean to have an empty controller, empty model and having all database and business logic in the view along with the html/js.

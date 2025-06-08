@@ -1,1 +1,0 @@
-set data point two column spreadsheet openoffice calc enter image description would like get mathematica format data googled find importing entire document seems like overkill way kind cut paste two column mathematica

@@ -1,0 +1,1 @@
+tasked getting rid vb6 application heavy form tab modal dialog etc see option ui num rewrite winforms num rewrite wpf num redesign ui completely write winrt xaml num redesign web app using asp net mvc num redesign web app using angular except winforms require much learning curve team assume dead others

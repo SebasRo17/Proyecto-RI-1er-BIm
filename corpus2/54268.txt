@@ -1,0 +1,1 @@
+PHP stands for: > PHP: Hypertext Preprocessor This a recursive loop, if I'm not mistaken. Did the creator of PHP have this in mind when he named PHP? Is this the only language where the name has some sort of spurious grammar, spelling or phonetic?

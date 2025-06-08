@@ -1,1 +1,0 @@
-two set x coordinate want plot graph one set list x x x cdots use listlineplot list second list list u v u v u v cdots assumed able use something like listlineplot list list seems reserved list one coordinate x x x cdots data list connected via line data list joined together e amalgamate one list anyone know plot set graph

@@ -1,1 +1,0 @@
-suppose box sphere object ponctual light source generate cast shadow using mathematic tool render shadow given light source position

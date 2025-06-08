@@ -1,0 +1,1 @@
+looking codebase developer never us sql transaction e update insert sql database atomic operation believe codebase would benefit transaction looking online today one stackoverflow question answerer say situation better partial update rather none truth suppose depends problem domain extent

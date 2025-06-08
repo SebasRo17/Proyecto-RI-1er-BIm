@@ -1,0 +1,1 @@
+This morning I found a note on my desk with some tips from a higher up developer who had been looking over some HTML/CSS I had put together. One of his suggestions was for me to "stay away from context-based class and ID names like 'left' or 'right.' Never use colors as names. Stick to semantic names based on the content." Is this valid advice? Why?

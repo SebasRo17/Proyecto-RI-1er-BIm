@@ -1,0 +1,1 @@
+leave open database connection throughout execution aplication time operation executed new connection created open throughout execution open aplication open connection operation use opened connection commit close aplication close connection time operation executed open aplication operation create connection execute operation commit close connection close aplication

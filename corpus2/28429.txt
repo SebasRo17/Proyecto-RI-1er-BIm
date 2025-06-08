@@ -1,1 +1,0 @@
-I got a multipeak histogram from my data and want to fit it using a Gaussian Distribution function.               (f[x_, amplitude_, centroid_, sigma_] :=          amplitude Exp[-((x - centroid)^2/sigma^2)])      However, there are two peaks. How do I fit the histogram and get the two sets of values `{amplitude1, centroid1,sigma1}` and `{amplitude2, centroid2,sigma2}`?

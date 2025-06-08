@@ -1,0 +1,1 @@
+I am developing `python` library for database inspection. When is good time to announce/release it? Obvious answer is that when it's ready to be used. But I would like to get some feedback on the API, on what would be useful and act accordingly to `release early` rule. Any advice on what I should consider before releasing?

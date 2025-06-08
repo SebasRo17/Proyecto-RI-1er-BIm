@@ -1,0 +1,1 @@
+Can I use MongoDB as the database for providing a paid service? MongoDB is licensed under the AGPL, but the drivers I'm using are MIT licensed. Do I have to buy a commercial license for MongoDB or can I use it as a backend for my app?

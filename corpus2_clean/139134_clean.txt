@@ -1,0 +1,1 @@
+functional language allows use stack semantics automatic deterministic destruction end scope

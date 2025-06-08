@@ -1,0 +1,1 @@
+library seen lot emphasis put change ownership pointer like example allocates return pointer relinquishing ownership caller question would design something constraint pointer ownership get transferred ever

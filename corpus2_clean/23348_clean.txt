@@ -1,1 +1,0 @@
-trying compute integrate sqrt x x mathematica give conditionalexpression ab hypergeometric f perfectly well defined answer exactly bug

@@ -1,0 +1,1 @@
+problem set n color including primary color code hexadecimal given another color x wonder actually possible come mix two color set produce x mix subtractive example result algorithm set color c1 c2 c3 c4 c5 c6 trying find mix produce color x result could num c1 num c4 num c5 anyone could point right direction least tell unfeasible help would gladly appreciated

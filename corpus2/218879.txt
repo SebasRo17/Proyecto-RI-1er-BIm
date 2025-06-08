@@ -1,0 +1,1 @@
+What are the differences between `string.c_str()` and `&string[0]`? Regarding performance my guess is that `&string[0]` is a little faster than string.c_str() as it doesn't require a function call. Regarding safety and stability common sense tells me that `string.c_str()` should have some checks implemented, but I don't know, that's why I'm asking.

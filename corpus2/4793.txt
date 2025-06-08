@@ -1,1 +1,0 @@
-I have an array of data with 3D elements. Ex: `x = {{1,2,3}, {3,4,5}, {5,6,7}}`. I want to show this data in 3 dimensions, such that each point in the space is shown as a vector originating from the origin. There should be an arrow/line whose one end is at the origin $(0,0,0)$ and the other end at the point $(1,2,3)$. Which function should I use?

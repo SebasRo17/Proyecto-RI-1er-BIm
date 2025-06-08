@@ -1,0 +1,1 @@
+Processors are getting more and more cores these days, which leaves me wondering... Should we, programmers, adapt to this behaviour and spent more effort on programming for multiple cores? To what extent should we do and optimize this? Thread? Affinity? Hardware optimizations? Something else?

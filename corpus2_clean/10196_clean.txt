@@ -1,1 +1,0 @@
-list k want create sum get adding two element list k k rotateleft function give sum need

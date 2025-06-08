@@ -1,1 +1,0 @@
-r sin phi co phi sin theta co theta g parametricplot r sin phi co theta r co phi r sin phi sin theta phi pi theta pi colorfunction blend red yellow green cyan blue mesh none boxed false ax g polygon line give enter image description colour information gone want get output enter image description get

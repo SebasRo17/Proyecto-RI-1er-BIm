@@ -1,0 +1,1 @@
+I am using `simplexml_load_string` for xml string interpreting to object from results of a REST API. It's working fine in my local server, which is using PHP5. But my hosting is in Yahoo and the service provider is giving me PHP4. For that I need to change the way of interpreting XML string to object to another method, which I don't know how to do.

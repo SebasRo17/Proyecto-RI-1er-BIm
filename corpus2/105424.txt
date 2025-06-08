@@ -1,0 +1,1 @@
+Say I find this great snippet of code on Bitbucket. I really, really like it but there's a small bug I want to fix. On the other hand, I have all of my code on GitHub. Is it ok to start a new repo on Github and refer to the original by a comment or on the wiki?

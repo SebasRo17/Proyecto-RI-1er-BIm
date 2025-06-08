@@ -1,1 +1,0 @@
-problem following code n slow n became slow think maybe temp value greater make compile invalid could give idea make compiled far possible use recursive algorithm pe compile module n len maxlen re n n len n n evenq n n quotient n len len maxlen maxlen len re n n maxlen re pe absolutetiming

@@ -1,0 +1,1 @@
+I would like to develop cross-platform GUI applications, which work on both Linux and Windows systems. I am now confused on which toolkit to use. I asked many of them and each one are saying different toolkits. Should I use GTK or wxPython or Tkinter?

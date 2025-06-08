@@ -1,1 +1,0 @@
-Background: Every application has user-definable constants. The Java language has the Properties class to handle them. Question: What is a good and re-usable coding style for setting and changing application level constants in Mathematica?

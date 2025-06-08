@@ -1,1 +1,0 @@
-trying plot solution laplace equation infinite domain however try plot mathematica run nothing happening f x sinh u sinh u co u x densityplot integrate f x u x code tried solution f x frac pi int infty int infty infty frac sinh u sinh u co u xi x xi du

@@ -1,1 +1,0 @@
-requirement executing c program within mathematica user provide input expected result front end mathematica run c file obtains result provided input compare user provided expected result green pas button displayed result matched else red failed button displayed later want able c python java perl program anyone worked warm regard anuk

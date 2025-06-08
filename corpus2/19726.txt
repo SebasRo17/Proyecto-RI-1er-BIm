@@ -1,1 +1,0 @@
-I would like to transform matrix $\mathbf A = \begin{pmatrix} a&b&i&j\\\ c&d&k&l \\\ e&f&m&n \\\ g&h&o&p \end{pmatrix}$ into matrix $\mathbf B = \begin{pmatrix} -p&o&-h&g\\\ -n&m&-f&e \\\ -l&k&-d&c \\\ -j&i&-b&a \end{pmatrix}$. If possible I would like to generalize this to $\\{n\times n,\ n>4\\}$ size matrices. Is there a simple way to do this in Mathematica? Thanks in advance.

@@ -1,0 +1,1 @@
+I am learning how to work with XMLHttpRequests. I know that request.setRequestHeader() is an important factor. I just don't understand why. It took me a while but I have at least found a list of Headers here and here, but I still don't understand what each one of them does, and what value goes with each. Is there a resource that gives an example and explains what they are for?

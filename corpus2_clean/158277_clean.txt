@@ -1,0 +1,1 @@
+learning currently playing tornado framework see tornado auth tornado web asynchronous def get self self get argument openid mode none self get authenticated user self async callback self auth self authenticate redirect trouble grasping decorator tornado web asynchronous overwrite see full source

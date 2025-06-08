@@ -1,1 +1,0 @@
-would like know whether way insert plot another plot would like plot function inside plot right corner add smaller plot function covering smaller region tried epilog possible way give fail thanks advance

@@ -1,0 +1,1 @@
+I have a few projects that use various webservices e.g. DropBox, AWS. For managing private information I use `bash_profile` which works great with heroku that uses env variables to manages secret informations. The problem is my bash_profile is growing significantly (HEROKU_ADD_ON_1 HEROKU_ADD_ON_2 etc.) and it bit me today. What's the better way?

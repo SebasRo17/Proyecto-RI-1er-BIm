@@ -1,1 +1,0 @@
-starting mathematica solve numerically equation x sin x using nsolve well plot correctly eqn x sin x pi plot eqn x show empty window nothing x axis

@@ -1,1 +1,0 @@
-would like run munit test inside testsuite construct command line notebook interface without loading workbench gui tried testrun suite mt suite mt contains testsuite file mt file mt filex mt contain standard test construct however run test get output test run testrun file mt work cannot find documentation testrun maybe support case run testsuite file without loading workbench gui

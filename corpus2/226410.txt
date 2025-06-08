@@ -1,0 +1,1 @@
+Why   `for(k=1;k<=n;k*=2)` grows logarathmically = `O(logn)` but I feel it grows exponentially, as the seq look like `1,2,4,8....` and for fibonacci series people say it grows exponentially. which for me doesnt look like `0,1,1,2,3,5...` but for tis they tell `O(2^n)`. PLease explain

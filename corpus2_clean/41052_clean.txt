@@ -1,1 +1,0 @@
-trying plot solution equation using ndsolve reason nothing show plot checked output interpolating function look like anything wrong data though could wrong trying figure going q ndsolve u sqrt u arcsech u sqrt u u u use polarplot plot function nothing appears polarplot evaluate u q plotrange plotstyle thick thanks advance help

@@ -1,1 +1,0 @@
-While working with multiple files in Mathematica, is there a way to have the names of the files appear along with the minimized window of the file. I mean that sometimes I forget which file was places where on minimizing and have not found a way to locate by name. I do not know a proper tag for this question. Please add proper tags if you are aware.

@@ -1,1 +1,0 @@
-I have been looking over the .zip documentation from Mathematica (http://reference.wolfram.com/mathematica/ref/format/ZIP.html). It seems pretty straighforward to export and import from/to a .zip file, but how can i add content to an existing .zip file?

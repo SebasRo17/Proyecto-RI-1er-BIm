@@ -1,1 +1,0 @@
-The equation x^4-3 x^3 = cos(3x)+3 has two real solutions on the interval from -10 to 10. Lets call these two solutions r and s. Use Mathematica's FindRoot command to find r and s. Now let M equal the sum of these two solutions, M=r+s. Enter the value for M in the space provided below.

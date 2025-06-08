@@ -1,1 +1,0 @@
-possible make plotted curve interactive sense hovering line drawn hovered point one ax homework figure edit let say plot curve manipulate plot sin x x pi whenever mouse hovers point curve line drawn point x axis

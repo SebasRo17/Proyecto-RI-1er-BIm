@@ -1,0 +1,1 @@
+good combine two mvc framework together project fairly common approach thinking using serverside framework like codeigniter laravel client side framework angularjs predominantly crud based web project bit apprehensive idea think approach get best framework kind get way making application needlessly complicated good approach practice one want combine framework together

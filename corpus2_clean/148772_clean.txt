@@ -1,0 +1,1 @@
+say need implement closely related function provide piece functionality need track state function sometimes pas parameter would best decision design standpoint make separate source file contains function upd objective c namespaces

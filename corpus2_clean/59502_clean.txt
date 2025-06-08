@@ -1,1 +1,0 @@
-function take list input f l list someactions l need apply function list list use approach lst f lst someactions someactions know map list slower using function attribute listable set attribute listable function get expected result setattributes f listable f lst f f f f use attribute listable function take list list input

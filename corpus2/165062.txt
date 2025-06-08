@@ -1,0 +1,1 @@
+How do vector registers work in terms of calculations and alloting data to them ? Is there a detailed reference available somewhere explaining how vector registers work and how data is fetched from them ?

@@ -1,1 +1,0 @@
-according documentation findminimum told use method quasinewton unconstrained problem us bfgs approximation hessian matrix function optimized recover hessian matrix computed mathematica using stepmonitor evaluationmonitor devious trick

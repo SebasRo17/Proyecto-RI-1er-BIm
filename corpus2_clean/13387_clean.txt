@@ -1,1 +1,0 @@
-define n th product derivative function mathematica first product derivative f ast function f f ast x exp left frac f prime x f x right n th product derivative result applying operator n time attempt recursive definition clear prodd prodd f n prodd e f f n prodd f f f prodd e x print e e e x derivative e x prodd e e x print e e x e e e x derivative e e x prodd e x print

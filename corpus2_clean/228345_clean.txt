@@ -1,0 +1,1 @@
+need simple enum declaring reference type public enum strong soft weak enum exist somewhere api general utility library guava able find either place although found third party project declare e g google guice try avoid polluting project silly class enums may exist somewhere else update found guava fact used dropped

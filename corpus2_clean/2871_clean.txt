@@ -1,1 +1,0 @@
-mathematica import zipped file automatically content zip file another zipped file get list file second zip import tgentrades ccontrgrp c ccontrtyp c ccontracts c ccontrstat c ctheorprices c cdeltas c cintraspr c cinterspr c cvalarrays c cyieldcurve c cvolatilityskew c mcontracts get content last file

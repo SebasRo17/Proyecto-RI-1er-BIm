@@ -1,0 +1,1 @@
+A company releases a library with an open source MIT license. If they wanted to, could they change the license to be very restrictive so competitors cannot use it? What impact would this have on previous versions? Meaning if on Nov. 1st they make it very restrictive to some other license, would all versions prior to Nov 1st be still on MIT?

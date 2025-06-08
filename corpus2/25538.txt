@@ -1,1 +1,0 @@
-Suppose I have an expression containing `p`,`Subscript[p,1]`,`Subscript[p,2]`,etc. I want to replace `p` with a numerical value while keeping the other two variables intact. How can I do it? If I naively use `/.{p->0.5}` for example, I will get `Subscript[0.5,1]`, `Subscript[0.5,2]` as a result.

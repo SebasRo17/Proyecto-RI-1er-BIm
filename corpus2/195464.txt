@@ -1,0 +1,1 @@
+As the title says, if the user wants change their email address in the application, in terms of programming, what approach (process) to use? Where do you store the new email address until the user will confirms it?

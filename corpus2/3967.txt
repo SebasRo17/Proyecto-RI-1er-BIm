@@ -1,0 +1,1 @@
+The jRails project is a drop in replacement for the Prototype/scriptalicious helpers already a part of the Rails framework. Are your experiences with this project positive? Does it do what it says on the tin? Is it still being maintained or is this a bad choice if I want to do jQuery with RoR?

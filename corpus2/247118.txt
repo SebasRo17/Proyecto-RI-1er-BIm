@@ -1,0 +1,1 @@
+I want to understand, from design point of view, in what situations I should use default access modifier, and when I shouldn't. I found this related question, that provides some basic explanations, how ever I am searching for an answer that will target encapsulation and single reason of change principles, and address it in more professional way.

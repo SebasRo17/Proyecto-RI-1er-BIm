@@ -1,1 +1,0 @@
-trying import data excel located single column excel file cell contains comma separated pair two value b importing format b c x mean one element pair number b c x instead

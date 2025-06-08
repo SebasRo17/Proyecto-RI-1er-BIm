@@ -1,0 +1,1 @@
+Sometimes it comes to me that the biggest challenge for an engineer when he find his application getting worse in performance is lack of enough information. Imagine that you go through the weekly performance report from your application's access log, and find you get much lower response times from July. All you can do is to pray for it not to get worse the next time.

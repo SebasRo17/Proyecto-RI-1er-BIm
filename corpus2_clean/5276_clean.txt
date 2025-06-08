@@ -1,1 +1,0 @@
-problem need plot figure relatively small region x axis e g listplot randomreal randomreal range frame true ax false figure displayed properly tick mark label mathematica graphic clever way get rid problem

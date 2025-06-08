@@ -1,1 +1,0 @@
-Are there security concerns with using J/Link? If so, is there any way to encrypt the data passed between Mathematica and Java? If Mathematica and the JVM are running on the same machine, is there any reason to worry about this?

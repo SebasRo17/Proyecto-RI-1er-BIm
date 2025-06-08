@@ -1,1 +1,0 @@
-I am trying to find out partial products going up in prime steps for Euler's product formula $$\prod_{p} \frac{1}{1-p^{-s}}$$ Trying things like               s=10;     Product[1/(1-p^(-s)), {i, p, 100p, Prime[p]}]      I am clearly a little lost!

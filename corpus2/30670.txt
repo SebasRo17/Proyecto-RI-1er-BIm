@@ -1,1 +1,0 @@
-I have the following code:               fbasic = A + R + Z*Z *Z*Z;     f[A_, Z_, R_] := fbasic + R;     f[0, 2, 3]      The answer I am getting is > >     3 + A + R + Z^4 >   Which is not what I want because the `fbasic` is not replaced by the expression. How can I do that?

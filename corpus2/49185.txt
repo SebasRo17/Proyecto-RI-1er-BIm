@@ -1,1 +1,0 @@
-I'm using _Mathematica 8.0_. Is the following output a bug or do I miss something?               f[a_] = 2 a;     Map[f,1+x]      gives $2+2x$ as expected, but               Map[f,x]      results in the output $x$

@@ -1,0 +1,1 @@
+little rephrased form game real life problem suppose set element num num n player chosen single permutation set player b want find order element asking question form x earlier permutation x element set assuming b want minimize amount question many time would ask would algorithm

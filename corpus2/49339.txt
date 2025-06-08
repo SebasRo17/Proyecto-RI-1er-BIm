@@ -1,1 +1,0 @@
-I have the following questions: Is there a way to open multiple mathematica notebooks in tab group rather that each mathematica notebook opened in separate window? Is there a way to display line numbers in mathematica notebooks as line numbers are displayed in differnt text editors?

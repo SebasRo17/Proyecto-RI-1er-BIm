@@ -1,0 +1,1 @@
+Go seems to be made for doing server side stuff for the web. What could I do if my boss suddenly dictated that he wants a Windows GUI for a Go application?

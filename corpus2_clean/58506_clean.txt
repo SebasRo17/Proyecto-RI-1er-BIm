@@ -1,1 +1,0 @@
-happens make parametricplot clearall f g f g parametricplot f g plotrange imagesize parametricplot f g plotrange imagesize graph parametric function appears additionally appears straight line origin remove

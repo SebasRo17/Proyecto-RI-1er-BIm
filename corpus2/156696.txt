@@ -1,0 +1,1 @@
+I wonder is it possible or is there a tool to generate annotated POJOs from a table.To make it clear,for example,Person table has fields like ,id,name,surname etc and i wanna to generate a POJO named Person with mappings made with annotations.

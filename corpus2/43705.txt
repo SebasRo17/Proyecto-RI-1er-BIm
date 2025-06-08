@@ -1,1 +1,0 @@
-I am faced with this situation that for a certain integration, $\int _0 ^\infty \frac { \tanh (\pi \sqrt{x} )} {\sqrt{x+10} } dx$ - the command `Integrate` returns that this doesn't converge but `NIntegrate` gives back a number - but after some messages about slow convergence and precision etc. What exactly is going on? What is the "right" answer?

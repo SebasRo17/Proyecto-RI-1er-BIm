@@ -1,0 +1,1 @@
+trying find max firstly min max using length num logic efficient large array public static array sort max length num max end

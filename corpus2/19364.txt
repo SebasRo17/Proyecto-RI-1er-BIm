@@ -1,1 +1,0 @@
-When I add a sub- or superscript to a letter in a `"Text"` cell using the "Writing Assistant" palette this letter becomes `Italic`: ![screenshot](http://i.stack.imgur.com/kit5g.png) Moreover the letter "v" in the subscript is wrongly formatted as being a variable. How to typeset it as `Plain`?

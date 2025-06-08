@@ -1,0 +1,1 @@
+application allows user edit certain part text email question best way store microsoft sql server database right two table one holding html one holding plain text user save info replaces newlines br put html table put regular text table way text box newlines go edit table contains html br seems like silly way thing would best practice thanks

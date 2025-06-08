@@ -1,0 +1,1 @@
+I have a question what is the best way to study 4 volumes of The Art of computer programming and Hacker delight by Henry S. Warren ? Is there any website that focus on study group that uses TAOCP? I am familiar with C/C++. What are the best books to prepare for the TAOCP? And what is the best way to create a Demo portfolio to ensure employers that I am well versed in TAOCP?

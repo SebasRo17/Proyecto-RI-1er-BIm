@@ -1,0 +1,1 @@
+If I have a personal programming project that I plan to port in another language so it could run in other environments, would it be more ideal to start porting the code as soon as possible and work on two versions concurrently? Or would that slow down my production a lot, and should I wait until I have finished some key components of the program?

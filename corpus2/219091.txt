@@ -1,0 +1,1 @@
+I've recently started working for an awesome company, on a product which is a steaming pile once you go under the hood. Apart from asking for a code review (which I doubt I'd get anyway), what are the ways of estimating code quality when interviewing?

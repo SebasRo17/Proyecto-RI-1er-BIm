@@ -1,0 +1,1 @@
+a)What is the difference between **SRP** and **SoC**? Perhaps that **SRP** is applied at class level, while **SoC** can be applied at _system_ , _subsystem_ , _module_ , _class_ or _function_ levels. b) If answer to _a)_ is yes, is then _SoC_ applied at _class level_ a synonym for **SRP**? thank you

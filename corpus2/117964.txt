@@ -1,0 +1,1 @@
+I'm a java dev that is new to powershell. I know that it's built on the .Net Framework, but I don't have much knowledge with that framework. Is there a reference guide of some sort that shows what libraries are available in Powershell? I found a list of Powershell 2.0 commands, but I'm pretty lost as to what library to use or what is available from the underlying framework.

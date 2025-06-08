@@ -1,1 +1,0 @@
-inside mathematica command solve system equation like following eqalign x phantom z phantom w cr x z w cr

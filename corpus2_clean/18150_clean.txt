@@ -1,1 +1,0 @@
-change longitude range plot graphic graylevel absolutethickness countrydata world schematicpolygon equirectangular polygon line frame true imagesize world map thanks

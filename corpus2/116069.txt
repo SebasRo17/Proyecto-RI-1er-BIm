@@ -1,0 +1,1 @@
+I was talking to a co-worker and was talking of how Database operations usually can be broken down into one of the elements of CRUD- Create, read, update and delete. That's when I realised that I do not know how to pronounce CRUD. So is there a definite, well accepted way to pronounce CRUD?

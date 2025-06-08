@@ -1,1 +1,0 @@
-When I try to evaluate the following integral, it runs for a much longer time than I think is should without producing a result. What might be the problem? Can anybody please point it out?               h[s_, t_] := HeavisideTheta[s] HeavisideTheta[t - s]     Integrate[Abs[(b*(1 - e^((-b)*s)))/b - h[s, t]], {s, 0, Infinity}]

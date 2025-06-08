@@ -1,1 +1,0 @@
-dataset like one x x need smooth histogram data way binning x coordinate counting height coordinate let explain given following input bin width height function mean data output would average value first two data point go first bin following three point form second bin etc

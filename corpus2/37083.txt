@@ -1,1 +1,0 @@
-Why does this work:               Solve[Probability[x <= t, x \[Distributed] NormalDistribution[]] == 0.95 ,t]      But this doesn't:               Solve[Probability[x <= t,x \[Distributed] StudentTDistribution[2.964, 2.071, 5]] ==0.95,t]      How can I solve this problem?

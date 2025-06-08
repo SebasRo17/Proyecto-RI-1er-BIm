@@ -1,1 +1,0 @@
-change function nformat numberform infinity numberpoint numberseparator digitblock exponentstep use like nformat column last number get format equal

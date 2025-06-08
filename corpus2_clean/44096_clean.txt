@@ -1,1 +1,0 @@
-say list mylist want operation look first element pair match average second element put first element averaged second element pair new list final product would newlist caveat however first element obvious integer like example could number would easily iterated would example imagine could loop wondering elegant mathematica list manipulation way thank

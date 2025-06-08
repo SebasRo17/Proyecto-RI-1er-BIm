@@ -1,0 +1,1 @@
+Could anyone give an overview of how list structures which are composed of a head and a tail which references the rest of the list i.e linked list are represented in memory of the computer? Does the computer make use of cpu registers to hold the pointers the head and rest of the list?

@@ -1,0 +1,1 @@
+From a .Net programmer perspective, what are the consequences of still sticking with Windows XP despite there are Windows Vista, 7 and very soon 8? How does having windows XP limit programmers development in .Net platform?

@@ -1,0 +1,1 @@
+created custom binding handler ko update element first get latest bound var next whether supplied model property observable get current var ko unwrap manipulate dom element element br make element invisible ko text update element wondering part ko text update better way solve question way update dom ko text update straightfoward way

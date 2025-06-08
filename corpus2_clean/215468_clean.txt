@@ -1,0 +1,1 @@
+let say ordercontroller handle order user add product view final price get calculated ajax call controller action price calculation logic implemented seperate used controller action happens many view different controller need use particular action like kind could call action view would know call action bad practice view call action different controller rendered

@@ -1,0 +1,1 @@
+I am new to C/C++. Wanted to know why we cannot declare 'extern C' for C++ macro's similar to methods/functions...which will allow macro's defined in C++ file to be accessed in .c files. Thanks in Advance

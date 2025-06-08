@@ -1,0 +1,1 @@
+Why are some frameworks (e.g. Flask for Python, Sinatra for Ruby) called microframeworks? What differentiates them from full-fledged frameworks, like Django or Rails?

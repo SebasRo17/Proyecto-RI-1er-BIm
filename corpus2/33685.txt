@@ -1,1 +1,0 @@
-When performing a fit using `NonlinearModelFit` (or any of _Mathematica_ fitting functions, but I am particularly interested in nonlinear models), _Mathematica_ makes a covariance matrix available for all the fit parameters. I was wondering if anyone has an idea of how _Mathematica_ does this error estimation on parameters?

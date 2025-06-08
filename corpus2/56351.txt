@@ -1,0 +1,1 @@
+We all know the venerable Model-View-Controller pattern used to design interaction [mostly] with human users. It is the de-facto standard in OOP environment. What are some other architectural patterns of interaction worth mentioning? Non-OOP (functional, logical, etc) approaches welcome, too.

@@ -1,0 +1,1 @@
+read recent review ternary operator condition foo bar xor operator rarely used yes less readable reason

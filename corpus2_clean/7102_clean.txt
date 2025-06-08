@@ -1,1 +1,0 @@
-plot function plot f x f x f x x want f x plotted range instead possible

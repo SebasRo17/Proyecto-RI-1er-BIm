@@ -1,0 +1,1 @@
+learning num design pattern gof think found way understand simplify abstract factory work would like know correct assumption wrong want know see result abstract factory matrix possible product product every concrete factory x concrete factory single implementation among implementation abstractfactory interface among interface create product correct missing something

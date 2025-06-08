@@ -1,0 +1,1 @@
+Lets say you have to write some code to fix a bug that on first glance by another engineer would seem weird or unnecessary. Would it be good or bad form to put the code in a method named for example "preventWindowFromJumpingWhenKeyboardAppears" or just name it "forceSpecifiedWindowPosition" and then add a comment about why you are doing this when calling the method?

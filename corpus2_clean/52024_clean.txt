@@ -1,1 +1,0 @@
-way print argument function result recursionlimit reclim error example cosider code fib n n n fib n fib fib recursionlimit reclim recursion depth exceeded ideal output something like recursion error n recursionlimit reclim recursion depth exceeded suggestion

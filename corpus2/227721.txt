@@ -1,0 +1,1 @@
+How likely is it for a bug _that can be discovered by a static analysis tool_ (namely Findbugs) in _test classes_ mask a real bug in the actual code? Is this a realistic scenario? Is it really worth the time to run static analysis tools on them to find bugs in the actual code?

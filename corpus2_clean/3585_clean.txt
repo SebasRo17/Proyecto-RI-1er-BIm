@@ -1,1 +1,0 @@
-got nested list b c e f g h want magically transmogrify b c e f g h prepending simple sequence element regardless depth think simple way general stubbornly procedural brain keep thinking loop recursion sure functional type much better trick sleeve

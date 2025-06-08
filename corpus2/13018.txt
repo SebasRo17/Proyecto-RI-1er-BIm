@@ -1,1 +1,0 @@
-just wondering is there any example online   that show plotting of 3d rotation matrices like in the picture below (source) ![enter image description here](http://i.stack.imgur.com/quZ1h.png)

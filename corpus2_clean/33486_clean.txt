@@ -1,1 +1,0 @@
-trying plot spherical coordinate ellipsoid defined x z c code parametricplot co u sin v sin u sin v co u sin v sin u sin v co v u v wrong error displayed empty frame see

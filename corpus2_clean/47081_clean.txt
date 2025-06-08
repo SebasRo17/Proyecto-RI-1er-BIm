@@ -1,1 +1,0 @@
-want solve pde tried solve ndsolve found error boundary value may specified one independent variable initial value may specified one value independent please help solve problem beginner mathematica cylinderical pde equation omega lambda fi constant value e tried sol ndsolve w p p x p x p p p x x l p x x f p x p p x x p x p x

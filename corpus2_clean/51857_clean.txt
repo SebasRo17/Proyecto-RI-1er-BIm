@@ -1,1 +1,0 @@
-given list latitude longitude say find area enclosed polygon formed point word implement convex hull surface area set lat long pair

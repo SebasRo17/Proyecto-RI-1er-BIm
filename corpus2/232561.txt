@@ -1,0 +1,1 @@
+I would like to send a CSV file via POST in a XMLHttpRequest, but I am unsure of two things. First is there anything to distinguish a CSV file from a string split up by comma's? And what sort of Content-Type am I supposed to put in to the `setRequestHeader`?

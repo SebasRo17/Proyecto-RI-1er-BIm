@@ -1,1 +1,0 @@
-I haven't been able to figure out how to use piping with certain functions. Specifically, I would like to apply a replacement at the end of a pipe, like the following:               (x^2 + y + Log[z])^2 /. {y -> x/2} // Expand /. {z -> E^x}      Also, is there a general rule that I should know about piping that would help me in the future with problems like this?

@@ -1,0 +1,1 @@
+I have noticed that all the columns in a SQL Select Query should be in a aggregate function, because otherwise the output value for group would be arbitrary. This makes sense. But when the other columns are same in value, it doesn't matter which is returned. Is there a way to specify this or just use MAX() or MIN() on varchar columns?

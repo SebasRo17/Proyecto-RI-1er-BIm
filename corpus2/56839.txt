@@ -1,1 +1,0 @@
-I'd like to a create a list from `A = {{a}, {b}, {c}}` by taking each elements `n` times in the following form: > >     B={{a},{a},{a},{b},{b},{b},{c},{c},{c}} >   Any idea?

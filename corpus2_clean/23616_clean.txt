@@ -1,1 +1,0 @@
-exponential decay curve plotted asymptoting approximately x correct looking find exact value curve hoping able use something similar findminimum function draw line along asymptote find intersection x axis function used plot curve plot log log axeslabel depth time min

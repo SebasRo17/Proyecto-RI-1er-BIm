@@ -1,1 +1,0 @@
-possible detect highest order generally order derivative expression consider eqn x x x x would go detecting highest order partial derivative x eqn thinking using matchq however matchq derivative x eqn return false thank

@@ -1,0 +1,1 @@
+many way expose web application consumer application container jboss etc servlet container tomcat etc osgi etc self executable war etc clear consideration one approach favoured another example could collection self executable war running raw unix process outperform application deployed within tomcat taking account administration scalability concern

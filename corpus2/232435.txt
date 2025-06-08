@@ -1,0 +1,1 @@
+How can NSObject contain an NSString if NSString is an NSObject               /* NSObject.h     Copyright (c) 1994-2012, Apple Inc. All rights reserved.     */          (NSString *)description;      NSObject has a property named 'description' that is an NSString but isn't NSString an NSObject? How is it that this works?

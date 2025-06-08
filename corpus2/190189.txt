@@ -1,0 +1,1 @@
+I'm looking for a pure JS library that allows to draw the mouse trail, but I cannot find anything pure but using canvas. Is there is a reason for that it could not be achieved? I'm on the wrong thoughts?

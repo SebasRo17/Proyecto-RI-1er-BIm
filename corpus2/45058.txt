@@ -1,1 +1,0 @@
-Assume that I have two lists like : `list1={1,2,3,4,5}; list2={a,b,c,d,e};` I want to replace some elements from `list1` into `list2` and make a new list, `NewList`. For example, I want to replace the elements of `list1` from position 1 and 5, with the elements of `list2` with the same positions. The result will be : `NewList={1,b,c,d,5};` Is there any way to do that ?!

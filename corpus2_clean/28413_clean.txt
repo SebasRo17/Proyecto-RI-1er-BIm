@@ -1,1 +1,0 @@
-perform integrate sin x z r zrcos x x pi z r constant would like possible result term z r

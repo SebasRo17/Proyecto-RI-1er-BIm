@@ -1,0 +1,1 @@
+"Programming in C++ is premature optimization" Why ~~does everyone~~ do some people say this?

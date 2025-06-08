@@ -1,1 +1,0 @@
-graph g wish individually highlight color different connected component graph simple enough one component highlightgraph g connectedcomponents g one multiple component ideally like able pas color string specify highlighted component something like componentcolorstring blue green red possible

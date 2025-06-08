@@ -1,0 +1,1 @@
+sure lock work multi processor core going use shared memory application fifo worry lock server num cpu lock able lock one cpu another operation went 2nd cpu linux environment using c searched web useful info appreciate help

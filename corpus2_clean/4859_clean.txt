@@ -1,1 +1,0 @@
-want write computer program generate plot x ax demonstrate evolution two missile following case x leq leq incoming missile ii x leq leq interceptor missile coded like parametricplot problem animate two function form x ax want display two moving object see collision way please help correct code wrong

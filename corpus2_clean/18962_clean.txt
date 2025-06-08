@@ -1,1 +1,0 @@
-want plot graph list point point also uncertainty assigned date without uncertainty datelistplot work great without date errorlistplot work ok could done time tried displaying plot datelistplot errorlistplot using show work idea

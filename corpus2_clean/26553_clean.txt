@@ -1,1 +1,0 @@
-suppose following plot plot p p p p axeslabel p p enter image description want point wise transform every point p p line making new plot using p rightarrow dfrac p gamma gamma quad p rightarrow dfrac p gamma gamma word want move every point line p p new location left dfrac p gamma gamma dfrac p gamma gamma right achieve

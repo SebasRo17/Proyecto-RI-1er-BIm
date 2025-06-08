@@ -1,0 +1,1 @@
+I'm a member of a small new team and with one of our latest builds I noted that, VS2010 code files don't contain language formatting. So for example when I write down a Euro symbol in my code or use a "." or "," in numbers or use Pounds, Euro or Dollar symbols, those look ok in my code, but for a coder in Russia they don't. I wonder how other people tackle these kind of problems?

@@ -1,0 +1,1 @@
+I was curious, what other architectures exist for business or user focused development that aren't written using web applications. Are these architectures used today? If you are or were in the business world and you need to connect to an application from a remote location, what technology would you use (that isn't web application based)?

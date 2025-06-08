@@ -1,0 +1,1 @@
+already asked implement multi platform map application mapstraction option us javascript implement desired functionality question reason benefit implement library let say adapter server side case php map based javascript big reason use javascript make adapter also would dependent php net example

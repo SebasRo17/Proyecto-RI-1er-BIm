@@ -1,0 +1,1 @@
+I used to program C++ on Code::Blocks, but it's boring now. The view of Visual studio is that it's much better. Will it change anything? Or is it the same thing? Same syntax?

@@ -1,0 +1,1 @@
+Consider an existing project that is dual-licensed GPL + either MIT or BSD. Since it's dual-licensed, when I fork, can I pick one license in the fork? Or do my forked files need to continue to be dual-licensed? It sure would be simpler to track only one license.

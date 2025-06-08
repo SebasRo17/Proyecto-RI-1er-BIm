@@ -1,0 +1,1 @@
+In the first line of a git commit message I have a habit of mentioning the file that modified if a change doesn't span multiple files, for example:               Add [somefunc] to [somefile]       Is this a good thing to do or is it unnecessary?

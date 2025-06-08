@@ -1,0 +1,1 @@
+What do you consider good use of wrapper functions? When are they useful abstractions and in what cases harmful and unnecessary complexity?

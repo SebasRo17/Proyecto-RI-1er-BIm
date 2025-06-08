@@ -1,0 +1,1 @@
+In many native types, a common suffix (and sometimes prefix) of `t` or `_t` is used to denote platform-independent types (such as `wchar_t`, `int32_t`, etc.) What was the logic behind the letter `t` as opposed to other letters (or none at all, especially in the case of `wchar_t`)? Does it stand for something?

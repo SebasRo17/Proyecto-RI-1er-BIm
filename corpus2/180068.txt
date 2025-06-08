@@ -1,0 +1,1 @@
+I discovered some time ago that the GOTO control keyword was introduced in PHP 5.3.0. http://php.net/manual/en/control-structures.goto.php Why did it happen? What are the language design goals behind this? Did the PHP developers community asked for it?

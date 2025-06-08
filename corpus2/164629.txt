@@ -1,0 +1,1 @@
+I am developing a asp.net website. When I used the CSS property "word-wrap", VIsual Studio 2010 is showing a warning: Validation (CSS 2.1) 'word-wrap' is not a known CSS property name. When I tested the website, it is working fine. However, can there be any issue in using this property ignoring the warning?

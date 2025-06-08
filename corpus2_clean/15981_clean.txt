@@ -1,1 +1,0 @@
-want solve equation n cdot binom n n binom n n binom n cdots left n n right binom n n using alternative notion binomial coefficient nc n n c n n c n cdots left n n right c n n n natural number know solve tell mathematica

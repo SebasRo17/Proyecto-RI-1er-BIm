@@ -1,1 +1,0 @@
-suppose want write function fun take integer num input return red num orange num yellow num one way think use fun num integer num red num orange num yellow concise way write fun word built function analogous use would allow avoid typing num time instead always specify writing fun series nested statement would even lengthier suggestion thanks time

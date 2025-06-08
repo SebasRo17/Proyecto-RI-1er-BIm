@@ -1,1 +1,0 @@
-write function remove comment source file preserving formatting line wrapping reasonably mean foo comment bar baz comment comment ideally end getting foo bar baz

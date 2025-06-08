@@ -1,0 +1,1 @@
+making voxel game like minecraft able load chunk using multithreading x num x world width chunk x num world length chunk chunk x thread sleep num work fine start loading far away chunk load back forth like windshield get closer would rather load circle around player loading near chunk first idea

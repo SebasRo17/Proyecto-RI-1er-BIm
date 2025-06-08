@@ -1,1 +1,0 @@
-I am trying to solve functional equations in _Mathematica_ , but got nowhere. Just a simple example: $$f(x+y)^2=f(x)^2+f(y)^2$$ for all $x,y \in R$, assuming f is a real-valued function. How should I approach this problem in _Mathematica_ ?

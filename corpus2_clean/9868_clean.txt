@@ -1,1 +1,0 @@
-mathematica rationalize denominator automatically found anything documentation found old post mathgroup proposes solution using complexityfunction simple case work fine fails complex case better way

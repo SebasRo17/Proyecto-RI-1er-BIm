@@ -1,1 +1,0 @@
-If i have some program which crash Mathematica every time it's run. What are the steps to make a more informative report and/or how do i go about debugging it? EDIT: I guess essentially my question is how even professionals such as Wolfram support will go about doing the initial diagnosis.

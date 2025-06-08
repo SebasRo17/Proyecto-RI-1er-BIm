@@ -1,1 +1,0 @@
-Is there a slick way to make CoefficientList (and the other similar functions, CoefficientRules etc) work for Laurent polynomials (i.e. where negative exponents can occur), if I don't know a priori what the largest negative exponents are? I can of course do some ugly ad hoc thing by hand, but I'm looking for a method that works generally. Any tips?

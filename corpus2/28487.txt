@@ -1,1 +1,0 @@
-I want to run a Mathematica code repeatedly, even after the kernel shuts down when it is out of memory, because I have designed my program to continue appending the data to a file. Currently, I have to restart the kernel manually every 10 minutes. Does anyone have an idea how one can automate this process? Thanks.

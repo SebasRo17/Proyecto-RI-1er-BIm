@@ -1,1 +1,0 @@
-I was creating some custom notations using the Notation package and it works fine. I put it in my default personal package, and it loads fine on _Mathematica_ 's startup. To make it complete I need just one more thing. How can I suppress the Notation palette from appearing every time I launch _Mathematica_? Is there some command that I can put into my package?

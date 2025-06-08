@@ -1,0 +1,1 @@
+using simplexml load xml interpreting result rest api working fine local server using php5 hosting yahoo service provider giving php4 need change way interpreting xml another know

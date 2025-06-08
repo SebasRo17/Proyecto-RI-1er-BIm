@@ -1,1 +1,0 @@
-sketch direction field following differential equation frac dy dx frac xy x xy code used give incorrect plot streamplot normalize x x x ax true following picture show need get enter image description

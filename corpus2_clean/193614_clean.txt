@@ -1,0 +1,1 @@
+design allow mock using sqlite test database minimum unit test pseudo tested public ilist fund list fund get two record sqlite db test public check get fund return list fund obj new var obj assert areequal num count need get first item check binding fund successful var fund obj first assert areequal test fund since using memory mock object scenario test include

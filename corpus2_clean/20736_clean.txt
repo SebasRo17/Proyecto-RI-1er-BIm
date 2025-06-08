@@ -1,1 +1,0 @@
-noticed replacepart use pattern example replacepart x x x x naively think little change like replacepart x give x x x anticipated result whould x x anyone help

@@ -1,0 +1,1 @@
+people table people different address address one person thats many many relationship using orms like entity framework django got hang problem different type people like employee customer client field also would leave top level called person many many relationship address class customer etc inherit person read different type inheritance would best approach

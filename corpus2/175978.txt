@@ -1,0 +1,1 @@
+From everything I have read about Adobe Flash over the past couple of years, it seems like the platform has received a lot of stigma in the web space. Regardless of that, is it still viable as a platform for building local applications such as CBT (Computer Based Training) courses?

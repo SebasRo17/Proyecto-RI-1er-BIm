@@ -1,0 +1,1 @@
+add following order red black tree tree put num tree put num tree put num num num rotate num num num num num perform right rotation insertion num reading algorithm bible pseudocode indicate

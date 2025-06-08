@@ -1,1 +1,0 @@
-How do I type boxtimes in Mathematica, for example $a\boxtimes b$? This symbol is used a lot in mathematics, but I found no corresponding part in Mathematica. In TeX form, I can type \boxtimes. Can I make one in Mathematica, and type it in a simple way, like the following?               \[EscapeKey]b*\[EscapeKey]

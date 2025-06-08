@@ -1,1 +1,0 @@
-In a notebook I would like to be able to access and modify the properties of draw tools objects after I've drawn them on a graph by hand. For example, if make a plot and, with draw tools, make a circle, is it possible now to access the circle Graphics object and its properties with commands in the notebook?

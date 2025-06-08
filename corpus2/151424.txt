@@ -1,0 +1,1 @@
+When validating a JavaScript form, would it be better to process each input field individually, or, where possible check collectively? e.g.               validate()     {          noblanks()          fieldOne()          fieldTwo()     }      or               validate()     {          fieldOne()          fieldTwo()

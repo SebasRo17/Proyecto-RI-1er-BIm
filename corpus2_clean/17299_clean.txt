@@ -1,1 +1,0 @@
-list function passed plot unevaluated form e g result plot single color plot sin co tan plotstyle red blue green mathematica graphic however list function listed explicitly give color expected plot sin co tan plotstyle red blue green mathematica graphic

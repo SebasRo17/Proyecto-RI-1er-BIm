@@ -1,0 +1,1 @@
+I understand the differences between interpreted and compiled languages, but if someone could provide some examples of situations when one is likely to use interpreted languages over compiled languages, as well as situations when one is likely to use compiled languages over interpreted languages, it'd be really helpful.

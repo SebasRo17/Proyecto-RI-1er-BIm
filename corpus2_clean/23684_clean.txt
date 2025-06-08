@@ -1,1 +1,0 @@
-like use graphdata get list graph vertex connectivity least know graphdata nonplanar give nonplanar graph vertex figure get graphdata selection based vertexconnectivity property

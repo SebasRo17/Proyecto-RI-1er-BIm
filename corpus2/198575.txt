@@ -1,0 +1,1 @@
+What is the name of λx.λf.fx in lambda calculus? Does the corresponding function have a standard name in functional programming languages, like Haskell? In object oriented programming, is there a usual name for a method `foo` which takes a function as an argument, such that `x.foo(f)` returns `f(x)`?

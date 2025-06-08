@@ -1,1 +1,0 @@
-trying determine solution linear system equation exists using linearsolve work fine solves system well another efficient method checking existence solution

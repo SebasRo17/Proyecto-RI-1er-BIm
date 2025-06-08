@@ -1,0 +1,1 @@
+started friend working website part design phase finished drawing site map decided content web page navigation want use spring mvc hibernate want start class design domain class first database part taken care hibernate except table static approach correct understanding correct use hibernate num database design forgotten

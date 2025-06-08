@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Where can I find programming puzzles and challenges? Recently in our workplace we have been playing Design Pattern Poker. This is fun and really helps the participants to understand design patterns and to think of useful way to apply them. Can anyone recommend any other similar, fun games that will help us improve our development skills?

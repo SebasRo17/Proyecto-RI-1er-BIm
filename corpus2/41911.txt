@@ -1,1 +1,0 @@
-From a 3d x-ray scan, I have many similar slices to analyze. Is there a way to determine the position of the three rectangles and the inner circle? ![X-Ray Image](http://i.stack.imgur.com/EY2EG.png) ![enter image description here](http://i.stack.imgur.com/MAiaH.png) ![enter image description here](http://i.stack.imgur.com/6fQc1.png)

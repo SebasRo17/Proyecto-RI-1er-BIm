@@ -1,0 +1,1 @@
+I am trying to make an app that will capture the video from the mobile's camera and detect in real time all the text that will be captured. I would like to make it in C# (for e.g. Windows Mobile) but I can also try to do it in Java (for e.g. Android). Can anyone help me how can I start with it?

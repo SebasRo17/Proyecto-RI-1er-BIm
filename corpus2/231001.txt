@@ -1,0 +1,1 @@
+Say you are developing a desktop application that extensively uses a database, should you have one handle for the database that the entire app references? Or should you open a connection when you need data, get the data, and then close the connection when data isn't necessary.

@@ -1,0 +1,1 @@
+working team num member started reviewing num month ago using gerrit review tool reviewing initially found lot problem e proper comment big pointer checking proper exception handling etc day look improved reviewing getting much problem question continue review even much flaw stop

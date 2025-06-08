@@ -1,0 +1,1 @@
+possible duplicate use abstract class instead interface extension method c difference abstract class interface circumstance choose create abstract interface point must mind choosing one

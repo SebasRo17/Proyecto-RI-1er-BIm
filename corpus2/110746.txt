@@ -1,0 +1,1 @@
+Can someone explain what this means? > Unicode defines a codespace of 1,114,112 code points in the range 0hex to > 10FFFFhex. http://en.wikipedia.org/wiki/Unicode

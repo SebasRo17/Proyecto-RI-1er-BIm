@@ -1,0 +1,1 @@
+Should coding standards/style be enforced by the continuous integration server running static analysis tools (ex. PMD, StyleCop/FxCop) and failing the build if the standards are not followed? What types of rules should not be used to fail the build?

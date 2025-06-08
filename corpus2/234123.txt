@@ -1,0 +1,1 @@
+When child processes are created using the fork system call what is there scheduling priorities..are they same? if so will always a child process run first and then parent...or is there a manipulation to this pattern. I have a implementation which apparently is running the parent process first. Is this expected?

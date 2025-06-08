@@ -1,1 +1,0 @@
-using quantity unit degreescelsius multiplication work expected degree multiply get degree instead expected degree becomes real problem use temperature directly formula eg ideal gas law example code quantity degreescelsius unitconvert unitconvert n k n k way fix behaviour work expect

@@ -1,0 +1,1 @@
+Why is jQuery released under MIT and not LGPL? What are the benefits of using MIT compared to LGPL for a framework?

@@ -1,1 +1,0 @@
-huge list huge sublists form list b c e f g h j k l looking way manipulate sublists based position element something like list j k l j k l without write whole pattern way specify manipulation based position element something like list would work

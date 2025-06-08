@@ -1,1 +1,0 @@
-problem finding function give boundary curve regionplot comamnd use following code make region two inequality held simultaneously regionplot x x x x x x x plotstyle green yellow boundarystyle black thick enter image description see black thick curve green yellow region mean boundary separate region showed red arrow find equation least list point living curve

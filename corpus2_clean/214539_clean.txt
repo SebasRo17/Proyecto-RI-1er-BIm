@@ -1,0 +1,1 @@
+web app occasionally block simple request small chunk num num kb num second assuming refactor modify api pattern javascript jquery accommodate situation like thinking set timeout num second api call retry ajax request via jquery ajax timeout argument imagine could equivalent user refreshing slow loading page thanks thought

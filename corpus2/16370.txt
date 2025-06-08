@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  How to nest my own “times” function to get powers What I want to do is something like :               Sin[...Sin[Sin[Sin[Sin[x]]]]]      Basically, defining a function that maps a said function on an argument said number of times.

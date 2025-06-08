@@ -1,0 +1,1 @@
+Can I develop OpenGL ES iPhone simple physics app with Xcode 3 in C++ without a GUI and Objective-C? So I don't need Cocoa and I don't need Objective-C?

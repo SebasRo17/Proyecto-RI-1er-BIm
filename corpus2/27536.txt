@@ -1,1 +1,0 @@
-Right now I'm using this `For` loop to do an operation to each row of a $n \times n$ matrix, I was trying to figure out how to do this with `Map` or `Take` or something like that.               evecs = RandomReal[1, {5, 5}]     For[{i, 1, Length@evecs}, i++, evecs[[i, All]] = evecs[[i, All]]/Norm[evecs[[i, All]]]];

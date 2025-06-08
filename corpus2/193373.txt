@@ -1,0 +1,1 @@
+How are effort estimations and duration estimations distinct? At present my understanding is that effort is related to the amount of work required for one person to complete a task, and duration is the total amount of time required to complete the task, irrespective of resources. Is this the commonly accepted definition?

@@ -1,0 +1,1 @@
+We have an application in Java. Now we want to export this application to clients (free of charge). Can we ship JRE7 along the application (precaution as client might not have Java installed). Is it legal to do this?

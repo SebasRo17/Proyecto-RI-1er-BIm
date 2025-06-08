@@ -1,1 +1,0 @@
-nearest function receive threshold parameter radius look element inside documentation nearest data x n r give n nearest element x within radius r instead circle want use ellipse threshold would x limit nearest function know nearest receive distancefunction parameter think use purpose idea

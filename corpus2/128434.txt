@@ -1,0 +1,1 @@
+As a digital security consultant when is it 'ok' to use tools someone else made (dumb to reinvent the wheel, right?) and when should I make my own?

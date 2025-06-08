@@ -1,1 +1,0 @@
-trying compute shortest distance point triangle distance point p p p module p sol p p p p minvalue point p point p seems quite slow way make faster

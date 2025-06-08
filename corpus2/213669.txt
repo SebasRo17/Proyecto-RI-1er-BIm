@@ -1,0 +1,1 @@
+When converting a string to a boolean, what are the advantages of having a programming language evaluate an empty string as true and what are the advantages of having it evaluate it to false?

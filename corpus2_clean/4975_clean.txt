@@ -1,1 +1,0 @@
-consider graph produced graphplot directededges true vertexrenderingfunction edgeform black lightred disk black text subscript c output possible tweak layout room left around vertex use vertexrenderingfunction want able put text label

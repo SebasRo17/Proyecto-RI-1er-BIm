@@ -1,0 +1,1 @@
+I am currently using dev++, I am a complete beginner, (Freshman CS major) learning C++. I can get one of the newest versions of visual studio (2008 or 2009 i think) for free through my school. Not sure if it is worth the trouble of getting. thoughts?

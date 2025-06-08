@@ -1,0 +1,1 @@
+firstly sorry fully understand licensing thus want ask curiosity licensing thing case build wordpress theme using underscore starter theme gpl v2 license build theme using twitter bootstrap apache v2 license searching license found apache v2 compatible gpl v3 gpl v2 license put apache gpl release apache v2 gpl num incompatible finally matter whether modify

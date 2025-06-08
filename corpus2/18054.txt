@@ -1,1 +1,0 @@
-What is a "reverse" to `MatchQ`? `MatchQ` converts pattern into boolean function. So how to convert back? Suppose I want to use boolean function in `Switch`.

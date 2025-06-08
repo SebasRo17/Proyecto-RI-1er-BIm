@@ -1,0 +1,1 @@
+taking look encryption found following sha1 str exists sha1 exists use ci implementation require library sha1 ext sh new ci sha sh generate str else use alternate built sha1 str else use built sha1 str writing would like sha1 str use built exists sha1 sha1 str use alternate built exists sha1 str use ci implementation require library sha1 ext sh new ci sha sh generate str better

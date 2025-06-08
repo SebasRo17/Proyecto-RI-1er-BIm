@@ -1,0 +1,1 @@
+What do I have to do to write a Java Interface for SAP R/3. I do not have experience with SAP, and they are very slow in their answers, so I just ask here for your experience with them. Can anyone create software that uses SAP for free? Do we have to license the Java Connector? Do we have to become SAP partners? How much is it? Thanks for all information you have.

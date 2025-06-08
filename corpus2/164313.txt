@@ -1,0 +1,1 @@
+Having e.g. a system for booking flights, during UAT it is not being tested by real users (customers who will buy tickets) rather than people from the client side who will just simulate this. Are there any more specific terms to distinquish between real users (like end user) and users doing the UAT?

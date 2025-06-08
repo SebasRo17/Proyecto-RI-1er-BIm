@@ -1,0 +1,1 @@
+I am entering university next month and have some exemption exams today. One of which is Computer Organization: things like Boolean Algebra, Gates (AND, OR, NOT etc), Assembly Language are taught. I wonder why learn such low level stuff. Does it benefit me as a programmer, likely developing in much higher level languages like C#, Python, PHP etc?

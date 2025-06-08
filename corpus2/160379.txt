@@ -1,0 +1,1 @@
+I am trying to figure out what a programmers needs from a client to create a website. This is a complicated database driven site. How should the information look? Should I layout the pages in something like photoshop with annotations? Should it all just be written out. Is there a standard way to do this? I need to clearly explain to a programmer what i want my site to do. Help!

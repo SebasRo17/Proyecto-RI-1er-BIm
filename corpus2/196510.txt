@@ -1,0 +1,1 @@
+do you create unit-tests for PODs (Plain Old Data Structure)? And why? I'm interested in your opinions. Regards Tobias

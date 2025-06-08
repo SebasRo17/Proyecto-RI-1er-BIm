@@ -1,1 +1,0 @@
-Im playing around with `CountryData` and I want to pass it 2 lists as argument, `listCountries = {...}` and `data = {"GDP","ExternalDebt"}` If I do `CountryData[#, "GDP"]& /@ listCountries` it works well, but I want something like               CountryData[#1, #2]& /@ {listCountries,data}      I read something about `MapThread` but can make it.

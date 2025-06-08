@@ -1,0 +1,1 @@
+I was just wondering how API's can be shared between different Programming languages. I mean, MS have .Net which uses VB.net C# and various other technologies.   I doubt .Net is written for each programming language.   How are structs and classes shared between languages? Also the same for Unity3D - Javascript shares API's with C# and BOO.   How?

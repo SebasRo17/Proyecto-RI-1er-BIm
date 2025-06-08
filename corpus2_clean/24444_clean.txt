@@ -1,1 +1,0 @@
-using nsolve solve equation shown e e nsolve e e real give warning solve ratnz solve unable solve system inexact coefficient answer obtained solving corresponding exact system numericizing result still display result wrong use nsolve general task missing parameter

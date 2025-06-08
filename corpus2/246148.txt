@@ -1,0 +1,1 @@
+I am familiar with basic C pointers. Just wanted to ask what is the actual use of double pointers or for that matter n pointer?               #include<stdio.h>     int main()     {     int n = 10 , *ptr , **ptr_ptr ;     ptr     = &n;     ptr_ptr = &ptr;     printf("%d",**ptr_ptr);     return(0);     }      **ptr_ptr is printing 10 but how?

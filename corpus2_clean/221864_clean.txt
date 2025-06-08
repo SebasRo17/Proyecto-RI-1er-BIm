@@ -1,0 +1,1 @@
+using fogbugz project management unsure structure case different feature require implementing part project example new feature include autocomplete search text box would case returning search term front end change request front end change display search term create autocomplete case created top level case area called autocomplete

@@ -1,0 +1,1 @@
+Which problems domains are more suited to functional programming solutions and why? Can anyone provide any examples? **EDIT** Just to clarify, I'm not asking for a list of problems. I want to know what **type** of problems are best suited to functional solutions. For example I have heard financial problems are solved well with functional programming.

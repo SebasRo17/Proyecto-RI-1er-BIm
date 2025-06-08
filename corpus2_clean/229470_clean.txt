@@ -1,0 +1,1 @@
+clear benefit declaring stack variable constant c hoping somebody might explain benefit purpose technique example func const std arg somecondition const std foo plus arg std foo std endl somefunction foo dozen line bla bla bla thanks

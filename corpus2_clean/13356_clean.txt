@@ -1,1 +1,0 @@
-possible duplicate remove tick label retain tick mark regionplot related function need display graph say x tick mark along x ax number e g indicating tick mark value efficient way perform task thanks

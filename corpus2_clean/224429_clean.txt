@@ -1,0 +1,1 @@
+going start project bll would something like map record need keep track make probably class hold e g first good practice hold object good separate like bll entity map record bll list okay may written confusing way meant good make like bll entity map record bll list

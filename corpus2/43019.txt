@@ -1,1 +1,0 @@
-I've a custom pdf in the sense that it's the convolution of several other PDFs               p[t_] := Convolve[p1[x],p2[x],x,t];      Now I want to calculate the expected value of this 'new' pdf w.r.t $t$ $\mu = \mathbb{E}_t [ p(t) ]$ How can I do this with mathematica?

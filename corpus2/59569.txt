@@ -1,1 +1,0 @@
-I need help solving this problem. Thank you.               (a*x^2 + b*x*Sin[y] + c*Sin[y])^2 + (a*Sin[y]^2 + b*x)^3      > Write the above as a polynomial in x and extract the coefficient of x^2. The answer is: > >     b^2 (3a + 1)*Sin[y]^2 + 2*a*c*Sin[y] >

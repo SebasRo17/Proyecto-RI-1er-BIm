@@ -1,1 +1,0 @@
-could someone please point good example make jdbc connection ibm db database

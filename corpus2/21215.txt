@@ -1,1 +1,0 @@
-I want to add two assumptions, so I can get this probability density function to equal 1, though I can't get a solution.               Integrate[(L r x^(r - 2))/(r - 1)! e^(-L x), {x, 0, Infinity},       Assumptions -> r > 0, Assumptions -> L > 0]      My equation. With the assumptions `r > 0` and `L > 0`

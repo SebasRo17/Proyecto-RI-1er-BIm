@@ -1,1 +1,0 @@
-I have a discrete Signal in my CSV File and I want to transform it in Z. I import the data with                Data=Import["T:/data.csv","CSV"]      and I try to transform it               ZTranform[Data[n],n,z]      but I get this Error:               $RecursionLimit::reclim : Recursion depth of 256 exceeded >>      What is the meaning of this?

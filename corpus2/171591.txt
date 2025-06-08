@@ -1,0 +1,1 @@
+First off, sorry if this is answered somewhere else. I did a brief search, but wasn't sure how to ask in search terms. I'm looking at some code and came across lot's of statements like this:               if ( ($a != empty_or_null_or_notDefined && $a == 5 )      Is this the same as just saying:               if ( $a == 5 )      ? (language is PHP.)

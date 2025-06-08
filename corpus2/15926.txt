@@ -1,0 +1,1 @@
+I am a web developer and i want to take my web app to the cloud.Could anyone take me through the steps involved.Do they like have a lamp installation which they will assign to me or will i continue hosting my data and scripts?. Are there fees associated with listing my app to the salesforce marketplace? Thanks.

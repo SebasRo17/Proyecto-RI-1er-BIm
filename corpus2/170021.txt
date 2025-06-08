@@ -1,0 +1,1 @@
+I've just inherited a code base that makes extensive use of SAP technologies. The project is written in C# if that makes a difference. I'm having trouble finding resources for learning more about SAP. Can anyone point me in the right direction?

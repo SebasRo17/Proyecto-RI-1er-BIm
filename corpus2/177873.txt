@@ -1,0 +1,1 @@
+I have a big repository and `git svn dcommit` takes pretty big time. Will my repo be in consistent state if I'll modify sources (without any git operations) while dcommit is in progress?

@@ -1,0 +1,1 @@
+In my last interview I was asked what would I change on Ruby on Rails to make it better. I use Ruby on Rails daily and I was not able to give an answer. So, my question is: 'What could be changed in Ruby on Rails to make it better?'

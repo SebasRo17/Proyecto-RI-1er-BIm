@@ -1,0 +1,1 @@
+We build some software platform, and now we need to make hardware sizing sheet for the server-side piece of this software. So, I should prepare some mathematical model that, for example, given the number of concurrent users, can predict the number of physical servers or storage capacity or network bandwidth. How to make such model?

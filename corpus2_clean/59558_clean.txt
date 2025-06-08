@@ -1,1 +1,0 @@
-k mean algorithm given distance function implemented using parallelmap parallel processing program construct mathematica

@@ -1,1 +1,0 @@
-simple one liner convert given base integer string representation integer desired base b way avoiding subscript indicating base example small ask binary string best thing purpose despite danger would function take decimal integer return appears binary ternary etc representation integer mathematica still treat decimal integer value

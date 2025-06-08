@@ -1,1 +1,0 @@
-evaluating expression seems cause mathematica beep quit kernel plot exp sqrt x exp sqrt x x element implicitregion x x running mathematica macos known issue interestingly plotting one exponential rather difference produce problem

@@ -1,1 +1,0 @@
-imagine wish evaluate expression like nintegrate x q x assuming value q like q x makelocalassignmentorassumption q x nintegrate x q x print q return q word assume q x context evaluating nintegrate expression

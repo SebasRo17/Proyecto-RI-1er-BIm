@@ -1,0 +1,1 @@
+project requires client app communicate server wondering way client app detect available server know another server one need client built net c server simple sql database network built mechanism task complex seems first detail atm still idea reason behind user us client app want enter connection string manually

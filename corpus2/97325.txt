@@ -1,0 +1,1 @@
+I have an application and I'm ready to release it into the wild world of the Internet. However, I am a confused of a few things. Keeping in mind that I am not releasing the source code, must I include a license If I don't want my program copied and claimed someone elses? If yes, then which one? Also, note that is a non-commercial freelance programmer's application.

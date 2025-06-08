@@ -1,0 +1,1 @@
+I have a program which is built of 5 major components. I find the standard version numbering too limiting because I would like to see what version each compoment is at. Has anyone found an easy way to do this other than list each separately?

@@ -1,1 +1,0 @@
-I am using ParametricPlot to get an X vs Y plot. I want to shade the area enclosed by the curve falling in the region where Y<0\. For example, how to shade the area enclosed by the Sin curve where Sin[x]<0\.               ParametricPlot[{x, Sin[x]}, {x, 0, xm}]

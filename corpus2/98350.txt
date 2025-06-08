@@ -1,0 +1,1 @@
+I open the source code and it's folder upon folder of infinite files each with infinite lines of code which doesn't make much sense to me because I dont have the context, and half of it uses functions imported from other files just to make it more confusing. Is there any simple way to know the structure of an open source application's code?

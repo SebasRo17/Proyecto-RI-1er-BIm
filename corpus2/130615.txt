@@ -1,0 +1,1 @@
+If I am a Java certified programer, by seeing that certificate people can say I have good knowledge on Java in a snap. Is there any similar certification to know if a person can write good SQL queries? I am not talking about database administration. I am looking at MS SQL Server specifically.

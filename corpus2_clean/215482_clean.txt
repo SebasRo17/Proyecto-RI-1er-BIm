@@ -1,0 +1,1 @@
+javascript good part douglas crockford mention inheritance chapter benefit classical inheritance includes specification system type mostly free programmer write explicit casting operation good thing casting safety benefit system lost first actually safety protection corruption hacker system malfunction etc safety benefit system make system different allows provide safety benefit

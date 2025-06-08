@@ -1,1 +1,0 @@
-I would like to calculate the symbolic power spectral density of a two state Markov process with a symbolic transition matrix characterised by two parameters. I have tried the below, but it doesn't seem to work. Any help much appreciated!               M = {{1 - pdw, pdw}, {pwd, 1 - pwd}}     P  = DiscreteMarkovProcess[{1, 0}, M]     PowerSpectralDensity[P, omega]

@@ -1,1 +1,0 @@
-What is the equivalent of MATLAB's "timealign" function? Given two sequences (lists of values) and offsets, timealign will insert 0's into sequences to align them so they have the same number of elements and are thus aligned for the purpose of doing operations across both sequences in parallel.

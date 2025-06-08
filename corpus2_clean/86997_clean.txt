@@ -1,0 +1,1 @@
+problem imagine vector v integer num num sorted ascending order permutation p vector v p shuffling vector keep v p p never change v eventually sorted ascending order way may know priori may shuffle need

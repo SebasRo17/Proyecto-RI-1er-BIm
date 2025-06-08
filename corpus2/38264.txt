@@ -1,1 +1,0 @@
-I want to solve a differential equation $$ \frac{d}{dx}\left(k_0 \left(\frac{T(x)}{T_0}\right)^n \frac{dT(x)}{dx}\right)=0,$$ with boundary conditions: $T(l)=T_0$, $\;T'(0)=-\frac{q_0}{k_0 T(0)^n}\;$ using `DSolve`, but I cannot get a solution. Can anyone help me?

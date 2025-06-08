@@ -1,0 +1,1 @@
+It is common sense not to store passwords/credentials into SCM. I would like to know then what would be a **good strategy for storing passwords/credentials** in the context of continuous delivery.   * Where and how do I store credentials?   * How do I retrieve and use those credentials/passwords?

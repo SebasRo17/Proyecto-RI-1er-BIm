@@ -1,0 +1,1 @@
+I'm a java developer and I want to develop an android app that capture a photo and extract its bags of visual words. To extract those bags of words I use the TOP-SURF toolkit which is written in C++ I'm new to C++ development and I want to know how to develop an android app that use this toolkit I read about the NDK. It's the solution?

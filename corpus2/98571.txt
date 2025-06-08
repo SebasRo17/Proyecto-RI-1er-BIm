@@ -1,0 +1,1 @@
+I'm reading about LISP. I understand how prefix notation works at a certain level, but I was wondering if there are any tricks to making it intuitive.

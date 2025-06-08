@@ -1,0 +1,1 @@
+In Java world, there are some scenarios where I see developers used to load the class rather than instantiation. What is the difference between instantiating and loading a class?

@@ -1,1 +1,0 @@
-problem admittedly already solved using select instead irking cannot seem construct right pattern solve using case would like output case correct pattern word would like pattern pick element outer list least one non empty list element thanks advance help

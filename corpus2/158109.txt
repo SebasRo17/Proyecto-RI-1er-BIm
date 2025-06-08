@@ -1,0 +1,1 @@
+I've done some research on my own and understand the basic concept. But some insights can only be gained through actual experience. What are the advantages of myBatis that would make it worth learning a new framework?   In what case would you avoid using it?

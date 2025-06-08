@@ -1,0 +1,1 @@
+In cluster the Amdahl's law, Gustafson's law exists. I though that there might be some law which states the relation between CPU Hz's and network speed: maximum network speed after which no additional Mbps would increase the calculations. Does such limits exists and what it depends on?

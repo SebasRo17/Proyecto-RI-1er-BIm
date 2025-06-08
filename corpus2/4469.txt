@@ -1,1 +1,0 @@
-Consider the following:               data={"AB","CD","AF"};      Now I would like to delete all String from `data` which starts with "A". Result: `{"CD"}`

@@ -1,1 +1,0 @@
-Given               x[t_] := {Subscript[x, 1][t], Subscript[x, 2][t]}      following replace works fine               x[t] /. x[t] -> 0     0      but following one is a problem               x[t] - 1 /. x[t] -> 0     {-1 + Subscript[x, 1][t], -1 + Subscript[x, 2][t]}      because I expect there '-1'.

@@ -1,0 +1,1 @@
+I've made a 4-line bug fix to a minor issue in a library on github. The project is actively maintained with changes every few days. What is the ideal way to submit a fix that small? Is it to fork, fix and submit a pull request; file an issue _and_ a pull request; or just file the issue with my fix copy-pasted? (Or something else?)

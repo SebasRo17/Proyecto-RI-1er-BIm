@@ -1,0 +1,1 @@
+I have made a couple iphone applications for a customer and was asked today to hand over the source code so that they could do the maintenance if this should be required. Until now, no code issues were ever discussed. Is there any "common" practice regarding this?   Also, in which way should this affect the price?

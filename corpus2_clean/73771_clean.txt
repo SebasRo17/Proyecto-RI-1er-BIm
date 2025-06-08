@@ -1,0 +1,1 @@
+developing mobile application window phone num application call web service occasionally sends response via web service recently started looking mvvm noticed although suggested developing application wp7 alot developer say use necessary along said application small enough simple enough probably worth time hence question use mvvm possible build larger scale application without

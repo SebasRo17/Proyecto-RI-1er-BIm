@@ -1,0 +1,1 @@
+What kind of data cannot be compressed by using the huffman codes and why? I tried looking for the answer, but I only came across loss-less and lossy compression. I don't really understand what types of data cannot be compressed by huffman and why they can't be compressed using it.

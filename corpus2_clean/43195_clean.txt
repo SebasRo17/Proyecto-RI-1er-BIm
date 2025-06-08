@@ -1,1 +1,0 @@
-matrix like reverse array list matrixform matrix need function given element matrix return element corresponding two diagonal run first diagonal found like diagonal matrix j j element get diagonal run orthogonally given element j somewhat related question problem figure diagonal want reversed matrix

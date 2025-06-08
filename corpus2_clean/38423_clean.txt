@@ -1,1 +1,1 @@
-reading manipulating continuous stream sound ask controlling frequency sin sound continuous manner play inside manipulate example result may sound something similar whistling musical saw theremin problem play generates output box played dynamically possible mathematica
+possible duplicate getters setter justified good programming practice use getters setter trivial part

@@ -1,0 +1,1 @@
+I'm reading a book on Objective C, and I was wondering about 2 things:   1. Should I take the time currently to read a whole chapter on memory management?   2. If you are doing a really good job on manual management, can you get to better performance than using ARC?

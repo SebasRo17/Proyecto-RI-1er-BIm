@@ -1,0 +1,1 @@
+Can the Turing machine be classified e.g. as a Mealy machine? Why not? Can a Turing machine be input to another Turing machine without complication like halting problems? Thanks

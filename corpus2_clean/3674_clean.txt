@@ -1,1 +1,0 @@
-noticing something strange since updating mathematica occaisionally see mathkernel using cpu activity monitor o x core parallel call whatsoever single kernel across multiple kernel code pretty much interpolates map loop plotting routine curious built mathematica routine fact already parallel one

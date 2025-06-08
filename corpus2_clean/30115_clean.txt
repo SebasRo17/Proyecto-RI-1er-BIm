@@ -1,1 +1,0 @@
-possible format usage message italic argument etc mathematica still parses function template correctly example plain usage message work pressing ctrl shift k enter image description formatted one enter image description note work correctly mathematica guess bug mathematica nonetheless workaround

@@ -1,1 +1,0 @@
-version work grid min max table evenq red blue ceiling min floor max plot sin x x pi pi gridlines grid mathematica graphic used logplot give error logplot x x x gridlines grid mathematica graphic

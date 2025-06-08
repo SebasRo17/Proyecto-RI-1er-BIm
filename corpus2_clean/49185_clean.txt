@@ -1,1 +1,0 @@
-using mathematica following output bug miss something f map f x give x expected map f x result output x

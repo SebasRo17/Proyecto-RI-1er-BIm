@@ -1,0 +1,1 @@
+developing library using c recommendation scoping c oop namespaces made whole thing lot easier plain c specially use keywords static extern header file manage scoping

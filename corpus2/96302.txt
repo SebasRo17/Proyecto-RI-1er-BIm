@@ -1,0 +1,1 @@
+Which approach is better when working with a source control software like TFS or VSS? I have experienced different approaches and I can't tell which one is better. Should we let developers decide upon it? Or should a team has a unique strategy for check-in check-out operations?

@@ -1,1 +1,0 @@
-trying fit data morse potential using nonlinearmodelfit follows morse r exp r nlm nonlinearmodelfit data exp r r however upon get following error nonlinearmodelfit cvmit failed converge requested accuracy precision within iteration tried using different value constant puzzling data fit data using currently internuclear separation potential energy ev idea

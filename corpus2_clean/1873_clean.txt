@@ -1,1 +1,0 @@
-wondering automatic differentiation package exists mathematica mean automatic differentiation

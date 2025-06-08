@@ -1,0 +1,1 @@
+I was talking with my architect about some concerns with a particular approach that may result in very low level of cohesion in a set of classes. However, I couldn't think of the word that represents a low level of cohesion. I said something along the lines of "Obviously, we want cohesive classes not... uh ... not cohesive classes" What's the correct word I should have used?

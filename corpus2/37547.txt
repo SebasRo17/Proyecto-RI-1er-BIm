@@ -1,1 +1,0 @@
-![enter image description here](http://i.stack.imgur.com/jHcQ9.jpg) Can "plotlegend" do that? I cannot find a proper function.

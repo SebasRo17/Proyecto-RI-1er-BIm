@@ -1,1 +1,0 @@
-want use mathematica solve problem find maximum k x z k non negative solution tried frobeniussolve elegant way find maximum know theoretical background problem know way getting solution want see done elegantly mathematica

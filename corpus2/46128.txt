@@ -1,1 +1,0 @@
-I tried to force CUDA using Visual Studio 2013 C compiler by manipulating the VisualStudioCOmpiler file found at C:\Program Files\Wolfram Research\Mathematica\9.0\AddOns\Applications\CCompilerDriver When run, CUDA will not run at all.Mathematica hangs at Needs["CUDALink`"] Anyone faced similar problem? HAs anyone tried to make the same modification?

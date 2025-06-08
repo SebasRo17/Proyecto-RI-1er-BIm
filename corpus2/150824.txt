@@ -1,0 +1,1 @@
+I'm trying to understand how the `puts` function fits in Ruby's "Everything is an object" stance. Is `puts` is the method of a somehow hidden class/object? Or is it a free- floating method, with no underlying object?

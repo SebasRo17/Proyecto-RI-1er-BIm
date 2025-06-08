@@ -1,1 +1,0 @@
-I have a very old notebook in which many cells had the `CellMargins` option set manually. What's the easiest way to remove all those manual option settings?

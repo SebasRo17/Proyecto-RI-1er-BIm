@@ -1,1 +1,0 @@
-I have a 2D array,               data = {{0,1}, {1,2}, {2,3}};      I would like to convert it such that I get the x- and y-values separately, specifically               x[0]=0; x[1]=1; x[2]=2;     y[0]=1; y[1]=2; y[2]=3;      Is there a way to obtain this?

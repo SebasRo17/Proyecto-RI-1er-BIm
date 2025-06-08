@@ -1,0 +1,1 @@
+Is it a bad sign if users submit bug reports for things that are by design? Does it typically mean that the application is confusing or unclear, or should I just chalk it up to a one-off user mistake unless specifically stated? (I don't actually have any such reports. This is a purely hypothetical question about whether or not the existence of by-design "bugs" is a bad thing.)

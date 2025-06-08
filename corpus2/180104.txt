@@ -1,0 +1,1 @@
+I would like to know, is it considered a common practice to use constructions like `|=`, `&&`, `||`, `!=` altogether in the single line of code? E.g. `hasErrors |= vi2!=null && vi2.hasErrors() || vi.hasErrors();` What can be done to make the code more readable? The programming language is Java, if it matters.

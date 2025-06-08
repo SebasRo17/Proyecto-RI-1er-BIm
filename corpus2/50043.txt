@@ -1,0 +1,1 @@
+Some document says OrientDB is document-database, some others talks it's graph-database. What's right?

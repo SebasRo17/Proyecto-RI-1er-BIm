@@ -1,1 +1,0 @@
-If I have a list like               list = {"my element 1 http://link.com", "http://link2.com my element 2"}      how do I get a list of the links inside each element? Something like               StringCases[list, "http" ~~ _]      probably but I wasn't able to know how to end my pattern.

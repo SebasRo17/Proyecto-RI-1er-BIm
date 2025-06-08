@@ -1,1 +1,0 @@
-trying plot simple function f x exp x x log log scale like loglogplot f x x mathematica graphic problem large value x plot suddenly jump instead going zero tried tabulate value increase working precision go away problem appear use loglogplot exp x x x mathematica graphic anyone explain happening

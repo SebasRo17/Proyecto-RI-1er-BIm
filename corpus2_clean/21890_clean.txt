@@ -1,1 +1,0 @@
-triallist f x x would like apply function f second element tuple done actual list entry long iterate whole list applying function second entry tuple tried following want triallist f triallist triallist

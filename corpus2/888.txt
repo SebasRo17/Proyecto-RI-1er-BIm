@@ -1,1 +1,0 @@
-Suppose I have an `InterpolatingFunction` object defined on $[\epsilon,1]$; let's call it `f`. What is the best way to construct a function `g` that coincides with `f` on $[\epsilon,1]$ and satisfies `g[0]==a` (`g` should be an `InterpolatingFunction`, too)? Small perturbations near $\epsilon$ are allowed. Any generalizations are welcome as well.

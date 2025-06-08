@@ -1,0 +1,1 @@
+seems everyone us nunit without even considering option think everyone familiar already learn new api already set continuous integration server work nunit wrong decided use xunit one project recently love make much sense conceptually seems like definite step forward nunit like hear opinion framework actually best taking consideration learn reconfigure automated testing

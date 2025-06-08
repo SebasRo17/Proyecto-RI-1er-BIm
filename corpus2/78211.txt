@@ -1,0 +1,1 @@
+I am trying to determine the maturity of PyPy by other means than reading the opinion of the developers. Therefore, I am interested in hearing about any high-profile mission-critical projects using PyPy. All other indicators of maturity seem fine. I am just missing this one before I decide on utilizing it for my main project.

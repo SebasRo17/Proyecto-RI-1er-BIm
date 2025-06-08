@@ -1,0 +1,1 @@
+I have Java 1.2 certification which I completed in 2002. Now I have 10 years of Java experience and I tried to catch up with all Java 5/6 new features but at times I am lost in some of the new things especially on multithreading and generics which were revamped in the later releases? Should I re-take the SCJP for Java 6 or Java 7? Any experience on this? Any suggestions?

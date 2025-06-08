@@ -1,1 +1,0 @@
-Even if in               Graph[{1 -> 2}] == Graph[{1 \[DirectedEdge] 2}]      the answer is `True` ; but why MMA doesn't show the result of the following expression?Neither `True` nor `False`.What is the reason?               {1 -> 2} == {1 \[DirectedEdge] 2}

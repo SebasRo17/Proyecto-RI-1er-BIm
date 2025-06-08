@@ -1,1 +1,0 @@
-code shown work well think pure function supplying colorfunction option could elegant simplify f w h z reap ab w ab j h ab k z sow j k w w j h h k z z listpointplot f plotstyle pointsize colorfunction x z function z x red z x green z x blue z x orange z x cyan z x magenta z x yellow z x rgbcolor true black colorfunctionscaling false boxratios

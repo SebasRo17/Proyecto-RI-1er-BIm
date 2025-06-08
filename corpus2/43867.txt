@@ -1,0 +1,1 @@
+From time to time, I experience different bugs with proprietary software that I need to interact with. In order to get through these bugs, I need to develop various workarounds. Is there a good book for debugging/disassembling proprietary software to write better workarounds?

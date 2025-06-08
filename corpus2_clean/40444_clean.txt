@@ -1,1 +1,0 @@
-imported data excel package used linearmodelfit return fittedmodel fittedmodel x calculate rsquared value data model similarly imported data excel package used nonlinearmodelfit return fittedmodel e time calculate rsquared well

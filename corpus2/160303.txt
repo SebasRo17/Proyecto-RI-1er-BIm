@@ -1,0 +1,1 @@
+I'm working on a ground up code generator project, but I feel I might be reinventing the wheel. Does anyone know where I can find some best practices guidelines or design patterns for code generation?

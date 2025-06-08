@@ -1,0 +1,1 @@
+I'd like to sell my software on the 'net but am not sure how to do the whole Merchant setup. I have access to Commerce Server 2009, and I want to seem professional so a plain old PayPal account is out. What do I need to know/do to sell a few things using ASP.NET, accept credit cards, and what not?

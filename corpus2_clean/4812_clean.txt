@@ -1,1 +1,0 @@
-would like add element start series list example collection list called list want add beginning first list two second list get suspect need done using prepend command combination something change number element add individual list collection

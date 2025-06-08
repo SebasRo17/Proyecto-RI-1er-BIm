@@ -1,0 +1,1 @@
+responsive design element hidden page medium query display none cs ok design however browser less width avoid loading content accessed device screen page load fully mobile device even desktop less width content hidden want make page load faster low resolution device avoid loading chunk content user never see go

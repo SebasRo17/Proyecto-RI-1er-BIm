@@ -1,0 +1,1 @@
+Why do we use the expression “throw an exception“ and not something like “generate“? Where was that term born and in which language?

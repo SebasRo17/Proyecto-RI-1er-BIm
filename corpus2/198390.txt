@@ -1,0 +1,1 @@
+I have created a windows form using visual studio design, that is simply drag n drop component into the form from Toolbox. Is it possible to import it into Blend and change its appearence using Blend? I opened the project from Blend but ony the code appears not the form itself. Thanks in advance!

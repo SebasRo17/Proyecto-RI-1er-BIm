@@ -1,1 +1,0 @@
-command parametricplot co sin pi epilog arrow co pi sin pi pi produce message coordinate pair number scaled offset form

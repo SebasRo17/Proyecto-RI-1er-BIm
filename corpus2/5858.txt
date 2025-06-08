@@ -1,1 +1,0 @@
-I want to plot `f1[x]` over `0 < x < L/2` and `f2[x]` over `L/2 < x < L` (i.e. so that `f1[x]` isn't displayed over`L/2 < x < L`, etc.). How do I do this?

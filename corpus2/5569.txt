@@ -1,1 +1,0 @@
-How can I get non-repeating random numbers from Mathematica 8? How can I know which distribution the numbers I get are? Can I choose the distribution I want together with the non-repeating random numbers? How to write the expressions or formulas of permutation and combination? Are these numbers real random numbers, not pseudo-random numbers?

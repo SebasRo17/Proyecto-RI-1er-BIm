@@ -1,0 +1,1 @@
+I've been warned that LGPL v3 forbids any kind of modifications that would prevent reverse-engineering, including software protection such as obfuscation. In practice, does this license make it illegal to use something like SecureSWF, or simply a JavaScript minifier, when linking a program with a LGPL-licensed library?

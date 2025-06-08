@@ -1,1 +1,0 @@
-using listloglogplot would like express x axis tick label power instead default power anybody experience code thus far mylist listloglogplot mylist plotlabel style h field break subscript z symmetry hn fontsize plotstyle pointsize frame true plotrange framelabel style size n fontsize style h fontsize rotatelabel false enter image description

@@ -1,0 +1,1 @@
+Should functions that return tuples, always return tuples? For example, I have a function `is_user_name_allowed` that returns a tuple in this he form if the username is not allowed: `{false, ["Reason 1","Reason 2"]}` If the I want to return true, is there any convention/benefit to returning a tuple as opposed to simply returning `true`? (`{true}` vs `true`)

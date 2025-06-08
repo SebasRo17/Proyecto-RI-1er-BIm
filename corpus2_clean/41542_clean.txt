@@ -1,1 +1,0 @@
-command use mathematica w express psi psi exclusively term trigonometric function

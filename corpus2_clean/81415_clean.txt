@@ -1,0 +1,1 @@
+title sum question elaborate basically want understand android designer want apps need work shared use content provider rather accessing sqlite database directly reason think security certain file accessed certain process way content provider gatekeeper ensures app proper privilege allowing read write access database file primary reason created

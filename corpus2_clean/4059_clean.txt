@@ -1,1 +1,0 @@
-need align ax plot think going rasterizing searching vertical line vary x w better way listplot plotrange frame true b listplot plotrange frame true x w graphic lightyellow rectangle inset x center w automatic inset b center automatic plotrange imagesize enter image description

@@ -1,0 +1,1 @@
+What do you think of the F# language? I would like to learn it's positive and negative points. What is your experience with this language? When should or shouldn't someone use F#? See also: F# at Microsoft Research

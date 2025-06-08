@@ -1,1 +1,0 @@
-I have solved an ODE using `DSolve`, but I have a problem with understanding the solution. In general the solution is in the form:               InverseFunction[[many expressions using # and #1]&][g x+C[1]]      where `g` is constant What does `#1` and `&` mean and what does `InverseFunction` mean in this context?

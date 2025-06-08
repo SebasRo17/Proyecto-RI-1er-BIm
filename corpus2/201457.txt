@@ -1,0 +1,1 @@
+Is a programmer required to learn and memorize all syntax, or is it ok to keep handy some documentation? Would it affect the way that managers look at coders? What are the downside of depending on intellisense and auto-complete technologies and pdf documentation?

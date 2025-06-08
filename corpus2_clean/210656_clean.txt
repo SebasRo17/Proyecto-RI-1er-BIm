@@ -1,0 +1,1 @@
+using apache kafka possible get offset message produced kafka documentation page say message partition assigned unique sequential id number called offset suppose producing message want retrieve offset assigned

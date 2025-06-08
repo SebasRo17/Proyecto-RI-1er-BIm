@@ -1,0 +1,1 @@
+I know what unit testing is in general and what _JUnit_ is in particular. But here I see that there is a project called _JUnitEE_ which seems to me to be a wrapper over JUnit. So I would like to better understand the pain point of using vanilla _JUnit_ and how _JUnitEE_ is able to solve those problems.

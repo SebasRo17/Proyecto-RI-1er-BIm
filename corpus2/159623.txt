@@ -1,0 +1,1 @@
+Design patterns are useful for object oriented languages. But how can a **non-object-oriented** language such as **C** make of use them?

@@ -1,1 +1,0 @@
-first appears left frac x x right leftrightarrow frac x x true know attempt verify mathematica failed ab x x ab x ab x false weird mathematica unable find counterexample findinstance ab x x ab x ab x x complex

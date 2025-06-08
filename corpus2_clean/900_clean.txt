@@ -1,1 +1,0 @@
-suppose following list b b b b b find row max value rd column case b b

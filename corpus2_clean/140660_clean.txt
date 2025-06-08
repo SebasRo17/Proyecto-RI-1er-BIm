@@ -1,0 +1,1 @@
+currently playing lisp particularly scheme clojure wondering typical structure dealt functional programming language example let say would like solve problem using graph pathfinding algorithm would one typically go representing graph functional programming language primarily interested pure functional style applied lisp would forget graph altogether solve problem way

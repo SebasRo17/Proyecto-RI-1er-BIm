@@ -1,0 +1,1 @@
+reason keep using linq sql better move orm technique like ef nhibernate etc using linq sql new large enterprise application exist long time motivation new enterprise application application ordinary written visual basic since microsoft stopped support forced rewrite application seems already time dal access layer already read article compare ef weakness

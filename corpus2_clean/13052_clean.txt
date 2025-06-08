@@ -1,1 +1,0 @@
-importing exporting excel data mathematica purely ui question mathematica notebook interface linear type input cell mathematica produce output cell possible implement something like excel interface mathematica example cell x cell b x cell c b mathematica put x c modify say mathematica put x c

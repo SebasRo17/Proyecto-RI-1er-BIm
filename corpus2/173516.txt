@@ -1,0 +1,1 @@
+When I'm releasing a program, I like to license it under the GPL or LGPL. I also want to stay compliant with that license. I'm not good at reading legal documents, and the GPL3 is about 10 pages long. How do I avoid GPL violations in my code?

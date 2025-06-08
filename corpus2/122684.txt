@@ -1,0 +1,1 @@
+I currently work with Zend Framework, but I also know about CodeIgniter and Kohana. I've just wonder that should I stick to a framework or depend on my purposes? Because I think I cannot master everything.

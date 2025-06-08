@@ -1,0 +1,1 @@
+I've always thought that referring to the syntax of a language was the same as referring to the semantics of a language. But I've been informed that apparently that's not the case. What's the difference?

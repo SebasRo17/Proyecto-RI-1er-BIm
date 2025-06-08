@@ -1,1 +1,0 @@
-would like analyze close image human hair goal detect count number hair strand determine width hard time binarizing image seems like much noise suggestion image enter image description used following code got result detect hair arm colornegate deletesmallcomponents binarize arm enter image description

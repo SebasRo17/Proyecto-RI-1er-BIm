@@ -1,1 +1,0 @@
-trying run domain n plot n domain work instead generates message plot pllim range specification domain form x xmin xmax return plot n domain also tried alternative using trying define domain n n seemed avail

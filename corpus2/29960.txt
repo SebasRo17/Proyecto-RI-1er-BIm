@@ -1,1 +1,0 @@
-Is there a way to open/close all collapsed/open cells? The reason is for a long notebook, it is convenient to see all the section and subsection headings at once.

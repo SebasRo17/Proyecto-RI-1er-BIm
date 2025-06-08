@@ -1,0 +1,1 @@
+On a 2D plane, I have 2 rectangles. I want to find the closest pair of points (one on each rectangle), which are closest to each other. By points I mean the corners of the rectangles. And no, they do not overlap. Is there any way to do that other than checking all the distances between all the combinations of points and finding the smallest one?

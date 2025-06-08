@@ -1,0 +1,1 @@
+We have a huge legacy C project which runs in VC++6. And I hope this will be ported to later versions of visual studio. But I think it will be a huge work. Actually, I just tried to recompile the project with VS2005 and got so many errors. So, do you have any experience of this type of porting? Any recommendations?

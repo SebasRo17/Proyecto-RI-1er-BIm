@@ -1,1 +1,0 @@
-I have data from a Multimeter that has a precision of 0.6%rdg+4dgt. So i want to take the last digit of, say, `12.007` and add 4 to the last digit like `12.011`. I'm doing `RealDigits[12.007,10,5][[1,-1]]`add 4 and then somehow with`FromDigits` get the result...it seems trivial but i don't see how.

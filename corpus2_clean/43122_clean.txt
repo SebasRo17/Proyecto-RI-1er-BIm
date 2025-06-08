@@ -1,1 +1,0 @@
-list list representing time series would go filling missing value list look like end list na na course length list position missing value might vary need general function insert list na

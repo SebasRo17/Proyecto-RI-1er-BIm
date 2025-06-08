@@ -1,0 +1,1 @@
+want pas pointer allocate memory pointer point read post pas double pointer keep getting segmentation fault include iostream include stdlib h using namespace std allocate unsigned unsigned malloc num sizeof unsigned cout failed endl else num num num unsigned allocate cout num num endl num result always segmentation fault core dumped think anything missing could wrong

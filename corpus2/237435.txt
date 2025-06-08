@@ -1,0 +1,1 @@
+I was reading this blog post about Hexagonal architecture and at the bottom it says: > The Loopback pattern is an explicit pattern for creating an internal > replacement for an external device. When I google for "Loopback pattern" I don't find any details about it. Does anyone know what the author is referring to? For curiosity's sake, I'd like to know how to implement this.

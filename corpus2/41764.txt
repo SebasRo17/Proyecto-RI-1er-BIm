@@ -1,1 +1,0 @@
-Consider the following list               MyList= {-0.0000396, -0.0000187167, "0.10259130990561813-0.0677132394802944i"}          Head /@ MyList (* -> {Real, Real, String} *)      In fact, the `String` is a complex number. Is there an easy way of converting `MyList` to `MyNewList` such that               Head /@ MyNewList (* -> {Real, Real, Complex} *)

@@ -1,1 +1,0 @@
-code worked drawing common tangent line two circle want delete inner common tangent line manipulate block v v pt xm ym xn yn v v p pt nsolve v v v v r v v r xm ym xn yn real pt pt graphic circle p r circle p r line pt plotrange frame p locator r r enter image description

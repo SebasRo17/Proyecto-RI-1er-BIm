@@ -1,0 +1,1 @@
+If a project is dual-licensed **GPL** & **BSD** , should there be one `LICENSE` file with the text of both licenses? Or two separate files, one for each license? And I think I should put a copyright/license comment at the top of each source file. How should that comment indicate the dual-licensed status of the project?

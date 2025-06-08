@@ -1,0 +1,1 @@
+loosely coupled class give flexibility understand right event flow observer pattern design pattern like mvc focus loose coupling context aiming towards making project class loosely coupled example us b instead b dothis going like b addeventlistener b question sort loosely coupled relationship throughout project good thing would make robust project advisable use extreme side

@@ -1,0 +1,1 @@
+I am confused concerning the unified process model and agile development. When I'm reading about the UP, I'm only understanding that it is an iterative improvement. Can someone please clarify this?

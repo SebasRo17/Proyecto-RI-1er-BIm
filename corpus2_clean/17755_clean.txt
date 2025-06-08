@@ -1,1 +1,0 @@
-function f x wish evaluate yielding divide zero error sufficiently large input increase precision function evaluated order prevent also plotting function

@@ -1,1 +1,0 @@
-documentation systemdialoginput show restrict type file shown systemdialoginput fileopen nb show mathematica notebook file also work file extension txt html etc work file type tab delimited file extension data try systemdialoginput fileopen data dialog box default file way show non standard file type

@@ -1,0 +1,1 @@
+stuck concept writing toy language interpreted recently decided want move try create really want use something like llvm instead want create stack based virtual machine generate question would go around rather good reference building generates custom virtual machine finally formal term

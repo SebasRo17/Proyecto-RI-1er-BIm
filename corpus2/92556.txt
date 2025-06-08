@@ -1,0 +1,1 @@
+Do variable names affect website performance? I know this will going to be very low number, but still can any one provide the reasons for not choosing a long variable name in aspect of performance?

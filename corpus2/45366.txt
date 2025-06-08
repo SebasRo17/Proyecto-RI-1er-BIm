@@ -1,1 +1,0 @@
-I like using mathematica to do my physics homework, and `AstronomicalData` is useful for that, but it doesn't seem to work properly with units. [the question is, at what height is the gravitational acceleration 4.9 meters per second square ![enter image description here](http://i.stack.imgur.com/4g68A.png) Is there a way to get AstronomicalData to output with units?

@@ -1,1 +1,0 @@
-I need certain user defined functions over and over. I was wondering how can I define and where and how to save them such that each time I start a notebook, these functions are available and need not to be defined again.

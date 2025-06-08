@@ -1,1 +1,0 @@
-enter image description clearall global pdeset derivative u x derivative u x derivative x derivative x e derivative u x ic u x x bcs u co u bcall flatten ic bcs e try solve sol ndsolve pdeset bcall u x pi get error ndsolve bcedge boundary condition u specified single edge boundary computational domain plot derivative x x v pi e

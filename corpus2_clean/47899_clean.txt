@@ -1,1 +1,0 @@
-generated dataset seems fine according help page mathematica listvectorplot say valid set given data set could someone please tell wrong element first list containing three element position next list containing three element vector component fulldata listvectorplot fulldata evaluation visualization core listvectorplot vfldata valid vector field dataset valid list datasets

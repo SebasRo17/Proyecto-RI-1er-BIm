@@ -1,0 +1,1 @@
+title pretty much say little computer science exercise building tree want node able add sibling requires one first get reference parent obviously wondering correct way definition tree thing

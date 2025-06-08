@@ -1,1 +1,0 @@
-I use Wolfram Workbench 2.0. I can get a `KernelLink` object and evaluate some simple expressions like "2+2". But I don't know how to export a package and execute any functions from Java code. Please, show me any example.

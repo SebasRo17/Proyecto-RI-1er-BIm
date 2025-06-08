@@ -1,1 +1,0 @@
-data set x z corresponding hemisphere want add controlled noise random value make x z value diverge data flatten table j j j coordinate set x z value hemisphere add random noise thank

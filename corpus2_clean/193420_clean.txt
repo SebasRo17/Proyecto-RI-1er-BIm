@@ -1,0 +1,1 @@
+say thread want check another thread finished task read call wait make thread wait receives notification thread finished good mean performing expensive polling polling happening internally lower level anyway e make thread wait kernal performing polling anyway check thread finished notify first thread presume missing something someone enlighten

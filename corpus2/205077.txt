@@ -1,0 +1,1 @@
+From what I've seen of Prolog, it seems as if it would be ideal for crafting a rule engine for an app. Yet, I don't believe I've ever seen a rule engine written in Prolog. Is there some inherent limitation in Prolog (e. g. poor garbage collection algorithm) that would prevent it from being used to build a rule engine?

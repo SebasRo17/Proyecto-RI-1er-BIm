@@ -1,1 +1,0 @@
-currently trying hard assign variable inside function therefore using function like reassign predefined variable assign holdform assign problem mathematica us value instead name suggestion

@@ -1,1 +1,0 @@
-I'm wondering if anyone has implemented edge bundled graph plotting? http://www.win.tue.nl/~dholten/papers/forcebundles_eurovis.pdf

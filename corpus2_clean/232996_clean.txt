@@ -1,0 +1,1 @@
+understand genetic algorithm try multiple variation evaluate fitness variation select best variation change bit continue process next generation unlimited computation resource try possible variation evaluate fitness without resorting complex process breeding new generation word genetic algorithm needed computation expensive brute force impossible add benefit well

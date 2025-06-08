@@ -1,0 +1,1 @@
+Could someone help me in implementing association in cpp. I am trying to implement a dice game where I have two classes a diegame and a dice.

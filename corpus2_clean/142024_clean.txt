@@ -1,0 +1,1 @@
+net type stored stack reference type stored managed heap reason one possible exchange storage location

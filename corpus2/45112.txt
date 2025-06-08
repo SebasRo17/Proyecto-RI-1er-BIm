@@ -1,1 +1,0 @@
-I am doing a research on networks which consist of polygons with different number of sides. Is there a way to find rings by               BreadthFirstScan      function. For example, in the following graph {1,2,3,4,5,6}, {3,4,11,12,13},{3,7,8,9,10,11} are rings of this network. ![enter image description here](http://i.stack.imgur.com/eYCQj.jpg) * * * W Community crosspost

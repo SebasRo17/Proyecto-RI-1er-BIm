@@ -1,1 +1,0 @@
-every integer x equation mod x hold simplify mod x element x integer give true reduce mod x x integer give false

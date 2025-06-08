@@ -1,1 +1,0 @@
-analytic expression involves several integral integrate f x x lb ub function f bound lb ub differ would like replace integrate nintegrate leaving argument integrate unchanged specify specific method numerical integration method gausskronrodrule manage accomplish integrate f x x lb ub integrate nintegrate clue

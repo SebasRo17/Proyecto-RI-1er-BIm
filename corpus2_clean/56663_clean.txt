@@ -1,1 +1,0 @@
-command trick tell mathematica automaticly evaluate cell use nminimize function calculates coordinate use data manipulate run nminimize mathematica automaticly run manipulate

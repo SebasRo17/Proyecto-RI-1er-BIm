@@ -1,1 +1,0 @@
-I want to write and evaluate an expression something like $$H_1=\sum_{i+j=0}^3 e_{ij}x^iy^j$$ or $$H=\frac{\sum_{i+j=0}^3 e_{ij}x^iy^j}{\sum_{i+j=0}^3 a_{ij}x^iy^j}$$ with correct syntax.

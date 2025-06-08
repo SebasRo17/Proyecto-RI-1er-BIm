@@ -1,0 +1,1 @@
+I always thought the largest scale of banks use Oracle. However, there is no proof they really use Oracle instead of Mysql or PostgreSQL, nobody knows the secret. Any idea what they really use? Can i build an ATM/Bank system where millions of transaction will happen using Mysql? Can I use PostgreSQL? Or must I use Oracle only?

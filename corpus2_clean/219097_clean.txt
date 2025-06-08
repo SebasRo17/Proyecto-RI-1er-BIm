@@ -1,0 +1,1 @@
+new oop trying understand basic fundamental currently using php5 build basic web app using php built pdo database separately created user handle among thing user log best db connect database log situation user need directly connect db latter think likely misunderstanding pdo would standalone former presumably kind helper need created would facilitate db connection pdo user

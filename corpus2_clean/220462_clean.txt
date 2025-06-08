@@ -1,0 +1,1 @@
+built useful piece e g scrape website calculate something big point might want add gui project could use tk qt pygame graphic gui framework also want tool usable client without need installation course could use something like py2exe cooler use based web framework something like django pyramid would drawback use framework execute server result get tricky multiple user

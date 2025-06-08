@@ -1,0 +1,1 @@
+must good reason designer allow state defined interface please throw light aspect design decision

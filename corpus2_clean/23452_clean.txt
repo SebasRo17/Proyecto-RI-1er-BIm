@@ -1,1 +1,0 @@
-differential equation ddot x frac dot x frac x e dsolve look like dsolve x x x exp x give correct answer know characteristic polynomial z z also find root root root result correct question make easy need type manually characteristic polynomial root tried function stringreplace rewrite differential equation characteristic polynomial messy functioning properly

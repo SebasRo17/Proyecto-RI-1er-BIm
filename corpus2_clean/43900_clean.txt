@@ -1,1 +1,0 @@
-know create new kernel notebook evaluation menu command really like notebook startup kernel first line code

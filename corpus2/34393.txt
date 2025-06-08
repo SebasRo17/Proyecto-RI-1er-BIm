@@ -1,1 +1,0 @@
-I want to do date minings. And do you know some packages that have been made available online? I am using Mathematica 8 and 9. Thanks.

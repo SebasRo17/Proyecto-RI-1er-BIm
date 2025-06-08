@@ -1,1 +1,0 @@
-list integer real item mathematica seems use time much memory c equivalent array structs look like stored packed array due integer real mix besides splitting time series two list one timestamps value one packed individually strategy also mathematica new function temporaldata efficient simple list

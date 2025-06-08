@@ -1,0 +1,1 @@
+In my opinion, the unit test cases itself serve as a documentation for the code. My company wants me to write detailed java doc comments on top of unit test cases. Is it necessary to do so? Do you write comments like that ?

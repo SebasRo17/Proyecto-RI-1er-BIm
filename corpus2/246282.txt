@@ -1,0 +1,1 @@
+Should a view call a helper function? Say I pass in data from the DB to the view. The data is a unix timestamp. Should I make a call in my view to convert it to a human readable TS or should I convert it in the controller before passing it in? OR should I make a method in the model that converts... Looking for a "best practice" or "secure coding" concerned answer.

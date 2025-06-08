@@ -1,1 +1,0 @@
-i have some initial state $psi[x,t]$. I perform some operation on it and store the value in another state $pi1[x,t]$. Now on the next step i have to use $psi1[x,t]$ as initial state and perform the functions again and store in $psi2[x,t]$, Please anybody help me how to use loops for this.

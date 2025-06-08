@@ -1,0 +1,1 @@
+Many times i have heard people saying that a particular hardware to be running a thin client web browser. But from the definition of "thin-client", doesnt all browser qualify as a thin-client? as all they do is rendering the information sent from a remote server minimizing the work at the browser end?

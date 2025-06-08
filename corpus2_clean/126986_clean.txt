@@ -1,0 +1,1 @@
+using c multithreaded development num year consider quite proficient wrote lock free queue task parallel framework microsoft made however find incredibly difficult find information practical multithreaded system design pattern anywhere good resource low level algorithm collection much system design question anyone know information found

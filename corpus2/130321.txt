@@ -1,0 +1,1 @@
+I found a database structure for a CMS system and I want to copy it with the EF that this database is done in, is it OK to copy the database structure of open source software which is under GNU v2 lisence? I don't want the rest of the software only the database structure.

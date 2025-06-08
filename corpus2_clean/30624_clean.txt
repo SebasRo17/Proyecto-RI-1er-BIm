@@ -1,1 +1,0 @@
-following two equation ieq x x x ieq x x use nsolve function nsolve ieq ieq want solve one function x unfortunately get stuck running suggestion overcome problem

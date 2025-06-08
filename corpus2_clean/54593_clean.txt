@@ -1,1 +1,0 @@
-mathematica freeze formatting notebook content happens already startup mathematica take long time mathematica recover also happen editing notebook browsing documentation especially documentation slow somehow related mathematica frontend anybody else struggling problem like edit using bit window

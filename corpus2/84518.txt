@@ -1,0 +1,1 @@
+You know that C# is a compiled language. But when we develop web applications we use ASP.NET + C#, in this case can we say that ASP.NET is compiled? If ASP.NET is not compiled does it affect the performance of C# when ASP.NET and C# works beside each other to develop web applications?

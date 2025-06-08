@@ -1,0 +1,1 @@
+I've just looked for a formal definition and haven't found one. The term - "bug in the requirements" was always confusing for me, what does mean exactly?

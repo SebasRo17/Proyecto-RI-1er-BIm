@@ -1,1 +1,0 @@
-How is `+` associated with `Plus`? Suppose I want to define a head `FooBar` and have it associated with a unicode character of my choice, ideally used as an infix form, i.e.               FooBar[x, y]      is equivalent               x ↗ y      as seen by the kernel. How this kind of thing can be done?

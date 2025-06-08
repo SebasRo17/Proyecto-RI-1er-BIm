@@ -1,0 +1,1 @@
+fixing using place utf num encoding function since using utf num feature unit test passed want create awareness encoding produce similar result may fully tested want limit utf num v ascii since think issue handle asn num field working base64 commonly confused encoding may result identical test

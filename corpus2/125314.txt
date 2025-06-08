@@ -1,0 +1,1 @@
+SFINAE and `template` metaprogramming can do wonderful things and many libraries also use them considerably. Historically both of these "magic concepts" were intentionally introduced/supported in C++ ? Or they were just later discovered as useful byproducts (side products) of original `template` programming ?

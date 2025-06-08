@@ -1,1 +1,0 @@
-Consider the following expression: $\sqrt{a x} \sqrt{b x}$ What do I use to make it simplify to: $\sqrt{ab} x$ I tried actually everything (Simplify, FullSimplify, Collect and so on...) and such expressions remain unchanged. Thanks in Advance and Regards, Misery

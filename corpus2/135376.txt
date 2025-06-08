@@ -1,0 +1,1 @@
+I have a fair amount of experience with WPF (C#) and XAML. I might soon be asked to create a Silverlight 5 application. I have no experience with any version of SL. What sort of learning curve could I expect in creating a SL 5 app, given that I have some experience with WPF?

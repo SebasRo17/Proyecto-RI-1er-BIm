@@ -1,1 +1,0 @@
-Title says it all. How do I count a number of primes(say smaller than N) that does not contain 5?

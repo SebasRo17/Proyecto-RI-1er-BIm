@@ -1,1 +1,0 @@
-trying workout solve simple nd order ode solve follows solve g sol flatten ndsolve g whenevent tmax stopintegration plot sol tmax also output ndsolve interpolating function turn function e thought would something like seem work g sol thanks david

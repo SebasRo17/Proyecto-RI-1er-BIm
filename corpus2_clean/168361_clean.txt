@@ -1,0 +1,1 @@
+reading alistair cockburn hexagonal architecture interest one claim make finally automated regression test detect violation promise keep business logic presentation layer organization detect correct logic leak understand point saying test headless call ui layer throw exception seem sound test

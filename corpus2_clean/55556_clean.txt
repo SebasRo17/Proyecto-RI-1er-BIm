@@ -1,1 +1,0 @@
-noticed stylesheets instance slideshow stylesheets load toolbar using assignment windowtoolbars toolbarname wondering whether possible prepare load custom one using mechanism searched mathematica directory find toolbars source directory

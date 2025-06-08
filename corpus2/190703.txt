@@ -1,0 +1,1 @@
+In Java: I have a class Students. I would like to read a list of students from a file. Which one is more elegant:   1. Reading and constructing the list in main(), and creating a Student object with the new list passed to the constructor   2. Passing a FileReader to the constructor, who does the reading?   3. Something else?

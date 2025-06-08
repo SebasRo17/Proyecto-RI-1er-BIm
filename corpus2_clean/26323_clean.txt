@@ -1,1 +1,0 @@
-temp layer layer tostring stringform import draincdg gdat table layer get output actually execute import command e go directory import series file indexed filename

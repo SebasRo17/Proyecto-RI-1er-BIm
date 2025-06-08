@@ -1,0 +1,1 @@
+sometimes would nice able say something like git svn hg etc diff foo c git svn hg etc log log foo c see change made specific within source file since last commit complete history change question two fold num something exist num would tool practical would simple parsing revision order compare different version would overhead much efficient

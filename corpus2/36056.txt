@@ -1,0 +1,1 @@
+Is anybody aware of a database that consists of businesses, addresses and GPS location information, preferably searchable by city at a minimum? I have an application in mind that I'd like to develop and would like to know if someone is doing this for free or cheap in possibly a web service or similar open format.

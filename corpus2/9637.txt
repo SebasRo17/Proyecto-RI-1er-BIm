@@ -1,1 +1,0 @@
-I would like to count the negative values of a list. My approach was `Count[data, -_]` which doesn't work. How can I tell _Mathematica_ to count all numbers with a negative sign?

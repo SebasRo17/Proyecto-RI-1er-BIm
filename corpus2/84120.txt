@@ -1,0 +1,1 @@
+I am mentoring a 12-year old in programming. He has started to do some VB (.net) (2008) and is making simple WinForms programs, but does not get some of the basic concepts (loops, functions, datatypes) Coming form a C/C++ background, I don't know where to start I don't think he's is up to c/c++ or java quite yet

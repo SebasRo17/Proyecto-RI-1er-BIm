@@ -1,1 +1,0 @@
-I can think of calling `Print` and then `SelectionMove` to copy the expression and then delete it. Is there any more transparent way?

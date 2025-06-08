@@ -1,0 +1,1 @@
+window form app two class public account public property number public property invoice list invoice end public accountrepository public sub delete account account db access end sub end business logic account deleted still invoice associated validation note could also via table restriction db foreign key

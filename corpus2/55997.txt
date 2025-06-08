@@ -1,1 +1,0 @@
-I'm looking for an elegant way of doing a probability weighted replacement rule, something like this               f[x_] :=  x /.  {1,2,3,4} -> {50%{ 4,3,2,1} ,50%{1,3,2,4}}      Using an If statement and generating a RandomReal will be very clumsy as I want different probabilities depending on the pattern I want replaced. Thanks

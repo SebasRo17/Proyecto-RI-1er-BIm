@@ -1,0 +1,1 @@
+I am a lone developer and maintain a SVN server for source control. So far, I haven't followed anything specific while committing my changes. I was just reviewing my previous commits, and couldn't make any sense of my comments. What do you put in comments while committing your checkins?

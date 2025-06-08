@@ -1,0 +1,1 @@
+I've always been intrigued by pair programming, but in 12 years development I've never worked in a place they have employed this practice, so I have always been sceptical as to how people see it. I wonder whether this is because of money/time (Pointy haired boss spotting two people at one computer working on the same code!!!! how dare they!) or for other reasons?

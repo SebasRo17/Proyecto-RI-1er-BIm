@@ -1,0 +1,1 @@
+My question is quite simple. How to handle a situation where the team is applying agile methodology in software projects and there so many iterations and change in requirements, that the schedule is highly affected? Plus you have your manager who is always wanting things to get done within schedule and it is something you cannot control?

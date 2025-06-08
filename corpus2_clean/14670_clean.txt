@@ -1,1 +1,0 @@
-date return current date local system date return date return date return also tried code datelist line line executing line time get fix want use increment time hour min loop

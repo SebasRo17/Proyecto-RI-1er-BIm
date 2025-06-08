@@ -1,1 +1,0 @@
-code clear x z x z x tostring x get result x z intended however want x z found problem occurred related appearance tostring problem seems basic debugging long still got right answer

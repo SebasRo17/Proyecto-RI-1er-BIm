@@ -1,0 +1,1 @@
+I wrote a migration file with the following code:               class AddScheduleIdToPlayers < ActiveRecord::Migration       def change             add_column :players, :schedule_id, :integer             add_column :schedules, :coach_id, :integer       end     end      Is it bad form to not create two migration files, one for each change, or is this fine?

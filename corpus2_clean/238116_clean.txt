@@ -1,0 +1,1 @@
+currently developing web application thesis asked professor make diagram describe business logic since prior experience pretty confused terminology managed clarify think business rule business logic find describe business logic something particular something general need learn uml fact use mvc affect way describe

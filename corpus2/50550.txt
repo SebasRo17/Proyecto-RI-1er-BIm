@@ -1,1 +1,0 @@
-Is it possible for Mathematica to solve for f(x,y) = 0 such that {x,y} contains `{{0,0.5}, {1,0.5}, {0.6,0.8}, {0.4,0.2}}` ? Do we need to specify f(x,y) first ? Thank you

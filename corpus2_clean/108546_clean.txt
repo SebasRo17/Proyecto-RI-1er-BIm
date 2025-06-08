@@ -1,0 +1,1 @@
+need garbage collection gc stack based language language like forth rpl hp calculator need garbage collection would think since popped stack need missing something

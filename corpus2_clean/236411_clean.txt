@@ -1,0 +1,1 @@
+small start dba project succeed lot likely need distributed several machine want make step easier take consideration make think using uuid instead autoincrement id even know much affect performance using uuid right choice else

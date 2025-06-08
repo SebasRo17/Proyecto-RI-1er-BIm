@@ -1,0 +1,1 @@
+I'm a junior C# developer, I learned at home and now I got my first job :) I want to buy these books. But what is the correct order to read these books? Code Complete: A Practical Handbook of Software Construction Clean Code: A Handbook of Agile Software Craftsmanship Pragmatic Programmer

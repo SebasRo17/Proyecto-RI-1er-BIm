@@ -1,0 +1,1 @@
+Usually event listeners shouldn't outlive object that registered them. Does it mean that event listeners should be held by weak references by default (stored in weak collections by the object listeners are registered on)? Are there valid cases when listener should outlive its creator? Or maybe situation like that is a mistake and it shouldn't be allowed?

@@ -1,0 +1,1 @@
+I have a number of user stories where the same feature needs to be shared by multiple roles. I have started writing these stories like this: > As a Role-A or a Role-B   >  When I perform Action-X   >  Event-Y should occure. Is this the correct way to represent that concept in user stories, or should I break it up into one story for each role?

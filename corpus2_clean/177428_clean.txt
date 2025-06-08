@@ -1,0 +1,1 @@
+really like google golang could one explain rationale implementors left basic structure set standard library

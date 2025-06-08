@@ -1,1 +1,0 @@
-I am having trouble getting Mathematica to retain my original equation form. For example: ![enter image description here](http://i.stack.imgur.com/LHhw9.jpg) As you can see, even though I use HoldForm, it still changes the style of my equation. Very frustrating.

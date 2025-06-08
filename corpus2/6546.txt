@@ -1,1 +1,0 @@
-I would like to export data to a file using a SaveAs type dialog, using something like `FileNameSetter[name,"Save"]` to give a browse button. Any help with this would be greatly appreciated. It is very possible that I have simply misunderstood the documentation. Many thanks, Christina

@@ -1,1 +1,0 @@
-let consider following integral b n int infty prod k dot n frac sin x k x k dx definition sinc x sin x x therefore b n oddq integrate product sinc x k k n x infinity b range pi pi pi pi pi pi pi ok everything fine b pi going

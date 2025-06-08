@@ -1,0 +1,1 @@
+Sanboxing is listed as one of the many security features in html5 specification . Can someone explain what is meant by sandboxing? Does it relate to HTML only or to JavaScript also?

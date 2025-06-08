@@ -1,0 +1,1 @@
+Is there an application that can easily align/format brackets such as [ ] { and } ? e.g. change               {          {          }         }      into               {       {       }     }

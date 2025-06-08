@@ -1,0 +1,1 @@
+I learned REST and it feels a lot like CRUD (from what I have read about CRUD). I know they are different, and I wonder if thinking they are similar means I don't understand them. Is it that REST is a "superset" of CRUD? Does everything CRUD does and more?

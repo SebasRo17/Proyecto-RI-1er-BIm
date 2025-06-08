@@ -1,0 +1,1 @@
+My experience is that Java requires about twice as much RAM compared to C (comparing char arrays or other comparisons). I also read in a hardware book that Java takes about twice RAM than C. Is is based solely on empirical evidence or also has a theoretical explanation? Is there a theoretical limit that limits Java from minimizing its memory usage?

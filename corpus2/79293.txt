@@ -1,0 +1,1 @@
+Up to now we use DAO 3.51 (MS-Access 97) databases with our application. We are considering using a newer version.   * Which versions are available?   * How about deployment?   * How about royalties/licence fees?   * Any recommendations about alternatives? This question should be easily researchable, but I failed.

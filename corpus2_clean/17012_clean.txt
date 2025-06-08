@@ -1,1 +1,0 @@
-tried following code parametricplot sin u co u sin u sin u u pi produced following image flower matlab comet command draw parametric plot real time allowing viewer watch particle trace plot way mathematica

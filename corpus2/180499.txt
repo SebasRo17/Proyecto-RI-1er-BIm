@@ -1,0 +1,1 @@
+I have trouble drawing a clear line between Presentation and Application layer in Domain Driven Design. Where should Controllers, Views, Layouts, Javascript and CSS files go? Is it in the Application or the Presentation layer? And if they go all together in the same layer, what contains the other one? Is it empty?

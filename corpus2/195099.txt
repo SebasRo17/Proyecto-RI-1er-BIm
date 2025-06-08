@@ -1,0 +1,1 @@
+I couldn't understand the reason of it. I always use String class like other developers, but when I modify the value of it, I need to create new instance of String. What might be the reason of immutability for String class in Java? I know there are some alternatives like StringBuffer or StringBuilder. It's just curiosity.

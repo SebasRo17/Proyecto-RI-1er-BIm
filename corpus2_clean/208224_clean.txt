@@ -1,0 +1,1 @@
+writing factory selenium web driver came across choice figure cleaner two method parameter browser browser adding boolean parameter browser bool would think case first option might better likely reason need extend boolean choice hence two method hand see second one better two choice likely many extension second parameter future would choose cleaner

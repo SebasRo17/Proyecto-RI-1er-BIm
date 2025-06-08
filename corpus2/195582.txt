@@ -1,0 +1,1 @@
+I'm trying to include a feature on my website that verifies retail gift card balances on cards previously registered at the retailer's website by the card holder. Can this simply be done by writing an algorithm that pulls and aggregates this data on my site?

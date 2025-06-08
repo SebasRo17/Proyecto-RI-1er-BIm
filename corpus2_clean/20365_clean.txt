@@ -1,1 +1,0 @@
-cannot open sqlconnection sql vectorwise database assume jdbc driver problem jar file provided info additionally provided java class com ingres jdbc ingresdriver would add jdbcdrivers mathematica use hope sufficient information please let know information required thanks regard patrick

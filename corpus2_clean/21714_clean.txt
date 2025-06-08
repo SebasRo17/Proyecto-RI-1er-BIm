@@ -1,1 +1,0 @@
-mandelbrot set defined complex number z z c z initial point c mathbb c number grow fast iteration z n l n c l join l z z z c n l n large number become large impossible calculate practical time limit know would look long time doubting whether would look like wrong implementation take long time calculate

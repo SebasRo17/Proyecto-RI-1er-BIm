@@ -1,0 +1,1 @@
+There must be a good reason why Java designers didn't allow any state to be defined in interfaces . Can you please throw some light on this aspect of design decision ?

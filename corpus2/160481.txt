@@ -1,0 +1,1 @@
+I have the option to install the Android SDK on Windows or OSX. Which platform provides a better (easier) development experience? To keep this constructive, I'm looking for any difference that eliminates compatibility issues, ease of debugging, or compatibility with 3rd party utilities.

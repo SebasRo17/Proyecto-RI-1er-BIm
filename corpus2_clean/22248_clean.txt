@@ -1,1 +1,0 @@
-n n n matrix generated fortran would like find determinant matrix using mathematica could matrix also import fortran output file mathematica write data prescribed format det large n writing data one one tedious job kindly help fortran output matrix row row row row row

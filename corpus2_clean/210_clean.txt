@@ -1,1 +1,0 @@
-take following code p graphic circle epilog dynamic locator dynamic p ax true gridlines mathematica graphic whenever move locator close original coordinate marked grid plot quickly snap back mean unable position locator around either snap please see image feature bug feature turn bug work around note using epilog graphic actual problem slow compute render large listdensityplot

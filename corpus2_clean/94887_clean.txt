@@ -1,0 +1,1 @@
+used create lot abstract class method started using interface sure interface making abstract class obsolete need fully abstract create interface instead need abstract implementation create interface create inherit implement interface additional benefit class may need parent implement interface abstract class method obsolete

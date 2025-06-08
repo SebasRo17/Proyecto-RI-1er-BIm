@@ -1,1 +1,0 @@
-I have a list of mesures that each vector is like `{0,1,-2,259}` but it should be like `{0.1,-2.259}` So I did a rule, like `list/. {a_,b_,c_,d_}->{a.b,c.d}` but for the positives number it works fine! but for vector like this one I get `{0.1,(-2).239}` how can I fix this?

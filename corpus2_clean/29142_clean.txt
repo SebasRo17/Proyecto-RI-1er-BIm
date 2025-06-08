@@ -1,1 +1,0 @@
-consider simple rendering geometric primitive graphic cylinder cuboid polygon sphere boxed false get depth pixel rendering e distance corresponding point camera edit required depth image would something like opengl z buffer vertex alone enough need depth every pixel rendered image

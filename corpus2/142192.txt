@@ -1,0 +1,1 @@
+The bridge design pattern separates implementation from the interface of a program. Why is this advantageous?

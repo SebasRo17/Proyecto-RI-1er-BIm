@@ -1,0 +1,1 @@
+If I create a controller that has a method `ActionResult UploadFile(HttpPostedFileBase file)` Where is the best place to add the code that will verify that this is a good and useable file? The reason I ask, is I will have to do more checking than just the file extension. For instance; check number of columns in spread sheet, check column names, etc..

@@ -1,0 +1,1 @@
+I've found some videos that explain C# but it back to C#.NET when it is first appeared, if I learn from these videos will I learn something that has been removed from the language? will I miss alot?

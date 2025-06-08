@@ -1,1 +1,0 @@
-Is there any way to print out to pdf file, in sequence, all cells independently? I have literally hundreds of cells that need to be printed in that way. Selecting each cell and "Print Selections" takes me ages before I finish.

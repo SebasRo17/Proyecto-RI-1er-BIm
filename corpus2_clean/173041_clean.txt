@@ -1,0 +1,1 @@
+given image basic php web server architecture php web server architecture would someone please explain several component available interact concerned php core operates relates component feel free elaborate point specifically diagram taken

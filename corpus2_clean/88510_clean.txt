@@ -1,0 +1,1 @@
+interface base would like able mock unit testing writing test implementation allow individual test able override specific method concerned rather implementing every quandary test implementation behave test fails override used test non num test implementation throw unsupportedoperationexception explicitly fail test

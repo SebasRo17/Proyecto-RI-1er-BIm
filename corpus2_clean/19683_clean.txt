@@ -1,1 +1,0 @@
-implicit function expression f x e c b c b sqrt x b sqrt x c sqrt x plot expression f x contourplot get something like need obtain plot like try plot f x result look like enter image description one solution branch left need separate solution

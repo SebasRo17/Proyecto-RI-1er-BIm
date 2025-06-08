@@ -1,1 +1,0 @@
-got expression like expr x b would like distribute expand keeping factor x intact e result example look like x x b know explicit example given expand expr b would yield desired result however would need solution b arbitrary algebraic expression distributed x left untouched maybe way define pattern match x term hold distributing

@@ -1,1 +1,0 @@
-Is there any easy way of directly jumping to the definition of a Variable like it is implemented in some good IDEs? Currently I have to search manually (ctrl+f) through the whole workbook to find it somewhere.

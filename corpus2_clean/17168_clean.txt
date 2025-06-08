@@ -1,1 +1,0 @@
-matlab fft function fft x n used return n point dft effectively extends original signal x n point n larger dimension x fourier function mathematica transform always dimension x obtain behaviour mathematica implemented matlab

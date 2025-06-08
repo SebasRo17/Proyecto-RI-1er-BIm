@@ -1,0 +1,1 @@
+My question is related with `System.in` and `System.out` classes (there might be others like those in the Standard library). Why is that? Isn't that a bad practice in OOP? Shouldn't it be used like: `System.getIn()` and `System.getOut()`? I've always had this question and I hope I can find a good answer here.

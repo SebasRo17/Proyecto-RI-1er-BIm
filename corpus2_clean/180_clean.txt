@@ -1,1 +1,0 @@
-say list x want find position element greater select x give element position x give position element satisfying one possible criterion looking would mix two returning suggestion

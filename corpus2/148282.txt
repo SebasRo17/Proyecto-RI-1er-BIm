@@ -1,0 +1,1 @@
+I noticed to my glee that C++11 has a std stoX family of functions for easily unpacking ints/floats/longs whatever from strings. I'm surprised however, that the opposite isn't implemented. Why didn't the standards committee include a std::itos family of functions for going from ints/floats/whatever to strings?

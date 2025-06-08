@@ -1,0 +1,1 @@
+Many tend to write "C/C++", as if they were the same thing. Although they share many similarities, they are clearly not the same. But what are really the fundamental differences between C and C++? Is C++ an enhanced version of C, or are there features in C which do not exist in C++?

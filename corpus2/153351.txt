@@ -1,0 +1,1 @@
+I am designing a simple logic analyzer, I know that the best way to decode a protocol like I2C, SPI, UART is whit something like an FPGA but I want to do it by software by now :) I am running on an OMAP4460 ARM proccesor. I would like to know if there is an special way of decoding protocols like I2C, SPI, UART or it is simply if() and flags as the normal way.

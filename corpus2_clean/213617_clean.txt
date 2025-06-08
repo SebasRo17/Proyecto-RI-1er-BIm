@@ -1,0 +1,1 @@
+currently developing website c know nginx handle connection multiple thread provide high performance c thread safe relationship nginx multithreading c application multithreading worry avoid possible issue

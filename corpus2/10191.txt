@@ -1,1 +1,0 @@
-I'm new in Mathematica and I am trying to write numbers from 1 to 10 in txt file. But "Null" is everything that is written in my file. The code is:               Export["C:\\Users\\Sealy\\Desktop\\list.txt",            For[k = 1, k <= 10, k++, Print[List[k]]]]

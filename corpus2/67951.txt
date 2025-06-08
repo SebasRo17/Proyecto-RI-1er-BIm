@@ -1,0 +1,1 @@
+Say in a UML Sequence diagram, I am showing a call to the database using ADO.NET. Do I need to include the SqlConnection, SqlCommand, SqlDataReader object in the diagram? Is it just preference determined by the level of depth/detail?

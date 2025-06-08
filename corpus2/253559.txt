@@ -1,0 +1,1 @@
+they are free to move anywhere on the screen weather in straight lines or curved ones just as long as they don't be at the same place at any given time. btw I'm not asking how to write it in code, but rather the logic if you will? 1- how would you make an object move randomly? (disregarding predefined functions or classes..etc) 2-how do you ensure they never hit?

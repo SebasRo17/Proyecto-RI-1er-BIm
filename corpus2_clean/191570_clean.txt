@@ -1,0 +1,1 @@
+know unit testing general junit particular see project called seems wrapper junit would like better understand pain point using vanilla junit able solve problem

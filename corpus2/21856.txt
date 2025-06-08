@@ -1,1 +1,0 @@
-I tried the following:               f[x_] := x^n/(k + x^(2 n));     Solve[f'[x] == 0, x]      But I got the following response: > Solve::nsmet: This system cannot be solved with the methods available to > Solve. >> Any suggestions?

@@ -1,1 +1,0 @@
-approximate solution function u x using semi discretization method time step example u x ti x ti want plot figure function know plot

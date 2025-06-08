@@ -1,1 +1,0 @@
-Let $x_1$ and $x_2$ be two real numbers and define the column vector $\mathbf{x}=[x_1,x_2]$. Let $\mathbf{A}_1$ and $\mathbf{A}_2$ be two $2\times 2$ real symmetric matrices. Then I need to plot the surfaces \begin{align} \mathbf{x}^T\mathbf{A}_1\mathbf{x}+1 &\leq 0 \\\ \mathbf{x}^T\mathbf{A}_2\mathbf{x}+1 &\leq 0 \end{align} How do I do this in _Mathematica_?

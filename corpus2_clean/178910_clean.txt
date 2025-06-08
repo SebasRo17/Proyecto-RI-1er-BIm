@@ -1,0 +1,1 @@
+one server application look like static num dosomething request start num request end called many time request problem async called many time need request start set num increment end request need total problem another request time access

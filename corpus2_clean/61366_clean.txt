@@ -1,0 +1,1 @@
+currently writing unit test case project implementation database method exist working fine case need write mock object specific reason test dao directly

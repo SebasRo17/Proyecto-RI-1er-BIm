@@ -1,0 +1,1 @@
+assume using apis vendor make sure api working expected concern sometimes vendor pushed change break api want sort automatic software test continually deal

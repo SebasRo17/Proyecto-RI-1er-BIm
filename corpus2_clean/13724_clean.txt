@@ -1,1 +1,0 @@
-new mathematica need know plug value existing function example math world supply following code building truth table n level operator op truthtable op n module l flatten outer list sequence table true false n n array n displayform gridbox prepend append op l append op rowlines true columnlines true set operator value n

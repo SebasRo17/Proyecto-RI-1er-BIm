@@ -1,0 +1,1 @@
+working huge web application designed long back configure make work cluster configured tomcat cluster purpose know need make object added session serializable want know stored session log additionally know log maybe session state replicated among tomcat worker

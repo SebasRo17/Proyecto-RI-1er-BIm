@@ -1,0 +1,1 @@
+Is it viable to store information a la event sourcing when dealing with large enterprise applications ? I know lokad has been using it for a long time, but they are not in the ERP business I have been looking for this solution, since is seems very interesting.

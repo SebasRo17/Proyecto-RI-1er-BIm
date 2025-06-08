@@ -1,1 +1,0 @@
-using matrix algebra calculate loading score covariance matrix data matrix column centered covariancematrix covariance data loading eigenvectors n covariancematrix score data transpose loading obtain exactly score using principalcomponents score principalcomponents data problem sign score value absolute value score score differ sign apply varimax oblimin method mathematica

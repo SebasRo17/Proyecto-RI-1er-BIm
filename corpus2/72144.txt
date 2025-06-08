@@ -1,0 +1,1 @@
+Scene7 is Adobe's image server. It seems like many people are using it. We are considering using it. I want to know the developers experience. Was a pain to develop with or did it make things easier? What experiences have you had?

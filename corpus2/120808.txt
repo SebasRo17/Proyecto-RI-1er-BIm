@@ -1,0 +1,1 @@
+I was just wondering if there were some "standard" examples that everyone uses as a basis for explaining the nature of parallel problems. What are some well- known problems out there that can see great benefits from scalability (and multi-threaded programming)? * **EDIT: also, a little background or explanation as to _why_ it's parallelizable in nature would be of help! Thanks**

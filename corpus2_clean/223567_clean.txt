@@ -1,0 +1,1 @@
+coding program development machine maven package jar command using cp jar us library jar use maven project hosted github want project target machine best way go could package jar grab jar move target machine manually suppose could also check maven project github target machine maven generate jar get jar file simply overlooking something

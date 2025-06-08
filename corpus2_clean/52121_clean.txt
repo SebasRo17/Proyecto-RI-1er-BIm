@@ -1,1 +1,0 @@
-given x x x cosh x x co cosh x x x x cosh x x co cosh x x x x sinh x x co cosh x x x x sinh x x co cosh x x want density plot using densityplot x x x mathematica graphic white region plotted density color plot density color also white region

@@ -1,1 +1,0 @@
-would like know make real valued plot tick pad zero right decimal point integer value plot x plotrange ax true false tick range n plotstyle red thickness tick displayed want see displayed

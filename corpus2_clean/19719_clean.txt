@@ -1,1 +1,0 @@
-program many function relying spatial coordinate x z also function time e composite function need differentiate function example f f x z coordinate appear frequently write x instead x program becomes lengthy lack readability declare coordinate function time start tell mathematica differentiation relative use x z afterwards abbreviation

@@ -1,0 +1,1 @@
+I decided to learn Salesforce (without any knowledge of this platform) and so far it just seems that I can simply store JSON objects into the cloud... similar to OData + Microsoft SQL or Azure Table storage.   * Link to Salesforce REST API Is my understanding over-simplified, or what additional value does Salesforce provide to the developer?

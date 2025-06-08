@@ -1,0 +1,1 @@
+reviewing jee web application planned refactoring one suggestion replace log4j logback slf4j team clear whether currently want follow broke fix area edit asking comparison logging framework whether valuable refactoring element change framework quite happy log4j

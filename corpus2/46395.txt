@@ -1,1 +1,0 @@
-Are there any direct function to switch elements i,j in any list? or is necessary to create one with Do / If ? (I don´t ask for making me this function if it doesn´t exists) My target is can switching positions i,j in {1,4,3,2,5} for example I tell switch(2,5) an obtain {1,5,3,2,4}

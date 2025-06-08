@@ -1,1 +1,0 @@
-Mathematica tells the series below doesn't converge. I think it converges. What would the proper way to write things be as an input?               Sum[((-1)^(n) Log[1 + 2 n])/(1 + 2 n), {n, 0, Infinity}]

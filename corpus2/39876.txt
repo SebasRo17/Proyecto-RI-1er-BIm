@@ -1,1 +1,0 @@
-Is there some way I can change _Mathematica_ keyboard behavior so I could select a block of text/code, press `tab`, and the selection would be indented to right? Similarly, I would like `shift`+`tab` to produce indenting to the left. If it were possible to get this behavior just for multi-line string text, or just in code cells, that would be great, too.

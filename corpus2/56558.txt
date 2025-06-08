@@ -1,1 +1,0 @@
-I have a formula which is producing a large (hundreds of elements) list of complex numbers of the simple form $x+iy$. However I'm only interested in the one value which satisfies the conditions:   1. The imaginary part is the _least negative_ value in the list   2. The real part is positive.  What can write that will pick out this value and display it for me?

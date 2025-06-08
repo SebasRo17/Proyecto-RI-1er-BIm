@@ -1,0 +1,1 @@
+I want to sell a simple calculator that will help a certain industry. This calculator would be installed on the computer (as opposed to a web service). How is a registration key mechanism implemented?

@@ -1,1 +1,0 @@
-According to the documentation, _Mathematica_ chooses the branch cut for $\log(z)$ to lie along the negative real axis. It it possible to change this so that it lies along the positive axis or elsewhere in the complex plane?

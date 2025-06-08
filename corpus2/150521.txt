@@ -1,0 +1,1 @@
+Is there a way I can make the license I use for an open-source software package be valid for all contents of the package without having to write it into every single file? I often saw a `LICENSE` file, but does this file (with the license in it) makes all contents of the package (i.e. the current directory and all sub- directories) use this license?

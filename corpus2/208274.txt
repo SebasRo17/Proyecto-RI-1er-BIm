@@ -1,0 +1,1 @@
+Is it better to do this               #define INT_TRUE 1     #define INT_FALSE 0          int someFunctionalityIsEnabled = INT_TRUE;      or this?               int someFunctionalityIsEnabled = 1;      It can be safely assumed that false will always be zero and true will be non- zero.

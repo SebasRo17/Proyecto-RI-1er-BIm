@@ -1,0 +1,1 @@
+I've recently started using Vim and am working to replace Notepad++ as my go- to. However, I'm running into an issue where I keep hitting u instead of i because my right hand is on HJKL instead of the usual JKL;. So, Vim users: Is there a preferred right hand positioning for the editor, or should I just get used to moving my hand back and forth for normal and insert modes?

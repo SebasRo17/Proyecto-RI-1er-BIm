@@ -1,0 +1,1 @@
+On python I can group arguments into a tuple, something like               def func((a, b, c, d), x):         print a, b, c, d, x      I was wondering if it is possible to group arguments in the same way on C++, something like:               void func((int a, int b, int c, int d), float x)     {         cout << a << b << c << d << x << endl;     };

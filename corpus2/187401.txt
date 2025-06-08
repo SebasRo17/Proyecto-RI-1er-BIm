@@ -1,0 +1,1 @@
+What is controller layer and where we put this in our 3-tier architecture?               1)UI     2)Business Logic Layer     3)Data Access Layer      I search in net but unable to get exact ans.Any links or sample example helps to understand better.Thanks.

@@ -1,0 +1,1 @@
+reason function programming language designed support number parameter one language possible work around limitation e g using parameter returning pointer defining returning structs class seems strange programming language designed support multiple value natural way explanation

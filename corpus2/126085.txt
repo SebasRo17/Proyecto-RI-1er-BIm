@@ -1,0 +1,1 @@
+Can anyone suggest a java library to perform forward and backward Fourier transform on images? Either RGB or gray-scale or binary , that doesn't matter since I've converted the image to all these ;) I do searched but most of the image processing libraries like marvin, JAI etc don't have Fourier transform. So I thought anyone who have done this earlier could suggest me one

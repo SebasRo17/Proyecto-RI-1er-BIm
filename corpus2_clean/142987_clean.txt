@@ -1,0 +1,1 @@
+looking implement command pattern web application asp net c since command come text format client best way translate command use reflection currently assume command come match file user control bit hack rather select case statement say dashboard call dashboard execute pattern working command originate string

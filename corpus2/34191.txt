@@ -1,1 +1,0 @@
-I have this function which as a result returns a point               f[x, y] =        Max[((x - #[[1]])^2 + (y - #[[2]])^2) & /@ Subscript[Rp, A0]];     min = Minimize[{f[x, y], {20 <= x <= 80, 20 <= y <= 80}}, {x, y}]        > >     {576.25, {x -> 34.5, y -> 52.}} >   How can I use this point $(x,y)$ as an input ?

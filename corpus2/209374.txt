@@ -1,0 +1,1 @@
+When we did web development in 1996 it was CGI, FCGI and Perl on the backend. Now why is Perl not that popular anymore and instead we use Java, Python, Go, PHP, C# and everything but Perl? To me it seems that Perl should be good since it has had long time to mature. What happened that causes Perl to lose its applicability as server language?

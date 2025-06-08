@@ -1,1 +1,0 @@
-could anyone help plotting following graph integrate inf inf exp x pi x exp x code obviously need code simple enough mathematica time try pot way around could anyone try plot info plot integration x

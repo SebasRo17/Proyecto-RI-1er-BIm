@@ -1,1 +1,0 @@
-possible increase perforamce densityplot example let try plot flower f x x exp x sin sqrt x arctan x densityplot f x x plotpoints maxrecursion colorfunction hue plotrange colorfunctionscaling false imagesize enter image description toy example take second laptop eats gb ram plotting mb result slow notebook question increase speed decrease maxmemoryused decrease size output

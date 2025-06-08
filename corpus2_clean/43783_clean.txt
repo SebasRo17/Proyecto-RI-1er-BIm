@@ -1,1 +1,0 @@
-let start simplest case say function f x x let say want define new function x n th power f x n write code tried f n x f n x f n x f x x result much different wanted

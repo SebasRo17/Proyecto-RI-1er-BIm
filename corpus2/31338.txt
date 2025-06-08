@@ -1,1 +1,0 @@
-I'm using CircleTimes ($\otimes$) operator defined as               a_\[CircleTimes]b_ := KroneckerProduct[a, b]      so I can use `a ESC c* ESC b` to write $a\otimes b$ instead of `KroneckerProduct[a, b]`. What should I do in order to find out the definition of the $\otimes$ symbol using `Information` function or assign a usage to this symbol?

@@ -1,1 +1,0 @@
-try start mathematica script background command line like math script somefile process get automatically suspended terminal transcript clarification happens linux o x program typically stop run background happen prevent

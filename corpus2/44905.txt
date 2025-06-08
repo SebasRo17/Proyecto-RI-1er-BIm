@@ -1,1 +1,0 @@
-When you have long notebook with hundreds of cells, you sometimes need to scroll/jump manually to your last edited cell. I dind't find any shortcut for doing that. Any ideas?

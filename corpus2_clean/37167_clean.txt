@@ -1,1 +1,0 @@
-want display data logarithmic way diagram found barchart seems nearly need tried barchart data chartlayout grid barchart log data chartlayout grid got figure non logarithmic data logarithmic data wrong scale need way fix horizontal scale would glad get hint thanks lot andreas edit found simple answer scalingfunctions log sorry waste bit

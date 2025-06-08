@@ -1,1 +1,0 @@
-large array real positive negative number want plot histogram use histogram data log plotrange give log scale x axis would get log scale axis histogram heard mathematica added feature using mathematica right moreover say want log scale axis possible thanks

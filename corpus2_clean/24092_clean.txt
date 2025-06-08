@@ -1,1 +1,0 @@
-similar closed topic frame tick log log plot closed let reuse rm rf example frameticks given show appear used loglogplot show loglogplot x x x frame true frameticks none none work though show loglogplot x x x frame true frameticks none n log none bug expected behaviour

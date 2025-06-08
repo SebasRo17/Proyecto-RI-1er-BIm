@@ -1,1 +1,0 @@
-Is it possible to import adjacency matrix for graph representation, from simple text file with NxN (rows x columns) of 0s/1s:               0 1 0 0     1 0 1 1     0 1 0 0     0 1 0 0

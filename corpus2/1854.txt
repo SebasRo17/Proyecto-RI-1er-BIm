@@ -1,1 +1,0 @@
-Table[{Re[5 Exp[I 5/2 t]], Im[5 Exp[I 5/2 t]]}, {t, 0, 6}]     ListPlot[%]      This code plots 6 points in the complex plane. To each point I would like to add a label in the plot that lists the value of `t`. How can I do that? Please note: I want to print this plot, so the labels should all be visible.

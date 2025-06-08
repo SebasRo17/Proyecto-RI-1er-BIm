@@ -1,1 +1,0 @@
-When I write:               Overscript[PQ, \[RightVector]],       the arrow is placed too close to the `P` and `Q`. Is there a way to modify the default distance used by `Overscript`?

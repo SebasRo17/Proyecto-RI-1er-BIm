@@ -1,1 +1,0 @@
-graphic sphere render uniform sphere render ellipsoid would need specify rotation ellipsoid length main ax method reasonable fast display around

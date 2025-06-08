@@ -1,0 +1,1 @@
+I would like to check out some real-world web applications that work offline using HTML5 (application cache and local storage, I believe). I am not able to find any. I can find a lot of experimentations, but not an application with actual users. Why is that?

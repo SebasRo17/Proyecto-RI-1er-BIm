@@ -1,1 +1,0 @@
-could give input create list version sphericalplot r theta phi theta min max phi min max r explicit analytical function issue one numerically generates list r theta phi rn thetan phin want visualize similar manner idea

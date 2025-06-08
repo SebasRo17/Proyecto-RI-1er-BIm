@@ -1,0 +1,1 @@
+come open software like openoffice org support proprietary format like microsoft doc mp3 afaik doc format open implementing feature oo org required serious amount reverse engineering microsoft proprietary player making issue light come gstreamer plugins able play proprietary format

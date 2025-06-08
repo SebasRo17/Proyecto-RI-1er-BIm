@@ -1,1 +1,0 @@
-data tsv format attempting import mathematica real value import fine complex value keep getting interpreted string attempted figure format mathematica looking exporting complex value tsv interestingly enough mathematica fails import complex tsv value exported way import complex value tsv mathematica

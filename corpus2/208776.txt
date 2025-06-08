@@ -1,0 +1,1 @@
+I have re-written an open source project from java to haxe, then from haxe compiled to javascript, with totally different UI So, the question is, is the code considered to be mine after rewriting it to another language in a closed source project? can I use it freely with no worries about original copyrights?

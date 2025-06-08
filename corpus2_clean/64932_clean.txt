@@ -1,0 +1,1 @@
+reader familiar bob martin famous dependency inversion principle state num high level module depend low level module depend abstraction num abstraction depend upon detail detail depend upon abstraction believe understand pretty well except first sentence second abstraction depend upon detail mean exactly would simple example abstraction dependent upon detail

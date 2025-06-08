@@ -1,0 +1,1 @@
+I've recently switched jobs. At my previous job, everyone wrote tests and we were all in a happy place. In my new role, I've been asked to setup CI and testing. I'm experiencing some resistance to testing from some developers and wondered if anyone had experienced this and had strategies for dealing with resistance?

@@ -1,0 +1,1 @@
+Using `.rvmrc` seems to be considered a best practice for apps. But should an open source gem contain `.rvmrc` in their source code on Github? I think it's not good to require everyone who wants to contribute to use the exact same version of Ruby or gemset as you.

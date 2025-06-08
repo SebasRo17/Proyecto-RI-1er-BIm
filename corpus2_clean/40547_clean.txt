@@ -1,1 +1,0 @@
-equation f x ax diag x ax b x mathbb r n mathbb r n time n b mathbb r n need find zero x obvious solution would like see solution well explicit way get solution term b without specifying matrix completely

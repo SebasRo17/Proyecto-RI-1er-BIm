@@ -1,0 +1,1 @@
+currently using visual studio express num desktop free version received source nunit test included bring visual studio seeing test explorer seem able install official nunit plugin someone confirm express version support nunit tell

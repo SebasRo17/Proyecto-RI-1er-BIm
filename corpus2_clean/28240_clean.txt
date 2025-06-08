@@ -1,1 +1,0 @@
-trying take average large two dimensional array certain interval example first row want take k average value trying data k mean data j j j k

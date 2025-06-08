@@ -1,1 +1,0 @@
-efficient way create list psudo randomly chosen permutation trying create list like x randomchoice permutation range x x however eats lot memory work x sub list necessarily unique case

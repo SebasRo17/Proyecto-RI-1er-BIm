@@ -1,1 +1,0 @@
-I have a problem with my _Mathematica_ 7.0 When I write:               Derivative[x^2, x]      Mathematica returns as result :               Derivative[x^2, x]      not `2x` Why is that? Am I doing something wrong with `Derivative`?

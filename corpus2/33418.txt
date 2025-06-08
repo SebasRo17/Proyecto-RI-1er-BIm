@@ -1,1 +1,0 @@
-Let $(E_l) : x^4-4x^3+x^2(5-l^2)+4 x l^2-4l^2 = 0$ be an equation with $l$ as a parameter and $x$ as an unknown and $S_l$ the set containing all the real solutions of $(E_l)$. Then there is a unique value of $l$ verifying $card(S_l) = 1$. Is there a way in Mathematica to find an approximate value for this $l$ ?

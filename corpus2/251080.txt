@@ -1,0 +1,1 @@
+The Goal is to make an iOS app using phonegap and java. When writing phonegap plugins that interact with native code (objective-c) would it be possible instead to make it interact with java when using robovm?

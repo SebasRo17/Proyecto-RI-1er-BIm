@@ -1,0 +1,1 @@
+blackberry override keychar capture keypress event register know observer pattern android also keyevent callback event need register keychar event difference pattern

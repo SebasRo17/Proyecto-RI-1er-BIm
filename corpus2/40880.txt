@@ -1,1 +1,0 @@
-I want to verify the following result: $\sum _{y=2}^{n+1} \left(\sum _{x=y-1}^n \frac{1}{x-y}\right)=n \left(H_n^{(1)}-1\right)$ In Mathematica i try with:               Sum[Sum[1/(x - y), {x, y - 1, n}], {y, 2, n + 1}] == n*(HarmonicNumber[n, 1] - 1)      But I don't understand Mathematica output, is a large formula. And WolframAlpha doesn't say anything for it.

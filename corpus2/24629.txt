@@ -1,0 +1,1 @@
+I'm interested how programmers got started with learning .NET development. What books and blogs did you read, podcasts or videos did you watch/listened and what other resources did you use to self learn .NET development. I have to mention that while I am new to .NET I'm not new to programming in general. I've used PHP, Python for a while and Java for about 1-2 months.

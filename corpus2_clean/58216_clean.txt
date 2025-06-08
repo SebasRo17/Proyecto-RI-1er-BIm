@@ -1,1 +1,1 @@
-dsolve rcs snph sqrt r rcs b snph rcs r rcs snph rcs snph snal r ri rcs snph r b snal r constant ndsolve small shift given boundary value trick work fine showing proper integral however standard procedure workaround dsolve limit integration assigned integrand improper
+stack overflow see lot php question answer mysql query highly vulnerable sql injection attack despite basic workarounds widely available decade reason type snippet still use today

@@ -1,0 +1,1 @@
+simple question via helper store database mean let suppose database want transform human readable url best way perform storing database transforming slug helper like user know way reach expected result one better least better way depends technology using using ruby rail mysql

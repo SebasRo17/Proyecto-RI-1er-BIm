@@ -1,0 +1,1 @@
+working mysql db design keyword based search seems necessary table two column id title entry user required enter num num keywords think using seperate table keywords would better would like learn difference two design term performance scalability management million row table id keywords num num id keyword num num num num num num

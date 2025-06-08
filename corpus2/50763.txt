@@ -1,1 +1,0 @@
-I read here, the discussion about how to solve one dimensional eigenvalue problem. I am wondering, how can one generalize these methods to two dimensions. For example: $-(d^2/dx^2+d^2/dy^2)u(x,y)+(x^2+y^2+xy)u(x,y)=Eu(x,y)$ or any other potentials. What about three dimensions? Is there any general procedure?

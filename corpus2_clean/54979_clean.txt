@@ -1,1 +1,0 @@
-new using mathematica plotting funcion depends two variable r c let say z r c use contourplot level curve shown r c plane trying obtain curve r z plane r c plane possible gave label curve instance curve r z plane different behaviour change c anyone know thanks

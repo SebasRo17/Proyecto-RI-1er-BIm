@@ -1,1 +1,0 @@
-first beginner mathematica like define function called rounding following x n n mathbb n function round n otherwise round n rounding x x floor x floor x ceiling x work like create list list random integer create list round element list rounding function list table randominteger list table round tried choosing element list using part list k get

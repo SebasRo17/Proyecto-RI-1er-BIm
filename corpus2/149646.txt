@@ -1,0 +1,1 @@
+I am trying to learn Socket programming in Java to make a game I created playable via network. I have never done much network programming so the subject is a bit confusing. In php I use apache to test my aplications on a local server. What do I need to install to be able to run network applications with Java?

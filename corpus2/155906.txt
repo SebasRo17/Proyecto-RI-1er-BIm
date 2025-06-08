@@ -1,0 +1,1 @@
+Can Window Phone 7 or 8 development be done remotely, such as on an Amazon EC2 instance or a rented VPS running Windows, via using an RDP or VNC client from a PC running Linux (or OS X, or maybe even an iPad)?

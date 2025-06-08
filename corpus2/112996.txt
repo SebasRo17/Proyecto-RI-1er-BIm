@@ -1,0 +1,1 @@
+Heroku has offered to sponsor a conference run by my Ruby user group, and wondering if anyone has suggestions for finding, selecting, and managing speakers. Related Question: How do you ask or get asked to speak at a software conference?

@@ -1,1 +1,0 @@
-suppose complex valued function f z f x u x v x want plot real part coloring respect imaginary part instance smallest greatest value imaginary part want color graphic white black depending value imaginary part white black would glad help

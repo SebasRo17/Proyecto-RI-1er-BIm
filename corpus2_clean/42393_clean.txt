@@ -1,1 +1,0 @@
-trying plot fourier transform sin tried using fouriertransform function expecting peak w give undefined w diracdelta function defined diracdelta way around used plot fouriertransform sin w w plotrange full enter image description gap height get peak height

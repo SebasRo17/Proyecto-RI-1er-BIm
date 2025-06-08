@@ -1,1 +1,0 @@
-Basically the same question as here, but now with regions which have opacity.               RegionPlot[x^2 + y^2 < 1, {x, -1, 1}, {y, -1, 1},        PlotStyle -> Opacity[0.5, Black]];     Export["tmp/region.pdf", %]      How do I remove the black lines when exporting to pdf?

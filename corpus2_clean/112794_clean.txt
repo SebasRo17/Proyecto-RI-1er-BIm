@@ -1,0 +1,1 @@
+according martin fowler classical article two type verification state behaviour verification time often see people telling implementation v behaviour verification guess speak pretty stuff state first classification behaviour second behaviour first equal implementation second like behaviour word appears naming contrary side cause lot confusion naming prefer

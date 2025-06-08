@@ -1,1 +1,0 @@
-suppose weatherdata helsinki meantemperature day data th day month

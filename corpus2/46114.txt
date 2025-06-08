@@ -1,1 +1,0 @@
-I need to prove this limit without using the L'Hopital's rule: $$\lim_{x\to 0} \frac{(1+a\,x)^{1/4} - (1+b\,x)^{1/4}}{x} = \frac{a-b}{4}$$ How can I do it in _Mathematica_?

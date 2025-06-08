@@ -1,0 +1,1 @@
+trying write unit test javascript application made nodejs want know say vehicle dependent another road num mock road send parameter vehicle unit testing create new send parameter vehicle num change road change mocking every num use factory create mocked object

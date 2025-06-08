@@ -1,1 +1,0 @@
-function f mathbb r mathbb r would like plot region f writing f u v f u v coordinate output tried using mathematica parametric plotter parametricplot f u v f u v u v failed mathematica seems support parametric plotting two parameter anyone know work around sake working example abbreviated example function f u v co pi u co pi v f u v co pi u sin pi v

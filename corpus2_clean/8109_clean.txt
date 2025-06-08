@@ -1,1 +1,0 @@
-function dosomethingcomplicated take average evaluate list listofargs element like monitor progress map dosomethingcomplicated listofargs without ever occupying big area screen best way

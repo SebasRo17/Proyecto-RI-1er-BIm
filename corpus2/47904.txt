@@ -1,1 +1,0 @@
-Is there a way to paste multiple expressions into notebook using `PasteButton`? For example, I want to do               PasteButton["Inputs", {Defer@(a=1;), Defer@(b=2;)}]      I want the expressions to be shown in multiple lines just as if we are typing them in, not as a list.

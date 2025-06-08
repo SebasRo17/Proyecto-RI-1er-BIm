@@ -1,0 +1,1 @@
+I have a C++ API, I want to send commands through http to run any c++ method from this API. I'm using libmicrohttpd. What steps should I follow to do such a work?

@@ -1,0 +1,1 @@
+assuming tool generating random number available generating uniformly distributed u u num num want generate random know could plug u inverse cdf distribution unfortunately inverse cdf trivial compute

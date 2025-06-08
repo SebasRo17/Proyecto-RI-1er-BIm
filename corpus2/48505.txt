@@ -1,1 +1,0 @@
-I need to solve an equation depending on 3variables in only one variables and define the roots as a function of the remaining variables? I used some thing like that:               root[x_,y_]:=Solve[x^2+y^2+z^2==0,z][1];      but it doesn't ?

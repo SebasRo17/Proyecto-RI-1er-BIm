@@ -1,1 +1,0 @@
-warning possibly dumb question two function want plot filling option like plot sin co pi filling axis ok want sine filled try plot sin co pi filling axis none mma return error message axis none valid filling specification selectively apply filling

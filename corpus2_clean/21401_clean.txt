@@ -1,1 +1,0 @@
-graphic wrap figure example imagewrapped lx ly nx ny r ftsz graphic table sphere ix lx iy ly r ix nx iy ny red table text style ix ftsz bold ix lx ix nx cyan table text style iy ftsz bold iy ly iy ny boxed false lighting automatic viewpoint imagesize automatic method shrinkwrap true image wrapped text disappear wrap figure without loosing information

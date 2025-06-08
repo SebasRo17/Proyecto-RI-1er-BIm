@@ -1,1 +1,0 @@
-listplot data point range trying find way overlay four rectangle onto listplot step horizontally essentially binlists try visualize bin listplot rectangle drew nice little picture paint since draw mathematica yet hopefully make little clearer drew three rectangle enter image description seems somehow complicated get work except paint someone help

@@ -1,0 +1,1 @@
+sfinae template metaprogramming wonderful thing many library also use considerably historically magic concept intentionally introduced supported c later discovered useful side product original template programming

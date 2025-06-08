@@ -1,0 +1,1 @@
+Is it good practice to use `__` convention while declaring the member variable? This also imparts private kind of feature of that data member. There have been cases when I found that its good to have hidden members of a class. This is certainly exposes only that feature that will help the the object to behave in more protected manner.

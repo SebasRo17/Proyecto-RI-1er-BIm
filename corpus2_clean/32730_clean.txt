@@ -1,1 +1,0 @@
-wondering elegant way finding whether element exists n dimensional array way would inarrayq el length position x x el false true seems rather cumbersome surprised built mathematica function better way write function

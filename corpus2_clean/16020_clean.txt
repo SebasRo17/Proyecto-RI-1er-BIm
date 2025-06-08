@@ -1,1 +1,0 @@
-function intended test expression polynomial coefficient exponent integer intpolyq optional integer plus optional integer x symbol optional integer x true intpolyq false give unexpected result case example intpolyq x x x x x x x x give true true true false true wrong th case happen fix

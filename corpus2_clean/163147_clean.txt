@@ -1,0 +1,1 @@
+theoretically thread safe fix race condition race condition understand occur two thread attempt write location time however threading model single thread designed write location several slave worker thread simply read location assuming timing read relevant hinder worker thread outcome considered thread safe missing something logic

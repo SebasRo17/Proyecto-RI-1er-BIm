@@ -1,1 +1,0 @@
-The command `Table[Polt[Sin[k x],{x,1,10}],{k,1,30}]` generates a list of graphics. I want to export each list item as an individual jpg file, named according to the order of appearance in the list. How can I do this? Thanks in advance.

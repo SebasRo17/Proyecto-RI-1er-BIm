@@ -1,0 +1,1 @@
+I code Java for at least 5 years now and I really appreciate how the language works. When looking at new JVM languages (e.g. Scala, Clojure) there is a trend to more functional ways to code and this way has some major advantages. Anyway, are there patterns to achieve a more functional style even when using Java or other pure OOP? And does this make sense in Java?

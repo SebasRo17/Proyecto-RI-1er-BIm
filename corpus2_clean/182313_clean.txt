@@ -1,0 +1,1 @@
+need describe algorithm find second smallest element fibonacci heap using operation insert last one algorithm previously implemented find smallest element heap thought start extracting minimum result child becoming root could use find second smallest element seems overlooking case know use insert way question phrased seems suggest need

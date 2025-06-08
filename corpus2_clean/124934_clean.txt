@@ -1,0 +1,1 @@
+php developer life need use c next project remember basic stuff back school fork pthread semaphore etc sure still way go recent development improvement etc google result seem fairly dated mean still current state art use system independent libary like glib want higher level abstraction like synchronized queue library programm linux though

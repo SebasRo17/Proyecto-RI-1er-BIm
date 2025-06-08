@@ -1,0 +1,1 @@
+explicit official guideline standard template parameter naming c done something like past template typename typename tkey map tkey const key also seen name like container key also accept advice standardization make sense

@@ -1,0 +1,1 @@
+I have a plan to start a small business soon. It is going to be a type of freelancing to build websites and applications using ASP.NET. I want to focus on one thing Web forms or MVC. However, I have no idea if that has any importance to the client. I mean do the clients know about MVC or web forms? Do they prefer one of them?

@@ -1,1 +1,1 @@
-want export figure mathematica pdf format also want include author title field pdf example include author field use following code pp plot x x export plot example pdf pp author dmitry however open generated pdf file pdf viewer author field filled specify export call include author title field generating pdf file
+language customizable like see example goto lightweight checking javascript see jquery one example widely used language cannot customized much

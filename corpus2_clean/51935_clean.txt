@@ -1,1 +1,0 @@
-type mathematica tensorproduct identitymatrix identitymatrix give result nested matrix turn normal matrix without nesting thanks

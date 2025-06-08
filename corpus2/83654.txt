@@ -1,0 +1,1 @@
+I'm torn which IDE to use. The power of eclipse or the simplicity of TextMate. I'm wondering which one has specific advantages over the other, productivity wise.

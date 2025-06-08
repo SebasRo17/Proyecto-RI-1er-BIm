@@ -1,0 +1,1 @@
+need know safe use jquery mootools together one web framework trying create application using situation need modify based application framework used jquery want waste time learning mootools think jquery better mootools many context like number application plugins etc question num safe use mootools jquery one framework num cross browser issue num robust application using

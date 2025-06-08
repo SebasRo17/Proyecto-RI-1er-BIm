@@ -1,0 +1,1 @@
+recently browsing source large application written c learn bit help notice use lot ifdefs less function could member method example qt creator ide source notice bunch function around one example static inline tohtml qstring defined outside think could part utility maybe also think ifdefs make program messy opinion question accepted practice c world mix procedural oo like

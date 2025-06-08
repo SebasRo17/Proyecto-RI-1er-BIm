@@ -1,0 +1,1 @@
+I am considering learning Go. As far as I know about it, it's a systems language geared toward parallel programming. (correct me if I'm wrong)   * Should I have a very good understanding of C in order to be good Go programmer?   * How much systems concepts (*nix OS concepts) I need to master before delving into Go   * What other things I should know/learn before starting Go

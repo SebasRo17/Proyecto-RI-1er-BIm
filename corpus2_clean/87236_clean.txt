@@ -1,0 +1,1 @@
+starting get writing automated acceptance test quite confused write test specifically layer app example seen acceptance test written domain test like given incorrect user submits form play beep seem fit ui domain probably even service layer

@@ -1,1 +1,0 @@
-code dynamicmodule r grid slider dynamic r spanfromleft f dynamic r g dynamic r move slider f ang g evaluated continually f want g evaluated final value r release left click

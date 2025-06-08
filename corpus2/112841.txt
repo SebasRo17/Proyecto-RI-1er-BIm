@@ -1,0 +1,1 @@
+Is something like this acceptable or is it frowned upon? String newsSymbol It just looks strange to me, but it's the best way to describe what the variable is and the data it will hold. I could rename it to something like String articleSymbol but then I'd have to rename a whole other bunch of variables. What are your thoughts? Yay or nay?

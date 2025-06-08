@@ -1,1 +1,0 @@
-I would like to generate a `ListPlot` with labels that appear when the pointer goes over the individual points. Specifically, I have a table of dimensions `{100,3}` and I want to use the first two columns for the plot and the third for the label. Does anyone know how to do that?

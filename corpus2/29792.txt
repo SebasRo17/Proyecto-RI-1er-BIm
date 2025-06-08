@@ -1,0 +1,1 @@
+Do you think it makes sense to enforce that every member of a team must use the same IDE? For instance all engineers that are already on the team use IDE X. Two new engineers come and want to use IDE Y instead because that's what they have been using for several years now. Do you have any experience with "mixed IDE" teams? If so what is it?

@@ -1,1 +1,0 @@
-list l would like obtain number zero sublist nz table count l length l return list way use map accomplish cleanly would like write something like map count l course fail count need pattern count

@@ -1,0 +1,1 @@
+One of the advantages of SVN over CVS as given here is **cheap copying and branching**. What does " _cheap copying and branching_ " mean in SVN parlance? How is it different from CVS copying and branching?

@@ -1,1 +1,0 @@
-probably duplicate easy search list function accepts list list say b b b performs computation ai bi may assume none ai bi list would like function also accept simply b argument list operate member nonexistent outer list would like f b behave way f b done following f list module nlist nlist listq list list list stuff work fine seems pretty inelegant better way

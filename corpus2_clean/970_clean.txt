@@ -1,1 +1,0 @@
-sprintf command command take printf style format string list value insert string something much like preferably similar style format specifier alternately would implement sprintf mathematica

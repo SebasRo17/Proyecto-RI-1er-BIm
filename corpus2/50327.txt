@@ -1,0 +1,1 @@
+It seems nowadays all the develop teams have both software engineers and product manager. I am a newbie to the software industry and I wonder what is the difference?   1. Is it necessary for a Product Manager to have a programming background?   2. How to divide work between Engineers and Product Manager?

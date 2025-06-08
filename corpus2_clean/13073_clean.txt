@@ -1,1 +1,0 @@
-want connect shortcut key ctrl c button application purpose wrote code using eventhandler mouse button clicked working fine ctrl c key press working eventhandler button click keydown c messagedialog button mouseclicked messagedialog button eventhandler function closed

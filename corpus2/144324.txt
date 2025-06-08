@@ -1,0 +1,1 @@
+Are there any prolog interpreters that can functionally decompose your 'programs' in order to improve efficiency? I know there's been research on prolog interpreters that reach near-C speeds through parallelism (the kind that a typical C programmer can't "see"). Does anyone know more about this topic?

@@ -1,0 +1,1 @@
+When there are no arguments, we have these two options:               $obj = new MyClass;      vs.               $obj = new MyClass();      I always pick the former, just because. Any thoughts?

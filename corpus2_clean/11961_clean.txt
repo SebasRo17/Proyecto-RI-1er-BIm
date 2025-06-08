@@ -1,1 +1,0 @@
-computation mathematica generally try make readable future cumbersome task mathematica often requires switch betwee text cell back equation cell two able label given equation result e g text equation anyway make mathematica produce output like following equation resulting value

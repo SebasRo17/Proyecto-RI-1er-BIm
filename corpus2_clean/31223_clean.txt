@@ -1,1 +1,0 @@
-given two matrix b want end loop value matrix minus b smaller contrast value matrix minus b smaller anybody help problem q q q print q print print b q compare matrix length width value module state state false length j j width j matrix j value state true return state compare b break

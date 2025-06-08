@@ -1,0 +1,1 @@
+started using git tend live emacs want use one emacs integration package looking list see lot package available blurb explain much capability especially since know git well git mode emacs used advantage disadvantage

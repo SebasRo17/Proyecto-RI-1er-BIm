@@ -1,1 +1,0 @@
-Is it possible to put a frame around a group of cells (e.g. a numbered list)? My problem is, that if I select the cell group and then click frame on the writing assistant, then it puts a frame around each cell in stead of one frame around all the cells in the marked group. Merging the cells into one does not work either, as that removes the item numbers in lists.

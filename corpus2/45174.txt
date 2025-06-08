@@ -1,1 +1,0 @@
-I have similar question like mentioned at representing triplet data set with color on 2d plot but this time instead of color I need to represent variation of third axis with the thickness of the curve

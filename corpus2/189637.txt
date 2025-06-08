@@ -1,0 +1,1 @@
+Should bash be expected to change in ways that break non-trivial amounts of existing scripts at some point in the (near/<5y) future? How much change has it gone trough in the last ten years compared to, say, python or perl?

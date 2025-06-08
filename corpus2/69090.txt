@@ -1,0 +1,1 @@
+Which license would fit the following requirements the most?   * Everyone is welcome to make updates and use the source code    * But nobody should sell it or sell an application that is using it, unless they make a deal with owners

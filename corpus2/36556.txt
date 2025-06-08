@@ -1,0 +1,1 @@
+We have been working with Microsoft on a ticket we opened due to one of our queries being much slower on MS Sql server 2k8 enterprise vs sql 2k5 standard. The engineers we are working with have incredible tools and knowledge of the internals of sql server. Is there any course I could take to get me this knowledge?

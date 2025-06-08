@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  How to create functions of arbitrary number of variables? i want to use a Function `f[]` with different set of arguments. example: `f[{x,y,z}]` as well as `f[{x1,y1,z1},{x2,y2,z2},...,{xn,yn,zn}]`. How do i write its definition to accept Both type of calls.

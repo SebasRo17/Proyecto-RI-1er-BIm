@@ -1,1 +1,0 @@
-I'm solving a a differential equation in Mathematica and was wondering how to show the steps, like how Wolfram|Alpha does it, in the program. Any ideas?

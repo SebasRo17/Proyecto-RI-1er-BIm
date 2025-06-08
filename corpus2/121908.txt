@@ -1,0 +1,1 @@
+I came across a question which asked the difference between Function Templates and Template Functions in C++ and also Template Classes and Class Templates. I was under the impression that Function Templates and Template Functions were the same thing. Is there any difference between the two, if so what is it?

@@ -1,0 +1,1 @@
+I'm not exactly sure when to use Enterprise Library, and when not to... and that is making me not learn it at all. I feel that I have enough of a reason to **start learning** then perhaps one day I'll **use** it. Are there times when I should use EntLib? When shouldn't I use it?

@@ -1,0 +1,1 @@
+developing android app add chat functionality also save chat history accomplish task using sqlite sure whether consider using orm like ormlite use traditional way persisting sqlite actually clear go using orm get benefit

@@ -1,0 +1,1 @@
+When I discovered that python has parallel assignment I thought is pretty cool. Recently I discovered parallel assignment works also in ruby. For people that don't know it: `x,y = y,x` in ruby, python this swaps x and y values . Which language came first with parallel assignment, python? or was it other language?

@@ -1,1 +1,0 @@
-Let's assume that $Q_0$ is $3\times 3$ matrix with $\det Q_0\neq0 $ and $$ Q_{i+1} = \frac{1}{2}\left[ Q_i+(Q_i^{-1})^T \right] $$ I need to find next limit: $\lim _{i \to +\infty}$$Q_i$. In other words I need to find such $Q_i$ that $\left|Q_{i+1} - Q_i\right| < \epsilon$. Does anybody know, is it possible to find such kind of limits with _Mathematica_?

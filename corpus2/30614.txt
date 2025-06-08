@@ -1,1 +1,0 @@
-polynomial=-x^4+2 b x^3+(b^2-c^2+2 c) x^2+(2 b c-2 c d) x+c^2-d^2      This is good               CoefficientList[polynomial, x]      But how to get coefficient list from the `PolynomialForm`? I've tried this, but it does not give the coefficient list.               CoefficientList[PolynomialForm@polynomial,x]

@@ -1,0 +1,1 @@
+My Android app contains some Apache-2.0 licensed code from Google (in-app billing example) and links to `com.android.vending.billing` library in the form of a `InAppBillingFile.aidl` file (same license?). I would like to know what I have to do for my app to be license compliant, i.e. what to show in the About section, what files to include and so on?

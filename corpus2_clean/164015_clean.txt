@@ -1,0 +1,1 @@
+used search big theta notation algorithm hand make sure optimized function getting really big complex taking way much time hand also prone human error spent time codility coding algo exercise noticed give notation submitted solution time memory usage wondering would another way besides lexical analysis parsing question concern mainly php javascript opened language theory

@@ -1,0 +1,1 @@
+trying find efficient algorithm find repeating decimal part two integer b b eg num num num num currently know long division

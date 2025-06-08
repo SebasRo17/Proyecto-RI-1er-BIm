@@ -1,0 +1,1 @@
+I'm refreshing my CS Theory, and I want to know how to identify that an algorithm O (log n) complexity. Specifically, is there an easy way to identify it? I know with O(n), you usually have a single loop; O(n^2) is a double loop; O(n^3) is a triple loop, etc. How about O (log n)?

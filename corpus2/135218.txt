@@ -1,0 +1,1 @@
+I have been learning writing test cases for BDD using specflow. If I write comprehensive tests with BDD is it necessary to write TDD test separately? Is it necessary to write test cases for both TDD and BDD separately? It seems to me that both are same, the only difference being that BDD can be understood by non developers and testers.

@@ -1,0 +1,1 @@
+developing application handling db part retrieve db stored procedure prepared statement want display gui current technology used one still use dataset datatable

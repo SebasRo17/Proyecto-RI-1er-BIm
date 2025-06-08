@@ -1,0 +1,1 @@
+this page http://golang.org/doc/go_faq.html writes: > although Go has static types the language attempts to make types feel > lighter weight than in typical OO languages So my question is exactly is it safely typed with generics (like C#) or loosely typed (like javascript) or optional (like option strict in Vb.Net)

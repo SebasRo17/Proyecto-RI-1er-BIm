@@ -1,0 +1,1 @@
+I've recently had a discussion with a coworker about versioning web applications. I don't think you need it at all, and if you just want a sanity check to confirm your latest release is live, I think a date (YYMMDD) is probably good enough. Am I off base? Am I missing the point? Should I use web application version numbers

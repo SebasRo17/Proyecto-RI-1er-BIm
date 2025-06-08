@@ -1,0 +1,1 @@
+Git and Mercurial follow similar models and have similar terminology. Mercurial's initial release was was only 12 days after Git's. How did these two projects, in initial development at the same time, end up so similar? Does anyone know the history?

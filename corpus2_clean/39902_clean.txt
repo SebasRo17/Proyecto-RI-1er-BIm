@@ -1,1 +1,0 @@
-want ax x listplot range run code l table sum binomial k j j k j j k k appendto l table sum binomial k j j b k j j k k p l table n reduce f p f f f length p case except false tt listplot tt filling top gridlines automatic plotstyle red pointsize large plotmarkers automatic medium datarange axeslabel k alpha plot range mean last number marked ax fix last marked value

@@ -1,1 +1,0 @@
-How do you use Factor so that it will factor expressions inside the arguments of some bigger expression. For example                Factor[ Cos[t w - t z]]      gives                Cos[t w - t z]      but i would like it to give:                Cos[t(w - z)]

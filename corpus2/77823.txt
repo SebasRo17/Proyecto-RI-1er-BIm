@@ -1,0 +1,1 @@
+I would like to start building up some software reverse engineering skills, and I'm looking for exercises or "challenges" to work on. Are there definitive or go-to sites, like Project Euler, specifically for reverse engineering? For example, exercises where I have to figure out why a program is crashing or behaving incorrectly.

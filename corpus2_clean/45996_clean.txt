@@ -1,1 +1,0 @@
-way get mathematica v wolfram alpha given city input e g urbana champaign il return list city fall time zone within certain maximum absolute value difference time zone given city generally way get list city absolute value difference time zone given city fall

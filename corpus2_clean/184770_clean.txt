@@ -1,0 +1,1 @@
+want licence non trivial php application working affero gpl v3 want every admin use also release source however something trouble file php admin supposed write key information mysql database secret info form mypassword agpl change obliged release changed source together secret credential file php licensed agpl

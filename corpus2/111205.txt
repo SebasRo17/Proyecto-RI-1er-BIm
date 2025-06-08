@@ -1,0 +1,1 @@
+The reason why I ask this is because, when I read articles such as Wikipedia's HCI or reports on A.I., I find that much of what it talks about is actual design _theory_. Is this what most of Computer Science touches on? They say there's a difference between being a Coder and a Computer Scientist. Is this like the difference between an Architect and a Draftsman?

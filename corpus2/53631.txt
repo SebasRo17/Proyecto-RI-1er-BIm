@@ -1,0 +1,1 @@
+I use OOP programming with inheritance, but I've not yet used interfaces.I want to learn how to use design patterns, but I'm finding them very difficult to learn. Is there is any way to learn design patterns easily? I searched quite a bit, but I was not able to find useful information.

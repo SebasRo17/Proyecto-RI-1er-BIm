@@ -1,0 +1,1 @@
+Just curious why whenever I see an example of a directive using a link, the parameter for scope is scope and not $scope? This is always biting me because I'm so used to typing $scope, my brain auto- types it and I have to go back and correct it.

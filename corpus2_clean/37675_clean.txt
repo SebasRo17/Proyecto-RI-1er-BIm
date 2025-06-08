@@ -1,1 +1,0 @@
-writing code combine parametricplot regionplot mathematica good figuring appropriate bound parametricplot would like reuse bound creating regionplot tell mathematica reuse bound

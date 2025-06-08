@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Customize front end to add notifications when evaluation finishes? How to setup sound alert notification when simulation is complete? I need to do something else while waiting for a long simulation to complete instead of sitting there watching the simulation to complete the whole 'Evaluate Notebook' process. Thank You

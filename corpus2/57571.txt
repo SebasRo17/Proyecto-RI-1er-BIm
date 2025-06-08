@@ -1,0 +1,1 @@
+What do the symbols `⊞` and `⊕` mean? I'm trying to understand them to make an app. It's on http://en.wikipedia.org/wiki/File:XXTEA.png ![http://en.wikipedia.org/wiki/File:XXTEA.png](http://i.stack.imgur.com/EyUUf.png)

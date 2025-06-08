@@ -1,0 +1,1 @@
+As far as I know Jetbrains PHPStorm is programmed in Java but while I don't have Java installed in my Windows 7 PC, PHPstorm is installed and working without any problem. How It's done?

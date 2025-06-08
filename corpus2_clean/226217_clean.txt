@@ -1,0 +1,1 @@
+let say list value num num b num c num num e order list might changed num num c num num b num e would detect change needed something like building revision history page online form building tool found quick dirty solution looking elegant solution revision description look like revision page tough part element removed added anywhere list algorithm able ignore change

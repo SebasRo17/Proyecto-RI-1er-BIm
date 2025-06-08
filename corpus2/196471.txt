@@ -1,0 +1,1 @@
+i am working on a project consisting of sending and receiving streaming multimedia.So,i have installed JMF, but i have seen that JMF has 32 bit library as mine is 64 bit so i wanted to use Xuggler for streaming videos. Can anyone clarify me about the support of Java Media FrameWork with Xuggler..

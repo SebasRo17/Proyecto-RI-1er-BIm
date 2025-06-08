@@ -1,0 +1,1 @@
+I know that the ScrumMaster should be a leader, but it's a good practice to have a technical leader as a ScrumMaster. For example: a coordinator.

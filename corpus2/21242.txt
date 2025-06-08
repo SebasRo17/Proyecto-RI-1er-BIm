@@ -1,1 +1,0 @@
-Is it possible to get Mathematica (9) to calculate PDF's for combined distributions? I can't seem to find the right notation, if this is possible at all. My attempts:               PDF[NormalDistribution[0, 1] + NormalDistribution[0, 1], x]      Nor can we store a distribution to a variable:               z \[Distributed] NormalDistribution[0, 1]     PDF[z, x]

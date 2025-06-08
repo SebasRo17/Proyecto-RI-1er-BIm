@@ -1,0 +1,1 @@
+question making diagram mvc based college senior project num actor user system let say undergrad graduate student child abstract called user generalisation actor feature question case need two actor separate class inherits abstract user even though going implement role using one model called user model think see confusion using mvc pattern never made diagram pattern thank advance

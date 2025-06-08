@@ -1,1 +1,0 @@
-I am trying combine this two functions into one piece in grid.               RegionPlot[x^2+y^2<=1 \[And] y>x,{x,-2,2},{y,-2,2},PlotPoints->15]          Graphics[Disk[{1/2,-1/2}, 1/2]]      I tried put Disk[{},] inside first one but it doesn't work. I would appreciate for any help.

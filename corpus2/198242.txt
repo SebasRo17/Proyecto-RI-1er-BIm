@@ -1,0 +1,1 @@
+For example, what happens if a coder tries to code in purely functional-style paradigm in OO-paradigm language(Java)? Will it work? Or the OO nature of Java will not let it happen? Also, is applying wrong paradigm to language unfitting to it a bad practice or not? Is it like trying to drive a jet on road instead of flying it?

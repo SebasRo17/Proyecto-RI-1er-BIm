@@ -1,0 +1,1 @@
+javascript thing private order achieve encapsulation information hiding javascript wrap inside closure like var counter var num var fn fn increment fn get fn counter increment counter increment alert counter get alert num since call private javascript call

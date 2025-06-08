@@ -1,0 +1,1 @@
+I have a winforms application with a display window that can show 3d geometry. I have another control on which I have a series of options to turn on/off different items in my display window. However the display state of these items is changed a lot of places in my code. Does a design pattern or some other example of how to structure code to maintain states exist?

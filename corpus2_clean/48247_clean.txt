@@ -1,1 +1,0 @@
-graph g want set graph c hold community subgraphs g tried c subgraph g findgraphcommunities g output whole graph g see documentation findgraphcommunities return list vertex may also get edge

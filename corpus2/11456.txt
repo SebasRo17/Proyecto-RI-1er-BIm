@@ -1,1 +1,0 @@
-I have a time series data, for example               data = FinancialData["JK:ADRO", "July 16 2012"]      Can I use `CellularAutomaton` to forecast some period of data? How would I go about doing that?

@@ -1,0 +1,1 @@
+pointer c require num byte memory size irrespective size pointing thing applies reference also

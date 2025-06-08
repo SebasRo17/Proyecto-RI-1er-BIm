@@ -1,0 +1,1 @@
+use iso num represent date duration ok need represent relative date duration like date first day midnight next week last month period fact need syntax prefer standard one need yet syntax store relative date duration like iso num use duration thanks

@@ -1,0 +1,1 @@
+want store encrypted specifically email address database currently using mysql initially going use mysql aes encrypt decrypt handle got wondering one better another seems tie database could potentially lock database point selection may change road otherwise would look handling part think handled back end would free use whatever front end logic wanted thought idea

@@ -1,0 +1,1 @@
+I am curious, has the knowledge of the inner workings of an operating system helped you in understanding a computer programming language? It may have helped you figure out programming faster than someone with less knowledge of the underlying concepts of the Operating System?

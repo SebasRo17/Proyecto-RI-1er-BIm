@@ -1,0 +1,1 @@
+I want to develop a paperless application in .NET to reduce paper usage at my university. It will contain Exchange data and reporting. What do I need to study before I start?

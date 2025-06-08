@@ -1,0 +1,1 @@
+writing client server application wanted fully separate server logic view first thing wanted make sort message log server know message shown gui thinking would handler would called every time new message posted gui app would maybe add listview would simple printf better way

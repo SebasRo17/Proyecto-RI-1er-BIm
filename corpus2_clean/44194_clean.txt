@@ -1,1 +1,0 @@
-tried solving following partial difference equation mathematica typing rsolve c n k c n k c n k c n c n n c n k n k return following error message rsolve conarg argument ordered consistently work please someone help regard thanks regard advance

@@ -1,0 +1,1 @@
+creating library simple program cost effective make thread safe way detect program use multithreaded program assert otherwise determine preferably compile link time may create problem related help question would automated tool support finding potential problem thread safety programming language feature enforce

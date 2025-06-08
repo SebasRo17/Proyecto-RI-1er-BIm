@@ -1,0 +1,1 @@
+application implementing following mvc pattern want window view contains form allows user add several text field also button allow user add text field form several question adding new text field considered part controller view num controller controller anything model modify view violation mvc num view violation mvc change view directed model

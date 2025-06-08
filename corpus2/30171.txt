@@ -1,0 +1,1 @@
+If I were to begin writing an application using Java with the intention of porting it to other platforms with little or no modification, would it be wise to consider using the .Net framework instead? I have no specific targets in mind with respect to platform. At a minimum, Windows/Mac/Linux support would be nice. Also ease-of-use for the end-user is a consideration.

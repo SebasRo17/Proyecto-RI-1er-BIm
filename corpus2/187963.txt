@@ -1,0 +1,1 @@
+I have heard of several situations of people using say, JavaScript or Python (or something), inside a program written in C#. When would using a language like JavaScript to do something in a C# program be better then just doing it in C#?

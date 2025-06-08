@@ -1,1 +1,0 @@
-For a user specified magnitude, is there a way to have Mathematica produce any 3D vector that fits that magnitude?

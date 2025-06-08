@@ -1,0 +1,1 @@
+Ruby normally makes things easy. However, it doesn't allow implicitely converting a number to a string:               2.0.0p247 :010 > "a"+1     TypeError: no implicit conversion of Fixnum into String      Why is this when nearly every other language allows it, including Perl, PHP, Java and VBA?

@@ -1,1 +1,0 @@
-sqlexecute con select table print true print false need know way table empty

@@ -1,1 +1,0 @@
-trying plot complex quantity seems work properly want accomplish would like know general rule way plotting complex counterpart function tried looking contourplot densityplot one single variable contourplot asks two variable order plot expression trying plot eqn pi f pi f plot eqn f something else missing

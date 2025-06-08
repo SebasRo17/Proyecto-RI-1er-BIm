@@ -1,1 +1,0 @@
-I want to do padding of matrix               a = {{x,x},{x,u}};       to               b = {{x, x, x}, {x, u, u}, {x, x, x}}          c = {{x, x, x, x}, {x, u, u, u}, {x, x, x, x}, {x, x, x, x}}      and soon... How I can automatically do this?

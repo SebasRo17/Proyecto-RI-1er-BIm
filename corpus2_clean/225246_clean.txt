@@ -1,0 +1,1 @@
+let look simple example assume three class also simple factory pattern implementation contains method enum parameter could create factory pattern word centralize creation need dependency sqlconnection database path need http setting dependency could pas factory constructor parameter ugly unclean especially implementation

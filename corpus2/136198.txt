@@ -1,0 +1,1 @@
+I am working on a website which is using Skin templates everywhere in the page. Because of this all the controls, even labels, are server controls. I was wondering if it is worth changing at least labels to HTML controls and create CSS for them. Is there any advantage of using Skin over CSS?

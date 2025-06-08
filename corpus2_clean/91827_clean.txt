@@ -1,0 +1,1 @@
+working application see time exception handled many place example try something catch nullpointerexception e question good practice handle runtime exception exception left unhandled

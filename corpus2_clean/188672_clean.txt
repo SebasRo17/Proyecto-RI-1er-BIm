@@ -1,0 +1,1 @@
+working project need consume json stream approximately 1mb minute parse insert object database amazon dynamodb seem like attractive option web service simple script eat put database could use worker heroku elastic beanstalk even pure ec2 like find service much cheaper due low amount bandwidth cpu required sorry crappy tag even sure categorize question

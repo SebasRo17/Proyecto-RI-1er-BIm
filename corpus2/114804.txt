@@ -1,0 +1,1 @@
+Are there any situations where it may not be a good idea to use the code of an open source project, even if your company might allow you to do so? Some cases that I think might be valid include:   * The code may be implemented in a different languages.   * It is not portable   * It may need some other close-source libraries What might be some other reasons?

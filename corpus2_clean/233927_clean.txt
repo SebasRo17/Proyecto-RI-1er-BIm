@@ -1,0 +1,1 @@
+see two way fill empty file program arg1 file specifically write manages file write ie file stream better implement

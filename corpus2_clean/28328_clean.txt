@@ -1,1 +1,0 @@
-consider code l table x sin x x f interpolation l g compile x real evaluate f x compiledfunction x interpolatingfunction x compiledcode table f x x absolutetiming null table g x x absolutetiming null compiled version slower

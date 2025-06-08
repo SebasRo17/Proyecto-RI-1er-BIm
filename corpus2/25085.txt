@@ -1,1 +1,0 @@
-I have this code:               a == b + c + d - e      Is it possible to collect or reduce this expression into this:               c + d == a + e - b      where I focus on the left side of the equation. I am only aware of ways to reduce an expression with respect to one single variable, but here I would like to reduce it with respect to `(c + d)`. Is this possible somehow?

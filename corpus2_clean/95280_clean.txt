@@ -1,0 +1,1 @@
+programming language number either integer real printed firstly converted code readable character meant represent number code decoded readable character example c function printf integer screen file suppose num printf first convert number num number 0x31 ascii character num decode 0x31 character num thanks regard

@@ -1,0 +1,1 @@
+difference n exit n c defined c posix standard depends o

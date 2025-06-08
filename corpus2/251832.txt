@@ -1,0 +1,1 @@
+What is the difference between an API and an embedded Domain Specific Language (DSL)? Is it just syntax? Consider an API like OpenGL. How is that different from a graphics DSL? In other words, if an API is sufficiently complex, can it be considered an embedded DSL?

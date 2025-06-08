@@ -1,1 +1,0 @@
-I have a script file (.m), which I need to distribute for execution. How can I read/write protect it? thanks

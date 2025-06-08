@@ -1,1 +1,0 @@
-suppose f function two variable f f x quad l list could someone help defining list form f x x l l tried list f x x kroneckerproduct l l got syntax error

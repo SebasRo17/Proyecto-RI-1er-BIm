@@ -1,0 +1,1 @@
+I'm facing problem with generating character sequence for SMS tracking. there should be a easy to enter code send with all the outgoing messages. Reply SMS will map with that code. I can't generate next sequence of code from database because multiple clients may have read at ones and may end up with same code. is there any workaround for this? **EDIT**   Database is Informix.

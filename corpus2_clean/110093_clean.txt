@@ -1,0 +1,1 @@
+one writes open source project us google github want use library like lua one dependency included repository dependency built within build script rest project separate build script given library need installation compilation

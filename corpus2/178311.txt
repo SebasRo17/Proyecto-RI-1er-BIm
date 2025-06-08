@@ -1,0 +1,1 @@
+When someone refers to "Development Automation", what is it exactly? What are some frameworks for development automation? My boss asked me to develop a strategy for implementing such in the company but I have not found much information related to the matter. Google seems to think I am referring to testing automation, which is not the case.

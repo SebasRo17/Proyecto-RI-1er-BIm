@@ -1,0 +1,1 @@
+I know this may be a general question, but what exactly goes into scaling for all the users you will encounter, even if not in the next few months? I did some research and most of what is done is server side, with caches and other similar stuff. Any points in the right direction would be helpful.

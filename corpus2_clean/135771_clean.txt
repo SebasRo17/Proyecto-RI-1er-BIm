@@ -1,0 +1,1 @@
+trying learn one book reading author say convention writing correct setter example would go something like public double however using eclipse tell create getters setter public double question way better make difference programming world exactly difference two

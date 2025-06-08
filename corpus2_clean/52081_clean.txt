@@ -1,1 +1,0 @@
-could use binlist give element index list instead giving list element belonging bin thanks

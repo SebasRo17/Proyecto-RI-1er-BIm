@@ -1,0 +1,1 @@
+While using Apache Kafka, is it possible to get the offset of the message that has been produced? From the Kafka documentation page it says: > each message in the partition are assigned a unique sequential id/number > called Offset Now suppose when I am producing any message I want to retrieve the offset that has been assigned to it.

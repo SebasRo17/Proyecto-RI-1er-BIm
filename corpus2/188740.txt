@@ -1,0 +1,1 @@
+I have read a few of the articles related to the **Language Oriented Programming** paradigm. Therefore, I concluded that LOP paradigm can let programmers be more productive because of it's extensibility. Are there any programming languages that are already implemented LOP or in development status?

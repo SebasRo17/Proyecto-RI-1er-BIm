@@ -1,1 +1,0 @@
-consider simple example mytrans expr expr f fullsimplify sqrt transformationfunctions automatic mytrans assumption f real real sqrt last assumption equivalent first four work work first four case

@@ -1,1 +1,0 @@
-notebook mathematica trying convert use mathematica one problem long computation definite integral new version mathematica example enter image description understand new mathematica produce accurate answer even nintegrate loses speed calculation simple solution make integration work faster

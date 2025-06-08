@@ -1,0 +1,1 @@
+refactoring noticed unusual pattern familiar property variable yet initiated undefined declared explicitly despite fact less variable property would evaluate undefined anyways var foo undefined prop undefined reason

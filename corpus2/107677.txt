@@ -1,0 +1,1 @@
+I understand that when we try to implement swarm intelligence, it basically has multiple independent units communicating and with each other. What I am unsure of is if swarm intelligence an extension of artificial intelligence or if it is a discipline in and of itself.

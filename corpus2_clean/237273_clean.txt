@@ -1,0 +1,1 @@
+project use various webservices e g dropbox aws managing private information use bash profile work great heroku us env variable manages secret information problem bash profile growing significantly heroku add 1 heroku add 2 etc bit today better way

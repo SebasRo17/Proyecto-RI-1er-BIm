@@ -1,1 +1,0 @@
-How to set the background of a section to light gray and leave background of content below and above the section as default?

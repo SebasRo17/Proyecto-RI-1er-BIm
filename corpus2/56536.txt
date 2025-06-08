@@ -1,0 +1,1 @@
+There's alot of buzz going around that HTML5/Canvas will eventually be a flash killer. But upon some research I'm learning that HTML5/Canvas is just bitmap graphics. The real competitor with Flash is actually SVG. SVG was released a few years back. My question is, why didn't SVG turn out to be a flash killer?

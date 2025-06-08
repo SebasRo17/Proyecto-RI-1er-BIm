@@ -1,0 +1,1 @@
+may come across trying wrap head around designing website thoroughly restful understand applying restful design thing like user photo blog post etc think like object u page kind resource even resource restful sense word also say go url resource asking index resource

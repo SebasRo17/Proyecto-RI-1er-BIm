@@ -1,0 +1,1 @@
+Why do need namespaces when we have nested classes. What can be done through namespaces, can also achieved through nested classes. so I don't understand the reasoning of having namespaces ?

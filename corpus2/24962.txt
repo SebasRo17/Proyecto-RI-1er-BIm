@@ -1,1 +1,0 @@
-What is the simplest way to find the argument of the following function? `((1 - E^((I π (1 - α))/(β - α)) z)/(1 - E^(-((I π (1 - α))/(β - α))) z))` as I tried the polar way, but it is so complicated and I didn't reach the result yet. Thank you.

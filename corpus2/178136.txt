@@ -1,0 +1,1 @@
+It might be obvious, but I am not sure. Should the analyst who interview the client, gather and analyse requirements then give an estimate, also specifies how many and with how much experience developers should be required to develop it? Maybe I'am not so sure on how I go about this allocation thing, maybe this is just not my work.

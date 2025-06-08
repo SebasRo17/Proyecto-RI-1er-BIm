@@ -1,1 +1,0 @@
-version newly started mathematica session try following code plotattributes attribute plot plot sin x x attribute plot plotattributes protected readprotected holdall protected readprotected false explanation plot holdall one attribute fresh mathematica session started acquires attribute call plot

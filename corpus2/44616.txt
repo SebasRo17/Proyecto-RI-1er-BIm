@@ -1,1 +1,0 @@
-Is there a way to write the MemoryInUse into a file once a minute? In this Debugging memory leaks question there is a neat dynamic diagram showing the MemoryInUse over time. My problem is that I run my mathematica script without the front-end (math -script mystuff.m) and it seems that Dynamic does not work.

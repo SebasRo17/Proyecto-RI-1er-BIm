@@ -1,0 +1,1 @@
+trying following take single ia32 instruction intel syntax add eax ebx produce corresponding machine instruction small library preferably open source

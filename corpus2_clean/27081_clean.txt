@@ -1,1 +1,0 @@
-would like something like toexpression circleplus list element append list element desired result actual result syntax error syntax sntxf cannot followed possible workaround error make compound assignment operator work another example would like create new infix operator express apply f expr short form like f expr precisely possible valid name could use

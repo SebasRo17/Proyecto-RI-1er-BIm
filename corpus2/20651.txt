@@ -1,1 +1,0 @@
-Is there some sort of functionality built into _Mathematica_ that will let me linearly interpolate between (x, y) pairs of data in an array? Example: I have the two points (1, 10) and (2, 20), how can I find out what the interpolant at 1.5 would be?

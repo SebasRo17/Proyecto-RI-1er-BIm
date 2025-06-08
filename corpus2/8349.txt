@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Is there a way to separate variables between multiple notebooks? I assigned a global variable like `a=10;` It works in all my notebooks, but I want to restrict that global variable to that notebook only. How to do that?

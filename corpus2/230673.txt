@@ -1,0 +1,1 @@
+In terms of operating system architecture, what does a memory-clean software to get rid of all data that fill the virtual memory? I assume that it simply saves all RAM data into a file, but how does it exactly do this? What happens if you delete a file while a process that has resources on that file is executing? Hope this is not a too-broad question.

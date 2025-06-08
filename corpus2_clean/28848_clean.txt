@@ -1,1 +1,0 @@
-problem using mouseposition want restrict value returned mouseposition specific graphic object consider following example g graphic green disk g graphic blue disk g g dynamic mouseposition graphic would like mouse position updated mouse second blue disk first one green seems easy problem figure work mathematica thanks help

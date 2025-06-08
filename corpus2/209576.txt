@@ -1,0 +1,1 @@
+I've noticed that there are a lot of UIView subclasses in my legacy project. Mostly the only reason of such a subclass is to split bigger view into custom subviews and provide layout for its subviews and delegation of UIButtons actions through the view delegate protocol. So I'm wondering, is it a correct design?

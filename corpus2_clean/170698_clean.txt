@@ -1,0 +1,1 @@
+looking dropbox clone looking diagram work show cronjob used keep file sync client server mean every sec min hour cronjob run check see difference client server dropbox use cronjob happens middle syncing another cronjob run rsync additional libs know handle

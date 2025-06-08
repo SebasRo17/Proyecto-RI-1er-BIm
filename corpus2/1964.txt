@@ -1,1 +1,0 @@
-Is there another way than pressing `Ctrl`+`.` until the whole cell is selected and then pressing `Del`? If this is not built in, can I create some sort of a global macro to do this and bind it to a keyboard shortcut?

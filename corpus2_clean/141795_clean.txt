@@ -1,0 +1,1 @@
+understand role model view model view controller pattern hard time understanding controller necessary let assume creating chess program using mvc approach game state model gui view exactly controller case separate function called say click tile perform logic model view

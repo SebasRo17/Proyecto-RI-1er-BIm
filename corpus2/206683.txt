@@ -1,0 +1,1 @@
+When is it absolutely necessary for a controller to be async? Should all controllers be async or is it bad practice to make all of them async unless it is necessary. Just looking for some general guidelines.

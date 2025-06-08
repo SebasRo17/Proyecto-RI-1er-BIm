@@ -1,0 +1,1 @@
+Here's a Ruby poject that implements the middleware pattern. From the description, I have no idea what the pattern is, what it's useful for, and why other solutions wouldn't work as well. What is the middleware pattern, and what are its advantages and drawbacks?

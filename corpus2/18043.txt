@@ -1,1 +1,0 @@
-When using the default configuration of the Lightweight Grid Manager, anyone connected to the same internal network where the grid severs are can launch kernels on the grid. What possibilities are there to restrict access to the Lightweight Grid, and how can these restrictions be enabled? Is IPFiler the only way?

@@ -1,0 +1,1 @@
+I am trying to improve the speed of my coding and I was wondering what tips the pros have. Currently I tend to code about 5-10 lines of code then test and repeat. Is that typical? Or is it better to code larger blocks of code then test. I am always worried of coding a lot than realizing all the code I wrote was wrong and would have to retype.

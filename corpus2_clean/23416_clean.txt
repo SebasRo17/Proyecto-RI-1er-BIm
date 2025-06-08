@@ -1,1 +1,0 @@
-mathematica ndsolve x x x solves fine return x interpolatingfunction mathematica raise ndsolve derivs derivative dependent variable found equation ndsolve designed solve differential differential algebraic equation use nsolve findroot numerically solve algebraic equation get point maybe way restore old behavior via ndsolve option system

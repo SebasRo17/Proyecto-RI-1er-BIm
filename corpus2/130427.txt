@@ -1,0 +1,1 @@
+I am starting a new Android application. What is the best structure to use? I am planning to make it a multi-package design as follows:   1. Main package, including the Activity   2. Service and data layer   3. Entity package, including entity class. Any advice ?

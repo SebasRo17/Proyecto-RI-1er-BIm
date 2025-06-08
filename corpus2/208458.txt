@@ -1,0 +1,1 @@
+According to rules of TDD unit tests are written before production code, but what about Integration tests that exercises interaction between concrete (non mocks) wired objects?   Should they be written before unit tests or after production code just to test the "wiring" ?   Note that I'm not talking about Acceptance or functional tests but Lower level integration tests.

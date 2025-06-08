@@ -1,1 +1,0 @@
-I would like to minimize functions including the following.               NMinimize[{1 - (1 - 1/n)^x - x/n, n > x, x > 1}, {n, x}]      However _Mathematica_ complains about values not being real. How should I do this?

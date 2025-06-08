@@ -1,0 +1,1 @@
+queue library inherits turn implement call making callable call thin wrapper around bind clear done calling bind seems simple mind least clearer descriptive intent would somebody use call situation like

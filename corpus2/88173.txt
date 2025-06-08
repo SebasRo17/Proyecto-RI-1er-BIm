@@ -1,0 +1,1 @@
+I generally use cakephp but after watching some MS videos of MVC3 it seemed to go fairly quick. I understand the intellisens in VS2010 works classes and for databases. It seems like once you know the editor and framework basics this would be very handy. My question is, do things like intellisense actually speed things up noticeably?

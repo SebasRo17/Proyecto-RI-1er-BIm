@@ -1,0 +1,1 @@
+interested c performance programming one aspect really clue implication using floating point calculation v double v normal integer mathematics performance issue type calculation consider issue need considered deciding kind operator use currently know double probably expensive larger floating point next integer calculation usually fastest cpu much simpler

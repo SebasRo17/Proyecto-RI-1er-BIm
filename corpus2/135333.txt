@@ -1,0 +1,1 @@
+I have an assignment to implement a priority queue in C as well as make an app that uses it. I, however, only know basic-level C (I do know Java). My intuition says that I need to learn pointers. What other stumbling blocks should I expect or prepare for? How do I go about making this secure?

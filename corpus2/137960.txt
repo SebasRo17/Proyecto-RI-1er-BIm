@@ -1,0 +1,1 @@
+I am developing a web application in Java/J2EE, in which I have export functionality. I have used Jasper for the same. The issue is when trying to export a huge set of data it is consuming a lot of time. Is there any design approach for export functionality so that I can improve the performance? I had tried JExcel API earlier and then moved to DynamicJasper API.

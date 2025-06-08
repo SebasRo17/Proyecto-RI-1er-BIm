@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  What are the use cases for different scoping constructs? I don't understand the difference between the Matheamtica functions `Block` and `Module`. They seem to do the same thing: they both allow the definition of local variables.

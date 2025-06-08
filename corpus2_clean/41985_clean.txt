@@ -1,1 +1,0 @@
-manipulate sphericalplot n pi pi mesh none plotpoints plotrange n cant seem able make filling two sphere already tried obvious filling mathematica seem like option easy way around

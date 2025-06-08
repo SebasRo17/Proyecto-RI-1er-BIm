@@ -1,0 +1,1 @@
+application need sctp environment question sharing connection among multiple thread packet receiving tried sctp sendmsg worked without even locking thread taking care o word thread safe tested many case send see sync anyway back receiving possible create multiple thread send thread sctp descriptor start receiving message need lock ok without lock using c linux

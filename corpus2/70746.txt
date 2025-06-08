@@ -1,0 +1,1 @@
+Not to long ago I was here on stack overflow and saw this great diagram of programming languages performance comparison, and now I can't find it...   Does anyone have a similar comparison? The two I'm most interested in are PHP vs Python.

@@ -1,1 +1,0 @@
-old mathematica notebook file file version try open using mathematica linux system mathematica instantly shuts error message close however open format correctly using wolframcdfplayer copy player cell expression lot hand editing required split format cell new notebook perhaps undocumented way read import file current version mathematica would retain degree original formatting

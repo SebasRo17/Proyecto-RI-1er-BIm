@@ -1,1 +1,0 @@
-seems like simple question running difficulty mathematica right list like data want insert list element transpose look like far good unfortunately way know manually create list equal length data row also know create list row plumbed documentation tried every command think closest get either function list resembles etc

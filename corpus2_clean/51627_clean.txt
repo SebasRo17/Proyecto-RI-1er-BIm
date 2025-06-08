@@ -1,1 +1,0 @@
-two vector one containing sampled energy one energy weight e w bin energy e want compute sum weight w bin separately bin energy using binlists make plot histogram perform sum weight bin would obviously need access index bin elegant solution problem would welcome e w

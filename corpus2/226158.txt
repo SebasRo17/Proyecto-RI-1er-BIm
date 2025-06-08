@@ -1,0 +1,1 @@
+Assuming a list of elements is sorted in ascending order, we search sequentially from the first element comparing the target to successive elements either until we find the target (succeed) or until the current element is greater than the target or we reach the end of the list (fail). **Is Short Sequential Search ever more efficient than regular sequential search? If so, when?**

@@ -1,1 +1,0 @@
-I have a function               f[c_] := y^2 - 2 x^2 (x + 3) == c ((y + 1)^2 (y + 9) - x^2)      I need to find the points of intersection between the plots of f[0] and f[2]. How can I find these intersections? Also, how can I visualize the intersections of the five curves `f[-1]`, `f[0]`, `f[1]`, `f[e]`, and `f[-Pi]`?

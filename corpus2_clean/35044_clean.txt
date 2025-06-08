@@ -1,1 +1,0 @@
-imagine two list element like following listone randomreal listtwo randomreal let f x bijection one one correspondence element listone element listtwo shuffle element listone follows listone randomsample listone length listone however way perform shuffling operation preserving bijection f word shuffle element listone listtwo precisely manner

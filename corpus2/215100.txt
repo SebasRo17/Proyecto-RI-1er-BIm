@@ -1,0 +1,1 @@
+Imagine you have a login-form and it has two field :   * Username (Maximum length : 4 - digits only)   * Password (Maximum length : 4 - digits only) Is it possible to write a program to find the username and password? As I know in the worst case, we will have 100,000,000 checks. and it's crazy because it takes a very long time. So, what is your solution?

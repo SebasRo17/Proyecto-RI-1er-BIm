@@ -1,1 +1,0 @@
-set three data point want natural cubic spline function dat tried f splinefit dat cubic using another approach code get two cubic function trying verify correctness x x x x x x anyway see result intermediate result derive two cubics using mathematica tried looking documentation could make sense

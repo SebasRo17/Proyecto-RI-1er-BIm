@@ -1,0 +1,1 @@
+Should I learn Lisp as my first programming language? I have no prior experience but have heard great things about it from programming friends.

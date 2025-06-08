@@ -1,0 +1,1 @@
+let say written nifty javascript library requires jquery want host project github include jquery source project direct user download link jquery

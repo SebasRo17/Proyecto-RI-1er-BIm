@@ -1,0 +1,1 @@
+Google is well known for the ridiculous amount of C++ they've coded over the years. Correct me if I'm wrong, but a large part of Google's core search engine is written in C++, isn't it? How does one take a program written in C++ and interface it with a website? Note: I'm not looking for how Google in particular does this, just how it might be done in general.

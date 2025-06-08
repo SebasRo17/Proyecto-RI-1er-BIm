@@ -1,0 +1,1 @@
+I was reading a thread and saw this post, which says that Javascript is faster than Jquery because it uses native code. But why is the use of native code faster? Is this always the case? What impediments does Jquery have in performance?

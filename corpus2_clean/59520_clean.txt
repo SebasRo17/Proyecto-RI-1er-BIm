@@ -1,1 +1,0 @@
-suppose dataset e g histogram randomvariate poissondistribution give hspace cm enter image description change histogram variable bin size e g first six bin size last two size

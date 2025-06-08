@@ -1,1 +1,0 @@
-two sorted list one list called fence value fence could value could want partition value list using equivalence relation fence value f leq v f example would get partition partitioning quite easy using implement using loop help feel better way using inbuilt mathematica function asking anyone write algorithm suggest function aware order elegantly

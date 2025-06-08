@@ -1,0 +1,1 @@
+Generally variables are named in the singular `Car car;` and arrays and list with the pluras: `List<Car> cars;` or `Car[] cars;` But what about nouns like `fish` or `media`* that are already plural? *already lost the battle to have the class called `Medium`.

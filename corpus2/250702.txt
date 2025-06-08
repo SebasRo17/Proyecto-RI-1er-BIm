@@ -1,0 +1,1 @@
+I'm working on an open-source project and people can use it and modify it, no problems here. The only thing that I don't want to allow is that people exploit it and earn money using my work (because that's what my plans are!) What kind of license should I use to cover these requirements?

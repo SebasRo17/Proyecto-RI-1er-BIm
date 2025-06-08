@@ -1,1 +1,0 @@
-does Mathematica have built in functionality to round the coefficients of a polynomial to a certain accuracy. Say, we do               Print[0.2134320980x^2+0.0023432x]      Can we wrap a function around the expression in the print so that the output is > >     0.213x^2+0.002x >   I tried `NumberForm` but this rounds messes with the exponent. Thank you!

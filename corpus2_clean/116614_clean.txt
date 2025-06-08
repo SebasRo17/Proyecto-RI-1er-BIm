@@ -1,0 +1,1 @@
+red black tree one way implement balanced binary search tree principle behind work make sense chosen color red black opposed pair color attribute general hear red black first thing come mind le mi neither seems particularly applicable context

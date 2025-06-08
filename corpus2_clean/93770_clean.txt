@@ -1,0 +1,1 @@
+developing software often centralised core library containing handy shared referenced different project example set function manipulate string commonly used regular expression common deployment however colleague seem turning away approach concern maintenance overhead retesting used many project bug fixed reconsidering issue make using core library bad idea

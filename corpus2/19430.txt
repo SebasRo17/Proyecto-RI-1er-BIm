@@ -1,1 +1,0 @@
-Wondering whether there are discrete versions of `ArgMax` / `ArgMin`, that is, something that will find the part of an expression at which some function `f` of the elements is maximized (or minimized). `Last[Ordering[f/@list]]` and `First[Ordering[f/@list]]` will do, but the following does not work:               ArgMax[Function[i, (f/@list)[[i]]], i]

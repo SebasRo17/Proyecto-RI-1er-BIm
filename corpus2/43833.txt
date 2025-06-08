@@ -1,1 +1,0 @@
-I'm trying to write in Mathematica for a 20x20 grid, with 100 colours, with 4 neighbours. I want the initial conditions to be a 20x20 matrix consisting mainly of zeros.               CellularAutomaton[{100 (4 (100 - 1) + 1), {100, 1}, {1, 1}},      MatrixForm[Table[RandomInteger[], {20}, {20}]], 1]      Apparently init is not in the right form?

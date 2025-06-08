@@ -1,0 +1,1 @@
+sicp author state section num three basic mechanism programming language primitive expression represent simplest entity language concerned mean combination compound element built simpler one mean abstraction compound element named manipulated unit analyze mainstream programming language example term element mechanism

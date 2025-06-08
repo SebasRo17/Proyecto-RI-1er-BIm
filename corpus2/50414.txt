@@ -1,1 +1,0 @@
-If I have some asymmetric error about the central value in x and y, then how can it be propagated in a function `f[x, y, z]`? For example, given               f[x, y, z] = 2*x^2 + 3*y^3 + z       and `x = 1.2` with error (+0.4,-0.3) and `y = 2.3` with error (+0.3, -0.5), how can I plot `f` as a function of `z` showing these errors?

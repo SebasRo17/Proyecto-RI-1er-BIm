@@ -1,0 +1,1 @@
+Let's say that we have some values, represented by power of 2:               TYPE_1 = 1     TYPE_2 = 2     TYPE_3 = 4     TYPE_4 = 8     ...      I need to store some of these types in one value. Example: To represent `TYPE_1` with `TYPE_3`, the value is `5`. What operation is used to identify that value `5` represent `TYPE_1` with `TYPE_3`?

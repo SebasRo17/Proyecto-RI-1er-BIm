@@ -1,1 +1,0 @@
-I have this output for my graph.               In[85]:= PropertyList[{g, 1}]          Out[85]= {"TerminalsCoordinates", VertexCoordinates, VertexShape, VertexShapeFunction, VertexSize, VertexStyle}`      How can I extract the vertices info separately to different sets?

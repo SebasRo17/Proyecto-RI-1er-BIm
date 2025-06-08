@@ -1,0 +1,1 @@
+trying understand origin ajax think msxml xmlhttprequest object started came first became defacto way create dynamic page

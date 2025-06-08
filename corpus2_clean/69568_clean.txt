@@ -1,0 +1,1 @@
+say property starttime dosomething dosomething stuff starttime system currenttimemillis stuff test starttime assigned correctly test absolute timestamp likely change assignment test maybe use range

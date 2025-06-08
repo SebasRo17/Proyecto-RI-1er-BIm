@@ -1,0 +1,1 @@
+What visualization method would you recommend for event driven programs? Are there industry standard diagrams, such as flowcharts?

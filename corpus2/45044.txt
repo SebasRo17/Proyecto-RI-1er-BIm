@@ -1,0 +1,1 @@
+I can't help but notice the amount of design patterns that are out there. Does anyone have suggestions on an order I should learn them in? Or should I pick and choose them at random? The only one I know, so far, is singleton.

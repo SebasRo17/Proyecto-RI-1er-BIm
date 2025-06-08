@@ -1,0 +1,1 @@
+see using riak update first need load php edit store back riak database wondering way update bucket without pulling php first way would save network latency pulling php script object edited directly riak side thing edit away push end numeric make push add subject know place update ever

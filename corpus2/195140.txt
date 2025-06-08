@@ -1,0 +1,1 @@
+I know there are some products for reverse debugging. I am wondering that does reverse debugging mean going to one step back or starting over again up to one step back? I've found an explanation here.

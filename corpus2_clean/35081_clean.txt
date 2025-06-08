@@ -1,1 +1,0 @@
-appears builtin mathematica function bitwise rotation true suppose write function ror x k fromdigits rotateright integerdigits x k obviously lot inefficient builtin function machine code rotate right single instruction option

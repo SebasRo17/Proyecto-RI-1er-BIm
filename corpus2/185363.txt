@@ -1,0 +1,1 @@
+In the field of web development, is it good practice to do a POST/Redirect/GET when fields in a form submission are invalid, as well? Typically, no sensitive transaction would have taken place, in this event. However, can an argument be made that, nonetheless, it is still good practice to utilize the POST/Redirect/GET pattern?

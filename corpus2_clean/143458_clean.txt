@@ -1,0 +1,1 @@
+simple group chat system based local file storage log e g log txt developing simple group chat num user jquery ajax basically client side load log server every second need fast database system php mysql would mean mysql query every second overload server shared hosting

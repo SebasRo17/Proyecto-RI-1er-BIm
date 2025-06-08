@@ -1,0 +1,1 @@
+recently seen uris containing query parameter utf8 first impression thinking look cool could used detect broken character encoding better way resolve potential problem character encoding developer fun hack

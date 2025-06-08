@@ -1,1 +1,0 @@
-In _Mathematica 9_ , a purely imaginary number, e.g. `0.9 I`, will display as `0\. + 0.9i` in the output form. How can I eliminate the real part `0.` in the output form?

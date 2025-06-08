@@ -1,1 +1,0 @@
-calibData = { {200, 10}, {100, 20} }          MapAt[N, MapAt[Log10, calibData, {;; , 1}], {;; , 1}]      I want to apply a base 10 Log to the first element of each tuple. Then the output should be displayed as a floating point number. This bit of code does the job, but it is ugly and its hard to understand what it is doing. Is there a better way of completing this task?

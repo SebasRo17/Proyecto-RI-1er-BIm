@@ -1,1 +1,0 @@
-I have two matrices `A` and `B` of identical dimensions. What's the simplest (shortest) way to find the indices of differing elements?

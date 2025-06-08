@@ -1,1 +1,0 @@
-I noticed that Mathematica has a set of special 'Formal' characters such as `\\[FormalA]`, `\\[FormalB]` , etc.. In the front end, it looks like a character with a dot above and below. It is not clear from the build-in help files how these characters are to be used. Can anyone demonstrate?

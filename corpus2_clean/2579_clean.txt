@@ -1,1 +1,0 @@
-solving pde using mathematica would like know implement condition two variable function zero whenever tried obvious u u mathematica give following output argument ordered consistently specific solving following pde ndsolve p v q r ysol p v r ysol known function need include condition mentioned inside ndsolve

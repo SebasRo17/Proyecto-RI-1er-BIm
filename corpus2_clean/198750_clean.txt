@@ -1,0 +1,1 @@
+developing enterprise website define section like many section section many one sub page number sub page vary per section sub page longer num character also use relational database mysql doubt would better term design performance num store json sub page single column section table num create table sub page reference parent section foreign key

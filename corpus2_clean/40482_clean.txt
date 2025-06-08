@@ -1,1 +1,0 @@
-looking efficient method randomizing graph given size n node l link keeping connected assume adjacency matrix given connected graph want generate r usually big number random adjacency matrix aran aran aranr n l connected following code looking efficient one randomization q module aran length select total aran aran partition nest randomsample flatten q dimension q thanks

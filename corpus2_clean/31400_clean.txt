@@ -1,1 +1,0 @@
-evaluation automatically parallelized multithread core available example eigenvalue want evaluation automatically multithreaded want use one core

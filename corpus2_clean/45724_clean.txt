@@ -1,1 +1,0 @@
-use unitstep command piecewise function f f f tried unitstep work like want work

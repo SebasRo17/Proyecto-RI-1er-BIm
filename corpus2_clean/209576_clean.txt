@@ -1,0 +1,1 @@
+noticed lot uiview subclass legacy project mostly reason subclass split bigger view custom subviews provide layout subviews delegation action view delegate protocol wondering correct design

@@ -1,0 +1,1 @@
+see heapsort considered inplace sorting algorithm mean extra structure populated element sorted e heap used assist extraction min sorting process may misunderstanding definition inplace insertion sort example obvious inplace algorith e extra memory needed element considered inplace

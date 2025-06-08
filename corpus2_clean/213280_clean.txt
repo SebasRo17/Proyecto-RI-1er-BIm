@@ -1,0 +1,1 @@
+say method m1 m2 m3 m4 m5 m100 making another simpler b require m2 m3 m5 b ideally using composition put reference inside b delegate functionality write copy paste num num method

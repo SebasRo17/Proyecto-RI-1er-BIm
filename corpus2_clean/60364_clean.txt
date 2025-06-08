@@ -1,0 +1,1 @@
+distributed collection system first layer regional database collected initially stored master database consolidated thought schema design situation also important thing could overlapping id dictionary table shared regional db also future could need add new regional db sure start designing schema situation would like discus community

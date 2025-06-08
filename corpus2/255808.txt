@@ -1,0 +1,1 @@
+int x=2,y;     y= x++  + x-- - ++x;     printf("%d",y);      When I compiled using Turbo C++, I got 3 as the output. For the GCC compiler, I got 1 as the output. Why does the output vary?

@@ -1,0 +1,1 @@
+making pretty standard php sign form validate user entered redirect page success message would like store database insert information database redirect page redirected

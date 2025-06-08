@@ -1,1 +1,0 @@
-I want to know how can I see only the output when I deploy the `Mathematica` notebook in `Player Pro` as in `CDF Player`? I have gone through this screencast on How to Encrypt Your Code for Deployment, but I haven't understood it properly.

@@ -1,0 +1,1 @@
+What document types could be used when describing software testing automation (on any phase, automation planning, test design, implementation, reporting)? Is there any standard types of documents? If someone could provide any examples and templates for different types of documents? What is the difference between manual testing documentation and automated?

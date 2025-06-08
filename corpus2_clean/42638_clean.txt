@@ -1,1 +1,0 @@
-import data excel create gray scale image using image data real want change grayscale example use red color

@@ -1,1 +1,0 @@
-I am trying to do the summation shown below, $\sum_{i_1=0}^{imax_1} \sum_{i_2=0}^{imax_2} \dots \sum_{i_k=0}^{imax_k} f(i_1,\dots,i_k)$ $k$ is a variable. Therefore $i$ and $imax$ are defined as arrays of length $k$.               Array[i,k]     Array[imax,k]      Is there a way to accomplish this?

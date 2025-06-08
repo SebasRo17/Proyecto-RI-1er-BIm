@@ -1,1 +1,0 @@
-Consider the following image: ![Red ball in a non-red environment ](http://i.stack.imgur.com/Qr7Tx.jpg) How can I change all red colors in this image into (for example) blue.

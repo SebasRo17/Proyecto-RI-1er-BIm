@@ -1,1 +1,1 @@
-make simple graphic following image figure know simply sphere circle several joining line dont know make simple one use parametricplot draw sphere co u co v co u sin v sin u pi leq u v leq pi circular orbit taken intersection sphere twice radius plane z x z simplify figure e making sphere transparent data put inside etc
+many way exit program c returning zero using exit exit success exit failure exit num exit num abort probably think question option best asking every time asked experienced programmer question ended holy war

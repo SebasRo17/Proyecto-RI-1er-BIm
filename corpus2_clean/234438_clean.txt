@@ -1,0 +1,1 @@
+model source mysql database using load public collection model model call load individually meaning multiple query executed slow inefficient something like populate model called controller mvc fill model mysql query efficient possible better way worried load model outside model leaving proper encapsulation behind bloating nearly quite

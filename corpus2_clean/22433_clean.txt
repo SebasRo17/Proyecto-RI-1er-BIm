@@ -1,1 +1,0 @@
-run program run external program return return code import program string run program return output string get output return code need cross platform solution would nice strictly necessary get stderr need j link achieve

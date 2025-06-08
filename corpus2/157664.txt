@@ -1,0 +1,1 @@
+When I was trying to understand database design databaseanswers.org was phenomenal. Now I'm trying to understand the Spring Framework and I'd like to know if there are any sites out there that have domain models already created that I could use as a basis for learning Spring.

@@ -1,1 +1,0 @@
-list b want insert element list clearall n n n unequal n b n insert b n b n n expect get b however get error part partw part exist part partw part exist

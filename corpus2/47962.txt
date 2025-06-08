@@ -1,1 +1,0 @@
-Is there any way to use _Mathematica_ to test whether a function is continuous over a given domain?

@@ -1,1 +1,0 @@
-would like define real vector say v x z want fixed norm necessarily unit norm would like impose condition vector v start using v calculation particular want mathematica insert x z constant calculation using solve fullsimplify used x z constant simply evaluates result given constant way impose condition calculation

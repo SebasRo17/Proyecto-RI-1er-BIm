@@ -1,1 +1,0 @@
-How can I determine convexity of the function `f = Log[ x, 1 + (x^a - 1) (x^b - 1)/(x - 1)]` with the parameters $a,\,b$ belonging to the interval $(0,1)$ in _Mathematica_?

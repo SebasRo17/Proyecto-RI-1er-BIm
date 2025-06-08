@@ -1,0 +1,1 @@
+reading blog post liked idea using dto entity using property corresponding business like public person public persondto get set also eliminate need mapping tool like automapper mapping poco dto thinking using concept app app layered using straight assembly web service rest wcf call disadvantage using concept

@@ -1,1 +1,0 @@
-I have Polynomial $F(x) = \sum_{i \leq n}{a_ix^i}$. How to get the first $a_i > 0$? Thanks,

@@ -1,1 +1,0 @@
-I would like to get input from an interactive dialog that uses `Manipulate[]`. But I find that my `Manipulate[]` breaks when I put it inside a `DialogInput[]`. So, when I try `DialogInput[Manipulate[Plot[Sin[e x], {x, 0, 2 \[Pi]}], {e, 1, 10}]]` the plot inside the dialog is not connected to the `Manipulate[]` slider. What am I missing here?

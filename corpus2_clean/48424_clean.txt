@@ -1,1 +1,0 @@
-create statement expr imin imax way make statement evaluate imax imin instead imin imax

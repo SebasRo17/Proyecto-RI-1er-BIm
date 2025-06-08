@@ -1,0 +1,1 @@
+working project around hundred different file cpp h requires around hour build entire project msvc num suppose make change one file need build entire project right beginning way know noob like wasting lot time hence wondering

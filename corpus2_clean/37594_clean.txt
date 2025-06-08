@@ -1,1 +1,0 @@
-set data like x x xn yn data find value x maximum possible using mathemamtica

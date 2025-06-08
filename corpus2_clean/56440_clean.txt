@@ -1,1 +1,0 @@
-would like expand frac x frac x frac x frac x x left frac x frac x frac x cdots right x frac x frac x cdots however tried series x x work x x series x expand x end x left frac x frac x frac x cdots right cannot expanded break bracket arrive x frac x frac x cdots

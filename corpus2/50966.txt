@@ -1,1 +1,0 @@
-I want the little vertical line which indicate the coordinate of the system in plot bigger. For example, in the picture below I marked those lines I am talking about with a blue rectangle. How can I make all such a indicators bigger? ![enter image description here](http://i.stack.imgur.com/zxPta.jpg)

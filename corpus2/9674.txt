@@ -1,1 +1,0 @@
-For example, if I were to do a plot of `Sin[x]`, I would get what looks like a Log plot of `Sin[x]`, with another log plot of `-Sin[x]` that has been flipped upside down and placed underneath the first one, in this way, the plot is logarithmic in distance from the x-axis, and can show both positive and negative values.

@@ -1,0 +1,1 @@
+I've seen a lot of other framework/library developers throw the phrase 'we write opinionated software' around, but in practical terms, what does that really mean? Does it mean that the author of the 'Opinionated Framework X' says that because they write code a certain way, you should be writing the same type of code that they write? Isn't that a bit pretentious?

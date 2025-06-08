@@ -1,0 +1,1 @@
+I think I remember reading somewhere that one of the principles of good OO design is to write methods which take the least derived type possible, but return the most derived type possible? First, is there such a principle and second, what name would it go by? I'm looking for the name so that when I mentor other developers I can refer them to it.

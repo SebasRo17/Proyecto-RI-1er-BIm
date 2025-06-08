@@ -1,1 +1,0 @@
-The problem I'm facing is how to adapt `ColorFunction` so that it ranges from green (low values) to red (high values):               ArrayPlot[{a1, a2, a3, a4, a5}, ColorFunction -> (* ??? *)]

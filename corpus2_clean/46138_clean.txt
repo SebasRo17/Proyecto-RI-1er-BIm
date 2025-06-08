@@ -1,1 +1,0 @@
-starting using mathematica two coupled differential equation using ndsolve output form interpolating function want plot square modulus one two solution several trial plot still empty want know work function sol ndsolve v exp w v exp w interpolatingfunction interpolatingfunction f interpolatingfunction f conjugate fun complexexpand f fun gun plot f fun f gun f

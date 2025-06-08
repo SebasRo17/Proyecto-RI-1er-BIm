@@ -1,1 +1,0 @@
-Mathematica uses a very thin, translucent cursor in Input style cells. But in text style cells Mathematica uses a cursor theme from Windows. How do I make the cursor visible as normal? photos of display: ![enter image description here](http://i.stack.imgur.com/0P0DW.jpg) ![enter image description here](http://i.stack.imgur.com/PoL9N.jpg)

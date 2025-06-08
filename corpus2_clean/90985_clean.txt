@@ -1,0 +1,1 @@
+multiple client modify db need notified db change occurs work implemented application thread poll db every second strike good way wondering people usually handle

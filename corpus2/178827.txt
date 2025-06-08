@@ -1,0 +1,1 @@
+And how does it (or does not) correspond to "polymorphic"? Occasionally I see this notion like in: Implement and represent polyadic operations. I checked Wiktionary but it only gives a general meaning, not specific to functional programming.

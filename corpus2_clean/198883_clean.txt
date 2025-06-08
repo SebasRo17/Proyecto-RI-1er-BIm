@@ -1,0 +1,1 @@
+considering option designing system accepts file different system applies transformation multiple file produce file downstream system transformation per record transformation e g need read record search file another record matching pattern given field first record thinking spring batch asked consider option also kindly help pointer thing consider designing evaluating option

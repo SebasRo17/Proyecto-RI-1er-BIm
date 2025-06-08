@@ -1,0 +1,1 @@
+read liskov substitution principle violated num pre condition strengthened num post condition eased get fully yet two point would violate liskov substitution principle one please explain example specifically would one condition cause situation subclass substituted superclass

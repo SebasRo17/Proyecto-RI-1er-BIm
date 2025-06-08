@@ -1,1 +1,0 @@
-I am working on a problem of the calculus of variations. From the Variational Methods package, I can very conveniently use `EulerEquations` to get stationarity conditions in the form of Euler-Lagrange equations for my problem. Is there also a way to obtain expressions for the natural boundary conditions that are involved in making the functional stationary?

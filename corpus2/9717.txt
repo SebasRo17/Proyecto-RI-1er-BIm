@@ -1,1 +1,0 @@
-I have some elements in a `Grid`. I want to change their positions within that `Grid`. Can I swap their positions just by dragging cursor on to them? For example                      Grid[{{1, 2, 5, 7, 9}, {3, 4, 8, 4, 2}, {5, 12, 7, 3, 8}}]      I want to swap positions of 8 and 2 in drag&drop fahion. Is it possible?

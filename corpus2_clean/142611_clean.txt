@@ -1,0 +1,1 @@
+azure service web role heavily depends database offline development testing like app db offline within emulator running within emulator straightforward azure sql simplest way ensure cloud azure sql database emulator local azure sql database sync afford level staleness simplicity sync operation meaning ok local copy hour stale versus mirroring every write soon happens thanks

@@ -1,1 +1,0 @@
-make function split list element odd even position shortest implementation win came splitodds x extract x transpose gatherby range length x oddq splitodds x flatten partition x rest x splitodds b c e f c e b f

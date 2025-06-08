@@ -1,1 +1,0 @@
-suppose sqrt co u le u le pi le co frac sqrt le pi le frac sqrt le mathbb r iterated integral g p le p sqrt co u le int int co frac sqrt frac e pi mathrm u mathrm mathematica code integrate e pi u arccos assumption u pi arccos element real integrate assumption arccos element real mathematica never seems finish evaluating second one abort way find function g cdf

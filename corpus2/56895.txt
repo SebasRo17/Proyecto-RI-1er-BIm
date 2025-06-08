@@ -1,1 +1,0 @@
-I made the button below for launching an `Animate`, but it doesn't work at all! Why?               Button["Plot", Animate[Plot[k x, {x, 0, 3}], {k, -2, 2}]]      Thanks in advance.

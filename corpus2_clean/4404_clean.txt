@@ -1,1 +1,0 @@
-using mathematica strangely enough code maximize x x x x integer produce result x seems odds actual answer x anyone know intended behavior mistake

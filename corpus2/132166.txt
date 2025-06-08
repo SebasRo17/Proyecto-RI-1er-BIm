@@ -1,0 +1,1 @@
+So far I have been implementing MVVM in my silverlight app pretty well, I just had one question. I have a few User Controls that I made and was wondering if they should be placed in the Views folder or in a seperate folder call UserControls. Is a user control considered a view?

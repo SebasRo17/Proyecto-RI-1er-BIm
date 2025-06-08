@@ -1,0 +1,1 @@
+learning haskell exercise making binary tree made regular binary tree want adapt self balancing efficient easiest implement often used crucially recommend assume belongs open debate

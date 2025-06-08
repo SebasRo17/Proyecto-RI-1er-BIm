@@ -1,1 +1,0 @@
-user defined function called many time code want ask deploying code cdf need define user defined function also tried using dynamicmodule none working give user defined function deployed cdf

@@ -1,0 +1,1 @@
+I am interested in multicore programming at the kernel level. I expect this affects many areas and is probably different for each architecture. What are some must read sections of the kernel? If I wanted to compare and contrast code for an Intel I7 and an ARM Cortex-A9 MPCore where would I find the differences?

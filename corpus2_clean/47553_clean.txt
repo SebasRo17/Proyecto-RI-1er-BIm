@@ -1,1 +1,0 @@
-mathematica help written listdensityplot array generates smooth density plot array value also example listdensityplot mesh enter image description understand input form x f x function really cannot understand function array input

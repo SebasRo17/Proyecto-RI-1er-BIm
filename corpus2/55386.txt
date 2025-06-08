@@ -1,1 +1,0 @@
-How to sort a list, e.g.               RandomInteger[{0, 100}, 50]      that the Maximum is in the center and all other elements are placed symetrically in descending order around the center?

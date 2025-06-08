@@ -1,0 +1,1 @@
+reading enumerable module ruby contains method follow pattern enum foo n obj block nil enum foo n enumerator say seem iterator chained nothing otherwise reasoning behind taking approach instead returning sequence asking general reasoning approach necessarily use ruby

@@ -1,0 +1,1 @@
+general question database usually use term collation database would like know different character set guess collation subset character set purpose multiple collation character set

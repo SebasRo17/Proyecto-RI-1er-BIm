@@ -1,1 +1,0 @@
-An old notebook I've recently started working with has a strange error: Prior to version 8, a figure I generated using `Drop[AstronomicalData["Planet"],-1]` to display all of the currently recognized planets, along with some other data, worked fine, but in version 8, Neptune is missing. Is this a bug in 8, or am I missing something?

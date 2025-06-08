@@ -1,1 +1,0 @@
-understanding linear interpolation especially newton divided difference polynomial could get value f x given set coordinate would possible x value expression like x constant value know get correct understanding nddp linear interpolation correctly given scenario given set coordinate would find value x x x integer constant plane x x x x x

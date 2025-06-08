@@ -1,0 +1,1 @@
+I am using egrep to search our codebase, but at around 300MB of source code that starts to get a little slow. How do you search your codebase?

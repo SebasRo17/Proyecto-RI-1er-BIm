@@ -1,1 +1,0 @@
-like this: ![enter image description here](http://i.stack.imgur.com/3E6A8.jpg) I know join[...] works, but it is a bit troublesome for multiple matrices.I tried DiagonalMatrix[...], but DiagonalMatrix can only form matrix from a list of elements.

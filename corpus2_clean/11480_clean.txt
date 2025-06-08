@@ -1,1 +1,0 @@
-trying visualize visible spectrum using built colordata visiblespectrum function color based light wavelength nanometer get wrong result well known pure color example yellow color wavelength nm colordata visiblespectrum return green screenshot bug visualize visible spectrum mathematica correctly

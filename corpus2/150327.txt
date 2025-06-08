@@ -1,0 +1,1 @@
+When I read the book Effective Java chapter 4, I met some sentences but I can't think them out :   1. What is the implementation when designing a class , why subclass will rely on the implementation detail of superclass?   2. Why will inheritance break encapsulation?

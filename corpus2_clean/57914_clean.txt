@@ -1,1 +1,0 @@
-following code show red area defined inequality clearall global p reduce x x x r regionplot p x gridlines table table j j plotstyle directive opacity red bg graphic opacity yellow rectangle range first difference plotrange option r target show r bg aspectratio last range first range target show enter image description count integer grid highlight colored dot

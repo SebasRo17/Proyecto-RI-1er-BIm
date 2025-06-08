@@ -1,1 +1,0 @@
-would like read really large text file gb mathematica structure file first row first column text e string rest number possible take advantage make import faster currently import file txt table take long time would like output list returned previously mentioned import command thanks help

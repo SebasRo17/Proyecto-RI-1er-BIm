@@ -1,1 +1,0 @@
-date list want plot many date monday tuesday etc using data tally dayofweek data get something like tuesday monday sunday saturday friday thursday wednesday want plot list using barchart two problem data sorted day week day may appear data

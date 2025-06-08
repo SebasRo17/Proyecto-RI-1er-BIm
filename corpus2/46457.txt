@@ -1,1 +1,0 @@
-From `NDSolve`, I got this:               {{a1 -> InterpolatingFunction[{{0., 40.}}, "<>"]}}      What would be a sensible approach to getting the complex conjugate of this function, particularly bearing in mind that we might have to deal with derivatives higher than the zeroth and that the (possibly nonuniform) sampling of the interpolation should be respected?

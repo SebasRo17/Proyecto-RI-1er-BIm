@@ -1,1 +1,1 @@
-I would like to use the elements of `Subsets` in a `Do` loop. I have:               w = Subsets[{3, 4, 5, 6}, {2}]      which yields: > {{3, 4}, {3, 5}, {3, 6}, {4, 5}, {4, 6}, {5, 6}} Now I want to use these ordered pairs in a `Do` loop. For example:               Do[ma[i]+mb[j],{i,...},{j,...}]      where `{i,j}` should be only these ordered pairs.
+After working out a project, it might require too much tweaks and changes to get it working right... What can I do to prevent this?

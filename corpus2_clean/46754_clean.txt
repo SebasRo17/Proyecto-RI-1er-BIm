@@ -1,1 +1,0 @@
-graphing sequence p k frac c dp k b need know graph function automatically plug previous term p k coefficient choosing let say b c number arbitrary whole point want find coefficient make oscillate

@@ -1,0 +1,1 @@
+I am writing a non-web application (written in java) which will allocate cloud resources. I want to make it compatible with as many providers as possible. Is it wise to use OCCI interface? Will it be too complicated?

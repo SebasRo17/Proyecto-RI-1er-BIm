@@ -1,1 +1,0 @@
-running mathematica suppose plot sin x x frame plot using frame true plot sin x x plotrange frame true plot suppose would like horizontal axis tick every tick labeled every way frameticks seemed possibility used range bottom horizontal axis specification lost non labeled tick every plot sin x x plotrange frame true frameticks automatic automatic range automatic plot thanks time

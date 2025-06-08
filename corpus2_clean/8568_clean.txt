@@ -1,1 +1,0 @@
-following code selects special element list thelist notthis select thelist want function take list like thelist string like argument however problem select already us abstract function naive idea sel select sel thelist work really function command problem might appear select abstract function nesting construct object need

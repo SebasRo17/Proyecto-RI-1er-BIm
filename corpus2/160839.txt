@@ -1,0 +1,1 @@
+I have to extend a web application for a customer, there is no documentation of the current app, no analysis and even worse, there is no technical support or management. The client gives me a list of his expectations and nothing more. What's best practice to begin such a project?

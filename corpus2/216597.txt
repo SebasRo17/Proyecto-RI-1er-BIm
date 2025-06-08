@@ -1,0 +1,1 @@
+Can anyone explain me what byte stream actually contains? Does it contain bytes (hex data) or binary data or english letters only? I am also confused about the term "raw data". If someone asked me to "reverse the 4 byte data", then what should I assume the data is hex code or binary code?

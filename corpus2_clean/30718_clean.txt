@@ -1,1 +1,0 @@
-function nest must store temporary value memory somewhere value would form entry list returned equivalent nestlist function anyone know way access said value interrupted evaluation using kernel subsession alternatively way know temporary variable currently use print value

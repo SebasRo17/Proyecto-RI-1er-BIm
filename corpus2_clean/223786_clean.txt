@@ -1,0 +1,1 @@
+html5 javascript web site form update json page would like load json dynamically know via tomcat jsp like keep site solely apache2 way persist read json ok temporal lost upon apache2 bounce

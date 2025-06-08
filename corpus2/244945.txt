@@ -1,0 +1,1 @@
+I was reading through the documentation for Bower here and I read this line: "The .bowerrc file should be a sibling of your project's bower.json." What does that mean exactly? Searching Google returned questions of people asking how to find siblings, but not what they actually are.

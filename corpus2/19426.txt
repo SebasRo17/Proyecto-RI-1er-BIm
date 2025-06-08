@@ -1,1 +1,0 @@
-I have a large text file of a million sections. Each section contains A lines of header and B lines of numeric data. I want to read the first and last line of B from each section (to have a list of 2 x million lines at the end). `Import` doesn't work since my file is too big to be read into memory. Is there a command like scan and filter for this?

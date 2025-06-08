@@ -1,0 +1,1 @@
+still working template based xml editing program gui based xml editor allows user add certain tag attribute based requirement see current version idea like allow user upload template concerned potential xss hack currently template file javascript literal notation unsurprisingly security nightmare user upload thinking using xml instead even better alternative

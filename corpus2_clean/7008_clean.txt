@@ -1,1 +1,1 @@
-trying format text based pattern clear highlight setattributes highlight holdall highlight pattern style string row list stringreplace pattern style work fine dandy match found foo bar baz highlight foo style red match found fu bar baz highlight foo style red row fu bar baz failure match left u ugly row bit trouble fixing case perhaps help
+different type security exist implemented example sql injection prevention

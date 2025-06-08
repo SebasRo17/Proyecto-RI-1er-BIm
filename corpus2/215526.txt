@@ -1,0 +1,1 @@
+Earlier today I created two mutually dependent, implicitly linked DLLs just to see if this was possible: http://i.imgur.com/GMACpnC.jpg I am just curious; in general, what advantages might this kind of mutual dependency have?

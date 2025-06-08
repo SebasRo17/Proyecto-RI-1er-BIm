@@ -1,1 +1,0 @@
-I have a function $\phi(t)$ and I want to define a function $\phi D(t,r):=\phi^{(r)}(t)$, in other words evaluate the $r$'th derivative of $\phi$ at $t$. The naive code that I have is: `phiD[t_, r_] = D[phi[t], {t, r}]` which doesn't work, because Mathematica doesn't know to evaluate the $r$ part first and then the $t$ part. What's the easiest way to implement this?

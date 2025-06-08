@@ -1,0 +1,1 @@
+game making add event like pre character movement post character movement exactly future creating handle arbitrary event name one trade offs imagine potential clash event name easily handled namespacing name event prefixing something benefit fewer object hanging around service container

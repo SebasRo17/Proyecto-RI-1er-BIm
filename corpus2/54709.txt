@@ -1,1 +1,0 @@
-CreateDocument[{}, WindowSize -> {100, 100}]       always centers the new window.

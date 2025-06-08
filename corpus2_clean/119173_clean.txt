@@ -1,0 +1,1 @@
+system several utility class people team use static method private constructor others use b static method junior analysis b raise warning recommends marking sealed included msdn documentation following advice targeting net framework num earlier better approach mark static make sense would thought opposite afaik previous num way mark static

@@ -1,1 +1,0 @@
-using mathematica problem plotlengends particular g listplot plotstyle dashing large plotlegends dashed joined true g listplot joined true plotstyle dotted plotlegends dot show g g enter image description see problem looking lengends way tell curve coresponds one legend instance dash curve coresponds top legend bottom legend changing color work plot black white please help

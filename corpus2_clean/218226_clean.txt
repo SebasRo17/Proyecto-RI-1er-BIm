@@ -1,0 +1,1 @@
+creating application legacy using angularjs wonder part moved directive example ii thought moving table used multiple time across application directive table alter heading size worth effort even good practice turn thing directive create table unique way

@@ -1,1 +1,0 @@
-When printing (file->print...) there's the possibility of printing just the current selection. This is useful for printing just a couple of cells, or some chapters. The file menu also has Print Preview, but with no options. Is there a way of making a print preview of a selection?

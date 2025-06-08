@@ -1,1 +1,0 @@
-let say list pattern p holdpattern f x x holdpattern f b b holdpattern f holdpattern f x x elegant way add another pattern list removing duplicate example let say add f c code f b mapped duplicate f

@@ -1,0 +1,1 @@
+using framework like angularjs backbone j bootstrap foundation etc automatically make web application mobile device compatible framework design approach make application new existing mobile compatible put simply framework guideline library use jee web application ui layer making automatically compatible computer browser mobile device io phone ipad android phone whole

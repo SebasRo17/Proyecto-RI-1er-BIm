@@ -1,0 +1,1 @@
+performance issue rail num num application done change query ar view still take many time render divided view loop many partial rendered dynamically inside view inside partial bad practice large number partial reduce number partial improve view rendering time thanks

@@ -1,1 +1,0 @@
-`Simplify` and `FullSimplify` do not simplify this kind of expression: $(r^\frac{1}{x})^x$. Consider               FullSimplify[r^2+(r^(2/x))^x+(r^(2/(x+y)))^(x+y)]      _Mathematica_ 's output is the same as my input, instead of `3 r^2`. Is there a way to simplify $(r^\frac{1}{x})^x$ to $r$?

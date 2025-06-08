@@ -1,0 +1,1 @@
+development developer copy database work common shared development database former give developer flexibility ex regression test development unit testing without worrying corrupting developer however difficult maintain database latter easier maintain less integration overhead everyone working schema requires effort ensure developer careful make change impact others

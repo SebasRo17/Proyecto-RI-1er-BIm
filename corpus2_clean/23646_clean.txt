@@ -1,1 +1,0 @@
-anyone tried access amazon aws api mathematica assuming http webservice module mathematica would starting point suggestion getting started would welcome

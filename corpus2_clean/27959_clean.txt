@@ -1,1 +1,0 @@
-say integer one line command create partition k integer difference two integer small possible example k would create partition however k might partition better partial solution course write k balancedpartition array floor k k balancedpartition k k floor k balancedpartition

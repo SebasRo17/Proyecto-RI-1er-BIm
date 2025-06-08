@@ -1,0 +1,1 @@
+With todays browser extensions/tools is it not easily possible for a user to edit the html/css settings of a website and so enable some disabled buttons etc... to gain access to not permitted areas?

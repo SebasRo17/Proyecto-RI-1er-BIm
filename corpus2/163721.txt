@@ -1,0 +1,1 @@
+I have a program that i need to do. I know what the program should do, but i dont know how to approach making it What is the best way to arrange my ideas and thoughts, layout the what the program should do, aproach doing it correctly and transform my thoughts and ideas into code?

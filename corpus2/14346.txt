@@ -1,1 +1,0 @@
-I am trying to get                  s[n_]:=Sum[1/2^k,{k,1,n}]      to show me the actual terms involved in the $n$th partial sum and not just the sum itself. I've tried `Expand`, `Apart`, etc. to no avail. Ideas? Edit based on early comments: Is it necessary to use `Table` to accomplish this rather than some algebraic command applied to `s[n]` or some option of `Sum`?

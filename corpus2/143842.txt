@@ -1,0 +1,1 @@
+* Is it considered bad form? Maybe it promotes non-separate model / view?   * Is it inefficient?   * Was it just left out? I guess every language has features that certain developers wish were there, and not every language can have everything. I've just always found this feature to be pretty handy. Why does .Net not have a here document syntax?

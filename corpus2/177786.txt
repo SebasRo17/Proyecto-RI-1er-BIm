@@ -1,0 +1,1 @@
+I understand that User Stories dominate the agile world, but how are these artifacts stored, so that new developers who join the team can come up to speed with the requirements? What if the User Story changes later, how is it updated and kept as an artifact? I've seen many teams just open a new ticket/feature request/bug report instead of keeping track of the original story.

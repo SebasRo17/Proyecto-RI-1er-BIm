@@ -1,0 +1,1 @@
+Sometimes I think it's useful to cite a webpage ( _e.g._ Stack Overflow questions) to justify and explain a piece of code. Is this considered bad practice?

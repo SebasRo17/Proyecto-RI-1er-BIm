@@ -1,0 +1,1 @@
+When and how did this process of prefixing css with vendor specific prefix begin. Which browser/org start this and why was this started. I searched the web but found no details on this.

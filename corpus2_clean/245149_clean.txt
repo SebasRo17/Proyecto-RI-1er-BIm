@@ -1,0 +1,1 @@
+pthread semaphore example seen protect sem post call pthread mutex lock sem wait left unprotected seems sem wait also protected fashion though blocking call would lock mutex permanently missing

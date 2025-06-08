@@ -1,1 +1,0 @@
-How can I increase the number of significant digits in Mathematica? When I import a matrix, an element like 112.5276 is rounded to 112.528. I would like to increase the number of significant digits globally.

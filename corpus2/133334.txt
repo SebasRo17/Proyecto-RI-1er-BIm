@@ -1,0 +1,1 @@
+I am developing a mobile web application that may be browsed in an iPhone. I would like to test this application, but I lack a mobile web device. How can I test this mobile application on a Windows 7 PC?

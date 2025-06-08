@@ -1,0 +1,1 @@
+Does anyone have experience with NoSQL databases (CouchDB, MongoDB, Google's BigTable, Dynamo, Cassandra...)? What was it like? Was it actual production/on the job experience? What will happen to the relational databases in 5 years? 10 years?

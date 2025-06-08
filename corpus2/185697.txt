@@ -1,0 +1,1 @@
+I've been toying around with Ruby lately and I found myself wondering if in pure object oriented languages (and even those that are not pure) making methods that take only one parameter and then get chained together is equivalent to currying in languages with a functional style? If not, why not? I'd appreciate a detailed, even rigorous answer on the subject.

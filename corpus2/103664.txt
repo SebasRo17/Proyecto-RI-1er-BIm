@@ -1,0 +1,1 @@
+I know quite a lot about C++ but I know very little about .NET. I would like to broaden my horizons. Is there a book out there that's the de-facto standard for describing best practices, design methodologies, and other helpful information on C++/CLI (preferably with information about .NET in general as well)? What about that book makes it special?

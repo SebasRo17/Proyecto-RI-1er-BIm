@@ -1,0 +1,1 @@
+learning objective c noting different book example use differing convention location star naming reference variable mytype x mytype mytype z also work see first two used interchangeably sometimes seen differing us one format easier read easier maintain less prone format simply matter personal preference

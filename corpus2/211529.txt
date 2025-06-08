@@ -1,0 +1,1 @@
+My module has no dependency on its own but for running tests you need to install `jasmine-node` module. Should I include that module as a dependency?

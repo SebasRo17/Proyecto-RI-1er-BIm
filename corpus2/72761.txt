@@ -1,0 +1,1 @@
+Basically how do you find out which could be your worst or best case and any other "edge" cases you might have BEFORE having them and so, how do you prepare your code for them?

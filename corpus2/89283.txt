@@ -1,0 +1,1 @@
+I hear people talking about the "Sun defect", often giving the whole mess around logging as an example. How is it different from the not-invented-here syndrome, which means uselessly duplicating existing work?

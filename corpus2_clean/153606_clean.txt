@@ -1,0 +1,1 @@
+currently store point three float lat lon alt support one query point within given radius look forward support query using php mysql benefit using type

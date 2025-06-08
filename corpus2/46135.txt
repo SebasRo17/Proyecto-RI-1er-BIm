@@ -1,1 +1,0 @@
-I want to output in `MatrixForm` whenever I have a list/vector/matrix, but I do not want to have to type out the command each time. How can I write one command at the beginning of the notebook so that all output is so formatted? (Also: generalization to any formatting would be better, with additional specific detail included for this case.)

@@ -1,1 +1,0 @@
-explain result two functins input myperiodic func val symbol min numberq max numberq func val mod val min max min min plot myperiodic evaluate input f f f plot f evaluate explain

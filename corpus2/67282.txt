@@ -1,0 +1,1 @@
+I've done a google search on both of them, can't find much information. I was wondering what is a logical subsystem and physical subsystem (in an object-oriented system)? Also why would it be useful to keep the two separated?

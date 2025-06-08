@@ -1,0 +1,1 @@
+I am looking for a ClickOnce analog on Windows platform. I have to deploy (publish) a .NET WinForms application (thick client) for N-tier system via web.

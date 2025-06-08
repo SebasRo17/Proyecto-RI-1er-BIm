@@ -1,1 +1,0 @@
-I'm trying to evaluate a simple expression:               Subscript[λ, n] = (2 n - 1) π/(2 L);      And then sum it up:               Sum[Subscript[λ, n], {n, 1, 3}]      The result is: > >     π/(2 L) + Subscript[λ, 2] + Subscript[λ, 3] >   How can i get _Mathematica_ to write the second and third term in the same way as the first?

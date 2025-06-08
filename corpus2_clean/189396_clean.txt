@@ -1,0 +1,1 @@
+question hashmaps hashmap slot need map n item n collision sure assuming simple uniform hashing assumption mean maximum amount collision spot load factor right load factor n load factor probably going decimal mean ceiling n n num num load factor num ceiling num mean maximum collision one spot num right

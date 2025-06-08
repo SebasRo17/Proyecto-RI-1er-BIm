@@ -1,0 +1,1 @@
+answering question order parameter struck strcpy family wrong way round copy src destination historical architectural reason dest src order c function something optimization stack pdp num something

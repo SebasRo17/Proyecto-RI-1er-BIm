@@ -1,1 +1,0 @@
-running webmathematica server running mathematica getting weird stuff log specifically keep getting following message general pool request background input msp utility destroyrequest generated message remove rmnsm symbol matching global interfaceenvironment find documentation possible user created symbol seeing think unlikely error something worry

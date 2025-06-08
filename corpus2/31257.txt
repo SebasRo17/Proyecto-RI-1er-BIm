@@ -1,1 +1,0 @@
-I am trying to plot **wind rose** in _Mathematica_ , but have no idea how to do this. ![Plot](http://i.stack.imgur.com/wlLbu.jpg) Any suggestions ?

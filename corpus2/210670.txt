@@ -1,0 +1,1 @@
+When modeling a chat, should a chat object receive messages or a message be sent to a chat object? I'm not sure whether there is a definitive answer but maybe someone can point out benefits of one over the other. ` message.send(chat); ` VS. ` chat.sendMessage(message); `

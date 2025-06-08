@@ -1,1 +1,0 @@
-I have a long list of coordinates defined in some 8D space. I need to extract the first three coordinates only. How ? For example :               coords = {{0.1, 0.4, -0.2, 1.2, 3.2, 0.5, 0.8, 2.2}, ...};      I need to define the list of all first three components :               reducedCoords := {{0.1, 0.4, -0.2}, ...}      Please, notice that I'm working with _Mathematica 7_.

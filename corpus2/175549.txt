@@ -1,0 +1,1 @@
+I am confused which approach to choose - Poll (which waste battery), GCM or any other approach which suits best? **Scenario is:** my client is **Android** and server is **C#.Net**. Server sends Invitation to client. Server can choose whom to send (Regionwise, Particular, To All). Client can accept or reject the invitation.which sends result back to server

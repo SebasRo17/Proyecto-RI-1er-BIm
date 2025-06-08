@@ -1,1 +1,0 @@
-I'm solving a differential equation numerically by               NDSolve[{p'[r] == -function[r,p[r]], p[0] == pcenter}, p,{r, 0, rmax}]      with function>0. At some r, p[r] becomes negative. I want NDSolve to stop as soon as this happens and save the value of r. Any ideas how to do this?

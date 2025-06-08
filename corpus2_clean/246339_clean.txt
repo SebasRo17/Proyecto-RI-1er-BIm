@@ -1,0 +1,1 @@
+best practice come view translation mvc design pattern multilingual website num always one view file translate particular string framework translation num always many view website support directly translated one language let framework internals load particular language specific view file language currently selected user two option use third one

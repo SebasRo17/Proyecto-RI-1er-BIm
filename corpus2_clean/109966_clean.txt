@@ -1,0 +1,1 @@
+basically application search request result backend via long polling connects backend collect result num m sends back client simplifying thing bit course optimized noticed growing divide user search night v user search day namely user search night much slower user search day due fact user mostly international higher latency good high level approach speeding thing user

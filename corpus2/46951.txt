@@ -1,1 +1,0 @@
-Per the title, why is evaluation done using just the Enter key for Macintosh and shift+Enter for Windows? UPDATE Okay, I see the Mac keyboard's "Enter" key is actually labeled "Return", so by Enter we mean the numeric keypad Enter.

@@ -1,1 +1,0 @@
-consider situation function f mm q nintegrate q x tanh x coth q sqrt x mm sqrt x mm coth x x x tan sqrt mm plot f mm mm mathematica graphic looking graph clear function root range mm unable use root finding command get number working also vertical line mathematica plotting

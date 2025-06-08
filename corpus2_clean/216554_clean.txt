@@ -1,0 +1,1 @@
+reactive programming model perfectly suited address change propagation required transaction processing server receives change insert update delete request key approach borrows heavily domain driven design provide declarative domain logic differ functional programming approach

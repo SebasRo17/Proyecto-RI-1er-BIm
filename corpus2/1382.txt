@@ -1,1 +1,0 @@
-Is there any way to get gestures (e.g. trackpad- or Magic-Mouse-swiping left/right) to work for navigating forward and backward in the _Mathematica_ help browser, particularly on a Mac? If not, what are the keyboard shortcuts to navigate forward and backward?

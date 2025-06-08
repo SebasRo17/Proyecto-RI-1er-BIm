@@ -1,0 +1,1 @@
+developing web app already used jquery jquery mobile plug in app want include bootstrap wanted ask possibility bootstrap conflict jquery jquery mobile better prepared conflict

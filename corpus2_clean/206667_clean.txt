@@ -1,0 +1,1 @@
+solution dataservice project business logic project entity model represent database table belong first thought putting dataservice layer would need duplicate model business logic layer wanted provide reusable logic dealing dependant database putting model business logic project would force dataservice layer dependant core project

@@ -1,0 +1,1 @@
+use entity framework often one area confusion would like understand better wanted navigation property entity public virtual exampleobject example get set also done thing id property public get set creates fk omit functionality fk seems created anyway reason additional field

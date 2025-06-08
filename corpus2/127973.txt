@@ -1,0 +1,1 @@
+Knowing that Youtube uses Adobe Flash which is compiled server side to deliver its video content, I am wondering how its possible to find a video's file name & location on the server? This is a general question about the security of Adobe Flash and swf files on a server. If google can't protect the video files from offsite download using Flash, why is it so widely used?

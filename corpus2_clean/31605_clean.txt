@@ -1,1 +1,0 @@
-need time differential look like textbook code dt x dt x dx dt dt dy dt give output dy x dt dx dt hard follow question output made look like x dy dt dx dt dy dt dx dt vertical thanks

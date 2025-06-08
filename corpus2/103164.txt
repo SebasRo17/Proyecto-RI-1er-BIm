@@ -1,0 +1,1 @@
+With dynamic scoping, a callee can access the variables of its caller. Pseudo C code:               void foo()     {         print(x);     }          void bar()     {         int x = 42;         foo();     }      Since I have never programmed in a language that supports dynamic scoping, I wonder what some real world use cases for dynamic scoping would be.

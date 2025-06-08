@@ -1,1 +1,0 @@
-Does anyone know how to plot a x bar control chart? With mu=12.5, sigma=.8? I have searched all over mathematica documentation center but still couldn't figure out how?

@@ -1,0 +1,1 @@
+website need highly scalable social network like facebook best way design website num web service site query get need num site query database directly done using built language construct fill table automatically etc would think web service better design since give centralized access thing like caching like become much easier control others think

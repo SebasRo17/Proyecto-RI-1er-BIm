@@ -1,0 +1,1 @@
+using eclipse long time development one problem come across working people project come source control eclipse project file default property xml config file missing usually big pain butt get project running eclipse understand reasoning certain file tracked may full specific stuff certain eclipse install manage

@@ -1,0 +1,1 @@
+if I had a boolean (property) `shouldAutoLogin` is it better to name the getter `getShouldAutoLogin` or just `shouldAutoLogin` so that it reads more like English? ex :               if(shouldAutoLogin){         ...     }      or               if(getShouldAutoLogin){         ...     }

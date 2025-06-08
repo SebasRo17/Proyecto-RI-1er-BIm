@@ -1,0 +1,1 @@
+Very often I see in C code negation of returned error codes, e.g. `return -EINVAL` instead of `return EINVAL`. Why used negation?

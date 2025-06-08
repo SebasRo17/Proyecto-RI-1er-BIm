@@ -1,0 +1,1 @@
+I'm really confused when I see a lot of in-memory database implementation used for testing, because I also heard a lot from integration testing best practices that the environment running the test should resemble as closely as possible the production environment, including operating system, library, database engine, etc. What am I missing here?

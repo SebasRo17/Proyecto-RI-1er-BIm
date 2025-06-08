@@ -1,1 +1,0 @@
-thought remembered way write function definition using find documentation example want define f x x f x x thought syntax kind like select case switch statement used

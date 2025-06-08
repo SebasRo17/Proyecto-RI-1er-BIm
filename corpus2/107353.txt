@@ -1,0 +1,1 @@
+I'm working on a BlackBerry app, however I'm loading data from various 3rd party websites around the web. (E.g, posts from stackoverflow or currency rates off Yahoo.com) I'd like to know if this could cause any trouble, would it be allowed? Thank you!

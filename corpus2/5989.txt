@@ -1,1 +1,0 @@
-Why do the following not work (in Mathematica 7)?               2^^ # & /@ {1000, 1101}      and               2^^ # & @ 1101      This does work:               2^^1101      giving, as expected:               (*13*)      (This also works:               BaseForm[#, 2] & /@ {13, 14}      ) See here for further information ("Digits in numbers")

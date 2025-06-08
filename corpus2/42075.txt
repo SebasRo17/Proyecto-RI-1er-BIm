@@ -1,1 +1,0 @@
-Mysterious behavior of `Precision`:               {{1.0+I*0.0},{0.0+I*0.0}} // SetPrecision[#,30]& // Precision // Print;      > >     0. >                 {{1.0},{0.0}} // SetPrecision[#,30]& // Precision // Print;      > >     30. >   Why is the precision zero in the first instance, but not the second? This led to some tough-to-diagnose program behaviors!

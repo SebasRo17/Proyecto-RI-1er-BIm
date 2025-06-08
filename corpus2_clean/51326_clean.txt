@@ -1,1 +1,0 @@
-consider plot dimension represent quantity respectively ranging point space corresponding x represent cost choosing quantity x quantity assume cost increase monotonically increase quantity want find iso cost line contour space say point whose cost equal k find efficiently without checking cost point space cross

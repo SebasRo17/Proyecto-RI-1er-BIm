@@ -1,0 +1,1 @@
+I couldn't think of a good way to word the title, sorry. But what I mean is, is it considered bad practice to do:               print get_array()[2]      over:               output=get_array()     print output[2]      (where get_array() is a function that returns an array, if that wasn't clear). Which method is better? Why?

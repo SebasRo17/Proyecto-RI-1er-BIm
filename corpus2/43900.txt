@@ -1,1 +1,0 @@
-I know I can create a new kernel for my notebook from the evaluation menu but is there a command for this? I'd really like some of my notebooks to startup their own kernel as the first line of code.

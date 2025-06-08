@@ -1,1 +1,0 @@
-want plot function variable x discrete value like myfunc x sin x yvalues plot evaluate map myfunc x yvalues x want maximum x range case function yvalues example value yvalues stop corresponding plot curve co yvalues need real case function plot interpolation behaves badly outside specific interval depending thanks

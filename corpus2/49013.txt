@@ -1,1 +1,0 @@
-Is there a way to limit the number of iterations in a while loop? Right now I am cleaning up the code, and for now if I make a mistake, the loop keeps going forever. I'd like to be able to limit the number of times it will run through while I am working on it. Is that possible?

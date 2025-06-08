@@ -1,1 +1,0 @@
-get solution run following command ndsolve x x x x kernel keep running forever kill remove term work fine appreciate help issue

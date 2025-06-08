@@ -1,1 +1,0 @@
-recently needed deal large data set point three dimension task find convex hull data mathematica could use function convexhullmesh obtained enter image description enter image description wondering way find smooth convex hull maybe ellipsoid data

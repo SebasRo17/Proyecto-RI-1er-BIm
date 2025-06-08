@@ -1,1 +1,0 @@
-I would like to generate a list with random numbers, which add up to a specific value.               While[Total[x] == 28, x = RandomInteger[{0, 28}, 5];Print[x]]      The random number list should be returned if their sume is 28. Unforunately, this loop does not work. :( Can anybody help me?

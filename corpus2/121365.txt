@@ -1,0 +1,1 @@
+In C# projects, we frequently group small and tightly related classes into the same `.cs` file. This practice reduces the friction of dealing with a myriad of files containing close to no actual code. Yet, is there an established practice to name the _file_ that contains multiple classes?

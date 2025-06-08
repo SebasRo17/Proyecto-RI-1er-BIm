@@ -1,1 +1,0 @@
-How can I express this complex function as a series?               Log[      (1 - E^((I Pi (1 - a))/(b - a)) z)/      (1 - E^(-((I Pi (1 - a))/(b - a))) z)     ]      Where `z` is the complex number, `a` and `b` are real numbers, `a < 1` and `b > 1`.

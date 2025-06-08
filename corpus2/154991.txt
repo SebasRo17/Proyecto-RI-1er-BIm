@@ -1,0 +1,1 @@
+I have a requirement for an application that takes Doc, Docx content (means whole document) and converts them to RTF content. I am trying but it does not convert document content to RTF content. But it just change the extension .doc/.docx to .rtf, not content of document.

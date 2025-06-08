@@ -1,0 +1,1 @@
+see http parser written igor nginx use regular expression could reason design decision guess could write regular expression parse http req re would lot less complex igor version parser missing

@@ -1,1 +1,0 @@
-need solve system differential equation follows clear system x x e e co z x z e e co initialvalues x z sol dsolve join system initialvalues x z unfortunately mathematica able yield result way also another question want make value x z number numerical value

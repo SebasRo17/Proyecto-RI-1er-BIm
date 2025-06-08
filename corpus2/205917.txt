@@ -1,0 +1,1 @@
+I'm trying to adhere to PEP 8, with a 78 character limit on the length of my lines. I have the following statement:               startTime = time.strptime(request.GET.get('st', (dt.datetime.now() - dt.timedelta(days=1)).strftime("%d/%b/%Y:%H:%M:%S")), "%d/%b/%Y:%H:%M:%S")      How should I format it so that it adheres to PEP8 (where should I break it into new lines?)

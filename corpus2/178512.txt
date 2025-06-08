@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  When do you use a struct instead of a class? While working in OOPs, we always battle around structures and classes. But in real world, we always sticks to classes. I just want to know what is the practical usage of structures in C# and where are they beneficial over the classes. Or they are just a topic for theory.

@@ -1,1 +1,0 @@
-I would like to create a picture which contains a sequence of binary trees with the same Strahler hierarchical order (for example equal to 2) e with a sequence of different source nodes "i" (from 1 to 7 for example). Thank you all for the help!![enter image description here](http://i.stack.imgur.com/3MZ2j.jpg)

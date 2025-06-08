@@ -1,1 +1,0 @@
-opencllink allows mathematica use opencl parallel computing language done test simple example far cpu regularly outperforms gpu question nice inherently parallel number crunching problem use opencl code opencllink show absolutetiming impressive performance benefit already documentation

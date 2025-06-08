@@ -1,0 +1,1 @@
+completely new drupal site taken www com form front page obviously submits process b check duplicate username example via onkeypress event anyone give idea find script receives post action htaccess probably intercept see two key hidden field form id form build id probably match receiving end form putting user table want quite thing

@@ -1,1 +1,0 @@
-trying make animation time varying vector field however got difficulty mathematica normalises length vector call vectorplot simple example myfield co animate vectorplot myfield tt x tt expected result arrow grow shrink time actual result arrow remain size flick direction way fix length arrow relative field value

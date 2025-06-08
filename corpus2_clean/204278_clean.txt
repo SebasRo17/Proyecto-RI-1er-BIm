@@ -1,0 +1,1 @@
+used delimit statement semicolon naturally scala also feel easier read evident one statement end another begin many time post piece scala get edited get semicolon removed num use semicolon official guideline coding style num case semicolon required otherwise ambiguous

@@ -1,0 +1,1 @@
+unicode seems becoming ubiquitous day already wonder domain unicode best implementation choice language script unicode work well work technical reason use different system entirely working legacy system naturally would assume answer always use unicode wrong

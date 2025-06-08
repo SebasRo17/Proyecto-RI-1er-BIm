@@ -1,0 +1,1 @@
+I have done much development in Java using Eclipse, and now I have started to use Visual Studio for .NET development. So far I find the IDEs to be able to do the same things, but just different. What features in Eclipse isn't available in Visual Studio?

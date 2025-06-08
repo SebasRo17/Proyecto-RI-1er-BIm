@@ -1,0 +1,1 @@
+common lisp allows write macro whatever source transformation want scheme give pattern matching system let perform transformation well useful macro practice paul graham said beating average source viaweb editor probably num num macro sort thing people actually end macro

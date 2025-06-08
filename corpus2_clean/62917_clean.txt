@@ -1,0 +1,1 @@
+currently designing api come slight design issue hoping opinion url structure accessing basic api clientname appname methodname basically client may different set method application base application extended client file exists question limiting pulled back get request limiting number appended url something handled post request even option looking best practice scenario thanks

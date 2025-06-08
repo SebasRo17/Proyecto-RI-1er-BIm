@@ -1,1 +1,0 @@
-new mathematica sure solve system equation include differentiation given f g differentiable function f x x g h x f x g x h x f x g x g x answer expect work tried dsolve f x g h x f x g x h x f x g x g x x course work would

@@ -1,0 +1,1 @@
+I am new to javascript and start learning from w3schools website. I'm not able to understand what the following line means. Can anyone please explain this with example? > You can only use document.write in the HTML output. If you use it after the > document has loaded (e.g. in a function), the whole document will be > overwritten.

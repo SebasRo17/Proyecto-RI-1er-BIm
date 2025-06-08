@@ -1,1 +1,0 @@
-edit matching replacing particular expression time want store matched variable later use got work messed code involving block smarter way initialize variable expr f x g x f match replace storing argument variable expr f x block variable union variable x fnew x type variable output x get desired output empty inside block make feel kludgy way feel free improve part code

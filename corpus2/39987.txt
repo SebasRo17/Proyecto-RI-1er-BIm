@@ -1,1 +1,0 @@
-What is wrong with the following code?               CirclePlus := SparseArray[Band[{1, 1}] -> {##}] &     a_ ⊕ b_ := CirclePlus[a, b]      > SetDelayed::write: Tag Function in (SparseArray[Band[{1,1}]->{##1}]&)[a_,b_] > is Protected. >> I want to define the operator ⊕ to work like `+,-,*,/`, so it can be used as `a ⊕ b`.

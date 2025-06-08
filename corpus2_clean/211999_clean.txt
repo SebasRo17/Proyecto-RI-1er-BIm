@@ -1,0 +1,1 @@
+working qt num static library depend another static library static lib made linking another static lib num yes possible linking generated lib lib1 would contain code qt project using static library depends multiple library add library header project although need one lib one h please explain scenario

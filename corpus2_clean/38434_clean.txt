@@ -1,1 +1,0 @@
-mathematica run behind another window selected press print screen want mathematica detect call function picture argument paste image return screenshot need one command picture shouldnt almost destroyed happens command

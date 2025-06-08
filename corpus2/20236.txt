@@ -1,1 +1,0 @@
-I want to subtitute $x = 1$ into the expression $$f(x)=x^2 + 3 (x^2 - m^2) + \sqrt{x^2 + 1}$$ but I don't calculate the value $f(1)$, that is mean, I want $$1^2 + 3(1^2-m^2)+\sqrt{1^2 + 1}.$$ If I tried               f[x_] := x^2 + 3 (x^2 - m^2) + Sqrt[x^2 + 1];     f[1]      I receive `1 + Sqrt[2] + 3 (1 - m^2)` How do I tell _Mathematica_ to do that?

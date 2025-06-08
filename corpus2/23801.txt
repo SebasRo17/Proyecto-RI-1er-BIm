@@ -1,1 +1,0 @@
-Is there a way to find the echelon form of a matrix in _Mathematica_? I see there is a function to find the reduced echelon form, `RowReduce[]`, but I can't see anything for the echelon or upper triangular form? Thanks David.

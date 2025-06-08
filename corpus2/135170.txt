@@ -1,0 +1,1 @@
+I understand that to measure a project or code, we can use _The Joel Test_ , but is there any simple standard test (like The Joel Test) that is able to measure and filter how good a programmer is? My plan is to have this test as a quick filter first before going to a more detail test.

@@ -1,1 +1,0 @@
-mathematica want determine whether list free number greater seems like using freeq would concise way freeq output true freeq output true freeq give true free number greater must using freeq incorrectly

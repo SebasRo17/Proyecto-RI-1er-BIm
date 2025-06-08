@@ -1,0 +1,1 @@
+I noticed some code in our projects using CSS class names such as `red`, `black` or `float`.   I want to provide some information for people so they know to avoid it. Is there a common name for that code smell so I can reference it?

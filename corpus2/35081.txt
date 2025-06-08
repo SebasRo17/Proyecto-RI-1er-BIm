@@ -1,1 +1,0 @@
-There appears to be no builtin Mathematica function for bitwise rotation. Is that true? I suppose I can write my function:               ROR[x_, k_] := FromDigits[RotateRight[IntegerDigits[x, 2, 32], k]]      Obviously this will be a lot more inefficient than a builtin function because in machine code a rotate right is a single instruction. Is this my only option?

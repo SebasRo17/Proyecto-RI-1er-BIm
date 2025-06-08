@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Get a "step by step" evaluation in Mathematica In wolfram alpha, when preforming for complicated integrals there's a 'show steps' option that explains how the integral was computed. Is there any way to do that using mathematica?

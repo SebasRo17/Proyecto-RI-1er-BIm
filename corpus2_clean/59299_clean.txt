@@ -1,1 +1,0 @@
-say following input reduce c output c way create variable x get assigned value c output without actually type x

@@ -1,0 +1,1 @@
+In MVC the Domain Models(from Model Layer) should instantiate other Domain Models or all the Domain Models should be instantiate in the controllers and passed down using Dependency Injections? How do you implement this in real applications? If you choose this path isn't the controller getting to fat?

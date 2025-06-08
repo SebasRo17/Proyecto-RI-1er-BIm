@@ -1,0 +1,1 @@
+let say want build utility function basic math de bigdecimal example want computes average list bigdecimal best approach static utility public static bigdecimal list bigdecimal number public public list bigdecimal number

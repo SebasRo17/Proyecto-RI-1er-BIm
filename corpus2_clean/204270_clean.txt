@@ -1,0 +1,1 @@
+myclass age public age get age set age versus myclass public age get set difference two

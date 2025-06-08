@@ -1,0 +1,1 @@
+language agnostic question e g unit test like unit test user user user create john assertequals user john john user getname web test start goto user john john think anti pattern although write full selenium test suite thing using save much time e g click login etc need worry ui changed sound like quick stable approach test

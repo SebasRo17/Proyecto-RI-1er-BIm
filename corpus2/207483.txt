@@ -1,0 +1,1 @@
+Portal website usually have very large number of posts. For example I have 50,000 posts in website. I even created the google sitemap as chunks and included it in main site map file. But I have no idea how to deal with RSS feed. 50,000 posts in RSS feed file size will be very huge, how to handle the situation?

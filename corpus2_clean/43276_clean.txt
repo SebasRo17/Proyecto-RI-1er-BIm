@@ -1,1 +1,0 @@
-list dim point given list would like gather element list using two condition create listplot first two element point x coordinate last two condition first condition check thrid element equal second codition group element tried gatherby list last take account first condition giving list point wanted list point example idea

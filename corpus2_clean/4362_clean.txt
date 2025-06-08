@@ -1,1 +1,0 @@
-like take polynomial mathbb z x form ax bx c factor irreducible polynomial example input x output x x note factorization make sense mathbb z x also interested identifying case already irreducible example input x output polynomial irreducible way limit mathematica especially function like solve field mathbb c

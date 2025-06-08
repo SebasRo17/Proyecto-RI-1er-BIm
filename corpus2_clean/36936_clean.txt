@@ -1,1 +1,0 @@
-polynomial f x sum leq n ix get first thanks

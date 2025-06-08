@@ -1,0 +1,1 @@
+Is `varchar` just a remnant from before `text` came around, or are there use cases where you would _want_ to use a `varchar`? (Or `char` for that matter..) (I use Postgres and MySQL (MyISAM) daily, so those are what I'm most interested in, but answers for other databases are of course welcome. ^_-)

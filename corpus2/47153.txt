@@ -1,1 +1,0 @@
-How would I plot the following functions in the polar complex plane? $$ \phi={-k\over 2\pi r}cos(\theta_0-\theta) $$ and $$ \psi={-k\over 2\pi r}sin(\theta_0-\theta) $$ Please provide the function calls if possible. I realize that I need to pick values for k and $\theta_0$. It would be even better if someone knew how to sketch the flow.

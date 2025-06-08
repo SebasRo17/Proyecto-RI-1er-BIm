@@ -1,1 +1,0 @@
-Can I write text, or add a specific text label to individual squares of an ArrayPlot[...] graphic? Specifically, I would like to assign an two- dimensional integer coordinate label to each square.

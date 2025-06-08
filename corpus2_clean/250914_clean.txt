@@ -1,0 +1,1 @@
+c following valid interface property get set make sense seems break one important principle interface lack state word field property create implicit private field really bad interface

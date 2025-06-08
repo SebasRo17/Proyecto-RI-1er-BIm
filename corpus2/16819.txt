@@ -1,1 +1,0 @@
-I want to extract the number from an alphanumeric string. This is what I tried:               StringTake["thiru3", {6, 6}]      The result I got is `3`, but it is still a `String`, which I determined by evaluating:               NumberQ[StringTake["thiru3", {6, 6}]]      which returns `False`.

@@ -1,0 +1,1 @@
+In my code either of the above two options would work equally well but I am interested in finding out the pros and cons of both approaches.

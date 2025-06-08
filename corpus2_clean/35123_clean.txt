@@ -1,1 +1,0 @@
-parametricplot used one two variable plot path surface parametricplot x x sin x co x however say wanted plot solid x z coordinate defined term variable way use parametricplot mathematica function perform task simple test case could parametricplot x z x z output cube

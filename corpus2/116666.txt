@@ -1,0 +1,1 @@
+I am making a P2P Android application. The initial functionality I am aiming for is chatting. Can anyone please suggest a good open source P2P library, using which I can build my application upon? Most of the ones I found are complete applications, but I want a library I can use to build my application.

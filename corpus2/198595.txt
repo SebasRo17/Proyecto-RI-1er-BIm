@@ -1,0 +1,1 @@
+You can find many frameworks with an example todo list for demonstrating a small but full application in the framework. You don't have to consider large problems like scaling or caching, but you still exercise most of the fundamentals of that framework in a todo list. Is there an analogous application for systems-level programming?

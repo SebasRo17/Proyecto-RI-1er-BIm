@@ -1,0 +1,1 @@
+I am developing an Hybrid android app using HTML5 which will work completely offline. Today morning when I opened the app, I saw that all the data stored in localStorage was cleared. Under what scenarios can the localStorage get cleared? Given these scenarios, is it a good idea to use localStorage?

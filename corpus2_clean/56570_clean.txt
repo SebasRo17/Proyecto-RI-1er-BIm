@@ -1,1 +1,0 @@
-external data file data contains position star galaxy simulation look like data import ngc table l listplot data frame true ax false plotstyle darker green pointsize plotrange aspectratio enter image description real image ngc enter image description would like plot fit data top real image suggestion

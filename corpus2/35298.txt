@@ -1,1 +1,0 @@
-Clear[sum];     sum = Compile[{{n0, _Integer}, {s0, _Integer}},        Block[{n = n0, s = s0},         Label["t"];         If[n > 0, s += n; n--; Goto["t"]];         s         ]        ];          sum[10, 0]      It seems that the `Label` is not found. How to make it works?

@@ -1,0 +1,1 @@
+building photography website want allow user put tag photo easy searching sure want tag nvarchar field picture search tag record want pull create separate table tag look table search database id asking would better efficiency wise scalability wise database num num picture

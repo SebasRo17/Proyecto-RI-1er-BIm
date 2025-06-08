@@ -1,0 +1,1 @@
+Are there any inherent advantages to a terminal text editor over a gui version of the same editor (vim and gvim for example) or are the people using terminal text editors just using them because that's what they're used to? I am not asking about vim in particular. I am asking whether, all else being equal, a terminal text editor has advantages over a gui text editor.

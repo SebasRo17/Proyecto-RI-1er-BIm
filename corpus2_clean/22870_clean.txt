@@ -1,1 +1,0 @@
-suppose transport equation initial condition sol ndsolve x x x x sqrt pi exp x x x maxstepsize plot evaluate x sol x plotrange enter image description suppose packet actually probability distribution packet moving left later time part probability density go left boundary sum probability density domain less question every time step sum probability density domain

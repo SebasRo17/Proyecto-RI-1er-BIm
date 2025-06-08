@@ -1,1 +1,0 @@
-enter image description want get effect figure code plot log x log x log x mesh imagesize aspectratio plotrange performancegoal quality labelstyle directive bold fontfamily time new roman axesstyle thick thick thick axesorigin axeslabel nu n l maxrecursion clippingstyle none colorfunction rainbow plotlegends barlegend automatic legendmarkersize

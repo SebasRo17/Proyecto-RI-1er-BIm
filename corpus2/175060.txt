@@ -1,0 +1,1 @@
+We can use doxygen to do the documentation, but how can I do the API Diff? Any open source or free solution for that? Or I need manually prepare? Thanks.

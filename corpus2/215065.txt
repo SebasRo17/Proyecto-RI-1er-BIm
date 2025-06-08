@@ -1,0 +1,1 @@
+This is not duplicate question as I read the previous question. Can anyone help me in understanding `how float values are stored in the memory` . My doubt is here float values contain '`.'` (`for example 3.45`) how the `'.'` will be represented in the memory? Can anyone please clarify me with a diagram?

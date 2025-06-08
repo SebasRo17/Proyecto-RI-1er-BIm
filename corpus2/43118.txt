@@ -1,1 +1,0 @@
-I have a list               {-1.8, 1.44, 0.2736, -1.72514, 1.17612}      where each element stands for a value of x. e.g. $x1 = -1.8$, $x2 = 1.44$ and so on. How can I find the summation of $ln(2x)$ without manuall calculating it? That is: $ln(2(-1.8)) + ln(2(1.44)) + \ldots + ln(2(1.17612))$

@@ -1,0 +1,1 @@
+Do you think desktop application developers should know how to do web development, and/or vice versa? In the industry, is it common for desktop developers to do web development (to some degree) and/or vice versa (again)? To what degree should one of the two parties (if at all) know the other party's job? Should you not specialize at all?

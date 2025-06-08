@@ -1,1 +1,0 @@
-suppose project wolfram workbench package need databaselink write way beginpackage test need databaselink test usage begin private test x sqlconnections end endpackage work fine autocompletion databaselink function work use autocompletion imported context application

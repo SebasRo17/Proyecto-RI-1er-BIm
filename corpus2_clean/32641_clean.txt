@@ -1,1 +1,0 @@
-looking several timeseries function mathematica however running process like ardl arma garch arch would able get anova table coefficient p value also package would get r r wondering easy way get anova table running ardl model arch model know possible linear model fit able get using model

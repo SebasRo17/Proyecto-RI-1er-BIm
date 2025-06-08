@@ -1,0 +1,1 @@
+I'm building a proprietary file format for an application I wrote in C# .NET to store save information and perhaps down the line project assets. Is there a standard on how to do this in any way? I was simply going to `Serialize` my objects into binary and create a header that would tell me how to parse the file. Is this a bad approach?

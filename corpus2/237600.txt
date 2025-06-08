@@ -1,0 +1,1 @@
+I am about to deploy a new project that will have different components being deployed on different servers and in different web sites/technologies/etc. I was just wondering what would be the best way to communicate this with the business? I want to show that Service X will exist on server Y as a Windows Service and Service Z will exist on server Q as a .NET web service etc.

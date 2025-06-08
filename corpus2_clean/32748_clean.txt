@@ -1,1 +1,0 @@
-data sort randomreal manipulate pt pt data controltype slider get error message manipulate vstype controltype slider supported variable specification workaround trying achieve something like slider dynamic pt dynamic pt pt take want use data may contain point equally space

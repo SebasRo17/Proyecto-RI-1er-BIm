@@ -1,1 +1,0 @@
-given list b c would like delete pair list first element belongs list example list b output b example list b output b far deletecases list stringmatchq list ignorecase true know work stringmatchq accept list value compare parameter lead thinking need map function list

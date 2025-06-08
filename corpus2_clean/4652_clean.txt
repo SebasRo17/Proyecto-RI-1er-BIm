@@ -1,1 +1,0 @@
-writing fairly simple function hermite x hermite x x hermite n x hermite n x x hermite n x n hermite n x expand hermite n x expand command ignored yet expand hermite x result expanded like wish working put command inside function like function would cleaner

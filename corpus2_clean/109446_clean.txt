@@ -1,0 +1,1 @@
+recently came across question make convert level order binary tree doubly linked list apparently common interview question strategy simply pre order traversal tree instead returning node list node order traverse e list append current node list point base case node leaf would say left recursive node left right recursive node right left append node append right right approach

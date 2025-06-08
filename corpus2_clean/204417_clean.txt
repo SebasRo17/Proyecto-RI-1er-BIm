@@ -1,0 +1,1 @@
+file 5gb simply line like apache access log need get number line construction like file filename read counter n would read file would long time e g o stat filename st size work fast possible get least hypothetically number line size first line byte total size file accurately way

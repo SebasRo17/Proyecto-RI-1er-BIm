@@ -1,1 +1,0 @@
-I have a list of internet sites links from which I would like to automatically recover the page image/thumbnail and page title. Let's suppose that one of the links is https://www.google.com/, I would like to retrieve the following: ![enter image description here](http://i.stack.imgur.com/iigaX.gif) Is it possible to do it with _Mathematica_? Or maybe, managed by _Mathematica_?

@@ -1,1 +1,0 @@
-I want to export these data points into matlab and get a plot. Like I've to plot ft vs t. Through the following command- Table[{[Tau], ft[2, 5, [Tau]]}, {[Tau], 0, 15, .01}], i generated some data set. Now how do I export it to MATLAB to plot?

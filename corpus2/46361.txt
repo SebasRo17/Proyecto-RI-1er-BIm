@@ -1,1 +1,0 @@
-I have an _Asus SmartTab_ tablet with _Mathematica 9_ on it. When I run `ImageCapture`, nothing shows up in the image window. Originally running this completely crashed the entire OS forcing a reboot, but I have done some updates since. Now I just get the blank window effect.   Does anyone have any ideas on if this is fixable, or has had this happen?

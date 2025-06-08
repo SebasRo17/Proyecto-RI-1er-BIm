@@ -1,0 +1,1 @@
+everybody keep saying one javascript problem using example concatenation say problem using coercion see comment previous example strongly typed language use concatenation coerce type without problem example c number num myobject obj new myobject var result hello number obj equivalent result hello number tostring obj tostring concatenation javascript big problem

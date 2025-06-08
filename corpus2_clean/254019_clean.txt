@@ -1,0 +1,1 @@
+regexp pattern matching used check within given text intuition order check may need remember character parsed cannot done using regexp correct

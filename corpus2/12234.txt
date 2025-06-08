@@ -1,0 +1,1 @@
+More specifically, what do you feel Junior, Intermediate, and Senior programmers should know about OO design and programming? I'm hoping that having some appropriate expectations will help us during the recruiting process.

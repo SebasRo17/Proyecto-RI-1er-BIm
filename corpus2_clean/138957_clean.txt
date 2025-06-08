@@ -1,0 +1,1 @@
+reading mongodb came across sharding getting exactly understood better small server huge one storage exceeds capacity one server use another machine store anyone give idea sharding

@@ -1,0 +1,1 @@
+Is there a line between readability vs compile or processing speed? Aside from the extreme cases, I wouldn't think it would be even worth saving that little bit extra in favor of legibility... For example; a bad idea, in my opinion would be removing all the comments on a 'finished' product to gain a little extra speed.

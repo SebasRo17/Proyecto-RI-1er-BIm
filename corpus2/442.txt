@@ -1,1 +1,0 @@
-What is the fastest possible square number test in _Mathematica_ 7, both for machine size and big integers? I presume in version 8 the fastest will be a dedicated C LibraryLink function.

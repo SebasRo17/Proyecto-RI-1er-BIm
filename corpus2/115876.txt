@@ -1,0 +1,1 @@
+I'm planning to buy a book to learn C Language. Many say K&R is a must-have book for C programmers so I chose it. I see that there are two editions. What are the differences between them?

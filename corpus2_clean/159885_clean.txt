@@ -1,0 +1,1 @@
+inherits two distinct class mean subclass automatically least num thing one superclass believe difference multiple interface inheritance edit clear believe subclassing multiple class violates srp implementing multiple non marker basic interface e g comparable interface violates srp

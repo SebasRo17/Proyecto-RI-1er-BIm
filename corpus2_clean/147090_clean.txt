@@ -1,0 +1,1 @@
+never written unit test reading art unit testing osherove explains way choose start writing test legacy basically end two kind test write easy component dependency hard component many dependency say starting hard one experienced let refactor make testable wide part system making later work much easier way around mean start easy test end making hard test easier

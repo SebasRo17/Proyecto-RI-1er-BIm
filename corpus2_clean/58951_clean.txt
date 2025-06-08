@@ -1,1 +1,0 @@
-following plot listlineplot colorfunction temperaturemap go blue read following plot b listlineplot colorfunction temperaturemap go also blue read want color correlated number plotted position list therefore would like go white yellow approx b yellow red approx make color correlated value number plotted position list

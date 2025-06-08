@@ -1,0 +1,1 @@
+Many open source project have mailing lists a preferred way of communication. If i just sign to the mailing list via my g-mail account i will see ~100 messages per day that are not threaded but just a plain list. What is the preferred way to work with mailing lists so i can see a tree-view of threads and replys?

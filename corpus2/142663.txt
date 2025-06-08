@@ -1,0 +1,1 @@
+I've seen many games on FB have queue which connects you to an opponent you should be playing against. So my question is: In which language can it be coded? Is it possible to do it in PHP/Javascript? Does anyone have any real/live example or tutorial how is this done? Thanks in advance!

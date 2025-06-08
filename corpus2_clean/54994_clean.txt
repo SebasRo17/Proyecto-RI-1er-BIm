@@ -1,1 +1,0 @@
-im using map list like cube mapping whole list entry take like absolutetiming map apply cube null mapping two sublists less entry whole thing take nearly time absolutetiming join map apply cube map apply cube null huge performance gap avoid except splitting list

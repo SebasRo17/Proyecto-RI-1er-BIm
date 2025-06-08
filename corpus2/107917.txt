@@ -1,0 +1,1 @@
+In your experience, how long should a planning meeting (SCRUM) last? 8 hours? Or should it be shorter (succinct) and further discussions should be planned as part of the sprint (10 days sprint)?

@@ -1,1 +1,0 @@
-trying compute following integral integrate e k omega generateconditions true mathematica return e k omega k omega apparently recognizing k generateconditions work expected

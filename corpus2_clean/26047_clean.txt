@@ -1,1 +1,0 @@
-want find value parameter graph funtion x x three extremal point make equilateral triangle tried clear f f x x x sol solve f x x x x sol f x sol b f x sol c f x sol ab euclideandistance b bc euclideandistance b c ac euclideandistance c solve ab bc bc ac ac ab real correct answer sqrt tried solve ab bc bc ac ac ab real mathematica put empty set get correct answer reduce code

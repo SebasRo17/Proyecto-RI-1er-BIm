@@ -1,1 +1,0 @@
-My netbook is too slow to install Mathematica. I'm not set against working in a text editor, but I like having an automated highlighting/formatting environment; can anyone recommend a good gedit plugin or suggest an alternative solution? To clarify: Unless there's something amazing online that can act as a virtual back-end using my login info, I can't use a front-end.

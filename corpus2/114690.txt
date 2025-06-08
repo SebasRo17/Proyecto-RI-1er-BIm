@@ -1,0 +1,1 @@
+I am looking into writing a web service API and I am thinking of creating a REST service. What does OData means in this context? Can you please explain the difference between OData and REST?

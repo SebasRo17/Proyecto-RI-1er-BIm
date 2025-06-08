@@ -1,1 +1,0 @@
-performing fit mathematica would like show fitted parameter box plot showing fitted function would go achieving mwe func b x x b nlm nonlinearmodelfit func b x b x plot normal nlm plotrange full nlm parametertable

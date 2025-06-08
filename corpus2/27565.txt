@@ -1,1 +1,0 @@
-Is there a straightforward way to go from an ordered list like:               ord = {a, b, c, d, e, f, g, h}      to a disordered list like:               randompos = {c, h, d, g, a, b, f, e}      I can use something like:               DeleteDuplicates @ RandomChoice[ord, 50]      but it's not really robust. Is there an easier way?

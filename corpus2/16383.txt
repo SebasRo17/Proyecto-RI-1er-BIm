@@ -1,1 +1,0 @@
-How to generate a picture like this? I'd like the surface of the manifold to randomly distort. ![](http://25.media.tumblr.com/tumblr_mdq7e6M88N1qc0s10o1_r1_500.gif)

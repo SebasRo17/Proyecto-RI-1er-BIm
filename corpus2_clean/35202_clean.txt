@@ -1,1 +1,0 @@
-want understand following effect better mathematica maybe bug running following line fullform subscript give output output subscript alpha pattern beta blank try edit output get unexpected stuff enter image description strange spacing end front end disagrees syntax evidenced red carat understand going

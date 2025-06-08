@@ -1,1 +1,1 @@
-suppose function requires list input e f list dosomethingwithlist pas variable dynamic like pt f dynamic pt everything work expected long use part list use part list thing longer work expected another example g point slider point p g dynamic p dynamic p work expected one g point slider point p g dynamic p dynamic p question behaviour dynamic explains
+malloc return num new throw exception halt try survive oom condition save user work

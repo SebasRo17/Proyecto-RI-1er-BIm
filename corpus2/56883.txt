@@ -1,1 +1,0 @@
-I would like to know how to efficiently determine the first pair of elements in a list that are not in order according to some predicate p. That is, list[i] > list[j] according to p, and i is the smallest index for which this is true. It is easy, but gauche, using nested loops.

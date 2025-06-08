@@ -1,1 +1,1 @@
-How would you, given a list `{1, 2, 3, 4}`, apply a function `f` to `1` and `2`, then `2` and `3`, etc.?               {f[1,2], f[2,3], f[3,4]}      More generally, how do you define which parts of a list you want to pass/`Map`/`Apply` to a function that takes multiple arguments?
+How long would it take and what resources would you need to train someone right out of high school and make them a 'technically' employable programmer? Granted they may not be mature enough to pass many inteviews, have the required time-based or domain experience.

@@ -1,0 +1,1 @@
+Assume I have enough money to live off of for 3 months. Would it be impossible to _just_ freelance my entire programming career, after sufficiently learning the language and helping open source projects? Or would clients want to see work experience. I am mostly talking about Objective-C development, so I would be publishing apps to make income. Is this possible?

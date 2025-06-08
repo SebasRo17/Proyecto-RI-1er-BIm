@@ -1,1 +1,0 @@
-When I put `Antialiasing -> True` in a `BarChart3D`, it doesn't work. Here is the code.               BarChart3D[{{1, 2, 3},{2,3,4}},        ChartStyle -> None,        ChartLayout -> "Grid",        Ticks -> None,        Antialiasing -> True]      ![BarChart.png](http://i.stack.imgur.com/gzvJI.png) How can I apply anti-aliasing to a `BarChart3D`?

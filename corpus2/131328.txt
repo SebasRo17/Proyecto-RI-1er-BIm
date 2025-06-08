@@ -1,0 +1,1 @@
+I am implementing a grammar in CUP, and it would often be helpful to see everything at a glance. This could also be useful in finding errors quickly. Are there any programs out there that will visualize grammar in the CUP syntax? Or can you think of a very easy way of doing it (for instance, convert the grammar to another format that program X can read).

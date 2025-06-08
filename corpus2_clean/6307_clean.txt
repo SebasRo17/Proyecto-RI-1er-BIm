@@ -1,1 +1,0 @@
-x z use fullsimplify return x x want want return x z

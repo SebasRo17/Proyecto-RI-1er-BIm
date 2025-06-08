@@ -1,0 +1,1 @@
+screen shot show magento product upload page left nav allows switch different option product basically option left nav appears different page however save close save update made page using html cs j would best approach replicating something similar say want num page one save button option using save button top form level seems possible option magento screen shot

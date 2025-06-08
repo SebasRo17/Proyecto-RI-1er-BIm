@@ -1,0 +1,1 @@
+use due needing one backend library still considered good practice set apache front facing server tomcat behind spending lot time configuring mod jk also people usually use cm web page templating setup wanted use drupal advised since set mod jk jump extra hoop configuring might good approach could guy please suggest common consideration good approach sort situation thanks alex

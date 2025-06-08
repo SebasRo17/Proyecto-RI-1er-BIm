@@ -1,1 +1,0 @@
-let e n denote sum even digit n example e tried integerdigits total select evenq want find sum e e cdots e tried tab table th tried total select integerdigits tab evenq find sum mathematica

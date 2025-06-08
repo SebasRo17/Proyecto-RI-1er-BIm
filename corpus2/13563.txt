@@ -1,1 +1,0 @@
-For a given web page http://www.nytimes.com/, is it possible to save it as : > **first** : only HTML(within css) > > **second** : more elements(include pictures and so on) just like what a browser can do. I have tried this, but it only generates a large picture with plain text.               Export["F:\\nytimes.html", Import["http://www.nytimes.com"], "HTML"]

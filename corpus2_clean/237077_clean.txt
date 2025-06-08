@@ -1,0 +1,1 @@
+strategy used read every row large oracle table fast possible jdbc consider row non trivial amount num column including large text column strategy think single thread read table slow listed clarity read id use thread consume queue query id batch read id jms queue use worker consume queue query id batch strategy could used purpose question assume processing row free

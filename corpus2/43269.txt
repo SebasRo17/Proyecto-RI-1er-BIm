@@ -1,1 +1,0 @@
-I'm trying to solve simple parametric equations using mathematica, but I'm having trouble finding a function to do this... what is the simplest way to solve for a common variable? For example, I have `y=t x=t`, and I want to solve for `y=x`.

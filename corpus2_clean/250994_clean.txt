@@ -1,0 +1,1 @@
+say building website us two different type static information hardly change like movie award world country name want fast access external api dynamic information entered user written single yet static db likely quite large change overtime dynamic db idea yet might need scalability use different database long common practice

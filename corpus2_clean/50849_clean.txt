@@ -1,1 +1,0 @@
-bad programming practice use non integer value label data table example data dbx bz table x f dbx bz dbx bz instead introducing integer index value dbx bz work fine time sometimes plot data e listdensityplot table dbx bz data dbx bz dbx bz value missing reason mathematica add tiny numerical value index get called plot becomes

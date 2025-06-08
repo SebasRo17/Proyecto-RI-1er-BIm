@@ -1,0 +1,1 @@
+I've heard of probabilistic data structures like Skip Lists and Bloom Filters being immensely useful and I'd like to learn more about them in general. Is there a canonical reference on the subject on the level of Cormen et al.?

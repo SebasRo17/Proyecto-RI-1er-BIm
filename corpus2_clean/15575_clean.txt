@@ -1,1 +1,0 @@
-got matrix let say row would like plot row window possible add slide control manipulate window shift row window interactively trying manipulate matrixplot matrix x x x working

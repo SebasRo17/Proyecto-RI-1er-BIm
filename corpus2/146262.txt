@@ -1,0 +1,1 @@
+I would like to learn something more about NoSQL databases, so I've chosen to create a new project from scratch to handle football results. In my traditional relational database, I have tournaments, teams, results and class tables. All are obviously related. What might be a good approach for designing a project like this, using a NoSQL approach instead?

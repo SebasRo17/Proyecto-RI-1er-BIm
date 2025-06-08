@@ -1,1 +1,0 @@
-would useful could write grid b c e f gridheadings r r r c c like tableform b c e f tableheadings r r r c c except want two line tableform produce could add additional option grid

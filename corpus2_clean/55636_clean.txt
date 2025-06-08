@@ -1,1 +1,0 @@
-large homogenous multivariate polynomial say variable b c e example take polynomial abcd b e cde would like replace k th power variable c k example would become c c c c c c moment using coefficientrules command give example coef sum rule list sum coef k product c coef k j j length coef k k length coef inefficient suggestion

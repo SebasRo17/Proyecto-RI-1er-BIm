@@ -1,1 +1,0 @@
-cannot understand meaning error boundeddiagram notuniq boundeddiagram requires boundary vertex lie unique voronoi polygon boundeddiagram nobd bounded diagram failed try run following code give error need computationalgeometry boundary point boundeddiagram boundary point diagramplot point problem code misunderstood boundeddiagram posted simplified situation using point real work

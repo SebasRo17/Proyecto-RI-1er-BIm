@@ -1,1 +1,0 @@
-solve b c b c b c integer give result c conditionalexpression sqrt b b c integer sqrt b b c integer sqrt b b c integer sqrt b b c integer sqrt b would expect something like x z x z x z wrong

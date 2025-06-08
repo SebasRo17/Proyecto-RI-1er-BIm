@@ -1,0 +1,1 @@
+Functional programming is one of the oldest programming paradigms. However it isn't used much in the industry compared to more popular paradigms. But it have largely been emphasized in academia. What's your strongest opinion against functional programming?

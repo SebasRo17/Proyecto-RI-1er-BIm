@@ -1,0 +1,1 @@
+I've started implementing svn in my school projects. In the industry, typically how many programmers are sharing the same svn? Are the version numbers related to how many programmers are working on a program? Also, would svn be considered to be a part of Agile development?

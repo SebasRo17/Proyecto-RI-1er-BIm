@@ -1,1 +1,0 @@
-Given a 3D .obj model, for example a rabbit. How can we make a depth map out of it? Any idea or help would be much appreciated.

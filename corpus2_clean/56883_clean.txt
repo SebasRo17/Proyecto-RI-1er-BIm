@@ -1,1 +1,0 @@
-would like know efficiently determine first pair element list order according predicate p list list j according p smallest index true easy gauche using nested loop

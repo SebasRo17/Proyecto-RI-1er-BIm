@@ -1,1 +1,0 @@
-I need to create a list that as an input receives the number $N$ of elements that it will contain and that returns:               {{_,_,#[[1]]},{_,_,#[[2]]},{_,_,#[[3]]},...{_,_,#[[N]]}}      I've tried using `Hold` and `Release` but haven't come up with a solution.

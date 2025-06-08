@@ -1,1 +1,0 @@
-I want to define a variable `q` which is a function of `t`. And I want to define another variable `qdot = dq/dt`. Then what I want to archive is that if I have a function `f = a*Sin[q]`, and when I take the derivative `df = D[f,t]`, _Mathematica_ returns: > >     a*qdot*Cos[q]. >   Is there a way to do this?

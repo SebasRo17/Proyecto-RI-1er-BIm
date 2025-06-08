@@ -1,1 +1,0 @@
-question similar numbering nested list according depth level list like list b b z z b z z c c cc x cc x x c xx yy c u v w would like build function help navigate according depth like navigate list b c navigate list b b b c c c c navigate list b b z z b z z c c cc cc c xx yy c u v w hand solution small depth since list arbitrary nested think need nested approach

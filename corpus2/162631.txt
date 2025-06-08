@@ -1,0 +1,1 @@
+I'm a beginner and have only little knowledge in programming. Would it be good if I directly learn C++ from books which cover new C++11 or should I study through the old best C++ books? Should I have little knowledge about C++ before learning C++11? or I can start directly from there? Would it cause problem if I directly start from C++11? If no, then suggest some books on C++11.

@@ -1,0 +1,1 @@
+writing small c application operates file found copy pasting around function fullpath path max fullpath num num strcat fullpath base path strcat fullpath subdir strcat fullpath strcat fullpath filename something fullpath better way first thought come mind create macro sure common problem c wondering others solve

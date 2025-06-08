@@ -1,0 +1,1 @@
+Say I'm defining a directory and then including files from it. Is it better practice to do:               define('PATH', 'C:/xampp/htdocs/includes/');     require PATH.'header.php;      or:               define('PATH', 'C:/xampp/htdocs/includes');     require PATH.'/header.php;

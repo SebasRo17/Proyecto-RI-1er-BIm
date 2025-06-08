@@ -1,0 +1,1 @@
+Can anybody explain the difference about soak and stress testing? I googled about them and found that both are about to test the software beyond its limits. Is it right for both testing strategies?

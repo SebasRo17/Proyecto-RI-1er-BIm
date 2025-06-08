@@ -1,0 +1,1 @@
+I'm on the way of learning Java myself. I find most of texts giving emphasis to Java applets. I got confused about the importance. Is it something widely used? Do I need to spend more time on it?

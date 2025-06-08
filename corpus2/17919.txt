@@ -1,1 +1,0 @@
-When I use `Export` to export graphics in SVG format, the exported file contains no `width` `height` or `viewBox` attributes, so that the resulting files don't "scale" at all, which is the whole point. Is there a way to get `Export` to include size information in exported SVGs?

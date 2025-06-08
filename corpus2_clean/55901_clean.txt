@@ -1,1 +1,0 @@
-retrieving curated data v return timeseries object example t weatherdata kp temperature datelistplot t convenient way extract range temporal data example plotting purpose e g plot first two week august data know simply convert list using normal use e g select filter anything better

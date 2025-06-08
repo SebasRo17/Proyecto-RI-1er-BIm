@@ -1,1 +1,0 @@
-How can I write the insructions from this link http://blog.wolframalpha.com/2011/08/25/quaternion-properties-and-interactive- rotations-with-wolframalpha/ in Mathematica to obtain the same result? Thanks!

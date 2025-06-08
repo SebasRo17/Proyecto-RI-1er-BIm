@@ -1,1 +1,0 @@
-plot multiple plot f x piecewise x x c parallelize table n integrate f x legendrep n x x n would like plot plot sum c n legendrep n x n f x x plotstyle red thick blue gridlines automatic

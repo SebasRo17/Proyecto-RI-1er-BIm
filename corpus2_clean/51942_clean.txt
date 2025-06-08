@@ -1,1 +1,0 @@
-show intersection point three function plot really figure logplot plotrange filling axis axeslabel subscript u subscript u

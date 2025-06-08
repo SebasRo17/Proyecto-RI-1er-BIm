@@ -1,0 +1,1 @@
+I'm looking for best practices when creating a plugin for gRaphael. I'm looking for something like jquery where in its documentation you have the best practices of how to write a plugin. So far I haven't found nothing so I'm starting to imagine that it just comes down to best practices with javascript and not with a particular order of the code or configurability... any thoughts?

@@ -1,0 +1,1 @@
+writing app make available set api function require cross site scripting work utilizing jsonp allow developer consume service web application security concern consider protect server security concern developer take consuming service via jsonp

@@ -1,1 +1,0 @@
-solve sqrt x sqrt x sqrt x sqrt x sqrt x x sqrt x x real method reduce give different result reduce sqrt x sqrt x sqrt x sqrt x sqrt x x sqrt x x real note first one say second one say le documentation say method reduce solve us equivalent transformation find solution

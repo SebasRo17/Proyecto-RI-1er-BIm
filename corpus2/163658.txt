@@ -1,0 +1,1 @@
+Since programming languages initially only used lines of code executed sequentially, and it evolved into including functions which were one of the first levels of abstraction, and then classes and objects were created to abstract it even further; what is the next level of abstraction? What's even more abstract than classes or is there any yet?

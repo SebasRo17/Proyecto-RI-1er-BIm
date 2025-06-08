@@ -1,1 +1,0 @@
-Is there a setting to display the required arguments of a function when typing as Visual Studio, Matlab, etc. does?

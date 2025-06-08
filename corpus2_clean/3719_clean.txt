@@ -1,1 +1,0 @@
-experimenting inversion control callback programming pattern would like way generate stream data specified real time interval came illustrated way use animate manipulate fine experiment notebook front end would like pure code solution could put package always grateful hint advice solution enter image description

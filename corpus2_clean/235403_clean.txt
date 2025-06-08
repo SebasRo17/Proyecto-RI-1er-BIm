@@ -1,0 +1,1 @@
+work system library pretty much wrapper around stl template typename protected std vector public size const return size custom generic custom us vector member declaration stl container member also customized function generic task container good design would best way implement customized function around container

@@ -1,0 +1,1 @@
+In the Gang of Four's "Memento" design pattern, the `Memento` class looks like a useless wrapper that doesn't actually provide any value to me. What is it for? Is there any reason you can't just pass around the `String` object (in the Wikipedia example)?

@@ -1,0 +1,1 @@
+What is the best way to handle changes to product requirements or scope during or after User Acceptance Testing (UAT)? How dangerous is it to make those changes, and how can the danger be mitigated?

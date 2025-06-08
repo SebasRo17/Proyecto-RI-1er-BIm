@@ -1,0 +1,1 @@
+For example, Objective-C, Swift and Ruby (i.e. RubyMotion) integrate with the Cocoa framework. Is this done via linked libraries? I assume they call functions in existing binaries instead of simply recreating some common interface.

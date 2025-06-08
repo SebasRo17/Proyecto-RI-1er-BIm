@@ -1,1 +1,0 @@
-wrote code get piecewise plot displayed correctly like join various part plot using kind interpolation get continuous chart even though actually piecewise one let give example assuming f f join point plot

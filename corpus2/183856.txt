@@ -1,0 +1,1 @@
+I'm trying to come up with a name for a class that can represent both files and folders. Anyone know a word for this?

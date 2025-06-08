@@ -1,0 +1,1 @@
+I read somewhere in one of the answers to a question here (can't remember which) that C++ is not suitable for object-oriented programming. There was some mentioning that you could make use of its feature or something like that, but not in a purely OOP sense (I actually didn't really understand what the person meant). Is there some truth in this; if so, why?

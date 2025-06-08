@@ -1,0 +1,1 @@
+I'm curious if there's a programming language that you can write code for all operating systems in, and if so what language that might be? I'm guessing something very low-level like Binary could do this, but am not sure.

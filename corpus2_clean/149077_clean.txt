@@ -1,0 +1,1 @@
+trying implement text classification system need read text file extract word word frequency far planning parse word put dictionary save xml file using c cli good implementation simpler better implementation may related question implementation num save dictionary xml file

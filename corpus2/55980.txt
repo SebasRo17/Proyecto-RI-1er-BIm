@@ -1,1 +1,0 @@
-Consider mapping an existing `Association` in a manner such as this:               asc = AssociationThread[Range @ 26, CharacterRange["a", "z"]];          Map[asc, {{11, 13, 2}, {19, 23, 16}}, {2}]      > >     {{"k", "m", "b"}, {"s", "w", "p"}} >   Is there a more efficient way perform this generic operation?

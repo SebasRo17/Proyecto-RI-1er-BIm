@@ -1,1 +1,0 @@
-list integer list give pattern x z z w w x notice want assign successive symbol make edit compare pattern x z z w w x suppose symbol x z w may use b c transform lst x z z w w x begin x put position lst lst put z position lst lst lst lst put w position lst lst lst lst lst lst finally put x last position

@@ -1,0 +1,1 @@
+often see injected even constructor used several method within reference simply passed requires seems like smell although could well pedant unless required within scope single would usually level field initialised receives method would reference field needed seems lot cleaner thought

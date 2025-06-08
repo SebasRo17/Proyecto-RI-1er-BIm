@@ -1,0 +1,1 @@
+Free software as defined by FSF. Are its standard libraries free/open source? Is its implementation free/open source? Which parts of it are not free/open source? Any other relevant information.

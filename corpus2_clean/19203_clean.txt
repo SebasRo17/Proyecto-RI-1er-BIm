@@ -1,1 +1,1 @@
-trying get exponent vector list monomials using coefficientrules command however returning list includes coefficient monomial need coefficient need remove use exponent vector however finding quite difficult poly x x monomiallist monomiallist poly alpha coefficientrules monomiallist way remove value follows better way generate exponent vector
+planning talk dependency injection ioc container looking good argument using important benefit using technique tool

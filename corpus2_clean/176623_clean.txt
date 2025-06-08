@@ -1,0 +1,1 @@
+standard approach persisting every hit web app receives would analytics purpose better alternative log mining road seems like redis would must advisable also use different db server table would redis enough mitigate impact db also common practice seems like brainer business want better understand user read much

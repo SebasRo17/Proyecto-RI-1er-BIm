@@ -1,0 +1,1 @@
+Linux OS developers : do they unit test their code ? If yes :   * since this OS is coded in C, how do they manage to write effectively unit tests in this language ?   * what are the "zones" in OS where unit testing is easier to write ? where is it harder ? where is it valuable ?

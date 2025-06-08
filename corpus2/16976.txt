@@ -1,1 +1,0 @@
-With `NumericQ[symbol] = True`, I can declare that a symbol is numeric. I want the expressions matching: $$e_{\text{i$\\_$}?\text{IntegerQ}}^2$$ to be treated as numerical expressions too.               e /: NumericQ[Subscript[e, i_?IntegerQ]^2] = True;      doesn't work. Also, I can't use `NumericFunction` because it's too restrictive. Is there something like `NumericPattern`?

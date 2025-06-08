@@ -1,1 +1,0 @@
-x = 5;     temp`x = 6;     Begin["temp`"]     {x, Global`x, temp`x}      The result in my Mathematica session is `{5,5,6}`, but it's `{6,5,6}` in "Power Programming with Mathematica". (Page 231)

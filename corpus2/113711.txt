@@ -1,0 +1,1 @@
+When we talk about source code and the file which contains the code like CSS, HTML, JavaScript and we also talk about performance of a web site or application, what is the differences between these terms?   * Optimization   * Compression   * Minification   * Tidying   * Concatenation

@@ -1,1 +1,0 @@
-let two list sublists b want remove sublists element contained sublist b removal expecting able reach specific element sublist use loop slow program want suggestion better mathematica way manipulating list edit sorry guess example less clear asking want sublist element sublist b shall removed

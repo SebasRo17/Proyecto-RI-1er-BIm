@@ -1,1 +1,0 @@
-someone please explain logic one cell writing eq x x x b sin c x sol dsolve eq x x texform sol outputform texform sol see result outputform mathematica graphic separate cell see output mathematica graphic p trying find remove end outputform compared texform output compare output happens v output show even cell

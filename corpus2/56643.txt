@@ -1,1 +1,0 @@
-I want to find the table of values of $x^2 + y^2$ in steps of 1, from $0$ to $5$ for $x$ and $y$, together with the position $(x,y)$: something like this:![enter image description here](http://i.stack.imgur.com/N0zcF.png) I can only display the $x^2 + y^2$ value but not the position..               Table[x^2 + y^2, {x, 0, 4, 1}, {y, 0, 4, 1}] // MatrixForm

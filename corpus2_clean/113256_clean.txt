@@ -1,0 +1,1 @@
+noticed choose store index forward engineering design storage type num btree num num hash researching found information pretty much head looking practical information difference choose one another also never chosen storage assume mysql choosing default storage btree

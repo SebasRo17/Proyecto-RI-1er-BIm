@@ -1,1 +1,0 @@
-mathematica way like map apply compute following double sum sum n sum j n n j f tau gamma j already stored list n tau gamma tau length n n gamma length n approach use something like outer f function map total total outer f multiply n sum edit undo edit figured bug code

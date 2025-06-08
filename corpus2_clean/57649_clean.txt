@@ -1,1 +1,0 @@
-thinking using gpu programming mathematica using macbook pro nvidia gpu page mathematica documentation say programming opencl wolfram language simple since user need write c wrapper code quite verbose difficult understand hard debug using opencllink also guarantee compatibility new version standard released advantage might programming cuda instead opencl

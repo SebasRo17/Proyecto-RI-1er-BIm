@@ -1,1 +1,0 @@
-coming maple understand precision numerical computation mathematica specified understand various option command workingprecision precisiongoal would like use precision machine precision number computation including matrix operation findroot command outside inside routine also would like specify precision output

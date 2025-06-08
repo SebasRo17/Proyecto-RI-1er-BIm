@@ -1,1 +1,0 @@
-I'm new to _Mathematica_ , and I was wondering how to plot $x^n$ in the complex plane. Is there a dedicated function for this purpose?

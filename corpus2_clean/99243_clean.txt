@@ -1,0 +1,1 @@
+someone explain concrete reason bdfl choose make lambda single good lambda x x x result lambda x x x understand making lambda multi would somehow disturb normal indentation rule would require adding exception worth benefit look javascript example one live without anonymous function indispensable want get rid every multi pas argument

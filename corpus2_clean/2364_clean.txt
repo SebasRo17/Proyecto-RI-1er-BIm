@@ -1,1 +1,0 @@
-like set mathematica open new notebook naturalcolor stylesheet window size like tried change default stylesheet via optioninspector global preference global option file location default style definition get ugly notebook instead one change value windowsize medium notebook option window property nothing driving crazy idea

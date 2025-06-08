@@ -1,0 +1,1 @@
+modern programming language specify type parameter definition ex procedure p b c integer v p b c good reason latter form popular language allow specify parameter like first form

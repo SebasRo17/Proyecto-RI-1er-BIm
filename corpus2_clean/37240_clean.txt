@@ -1,1 +1,0 @@
-attempting make plot solution ode want plot solution using polarplot x polar angle case cannot get mathematica make plot sure going wrong tried going way sol dsolve r x sqrt r x r x r x r r x x polarplot sol x pi nothing produced graph wrong

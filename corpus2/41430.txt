@@ -1,1 +1,0 @@
-For two matrices, `A` and `B`, with dimensions `{n,p}` and `{n,2}` respectively, `LeastSquares[A,B]` returns an matrix, `R`, with dimensions `{p,2}`. But any row of `R` could be anywhere in the real plane. I want to constrain `R[[1]]` and `R[[-1]]` to two different lines. How should this be done? The system is overdetermined, `n>p`

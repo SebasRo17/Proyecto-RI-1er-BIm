@@ -1,1 +1,0 @@
-Is there a dictionary to translate _Mathematica_ functions and commands to _MATLAB_?

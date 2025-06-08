@@ -1,0 +1,1 @@
+Would this be considered dependency injection, or delegation or object collaboration? https://gist.github.com/3428071

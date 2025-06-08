@@ -1,0 +1,1 @@
+I want to be a good UI Developer. I'm confused whether I should learn ( **I need some serious suggestions** ): 1) **HTML + CSS + JavaScript or HTML5 + CSS3 + JavaScript or HTML5 + CSS3 + jQuery** 2) Is it required to learn CSS first before learning CSS3 ??? 3) If the above technologies needs to be prioritize then what would be the order?

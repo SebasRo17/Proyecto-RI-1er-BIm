@@ -1,0 +1,1 @@
+I was looking into concurrent programming in Erlang and Go programming languages. As per my finding they are used Actor model and CSP respectively. But still I am confused with what are the objective differences between CSP and Actors? is it just theoretical different only but the same concept?

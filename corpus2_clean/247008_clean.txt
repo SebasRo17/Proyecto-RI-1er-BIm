@@ -1,0 +1,1 @@
+project built gradle contains library used freely outside project like project structure folder square bottom right project module want opensource project mainly use git github task like idea organize create separate repository library link repository put one repo guess bad practice criterion git clone repo url recreate project structure one one still built build

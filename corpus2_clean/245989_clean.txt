@@ -1,0 +1,1 @@
+let say alice git repository version kept track inside repository let say package json npm bob sends pull request alice increment version number num num num num carol also sends pull request alice independently bob request increment version number num num well alice deal situation

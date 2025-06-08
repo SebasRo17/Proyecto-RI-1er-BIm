@@ -1,1 +1,0 @@
-How can I change this function:               nFormat=NumberForm[#,{\[Infinity],2},NumberPoint->",",NumberSeparator->".",DigitBlock->3,ExponentStep->10]&;      So when I use it like:               nFormat/@{10.01,10.1,0.1}//Column      > 10,01 > > 10,10 > > 1.000.000.000,00*10^(-10) The last number `1.000.000.000,00*10^(-10)` get the format equals to `0.10`?

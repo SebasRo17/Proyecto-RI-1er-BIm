@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Why do most of us use 'i' as a loop counter variable? Maybe this questions seems to be extreamly stupid but I wonder why we use i as variable in most cases in for loops (and not other letter). This might be a historical cause. eg.               for(int i = 0; i < 10; i++)

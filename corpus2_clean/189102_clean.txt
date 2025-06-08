@@ -1,0 +1,1 @@
+ruby rail developer like create web application let user get payed subscription use product need recurring billing system e g via paypal fear fail make bad mistake handle money people regardless following instruction e g ryan bates railscasts implement recurring payment system advice overcome fear building product risk need calculate designing system

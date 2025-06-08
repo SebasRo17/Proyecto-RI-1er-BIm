@@ -1,1 +1,0 @@
-anyone tell clever way convert hierarchical clustering object created say agglomerate directagglomerate built hierarchical clustering package called newick new hampshire format used biology would convert cluster cluster cluster cluster h j cluster cluster c e cluster cluster b cluster g f h j c e b g f latter composed branch length rather nodal abscissa

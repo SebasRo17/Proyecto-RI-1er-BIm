@@ -1,0 +1,1 @@
+I was browsing through the Amazon.com Bookstore and I came across the book "Functional Programming for Java Developers". I know some very basic Functional Programming and have been programming in Java for 3 years. I would like to know is Functional Programming even possible in Java?

@@ -1,0 +1,1 @@
+Is it really necessary to differentiate between code and data ? Is there any language where such differentiation is not there ?

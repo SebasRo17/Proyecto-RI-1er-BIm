@@ -1,0 +1,1 @@
+performs computation logging seems least two responsibility given system specification require heavy logging kind design pattern architectural pattern used avoid bloating class logging call every time compute something decorator pattern used e g interpolator decorated seems would result situation hardly desirable almost every major would need decorated logging

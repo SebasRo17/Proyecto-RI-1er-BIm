@@ -1,0 +1,1 @@
+I am using Singleton pattern for my application, I have used ADO.NET Entity framework as my Data Access Layer, after login to my application, it's taking 3 to 5 minutes to load the dashboard. Is there a way to reduce the time? Or I have to look for some other methods instead of Entity framework?

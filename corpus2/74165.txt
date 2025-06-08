@@ -1,0 +1,1 @@
+I want to learn the C# language and I was wondering if prior knowledge of C++ would make it easier to learn? I have a large background in Java and am currently programming in (and therefore constantly improving on) C++. Would knowledge about the C++ syntax and structure help me understand C# more quickly, or is C# more akin to Java?

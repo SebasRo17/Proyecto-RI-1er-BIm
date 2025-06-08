@@ -1,0 +1,1 @@
+lexing would best way tokenize operator would one create binaryoperator token separate token every single binary operator example tended towards universal one going documentation project source read vast majority lexers using one token per operator particular reason even matter give advantage

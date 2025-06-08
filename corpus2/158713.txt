@@ -1,0 +1,1 @@
+I am fresh to Visual C++. While moving forward in the book "Programming Windows with MFC", I came across GDI (Graphics Device Interface) and use of paint brush. The book says a brush cannot be created if your GDI is low on memory. I want to know when and how does GDI get low on memory? And more important, what is the reason that we cannot create brush when GDI is low on memory?

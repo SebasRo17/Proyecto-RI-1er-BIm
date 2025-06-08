@@ -1,0 +1,1 @@
+developing hybrid android app using html5 work completely offline today morning opened app saw stored localstorage cleared scenario localstorage get cleared given scenario good idea use localstorage

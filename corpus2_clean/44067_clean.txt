@@ -1,1 +1,0 @@
-plot sin x x pi pi plotstyle dashing thickness tick pi pi pi filling axis epilog text style sin x black text style black pointsize point fillingstyle yellow background lightgray mathematica graphic

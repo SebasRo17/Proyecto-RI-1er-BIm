@@ -1,0 +1,1 @@
+scheme dotted pair construct analogous lisp implementation make vector list quite easily understand clojure even though syntax little different like clojure vector use square bracket however seeing dotted pair first time threw almost look like implementation map looking discussion use dotted pair equivalent lisp dialect like clojure even

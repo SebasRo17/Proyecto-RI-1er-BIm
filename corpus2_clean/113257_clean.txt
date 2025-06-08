@@ -1,0 +1,1 @@
+relational world foreign key reference entity document oriented database like mongodb couchdb ravendb implement reference among entity update stackexchange related example question entity tag tag separate entity property example description reference tag question

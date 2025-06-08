@@ -1,0 +1,1 @@
+What are the exact terms to call **data types with a logic structure** (like C structures, C++ or Java objects) versus **fundamental data types** (like numeric types, characters, booleans...) independently of any language or paradigm. (I am searching for abstract/academic computer science words).

@@ -1,1 +1,0 @@
-suppose x bivariate distribution want plot density conditional density given x e x wonder following work bivt multivariatetdistribution rho rho nu bivtcond x nu rho evaluate pdf bivt x nu rho evaluate pdf studenttdistribution nu x nu plot bivtcond last command produce plot

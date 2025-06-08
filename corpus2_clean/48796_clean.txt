@@ -1,1 +1,0 @@
-trying find first five eigenvalue vector matrix following proporties l nn v dx l nn clear x x n l n dx vsw v piecewise x x x sparsearray j ab j sparsearray j ab j hkin dx hsw hkin vsw simple english mean two matrix one allmost diagonal constant value another diagonal constant value region definition x n think using piecewise good seem find anything else work also sure use n ok

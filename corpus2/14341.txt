@@ -1,1 +1,0 @@
-Is it possible to have a pattern constraint for a function with two or more variables where the pattern is a relation between the vars being accepted e.g.               f[x_,y_]:=...      and I want say, x< 10y. I don't think something like               f[x_,y_/; x<10y]      will work, or other variants of this that I have tried.

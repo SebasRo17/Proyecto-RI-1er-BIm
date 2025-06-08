@@ -1,0 +1,1 @@
+What are good alternatives to inline Java documentation, i.e. can one have a separate docs file somehow mapped to a java source file? I have never liked huge comment sections littered in code, so was just looking for options. Are there any good tools available for such docs management?

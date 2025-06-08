@@ -1,1 +1,0 @@
-suppose define f x piecewise x plot plot evaluate f x x plotstyle red thick exclusionsstyle dashed red get interrupted dashed vertical line left plot piecewise function exclusion dashed line missing anyone know happens draw entire dashed line

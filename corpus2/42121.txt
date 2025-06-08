@@ -1,1 +1,0 @@
-I have an expression: $p=a\;b\; x + b^2\; y + a\;c\; z$. I want to substitute $a\;b=1$, $b^2 = 2$ and $a\;c = 4$ to obtain $p = x + 2y + 4z$.   How can I tell _Mathematica_ to do that? I dont know how to start.

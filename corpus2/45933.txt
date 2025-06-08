@@ -1,1 +1,0 @@
-I want to solve a PDE equation (like Schrodinger equation) using finite difference in Mathematica. I don't understand what this code does!               ListCorrelate[{1, -2, 1}/Subscript[h, n]^2,        U[t], {1, 2}, {Subscript[u, n - 1][t]}]/8      Anyone can help me? What does `{1, 2}` mean? and what's the role of `{Subscript[u, n - 1][t]}` ?

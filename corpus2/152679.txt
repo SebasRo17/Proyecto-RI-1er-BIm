@@ -1,0 +1,1 @@
+If I'm applying for a client side developer job, am I usually expected to know designing as well? Such as CSS? I have knowledge of JavaScript, JQuery, Ajax and HTML5 basics, and HTML DOM. Is this enough or should I also be able to style nicely in CSS? I have a basic knowledge of CSS, but I certainly can't style anything at all. And I really dislike CSS or styling tasks

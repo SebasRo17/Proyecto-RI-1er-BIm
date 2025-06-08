@@ -1,1 +1,0 @@
-experiencing weird issue consider dataset defined like dataset dataset b b would expect export test json dataset create json file content b b instead command return export badval element data contains invalid value workaround run export test json normal normal dataset seems merely workaround anyone know neat solution

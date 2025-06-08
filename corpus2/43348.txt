@@ -1,1 +1,0 @@
-When applying variance (`Variance[10]`) or standard deviation (`StandardDeviation[10]`) to a constant value in Mathematica, Should the return be zero ? What I get from `StandardDeviation[10]` is the error saying that `standardDeviation::rectt: Rectangular array expected at position 1 in StandardDeviation[10]`. How do I fix it ?

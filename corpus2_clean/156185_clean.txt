@@ -1,0 +1,1 @@
+let say db table num column one unique auto incrementing used id page pull info row based query id want give user ability propose change kinda like wiki setup thinking another duplicate table maybe database altogether without auto incrementing column maybe date edited column keep proposed change queue approve script move row proposed db real db sound good better process

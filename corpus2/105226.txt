@@ -1,0 +1,1 @@
+I'm using SVN. Sometimes I miss something when I write a commit message. But once it's been committed, it cannot be reverted, and even I can't edit the message. Why they didn't put the edit function in it?

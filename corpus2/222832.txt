@@ -1,0 +1,1 @@
+I have been asked this question and even after a lot of research, I cannot find the answer. When I design a database using Entity relationship (ER) and then re-draw it as UML class model (extended with Data modeling profile for UML), what are the differences and how both models can be (in their way) useful for db developer? With regard to multiplicity, foreign keys..

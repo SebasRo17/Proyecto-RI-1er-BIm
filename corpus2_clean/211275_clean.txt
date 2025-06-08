@@ -1,0 +1,1 @@
+sort standard regarding http api response reading discourse thread started wonder developing public http json api work anything strictly needed example put resource id return num ok corresponding 4xx json body generic success like discus link ok body handle everything http response code

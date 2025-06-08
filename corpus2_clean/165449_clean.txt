@@ -1,0 +1,1 @@
+government agency publishes text file thousand record entire file 60mb every day file num new changed record need validate info file auditing purpose may need recover file certain date thought could use vcs store file using git understand git store entire text file file still need 30mb store everyday version wonder one free vcs store diff patch file

@@ -1,1 +1,0 @@
-like write indicator use function like tradingchart context clear one need write function whose parameter provide access underlying list ohlc bar also know whether indicator funtions called every bar seen latter list sufficient former another parameter let know

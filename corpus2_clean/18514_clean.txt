@@ -1,1 +1,0 @@
-question face adjacency graph suppose adjacency matrix known planar graph use command graphplot give vertex labeling result enter image description face figure exclude outer face set vertex face know find list vertex automatically enter adjacency matrix sure picked matrix planar graph due planargraph

@@ -1,1 +1,0 @@
-common feature graph function used throughout textbook simple indication open circle point function undefined way mathematica understand use epilog prolog explicit drawing graphic function manually draw element u way automatically least return coordinate point use argument epilog

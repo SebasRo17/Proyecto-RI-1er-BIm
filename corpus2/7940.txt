@@ -1,1 +1,0 @@
-I have multiple plots of permittivity against frequency, but they're hard to read because the frequency labels go from 4x10^14 to 1x10^15 in Hz. I want to label the frequency with THz instead of Hz, so each value would just get divided by 10^12. How do I do this?

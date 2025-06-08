@@ -1,0 +1,1 @@
+I have developed software that I would like to sell commercially. I don't know which license I should use. I've never used one before. I don't I think need/should to write one myself. Basically, I want to restrict end-used from doing these things without contacting me first:   * share binary program with others   * (re-)sell the software

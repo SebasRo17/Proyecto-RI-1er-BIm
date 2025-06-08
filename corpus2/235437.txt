@@ -1,0 +1,1 @@
+I'm currently learning how to develop web apps with C#, ASP, .NET and MVC. I am enjoying the MVC paradigm a lot, but then thought about using this to develop desktop software with. I googled around, but found nothing using the MVC pattern to create desktop apps that connect to databases. So what software pattern do .net programmers like use if they not using MVC? Thanks.

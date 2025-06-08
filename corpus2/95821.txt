@@ -1,0 +1,1 @@
+I am looking for an application (or and IDE plugin) that I can use in order to test some algorithms I implement.   Mainly metaheuristics used in TSP, VRP and other optimization problems. I have already checked some common suggestions on the net, but they're rather too simple for example Zest. Any suggestions?

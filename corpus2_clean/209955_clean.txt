@@ -1,0 +1,1 @@
+read recently macro support scala official checked documentation page reminiscent lisp one one essay paul graham writes add final increment power language longer new one lisp dialect case scala seem like lisp dialect macro support scala somewhat awkward

@@ -1,0 +1,1 @@
+commercial android project created client specific version mainly ui tweak since bulk tweak re folder xml file change currently branch really want port change back forth branch perpetuity curious anyone source control strategy make managing multiple client specific version android application painless possible also sure belongs stackoverflow feel free transition guessed wrong

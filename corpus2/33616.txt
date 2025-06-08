@@ -1,1 +1,0 @@
-I have this inequality:               Reduce[(4000-1000k)/(k-4) < 0]      and the answer is               k ∈ Reals      I would expect `k != 4`.

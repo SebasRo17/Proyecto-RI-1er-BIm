@@ -1,0 +1,1 @@
+I'm wanting to get the most out of git and not just be using it as a translated form of SVN. I've read hginit's article about coming from SVN. That article of course though is concerned with Mercurial. Git is distributed and similar, but I wouldn't think it to be the exact same. Is there any articles similar to hginit to forget about SVN and start over with a Git mindset?

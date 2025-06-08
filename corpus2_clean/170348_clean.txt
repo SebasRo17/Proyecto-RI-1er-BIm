@@ -1,0 +1,1 @@
+example using mvc like architecture folder structure use domain1 controller model view controller model view controller domain1 model domain1 view domain1 deliberately left file extension keep question language agnostic personally prefer separate business domain gut feeling see many framework separate technical domain whould choose one

@@ -1,1 +1,0 @@
-Is there a command that will take a rational number and rewrite it in a mixed- number-like form? That is, I'd like to apply a command to something like `10/7` and get the result `1 + 3/7` (or `3/7 + 1` would be fine, too). With polynomial division, the `Apart[]` command does the trick pretty well, but I haven't been able to find anything comparable for numbers.

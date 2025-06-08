@@ -1,1 +1,0 @@
-get numerical output listsurfaceplot e list point x z used construct plot thanks help list x z new mesh irregular need z value specific x detail original data array x following user suggestion output data get result based regular grid grid based input data like get original data data import surf listsurfaceplot data maxplotpoints thanks lot help harald

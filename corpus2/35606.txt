@@ -1,1 +1,0 @@
-Can someone shed some light on why               Assuming[{x ∈ Reals}, x (Sign[x]^2 - 1)] // FullSimplify      returns               x (-1 + Sign[x]^2)      instead of zero please?   I know one can not expect `FullSimplify` to perform miracles but this example does seem pretty obvious.

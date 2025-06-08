@@ -1,0 +1,1 @@
+think remember reading somewhere one principle good oo design write method take least derived possible derived possible first principle second would go looking mentor developer refer

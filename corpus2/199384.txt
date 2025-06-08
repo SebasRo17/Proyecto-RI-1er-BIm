@@ -1,0 +1,1 @@
+I was asked whether I've ever "deployed to a physical machine" and I'm seeing this terminology when googling, but not getting a definition. What does it mean? What other way could someone deploy an application if not to a physical machine?

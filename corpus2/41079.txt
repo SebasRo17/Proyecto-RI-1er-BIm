@@ -1,1 +1,0 @@
-I'd like to run sparse PCA on some economic data. There appear to be several R functions available including elasticnet and PMA but I wanted to check if anyone had something coded up directly in MMA they might be willing share? Thanks, Peter

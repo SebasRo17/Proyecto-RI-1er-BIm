@@ -1,1 +1,0 @@
-I have very strong desire to use superscript as the index of the variable. However, it looks like that the Mathematica automatically recognize the superscript as the power and I got message that my variable with superscript is 'protected'. Could you help me to make the superscript used as the index of the variable instead of power?

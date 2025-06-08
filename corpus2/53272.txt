@@ -1,0 +1,1 @@
+In an embedded device, during the initializing of memory locations, is there any convention that are being practiced. I mean, say setting every byte to zero or 0xFF or any other value.

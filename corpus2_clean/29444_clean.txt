@@ -1,1 +1,0 @@
-say curve parametrically defined would able plot shape like figure whose center aligned along curve say curve p arch parametricplot p ax automatic axeslabel x z plotrange boxed false boxratios automatic anyone know might able

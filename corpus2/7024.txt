@@ -1,1 +1,0 @@
-I tried to plot plane $x = 0$ and $y=0$ with `Plot3D[x = 0, {x, -4, 4}, {y, -4, 4}]` but it seems that it didn't work out. How can I plot the above planes? Also is there a way to plot with z parameter being in the function? Note: I was trying to illustrate a closed surface by planes x=0,y=0,z=0 and 2x+2y+z=4

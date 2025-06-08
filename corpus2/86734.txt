@@ -1,0 +1,1 @@
+This answer and the comments added to it show a way to disable several compiler warnings using `#pragma` directives. Why would one want to do that? Usually the warnings are there for a reason, and I've always felt that they're good reasons. Is there any "valid case" where warnings should be disabled? Right now I can't think of any, but maybe that's just me.

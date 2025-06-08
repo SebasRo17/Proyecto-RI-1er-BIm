@@ -1,1 +1,0 @@
-The default font is WAY too small. I can't read it on my jumbo-size laptop monitor, and my professors can't read my papers when I turn them in. Can somebody please provide DETAILED instructions on how to change the GLOBAL default font size to 18 points?

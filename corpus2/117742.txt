@@ -1,0 +1,1 @@
+I've been using Devise for a little while, and I've realized it's built on something else called Warden that handles authentication. What does Devise offer me outside of Warden, because I was considering removing devise and just using Warden.

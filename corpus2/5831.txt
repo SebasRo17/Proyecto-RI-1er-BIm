@@ -1,1 +1,0 @@
-How to use summation to get the value of a binary number? I want to do this: $(x_{n}x_{n-1}...x_{0})=\sum_{i=0}^{n}x_{i}\cdot b^{i} $ But it seems that I can only do something like this: $\sum_{i=1}^{10}i^{2}$ I imagine that there is some indexation function which will help to do so, I also know how to do in another way, but is it possible to do this using summation?

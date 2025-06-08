@@ -1,0 +1,1 @@
+simply put best practice whether developer write automated test check correct content config file database etc assume static given release specified part requirement

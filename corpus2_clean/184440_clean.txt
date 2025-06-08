@@ -1,0 +1,1 @@
+piece written convert jar terminal also node j script would like running jar file process running project follows start mongodb terminal node j script jar file want know way could automate project calling one single file instead running many file separately

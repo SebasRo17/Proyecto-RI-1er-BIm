@@ -1,1 +1,0 @@
-How can we make a comprehensive statement, which will correspond to the truth table of xor (A, B, C) (means that only true if exactly one of A,B,C is true) by combining logical operators AND (&), OR (|), XOR (xor) and NOT (!)?

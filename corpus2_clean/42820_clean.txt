@@ -1,1 +1,0 @@
-titel say want transpose matrix containing row unequal length able transport excel row form many datapoint write cell another topic found use flatten transpose uneven list however give right result example list flatten list result result want want keep row together print column possible

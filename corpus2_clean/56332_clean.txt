@@ -1,1 +1,0 @@
-trying program fft using recursive function mathematica though program getting anywhere moment could say wrong make work program following assume list size integer fft n length n return f exp pi n b drop length c drop length fft b e fft c k k n k k k e k k n k e k f return table n

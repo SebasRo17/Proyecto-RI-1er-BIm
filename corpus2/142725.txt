@@ -1,0 +1,1 @@
+Can Services in a domain-driven design be implemented as C# static class? What are the drawbacks of this choice? Can it be implemented as a non-singleton non-static class?

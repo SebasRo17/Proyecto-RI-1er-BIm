@@ -1,1 +1,0 @@
-would like add new attribute built symbol e g elementdata polyhedradata still call symbol way e g elementdata name property new user added property possible

@@ -1,0 +1,1 @@
+I know that they are implemented extremely unsafely in C/C++. Can't they be implemented in a safer way? Are the disadvantages of macros really bad enough to outweigh the massive power they provide?

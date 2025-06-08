@@ -1,1 +1,0 @@
-As we all know in spherical coordinates a function `phi = π/3` gives us a cone. The cone makes an angle of `π/3` with the imagined `z`-axis. How do I type this formula into _Mathematica_?

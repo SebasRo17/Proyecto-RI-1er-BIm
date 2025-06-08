@@ -1,1 +1,0 @@
-I need your help with making a slider invisible and visible in a `Manipulate`. Here is my code:               Manipulate[{},        {x, 0, 1},        {y, 0, 1},        {visible,          {"only x-slider visible", "only y-slider visible", "both visible"},          ControlType -> PopupMenu}]      The `PopupMenu` shows how I want it to function.

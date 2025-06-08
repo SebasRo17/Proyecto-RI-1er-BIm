@@ -1,0 +1,1 @@
+web application lot javascipt cs want minify cs j using something like however want program minified want team checkout non minified common way guess would push minified non minified reference minified file people create file call build run j cs file minifier programmer would build script pushing right

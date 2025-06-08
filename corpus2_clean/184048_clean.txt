@@ -1,0 +1,1 @@
+choice using dvcs cvcs actually make shorter release cycle make software release cycle shorter argument num related pull request easier submission patch play role num related people factor project team use cvcs act conservative release schedule num factor

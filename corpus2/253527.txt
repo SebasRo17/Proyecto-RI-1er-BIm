@@ -1,0 +1,1 @@
+The 2nd time I run this program I'd like it to start in the same HDD location as the previous instance. How should I save, or remember, where I was so the program starts in the same place? I'd like to persist my previous location the same way across MAC, Linux, Windows, ... Where is a good place to save my location so it's available to me the next time I run?

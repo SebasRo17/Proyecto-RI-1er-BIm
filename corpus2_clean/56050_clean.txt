@@ -1,1 +1,0 @@
-looking something like nextpow matlab like p nextpow return exponent smallest power two satisfy p geq left right

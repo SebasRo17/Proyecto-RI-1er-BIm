@@ -1,1 +1,0 @@
-I use IKernelLink class. When I call evaluate method, I get an exception, because I have unread data. How can I ignore it?

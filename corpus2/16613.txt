@@ -1,1 +1,0 @@
-I have two Functions, `f[]` and `g[]`. `f` is passed some values ,say `{w,x,y,z}` and I want to send one of those to `g` say `x`. I don't want this operation to interfere with other operations.

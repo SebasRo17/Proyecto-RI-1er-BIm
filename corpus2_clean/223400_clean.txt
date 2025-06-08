@@ -1,0 +1,1 @@
+whenever new project start usually make sense start committing straight master got something stable start working branch least normally way immediately start branch second commit make sense way obviously initial commit always master know right time start making branch new feature

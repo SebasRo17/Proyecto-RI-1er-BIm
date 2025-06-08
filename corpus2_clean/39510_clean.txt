@@ -1,1 +1,0 @@
-old quaternion package function named matrixtoquaternion reference matrix document see top page test matrix part matrixtoquaternion function package quaternion check according web page sqrt quaternion give value simply total see wrong unit quaternion quaternion right value order value look two component value wrongly calculated go wrong

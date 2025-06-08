@@ -1,0 +1,1 @@
+Whats the best way to get back and stay abreast to latest stuff going on with C#3/4? I do have Jon Skeet's book

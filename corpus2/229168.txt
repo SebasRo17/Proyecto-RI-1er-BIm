@@ -1,0 +1,1 @@
+I'm trying to automate the process of sending many domain name lookup requests. I tried to do this by sending for example http request to domain registry site like Whois.net, but I notice they block you after several attempts. others like networksolutions adds token to the page to avoid automated requests. Is there any ideas please? I'm using Java.

@@ -1,0 +1,1 @@
+I've started to learn a little ROR and everthing I read says that ROR espouses the DRY principle and they seem to imply that this is a big thing that makes ROR different from other languages/frameworks. What language _does_ encourage duplicate code?

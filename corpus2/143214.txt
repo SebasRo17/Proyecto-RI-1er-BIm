@@ -1,0 +1,1 @@
+I have heard such thing as Script Binding - binding Javascript or lua with API's from C++ or Objective-C. I want to know more about it- however Google has strangely proven unuseful for this. How is it done? - it OK if I get pointed to other sources, but, just how? I never knew a Scripts jitter could interact with compiled libraries.

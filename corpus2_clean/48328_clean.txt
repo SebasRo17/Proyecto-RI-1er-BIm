@@ -1,1 +1,0 @@
-given certain function f k would like minimize asking mathematica supplying given bound parameter expression get following result f k k k r k r k r k k r k r k r k k n r k minimize f k r n k n r r k piecewise f r n infinity k piecewise n r r n indeterminate question result supposed mean somehow able understand output tell minimum function trying minimize

@@ -1,1 +1,0 @@
-trying extract variable name list transformation rule mapping var val var val variable var var already defined notebook var init val var init val try evaluate extract mapping holdform get init val instead var wrong var getting evaluated despite explicit holdform wrapper fix problem

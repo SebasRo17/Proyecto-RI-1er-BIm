@@ -1,1 +1,0 @@
-Consider               RSolve[{a[n + 1] == 2 a[n] + n (1 + 2^n), a[1] == 1}, a[n], n]      _Mathematica_ 8 can solve this quickly, but _Mathematica_ 9, even after being allowed to run for a long time, cannot giva a result.

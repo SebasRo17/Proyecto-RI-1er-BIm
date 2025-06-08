@@ -1,0 +1,1 @@
+understand writing object immutable style help performance program compiled language tends rewrite single static assignment form hood anyway performance benefit using immutable object interpreted language like php understand may readability quality benefit immutability asking specifically performance

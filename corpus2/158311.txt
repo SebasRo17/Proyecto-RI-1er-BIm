@@ -1,0 +1,1 @@
+I wanted to implement real time push notification to one of the apps written in RoR. I don't have any experience with nodejs, nowjs, express or socketio. What would be the easiest way to implement the realtime push notification system?

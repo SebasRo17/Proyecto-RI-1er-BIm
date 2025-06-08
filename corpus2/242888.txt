@@ -1,0 +1,1 @@
+If I'm used to use ' for string literals in PHP, would it be better if I'll stick to it in any situation or can there be exceptions when it would increase readability? example: `$foo = "bar'baz"; // this may be easier to read $foo = 'bar\'baz'; // but this would stick to the convention`

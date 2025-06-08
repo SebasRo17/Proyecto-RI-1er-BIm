@@ -1,0 +1,1 @@
+For experimental reasons, I am trying to convert user input into a fictitious language. All of the translation can be 1:1. I would prefer if I could accomplish this with PHP. Should I use gettext and poedit? The fictitious language is not very large, I imagine I can do most of the translation 1:1 I have scoured the googles, but have only found dated code and localization.

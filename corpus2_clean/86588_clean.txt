@@ -1,0 +1,1 @@
+create table row need store num number value row always need store num number value smaller number value would make field value num approach seems bit cumbersome since always num value maybe correct approach way store value field seems like nice solution concept almost identical creating relational database

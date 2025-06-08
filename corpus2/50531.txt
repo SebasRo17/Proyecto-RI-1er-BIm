@@ -1,1 +1,0 @@
-I want to define a new Cellular Automata rule as follows               {{1, _, 1} -> 0, {1, _, 0} -> 1, {0, _, 1} -> 1, {0, _, 0} -> 0}      where _ represents Blank in mathematica. How can I code this in mathematica?

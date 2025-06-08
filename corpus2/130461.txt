@@ -1,0 +1,1 @@
+On a uniprocessor, it is apparently optimal to schedule jobs that take less time first assuming non-preemptive scheduling - once a job runs, it must finish. Why? I am confused about how the ordering would change the overall latency. Since a uniprocessor can only take on a single process at a time, wouldn't the latency be the same regardless of order?

@@ -1,1 +1,0 @@
-I would like to diagonally hatch the bars in `BarChart` and to have three different background colors for the different bars, like this: ![enter image description here](http://i.stack.imgur.com/iXa9S.png) Any ideas how to reproduce this image? The closest post I found is here.

@@ -1,1 +1,0 @@
-trying build large graph approximately edge two dimensional integer vector list edge form e e e e dotsc e n etc convert usable edge list need turn every element list rule edgelist mapthread rule transpose edgelist work fast enough edge slow best way speed threading

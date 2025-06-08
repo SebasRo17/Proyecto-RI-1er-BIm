@@ -1,1 +1,0 @@
-I want to make a plot similar to LogLinearPlot, but with power of 2 ticks instead of 10 on x axis.               values = {n -> 2^x}     Plot[{Evaluate[f[n] /. values]}, {x, 2, 10}]      How to mark x axis with 2^2, 2^3, ... , 2^10 instead of default 2, 3, ..., 10 ?

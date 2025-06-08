@@ -1,0 +1,1 @@
+hoping someone might idea create restful web api model entity searchable foreign key see lot tutorial functionality consist listing record entire model retrieving single record model primary key arbitrary foreign key simple checking extra condition request thought would get advice

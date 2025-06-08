@@ -1,1 +1,0 @@
-using scphidecomp expr polynomialreduce expr x x x work great scphidecomp x c x c want scphidecomp x c x x c use polynomialreduce produce c second expression still producing desired result st thanks keith

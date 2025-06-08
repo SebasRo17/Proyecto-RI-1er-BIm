@@ -1,0 +1,1 @@
+representing geographical location within application design underlying model suggests two clear option maybe one table self referencing parent id column uk london london parent id uk id two table one many relationship using foreign key preference one self table easily allows extend many sub region required general people veer away self referencing table ok

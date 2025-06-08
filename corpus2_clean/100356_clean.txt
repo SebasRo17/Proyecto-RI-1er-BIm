@@ -1,0 +1,1 @@
+mostly seen asp net website using mssql database even developed one time ago mssql mysql free alternative available question possible integrate mysql database easily mssql asp net application need use api

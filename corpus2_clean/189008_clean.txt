@@ -1,0 +1,1 @@
+every instruction come memory ram bootloader least intel ibm pc firmware designation bios jump memory address begin fetching instruction whatever purpose usually load kernel instance process begin hardware stack limited using constitute process thread point simply make something thread process opposed byte memory drawn situation

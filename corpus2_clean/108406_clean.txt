@@ -1,0 +1,1 @@
+asked following question interview today thinking ever since able answer able find solution online given chess board dimension x n queen determine whether possible arrange queen board cannot attack num x num board num queen solution algorithm would q q looking programming approach puzzle way solve paper example

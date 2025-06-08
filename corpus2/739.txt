@@ -1,0 +1,1 @@
+What is the recommended User Account Control (UAC) setting when developing on Windows? Even on Win7 I find it annoying enough to turn it off (because it makes me more productive with it off) but sometimes I feel bad because I know I'll find more problems in my code if I leave it on.

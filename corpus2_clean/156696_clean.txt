@@ -1,0 +1,1 @@
+wonder possible tool generate annotated pojos table make clear example person table field like id surname etc wanna generate pojo named person mapping made annotation

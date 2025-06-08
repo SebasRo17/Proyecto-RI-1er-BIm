@@ -1,0 +1,1 @@
+using hmac hash inserting database currently key static field wondering best practice regarding storing key would good enough configuration file thanks

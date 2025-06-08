@@ -1,1 +1,0 @@
-I want to extract the cluster of points inside 3D box, is there any way one can do this in _Mathematica_?

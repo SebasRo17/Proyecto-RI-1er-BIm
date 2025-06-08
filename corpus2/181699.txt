@@ -1,0 +1,1 @@
+How does the **Law of Demeter** applied to object-oriented systems with coupling and cohesion? I was reading a book "Software development and professional practice" and came across the chapter about LoD, and was curious about how that principle is applied into object oriented systems.

@@ -1,1 +1,0 @@
-using functional programming mathematica compute distance matrix every element list matrix distance would computed item list target matrix simplicity let consider list list simple x matrix integer range target matrix matrix type well reason want filter list find matrix closest target one

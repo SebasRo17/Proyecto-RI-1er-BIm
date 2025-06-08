@@ -1,1 +1,0 @@
-creating styled notebook showing simple theorem set cell style text theorem code satisfy requirement explain theorem need embed formula necessary whole line text find style

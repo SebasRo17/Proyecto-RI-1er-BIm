@@ -1,1 +1,0 @@
-I need to get the number of all combinations of binary digits in an 8-digit binary number, but minus some "forbidden" patterns like:               xxxx0xx1     x1xxx0xx     x1xxx0x0      (where x is any digit) These shouldn't be in "valid" combinations I would like to count. My numbers are much larger in fact, so I can't simply enumerate them. What should I do?

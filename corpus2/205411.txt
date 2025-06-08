@@ -1,0 +1,1 @@
+I always wondered why git prefers hashes over revision numbers. Revision numbers are much clearer and easier to refer to (in my opinion): There is a difference between telling someone to take a look at revision 1200 or commit 92ba93e! (Just to give one example). So, is there any reason for this design?

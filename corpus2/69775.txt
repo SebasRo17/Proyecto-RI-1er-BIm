@@ -1,0 +1,1 @@
+I tried searching but didn't get any useful information. What does the word "Relational" mean here? Is it tables being related to each other just like the real life entities, or does it mean something else?

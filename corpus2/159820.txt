@@ -1,0 +1,1 @@
+I mean what are some of the ways other programmers deal with exception for example, when an error occurs when accessing a web service for say. If an example cant be given for windows phone, give the closest you could.

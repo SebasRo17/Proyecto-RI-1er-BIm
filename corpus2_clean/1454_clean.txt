@@ -1,1 +1,0 @@
-dialog pop request input user set window focus inputfield new window e caret stand inputfield user start typing immediately registered field moment click inside field first make active control screen dialoginput inputfield string button ok dialogreturn

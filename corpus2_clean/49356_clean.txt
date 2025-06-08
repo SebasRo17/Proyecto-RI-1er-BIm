@@ -1,1 +1,0 @@
-simulating trajectory charged particle coordinate saved list coor etc time go array getting bigger computation slower usual way solve issue guess using coor append coor r best way save data way sugesstions thanks

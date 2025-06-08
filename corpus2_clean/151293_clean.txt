@@ -1,0 +1,1 @@
+utf8 utf16 string php also keep track encoding used let look script example say original actually happens obviously think original contain num character glyph must represented several byte converted mb convert encoding original utf num happen converted converted different original exact byte sequence original different encoding

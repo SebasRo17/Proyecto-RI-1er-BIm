@@ -1,0 +1,1 @@
+following compile val num short val incompatible type anyone know chooses complain assignment instead simply truncating integer integer also likely overflow illustrate val num result val val num system println result num result2 num system println quietly result2

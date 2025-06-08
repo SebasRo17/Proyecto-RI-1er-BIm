@@ -1,0 +1,1 @@
+Is it generally possible while using source code management to figure out in what version of a file a specific line was added? If so, what SCM systems support this?

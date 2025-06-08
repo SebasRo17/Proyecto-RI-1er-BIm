@@ -1,0 +1,1 @@
+I have spend the last 5 or so years doing PHP, and I have to say it is far from my favorite language. I would like to move to a position doing something else (say Erlang) but how do I get people to look at me. It seems despite everything on my CV (including an upcoming book from O'Reilly) I keep getting pigeon holed into PHP type positions.

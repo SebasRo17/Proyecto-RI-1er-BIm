@@ -1,0 +1,1 @@
+Among the GUI libraries for Python, which is more easier to work with: PyQt4, wxPython or any other? I just wrote few lines of PyQt4 code, it seems things are not that easy with Qt. Are there any performance pros and cons also among these GUI libraries?

@@ -1,1 +1,0 @@
-let output message print two separate external file also like content print similar look print inside notebook e outputform whatever proper form

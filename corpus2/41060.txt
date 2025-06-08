@@ -1,1 +1,0 @@
-Why is it that               fun[x, y] /. fun[z__] :> z      leads to > >     Sequence[x,y] >   but               Dot[x, y] /. Dot[z__] :> z      gives > >     Dot[x,y] >   I want it to be > >     Sequence[x,y] >   Makes no sense. How do I make it work like I think it should?

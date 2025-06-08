@@ -1,1 +1,0 @@
-problem like given following set b c e f h j want pick one element set output list possibility output set set length tried many different approach

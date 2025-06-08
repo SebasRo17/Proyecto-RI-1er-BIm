@@ -1,1 +1,0 @@
-mathematica enter get instead zero fix problem getting imaginary solution error program

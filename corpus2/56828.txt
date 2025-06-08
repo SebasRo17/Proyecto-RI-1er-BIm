@@ -1,1 +1,0 @@
-How can one go about implementing a custom data backend usable by _Mathematica_? For example something like `CountryData` or `FinancialData`? I would like to expose our data backend as a service with similar access logic used in the above mentioned data libraries.

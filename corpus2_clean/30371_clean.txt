@@ -1,1 +1,0 @@
-using function histogramlist generate frequency table data set code look like frequencytable histogramlist dataa pdf numerical output question would like add three number right hand side one another next would like add three number left hand side one another last would like subtract sum three number left sum three number right

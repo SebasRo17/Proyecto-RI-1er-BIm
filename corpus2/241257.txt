@@ -1,0 +1,1 @@
+I am writing a package for something that requires an environment variable to be set in order to execute properly. Should the install step of a package manager modify a user's environment, or simply prompt the user to do so themselves? My intuition would be the latter, but I can see arguments for the former.

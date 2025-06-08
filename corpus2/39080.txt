@@ -1,1 +1,0 @@
-Referring to How to make a dynamic stopwatch? > Timers can now be created with `timer = makeTimer[]` and utilised with > actions such as `timer["lap"]` to get the current lap time. Timers are > quiescent unless asked to do something. > > You could extend this to handle a pause function if that's required. How do you add that pause button?

@@ -1,1 +1,0 @@
-I define the function:                w[q_, n_, a_] := q/(4 Pi n r^2) (1 - Exp[-2 r/a] (2 (r/a)^2 + 2 (r/a) + 1))      I then want to solve:                q = 1.6*10^(-19);      n = 8.85*10^(-12);      a = 0.529*10^(-10);      Solve[w[q, n, a] == 1000, r]      This does not work and I do not understand why. I think there is a solution. Any ideas?

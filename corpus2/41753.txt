@@ -1,1 +1,0 @@
-I have a set of say `100` numbers `{1,3,7,11,19,...3971}`. All elements are previously determined. I want to check whether `376` belongs to this set or not. what is the fastest way? Thanks

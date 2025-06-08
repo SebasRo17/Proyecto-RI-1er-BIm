@@ -1,0 +1,1 @@
+going write graphical 2d application allows user create polygon transform transformation rotation hoping someone give pro con argument different choice got mind btw represent vector filling matrix real number mean making matrix data support multiplication transposing etc b make vector make matrix support vector

@@ -1,0 +1,1 @@
+following sort directory structure part1 build src part2 build src header file would like include part project contain constant macro definition well utility function want synchronized two part would generally acceptable way format directory structure something like part1 build src part2 build src share src set make file build directory also look share src correct way

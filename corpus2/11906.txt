@@ -1,1 +1,0 @@
-I have a list of all non-cyclic permutations of n labels. How can I get rid of all elements which are redundant in the sense that they are the inverse of another one. For instance if n=4, the elements {1,2,3,4} and {1,4,3,2} are related by reversal and right rotation by one element. So I want to discard the latter. Cheers!

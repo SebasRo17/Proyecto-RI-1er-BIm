@@ -1,1 +1,0 @@
-I want to compute the following integral, in which 5 can be replaced by any natural number. But I found Mathematica keep running forever and cannot evaluate it. I want to ask for some help.               Integrate[      Sqrt[5]/Sqrt[2 Pi] Exp[-5 x^{2}/2] 1/Sqrt[2 Pi] Exp[-y^{2}/2],       {x, -Infinity, Infinity}, {y, x - 1.96/Sqrt[5], x + 1.96/Sqrt[5]}]

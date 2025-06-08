@@ -1,1 +1,0 @@
-would like able define gain function system parameter specifically like define function accepts two input call b w return function accepts single parameter v return sqrt w v b v right way presumably like able write gain b w v evaluate function parameter b w v also like able write f v gain b w f v gain b w v

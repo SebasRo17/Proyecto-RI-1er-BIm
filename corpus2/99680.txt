@@ -1,0 +1,1 @@
+I used to commit files which I want to group. But one of my colleague said that committing whole working project is better than committing files. I think it makes sense but if I commit like that sometimes I have to commit several different works at once. What is the best practice to commit?

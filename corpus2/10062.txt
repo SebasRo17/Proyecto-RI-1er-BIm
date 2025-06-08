@@ -1,1 +1,0 @@
-I have a user defined function which is called many times in the code. I want to ask that when I am deploying the code to`CDF`, I need to define that user defined function also. I tried it using `DynamicModule` and `With`. But none is working. How should I give that user defined function so that it can be deployed into `CDF`.

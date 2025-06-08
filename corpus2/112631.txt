@@ -1,0 +1,1 @@
+Many modern programming languages (Scala, Erlang, Clojure, etc.) are targeting the JVM. What are the main reasons behind that decision?   * JVM's maturity?   * Portability?   * Because JVM simply exists, and the language designers were not willing to write a new VM/interpreter?

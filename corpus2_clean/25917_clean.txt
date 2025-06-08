@@ -1,0 +1,1 @@
+seen c people used enum heavily confuse others many place plain integer thing less ambiguity common enum

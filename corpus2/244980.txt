@@ -1,0 +1,1 @@
+A list is strictly convex if its elements first decrease then increase. How can I write a function in python that accepts a convex list and returns its minima in time complexity O(log(n)), n being the size of the list. (NO USE OF ANY BUILT IN FUNCTIONS OVER LISTS)

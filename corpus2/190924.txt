@@ -1,0 +1,1 @@
+The A* Algorithm is the optimal (provided the heuristic function is underestimated), complete & admissible (provided some conditions). I know the proofs of admissibility & optimality. But how do you prove that the A* Algorithm is complete?

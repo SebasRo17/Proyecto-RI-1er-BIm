@@ -1,0 +1,1 @@
+I'm thinking about to switch in middle term to node.js for server-side and mostly jQuery and scriptaculous for client-side web development. For the scripting I'm planning to use coffeescript.   * do you think it's okay to use coffeescript or should I learn "plain" Javascript?   * What resources e.g. books, e-books, mailinglist, papers etc. would you recommend?

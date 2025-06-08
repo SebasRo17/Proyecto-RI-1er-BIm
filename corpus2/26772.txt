@@ -1,1 +1,0 @@
-I have found an example for clearing all symbol definition by:               ClearAll["Global`*"]      But what does the symbol ` mean? It isn't the apostrophe ', yet it is not documented in _Mathematica_ help. Jim

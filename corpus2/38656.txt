@@ -1,1 +1,0 @@
-I'm trying to plot contours of a function `f[x,y,z]` on the faces of a cube as the example below, which represents the domain of this function. Is there a way to do it in _Mathematica_? The `ContourPlot3D` evaluates the contours along the domain and I just want them in the faces, colored by the function. ![enter image description here](http://i.stack.imgur.com/2Ggat.jpg)

@@ -1,1 +1,0 @@
-Given $\sin 2x+\sin x=1$, find the value of $\cos 2x+\cos 4x$. I know $\cos 2x+\cos 4x \implies 1-2\sin^2x+1-2\sin^22x$, but didn't get the answer.

@@ -1,1 +1,0 @@
-How can Caesar cipher be implemented? I want to use `StringReplace` but I don't know how to write the replacement rule to replace the characters with, say, the character two positions down in the alphabet.

@@ -1,0 +1,1 @@
+Overriding a method originally defined in the super class, by definition means this method will do different things when invoked on an object of the base class or an object of the subclass. So does this mean that overriding methods _always_ means violating LSP? Or are there cases when it doesn't?

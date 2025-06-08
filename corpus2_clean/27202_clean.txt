@@ -1,1 +1,0 @@
-animate manipulate parametricplot evaluate x v quiet ndsolve x v v x v x co x xv v xv x v tt tt imagesize plotrange axeslabel traditionalform x traditionalform v plotstyle pointsize parameter appearance labeled parameter appearance labeled parameter appearance labeled xv locator tt animationrate animationrepetitions animationrunning true

@@ -1,0 +1,1 @@
+discussing f functional programming friend last night brought interesting question would embedded software functional mean seems like fairly natural fit term stateless embedded also entail memory sure story functional regard suggestion language package embedded functional

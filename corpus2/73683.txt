@@ -1,0 +1,1 @@
+Today I was browsing through a book on SQL Server optimization and it seemed that a certain amount of the ideas were based on a linear model of storage. As SSDs have a completely different storage model, do they in any way change the game in regards to how one thinks about database tuning or optimization?

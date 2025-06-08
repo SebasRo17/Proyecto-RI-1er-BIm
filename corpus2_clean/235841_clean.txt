@@ -1,0 +1,1 @@
+currently learning clojure first functional programming language curious order evaluation example take num cycle num num num cycle expression wrapped take expression would cause memory would iterate infinitely vector clojure know wrapped take expression using incorrect terminology appreciate nudge

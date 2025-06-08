@@ -1,1 +1,0 @@
-suppose write mathematica script called test like following print hello world test toexpression commandline print alive try call script command line like math script test print lolol quit get following output hello world lolol naturally scare hoping way interpret command line argument secure way anyone help

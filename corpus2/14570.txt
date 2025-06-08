@@ -1,1 +1,0 @@
-When I try to format a number that has a big exponent with TeXForm the following happens:               In[1]:= TeXForm[1.543*10^-10 ]          Out[1]//TeXForm=         \text{1.543$\grave{ }$*${}^{\wedge}$-10}      But I would like to get something like `1.543 \cdot 10^{-10}`. Is there any workaround for this?

@@ -1,1 +1,0 @@
-default mathematica place x axis label end ax like enter image description googling suggested way around use frame example frame true true false false framelabel e none produce something like enter image description bad want vertical dividing line x really would preffered keep axis middle plot divider line done better way move ax label

@@ -1,1 +1,0 @@
-I have created a notebook that uses GUIKit to create a user interface. The targeted user does not have Mathematica available so I thought about using the CDF player to convert the file if possible, because it is available for free download. I am done with the current stage of the GUIKit app but how can I make it executable for someone without Mathematica?

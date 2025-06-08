@@ -1,1 +1,0 @@
-I have messed up the font size globally. I was playing with SetOptions and I think I have accidentally changed the font setting of the FronEnd setting globally as can be seen here. ![enter image description here](http://i.stack.imgur.com/mNBo3.jpg) I tried to uninstall Mathematical and instal it again but that did not help. how can I reset the font size to default.

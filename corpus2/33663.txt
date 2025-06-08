@@ -1,0 +1,1 @@
+I'm nearly clueless as to what a lambda expression is, but I have a hard time believing that I couldn't finagle something to the same effect in Delphi (albeit with 900% more code). What is the big advantage of lambda expressions, what am I missing out on and is there anything with the post Delphi 2009 RTL improvements that comes close to emulating the powers of C# in this regard?

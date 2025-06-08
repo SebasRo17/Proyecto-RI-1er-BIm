@@ -1,0 +1,1 @@
+If you've always loved unit testing, good for you! But for the unfortunate ones who weren't born with a liking for it, how have you managed to make this task more enjoyable ? This is not a "what is the right way to unit test" question. I simply want to know little personal tricks that reduce the boredom (dare I say) of writing unit tests.

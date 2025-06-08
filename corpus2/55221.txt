@@ -1,1 +1,0 @@
-I'm liking the new plot themes in Mathematica 10, but finding that I can't override the options it sets. For example,               Plot[x^2, {x, 0, 10}, AxesLabel -> {x}, PlotTheme -> "Scientific"]      returns the right plot but without the axis label. How do I fix this?

@@ -1,0 +1,1 @@
+Say I got a minimal use case such as "view home page" or "view banner ad". Should it be included or exluded in the use case actually following the link? What I mean is that whether it belongs to the use case "view page 1" if a report is that "The link from page 1 to page 2 is not working" in the common case of a "link not working".

@@ -1,0 +1,1 @@
+As part of a review of all job descriptions, my company has decided to include the following as a key output: > website development completed on time, within specification and **error > free** Given that specifications regularly change, there is no formal change control process and environments are, shall we say, a little unpredictable, how realistic and reasonable is this KPI?

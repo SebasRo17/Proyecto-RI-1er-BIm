@@ -1,0 +1,1 @@
+While threads can speed up execution of code, are they actually needed? Can every piece of code be done using a single thread or is there something that exists that can only be accomplished by using multiple threads?

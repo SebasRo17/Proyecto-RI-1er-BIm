@@ -1,0 +1,1 @@
+wrote first sax based xml schema validator pas schema url pointing xsd file xml instance determines whether instance valid looking write several unit test validator tdd people know know wondering common reason xml fails validation many element attribute schema could literally write thousand test case figured someone might know way simplify manageable set

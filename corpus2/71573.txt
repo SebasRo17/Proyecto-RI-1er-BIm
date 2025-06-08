@@ -1,0 +1,1 @@
+Given the following set of classes:               Camera, Photo, Photoshoot, Subject.      How would they interact to model the following sentence? _The next subject is called and has their photo taken._ I want to see if there is a preferred solution. **Edit:** Sorry I should have said in C#.

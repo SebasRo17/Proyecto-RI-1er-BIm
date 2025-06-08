@@ -1,0 +1,1 @@
+Suppose my code uses (simply links to) a library licensed under the GPL. Can I release _my code_ under CC0 (public domain dedication)? Is my code affected by the copyleft nature of the GPL?

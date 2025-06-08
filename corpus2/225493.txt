@@ -1,0 +1,1 @@
+I'm trying to develop a minimal MP3 player with some cool but light features. It is so simple that it doesn't matter if it is console application or not. Since my purpose is to consume the sources as small as possible which one should I pick? Extra info: I will be using a single textbox if it's going to be an application with GUI. Also, I am using VS 2010 C++

@@ -1,0 +1,1 @@
+why is functions like **`len`** and **`max`** not a reserved keyword in python. Following are the only reserved words http://docs.python.org/2/reference/lexical_analysis.html#keywords

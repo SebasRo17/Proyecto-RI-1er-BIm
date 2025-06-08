@@ -1,1 +1,0 @@
-Let x and y be arrays defined as `Array[x, m], Array[y,n]` respectively. How to generate the following function of $x$ and $y$ for variable $k$:               x[1]<y[n-k+1] && x[2]<y[n-k+2] && ... && x[k]<y[n]      Assume that $k<n$ and $k<m$.

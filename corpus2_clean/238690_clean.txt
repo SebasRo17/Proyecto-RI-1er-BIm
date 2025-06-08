@@ -1,0 +1,1 @@
+given two dimensional matrix alphabet search given word direction example search word team occurrence num matrix enter image description best approach solve dictionary word simply sequence searching direction

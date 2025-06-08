@@ -1,0 +1,1 @@
+It doesn't matter if it is Java or .NET. Is there a resource out there that's the de-facto standard for describing best practices and other helpful information on bouncycastle? What about that resource makes it special?

@@ -1,1 +1,0 @@
-set x z coordinate sparsely cover surface e g data good general method mathematica interpolating plotting surface sparse data set graphic bsplinesurface data seem get job done output planar rectangle

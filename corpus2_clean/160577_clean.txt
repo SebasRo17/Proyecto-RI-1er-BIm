@@ -1,0 +1,1 @@
+nowdays turned bloated client work mac linux window still keeping whole program single binary file weighs num kb competitor use gui library weigh around num mb create separate native gui platform instead using multiplatform gui library best approach achieve thing thanks

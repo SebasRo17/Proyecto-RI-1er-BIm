@@ -1,0 +1,1 @@
+I'd like to know at what point can be considerated an AI implementation? I means, what is the minimal requeriment for that? Can you give a simple code example?

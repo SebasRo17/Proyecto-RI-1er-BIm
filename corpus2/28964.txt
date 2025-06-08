@@ -1,0 +1,1 @@
+What are the challenges that an experienced programmer with the usual C++/UNIX background would face when trying to learn functional programming? The main motive for learning is to gain a fresh perspective, perhaps that'd help write better code. This is debatable though. Should Haskell be the introductory language or Prolog or Lisp or F#?

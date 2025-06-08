@@ -1,0 +1,1 @@
+example post service retrieve post logged user ok findposts us injected security service get user id pas user id post dao get record findposts explicitly require user id argument

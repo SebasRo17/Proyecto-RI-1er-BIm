@@ -1,1 +1,0 @@
-keep kernel running scheduled task completed example upon running following script bazinga runscheduledtask print bazinga math script bazinga kernel immediately exit run scheduled task setting ignoreeof true make difference

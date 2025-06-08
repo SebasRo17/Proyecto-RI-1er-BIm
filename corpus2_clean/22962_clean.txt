@@ -1,1 +1,0 @@
-use command mathematica documentation center export mat u labeleddata save data mat file two variable u work file empty command export mat work fine solve problem like save single file plenty variable using mathematica

@@ -1,0 +1,1 @@
+Is it ok to just use git only locally? I don't want to have to pay for a service that provides private repositories (such as Github) but I think git is a great way to organize my closed-source project.

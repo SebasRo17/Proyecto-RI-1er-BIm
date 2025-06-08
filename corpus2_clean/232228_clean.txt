@@ -1,0 +1,1 @@
+going hold meeting everybody speak clockwise direction around table n people n spot person position preference e g want go first last etc everyone seated randomly cannot move position shall compute best starting position table satisfy people n num solution see many people would satisfied assumed position num n start position position gave maximum

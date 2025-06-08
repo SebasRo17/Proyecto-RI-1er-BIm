@@ -1,0 +1,1 @@
+wondering tool generate dependency graph c language file analyze turn graph dag modifying creates cycle moving source file drawn dependency graph hand could probably make one using something similar moving function also done hand sorry vague best describe right

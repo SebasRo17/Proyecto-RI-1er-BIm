@@ -1,1 +1,0 @@
-How do I use the styles `"DisplayFormula"` and `"DisplayFormulaNumbered"`? Why is there no margin (or empty space) around the formula? Why does the latter **not** display numbers? How to set those styles to do what one expects?

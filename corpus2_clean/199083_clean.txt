@@ -1,0 +1,1 @@
+search site taking num different 3rd party resource problem take long requesting result page read question like session good choice memcache option server memcached installed way install approach storing database seem inappropriate depends search term requested thinking writing file server would act cache file know would know delete

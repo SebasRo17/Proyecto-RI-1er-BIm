@@ -1,1 +1,0 @@
-I have an imported and cropped image:               TestPicture = Import["filepath.jpg"];     TestPictureCropped = ImageCrop[TestPicture, Min[ImageDimensions[TestPicture]]];      How can I specify a coordinate in the image and return the color of the nearest pixel to the coordinate? Thanks for any help!

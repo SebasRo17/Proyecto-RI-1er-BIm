@@ -1,1 +1,0 @@
-If use «File > Save As > HTML» lines «in» and «out» are lost To save a document without loss of these lines/links? ![enter image description here](http://i.stack.imgur.com/RGetT.png) ![enter image description here](http://i.stack.imgur.com/1gMzf.png)

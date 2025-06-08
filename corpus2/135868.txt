@@ -1,0 +1,1 @@
+Just out of curiosity, what language is the CLR written in? I read on the Java Virtual Machine wikipedia entry that it is programmed in C++; is this the same for the CLR? Sorry if this is off-topic, I didn't feel that this question was technical enough to go on Stack Overflow. Thanks! :)

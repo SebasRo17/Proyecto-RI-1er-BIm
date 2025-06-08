@@ -1,0 +1,1 @@
+What are the advantages and disadvantages of externalising SQL queries in Java (or similar general-purpose object-oriented programming language. Externalizing means storing all SQL in a separate non-java file or files. Several good examples are here. Does it make debugging harder or easier?

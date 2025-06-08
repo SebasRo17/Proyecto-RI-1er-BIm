@@ -1,1 +1,0 @@
-take a simple formula like Ohm's law u=i*r... is it possible to solve for i without values??, something like Solve[u=i*r, i] and expect an output like i=u/r which gives me: Solve::naqs: i r is not a quantified system of equations and inequalities. >> Solve[i r, i] sol = Solve[u == i*r, i] which gives me {{}} Any help would be greatly appreciated

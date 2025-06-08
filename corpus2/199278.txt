@@ -1,0 +1,1 @@
+Binary Search, as we all know requires the elements to be sorted. But we have to take care of unsorted elements too, in the worst case. If the input size is very large, is it a good idea to sort the elements everytime? Can we not just check the elements that they are not sorted or not and proceed to sorting and proceed to sorting only if they are unsorted?

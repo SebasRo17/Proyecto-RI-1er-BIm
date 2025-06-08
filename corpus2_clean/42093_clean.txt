@@ -1,1 +1,0 @@
-suppose following function nn w n nn n nn n n nn n plot listplot listplot table n w n n joined true frame true ax none basestyle fontsize plotmarkers bullet plotstyle red enter image description change nn get following error listplot prng value option plotrange full automatic positive machine number appropriate list range specification deal large number plot

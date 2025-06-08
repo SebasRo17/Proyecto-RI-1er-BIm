@@ -1,1 +1,0 @@
-want write cdf file read commmand line argument something something like mathematica exe filename cdf argument inside cdf call commandline something get argument wondering possible

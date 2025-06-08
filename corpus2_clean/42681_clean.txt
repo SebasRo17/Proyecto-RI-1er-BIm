@@ -1,1 +1,0 @@
-problem converting data imported txt file proper mathematica expression importing data look like sample string string would like transform converted string string imported file using import file txt data

@@ -1,1 +1,0 @@
-equation eq f x g x solve f x sol solve eq f x use sol replace f x derivative another equation example eq f x g x f x eq sol output g x g x f x

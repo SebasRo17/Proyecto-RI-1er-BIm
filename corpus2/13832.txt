@@ -1,1 +1,0 @@
-Well, this question is just for curiosity, personally I never use `ReplaceAll` like this:               Cos[2 x] /. Sin_[2 x_] -> 2 Sin[x] Cos[x]     (* => 2 Cos[x]^2 *)      How to explain the result?

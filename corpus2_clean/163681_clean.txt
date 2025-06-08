@@ -1,0 +1,1 @@
+ok open fifo one fd share multiple thread better multiple fds opened fifo share fds thread btw write read environment linux c pthreads

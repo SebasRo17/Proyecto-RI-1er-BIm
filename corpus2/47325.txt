@@ -1,1 +1,0 @@
-Are there an easy way to do... from               historyobjetivot = {20, 20, 30, 40, 34, 20, 34};      obtain two lists: - One with the each diffrent item number in the original list,i.e, {20,30,40,34} - Other with the number of times that appear in the list {3,1,2,1} Or any similar to do a PieChart

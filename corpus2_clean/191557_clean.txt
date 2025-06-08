@@ -1,0 +1,1 @@
+researching way create oo model repository layer using php pdo idea create model class represent domain repository model responsibility saving database taking model argument mapping object property value sql query reading database instance model similar fashion inspired course oop used net ef linq lab asked question sa could sa got flamed supposedly bad practise see case

@@ -1,1 +1,0 @@
-I have an object of the form `Style[Grid[...,...],...]` What function do I need to apply to it to get the `Grid[...,...]` part only?

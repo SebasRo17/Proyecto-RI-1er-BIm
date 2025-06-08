@@ -1,0 +1,1 @@
+suppose take parameter collection parameter u constructor following solution work struct q q std initializer list u u creating instance would q q t1 u1 u2 look kind unclean better solution one

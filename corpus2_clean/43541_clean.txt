@@ -1,1 +1,0 @@
-long list number want check whether function something would look like partofq element list tell immediately true false whether element question part list ideally would also tell index built function efficient way building function

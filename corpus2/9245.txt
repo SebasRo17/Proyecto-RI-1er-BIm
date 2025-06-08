@@ -1,0 +1,1 @@
+Do you know of any interesting real life stories where programmers have written scripts that executed in case of their deaths? Do you have any scripts that would run in case of your untimely death? If you were to write a such script, what would it be? If you have already written one for yourself, what does that script already do?

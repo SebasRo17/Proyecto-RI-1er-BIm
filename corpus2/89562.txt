@@ -1,0 +1,1 @@
+I came across this term recently in a mail chain. Google tells me there is a term zero-day bug and that Microsoft and Adobe are the frontrunners :) Is there such a term as **day one bug**? What might that mean?

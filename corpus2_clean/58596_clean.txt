@@ -1,1 +1,0 @@
-want solve one dimensional one phase stefan problem know make mathematica understand condition familiar asking please refer wikipedia article far clearly work ndsolve u x u x x u x x x u u x x x u x u x hope someone magical code using mathematica thanks

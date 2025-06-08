@@ -1,0 +1,1 @@
+I know the title of the question is very subjective, but I was confronted with usage of `??` operator by my peers, where at the same time I was not very happy/comfortable with applying `var` in new up-coming code. The argument given for using `??` operator was, it takes away readability in code. My question is, doesn't the same thing happens when you start using `var`?

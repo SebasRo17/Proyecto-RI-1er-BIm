@@ -1,0 +1,1 @@
+delving organized programming recently learning programming interface implementation mind would better sketch project interface writing implementation possible case case using 3rd party library ie wrapping interface well resolve ioc container ok expose interface

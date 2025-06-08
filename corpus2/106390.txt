@@ -1,0 +1,1 @@
+If it's wiser to know a framework such as jQuery, MooTools, DoJo, etc. to get over cross-browser issues, why are interviews asking for only javascript?

@@ -1,0 +1,1 @@
+We usually test the web API s manually using J meter. Is it possible to create a software that will automatically create test scripts for the tests, and perform the testing ? I want to use J meter in the back end as the testing software.

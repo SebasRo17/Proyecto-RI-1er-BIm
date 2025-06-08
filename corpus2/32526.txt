@@ -1,0 +1,1 @@
+I've read that Windows is not recommended for Ruby development and this is last thing that stops me from starting some projects in Ruby. Are there any changes to this? Or any suggestions to make development less painful? PS. I really like Win 7 as desktop OS, but for production I'm going to use Linux server.

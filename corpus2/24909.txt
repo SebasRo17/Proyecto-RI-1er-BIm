@@ -1,1 +1,0 @@
-In v8, I could type, say, `fulls` or `texf` to get `FullSimplify` or `TeXForm`from auto-completion. That was quite nice because I didn't need to press the Shift key for capitals. In v9, auto-completion appears only when I type `FullS` or `TeXF`, which is not so handy. Is it possible to make auto- completion ignore case?

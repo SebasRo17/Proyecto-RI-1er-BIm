@@ -1,0 +1,1 @@
+I have a question regarding ASP sections and partial views. What ser the benefit of using one over another? Because if I have a menu, i guest that it could be both as a section, but also as a partial view. So what is the difference?

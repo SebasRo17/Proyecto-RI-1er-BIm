@@ -1,1 +1,0 @@
-mathematica crash following simple situation formulalookup gas command produce long list possible formula type following command list run formuladata copy one formula produced formulalookup command paste square bracket formuladata command mathematica crasches happens formula list long looking gas always almost always someone check mathematica bug specific problem machine window

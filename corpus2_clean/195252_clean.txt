@@ -1,0 +1,1 @@
+trying explain dependency inversion principle mostly junior colleague define one high level policy one low level detail software example software automates workflow several business application say workflow automation high level policy business application detail

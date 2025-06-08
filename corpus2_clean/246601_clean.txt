@@ -1,0 +1,1 @@
+example objective c swift ruby e integrate cocoa framework done via linked library assume call function existing binary instead simply recreating common interface

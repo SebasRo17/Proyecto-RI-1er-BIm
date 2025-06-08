@@ -1,0 +1,1 @@
+migrated via level slow upwards trend memory usage see periodic gc activity memory trend still going slowly currently application set starting max heap 14gb production however might need large set concern eventually hit limit application slow happened effective way proving strategy help identify remedy potential memory leak running process

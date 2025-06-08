@@ -1,0 +1,1 @@
+Due to not wanting to pay licenses my company is still using SQL Server 2000 for new projects.   This is very limiting for multiple reasons.   I'm wondering what are the limitations of using SQL Server Express 2008?   Is there any reason NOT to use it to power ASP.Net MVC3 websites?

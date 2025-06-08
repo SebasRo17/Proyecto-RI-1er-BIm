@@ -1,1 +1,0 @@
-like make dynamic changeable list element supplied user inputfield want program inputfield reset button every time user type element inputfield press tab element added list list reset empty list clicking reset button possible mathematica reset part seems easy first part seems difficult perhaps use second button add element

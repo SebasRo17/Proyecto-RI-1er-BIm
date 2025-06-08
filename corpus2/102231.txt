@@ -1,0 +1,1 @@
+Say you're working on designing the world's greatest iPhone app. How do you decide what UI would be more effective, would be more intuitive etc? How do you take an idea and decide how to visually represent it? Do you use any programs (on a mac) to model something like that?

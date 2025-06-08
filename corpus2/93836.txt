@@ -1,0 +1,1 @@
+what is a NPR syntax, from what i have gathered from internet, i have come to conclusion that NPR is a performance related database. Its based on NPR database Given that what i have gathered is correct, how do i extract data from this Database, what language\Tools should i be using?

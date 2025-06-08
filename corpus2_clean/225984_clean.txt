@@ -1,0 +1,1 @@
+discount service get called certain condition met need write test case check discount service called doubt checking discount service called num num valid test case scenario public typeid double amount typeid num call discount service else typeid num call discount service else typeid num stuff else typeid num stuff

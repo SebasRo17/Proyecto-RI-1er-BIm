@@ -1,1 +1,0 @@
-list coordinate want find distance using equation r sqrt x x z z choose first coordinate calculate distance coordinate using equation second step take second coordinate calculate distance coordinate since distance first one second one already calculated need way find distance coordinate anyone help

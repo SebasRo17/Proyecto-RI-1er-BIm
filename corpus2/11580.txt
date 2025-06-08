@@ -1,1 +1,0 @@
-I am interested in using `LinearSolve[m,b]` which will find a solution to the equation $m.x=b$, where I am in mod 2 arithmetic. Is there any way to perform this computation in _Mathematica_ ?

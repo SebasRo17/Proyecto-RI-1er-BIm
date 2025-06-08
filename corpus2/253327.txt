@@ -1,0 +1,1 @@
+I know we have some extra advantages in using the cookies over IP address, but my question is Why can't the container just remember the IP address of the client in identifying the client when he visit his site again? Is it possible for the container to remember the client with the help of IP address?

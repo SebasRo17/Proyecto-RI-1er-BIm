@@ -1,1 +1,0 @@
-two way consider two dimensional torus one way take parallelogram let say square topologically glue opposite edge another way look surface doughnut one hole would like draw zero set doubly periodic function contour torus viewing torus square contour torus however really like see contour surface doughnut done generally like transplant square graphic onto surface doughnut

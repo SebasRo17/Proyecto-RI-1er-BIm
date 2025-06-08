@@ -1,0 +1,1 @@
+javamail sends e mail using e mail server typically smtp interface e mail provider necessary use e mail server send e mail web site send e mail possible like send e mail directly web site without using e mail server javamail faq say e mail server required way send e mail without using e mail server either javamail another api

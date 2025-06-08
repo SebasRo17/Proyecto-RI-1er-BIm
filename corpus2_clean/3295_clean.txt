@@ -1,1 +1,0 @@
-function graphdistancematrix adjacencymatrix available without invoking need graphutilities whole package available mathematica start function different loaded graphutilities

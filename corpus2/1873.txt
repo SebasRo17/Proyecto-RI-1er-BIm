@@ -1,1 +1,0 @@
-I'm wondering if an automatic differentiation package exists for _Mathematica_. This is what I mean by automatic differentiation.

@@ -1,1 +1,0 @@
-I have two data lists with names data1 and data2. data1 has 8 columns and data2 has two columns. How can I plot 3rd column of data1 verses 1st column of data2?

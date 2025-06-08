@@ -1,1 +1,0 @@
-would like dedicate small machine exclusively running mathematica kernel use kernel read http request arriving port treat send http response back without web server extra software kind request treated sequence connection shall supported time clearly webmathematica overkill idea

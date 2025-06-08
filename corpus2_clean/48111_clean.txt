@@ -1,1 +1,0 @@
-imported text type data matrix want make scatter plot listplot using one column x axis column axis function f make scatter plot following form f matrix matrix matrix n

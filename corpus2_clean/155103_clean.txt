@@ -1,0 +1,1 @@
+use linq2sql asp net application unfortunately eager loading linq2sql powerful entity framework lot lazy loaded needed taking connection pooling account ok web page execute num query load page executing single big query probably much better num query connection pooled connection open new connection time realize slow thought

@@ -1,0 +1,1 @@
+typical distance city grid method num getdistance return distance two city num integer return city within given distance another city num integer return city beyond given distance another city num integer return city pair greater x distance num integer return city pair within x distance

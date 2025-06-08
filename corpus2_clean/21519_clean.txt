@@ -1,1 +1,0 @@
-expression want change integer new form rule x integer x f consider special case example input x x x x pi sqrt x x x x x x x q exp x x x x x output expression output f e f x x f f x f f x f f f x x f x f f pi f f x f sqrt f x f f x f x f construct rule function thanks

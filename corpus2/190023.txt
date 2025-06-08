@@ -1,0 +1,1 @@
+In an old book I have, they say that "build" is either a process of converting source code into executable or the actual result - assembly. Is that correct? Is a build actually the assembly, I mean from terminological point of view.

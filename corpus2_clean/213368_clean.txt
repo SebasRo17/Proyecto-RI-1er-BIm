@@ -1,0 +1,1 @@
+say len several string use store length string one create separate variable basically size len len string1 size len string2 size versus size string1 size string2 size local variable within btw

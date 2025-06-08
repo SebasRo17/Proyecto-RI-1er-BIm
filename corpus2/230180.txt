@@ -1,0 +1,1 @@
+I have been looking into event driven programming in C and the language doesn't seem to have support for it. This has led me to wonder about the nature of event driven programming. Is it correct to say that an event handler basically spawns a thread that waits for a response from I/O and sets a variable? Or is there something more complicated to the process.

@@ -1,1 +1,0 @@
-I'm new to _Mathematica_ , and I'm finding it difficult to plot an ellipse. I tried using               Plot[(x/5)^2 + (y/3)^2 == 1, {x, -5, 5}, {y, -3, 3}]      but I'm getting some errors. Is there something wrong with the syntax? Or do I need to rewrite the equation and plot?

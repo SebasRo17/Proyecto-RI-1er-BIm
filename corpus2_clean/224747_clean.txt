@@ -1,0 +1,1 @@
+noticed visual c num current environment xcode allow non standard single comment c program since target platform assume fine use vc num support c99 limited c89 though know c99 added support

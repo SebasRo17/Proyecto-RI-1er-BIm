@@ -1,1 +1,0 @@
-solution question get latex code text cell mathematica correctly formulated palette need keyboard shortcut add item defaultkeytranslations tr executes solution code general one construct key command executes arbitrary code front end packet token

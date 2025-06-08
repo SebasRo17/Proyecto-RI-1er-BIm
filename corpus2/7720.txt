@@ -1,0 +1,1 @@
+I'm looking at licensing some open source software and am looking at the GPL. What are the pros and cons of using this license?

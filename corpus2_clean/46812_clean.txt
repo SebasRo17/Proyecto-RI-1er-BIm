@@ -1,1 +1,0 @@
-want draw graphic time grid rotate theta around trim part right axis came imagetrim rotate graphicsgrid table frame dynamic theta give output error message instead imagetrim imginv expecting image graphic instead oblique orange square wich usually indicates something wrong

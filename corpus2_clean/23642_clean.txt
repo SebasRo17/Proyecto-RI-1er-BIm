@@ -1,1 +1,0 @@
-trying replace last column following expression mat mat q q q mat q replacepart mat q replacepart mat q expect get mat nothing change idea work

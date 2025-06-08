@@ -1,1 +1,0 @@
-How do you export the result of a RevolutionPlot3D to STL for printing? I am a tyro when it comes to 3D rendering and printing. Thanks for any help. Jeff Thomson

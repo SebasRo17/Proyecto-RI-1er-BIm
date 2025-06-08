@@ -1,0 +1,1 @@
+What bug tracking system works with git and has these requirements? Requirements:   * Shows git commit log    * Hides git source code For the system you're suggesting, what are its strengths and weaknesses?

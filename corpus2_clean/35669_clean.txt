@@ -1,1 +1,0 @@
-sparse situation lot zero related chat want see nonzero thing nonnull thing example input hello ii jj ii return true return false table hello ii jj ii jj ii jj output null null null null null null null null null null null null null null null null null null null null intended output full form intended output could x matrix st row one otherwise zero

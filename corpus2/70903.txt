@@ -1,0 +1,1 @@
+I have opted to use silverlight for a website. This runs in all major browsers. The application could be highly graphically intensive. What have I missed? Edit: It runs on Android and other mobile platforms? I have since written about this here: http://carnotaurus.tumblr.com/post/4921541502/old-school-game-to-be-written- in-silverlight

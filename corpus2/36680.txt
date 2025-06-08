@@ -1,1 +1,0 @@
-I have a function `f(x)` and I want to define a new function `g(x)` that is equal to `f(x)` only when `f(x)` is positive. What is the right way to do that? Sorry for this silly question, but I cannot find the proper way to accomplish this simple task in _Mathematica_.

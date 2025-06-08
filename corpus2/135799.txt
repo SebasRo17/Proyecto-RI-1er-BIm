@@ -1,0 +1,1 @@
+I want to present the concept of mixins and their implementation in .NET. The way they work in .NET is you add extension methods on an interface and decorate classes with said interface. What would be the best examples for this pattern (other than linq)?

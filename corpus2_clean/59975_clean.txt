@@ -1,0 +1,1 @@
+kind beginner oop quite get whole concept seeing real world problem translating class example reading book uml beginning author take example tic tac toe game say example natural see three class board player position creates method explains relate understand thought start learn see real world problem translate

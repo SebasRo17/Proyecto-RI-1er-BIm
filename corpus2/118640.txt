@@ -1,0 +1,1 @@
+I am writing a wiki article and wondering what is the proper way to write a directory scheme? I am doing something like               main folder     - sub folder     - sub folder     ...      But I'm stuck after that. Any help?

@@ -1,1 +1,0 @@
-When making global changes to code and variables Find is a great resource. Is there a way to use Find with wild cards to find and replace any non numerical elements or to find and replace only numbers?

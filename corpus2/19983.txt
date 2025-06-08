@@ -1,1 +1,0 @@
-I have increased size of text to something I can read comfortable. When I delete output and evaluate notebook again with any changes made, the output text size returns to eyestrain inducing size.

@@ -1,0 +1,1 @@
+use vim already quite every day try learn new thing somehow yet feel looking intermediate advanced book vim may used reference well every day development look book explanation concept general background philosophy cheat sheet style list action maybe could cover commonly used plugins plugin development well

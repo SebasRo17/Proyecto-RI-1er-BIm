@@ -1,1 +1,0 @@
-looking efficient way extracting first element first sequence n consecutive element value increasing data toy example data would like get first element first sequence consecutive increasing value second position obtain row playing around split data group data sequence increasing value able find way add additional constraint need hint much appreciated

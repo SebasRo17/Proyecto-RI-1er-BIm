@@ -1,0 +1,1 @@
+making webapp using django convention naming variable lowercase underscore javascript convention camelcase addition seen many people use lowercase hyphen cs identifier would suggest using three naming convention appropriate picking one using even two recommend something else switching back forth huge problem still mental overhead

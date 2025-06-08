@@ -1,1 +1,0 @@
-I need to integrate $f(x,y)=y^2-2x^2y+6x^3-3xy+2y-6x$ over $\\{y\geq 2x^2-2, y\leq 3x\\}$ Im using Boole in the following way;               Integrate[y^2-2x^2y+6x^3-3*x*y+2y-6 Boole[y >= 2*x^2 - 2 && y <= 3*x], {x, -2, 2}, {y, -2, 2}]      But i dont get a result, nor an error.

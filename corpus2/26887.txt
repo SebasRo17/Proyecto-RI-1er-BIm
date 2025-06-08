@@ -1,1 +1,0 @@
-I am looking for some simple Mathematica code to model an HMM with just a few states and an equal number of observable signals (emissions). I am hoping to generate sample paths and keep track of the posterior probability of the system being in a given state. Any help would be appreciated.

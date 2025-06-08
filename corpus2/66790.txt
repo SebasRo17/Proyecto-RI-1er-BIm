@@ -1,0 +1,1 @@
+after getting a Object Oriented design question during technical interview - for example, design a car rental program - what would be the general steps (a.k.a best practices) that the interviewee should follow to solve the problem? what would be the possible pitfalls?

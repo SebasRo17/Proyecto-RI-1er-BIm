@@ -1,1 +1,1 @@
-TrigExpand@Tan[x + y]      gives $\frac{\sin (x) \cos (y)}{\cos (x) \cos (y)-\sin (x) \sin (y)}+\frac{\cos (x) \sin(y)}{\cos (x) \cos (y)-\sin (x) \sin (y)}$ but I expected $\frac{\tan (x)+\tan (y)}{1-\tan (x) \tan (y)}$ Evaluating `TrigExpand` with arguments $\tan (x-y)$ or $\tan (3*x)$ also returns results in terms of sine and cosine. What should I do to get results in terms of the tangent?
+What are the risk factors that we need to consider while planning for a software project.

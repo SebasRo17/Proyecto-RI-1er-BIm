@@ -1,0 +1,1 @@
+I've seen many lists on the internet that includes many 'ities' (maintainability, scalability, portability, etc), but I'm not sure if animations, screen transitions, and similar features are functional or non functional requirements.

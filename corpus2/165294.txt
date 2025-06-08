@@ -1,0 +1,1 @@
+I work on a CakePHP app and the views consist of raw html with embedded php echo statements, which over time has gotten rather messy. Before I go in and rewrite the code, I'm wondering if it makes sense to rewrite the views with a template engine, such as Twig or Smarty, but I don't have experience with template engines. What are all the advantages of using a template engine?

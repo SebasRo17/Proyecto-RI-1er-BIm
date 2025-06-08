@@ -1,0 +1,1 @@
+This is a problem because when I do email campaign, There is a link on the email, that link to my company homepage, I would like to differentiate between the visitor come from another way (e.g. search on google) or the visitor come from the email I have sent. Is it able to check such kind of information ? Thankyou

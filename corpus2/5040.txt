@@ -1,1 +1,0 @@
-How to let output and message be print to two separate external files? Also, I'd like the content print out to have similar look as when it's print inside the notebook, i.e. it should be in OutputForm or whatever proper form.

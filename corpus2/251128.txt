@@ -1,0 +1,1 @@
+Either I am being a total n00b or just not with it today but I have been reading a few blogs lately and they talk about language specs. What actually is a language spec? Is php.net a language spec? The best article so far I have read is Grokbase on the PHP Language Specification.

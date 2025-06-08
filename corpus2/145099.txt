@@ -1,0 +1,1 @@
+I'm not a graphic designer. I'm pretty bad at drawing anything. I struggle to build things that look even as nice as "sample" applications bundled with development tools; primarily because I don't have squat in the way of art assets. What strategies might I take to mitigate this?

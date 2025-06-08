@@ -1,0 +1,1 @@
+I'm planning to read a book to gain some good knowledge of design patterns, why we use them, how to apply them and how to choose the best design for my software. So I have two books on my desk right now: "Head First Design Patterns" and "Design Patterns: Elements of Reusable Object-Oriented Software". Which one do you think I should read as my first book about design patterns?

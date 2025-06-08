@@ -1,1 +1,0 @@
-solving equation variable however many solution basically changing relative sign e x x nevertheless interested solution positive value x negative value anyway implement nsolve trying add additional equation nsolve eq eq b x however working wrong way tom implement

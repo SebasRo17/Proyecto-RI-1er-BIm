@@ -1,1 +1,0 @@
-Is Mathematica a Turing-complete language? If so, how can that be proved? If not, why?

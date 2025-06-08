@@ -1,1 +1,1 @@
-After reading Manipulating a continuous stream of sounds I have to ask about controlling the frequency of a `Sin` sound in a continuous manner, with a `Play` inside a `Manipulate`, for example. The result may sound something similar to whistling, a musical saw or a theremin. The problem with `Play` is that it generates an output box to be played after and not dynamically. Is it possible in Mathematica?
+> **Possible Duplicate:**   >  When are Getters and Setters Justified Is it a good programming practice to not use getters and setters in trivial parts of code?

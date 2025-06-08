@@ -1,0 +1,1 @@
+Appreciate your help with my questions   * What are conceptual requirements? How do they compare with stakeholder, business and functional requirements?   * what CASE tools can be used to capture conceptual requirements and scope?

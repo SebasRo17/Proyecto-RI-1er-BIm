@@ -1,0 +1,1 @@
+I have to work on some docs, I need a software that can trace all the modifications that I will make to a specific file or project (group of files): is there something like that? The important thing is that I have to do that with a single machine so I do not need a distributed solution, I only have to work with txt files with UTF-8 charset and pdf files.

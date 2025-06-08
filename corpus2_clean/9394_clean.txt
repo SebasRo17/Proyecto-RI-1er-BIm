@@ -1,1 +1,0 @@
-wondering could speed sphericalplot tried editing plotpoints maxrecursion wrap sphericalplot manipulate fails want set continuousaction false manipulate sphericalplot r rmax phi phi pi theta theta pi sphericalregion true plotrange mesh tick none theta phi rmax savedefinitions true wanted layer whole bunch shell together make solid r rmax specifies range shell radius want create

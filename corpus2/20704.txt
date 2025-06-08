@@ -1,1 +1,0 @@
-Is there a package or Notebook for _Mathematica_ that can enable me to do some numerical calculations with octonions? Maybe a way to plug-in the octonion multiplication table?

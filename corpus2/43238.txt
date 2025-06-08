@@ -1,1 +1,0 @@
-Going through Derbyshire's Prime Obsession & trying to take `LogIntegral` of `20^ZetaZero[1]` & comes up with a value of `1.99797 - 3.91384 I` instead of `-0.105384 + 3.14749 I` quoted in the book. Am I doing something wrong? Is it something to do with discrepancy between American definition of `LogIntegral` & European?

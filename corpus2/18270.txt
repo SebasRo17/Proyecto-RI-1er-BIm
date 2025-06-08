@@ -1,1 +1,0 @@
-Suppose I got in a `Dialog` and wanted to not `Return` but `Abort` the computation. How could I do that? Using `Return[]` the computation continues, and sometimes that implies getting inside countless other `Dialog`s of which it is not easy to go out without killing the kernel. How do you handle those situations?

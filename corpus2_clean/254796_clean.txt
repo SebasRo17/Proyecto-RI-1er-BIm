@@ -1,0 +1,1 @@
+written database model php written controller specifically validates sending db getting criticism handle database model rather controller wanted write generic db used anywhere crud operation guy please help sorting whether validate db model db controller

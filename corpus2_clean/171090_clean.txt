@@ -1,0 +1,1 @@
+ok say user public user private firstname private lastname private long private date birthdate private gender gender private email private password let say want validate email whether name empty whether birth date normal range etc put validation together usermanager case handle list user

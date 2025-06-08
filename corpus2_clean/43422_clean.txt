@@ -1,1 +1,0 @@
-screen shot mathematica command using randomsample skewed weight asking random sample number without replacement screen shown weight others less hence randomsample return number random order often copied pasted command shown missing something misunderstanding randomsample function actually bug

@@ -1,0 +1,1 @@
+I thought both Project Lombok & AutoValue used compiler annotation processors, but from this slide presentation and this stackoverflow answer it seems that `Lombok` doesn't? Or at least no only annotation processors? How do `Lombok` & `AutoValue` differ with regards to this?

@@ -1,0 +1,1 @@
+Are there any situations where having a "data model" in which all of the entities are instances of a `Map<String, Object>` would make any sense? How do you explain to someone why having such a "data model" is not such a good idea? It seems like it's an absurd approach to me, could I be missing something?

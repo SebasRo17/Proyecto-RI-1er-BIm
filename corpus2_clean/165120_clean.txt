@@ -1,0 +1,1 @@
+term segregation used cqrs pattern difference segregation versus separation case

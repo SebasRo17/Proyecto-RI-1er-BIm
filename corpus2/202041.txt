@@ -1,0 +1,1 @@
+VS Web sites/projects come loaded with several .js files, most of which I don't use (e.g., I use a CDN for newer versions of jQuery and jQuery-UI). I know it's safe to remove these unneeded .js files from my projects, but is there any benefit from doing so? Are they deployed to the web server if left alone?

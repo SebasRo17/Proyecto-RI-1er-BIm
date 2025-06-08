@@ -1,1 +1,0 @@
-My club is considering buying a Raspberry Pi computer for tinkering. Can Mathematica be installed on and ran from it?

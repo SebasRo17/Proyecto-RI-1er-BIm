@@ -1,0 +1,1 @@
+What should I search/research if I'm looking for how to get started with translating database tables to Java code? For instance, if I have a one-many relationship in the database and I want to translate that to java code...what is that process called? I'm really looking for just plain Java code example and not any tools at the moment.

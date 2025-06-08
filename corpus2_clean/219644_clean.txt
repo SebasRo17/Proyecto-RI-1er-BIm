@@ -1,0 +1,1 @@
+container represents wrapper around std list contains following public method add shape item next shape curr protected variable std list shape container std list shape iterator iter need add sorting container without changing existing pattern use think decorator appropriate pattern case redesign container

@@ -1,0 +1,1 @@
+I was curious, why do we prefer byte[] array to transfer data over the network and not anything else? Or if I am missing anything, what are the other ways to transfer the data over a network.

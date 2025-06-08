@@ -1,0 +1,1 @@
+I am just starting to learn Ruby, and I want to do something that required a DB but I'm unsure whether MAMP would work or do I need something else?

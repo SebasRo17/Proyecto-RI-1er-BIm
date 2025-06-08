@@ -1,0 +1,1 @@
+We had JavaScript, then we had Flash, then we had Silverlight and then HTML5 ownd them all. So what is the motivation behind TypeScript? What problems are going to be tackled and what improvements do we get with TypeScript? http://www.typescriptlang.org/

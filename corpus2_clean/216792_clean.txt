@@ -1,0 +1,1 @@
+interview john talk erlang haskell following say using stateful library erlang want use stateful library usually build side effect free interface top use safely rest mean trying think example would look imagination knowledge failing

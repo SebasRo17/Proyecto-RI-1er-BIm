@@ -1,1 +1,0 @@
-Is it possible to add a CellLabel over multiple lines? When trying the code               SetOptions[ NotebookSelect[mb], CellLabel-> Column@{"line 1", "line 2"} ]      with a Cell selected in the mb Notebook, nothing shows up. What's the solution for this? Thanks all!

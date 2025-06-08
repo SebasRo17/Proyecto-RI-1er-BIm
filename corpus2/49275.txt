@@ -1,1 +1,0 @@
-Is there an inbuilt method to find the number of inversions in a set of numbers? I found `Inversions` in `Combinatorica` but when I tried to use it as `Inversions[{1,4,2,5,2,3,2}]` it doesn't return a number as a result. How are you supposed to use the function?

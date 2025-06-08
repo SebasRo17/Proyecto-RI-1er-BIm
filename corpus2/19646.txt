@@ -1,1 +1,0 @@
-I'm working on a large notebook and I want to exclude some sections and subsections from being evaluated when I evaluate the whole notebook. Is there a way to exclude specific sections or subsections from the notebook evaluation while maintaining their original format? Or even better, format them e.g. by adding a gray background?

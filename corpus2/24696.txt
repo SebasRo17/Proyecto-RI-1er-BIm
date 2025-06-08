@@ -1,1 +1,0 @@
-Sometimes I have a really huge expression that cannot be significantly simplified by `FullSimplify`. I would like to, so to speak, _"simplify with faith"_ using heuristics applied by functions like `PossibleZeroQ`, `FindSequenceFunction` an so on. Is it possible to instruct `FullSimplify` to use non-rigorous methods like this?

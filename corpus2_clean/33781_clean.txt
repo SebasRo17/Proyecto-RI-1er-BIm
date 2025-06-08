@@ -1,1 +1,0 @@
-want write recursive function calculating arithmetic mean vector x n ldots n formula rm mean x n n rm mean x n x n n program work r language version mathematica take account last two number fix code meen x length x return x n length x x n result n n meen x n x n x meen x

@@ -1,0 +1,1 @@
+Developing an application in which users have to upload images. I have not really got much experience with file uploads in an application so I am wondering what the best way is for storing images which are uploaded by users to the file system.

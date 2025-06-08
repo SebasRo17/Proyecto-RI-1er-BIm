@@ -1,0 +1,1 @@
+context one core class android many function contains useful android library project particularly accessing configuration trade offs involved accessing context library either injection subclassing application library subclassing application make application brittle introduce inappropriate coupling

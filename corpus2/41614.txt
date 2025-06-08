@@ -1,1 +1,0 @@
-I want to do the following: I have two lists `{a_1,...a_n}, {b_1,...,b_n}` and I would like to build now all shuffles out of this. This means all unions of these lists while still keeping the individual order of the parent lists. Example               {a,b}, {c,d}      > >     {{a,b,c,d},{a,c,b,d},{c,a,b,d},{c,a,b,d},{a,c,d,b},{c,d,a,b}} >   Is there any easy way to do this?

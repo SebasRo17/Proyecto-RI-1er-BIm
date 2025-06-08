@@ -1,1 +1,0 @@
-I tried                   In[1]:= Subscript[a, 0] = 1         Out[1]= 1              In[2]:= Clear[Subscript[a, 0]]         During evaluation of In[452]:= Clear::ssym: Subscript[a, 0] is not a symbol or a string. >>              In[3]:= Clear[a]              In[4]:= Subscript[a, 0]         Out[4]= 1      Any idea?

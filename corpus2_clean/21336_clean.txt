@@ -1,1 +1,1 @@
-would like define vector say v x z want fixed norm say unit norm v impose condition v
+possible duplicate organize project folder interested learn everyone keep local development project organized logical manner keep dev project organized manner allows easily find thing

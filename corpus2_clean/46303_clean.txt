@@ -1,1 +1,0 @@
-make parallelize following code keeping idea example mind complicated would like know program structure parallelized c paralleldo randomreal c

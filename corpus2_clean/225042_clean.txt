@@ -1,0 +1,1 @@
+considered better separate factory static method see question standard api us approach separate factory newinstance static method calendar getinstance case would static method better separate factory

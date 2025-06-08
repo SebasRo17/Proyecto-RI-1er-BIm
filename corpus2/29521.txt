@@ -1,1 +1,0 @@
-I want to modify the style of just one axis, but I'm stuck with something like               Plot[x^2, {x, 0, 3}, LabelStyle -> Red]      which of course modifies both axes. How do I solve this problem?

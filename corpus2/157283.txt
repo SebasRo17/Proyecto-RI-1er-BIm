@@ -1,0 +1,1 @@
+In the PEAR standards there is no reference to HTML, if its allowed or not. http://pear.php.net/manual/en/standards.sample.php But I see some people use HTML tags like `<kbd>` and stuff.. So is HTML allowed? Will it break some doc parsers?

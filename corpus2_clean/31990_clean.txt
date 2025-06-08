@@ -1,1 +1,0 @@
-want solve eqn f w w c k exp c w c k exp c w f w f w sol dsolve eqn f w w assumption c k positive add assumption

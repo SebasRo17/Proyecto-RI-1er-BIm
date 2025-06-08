@@ -1,1 +1,0 @@
-create graph vertex list point n dimensional space v g graph v propertyvalue g vertexlist g vertexweight get message error set write tag propertyvalue propertyvalue protected v g graph v propertyvalue g vertexlist g vertexweight everything fine g g structurally indentical difference vertex type list g scalar g problem

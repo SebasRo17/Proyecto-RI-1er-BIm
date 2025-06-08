@@ -1,1 +1,0 @@
-list list containing spectral data many thousand point long sublist contains part need plot blend rgb color derived spectral data problem get coloring plot use list rgb triplet create blend color list plot two datasets one plot one corresponding color spectral color using listplot plot plot color blend listplot

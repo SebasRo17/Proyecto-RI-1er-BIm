@@ -1,0 +1,1 @@
+is ok to open fifo with one FD and share it with multiple threads? or is it better to have multiple fds opened for the same fifo and share these fds with the threads? BTW, I'll be doing write and read. The environment is linux, C, pthreads

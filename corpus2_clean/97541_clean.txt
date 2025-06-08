@@ -1,0 +1,1 @@
+use unsigned ints everywhere sure database primary key id column counter etc number never negative always used unsigned however notice one else seems something crucial overlooking edit since question also noticed c returning negative value error commonplace rather throwing exception c

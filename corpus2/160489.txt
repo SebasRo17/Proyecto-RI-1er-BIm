@@ -1,0 +1,1 @@
+I suspect that obfuscating C++ code will make reverse engineering harder: without meaningful symbol names there will be no hints about modules functions and interactions. Can anyone recommend good, verified obfuscator for C++? Their prices are about $150, but if I end up purchasing 3 different products, it will be $450.

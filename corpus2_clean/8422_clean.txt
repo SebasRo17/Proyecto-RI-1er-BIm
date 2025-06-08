@@ -1,1 +1,0 @@
-whenever start mathematica mac built mac o firewall asks want allow jlink accept incoming connection running get question mathematica app sometimes request occur several time day though always minor irritation nice know way avoid keeping firewall switched already mac firewall configured allow connection permanently mathematica app jlink thanks

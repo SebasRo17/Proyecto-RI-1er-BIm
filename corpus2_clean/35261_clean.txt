@@ -1,1 +1,0 @@
-want define function f argument match argument head given value know define pattern match head argument f integer define version match argument integer f notaninteger something else

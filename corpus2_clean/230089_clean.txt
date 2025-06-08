@@ -1,0 +1,1 @@
+red zone fixed size area memory beyond stack pointer allocated compiler generate assembly access area simple leaf function see real advantage red zone accessing memory beyond stack pointer really dangerous easily lead corruption even saving num processor instruction push ebp mov ebp esp give real speed p already question closed topic awful

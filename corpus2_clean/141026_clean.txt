@@ -1,0 +1,1 @@
+following interface public interface e extends comparable e e suc interface e extends e e min e max trying implement public interval e implement e however eclipse complains e valid substitute bounded parameter e extends e e wrong thanks

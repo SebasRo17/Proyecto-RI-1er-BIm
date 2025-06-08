@@ -1,0 +1,1 @@
+I don't have programming background. I have started learning javascript recently. I'm wondering if there is a way to run javascript on a webpage ? for example I would like to write a javascript on this webpage which runs through all the questions posted in past 1 hour and does something. Is it even possible ?

@@ -1,0 +1,1 @@
+I am new to static analysis of code. My application has a Cyclomatic complexity of 17,754 lines of code. The application itself is only 37,672 lines of code. Is it valid to say that the complexity is high based of the lines of code? What exactly is the Cyclomatic complexity saying to me?

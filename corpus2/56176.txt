@@ -1,1 +1,0 @@
-How do I generate a list a random real numbers that follow a probability distribution? If my pdf is $f(x)$, how do I "force" the random numbers to follow $f(x)$?

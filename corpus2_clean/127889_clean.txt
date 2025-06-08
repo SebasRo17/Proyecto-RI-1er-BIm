@@ -1,0 +1,1 @@
+good resource write lexer c book tutorial document good technique practice looked internet everyone say use lexer generator like lex want want write lexer hand

@@ -1,1 +1,0 @@
-I am creating a figure for a document using `Graphics` in which there is `Text` with some variables and again those same variables with some subscripts. The `Text` with subscript is automatically _Italic_. I do not want this, especially because it contrasts with the variables without subscript which are not _Italic_. How can I change this behaviour?

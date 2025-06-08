@@ -1,0 +1,1 @@
+asking around mercurial development mailing list binary diffing patch handling got following example whole file approach classic diff mercurial internal windowed streaming approach rsync xdelta windowed streaming stand context general

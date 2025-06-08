@@ -1,0 +1,1 @@
+designing building web application available two language french english placed i18n mechanism extract every text application user system setting currently ask lang label obviously ask translation every pure receipt etc trace available translation n b instance application database used one person num user

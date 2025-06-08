@@ -1,1 +1,0 @@
-possible set move mouse pointer location directly mathematica without using external tool like run xdotool mousemove x

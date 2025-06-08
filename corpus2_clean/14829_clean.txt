@@ -1,1 +1,0 @@
-trying plot point j k generated loop plot next draw point different window list list append list j k print listpointplot list j k function mathematica allows u draw plot dynamically e keeping plot already generated new one generated loop window

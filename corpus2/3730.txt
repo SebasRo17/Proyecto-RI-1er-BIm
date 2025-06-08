@@ -1,0 +1,1 @@
+What tools do they use? What processes? What rules do they have regarding code? How do they test their code?

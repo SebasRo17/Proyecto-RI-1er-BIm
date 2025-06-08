@@ -1,1 +1,0 @@
-I would like to express a second derivative with two dots above the variable. You can do this with a first derivative by saying:               f[x_] := OverDot[x];     Print[HoldForm[f[x]], " == ", f[x]]      Is there a possible syntax to do this with the second derivative?

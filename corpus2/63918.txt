@@ -1,0 +1,1 @@
+Is it conceptually feasible to have on a Postgresql Cluster a transactional database and at the same time a datawarehouse that would get feeded by the transactional database ?

@@ -1,0 +1,1 @@
+What benefits are gained from using the command line for software development over using an alternative GUI? Is the command line faster for certain tasks? Are certain tools only available via the command line?

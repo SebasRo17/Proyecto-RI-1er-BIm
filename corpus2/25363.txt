@@ -1,1 +1,0 @@
-How do I find a series solution to an ODE? I do not mean taking the Taylor series of an exact solution; I want to solve nasty nonlinear differential equations locally via plug and chug. Surely, that is a built-in option in _Mathematica_.

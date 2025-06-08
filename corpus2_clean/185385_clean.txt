@@ -1,0 +1,1 @@
+good idea communicate num thread using socket trying achieve inter process communication using socket programming rpc mechanism

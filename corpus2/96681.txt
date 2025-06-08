@@ -1,0 +1,1 @@
+I was reading through the docs for vim, and noticed there's a shortcut, for example `g?w` would transform the next word using ROT13. I also know that you can change the encoding of a Python file to ROT13. Here's my question: Why? It seems like it wouldn't be that useful, aside from prank programs like Django FUNserver.

@@ -1,0 +1,1 @@
+Based on a comment and subsequent upvotes from Bug reopen vs. new: > Citing bug IDs in patch notes is just.. very unfriendly. – Krelp It appears at least some people feel that referencing bug IDs in patch notes is not a good idea. I'm a fairly inexperienced developer, so I'm wondering why that's the case.

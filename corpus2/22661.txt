@@ -1,1 +1,0 @@
-Is there a built-in function for decoding encoded URLs in _Mathematica_? I would like to convert an encoded URL, for example `https%3A%2F%2Fwww.google.co.uk%2Fimages%2Fsrpr%2Flogo4w.png` into `https://www.google.co.uk/images/srpr/logo4w.png` as attempting to directly access the encoded URL with `Import[]` fails.

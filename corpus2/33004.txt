@@ -1,0 +1,1 @@
+I'm using Windows and am comfortable with SVN (well, TortoiseSVN) because it's dead simple. It works for me. However, because it's been working so well, I haven't any reason to try anything else. Should I bother learning a different system, for example, Mercurial or Git?

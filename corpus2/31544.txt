@@ -1,1 +1,0 @@
-For example, how to make Mathematica display only the lines beginning with `In[some number]`?               In[8]:= m1 = {{1, 1, 1}, {8, 4, 2}, {64, 16, 4}}      > >     Out[8]= {{1, 1, 1}, {8, 4, 2}, {64, 16, 4}} >                 In[9]:= m1.{b1, b2, b3} == {1, 1, 1}      > >     Out[9]= {b1 + b2 + b3, 8 b1 + 4 b2 + 2 b3, 64 b1 + 16 b2 + 4 b3} == {1, > 1, 1} >

@@ -1,0 +1,1 @@
+web application pretty standard saas database driven app customer asking io android version app better build api web app used drive native mobile apps ui would simplest mean mobile apps stand alone alternatively could try implement full mobile solution synchronizes web app somehow would much work business logic need build mobile apps rather behind api standard practice kind thing

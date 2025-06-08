@@ -1,0 +1,1 @@
+Why do some open source projects not accept pull requests, but require contributors to email patch files only? e.g. Git Although they publish code in github or other distributed scm hosting. It is not interactive nor convenient to send patch files. Patch file is an old-fashioned way. Pull requests are interactive. Other people may also discuss.

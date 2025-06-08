@@ -1,0 +1,1 @@
+I was assigned to extend (and eventually maintain) a legacy system (mostly procedural, semi-ball of mud) without MVC. Any tips or suggestions for me going forward? :S

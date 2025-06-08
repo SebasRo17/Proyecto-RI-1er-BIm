@@ -1,1 +1,0 @@
-point ax ay b bx c cx cy dx dy describe quadrangular x range would like calculate point e ex ey would center quadrangular algorithm used calculation

@@ -1,0 +1,1 @@
+Unlike C++, in Java, we cannot have just function declarations in the class and definitions outside of the class. Why is it so? Is it to emphasize that a single file in Java should contain only one class and nothing else?

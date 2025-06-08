@@ -1,1 +1,0 @@
-output mathematica operator cdot time usally displayed space e g x becomes x output option set make space becomes cdot time preferably

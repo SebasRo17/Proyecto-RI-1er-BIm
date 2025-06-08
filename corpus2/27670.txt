@@ -1,1 +1,0 @@
-Can `NonlinearModelFit` be parallelized or compiled to allow one to achieve a scalable speedup for a fitting procedure? Attempting to use this function to fit a bivariate Gaussian (with a decent guess for initial conditions) can take upwards of a second.

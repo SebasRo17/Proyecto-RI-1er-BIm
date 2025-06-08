@@ -1,1 +1,0 @@
-create mathematica application example testprj want load application test problem setup environment loading application simple testprj first try add path path application done every time loading mathematica notebook p application custom way better change

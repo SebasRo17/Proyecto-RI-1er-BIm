@@ -1,0 +1,1 @@
+studying oop php working small personal project hard time grasping concept let say list item item belongs subcategory subcategory belongs category make separate class category method list category add new category delete category subcategories item make creating listing deleting category method item category subcategory simple basically consist id parentid subcategory

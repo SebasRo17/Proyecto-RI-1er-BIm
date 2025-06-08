@@ -1,0 +1,1 @@
+dependency injection pattern gang four gof pre date widespread automated testing dependency injection considered core pattern

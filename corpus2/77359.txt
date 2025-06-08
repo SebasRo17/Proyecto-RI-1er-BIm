@@ -1,0 +1,1 @@
+I'm creating a simple "find one of our locations" app for iOS 4, for which I have a list of >70 places, complete with addresses, business hours, etc. Is it better to put all of this data in one large plist or many small ones?

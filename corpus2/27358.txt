@@ -1,0 +1,1 @@
+Open Google blogger uses XML templates for blogs. I want to implement same kind functionality in my asp.net mvc and asp.net applications. We can use master pages and themes in asp.net applications but I need to use XML templates same like Google Blogger uses. This question is in continuation to my previous discussion : link text

@@ -1,0 +1,1 @@
+looking hint suggestion design multi threaded url fetcher specific requirement fetch one around num num url periodically interval fetch url specific interval likely num min num hour imagining need bunch running thread get pushed next url fetch ready state need handle error e g quit querying specific url repeatedly time 404s idea much appreciated thanks

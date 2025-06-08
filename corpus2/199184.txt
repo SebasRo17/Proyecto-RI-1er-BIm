@@ -1,0 +1,1 @@
+Recently I have been working with a large set of talented programmers that lead to a discussion on when should we start building our own components (web js/css) vs downloading and modifying existing components that don't quite fit the needs of a project. Does anyone know or could suggest best practices for this type of conundrum?

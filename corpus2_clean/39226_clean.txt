@@ -1,1 +1,0 @@
-refer global variable inside module name used local one code want proc module b b b b b proc return b replaced properly escaped global variable name

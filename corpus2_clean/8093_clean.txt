@@ -1,1 +1,1 @@
-someone explain following simplify true constituent positive fullsimplify b c e assumption thread b c e special case including e b simplify correctly eventually want simplify expression kind ab b c e evaluate b c e given assumption workarounds edit ended larger expression expr ab b c e ab x simplify reduce assumption x x particularly pretty work thanks ssch idea
+somewhat common math formula learned helped write better algorithm become better programmer example learned distance formula sqrt x1 x2 num y1 y2 num helped understand find like object comparing num factor

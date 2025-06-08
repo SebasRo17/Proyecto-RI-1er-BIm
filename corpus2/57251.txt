@@ -1,1 +1,0 @@
-I have version 9 and 10 installed on Windows 7. if I double click to open version 9 notebook, then it opens in version 10, how I can force a notebook to open in its respective front end. I have installed both versions: with different init: link

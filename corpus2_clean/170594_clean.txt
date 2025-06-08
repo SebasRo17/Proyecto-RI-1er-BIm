@@ -1,0 +1,1 @@
+scott chacon workflow explained eg answer essentially two silo development master say small bug fix e g fixed character optimal way branch development branch called e g fix push branch origin work done reviewed whatever merge development push development origin b without pushing fix origin

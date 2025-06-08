@@ -1,0 +1,1 @@
+On Google plus, when I click on a Google plus profile or any Google plus link the page gets redirected to that link without a full page load but the URL changed and a record added to browser history. How this can be done? Is there any tutorial or document?

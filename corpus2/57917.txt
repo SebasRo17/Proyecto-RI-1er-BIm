@@ -1,1 +1,0 @@
-How might I force Mathematica to display the Handwriting Input menu? Currently I'm on W7 using a Wacom Tablet and unable to find the Handwriting Input option. It doesn't display under Windows>.

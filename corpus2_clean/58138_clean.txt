@@ -1,1 +1,0 @@
-would like code simple manipulate based equalizer make bass treble adjustment wav file found clue documentation wiki say deal linear filter idea advanced stuff

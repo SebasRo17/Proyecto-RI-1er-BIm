@@ -1,0 +1,1 @@
+following problem given num b num z num need algorithm given letter combination like column order excel return number aa num ab num abc thanks lot algorithm far dont like switch inside help appreciate write later c given num b num z num ab num abc abc position length num result num num position letter switch letter case num result result num

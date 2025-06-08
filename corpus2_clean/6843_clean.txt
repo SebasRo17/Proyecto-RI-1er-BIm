@@ -1,1 +1,0 @@
-suppose v x sech x sech x tanh x solve equation mu u x u x v x u x u x condition given u u tried dsolve show error solve inex solve unable solve system inexact coefficient system obtained direct rationalization inexact number present system since many method used solve require exact input providing solve exact version system may help solve equation mathematica symbolically

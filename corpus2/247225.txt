@@ -1,0 +1,1 @@
+I'm curious if there are any use cases where it makes sense to use OAUTH2 where you are both the protected resource and the authorization server. In this case you have the passwords already for example so are protecting your own resource. Seems pretty heavy handed - is this a common practice or would it make sense to look at simpler solutions?

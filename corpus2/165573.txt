@@ -1,0 +1,1 @@
+I am an indie developer working on multiple Android projects. I am having problem with maintaining same functionality on different projects. For example, three of my apps use the same 2 classes; since they are different projects, when I need to make a change in those classes, I need to make it three times. Is there a simple solution to this kind of common problem?

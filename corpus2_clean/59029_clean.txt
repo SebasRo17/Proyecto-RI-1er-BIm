@@ -1,1 +1,0 @@
-tried get graphic molecule ca using mathematica produced following result chemicaldata ca spacefillingmoleculeplot missing notavailable make plot caffeine get compound chemicaldata caffeine spacefillingmoleculeplot get plot compound

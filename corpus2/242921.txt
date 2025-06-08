@@ -1,0 +1,1 @@
+Many years ago when debugging real time systems (such as the ones used in telephone switches) we had to use logic analyzers (which read execution straight from the CPU) or emulators (which physically replaced the CPU itself). Is there any situation where this type of instrumenting is still relevant?

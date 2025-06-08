@@ -1,0 +1,1 @@
+ok bit devil advocate question really global variable ok never would use alternative interesting side case question public static field different global

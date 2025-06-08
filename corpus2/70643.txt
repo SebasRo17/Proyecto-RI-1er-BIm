@@ -1,0 +1,1 @@
+I'm looking for Eclipse plugin which may show something like mini-map of code. I think this may be nice feature. Here you can see example of what I mean (it's TextMap plugin for gedit).

@@ -1,1 +1,0 @@
-code produce animate graphic two plot grid able export animate graphic using avi know possible export together one file tried using export animate avi grid thing could think might work also looked documentation stackexchange board find anything possible done

@@ -1,0 +1,1 @@
+writing ejb deployed connects db never needed use apparently standard connection thrid party includes database implement internally situation would app need use related class

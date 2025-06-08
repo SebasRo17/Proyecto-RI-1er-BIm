@@ -1,1 +1,0 @@
-I was trying to evaluate this product $$ \sin (1^\circ) \sin (2^\circ) \sin (3^\circ) ... \sin (88^\circ) \sin (89^\circ) \sin (90^\circ) $$ But I think it got weird results with this `Product[Sin[i], {i, pi/180, pi/2}]` Can anyone suggest me something??

@@ -1,0 +1,1 @@
+I'm about to make a simple web application with just image uploading and user management. I'm browsing through several web app frameworks I could use yet I'm still thinking if I should still make use of them or just make one from scratch for this specific application. Any suggestions from experienced web app developers? Thanks!

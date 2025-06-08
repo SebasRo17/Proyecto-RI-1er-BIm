@@ -1,0 +1,1 @@
+Is there any way that a Silverlight out-of-browser app can communicate with another app (for example an Objective-C app) installed on a Mac? Any help or suggestion will be highly appreciated.

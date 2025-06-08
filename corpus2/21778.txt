@@ -1,1 +1,0 @@
-Say I have a symbol with an `OwnValue`               a = y      And we define an integration like this               f[y_?NumericQ] := NIntegrate[a*z*y, {z, 0, 1}]      Then calling `f[1]` results in an error, probably because of the `HoldAll` attribute of `NIntegrate`. Using `Evaluate[a]` does not help. How can an integration like this be done correctly?

@@ -1,0 +1,1 @@
+developing web site annoying login site every time session run go flow like open logon page enter username password click link navigate page sometimes use selenium record flow automate selenium work browser still take long load etc would like able refresh page exactly like would site login page anyone use strategy achieve way disable login development tool help improve situation

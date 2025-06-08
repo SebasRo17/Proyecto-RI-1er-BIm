@@ -1,0 +1,1 @@
+I believe that the "Definition of Done" is **created** by the **Team** and the "Acceptance Criteria" is created by the **Customer**. Am I correct? Can a customer define the Definition of Done to the agile team?

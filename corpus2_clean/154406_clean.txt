@@ -1,0 +1,1 @@
+following public docheck public try perform check catch exception e logger exception occured docheck thrown new e getmessage safe log

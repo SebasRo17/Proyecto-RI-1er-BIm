@@ -1,0 +1,1 @@
+server running c using server support num player idea redesigning use multiple server instead one maybe example server could take care number player laggy could transfer responsability player server sure program consistent game logic like though technique

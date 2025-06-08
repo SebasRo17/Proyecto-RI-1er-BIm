@@ -1,0 +1,1 @@
+new django found official topic guide num excellent place learn place need quick reference see method argument take return etc kind like doc doc reference tutorial official doc tutorial style necessarily reference method missing something django official doc suffice everyone

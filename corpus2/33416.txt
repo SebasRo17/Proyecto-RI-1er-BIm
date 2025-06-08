@@ -1,1 +1,0 @@
-The Evaluate > EvaluateNotebook evaluates the whole notebook. Is it possible to somehow evaluate **ONLY** the open sections of a notebook?

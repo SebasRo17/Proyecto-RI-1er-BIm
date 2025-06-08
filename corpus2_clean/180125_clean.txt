@@ -1,0 +1,1 @@
+else without intervening brace considered safe maintenance wise writing else without brace like blah foo else bar carry risk lack brace make easy change meaning inadvertently however also risky blah else bloop bar else without intervening brace considered safe

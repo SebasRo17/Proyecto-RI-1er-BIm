@@ -1,1 +1,0 @@
-For example consider the following function:               Function[{u,v},u^2+v^4]      Is there anyway to define default values for the variables `u` and `v`? I know that this is possible for ordinary functions as follows:               f[u_:1,v_:0]:=u^2+v^4      But I am looking for a way to do this with pure functions defined by `Function[]`.

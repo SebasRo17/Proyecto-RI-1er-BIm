@@ -1,1 +1,0 @@
-try command integrate sqrt u infinity assumption u mathematica declares integral converge integral though clearly convergent mathematica trouble evaluating value u command integrate sqrt infinity assumption work fine

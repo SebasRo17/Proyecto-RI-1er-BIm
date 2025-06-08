@@ -1,1 +1,0 @@
-How do I write a function that only takes binary input?

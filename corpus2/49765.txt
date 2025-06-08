@@ -1,0 +1,1 @@
+I just need it to support signing and signature verification. I need it to have public and private keys that fit _each_ in 16 bytes. The signature itself must fit 16 bytes. I don't really care about cryptographic strength, as this is part of something bigger. Is there such a thing?

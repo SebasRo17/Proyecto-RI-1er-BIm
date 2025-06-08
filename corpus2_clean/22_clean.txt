@@ -1,1 +1,0 @@
-use regionplot plot region two function get strange gap resulting figure way prevent happening example regionplot x x x produce following strange result enter image description

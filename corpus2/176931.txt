@@ -1,0 +1,1 @@
+I am making program in Java in which I am making `Dialog box`, `button`, `checkbox`, etc. SWT widgets. Now my problem is, I want like if in one execution `button` is made and in second execution `checkbox` is made then they both should display in one box. So I need to store that box object. How can I do that?

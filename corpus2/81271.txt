@@ -1,0 +1,1 @@
+If I have a database that stores the login credentials of 1,000,000 users in PLAINTEXT, how much effort will it take me to md5 hash these passwords?

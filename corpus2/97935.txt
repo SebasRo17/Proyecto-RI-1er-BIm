@@ -1,0 +1,1 @@
+So I've been reading a little about Delphi XE2 and I probably will go to the world tour thing in Chicago coming up later this month and ask this question if no one can answer it here. What I wonder is how is my Delphi code going to be executed on a Mac? Is something else going to have to run (i.e. virtual machine) in order for the program to run?

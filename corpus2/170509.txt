@@ -1,0 +1,1 @@
+Is there a license that:   * Allows the client to make in-house changes to the tool/source code if need be.   * Prohibits to redistribute the source code outside the company.   * Prohibits to sell derivative work or services. Basically prohibits anything, but to make customizations for personal use- case.

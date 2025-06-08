@@ -1,1 +1,0 @@
-I am trying to solve this problem here but have to understand basics. Suppose I have a multiplication such as $a*(b+c+d+...+x)$. How can I multiply it to the result $a*b+a*c+...+a*x$? **Trials** > **[Not working]** Reduce[(a + b)*c] > > **[Not working]** Simplify[(a + b)*c] or FullSimplify[(a + b)*c]

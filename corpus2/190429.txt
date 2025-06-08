@@ -1,0 +1,1 @@
+What classes must I put in a class diagram? Only classes used in Business Layer and associations between them? Or also other classes in the Data Access Layer, Service Layer, etc.?

@@ -1,1 +1,0 @@
-How would I plot $x^2+y^2=1$ in 3D (it would form a cylinder)? Since there is no $z$ in the equation, I can't solve for it and use `Plot3D`. Or can I just put the equation into Plot3D? I am very new to Mathematica.

@@ -1,0 +1,1 @@
+I have been learning Java. And still after a prolonged time I don't know **why the name of the folder is "bin"** where one find all the tools for java? Is there is any logical reason behind that? I have also noticed the same in .Net framework also.

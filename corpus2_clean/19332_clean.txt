@@ -1,1 +1,0 @@
-using mathematica create image labeling simple calculation done previously name file depends result want show decimal separator program use image later labview using following code ang numberform n frac result precise digit digit right decimal angle ang still get decimal marker number get rid

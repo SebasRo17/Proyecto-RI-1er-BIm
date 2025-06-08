@@ -1,1 +1,0 @@
-Given a generating function $F(z)$, is there any way to compute the coefficient $a_k$ of $z^k$ by Mathematica? One method is to calculate by the equation $\frac{F^{(k)}(0)}{k!}$. However, this approach is not feasible for $k$ large.

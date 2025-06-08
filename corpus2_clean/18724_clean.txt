@@ -1,1 +1,0 @@
-proper way write c mathlink function return nothing following work sure work actually necessary template file begin function fun pattern fun argument argumenttypes returntype manual end c code void fun mlputsymbol stdlink null short set return type manual explicitly returned null necessary shorter way

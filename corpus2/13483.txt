@@ -1,1 +1,0 @@
-Is there a way to color each face of a `Cuboid` with a different color? I looked in the help but couldn't find anything. I found this Coloring the faces of a 3D object different colors (in Mathematica) which proposes building the cuboid with `Polygon` primitives; any other way?

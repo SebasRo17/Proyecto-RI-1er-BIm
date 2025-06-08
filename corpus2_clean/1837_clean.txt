@@ -1,1 +1,0 @@
-common problem derivative section calculus text find equation line tangent curve ldots point p find line tangent x sin x pi pi something like mathematica x x sin x x x x b x pi brule solve b x b brule pi output x less idiomatic mathematica code better way

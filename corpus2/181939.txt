@@ -1,0 +1,1 @@
+I have developed a website in asp.net and I have some additional tasks, improvements to develop. In order to get experience in asp.net/mvc, I want to create an admin panel using asp.net mvc. **Is this a logical next step?** * * * P.S. The project is small and 20% of the website is mine, so there are not any restrictions. There is no problem if I do not meet deadlines! :)

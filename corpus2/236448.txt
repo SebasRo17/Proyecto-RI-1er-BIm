@@ -1,0 +1,1 @@
+I am creating , a site like gsmarena , can any one help me with database design to store mobile specifications like here "http://www.gsmarena.com/asus_padfone_infinity_lite-6120.php" as user can add more custom specification ,

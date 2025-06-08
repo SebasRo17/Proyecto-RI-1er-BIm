@@ -1,0 +1,1 @@
+For example, `stackexchange.com`, without asking the site owner or Google their information about developing the website, is this possible to know what language is used in the back end? Seems, the website don't have `.extension` bar, for example `.php` that can indicated which is developed in `PHP`, but without the extension, how can I know that?

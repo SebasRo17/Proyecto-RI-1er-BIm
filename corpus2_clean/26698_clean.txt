@@ -1,1 +1,0 @@
-create new styled notebook stylesheets chooser dialag get new notebook using chosen style sample content provided enter image description enter image description apply style stylesheet open blank notebook sample content enter title question create one new cell given style sample content already present example would like able press alt create title style cell word enter title

@@ -1,0 +1,1 @@
+preparing single page application would sometimes used slow mobile connection part quite heavy term api request fetching ten different resource new screen display good idea merge service one provides required pure term rest principle significant performance gain expected

@@ -1,0 +1,1 @@
+understand earlier day computing shorter name like printf made sense storage limited modern language like go still use less readable name c apis switch readable form like format go name mind write make directory instead mkdir go

@@ -1,1 +1,0 @@
-curve written position vector r co pi co pi parametricplot r want know mark specific point curve example would also like label point

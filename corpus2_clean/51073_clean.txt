@@ -1,1 +1,0 @@
-trying solve following pde c p c c w c um l c um l c p c c w c sigma um l pi p c c w c c sqrt c sqrt um l p c c w w sigma l um pi p c c w w p c c w also following value constant um sigma l however get solution pde term um sigma l would prefer tried dsolve avail solve constant using appropriate initial boundary condition later someone please help

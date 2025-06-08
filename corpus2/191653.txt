@@ -1,0 +1,1 @@
+Many programming languages have only those 2 structures, and even some languages that have more structures still only provide special syntax for those 2; usually, `[]` and `{}`. Why is this? Is there anything special about those datatypes that is necessary for the completeness of the language?

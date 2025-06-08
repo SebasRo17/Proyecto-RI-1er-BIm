@@ -1,1 +1,0 @@
-trying iterate expression loop b n lhr normal series k x nsol initconst n lhr rhr normal series k x nsol initconst n rhr h b h ab lhr max ab rhr print getting following error general ivar valid variable general ivar valid variable general ivar valid variable general stop output general ivar suppressed calculation help problem

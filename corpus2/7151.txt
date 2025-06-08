@@ -1,1 +1,0 @@
-I need results like this:               {Cos[Cos[x]], Sin[Cos[Cos[x]]],Cos[Cos[Sin[Cos[Cos[x]]]]],       Sin[Cos[Cos[Sin[Cos[Cos[x]]]]]], ... }      I've tried to use `Nest` inside `NestList`, but failed:               NestList[Sin, Nest[Cos, x, 2], 3]          (* {Cos[Cos[x]], Sin[Cos[Cos[x]]], Sin[Sin[Cos[Cos[x]]]],       Sin[Sin[Sin[Cos[Cos[x]]]]]}  *)      Any idea?

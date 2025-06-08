@@ -1,0 +1,1 @@
+trying mocking parser test using phpunit num set result want returned call parse new set stub parser getmock parser expects parse returnvalue injecting stub client filewriter new filewriter filewriter inside using like parser parse segment set segment test mock first place mock return mock good design mock mock better approach

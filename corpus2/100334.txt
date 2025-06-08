@@ -1,0 +1,1 @@
+I'm currently looking into the advantages of using Backbone.js, but I'll be using ASP.Net MVC as the main bulk of the site. My question is, is it worth blending the 2 together or am I making a rod for my own back? Should I just use an ASP.Net Web Forms site instead?

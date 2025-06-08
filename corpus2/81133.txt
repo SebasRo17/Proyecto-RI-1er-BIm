@@ -1,0 +1,1 @@
+What are some techniques in determining if a particular piece of source code is malicious or vulnerable to malicious attack? I am currently using cppcheck and I am waiting on an install of Rational AppSource. Aside from that and reviewing the US-CERT Secure Coding Guidelines, what else should I be looking at? This is for a very large codebase (150K SLOC).

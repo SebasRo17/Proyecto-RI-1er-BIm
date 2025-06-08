@@ -1,0 +1,1 @@
+In C, you cannot have the function definition/implementation inside the header file. However, in C++ you can have full method implementation inside the header file. Why is the behaviour different?

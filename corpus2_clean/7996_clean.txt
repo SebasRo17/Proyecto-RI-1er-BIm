@@ -1,1 +1,0 @@
-question similar one goal prepend single sublist incrementally many file working csv containing around k sublists length tried riffle flatten list partition properly sized sublists result pretty might add offset parameter also trying learn use pure function suggestion using help

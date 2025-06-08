@@ -1,1 +1,0 @@
-simple loop rpos rpos n pi rpos radiusinc zpotential xpos rdistance co rpos ypos rdistance sin rpos zpos planedepth appendto zfield xpos ypos zpos zpotential line body executed zpotential end zfield zero item set breakpoint second third line never hit know loop discouraged see cause problem

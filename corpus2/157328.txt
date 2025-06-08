@@ -1,0 +1,1 @@
+In my company, I'm the only developer, but we plan on expanding the team by hiring a second programmer. I know there are a lot of implications to that (especially around source control). I've Googled a lot, but haven't found a good tutorial/article on how to grow the team from one to many developers. Do you have any resources that we could make use of?

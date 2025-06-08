@@ -1,0 +1,1 @@
+Is there any consensus between languages how tests for emptiness are distinct from tests for noneness? In python the following expression is false: `{} is {}` However this expression evaluates to True `False is False` Why is the first expression not evaluated to True?

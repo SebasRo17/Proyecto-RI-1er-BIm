@@ -1,0 +1,1 @@
+Lets say I have an extremely robust and versatile function:   `void DoAnything(action, target, context)` In my program, 90% of the time I call this function, it's with the same parameters:   `DoAnything(eat, food, lunchtime);` Is it bad form for me to define a function such as:   `void EatLunch(){ DoAnything(eat, food, lunchtime); }` And call that instead?

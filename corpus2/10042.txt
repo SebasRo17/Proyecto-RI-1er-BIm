@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  How to insert guide-lines in graphics without specifying range? When we're using `ArrayPlot`, it's possible to draw a grid by doing:               ArrayPlot[{{1, 0, 0, 0.3}, {1, 1, 0, 0.3}, {1, 0, 1, 0.7}}, Mesh -> True]      But I can't find a way of doing it on `Plot`, `ListPlot` and `ListLinePlot`, can you help me?

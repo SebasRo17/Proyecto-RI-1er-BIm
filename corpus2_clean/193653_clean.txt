@@ -1,0 +1,1 @@
+building rest api client authenticated using client certificate client case individual user sort presentation layer user authenticated using custom approach responsibility presentation layer see properly done note know proper approach api public would like pas user request password sure would good idea use authorization header

@@ -1,0 +1,1 @@
+I want to write a shell script to connect to the remote server and execute a command (any linux command). I am using linux and want to prepare a shell script which can login to the virtual directory server and execute a given command. I.e. if I want to execute the `imqcmd` command, how can I do this?

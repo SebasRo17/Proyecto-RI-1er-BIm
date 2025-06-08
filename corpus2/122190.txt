@@ -1,0 +1,1 @@
+The reason I ask this is because isn't a PHP script a route? For example, if you have an article.php then your route is simply http://mysite.com/article.php. Why further abstract away the concept of a route when it already exists as a simple file?

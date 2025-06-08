@@ -1,1 +1,0 @@
-Is it possible to evaluate only the selected cells programmatically that I am interested in? Say in current cell to bottom of the notebook, instead of evaluate notebook or cells?

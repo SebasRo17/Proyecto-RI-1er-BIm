@@ -1,0 +1,1 @@
+In many interviews I've been asked this question. I found the following answer: > Early binding refers to assignment of values to variables during design time > whereas late binding refers to assignment of values to variables during run > time. I can't understand it without an example. Can anyone give me one?

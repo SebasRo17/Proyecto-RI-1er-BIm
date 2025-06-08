@@ -1,1 +1,0 @@
-try run mathematica process parallel linux based server see server allows mathkernels sub mathkernels wondering difference take advantage sub mathkernels generally run job like var path math noprompt script scriptname parameter done result using different mathkernels therefore able iteration time wondering could take use sub mathkernel license somehow tweak run time possible

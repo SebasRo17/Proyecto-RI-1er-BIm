@@ -1,1 +1,0 @@
-given list list find longest constant sublist equivalently element number time repeated example

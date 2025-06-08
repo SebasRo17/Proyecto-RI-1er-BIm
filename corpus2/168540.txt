@@ -1,0 +1,1 @@
+I always use `System.out.println(...)` to debug my code, and it works pretty well. In which cases do you use the eclipse java debugger? I never had to use it and the little bug symbol is still ab bit mysterious to me. Are there cases where the debugger helps me that I can´t solve with a println?

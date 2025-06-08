@@ -1,1 +1,0 @@
-experimental data set know follow complementary error function goal find associated gaussian distribution however cannot seem way using nonlinearmodelfit could please give hint data list list e g data toexpression import plotted look like listplot transpose data

@@ -1,1 +1,0 @@
-I am wondering is there any possible solution to export equations from mathematica to corel x5. I was trying first to export a equations as pdf from mathematica and then to import .pdf to corel, but many characters are missed. Maybe someone had success with this kind of problem. Thanks in advance.

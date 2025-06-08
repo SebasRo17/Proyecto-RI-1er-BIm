@@ -1,1 +1,0 @@
-I have a piece of code that works well, but when I put a semicolon after a plotting statement, the semicolon appears in red. What's the error? ![](http://i.stack.imgur.com/WXRUM.jpg)

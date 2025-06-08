@@ -1,0 +1,1 @@
+see tutorial bit manipulation heading extracting every last bit suppose wish find lowest set bit x known non zero subtract num x bit cleared one bit x remain set understand statement take x num subtracting num would give num lowest set bit cleared anyone tell approaching problem wrong way

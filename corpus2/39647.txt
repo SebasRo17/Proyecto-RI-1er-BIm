@@ -1,1 +1,1 @@
-How would I plot the following in Mathematica? $ \displaystyle\sum_{n=2}^{10} \bigg(\dfrac {4ine^{inx}(-1)^n}{(n^2 - 1)^2} - \dfrac{4in e^{-inx}(-1)^n}{(n^2 - 1)^2} \bigg) $ Thanks.
+Has the Windows 32 API changed much over time? Does the Charles Petzold book "Programming Windows, 5th Edition" from 1998 still contain relevant information, or is most of it obsolete/outdated? What are some prominent examples of recent additions to the Windows 32 API (if there are any)?

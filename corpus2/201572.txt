@@ -1,0 +1,1 @@
+Java Swing GUI's don't look native by default (Except on Mac OS X for some reason). Swing uses it's own look and feel. You can get Swing to use the system look and feel by putting:               javax.swing.UIManager.setLookAndFeel(javax.swing.UIManager.getSystemLookAndFeelClassName());      in the beginning of your `main` method, but: Why isn't this done by default?

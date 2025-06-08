@@ -1,0 +1,1 @@
+What things should absolutely never be included in a header file? If for example I'm working with a documented industry standard format that has a lot of constants, is it a good practice to define them in a header file (if I'm writing a parser for that format)? What functions should go into the header file?   What functions shouldn't?

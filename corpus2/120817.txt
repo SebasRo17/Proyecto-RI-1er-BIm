@@ -1,0 +1,1 @@
+Today, Windows applications can be developed in numerous languages and frameworks. But in the upcoming Windows 8, with the introduction of WinRT, the development model is going change at a large scale. So, where do other programming languages fit in this model?

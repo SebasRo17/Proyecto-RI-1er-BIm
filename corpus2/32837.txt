@@ -1,1 +1,0 @@
-The `Sum` is a built-in function in _Mathematica_ , so the summation limits must be assigned. What I need to know is how to use a value computed in a separate `Module` as a Sum upper limit.

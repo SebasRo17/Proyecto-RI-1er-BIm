@@ -1,0 +1,1 @@
+I didn't get a complete understanding of static constructors in Java. If it is allowed, why it is allowed? In what scenarios would you use it? What purpose would it serve? Can someone give me a simple example please?

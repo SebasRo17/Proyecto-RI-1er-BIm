@@ -1,1 +1,0 @@
-Currently, I have a matrix containing a list of spherical coordinates. Column 1 is r; r=1 for all points. Column 2 is theta and column 3 is phi. Each row is an ordered triple (r,theta,phi). Is there a function that I can get to operate on this matrix and plot these points on a sphere of radius 1? Thank you! -Chase

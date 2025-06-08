@@ -1,0 +1,1 @@
+using delegate instead method example public sender e membership validateuser username password func userlogin definition e authenticated username else action msg isnullorwhitespace msg invalid login msg e authenticated user membership getuser username user user user blocked else user isapproved user activated else else define private login private msg give benefit

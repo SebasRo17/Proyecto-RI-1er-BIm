@@ -1,1 +1,0 @@
-algorithm mathematica using firstpassagetimedistribution attempting use pseudoinverse laplacian graph underlying discrete markov process

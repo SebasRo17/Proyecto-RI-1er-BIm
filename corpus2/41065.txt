@@ -1,1 +1,0 @@
-I have the following code               Style["("       InputField[Dynamic[t], Number, ImageSize -> 30]       ")="        PDF[NormalDistribution[μ, σ], t],       16]      which doesn't result in > "f(inputfield) = result of PDF calculations based on input" Any ideas?

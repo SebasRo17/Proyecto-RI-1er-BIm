@@ -1,0 +1,1 @@
+I know that a writing test case is one of the way to do some programming level testing, but how to test some careless mistake? or how to reduce? For example, a `buttonA`, should perform `ActionA`, but sometime, just human mistake, the `buttonA` perform `ActionB`. And it requires the human test, it seems can't automatic the testing process, any hints to do so? Thanks.

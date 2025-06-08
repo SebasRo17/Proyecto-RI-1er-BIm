@@ -1,0 +1,1 @@
+From the Blink Blog: > Finally we’d like to explore even larger ideas like moving the entire > Document Object Model (DOM) into JavaScript. What does this mean? Does it mean WebKit's DOM is currently _not_ coded in JavaScript but in some other language? Does it mean that they want to expose more public accessors to the DOM? Or what?

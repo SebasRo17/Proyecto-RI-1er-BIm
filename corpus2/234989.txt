@@ -1,0 +1,1 @@
+What is the industrial practice on how to separate html and php code in a web project? Using echos to generate html is considered bad but what is the standard way to achieve the sought separation? Using template engines like twig?

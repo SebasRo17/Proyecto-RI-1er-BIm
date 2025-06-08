@@ -1,1 +1,0 @@
-want evaluate simple expression sum n f n delta mn f using sum kroneckerdelta n f n n infinity however mathematica reduce expression could someone tell correctly

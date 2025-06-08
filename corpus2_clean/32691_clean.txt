@@ -1,1 +1,0 @@
-would like write book using mathematica write one chapter several file tell mathematica bookchapternumber pointer value pointing next file chapter

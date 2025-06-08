@@ -1,1 +1,0 @@
-using paralleltable evaluate function involves nintegrate lot nintegrate slwcon warning message fact every kernel print message aware mathematica printing warning want suppress tried quiet nintegrate slwcon seem effect whatsoever using paralleltable turn warning message using paralleltable

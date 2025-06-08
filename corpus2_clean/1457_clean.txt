@@ -1,1 +1,0 @@
-given two arbitrary vector textbf v textbf v draw plane span

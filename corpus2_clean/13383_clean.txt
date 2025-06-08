@@ -1,1 +1,0 @@
-trying plot vector function fluid flow given vec v frac co theta r frac sin theta r trying plot mathematica using command converted cartesian coordinate way run mathematica without exclusion option get one arrow origin help plot vectorplot x x x x exclusion x

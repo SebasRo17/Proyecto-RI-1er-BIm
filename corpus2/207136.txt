@@ -1,0 +1,1 @@
+What is the difference between a Future and a promise? (In Akka and Gpars.) They look the same to me as both block and return the value of the future when get is called and a promise is to get the result of a future.

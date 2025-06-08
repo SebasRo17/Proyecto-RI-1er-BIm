@@ -1,1 +1,0 @@
-make stylesheet inline cell styled like input cell similar mean font syntax highlighting even tried copying setting input cell core nb private style definition inlinecell luck

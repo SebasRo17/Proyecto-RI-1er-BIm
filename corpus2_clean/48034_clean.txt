@@ -1,1 +1,0 @@
-example solving system parabolic elliptic pde see subsection combined elliptic parabolic pde example equation initial condition depend x change solution accounting dependence x system solved easier using ndsolve clarification another problem described page pde combined ode problem initial condition depend x

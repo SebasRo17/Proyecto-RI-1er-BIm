@@ -1,1 +1,0 @@
-sample compiled function f compile x constantarray x runtimeattributes listable parallelization true compilationtarget c using single argument work fine f using parallel give error message f compiledfunction pext instruction original function call ordinary mathematica code evaluated one thread time problem constantarray even used replacing table fix problem idea

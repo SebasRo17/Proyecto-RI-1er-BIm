@@ -1,0 +1,1 @@
+I have a simple DB editor that sits on the client. When I make changes via the editor, should I re-get all my data, as some of it is changed, or can I just do a check to make sure the procedure ran without error and assume my data is the same as the server?

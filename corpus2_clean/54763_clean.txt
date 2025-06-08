@@ -1,1 +1,0 @@
-encountered shall presume bug setting recursionlimit repeatably crash mathematica kernel recursionlimit kernel crash setting recursionlimit produce malformed suggestion bar containing text code starting manipulate dump edynamicmodule running version window please report behavior system

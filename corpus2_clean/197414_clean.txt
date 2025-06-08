@@ -1,0 +1,1 @@
+working adding test coverage application previously one additional requirement emerged one background process able process num num row time written unit test ensures background process able work num num entity without crashing php num memory limit test take close num minute finish test take num second approached differently unit test

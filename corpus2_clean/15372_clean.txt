@@ -1,1 +1,0 @@
-wish use different version r provided mathematica example want use macports version r r home opt local lib r type need rlink installr rhomelocation opt local lib r get error installr fail failed install r following error encountered unable load dynamic library tried doctor macosx environment plist dyld library path luck

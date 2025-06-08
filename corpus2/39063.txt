@@ -1,0 +1,1 @@
+What is the difference between private variables in a clsClass type and using enumeration enum to instantiate the variable. This question arose when I was looking at some C# Class code for serial ports. example: private int SomeClassMember; and private enum TransmissionType{TEXT,HEX} ? Where do the enum statements appear in a Class definition?

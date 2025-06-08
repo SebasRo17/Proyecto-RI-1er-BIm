@@ -1,0 +1,1 @@
+In objective C, classes are objects, but what object owns the class objects? I am trying to get as detailed an understanding of iOS programming as I can, and this question popped into my head, so I decided I should know the answer.

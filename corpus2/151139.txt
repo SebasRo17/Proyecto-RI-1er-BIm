@@ -1,0 +1,1 @@
+I'm developing kind of a modern web application - scalable, robust and fast. I need to develop it as fast as I can. How much should I worry about the analysis phase or writing UML diagrams or ER diagrams for it? And what should be the flow on that? What should I start drawing?

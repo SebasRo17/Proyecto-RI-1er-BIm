@@ -1,0 +1,1 @@
+The descriptor 'Engine' gets thrown around a lot: graphics engine, RegEx engine, AI engine, etc. but what actually makes a piece of software an Engine? Design, Input/Output, Purpose, Size?

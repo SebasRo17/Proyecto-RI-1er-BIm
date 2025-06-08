@@ -1,1 +1,0 @@
-array look like following examplearray r r r r r pair real number k r k represents event independent event starting time k ending time r k provided time examplearray like quickly return number event time also like quickly plot number event versus time interval catch examplearray might large number element want scan multiple time elegant way mathematica

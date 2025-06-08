@@ -1,0 +1,1 @@
+matching sql server datatypes c first approach entity framework specific point keep mind c datatype match exactly sql server datatype specifically match sql server datatype c datatype let say particular datatype exists sql server c make possible

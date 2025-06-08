@@ -1,1 +1,0 @@
-found example mathematica command usage old manual program give different result expected expand co x sin x trig true give co x co x co x return unaltered expression tried expand sin x added expression factored get expected first place surprised found example book mathematica university library although book think unaltered expression expand return wrong

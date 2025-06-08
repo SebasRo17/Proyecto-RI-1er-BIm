@@ -1,1 +1,1 @@
-following list square sum want make two partition given number partition sum mathematica built function
+going write chess game engine programming paradigm would use oop procedural etc whould choose chess engine mean portion program evaluates current board decides computer next move asking thought might fun write chess engine occured could use project learning functional programming occured problem well suited functional paradigm occured might good discussion fodder

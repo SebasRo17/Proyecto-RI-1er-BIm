@@ -1,0 +1,1 @@
+ruby default include example check foo bar exists foo may nil foo something may may nil foo foo bar something foo bar end define def arg nil end end something like would make possible even foo nil foo bar something foo bar end even foo bar baz something foo bar baz end question good idea reason ruby include functionality default

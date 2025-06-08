@@ -1,1 +1,0 @@
-trying setup clojuratica window using instruction clojure data analysis cookbook time run code java cp clojure clojure jar clojuratica master clojuratica jar c program file wolfram research mathematica systemfiles link jlink jlink jar clojure main clojure get error exception thread main java io filenotfoundexception clojure system cannot find file specified wrong

@@ -1,1 +1,0 @@
-I'm having a seven element binomial distribution: BinomialDistribution[7, 0.5], x],{x, 0, 8}] I would like to locate to any arbitrary point on the X axis. Mathematica will let me have eight columns on the X axis ranging from -0.5 on up to 7.5. How do I shift the binomial on up to say, from 5.5 to 13.5?

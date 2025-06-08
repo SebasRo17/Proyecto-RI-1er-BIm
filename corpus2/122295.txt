@@ -1,0 +1,1 @@
+Is this good or bad design to add, by default, ID field in every table in a database, even when you don't see currently to usage of this ID (For instance in a MxN table) ?

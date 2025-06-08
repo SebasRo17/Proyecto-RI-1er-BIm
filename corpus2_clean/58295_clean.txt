@@ -1,1 +1,0 @@
-consider following pseudo function definition f l let length l b first l c b c instance f output currently know variant let set b c globally first call f allow definition c b defined simple way define local variable whose definition may depend upwards

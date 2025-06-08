@@ -1,0 +1,1 @@
+The terms rapid web development gets associated with Python/Django and ROR. Why is this not the case with C# ASP.NET?

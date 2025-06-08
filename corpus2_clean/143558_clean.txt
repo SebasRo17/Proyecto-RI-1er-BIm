@@ -1,0 +1,1 @@
+language like haskell concept purity pure mutate state globally anyway haskell fully abstract memory management memory allocation problem language handle memory directly like c ambiguous language memory allocation make visible mutation treat making new impure action actually almost nothing pure purity concept becomes almost useless handle purity language memory visible global

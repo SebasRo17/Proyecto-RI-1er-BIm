@@ -1,1 +1,0 @@
-assume following code randominteger randominteger randominteger k code make two randomintegers used loop avoid making repeated random number iteration know possible avoid making repeated random number whole iteration example following result answer iteration acceptable repeated twice iteration would appreciated someone could help problem

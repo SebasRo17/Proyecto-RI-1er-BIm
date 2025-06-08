@@ -1,0 +1,1 @@
+I really like google golang but could some one explain what the rationale is for the implementors having left out a basic data structure such as sets from the standard library?

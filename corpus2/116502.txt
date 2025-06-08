@@ -1,0 +1,1 @@
+I have thousands of .xml files from size 1MB-45MB (no DTDs). I need to parse and further manipulate these XML files before generating separate .xml files with the results of my regex. What the fastest open-source XML parsing library for C++? Aside from the parsing library, what other approaches can I use to speed up XML parsing?

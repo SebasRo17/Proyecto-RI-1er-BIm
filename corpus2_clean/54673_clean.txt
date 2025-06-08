@@ -1,1 +1,0 @@
-since mathematica every time mouse cursor appears function even variable annoying tooltip appears offering help enter image description become quite used mathematica need tooltips everywhere every second easily click function press f get help tried almost every promising looking option edit preference interface page remove tooltips finally get rid

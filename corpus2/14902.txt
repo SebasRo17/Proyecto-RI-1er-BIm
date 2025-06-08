@@ -1,1 +1,0 @@
-I have a directory of files with the pattern: `"some_number.some_name.pdf"` I want to remove the `"some_number."` part from all the files. How to do that? There are a few commands in my head: `FileNames`, `Map`, etc. But I don't know how to chain them together to achieve the task. Thanks in advance.

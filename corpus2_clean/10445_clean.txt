@@ -1,1 +1,0 @@
-pair ordered list want generate new ordered list using ordering length n applying binary operator pair element one list along index list element example two list real number increasing order sorted via less l l binary operator plus ask element result would written code achieves looking elegant efficient general solution would work arbitrary list binary operator

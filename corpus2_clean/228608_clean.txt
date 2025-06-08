@@ -1,0 +1,1 @@
+let say button object form click event c net event handler normally named throughout industry click like hungarian click visual studio creates event handler default underscore eventname seems violate norm using camelcasing instead separating word underscore reason change practically everyone following visual studio

@@ -1,1 +1,0 @@
-I was just playing around with entering two dimensional forms of some expressions. As an example, I wanted to write `Integral[Cot[t],t]`. I got as far as `\[Integral]Cot[t] \[DifferentialD]t`. But I would love to make it look even more natural by omitting the brackets around the `t`. Is there any `\[]` character that helps me do that?

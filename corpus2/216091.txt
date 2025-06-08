@@ -1,0 +1,1 @@
+How many c# developers on the **same** virtualized Microsoft Windows edition is it sensible to have? If everyone uses their own documents and settings folder, should I expect it should be fine? Only Windows Server allows concurrent users if this option is enabled; How many concurrent users do you get out of the box?

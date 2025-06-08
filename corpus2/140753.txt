@@ -1,0 +1,1 @@
+What is the easiest way to convert a Json data to a String at CSV format ? I haven't read all the api yet but it seems that subclassing the default JSonWriter allows to remove unnecessary character in order to be closer to CSV format. Does a simpler solution exist ?

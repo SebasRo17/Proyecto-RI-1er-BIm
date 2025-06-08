@@ -1,0 +1,1 @@
+currently task generate xml file srt text file containing timestamps corresponding text generate exe file accepts file output relevant xml file used part automated script advisable use tinyxml edit comment regarding much appreciated easiest way generate xml c

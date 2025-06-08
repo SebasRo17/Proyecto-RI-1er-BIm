@@ -1,0 +1,1 @@
+Consider there is a manager and a programmer in a project. A manager crates a task which a programmer performs. In this situation who should check that a programmer didn't make some non- testable mistakes like using non thread-safe map in a singleton service? And who checks the overall project code structure?

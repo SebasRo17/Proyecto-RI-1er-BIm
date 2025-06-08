@@ -1,0 +1,1 @@
+Does the single responsibility principal promote flexibility? If not what are the other methods to make your classes more flexible? By flexibility I mean, a class is able to function correctly at any time with little (or even with no) hassle.

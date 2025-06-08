@@ -1,1 +1,0 @@
-function recursively defined follows n n time lpf n whe lpf x least prime factor x given initial value would like find smallest value n n prime attempt code nestwhilelist factorinteger primeq however code always simply return initial value wrong

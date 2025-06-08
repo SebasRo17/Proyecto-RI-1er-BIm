@@ -1,1 +1,0 @@
-I think it has become less easy to compare the new output, now that the output font color turns gray as soon as something is modified in the input cell. Is there any solution?

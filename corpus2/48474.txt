@@ -1,1 +1,0 @@
-If anyone knows how to write a mathematica code for n-level exponential moving average or someone has written already the code ?

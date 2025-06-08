@@ -1,1 +1,0 @@
-manipulate timing show somegraphs mathematica last line function f x module trying combine list graph single graph want test performance add timing function within manipulate function want find time take change value however output change change clearly time taken increased

@@ -1,0 +1,1 @@
+one interviewer asked question table created appropriate normalization rule however database performing slow ie select insert statement taking time operation area need look improve database performance understood vague question please provide suggestion also area need look query execution plan

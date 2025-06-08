@@ -1,0 +1,1 @@
+generally read many num argument constructor bad practice num still considered bad practice non obvious reason num something like scala case may many field done avoid construction sure best fit codereview

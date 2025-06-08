@@ -1,1 +1,0 @@
-I know $x^3-3 x+1=0$ has three roots that can be expressed in trigonometric form: $\{2\sin(10^\circ),\,-2\cos(20^\circ),\,2\cos(40^\circ)\}$. How can I get this result with _Mathematica_?

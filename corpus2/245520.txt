@@ -1,0 +1,1 @@
+A website I'm creating is going to have three breakpoints: desktop, tablet landscape, mobile. Should I write a test for each resolution?

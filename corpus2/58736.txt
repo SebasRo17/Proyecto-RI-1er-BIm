@@ -1,1 +1,0 @@
-I am trying to use _Mathematica_ to `Eliminate` 3 following variable from 4 equations. Any clue or link to similar solved problem is highly appreciated:               eq = {       Cos[θ] + Cos[ϕ] + Cos[ψ] == a,       Sin[θ] + Sin[ϕ] + Sin[ψ] == b,       Cos[2 θ] + Cos[2 ϕ] + Cos[2 ψ] == c,       Sin[2 θ] + Sin[2 ϕ] + Sin[2 ψ] == d};     Eliminate[eq, {θ, ϕ, ψ}]

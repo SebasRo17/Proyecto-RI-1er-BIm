@@ -1,1 +1,1 @@
-I wanted to ask how can I view an Excel file from a _Mathematica_ notebook and modify it. I have seen a similar question, Open Excel file with Mathematica, but the answer involves .NET. Is there any other way to open an Excel file and modify it?
+How do you endorse/support a code project that you find helpful, be it established, emergent or fledgling? I think there are some obvious answers, but hopefully there will be some novel suggestions too.

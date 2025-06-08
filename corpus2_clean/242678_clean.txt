@@ -1,0 +1,1 @@
+polymorphism possible scenario inheritance implementation polymorphism dependent inheritance polymorphism mainly usefull inheritance

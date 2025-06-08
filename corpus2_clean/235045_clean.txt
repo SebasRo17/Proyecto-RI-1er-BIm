@@ -1,0 +1,1 @@
+confused white box testing simplified version example entire system consists three method methoda methodb methodc program start methoda methodb requires methoda methodc requires methodb create num white box test one create one white box test entire system

@@ -1,1 +1,0 @@
-using theoretical answer found official wolfram site reference ensure code faulty even though fairly confident original code half decent sol dsolve x x x co x x function x e x c e x sqrt sqrt erfi sqrt x sqrt erfi sqrt x plot evaluate x sol c x plotrange output shown wolfram site actually show nice looking plot display get graphic plot

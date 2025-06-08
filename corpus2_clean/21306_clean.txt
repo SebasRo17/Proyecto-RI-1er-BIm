@@ -1,1 +1,0 @@
-trying solve following problem minimize nprobability g g x x distributed uniformdistribution g g code give error message nintegrate nintegrate izero idea error message solve problem run contour plot objective constrained area get something look well behaved contourplot nprobability g g x x distributed uniformdistribution g enter image description

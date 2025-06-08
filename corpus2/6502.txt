@@ -1,1 +1,0 @@
-Is there any way to have the functions from a mathematica file be loaded on startup? For example, in this excellent answer, Jens helps me out and gives me some functions for creating legends for plots. Instead of loading a file with those functions in it every time I load mathematica, can I instead put all the functions in a file and have them load every time I load mathematica?

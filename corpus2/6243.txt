@@ -1,1 +1,0 @@
-My goal: How to (1) construct 3D image for visualization. (2) how to write 3D array or image into binary raw file. Is there a way to accomplish this in Mathematica? Alternative_Answer for: (1)               slices={1,2,3,4,5};     ss = Map[ImageData, slices];     ListContourPlot3D[ss, Mesh -> None, Contours -> Automatic]

@@ -1,0 +1,1 @@
+I just want to find out the best practice to deploy your MVC3 application and what tool you use to get the job done. I am using Visual Studio 2010. I publish my web site, then manually backup whats on the production server, then upload the new one there. It's tedious and error prone. What should I do to make this job easier?

@@ -1,1 +1,0 @@
-As you know, _Mathematica_ V10 has just been released and I think a lot of updates will be released. However, I don't see any command in the help menu to update (which is present in most other software). How would we know if an update is available or not? I am using trial version of V10. ![enter image description here](http://i.stack.imgur.com/dTwd2.jpg)

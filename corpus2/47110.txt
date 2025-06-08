@@ -1,1 +1,0 @@
-Consider the following simple code which dumps the global context:               var = 5;     DumpSave["test.mx", "Global`"];      Now, in a new notebook, I would like to import var in another context. Trying               Begin["myContext`"]     << "test.mx"     End[]      does not work because var remains in the global context. Is there a solution? Thank you.

@@ -1,0 +1,1 @@
+application back end database table procedure database specific dlls front end application logic ui separate people working wondering best way organize repository using git option see one repository submodules repository two separate repository suggestion welcome

@@ -1,0 +1,1 @@
+Sometimes when code is too complex, I break it down into parts. Is there another kind of technique/visualisation to help have a more clear picture of the code?

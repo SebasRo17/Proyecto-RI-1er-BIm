@@ -1,1 +1,0 @@
-Could anyone help me find a function that takes as inputs: a set $S$ of vectors and an integer $q$ and outputs: the Span of $S$, where $Span[S]$ is a vector space over the field $F_q$. If its simpler, could someone tell a method for $q=2$ (binary vectors) case. Thanks.

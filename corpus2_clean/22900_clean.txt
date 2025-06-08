@@ -1,1 +1,0 @@
-want draw cuboid accroding coordinate geometric center dimension rather diagnoal coordiantes draw triangular prism

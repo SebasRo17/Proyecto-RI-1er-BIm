@@ -1,1 +1,0 @@
-possible duplicate plot even piecewise function based howell principle fourier analysis found function f x begin case sqrt x text pi x pi f x pi text general end case author seem able produce graph maple like bun continuous question produce graph type mathematica aware use piecewise function second condition say general hence lost please give advise

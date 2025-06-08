@@ -1,0 +1,1 @@
+I know that in agile requirement changes should not only be planned for but also embraced. But I still don't know agile how to handle these changes.

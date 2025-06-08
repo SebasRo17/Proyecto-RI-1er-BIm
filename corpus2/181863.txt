@@ -1,0 +1,1 @@
+I remember once reading some research where a body of C code had been analysed, and the findings were that the vast majority of `for` loops could be categorised into about five categories, corresponding to the functional equivalents of `map`, `filter`, `fold`, etc. I can't seem to find this paper/article anymore. Can anyone point me to it?

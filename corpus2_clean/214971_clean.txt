@@ -1,0 +1,1 @@
+say foo every instance foo need contain list mylist since every instance share list thought would good make mylist static use static set mylist constructor called wondering bad requires setter called constructor person program crash alternative way would passing mylist every time

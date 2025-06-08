@@ -1,0 +1,1 @@
+I read this thread on programmers today and thought that looked like a really elegant way of coding. I would like to discover more neat methods of coding. What are the best ways of discovering new elegant ways of coding? (Im already aware of the standard design patterns)

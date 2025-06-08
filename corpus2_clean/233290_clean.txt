@@ -1,0 +1,1 @@
+looking developing simple application game allows user keep track item much experience obtained using item user idiomatic standard way persist manipulated model immediate possibility seem saving file serialization database etc many seem overkill simple text field seem necessitate object idiomatic traditional way handle something like

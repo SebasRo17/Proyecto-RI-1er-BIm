@@ -1,0 +1,1 @@
+writing new application using gtkmm first glib gtk application app gtk application create argc argv org gtkmm example base knew org gtkmm example base application id question num application id num write

@@ -1,0 +1,1 @@
+example table fruit weight apple num orange num lemon num need random fruit apple picked num time frequently lemon num time frequently orange general case f weight time frequently general algorithm implement behavior maybe ready gem ruby p implemented current algorithm ruby

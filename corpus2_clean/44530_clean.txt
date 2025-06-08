@@ -1,1 +1,0 @@
-could someone explain mathematica evaluates following integration nintegrate x mask x x would expressed analytically non zero mask zero square region defined mask x piecewise x x x would expressed analytically different nintegrate x mask x x access mathematica discrepancy trying port matlab

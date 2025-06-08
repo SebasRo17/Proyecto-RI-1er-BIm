@@ -1,1 +1,0 @@
-suppose expression containing p subscript p subscript p etc want replace p numerical value keeping two variable intact naively use p example get subscript subscript result

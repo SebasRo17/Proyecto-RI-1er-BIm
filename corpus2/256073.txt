@@ -1,0 +1,1 @@
+I am trying to implement a recursively defined Stack. Is there any efficient method apart from copying the elements from Stack in array, sorting them and again pushing them on stack? (I know C/C++, Java)               //Stack definition:     Stack     {         E element;         Stack topOfSubStack;     }

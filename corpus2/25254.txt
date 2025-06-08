@@ -1,1 +1,0 @@
-I am trying to have the symbol $\epsilon_{9/2,4}^-$ as the axis label in a graph in Mathematica. First problem is that: when I use Subscript[$\epsilon$,9/2,4], 9/2 changes to $\frac{9}{2}$ (which I don't want, because it doesn't look good). Second problem is that Subscript[$\epsilon$,9/2,4]^- does not work. Can anyone please let me know how to do this? Thanks!

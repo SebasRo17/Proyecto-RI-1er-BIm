@@ -1,0 +1,1 @@
+Does C++ have an "official" language specification document, similar to the Sun/Oracle: http://docs.oracle.com/javase/specs/#6.6.1

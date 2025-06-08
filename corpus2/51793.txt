@@ -1,1 +1,0 @@
-When converting Eastern European alphabet written article from .nb to pdf, certain letters convert to empty rectangle like shapes or constructs, also hacek like letters (č,ć,ž,š,""...). Has anybody suggestion how to correct this?

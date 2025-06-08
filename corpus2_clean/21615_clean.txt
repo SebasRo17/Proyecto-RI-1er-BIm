@@ -1,1 +1,0 @@
-mathematica implementation computing ehrhart polynomial convex polytope specified either vertex set inequality interested knowing understand ehrhart polynomial polytope determine number integer point inside polytope alternatively someone know existing method count number integer point inside convex polytope described vertex set inequality would equally helpful

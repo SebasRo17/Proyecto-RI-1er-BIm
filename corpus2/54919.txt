@@ -1,1 +1,0 @@
-As Wolfram|Alpha calls are limited, and on the other side increasingly frequent, I'd like to be able to check how many calls am I able to make at a given time. Is there a function or system variable that keeps this information? Bonus points if it does not include making a call to W|A.

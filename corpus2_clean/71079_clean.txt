@@ -1,0 +1,1 @@
+wanted advice regarding mvc way thing using codeigniter wondering better one controller per page website one controller page let say simple website visit homepage login create account contact admin num would better controller frontend index login account contact one controller called frontend whatever action login createaccount contact num know better use one controller situation

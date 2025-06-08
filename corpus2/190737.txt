@@ -1,0 +1,1 @@
+I have a Java Web application backed by a database. Both are hosted in Amazon EC2. If the Internet is down, I need to allow internal users to be able to continue to work and somehow update the hosted service when the Internet is available again. Is this possible? How would I design such a solution.

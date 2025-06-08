@@ -1,0 +1,1 @@
+After making little progress in web development and php I figured out if I can make my grip strong on database designing, I will be able to reduce much code and time in developing the application. But I happen to be a dumb in database designing so can anyone please help to differentiate between has many and belongs to relationship. They seems quite same to me

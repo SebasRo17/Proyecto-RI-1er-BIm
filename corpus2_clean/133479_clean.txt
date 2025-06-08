@@ -1,0 +1,1 @@
+xml tree store relationship folder video file folder could artist video artist also folder sub folder tree structure accessed multiple user user could deleting video others moving video folder others possibly renaming folder need mechanism lock part tree one user working multiple user work part tree make change tree corrupted possible implement using xml

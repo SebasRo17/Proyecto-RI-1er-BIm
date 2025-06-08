@@ -1,0 +1,1 @@
+I have 3 solutions, one of them is a dataccess solution with all the repositories etc. At the moment when a change is made to it, the others have to go get the latest nuget version locally, we have a nuget server on the LAN. Its a pain to debug though. Would a git submodule work here to enable debugging and not worry about updating nuget packages?

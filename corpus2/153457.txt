@@ -1,0 +1,1 @@
+In my experience, most teams in the company review the code of team member with a small amount of code, always less than hundreds of lines. Is it appropriate to review large amount of code, for example a module, when the code is complete and ready to get reviewed once for all?

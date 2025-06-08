@@ -1,0 +1,1 @@
+Can anyone point me (.NET by career, primarily Ruby by hobby) in the right direction(s) for learning how to write a Jenkins plugin? I'm looking specifically at build summary information and trend graphs from PartCover stats. I'm not worried about being able to find my way around Java, though I don't want to have to learn everything about it before I attack the problem.

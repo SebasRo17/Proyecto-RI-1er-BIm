@@ -1,1 +1,0 @@
-I want to fill in the region between the curves. So far I have this:               Plot[{x + 7, 9 - x^2}, {x, 0, 1.5}, Filling -> {1 -> {2}}]      ![enter image description here](http://i.stack.imgur.com/ma4uA.png) But I want something like this: ![enter image description here](http://i.stack.imgur.com/b6DHN.png)

@@ -1,1 +1,0 @@
-How can I programmatically check from a preemptive evaluation whether a main evaluation is currently ongoing? I need a function `mainEvaluationOngoingQ[]` so that               Button["Evaluating?", Print@mainEvaluationOngoingQ[], Method -> "Preemptive"]      will print `True` only if a main evaluation is ongoing.

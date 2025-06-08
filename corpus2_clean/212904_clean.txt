@@ -1,0 +1,1 @@
+compiling c gcc optimization limit size others create fast flag see o2 num generates assembly o assembly still faster less assembly

@@ -1,0 +1,1 @@
+Is there an easy way to sync the color scheme/theme between visual studio 2008/2010 and notepad++? I would like to have it so that I could point visual studio and notepad++ to the same document and maintain the styles just through that.

@@ -1,0 +1,1 @@
+I am trying to make sense of the following code snipet:               factor = misc.kkt_chol2(G, dims, A)     ....     ....     factor(W, P)      How the parameter in factor binding with the parameters inside kkt_chol2? Thank you in advance for the response.

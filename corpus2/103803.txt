@@ -1,0 +1,1 @@
+For an experience core Java programmer with no AJAX and very little Javascript experience, the GWT is attractive. But, what will I be missing if I just use GWT?

@@ -1,0 +1,1 @@
+What tests should I use to unit test a csv parser? I have a simple csv parser in C#, and I want to be sure I have good unit test coverage of all the common (and uncommon) edge cases. What tests should I use to identify potential problems and boundary cases?

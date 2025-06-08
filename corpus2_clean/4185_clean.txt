@@ -1,1 +1,0 @@
-consider following b c e mean mean accumulate prepend accumulate append table mean length map reduce would like mathematica solve restriction element positive integer

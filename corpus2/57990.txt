@@ -1,1 +1,0 @@
-I'm trying to plot this `Plot[Fit[med,{1,x},x],{x,0,10}]` Why this doesn't work? I find out that if I do `Plot[Evaluate@Fit[med,{1,x},x],{x,0,10}]` works fine. But can somebody explain me why this happens in first place?

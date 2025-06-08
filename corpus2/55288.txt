@@ -1,1 +1,0 @@
-I can't make `RegionDifference` work for two `Rectangle`:               Ω =       RegionDifference[Rectangle[{0, 0}, {10, 10}],        Rectangle[{4, 4}, {8, 8}]];     RegionPlot[Ω]      ![enter image description here](http://i.stack.imgur.com/gDaOP.png) What's wrong? It only worked for me if I specify the second `Rectangle` to touch the edges. Windows 8.1, Wolfram Mathematica 10.

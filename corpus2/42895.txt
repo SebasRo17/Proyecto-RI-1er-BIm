@@ -1,0 +1,1 @@
+It seems that off-by-one errors are one of the most (if not the most) common programming errors (see What are common mistakes in coding?, and conventional wisdom). What is the reason these are so common, is it something to do with how the human brain works?   What can we do to prevent falling prey to the off by one errors?

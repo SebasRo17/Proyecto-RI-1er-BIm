@@ -1,1 +1,0 @@
-I want to create a multiple choice question paper and list the options horizontally. I am only looking at very simple document with horizontal list. What I want:   1. What is 1+1? a) 2 b) 4 c) 3 d) 7 Is there any correct way to do it with cells other than manually using spacebars?

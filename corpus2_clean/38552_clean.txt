@@ -1,1 +1,0 @@
-suppose q obtained ndsolve interpolatingfunction want define q function q say sqrt q define way become able plot time derivative example

@@ -1,0 +1,1 @@
+trying really master haskell handling gotten point understand would use control exception instead control monad way see catch control monad exception pure impure context contrast exception defined control exception caught impure io context given provide two separate interface semantics would need memorize circumstance would need control exception instead control monad

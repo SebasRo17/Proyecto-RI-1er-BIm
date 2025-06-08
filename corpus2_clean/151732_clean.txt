@@ -1,0 +1,1 @@
+interview asked given following real estate application list house currently market e sale within given distance say example user want find house within num mile would design application structure build service idea would implement told know never done geo related stuff

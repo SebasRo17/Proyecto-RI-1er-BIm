@@ -1,0 +1,1 @@
+I want to draw a UML diagram of my program. Class `Barney` has a method `Yabadaba(Doo d)` which takes a parameter of type `Doo`. How do I represent that class `Doo` is used in class `Barney` in my UML diagram?

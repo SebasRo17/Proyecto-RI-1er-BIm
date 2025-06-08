@@ -1,0 +1,1 @@
+possible create download video file client side suppose animated canvas like jsfiddle please see snippet var stop settimeout stop num stop requestanimationframe draw num animation duration generate text file download know generate image canvas possible render download video file would adding sound possible

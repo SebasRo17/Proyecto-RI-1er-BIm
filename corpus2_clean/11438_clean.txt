@@ -1,1 +1,0 @@
-currently use word note making nested bulleted list go started using mathematica would like notebook look like capability automatic indenting entire line wrap start indent bullet point start beginning page option turn module allows

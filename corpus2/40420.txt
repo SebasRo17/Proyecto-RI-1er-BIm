@@ -1,0 +1,1 @@
+I am looking on a new language to pick up and found out about Groovy. According to the website, the language is 'agile dynamic' language.   1. How is it Agile?    2. How shorter are the syntax compared to Java's?   3. Can I use existing Java libs out there?   4. Lastly, can anyone share their experience on this lingo? What you love and hate

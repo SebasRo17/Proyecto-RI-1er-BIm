@@ -1,1 +1,0 @@
-compile function contains arctanh following work need ccodegenerator c compile x arctanh x c mathematica give compiledfunction cfn numerical error encountered instruction proceeding uncompiled evaluation however answer question reply indicates arctanh compiled

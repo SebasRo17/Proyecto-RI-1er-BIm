@@ -1,0 +1,1 @@
+Is there a way to add a callback to any given javascript function without changing its definition? Can this be done without using a library like deferred?

@@ -1,1 +1,0 @@
-I have created a panel, say `Panel[""]`. I want to know its size/dimensions. Is there any built-in function for doing that?

@@ -1,0 +1,1 @@
+For example, in JavaScript, I can do such things:               var arr = [1, "two", /three/, [4]];      There is no way to do such a thing in C! Except by using a `void*`, which is not an efficient/safe way. Is this how implementations do it? Using `void*` everywhere?

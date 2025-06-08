@@ -1,0 +1,1 @@
+What is a good growth strategy for hash tables? If the number of elements exceeds the number of buckets, I increase the number of buckets with the following formula:               n = int(n * 1.618033988749895) | 1;      Does that sound sensible? (The `| 1` part makes sure I get an odd number.)

@@ -1,0 +1,1 @@
+In order to produce a plug in and incorporate it (merge) easily with Visual Studio 2010. I was wondering which language was used by Microsoft to create it? In order to offer our product to Microsoft, we must know which language is better to integrate with Visual Studio. Was it pure C++? A friend of mine told me it was written in C#.

@@ -1,0 +1,1 @@
+got lost opening post reddit sscanf buf mode num rewritten assume sscanf never fails

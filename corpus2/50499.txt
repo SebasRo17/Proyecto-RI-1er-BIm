@@ -1,1 +1,0 @@
-What is the problem with plotting the imaginary part of this equation?                s = {y[x]^4 - I0 .03 y[x]^3 - 0.0196 y[x]^2 + I 0.03 y[x] - x^2 +       16 == 0};      sol = Solve[s, y[x], x];      Plot[Evaluate[Im[y[x]] /. sol], {x, 0, 1}]

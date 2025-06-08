@@ -1,0 +1,1 @@
+I have VS2010 (Ultimate), plus Resharper, and since SP1, I've noticed a regular and really irritating bug where the editor tab that I'm working on temporarily disappears, suddenly reappearing a second or two later. Has anyone else noticed anything similar? Is it a Resharper issue? Appreciate any advice.

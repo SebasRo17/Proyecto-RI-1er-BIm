@@ -1,0 +1,1 @@
+How is coded UI testing technique more favorable than any other testing technique? What is the main advantage of using a coded UI test?

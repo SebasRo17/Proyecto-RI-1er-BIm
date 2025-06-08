@@ -1,0 +1,1 @@
+looking different collection constructor question come mind arraylist construct empty list initial capacity ten arraydeque construct empty deque initial capacity sufficient hold num element

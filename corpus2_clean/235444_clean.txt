@@ -1,0 +1,1 @@
+someone explain entity change entity collection change tracked dbcontext entity framework num entity poco derived experimented ef6 observed even though entity poco generating proxy self tracking entitystate updated real time snap shot based tracking wondering poco entity tracked ef6

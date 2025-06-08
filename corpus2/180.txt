@@ -1,1 +1,0 @@
-Say I have a list `x={2,4,6,8,10}` and I want to find out the positions of the elements that are greater than 7. `Select[x, #>7&]` gives the elements themselves, and `Position[x,8]` gives the position of the elements satisfying one of the possible criteria, but what I am looking for would be a mix of the two returning `{4,5}`. Any suggestions?

@@ -1,0 +1,1 @@
+I was wondering how we could ingest CSV files located on a Red Hat Linux server into SQL Server database tables. I know we can write a stored procedure/bulk insert to read the files that are located on the same Windows server as SQL Server and update the database, but not sure how to do it when the files are present on a Linux server. Any help would be greatly appreciated.

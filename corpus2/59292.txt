@@ -1,1 +1,0 @@
-I want _Mathematica_ to interpret subscripted variables as symbols. I found documentation suggesting the `Notation` package could do this, but if I do:               Needs["Notation`"]     Symbolize[ParsedBoxWrapper[SubscriptBox["_", "_"]]]     x = 1     Subscript[x, 1]      I still get: > >     1 >     Subscript[1, 1] >   Am I doing anything wrong?

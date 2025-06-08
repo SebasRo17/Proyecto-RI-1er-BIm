@@ -1,0 +1,1 @@
+Whenever I am programming in an object-oriented language, I am always faced with what order and how to group the methods for an object. Are there any standards for this, or any suggestions?

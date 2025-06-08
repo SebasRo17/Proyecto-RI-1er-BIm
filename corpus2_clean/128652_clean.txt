@@ -1,0 +1,1 @@
+including file project simply include hpp adding header solution explorer recently realized may omit step adding header solution explorer change anything important fact define proper include directory project property missing something someone clever explain

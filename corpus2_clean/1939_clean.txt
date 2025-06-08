@@ -1,1 +1,0 @@
-need get neighboring vertex incident edge vertex graph assume neighborhoodvertices used former anything better given something like undirectededge undirectededge undirectededge directly get information list matching pattern

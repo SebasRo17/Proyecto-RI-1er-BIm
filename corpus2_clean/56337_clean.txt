@@ -1,1 +1,0 @@
-suppose following list list b c want generate result f f b f c f f b b f b c f b f c c f c f could shortest way list element anything necessarily sorted

@@ -1,0 +1,1 @@
+trouble understanding exact purpose creating short long type c reason ask seem like size bounded could size long short smaller example situation use unsigned unsigned long example instead size offer hope binary compatibility know size would know choose

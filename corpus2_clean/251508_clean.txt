@@ -1,0 +1,1 @@
+want interpret strictly unsigned integer failing overflow represents negative number represent number set errno overflow einval begin number accepts negative number valid ruled strictly signed integer sscanf set errno overflow stop processing begin number reflected sscanf also accepts negative number valid another option missing

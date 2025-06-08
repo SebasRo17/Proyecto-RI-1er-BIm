@@ -1,1 +1,0 @@
-like show graphic rectangle parametricplot create plot ax equal variable length pr pixel first idea show parametricplot plot mess plotrange possibly

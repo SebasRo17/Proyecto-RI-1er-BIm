@@ -1,0 +1,1 @@
+I am working with 2d correlation for image processing techniques (pattern recognition etc...). I was wondering if there is a theoretical approach on how to tell when to use multiplication in frequency space over correlation in time space. For sizes of 2x frequency space is obviously faster but how about small, prime sizes like e.g. 11?

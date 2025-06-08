@@ -1,0 +1,1 @@
+The question came up in a discussion at StackOverflow. Is there a clean distinction between the two concepts **cast** and **convert** (concerning the type of an object), or are these two words describing exactly the same? How about languages other than C++, Python and Java? **EDIT** : What if the types in question are primitive types, like `int` to `float`?

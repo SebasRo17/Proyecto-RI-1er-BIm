@@ -5,7 +5,7 @@ import os
 output_dir = r"C:\Users\roble\OneDrive\Documentos\GitHub\Proyecto-RI-1er-BIm\corpus2"
 os.makedirs(output_dir, exist_ok=True)
 
-dataset = ir_datasets.load("beir/cqadupstack/mathematica")
+dataset = ir_datasets.load("beir/cqadupstack/programmers")
 
 for doc in dataset.docs_iter():
     doc_id = doc.doc_id.replace('/', '_').replace('\\', '_')

@@ -1,0 +1,1 @@
+possible use hash file instead gonna saving record file position search position sure open file let say num think could work

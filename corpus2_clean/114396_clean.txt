@@ -1,0 +1,1 @@
+writing app moment pretty extensive business logic based around date several hundred thousand record test tester want see record handled worked well far however edge case difficult replicate reason logic related today date one way another best way handle unit testing traditional testing way really think allowing today date faked fixed

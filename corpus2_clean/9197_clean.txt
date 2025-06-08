@@ -1,1 +1,0 @@
-want implement following type evaluation symbolically f g fg g x f x g x f x g x g x general left hand side polynomial arbitrary number function e g f g h f f f dot right hand side function evaluated element x would define function eval rule f g fg g x eval f x g x f x g x g x good way accomplishing

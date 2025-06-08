@@ -1,0 +1,1 @@
+Are there any documented standards for technical specifications within the IT industry? In theory, such a standard would be   * successfully used in practice   * deals with both software and hardware parts (we develop software and electronics)   * should be rather modern We want to stick to one standard and use it in our projects.

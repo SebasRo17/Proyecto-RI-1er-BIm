@@ -1,0 +1,1 @@
+When opening pdf's in Chrome and Firefox, the "view source" button is greyed out. "Inspect elemet," however, reveals HTML. Are the browsers simply downloading the file and generating html to display it?

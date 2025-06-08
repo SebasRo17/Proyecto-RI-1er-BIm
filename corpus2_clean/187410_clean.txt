@@ -1,0 +1,1 @@
+understand fibonacci heap marked node picture node marked child deleted quoting wikipedia keeping degree node low achieved rule cut one child non root node second child cut node need cut parent becomes root new tree need leave node second child cut heap structure violated see point optimization

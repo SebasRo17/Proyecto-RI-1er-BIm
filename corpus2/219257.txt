@@ -1,0 +1,1 @@
+I have read this statement: "A parameter is used as a sort of temporary messenger, carrying data originating from outside the constructor or method and making it available inside it." So, does that mean that values of parameters are stored at first in the constructors and then passed to fields? I still didn't understand the meaning of that. Any good explanation?

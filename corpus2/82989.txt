@@ -1,0 +1,1 @@
+I'm working at a company that has a strange policy. They can't stick to a single name for a software revision. For some reason they have branches, versions, releases and perhaps another term. They never explain what these mean. What is the standard way to separate out different revisions to be less confusing?

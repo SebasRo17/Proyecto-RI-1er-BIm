@@ -1,1 +1,0 @@
-taken following derivative transcendental equation using function part approximation solve x log cosh x x x x result x tanh x x x simplification reason ignore x term leaving x tanh x x want find integral simplified function mathematica able find function obvious counterpart calculate integral simplified x numerically find new x challenge course x tanh x x transcendental equation

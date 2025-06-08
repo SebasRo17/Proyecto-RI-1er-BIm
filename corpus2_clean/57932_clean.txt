@@ -1,1 +1,0 @@
-want create ml classifier using image like example two class image two different folder easier way import image folder rather inserting picture picture enter image description

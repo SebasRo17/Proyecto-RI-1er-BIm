@@ -1,1 +1,0 @@
-Whenever a `Link` is created using `LinkCreate` or `LinkLaunch` with `LinkProtocol -> "TCPIP"`, Mathematica opens up two ports for communicating with the attached process. Can these be specified by the user of these functions? I ask because it would allow me to route all communication over ssh via port- forwarding.

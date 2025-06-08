@@ -1,1 +1,0 @@
-Mathematica evaluates `Sum[((n - y - 1)*(n - y)^2*n^y)/y!, {y, 0, n - 2}]` as `-2 e^n n`. This should not be a negative value. What am I doing wrong?

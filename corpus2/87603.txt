@@ -1,0 +1,1 @@
+Basically I have one Tree view which uses a single DefaultTreeModel. Is it okay to use singleton for Tree extending JTree and another singleton for TreeModel extending DefaultTreeModel? If not, what is the reason to avoid using singleton for each object?

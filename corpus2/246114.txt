@@ -1,0 +1,1 @@
+The GPL font exception allows the font to be embedded within a digital "document" file without requiring the "document" itself to also be shared with GPL. Now I wonder, what is considered a "document"? If the GPL+FE font is embedded in a software to render a user interface, the software can be released with a non-GPL license?

@@ -1,1 +1,0 @@
-imagine data list like plot using listplot mathematica example listplot table co specify data point colored according linearly scaling interval one rgb value another e g red blue green red etc depending point index array something similar using listpointplot listpointplot table co sin

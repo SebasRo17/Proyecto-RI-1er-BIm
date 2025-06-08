@@ -1,0 +1,1 @@
+Why is it often said that the test cases need to be made before we start coding?   What are its pros and what the cons if we don't listen to this advice? Moreover, does that advice refer to black box testing or White Box testing or both?

@@ -1,0 +1,1 @@
+We are being forced to use Spartan programming on a project, to everybody's dismay. So I get it, it makes the methods really short and it handles the simple cases first. But is it really worth the price of the code looking like something out of the Obfuscated C Code contest? Can you see it being useful for something?

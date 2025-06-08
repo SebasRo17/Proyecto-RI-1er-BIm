@@ -1,0 +1,1 @@
+I am trying to understand which data format is better on embedded device communicating with Server over REST API. XML or JSON?. Is JSON parsing faster than XML parsing in Java / C and C++? I understand for web client JSON is way to go since java script has inbuilt support for JSON but not sure about embedded device(Java/C/C++).

@@ -1,0 +1,1 @@
+even language explicit pointer manipulation like c always passed pas reference default behavior benefit many language passed value others passed reference understand haskell passed reference though sure

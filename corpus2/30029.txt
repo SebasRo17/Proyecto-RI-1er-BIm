@@ -1,0 +1,1 @@
+For instance, non-vertically aligned:               Name:   Hamt     Version:  0.1.0     Cabal-Version:  >= 1.2     License:  BSD3     Author:  Jason Baker      Or vertically aligned:               Name:           Hamt     Version:        0.1.0     Cabal-Version:  >= 1.2     License:        BSD3     Author:         Jason Baker      Which do you prefer and why?

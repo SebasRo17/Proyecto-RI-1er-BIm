@@ -1,0 +1,1 @@
+seen couple project developer prefer keep essential user info one table email login password hash screen rest non essential user profile another creation date country etc non essential mean needed occasionally obvious benefit using orm querying less field obviously good two entity mapped table save querying stuff need convenient anybody know advantage keeping thing two table

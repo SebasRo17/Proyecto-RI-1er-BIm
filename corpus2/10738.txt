@@ -1,1 +1,0 @@
-As the question says, can one force a fit through the origin $(0,0)$ as one can when fitting a trendline to your data in MS Excel? If so, how do you do that?

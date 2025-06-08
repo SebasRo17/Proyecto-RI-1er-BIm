@@ -1,0 +1,1 @@
+I want to use articles in method names sometimes. Like some service method 'getStudentsOfATeacher()'. What are arguments against that?

@@ -1,1 +1,0 @@
-following example work first character whole string word word lowercase stringjoin mapat touppercase character word lowercase stringreplacepart touppercase stringtake word lowercase method along line produce correct title case string form word lowercase

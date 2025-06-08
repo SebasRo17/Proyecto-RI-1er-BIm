@@ -1,0 +1,1 @@
+Many sources note that automatic static code analysis include data flow and control flow. But these two are included in white box testing as well. Is there a difference in the automation? That in automatic static analysis all is done by the tools while in white box testing, a person creates the data to exercise the possible paths?

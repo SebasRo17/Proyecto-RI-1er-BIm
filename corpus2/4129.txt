@@ -1,1 +1,0 @@
-Let's say I'm debugging a program step by step and want to `Print` some expressions (using ShowIt, for example). Is there a way to output the result of `Print` on top of already printed expressions instead of at the bottom?

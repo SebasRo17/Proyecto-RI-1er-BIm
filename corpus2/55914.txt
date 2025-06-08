@@ -1,1 +1,0 @@
-is there any native way to implement multi-core parallel solving of PDE in Wolfram Mathematica? WM 10 now supports Finite Elements Method, but it is actually useless without parallelization. Usually PDE-systems are heavy and no one solves it using just one core. If there is any sort of domain decomposition or some other way parallelize the calculation?

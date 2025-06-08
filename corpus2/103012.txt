@@ -1,0 +1,1 @@
+Does the desktop browser version of a web site always suffice for the tablet version(assuming no flash)? or is it common for websites to have a special tablet version that is different from both desktop and phone?

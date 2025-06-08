@@ -1,1 +1,0 @@
-How can I write a complex function $f(z)$ in the form $u(x,y)+iv(x,y)$ using Mathematica? Re and Im do not work, because they do it for complex numbers, not functions. For example, if I try               Re[2 I (z) + 6 Conjugate[(z)] + Sin[(z)]]      Mathematica returns:               -2 Im[z] + 6 Re[z] + Re[Sin[z]]

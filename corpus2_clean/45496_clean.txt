@@ -1,1 +1,0 @@
-would like make scatter plot element corresponds certain energy plot marker corresponding element next ie data point sc next done data element sc ti v cr mn fe co ni cu zn zr nb mo tc ru rh pd ag hf ta w o ir pt au p listplot data fillingstyle thick plotmarkers automatic medium

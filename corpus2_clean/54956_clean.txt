@@ -1,1 +1,0 @@
-many inbuilt mathematica function variable appear aqua like enter image description however creating function variable longer green coloring instead colored like undefined variable enter image description way define function variable used argument like manner get aqua syntax coloring

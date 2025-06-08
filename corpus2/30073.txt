@@ -1,0 +1,1 @@
+So I'm designing an Education Management System(more info)and I'm wondering if I should be creating the Use Cases or the Class Diagrams first?

@@ -1,1 +1,0 @@
-function operates list parameter variable length n would like create manipulate n slider one list element considered separate parameter syntax manipulate expr u v lend geared toward fixed number parameter known advance referenced separate variable name started exploring preparing list argument manipulate using apply seems tricky complicated anyone come upon conundrum

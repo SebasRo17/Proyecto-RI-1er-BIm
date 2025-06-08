@@ -1,0 +1,1 @@
+If an employer asks for a large code sample, one for an entire project, what characteristics should the project have to show architectural skills and the ability to manage a large codebase? For example, should I show off managing modules/dependencies? writing test/build scripts? design patterns? etc.

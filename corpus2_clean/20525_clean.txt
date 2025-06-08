@@ -1,1 +1,0 @@
-trying write function starting string return google search hit string format stuff still decide looked around found nothing work wsdl thing google search referenced doc webservices retired return hint except scraping result page hand

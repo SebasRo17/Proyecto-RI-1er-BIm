@@ -1,1 +1,0 @@
-In comments on this question, Mr. Wizard suggested a community wiki to share the bug fixes/workarounds (or possibly other tricks) people load in their `init.m`. I think this could provide a nice resource.

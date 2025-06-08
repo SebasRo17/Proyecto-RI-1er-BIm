@@ -1,0 +1,1 @@
+I'm trying to understand the transition people make with their apps in the App Engine SDK and how/why/what they move to the Google Plugin for Eclipse. It seems you can create a web application using the App Engine SDK, or you can do the same with Eclipse. Why offer both? How do people transition App Engine into Eclipse and Google Web Toolkit?

@@ -1,0 +1,1 @@
+implementing web service need ensure method always non value investigated two way using contract returning default using ensures constraint using aspect oriented programming approach using postsharp approach work wondering whether approach consider would enforce non value look like similar question jon skeet recommends contract approach

@@ -1,0 +1,1 @@
+writing unit test web frontend implemented django written unit test check view correct status num num etc template error give num found also html validation else model unit tested elsewhere form dependency namely model way unit test general case something one without huge effort leveraging django unit test framework

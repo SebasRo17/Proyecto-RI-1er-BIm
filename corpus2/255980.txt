@@ -1,0 +1,1 @@
+1. How are request parameters stored and arranged for a post request if it's not json or xml?   2. Is it possible to send response parameters back in the same way?

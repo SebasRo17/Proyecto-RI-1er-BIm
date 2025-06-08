@@ -1,0 +1,1 @@
+idea game map researched going 2d map gm pick create using predefined image image particular size upload seen people using num dimensional tile question would better way hexagon necessarily easier better something used large scale say 1000x1000 hex 100x100 px num radius edit found site explains way draw hexagon think might follow unless someone know better way

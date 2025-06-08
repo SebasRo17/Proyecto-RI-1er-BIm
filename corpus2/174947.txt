@@ -1,0 +1,1 @@
+I would imagine the reason was fast, array like access to the character at index, but some characters won't fit into 16 bits, so it wouldn't work... So if you have to handle special cases anyways, why not just use UTF-8?

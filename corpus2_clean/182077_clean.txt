@@ -1,0 +1,1 @@
+recently looking shutil subprocess etc started wondering ok use instead e g bash missing

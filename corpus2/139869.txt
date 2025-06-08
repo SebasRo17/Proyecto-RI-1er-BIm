@@ -1,0 +1,1 @@
+I was browsing a github project and found **this module** which has more than 8 thousands lines. Is it good practice to have that much code in a single module? Shouldn't this be split over multiple modules? maybe one for each db engine? And what benefit does the developer get from making one huge module like this?

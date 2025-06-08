@@ -1,1 +1,0 @@
-function find period arbitrary possibly complex function mathematica

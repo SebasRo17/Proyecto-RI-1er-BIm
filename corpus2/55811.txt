@@ -1,1 +1,0 @@
-Mathematica display complex fractions like this, ![enter image description here](http://i.stack.imgur.com/usbtK.png) the second `x` look smaller, I want it look like this, how can I get it in Mathematica? ![enter image description here](http://i.stack.imgur.com/ffD9P.png)

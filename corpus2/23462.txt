@@ -1,1 +1,0 @@
-I tried to combine three and more graphics with the `Show` command; but sometimes there is no data, so some of the graphics are empty lists. I tried this:               Show[ grPacing, grAcq, If[grNewMap !={}, grNewMap] ... ]      But there are a lot of errors. Any ideas? Thank you, Liad.

@@ -1,1 +1,0 @@
-I'm trying to graph the zig-zag function at the top of this page: http://www.math.ubc.ca/~feldman/m321/nondiffble.pdf I have a little bit of experience with Mathematica but not a ton. Any suggestions?

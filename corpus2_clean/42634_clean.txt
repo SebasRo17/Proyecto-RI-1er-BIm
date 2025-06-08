@@ -1,1 +1,0 @@
-expression sin c x c clearly undefined c merely removable singularity since frac sin cx c x frac sin cx cx x operatorname sinc cx continuous everywhere possible get sort transformation automatically mathematica using built formula manipulation tool tried thing like fullsimplify trigreduce etc nothing helped like able co c x c automatically transform form singularity c

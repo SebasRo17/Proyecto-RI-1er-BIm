@@ -1,1 +1,0 @@
-get solve r n r give log n log log n log

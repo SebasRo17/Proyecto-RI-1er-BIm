@@ -1,0 +1,1 @@
+reading r6rs scheme report confused explanation continuation find dense lacking example beginner evaluate num call cc want argument one argument call cc argument used num call current continuation lambda escape num escape num num example section num continuation

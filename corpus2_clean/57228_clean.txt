@@ -1,1 +1,0 @@
-suppose iris data dataset format enter image description split iris data training testing machine learning example transform data classify

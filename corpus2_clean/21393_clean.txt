@@ -1,1 +1,0 @@
-using manipulate plot plot function two real variable two extra parameter f x alpha gamma x alpha x log power x gamma manipulate plot f x alpha gamma x plotstyle opacity alpha gamma want dynamically highlight plot curve set point vanishing partial f x f function update according parameter value manipulated know probably use ndsolve need solution updated displayed parameter change

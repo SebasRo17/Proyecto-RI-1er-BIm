@@ -1,0 +1,1 @@
+I think the discussion for programmatic service oriented usage vs human interaction is clear. But if I were to create an application that makes use of both a programmatic API and a website that makes use of the data connected by the same API, does it lean the favour towards using only ASP.NET? How easy is it to integrate ASP.NET and WCF to work on the same application?

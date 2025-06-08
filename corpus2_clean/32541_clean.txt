@@ -1,1 +1,1 @@
-two image used create scatter plot image x axis image axis color plot point bin count
+going php function could help notice following php foo var foo created assigned b foo b b var dump key exists b b bool c new stdclass foo c var dump property exists c bool notice key exists property exists first one property key first parameter second one second parameter intuition one would expect similar signature lead confusion development time may wasted making correction php language matter consider making signature related function consistent

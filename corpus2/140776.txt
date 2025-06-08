@@ -1,0 +1,1 @@
+I am having difficulty understanding constructors and set/get methods. What are they being used for? If someone can explain a little more hopefully I can get the AHA moment.

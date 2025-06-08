@@ -1,0 +1,1 @@
+new web service programming unsure thing know rest web service used interact system like retrieve user get user id num retrieve user get user insert user put user user need update action table using json done rest api need interface rest right get post delete etc use correct two pattern web service

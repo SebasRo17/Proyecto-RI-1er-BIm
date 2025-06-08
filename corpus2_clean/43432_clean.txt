@@ -1,1 +1,0 @@
-force keyboard input work cell without clicking evaluate showing blinking selection cursor running cdf game browser po manipulate eventhandler framed graphic disk dynamic po plotrange leftarrowkeydown po rightarrowkeydown po savedefinitions true paneled false appearanceelements none

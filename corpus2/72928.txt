@@ -1,0 +1,1 @@
+In the Q&A section of this talk, Douglas Crockford says that jQuery doesn't scale as well as some other popular libraries. What does he mean by that, and what is it about the other libraries that makes them more scalable?

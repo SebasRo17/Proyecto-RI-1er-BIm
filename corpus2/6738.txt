@@ -1,1 +1,0 @@
-_(Newbie question)_ For every function I define I get this message: ![enter image description here](http://i.stack.imgur.com/LT9kH.png) When I close and reopen Mathematica, and re-enter the function definition, I don't get the message anymore. What does it mean?

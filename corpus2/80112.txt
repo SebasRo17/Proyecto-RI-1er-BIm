@@ -1,0 +1,1 @@
+I'm having a rather Oatmealesque experience with a particular client's website. The latest 'feature' they have requested is that background music play automatically when the site loads. What should I say to gently convince them that this is a bad idea?

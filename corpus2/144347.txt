@@ -1,0 +1,1 @@
+I program primarily in ColdFusion but this is a general OOP question. Is there any benefit to using:               getProp() {         return prop;     }          setProp(val) {         prop = val;     }      As opposed to simply               obj = new Obj();     obj.prop = "1";

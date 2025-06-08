@@ -1,0 +1,1 @@
+developing project git depends another project subversion repository like able make change subversion project tree commit update subversion repository within git project possible

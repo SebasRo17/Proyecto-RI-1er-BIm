@@ -1,0 +1,1 @@
+At the delivery of every version of software we have to write a release note. For example, here are some of the terms I add when I write a release note:   * Release Date   * Bug Solved Is that enough, or is there anything else?

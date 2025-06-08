@@ -1,0 +1,1 @@
+one major advantage software transactional memory always get mentioned composability modularity different fragment combined produce larger component lock based program often case looking simple example illustrating actual prefer example clojure haskell fine bonus point example also exhibit lock based composed easily

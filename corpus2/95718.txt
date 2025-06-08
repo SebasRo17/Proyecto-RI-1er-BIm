@@ -1,0 +1,1 @@
+Design patterns are good, but complex. Should we use them in small projects? Implementing design patterns needs more sophisticated developers, which in turn raises project costs. On the other hand, they make code neat and clean. Are they necessary for small projects? **Update:** Should we insist on using design patterns when the team is not efficient at working with them?

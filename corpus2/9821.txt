@@ -1,1 +1,0 @@
-Suppose that an application needs to be configured specifically for a user's system. e.g. the application needs to be told the location of certain data directories. What is the best way to provide this possibility to the user, so that the user doesn't have to enter this information every time they load the package?

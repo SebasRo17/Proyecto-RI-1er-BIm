@@ -1,0 +1,1 @@
+tree b c f g h pattern x z q p would like x b z c q p f x b f z c q g p h algorithm could look

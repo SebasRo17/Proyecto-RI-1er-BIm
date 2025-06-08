@@ -1,1 +1,1 @@
-interested implementing symmetry group would useful central symmetry isometry transformation built function rotationtransform translationtransform reflectiontransform able find something like central symmetry goal translate one object kind image built graphical primitive symmetric analog anyone thought please write
+recently reading question language use without ide one question asked answer notepad ide one answer original question said none use vim implying vim ide another answer suggested vim ide notepad ed nano non ide coding technique technique

@@ -1,1 +1,0 @@
-I wrote some code which retrieves temperature data from three cities every hour for five days. My problem is that the default station from which `WeatherData[]` gets its data is sometimes unavailable. Therefore, I want to know how I can find the list of weather stations for a city so I can retrieve data from an alternative station when the default station is unavailable.

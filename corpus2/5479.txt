@@ -1,1 +1,0 @@
-Does Mathematica 8 implement Wald–Wolfowitz runs test for randomness? I can't find it in the documentation. I would like to test some fit residuals.

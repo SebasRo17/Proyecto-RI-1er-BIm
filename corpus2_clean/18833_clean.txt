@@ -1,1 +1,0 @@
-possible duplicate matrixform affect calculation facing strange behaviour mathematica asking invert following matrix b b b b b b c c c matrixform inverse matrixform output inverse matrix command entered knowing matrix bloc diagonal enter one bloc separately compute inverse trick

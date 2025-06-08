@@ -1,1 +1,0 @@
-old package work good need spline testdata ffit splinefit testdata cubic parametricplot ffit n n length testdata epilog point testdata new spline package make work like old one passing point exactly naturally smooth ffit bsplinefunction testdata parametricplot ffit n n length testdata epilog point testdata fitting result different point passed exactly need

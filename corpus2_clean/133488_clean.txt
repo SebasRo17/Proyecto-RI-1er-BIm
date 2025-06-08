@@ -1,0 +1,1 @@
+lot documentation use jvisualvm profiler little real life advice analyze chart dump little overwhelmed graph trouble making sense know sort monolithic question way condense typical us fairly concise list finding memory leak zombie thread specifically common analysis visualvm

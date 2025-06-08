@@ -1,1 +1,0 @@
-I'm trying to insert citations in a notebook. I found a thread that goes back to 2010 saying that the Endnote plugin for Mathematica is not supported on Mac OS. Does anyone know whether this is still the case?

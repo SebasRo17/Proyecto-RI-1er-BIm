@@ -1,0 +1,1 @@
+creating client server application need update particular database using mysql two option use client py server py client py send packed json server server py handle database send query back form json second option server py file instead client access database query directly mysql server benefit using one another edit atmost num client sending throught day delay num second

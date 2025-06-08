@@ -1,0 +1,1 @@
+I have new junior programmers (new graduates) who just joined my team, some of them do not know much about algorithms and design patterns. I am not sure which one should I teach them first?

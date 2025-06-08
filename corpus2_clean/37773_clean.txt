@@ -1,1 +1,1 @@
-module selects random sample size k without replacement given population size n involving command subset
+looking way compare set file given file comparison giving closeness metric able order based upon metric find closest file considered using diff afaik provides yes whether particular match large scale purpose purpose word change text closer completely different whereas diff return match case would able use soundex effectively num file better algorithm also metric would provide positive match line similar drastically different number thanks

@@ -1,0 +1,1 @@
+currently writing series class meant translate regular expression written formal definition language specific shortcut deterministic finite automaton make dfa first convert regex postfix syntax tree nfa finally dfa minimized keep reference intermediary member used create e g reference syntax tree nfa reference nfa dfa publicly accessible unnecessarily bloating class program

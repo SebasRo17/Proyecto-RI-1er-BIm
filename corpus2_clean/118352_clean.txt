@@ -1,0 +1,1 @@
+asp net application using mysql database query executing fast would like standard way increase speed mysql database short putting faster pc example sure using prepared statement transactional sql using foreign key applicable thing along line edit database remote machine

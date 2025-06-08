@@ -1,0 +1,1 @@
+working module dependent module functionality dependent module provides lot functionality need hence got idea create abstraction module singleton question abstract use module singleton directly guideline depend upon project project

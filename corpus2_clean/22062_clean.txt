@@ -1,1 +1,0 @@
-nested list like matrix want apply matrixform also numberform want every element matrix number properly padded possible way interestingly perhaps want eventually write resulting output list file p write export file dat flatten matrix obtain proper padding using c program must clever way

@@ -1,1 +1,0 @@
-I am graphing the voltage traveling through some water with two electrodes. I have the graph with contour lines and all, but is there any way that I can get the contour lines to be at the tick marks along the Z axis? So, if every tick mark is 1volt, can I have contour lines at every integer voltage?![enter image description here](http://i.stack.imgur.com/EhhJ8.png)

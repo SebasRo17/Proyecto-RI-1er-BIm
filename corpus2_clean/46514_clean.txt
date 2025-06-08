@@ -1,1 +1,0 @@
-plot product ndsolve result e g x solution known function instance sin x

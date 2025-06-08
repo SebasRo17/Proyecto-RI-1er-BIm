@@ -1,0 +1,1 @@
+I've recently went through manually editing some tables on a Wordpress website.   I've also had some experience with database internationalization so I know that serializing   is not the best (IMO) option to apply multiple languages.   So why is it done?

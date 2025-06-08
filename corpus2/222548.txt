@@ -1,0 +1,1 @@
+Aren't both just a set of instructions that get executed by some interpreter? (contrary to a full-fledged program, which runs (gets executed) at some computer system?

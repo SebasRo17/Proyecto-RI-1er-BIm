@@ -1,0 +1,1 @@
+Most OpenCL Tutorials give a nice introduction to OpenCL, yet I have not found information on the question of interoperability of the compilation targets. It seems that I have to compile OpenCL code for the target GPU. Now when making a binary distribution of an application using OpenCL, does one have to make several builds for the vendor-platforms?

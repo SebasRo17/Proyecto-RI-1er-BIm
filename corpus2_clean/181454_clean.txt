@@ -1,0 +1,1 @@
+reading mathworld page problem understood get place execution sequence apply inverse permutation seems simple get order execution could make compute place execution sequence given n k e n num k num arrive num num num num mostly interested implementing solution done usual circular list based etc better way want try understand

@@ -1,0 +1,1 @@
+When compiling C code with `gcc`, there are compiler optimizations, some that limit code size and others create fast code. From the `-S` flag, I see that the `-O2/03` generates more assembly than the `-Os` code. How is more assembly still faster than less assembly?

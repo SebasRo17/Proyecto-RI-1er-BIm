@@ -1,1 +1,0 @@
-trying use librarylink mathematica come across problem consider mtensor contains one dimensional double array want get data array come across two method one use library callback function libdata mtensor getrealdata shown use micros mtensor getrealdatamacro wolframcompilelibrary h file shown difference library call back function slower macro since need call back mathematica

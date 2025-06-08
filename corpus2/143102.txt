@@ -1,0 +1,1 @@
+I'm trying to do the following: take a single IA32 instruction in the Intel syntax (such as `ADD EAX, EBX`) and produce the corresponding machine code for this instruction. Is there some small library, preferably open source, that can do this for me?

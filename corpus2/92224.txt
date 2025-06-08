@@ -1,0 +1,1 @@
+Say I am developing an app for sale. Does it make sense to use a public repository for this project? Doesn't default copyright protect the code from someone else using it? If so, what advantages are there in paying for a private repository?

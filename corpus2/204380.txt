@@ -1,0 +1,1 @@
+Mention the **pros and cons** of UIBinder in _GWT_. I want to develop a big project. Is it flexible to use **UIBinder** for my project?

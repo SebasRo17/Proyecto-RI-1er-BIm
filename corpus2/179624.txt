@@ -1,0 +1,1 @@
+As programming in JavaScript, I've noticed everything that can be done with statements and blocks can be done with expressions alone. Can a programming language work fine with only expressions? And, if yes, why are statements used at all?

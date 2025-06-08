@@ -1,1 +1,0 @@
-I imported some data from Excel and got the following for my date and values:               {{{1986, 1, 2, 0, 0, 0.}, 25.56, ""}, {{1986, 1, 3, 0, 0, 0.}, 26., ""}      It seems that there is an extra space there. How can I remove that and make appropriate format for `DateListPlot`? Also important: what materials do I need to learn to overcome such difficulties?

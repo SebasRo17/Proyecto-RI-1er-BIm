@@ -1,0 +1,1 @@
+I wonder what are the advantages of `Maybe` monad over exceptions? It looks like `Maybe` is just explicit (and rather space-consuming) way of `try..catch` syntax. **update** Please note that I'm intentionally _not_ mentioning Haskell.

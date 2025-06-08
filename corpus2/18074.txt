@@ -1,0 +1,1 @@
+How do open source projects maintain quality? What keeps the projects from people with relatively little programming experience checking in poor quality codes?

@@ -1,0 +1,1 @@
+javascript always put binary operator end previous order prevent newlines terminating prematurely help catch error c c issue wondering reason prefer second version first lot text num versus lot text num example one help prevent kind error one considered readable

@@ -1,0 +1,1 @@
+I learnt some about pipelining but those were 4-stage and 5-stage and I think that modern pipelining typical is much longer and more complicated in practice. How long are typical pipelines and how much can we expect them to increase and where is the point of reaching diminshing returns in performance gains for longer pipelines?

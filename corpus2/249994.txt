@@ -1,0 +1,1 @@
+I've searched around and can't find anything on what the middle bytes of a >16-bit integer are called, if anything. **Are there standard names for these bytes?** E.g. the number `0x0D0C0B0A` would have:               MSB ??? ??? LSB      0D  0C  0B  0A

@@ -1,1 +1,0 @@
-I can find no resources for doing elliptic curve cryptography. I have used the finite field package, but I find it cumbersome and it does not seem to have any builtin methods for ECC. How can I get started doing ECC in _Mathematica_?

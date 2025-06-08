@@ -1,0 +1,1 @@
+need include h cpp file make work making cpp file including example creating file h containing declaration creating file cpp containing definition including cpp creating file cpp containing declaration definition prototype including cpp worked still difference since background compiling linking process

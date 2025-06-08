@@ -1,1 +1,0 @@
-default table alignment center however would like make right matrixform default return matrix right aligned entry played around option inspector setting option alignment tableviewboxoptions right bottom enter image description seem produce effect also noticed button apply option inspector window greyed inactive

@@ -1,0 +1,1 @@
+I think most web developers will agree that it is often easier getting something to work well in most browsers, but not as much in IE. I was wondering: When designing/developing a website, how important do you think IE-friendliness is? I mean, how worth it is it to bust yourself trying to make a website that works perfectly in major browsers work the same in IE?

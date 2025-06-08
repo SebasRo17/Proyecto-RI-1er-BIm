@@ -1,1 +1,0 @@
-defined expression x would like convert function f x x however case expression right hand side rather complicated want manually write expression right hand side function definition would like write something like f x know work way evaluate function definition ensure actually defined function end

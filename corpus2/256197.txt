@@ -1,0 +1,1 @@
+Say I make a program that calculates all possible (integral) factors of a certain number that has been input.   Is it theoretically more efficient to check with all integers up to the square root of the number or till half of the number.   Calculating the square root will take more time and power but will result in fewer divisions and vice-versa for the other option.

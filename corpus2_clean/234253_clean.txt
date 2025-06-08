@@ -1,0 +1,1 @@
+make cpu cache memory much faster memory see benefit tiered cache system make sense smaller cache faster search must

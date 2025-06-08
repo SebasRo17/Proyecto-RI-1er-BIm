@@ -1,0 +1,1 @@
+I am developing an iPhone app, which I am integrating with PayPal. I did it successfully using PayPal library. I am testing it on sandbox mode. When I transfer money from one account to the other account, it displays a message "send to server for verification". Is there a real need to store this PayPal transaction id and other details on our server?

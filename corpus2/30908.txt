@@ -1,0 +1,1 @@
+What is the difference between Hash and Dictionary. Coming from a scripting background, I feel that they are similar , but wanted to find out the exact differences, Googling did not help me much.

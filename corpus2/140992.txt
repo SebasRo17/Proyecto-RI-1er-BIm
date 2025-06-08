@@ -1,0 +1,1 @@
+Is using dependency injection (DI) essential for unit testing? I can't think of another alternative for isolating code so it can be tested. Also, all the examples I have ever seen use this pattern. Is that because it is the only viable option or are there other alternatives?

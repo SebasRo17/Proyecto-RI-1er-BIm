@@ -1,1 +1,0 @@
-generate truth table show p implies q vee r equivalent p wedge neg q implies r use booleantable

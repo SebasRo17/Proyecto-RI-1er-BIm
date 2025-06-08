@@ -1,0 +1,1 @@
+> shutdown /?     > Usage: shutdown [/i | /l | /s | /r | /g | /a | /p | /h | /e | /o] [/hybrid] [/f]      The windows `cmd.exe` command `shutdown` only documents forward slash `/` switches, but it accepts dash `-` switches as well. For instance, both work:               shutdown /s /t 0     shutdown -s -t 0      When was this added and why?

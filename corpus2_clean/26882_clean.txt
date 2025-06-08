@@ -1,1 +1,0 @@
-function represented long list value want integrate procedurally simpson rule listconvolve generally run faster procedural code would like use find right kernel list even odd length latter would like use method better trapezoid method higher order method case

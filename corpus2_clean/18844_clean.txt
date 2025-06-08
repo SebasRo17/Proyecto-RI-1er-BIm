@@ -1,1 +1,0 @@
-force mathematica completely evaluate subexpression using replacement rule example consider following definition series n correction factor stirling formula stirlingseries n series exp total table k k k h k k n h n mod want tell mathematica replace power end last step calculating stirlingseries n instead replaces first change result calculation

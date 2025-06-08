@@ -1,0 +1,1 @@
+According to this post, we should never rely on the finalize method to be called. So why did Java include it in the programming language at all? It seems like a terrible decision to include in any programming language a function that _might_ get called.

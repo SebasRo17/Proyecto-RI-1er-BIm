@@ -1,1 +1,0 @@
-I received three results of calculations: > >     {k->0.190729} >   >     {k->0.197575} >   >     {k->0.249319} >   Could you help me write the results in the following form: > >     {0.190729,0.197575,0.249319} >

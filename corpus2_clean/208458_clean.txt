@@ -1,0 +1,1 @@
+according rule tdd unit test written production integration test exercise interaction concrete non mock wired object written unit test production test wiring note talking acceptance functional test lower level integration test

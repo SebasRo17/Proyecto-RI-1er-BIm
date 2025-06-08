@@ -1,0 +1,1 @@
+used interpolation search instead binary search example sorted dataset situation would use binary search find item dataset situation used interpolation search property dataset would determining factor

@@ -1,0 +1,1 @@
+In a blog post by Andrew Hay, the following axiom was posited: > It costs significantly more to fix a bug at the end of the project that it > does to fix the same bug earlier in the project. However, this doesn't seem certain, especially after reading a blog post on Less Wrong, and the data I've seen to back it up is extremely old. Is this still axiom accurate today?

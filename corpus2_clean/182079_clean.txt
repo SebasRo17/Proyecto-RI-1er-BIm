@@ -1,0 +1,1 @@
+arithmetic operation really huge number example given six variable num num num num x 1 x 2 although math term six variable num bit integer want calculate num two number z 1 z 2 num matrix inverse num z 1 num x 1 num x2 z 2 num x 1 num x2 num matrix defined num num num num want compute num know six variable ordinary floating point question compute c six variable size num bit

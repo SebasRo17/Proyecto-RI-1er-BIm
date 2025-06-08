@@ -1,0 +1,1 @@
+Both these trees try to keep the most frequently accessed element at the top. Is there any difference between these two trees?

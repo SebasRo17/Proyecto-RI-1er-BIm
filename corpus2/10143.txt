@@ -1,1 +1,0 @@
-How can I find what value in column 1 of my list corresponds to the minimum value in column 2?

@@ -1,0 +1,1 @@
+There are a lot of (open source) projects that I'm interested in - dozens at least. I'd like to get a notification whenever a new version is released. Is there a service that does this?

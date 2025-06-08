@@ -1,0 +1,1 @@
+Heroku's pricing page is clear when looking at what I'm paying and what I'm getting, but it is not helpful for predicting future costs of an app. If I have an app that is still being developed, how can I get even a ballpark estimate on what my app will cost at 10, 100, 1000, al the way to 100,000 users?

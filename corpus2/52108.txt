@@ -1,1 +1,0 @@
-One can extract an `Integer`'s digits using `IntegerDigits` and reassemble them into the `Integer` using `FromDigits`. Is there a function that reassembles the output of `RealDigits` into the `Real`?

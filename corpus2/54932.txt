@@ -1,1 +1,0 @@
-I have some initialization code for setting up context path, defining globally useful functions in a notebook (which are not suitable for a init.m). I have several notebooks that need to run those initialization code every time their content are used. What code should I put in the other notebooks to run the content of the initialization notebook?

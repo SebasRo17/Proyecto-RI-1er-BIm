@@ -1,1 +1,0 @@
-want use mathlink call function wrote c however similar integrator take function pointer argument applies number depending argument know pas list real also pas pointer function defined mathematica end look something like f x x install mycprogram mycfunction f f function take two double return double fairly simple always combination polynomial fraction log exp

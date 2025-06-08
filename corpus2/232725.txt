@@ -1,0 +1,1 @@
+Can the Jacquard loom, pictured below complete with its chains of paper cards ![Jacquard loom](http://i.stack.imgur.com/zyqKB.jpg) be considered stateless? As far as I can tell I can tell, each operation is not dependant on the previous. Or did it have any concept of branching and/or looping?

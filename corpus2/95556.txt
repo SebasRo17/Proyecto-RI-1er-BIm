@@ -1,0 +1,1 @@
+Intel processors (and maybe some others) use the little endian format for storage. I always wonder why someone would want to store the bytes in reverse order. Does this format have any advantages over the big endian format?

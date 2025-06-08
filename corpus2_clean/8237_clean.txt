@@ -1,1 +1,0 @@
-example want series four button change value variable used dynamically drive plot trying figure using table around button cause problem work button freq button freq button freq button freq dynamic plot sin freq x x pi work table button tostring freq dynamic plot sin freq x x pi

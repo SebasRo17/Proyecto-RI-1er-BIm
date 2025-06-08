@@ -1,1 +1,0 @@
-Integrate[DiracDelta[a + k] DiracDelta[-b + k], {k, -\[Infinity], \[Infinity]}]      (*DiracDelta[a + b]*)      This works fine. But                Integrate[k DiracDelta[a + k] DiracDelta[-b + k], {k, -\[Infinity], \[Infinity]}]      does not give the expected `b DiracDelta[a + b]`. Why not? How can it be fixed?

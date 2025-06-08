@@ -1,0 +1,1 @@
+entity framework database first model want write mstest nunit test verify stored procs table view defined edmx model still valid database

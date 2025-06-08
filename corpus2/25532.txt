@@ -1,0 +1,1 @@
+I heard the news about Java and the JCP/Apache. What I don't understand is, why does this have to affect the Java market ? Sure, the license has changed and maybe it's moving to a be a bit more closed source but why would people think /it's/will be/ the new COBOL?

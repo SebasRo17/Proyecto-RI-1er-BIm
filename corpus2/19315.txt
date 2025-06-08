@@ -1,1 +1,0 @@
-When I specify that a graph should be realized using the "SpectralEmbedding" procedure, what paper / algorithm for spectral embedding is this based on? I was unable to find any documentation for this. Also, are we guaranteed that the contours of a $N \times M$ rectangular lattice will be straight lines after this embedding procedure?

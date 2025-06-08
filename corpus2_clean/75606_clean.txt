@@ -1,0 +1,1 @@
+relative pro con dfa nfa compared know dfa easier implement nfa nfa slower arrive accept state dfa explicit well known advantage disadvantage

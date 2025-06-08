@@ -1,0 +1,1 @@
+Could you tell me what is the goal of the MVVM pattern? What are the arguments or the reasons I can give to a team and product owner to respect and develop according to this pattern? I would like a simple answer. Something in one sentence or one word. Is it for   * maintenance   * security   * testing   * something else?

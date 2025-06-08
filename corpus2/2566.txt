@@ -1,1 +1,0 @@
-Is it by any chance possible to make the Menu key work as one would expect in _Mathematica_ : opening a context menu? The Menu key does nothing in version 7 or 8 on Windows.

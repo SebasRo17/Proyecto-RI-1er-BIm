@@ -1,0 +1,1 @@
+practical reference actual example getting started implementing small lazy functional programming language graph reduction reference included lexing parsing step would especially helpful far read implementation functional programming language simon peyton jones wizard book sicp

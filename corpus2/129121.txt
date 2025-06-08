@@ -1,0 +1,1 @@
+According to this tutorial OpenNI does not support custom gestures. However, Youtube has videos of people doing just that. Now, clearly this thing loads gestures from somewhere. How can I find out where if they've managed to obfuscate the code successfully?

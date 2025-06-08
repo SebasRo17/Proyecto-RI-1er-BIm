@@ -1,0 +1,1 @@
+way could figure create schema localdb first manually change database azure azure give schema better way like create script instead concept missing

@@ -1,1 +1,0 @@
-consider case two k chromatic graph g g e two graph individual vertex colored one set k total color would like determine two graph equivalent respecting vertex coloration way mathematica known computational complexity algorithm employed

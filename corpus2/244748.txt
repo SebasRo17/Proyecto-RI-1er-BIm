@@ -1,0 +1,1 @@
+I need an algorithm which can copy data(files/folder) from one place to another, faster than windows default copy/paste option. I'm working in vc++. Is there any algorithm by which I can do copy/paste faster.   Or _Is there is any other suggestion to perform this task?_   Thanks

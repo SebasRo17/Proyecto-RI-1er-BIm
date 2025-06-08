@@ -1,0 +1,1 @@
+Even languages where you have explicit pointer manipulation like C it's always passed by value (you _can_ pass them by reference but that's not the default behavior). What is the benefit of this, why are so many languages passed by values and **why are others passed by reference** ? (I understand Haskell is passed by reference though I'm not sure).

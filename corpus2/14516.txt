@@ -1,0 +1,1 @@
+What is the market like for custom apps or scripts using the OpenOffice.org API? I started delving into it a while back. I found it a fairly painful environment to work in. Is there any demand for this skill set? I might keep at it if it seemed like there was money to be made.

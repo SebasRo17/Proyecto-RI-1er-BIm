@@ -1,1 +1,1 @@
-trying fit part dataset function ae b sqrt x c friend using gnuplot got reasonably good result however try mathematica nonlinearmodelfit tmean exp b sqrt x c b c x e sqrt x data around b around c around initial guess mean getting bad result data mathematica edit added data
+place sorting essentially swapping element without using extra storage correct find minimum number swap required list c q r z e movement c e q r z swapping c q r z e swap q e swap r q swap r z done num swap shifting item left right essentially swapping want optimal number item switching place another

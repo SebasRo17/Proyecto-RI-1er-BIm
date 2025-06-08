@@ -1,1 +1,0 @@
-Where I can find detailed information on algorithms used by Mathematica, especially for numerical methods. The Manual doesn't seem to iclude specifics in most cases. For example I get a different LU Decomposition of a matrix using Mathematica's LUDecomposition than when I implement the Crout algorithm, even thought I believed it to be standard and having a unique solution.

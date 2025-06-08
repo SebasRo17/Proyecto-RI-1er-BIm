@@ -1,1 +1,0 @@
-The following code               Cases[Function[{x}, x + 1], a_?ValueQ :> Hold[a], ∞, Heads -> True]      unexpectedly returns > {Hold[x + 1]} According to the manual, "ValueQ[expr] gives True if a value has been defined for expr, and gives False otherwise." In the example above, what is the expression that was assigned the value x+1?

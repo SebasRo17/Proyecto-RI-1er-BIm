@@ -1,1 +1,0 @@
-Is there a way to input multiple rows of text and save it as a variable? Like an InputField, but with multiple rows? I would like to make a simple text redactor, so that I could enter a text and then use it as a variable.

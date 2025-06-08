@@ -1,0 +1,1 @@
+could vector implemented haskell order something vector stored sequentially memory num random access haskell hide memory management datatypes describe tree could express kind requirement

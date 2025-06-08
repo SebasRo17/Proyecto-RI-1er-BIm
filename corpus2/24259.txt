@@ -1,1 +1,0 @@
-What algorithm is _Mathematica_ 9 using for `FirstPassageTimeDistribution[]`? Is it attempting to use `PseudoInverse[]` on the Laplacian of the graph underlying the discrete Markov process?

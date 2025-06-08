@@ -1,0 +1,1 @@
+What are some of the software technologies behind "real-time" web apps, like Twitter, Trello, or even Gmail? I know there's a webserver and probably a database on the backend, but what are the software pieces that make for that rich web interaction that I'm seeing more of today?

@@ -1,0 +1,1 @@
+std list mylist filllist filllist filllist foreach mylist push back add list compared mylist filllist std list filllist std list ret foreach ret push back add list ret std list member fill list first fill inside second one return list assigns member list better style one fill list inside one return list even better solution

@@ -1,0 +1,1 @@
+trying understand write unit test day confused following scenario existing first max change depending created time second case constant note following function related two different scenario somefunction1 arg1 arg1 someobject throw exception somefunction2 arg1 arg1 throw exception trying test whether throw exception max exceeded unit test remain case different

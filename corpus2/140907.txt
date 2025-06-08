@@ -1,0 +1,1 @@
+Do you know any good tutorials, frameworks, anything that can help me to write code that captures information from a website that don't have a public API, or hasn't been written in a RESTful way? I've heard there's a Ruby gem that simulates a browser, but I forgot its name and couldn't find any information about it anymore.

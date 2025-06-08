@@ -1,1 +1,0 @@
-How can I plot a stepwise function like `f[a, t] = 10 Exp[-0.1 Sin[t]]` for `a > t` and `f[a, t] = f[a, t - 1] Exp[-0.1 a]` for `a < t`? If you see, for `a < t`, the function `f[a, t]` dependes on a previous value of itself.

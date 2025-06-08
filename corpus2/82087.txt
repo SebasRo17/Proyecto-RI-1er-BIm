@@ -1,0 +1,1 @@
+With software products taking whole teams of people to develop, how much can one programmer accomplish on his/her own? In other words, could a single person write Photoshop, MS word, etc...? And if they couldn't, would web development be an area where one programmer could do a lot?

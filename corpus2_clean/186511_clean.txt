@@ -1,0 +1,1 @@
+say interface thing getthing thing public getthing num thing public getthing violation liskov substitution principle

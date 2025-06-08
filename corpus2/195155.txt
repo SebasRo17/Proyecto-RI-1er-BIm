@@ -1,0 +1,1 @@
+I mostly work in Python and Ruby, but I recently decided to learn some C so I have a better feel for how a computer _actually_ works. I've been wondering whether it is possible to take this even a step further. Does anyone learn machine code (whatever C is compiled into) anymore? Would I benefit from taking some time to learn it?

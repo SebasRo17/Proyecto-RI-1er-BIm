@@ -1,1 +1,0 @@
-This should be an easy question! I want to define a function with domain = the 12 integers `{1,12}`, with the values `f[1]=31`, `f[2]=28`, `f[3]=31`, etc. (number of days in the month). This will be a part of nested `Do[]` loops running through the days of a non-leap year for a particular data set I am working with.

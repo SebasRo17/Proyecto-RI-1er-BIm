@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Evaluating an If condition to yield True/False I am trying to print `1` when `a` is found and `0` when it is not, but my code doesn't print `0`. Why? Here it is:               list = {a, b, a, a, c};     Do[If[list[[i]] == a, Print[1], Print[0]], {i, 5}]

@@ -1,0 +1,1 @@
+I've been looking at the Chrome Store and I started to think about developing some nice stuff to publish there, since I have a machine installed with Chromium and I see the WebApp market a lot better than the platform-specific one. But what a site really needs and how it should be designed to be considered a WebApp?

@@ -1,0 +1,1 @@
+So I am working on creating a Google App Engine Application, and I've come across the term "expose" a number of times, e.g. "your first app can expose objects using an HTTP based API" and "expose this datamodel class through a REST API". What does "expose" mean? Is there a particular action associated it, or is it an abstract part of design?

@@ -1,1 +1,0 @@
-CUDA works in version 8 but not in version 9. Is there a way to fix the problem in version 9? I've installed the latest CUDA from the official website https://developer.nvidia.com/cuda-downloads ![enter image description here](http://i.stack.imgur.com/nEDHQ.png) ![enter image description here](http://i.stack.imgur.com/e5caM.png)

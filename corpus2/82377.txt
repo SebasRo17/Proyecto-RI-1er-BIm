@@ -1,0 +1,1 @@
+Should properties in C# have side effects beside notifying of a change in it's states? I have seen properties used in several different ways. From properties that will load the value the first time they are accessed to properties that have massive side effects like causing a redirect to a different page.

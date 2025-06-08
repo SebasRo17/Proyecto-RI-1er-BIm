@@ -1,0 +1,1 @@
+My company is going to hire an external developer to write some simple PHP modules and some minor bugfixing in our software. We have never hired an external developer by the hour before. How can we measure external developer's productivity and coordinate with them? I thought about using a combination of http://worksnaps.net/ and https://github.com/. Any better ideas?

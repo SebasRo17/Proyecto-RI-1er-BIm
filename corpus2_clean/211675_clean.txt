@@ -1,0 +1,1 @@
+first gone question include iostream h bad reason simply outdated personally think header iostream better co declare object like cout endl global scope co already global scope moreover since used anymore mean come pre processor directive need know done still use turbo sometimes comfortable using c program even though gcc g provide better debugger everything

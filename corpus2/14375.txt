@@ -1,1 +1,0 @@
-If I do               FullSimplify[Reduce[Sin[p1] == 0 && Cos[p1] == 0, Reals]]      I get                Cos[p1] == 0 && Sin[p1] == 0      while I would expect False. why? is there a way to have mathematica compute that both sin and cos cannot be 0?

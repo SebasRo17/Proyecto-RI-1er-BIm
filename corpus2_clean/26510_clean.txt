@@ -1,1 +1,0 @@
-stupid known bug mathematica coefficient x x give coefficient x x give documentation say work whenever expression expanded see problem coefficient x x coefficient expr form positive surely well defined largest number k expr k form non negative coefficient expect coefficient expr form edit case polynomialreduce expr form var thing want computes k expr k form minimal sense

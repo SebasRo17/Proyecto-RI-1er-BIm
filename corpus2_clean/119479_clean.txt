@@ -1,0 +1,1 @@
+various open source cm noticed separate table mapping two relational table like category product separate product category mapping table table primary key two foreign key category product table question benefit database design rather linking table directly defining foreign key either table matter convenience

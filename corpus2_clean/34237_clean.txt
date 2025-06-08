@@ -1,1 +1,0 @@
-couple study done showed white text black background increase recall data although certainly debatable might invert color notebook font background mathematica likely couple way external software v stylesheet currently think best solution likely involves using built mathematica stylesheets currently mentioned comment appear great way

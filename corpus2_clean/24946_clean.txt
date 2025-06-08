@@ -1,1 +1,0 @@
-filledcurve create graphic object example b graphic filledcurve beziercurve line b beziercurve line b filledcurve put graphic object like plane say z create something like following graphic without mapping polygon texture version

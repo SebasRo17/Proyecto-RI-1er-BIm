@@ -1,1 +1,0 @@
-I wonder what is the shortcut key for traverse command history (i.e. retrieve last, last last, ..., commands) in a Mathematica session in a terminal? If I hit the up/down arrow or pageup/pagedown, it will only show some incomprehensible codings of the keys. My OS is Ubuntu. Thanks!

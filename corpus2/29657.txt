@@ -1,0 +1,1 @@
+I came across something like this in an open-source project. Methods that modify instance attributes return a reference to the instance. Would you trust code that is written like this?               class Foo(object):            def __init__(self):         self.myattr = 0            def bar(self):         self.myattr += 1         return self

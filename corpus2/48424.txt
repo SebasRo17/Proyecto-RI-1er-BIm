@@ -1,1 +1,0 @@
-If I create a `Do` statement,               Do[expr, {i, imin, imax}]      is there a way to make the statement evaluate from `imax` to `imin` instead of `imin` to `imax`?

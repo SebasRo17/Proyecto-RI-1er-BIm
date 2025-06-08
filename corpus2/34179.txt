@@ -1,0 +1,1 @@
+What is the typical arrangement for the maintenance of applications that are not developed in-house? Note: by maintenance, I mean bug fixes, optimizations, small modifications and future extensions.

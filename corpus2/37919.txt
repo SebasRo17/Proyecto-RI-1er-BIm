@@ -1,1 +1,0 @@
-I've been looking for a function that helps me get the adjoint matrix o a given one, I found that you can get the cofactors of a matrix but only by using the "Combinatorica" package, which I couldn't get. If you know any command or if you know effective ways of creating a function that does this, please help me.

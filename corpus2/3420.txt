@@ -1,1 +1,0 @@
-I'm trying to import a matrix from Excel to Mathematica. My code is:               Import["desktop/stproj.xls", "xls", data, 1]      The output is some weird stuff about population counts and not at all related to what's in the excel file. Can anyone help me with importing this?

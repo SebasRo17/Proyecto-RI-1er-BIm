@@ -1,1 +1,0 @@
-sort list e g randominteger maximum center element placed symetrically descending order around center

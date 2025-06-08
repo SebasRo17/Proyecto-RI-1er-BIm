@@ -1,0 +1,1 @@
+i am creating a hangman game in visual studio using C#. how can i load 2nd level after 1st one is completed.

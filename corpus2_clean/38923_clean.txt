@@ -1,1 +1,0 @@
-need pi accuracy digit first guess would n pi however round last digit instead chopping additional digit hence last digit actually could n fromdigits realdigits pi pretty sure nicer solution

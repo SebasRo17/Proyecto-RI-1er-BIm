@@ -1,1 +1,0 @@
-How may I make `n` and `k` in terms of `x` and `y` in this equation?: $$\frac{1-n-i k}{1+n+i k}=\sqrt{x} e^{i y}$$ I have tried separating the real and imaginary terms on the left hand side using complex expand so that I can have 2 sets of equations now but I have no idea how to continue?               ComplexExpand[((1 - n - I k)/(1 + n + I k))]

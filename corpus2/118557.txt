@@ -1,0 +1,1 @@
+I know that big websites suffer from scalability issues and I guess that more servers (hardware) can help to handle scalabililty issues but I see that big websites are stuck about scalability even if they can handle the cost of new servers. So why can big companies not handle scalability issues by more servers?

@@ -1,1 +1,0 @@
-trying simulate system ode mathematica effort try understand muck around mathematica reason following line code yield result code seems run without conclusion could anyone shed light happening perhaps system x x z z x sol dsolve system x z perhaps erroneous call usage dsolve command meant use non linear equation

@@ -1,1 +1,0 @@
-assume two list like list list b c e want replace element list list make new list newlist example want replace element list position element list position result newlist b c way

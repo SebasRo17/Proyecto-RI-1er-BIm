@@ -1,1 +1,0 @@
-f x x ab f x x transpose x minimize f x x fine return minimize f x x fine return minimize transpose x x x workaround would minimize f b b b however nice x long vector way minimise function taking vector directly without resorting workarounds use workaround way automate example maybe using macro

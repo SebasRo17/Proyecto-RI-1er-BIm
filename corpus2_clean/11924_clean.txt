@@ -1,1 +1,0 @@
-want solve equation ndsolve using euler method x x x initial condition step size x h final time also know make table including x x time

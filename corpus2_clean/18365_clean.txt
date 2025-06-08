@@ -1,1 +1,0 @@
-following problem want transform integer power series multiplication within symbolic expression e g x written x x x tried applying rule b b replacerepeated mathematica simplifies x suggestion

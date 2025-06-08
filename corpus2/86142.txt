@@ -1,0 +1,1 @@
+I have read this questions and answers, but I still don't understand what exactly do I need to do if I dynamically link with a library that uses a LGLP licence (the SDL library in my case). If I understand LGLP text correctly, I need to somehow provide the source for the library. Is this enough? If not, what else needs to be done?

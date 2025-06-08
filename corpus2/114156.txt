@@ -1,0 +1,1 @@
+HTML4 / XHTML1 allows only GET and POST in forms, now it seems like HTML5 will do the same. There is a proposal to add these two but it doesn't seem to be gaining traction. What were the technical or political reasons for not including PUT and DELETE in HTML5 specification draft?

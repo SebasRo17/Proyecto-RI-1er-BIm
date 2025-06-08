@@ -1,1 +1,0 @@
-given sorted table find position non consecutive number first column table list matrixform enter image description find row position first non consecutive number column one find row position last non consecutive number column one

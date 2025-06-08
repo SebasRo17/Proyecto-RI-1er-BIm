@@ -1,0 +1,1 @@
+A friend of mine came from a VMS/COBOL background and we gave her some VB6 to do - she absolutely ran with it. Next we ran her through some Java stuff and it didn't click at all. What's similar about COBOL and VB6 (but not Java) that would make this possible?

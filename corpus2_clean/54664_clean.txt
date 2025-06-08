@@ -1,1 +1,0 @@
-solving differential equation numerically ndsolve p r function r p r p pcenter p r rmax function r p r becomes negative want ndsolve stop soon happens save value r idea

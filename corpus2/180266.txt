@@ -1,0 +1,1 @@
+Assume you are using APIs from a vendor, how to make sure their API is working as expected? My main concern is sometimes the vendor pushed the changes to their code and break the API, we want to have some sort of automatic software to test them continually. How to deal with this?

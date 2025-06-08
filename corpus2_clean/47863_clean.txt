@@ -1,1 +1,0 @@
-newcomer mathematica following question given x range partition b c want combine x result b c written mapprepend b prepend b range length b job wonder functional solution probably question already answered case would nice would direct link

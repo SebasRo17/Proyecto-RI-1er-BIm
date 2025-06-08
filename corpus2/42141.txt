@@ -1,1 +1,0 @@
-Is there a simple way to enter decimal numbers such as 0.123 so that Mathematica interprets it as an exact rational number 123/1000?

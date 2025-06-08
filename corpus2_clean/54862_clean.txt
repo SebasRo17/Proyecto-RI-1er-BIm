@@ -1,1 +1,0 @@
-command insert item list form pair word take insertobject b c output b c would equivalent function table b c way work fine seem mathematica way thing built command

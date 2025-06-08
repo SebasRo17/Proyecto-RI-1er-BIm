@@ -1,1 +1,0 @@
-possible duplicate relative path portable notebook mathematica deep subdirectory structure calculation always done one deepest subdirectory instead clicking using setdirectory command possible predefine somehow first beginning notebook second deepest subdirectory working directory choose setdirectory one deepest subdirectory

@@ -1,1 +1,0 @@
-would like solve equation exp sqrt x k respect x exponent using mathematica parameter positive course answer easy get hand however reason could figure mathematica tried gave error message also would like solution expressed without conditionals want answer parameter satisfy whatever need satisfy generic solution hold would greatly appreciate help figuring

@@ -1,0 +1,1 @@
+Is there a tool out there that can quickly and simply generate a DataContract from either XML or JSON? Doing it manually can be a real pain.

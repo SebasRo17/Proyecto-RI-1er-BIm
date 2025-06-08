@@ -1,0 +1,1 @@
+starting new android application best structure use planning make multi package design follows num package including activity num service layer num entity package including entity advice

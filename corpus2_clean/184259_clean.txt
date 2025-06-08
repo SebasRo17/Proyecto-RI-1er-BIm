@@ -1,0 +1,1 @@
+came across clisp force released gpl looking good common lisp implementation language force license fud asking really speak legalese maybe something understand get language gpl compiles form bytecode program whatever licence want edited cmucl clisp head wrong place wrote question first time sorry

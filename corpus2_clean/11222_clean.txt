@@ -1,1 +1,1 @@
-geometry let b two point plane p x z find point scalar product two vector bm least value tell mathematica
+want successful enterprise developer algorithm structure well versed book would recommend successful developer need know advanced algorithm given clrs suggest list topic learn descending order priority must know searching sorting graph tree etc

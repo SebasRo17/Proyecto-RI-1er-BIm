@@ -1,1 +1,0 @@
-I'm using _Mathematica for Students_ on a Mac. How do I export a CDF document to HTML? According to the Wolfram website I should click on `File > Deploy > Export as HTML`. But I do not see the `Deploy` contextual menu item in my File menu. Has it been moved on the Mac version?

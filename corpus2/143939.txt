@@ -1,0 +1,1 @@
+For small size projects, is it worth following the SDLC? is SCRUM/agile development a better approach? **Edit** : The project I have in mind is a small change but it will affect multiple layers/parts of the application, so there will be 2 or 3 developers involved each from a different team, then the code will be integrated at a later step. Thanks.

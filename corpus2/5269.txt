@@ -1,0 +1,1 @@
+I got a personal question for you guys out there: what's your reason for learning Clojure ? (For me, it's the same thing as it was with Java over C, it promises a better programming experience)

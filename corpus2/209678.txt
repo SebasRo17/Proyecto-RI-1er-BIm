@@ -1,0 +1,1 @@
+While looking at the code in C for division/multiplication by 2, it is found that shift operator is used rather than division operator. What is the advantage of using shift over division operator?

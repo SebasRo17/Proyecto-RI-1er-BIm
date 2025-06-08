@@ -1,0 +1,1 @@
+So it's obvious that a string of things is a sequence of things, and so a sequence of characters/bytes/etc. might as well be called a string. But who first called them strings? And when? And in what context such that it stuck around? I've always wondered about this.

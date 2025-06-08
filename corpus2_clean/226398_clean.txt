@@ -1,0 +1,1 @@
+window c pure winapi c mfc etc would like build gui know window gui completely decoupled ui question could build ui around existing ideally imagining something like gui mediator example msg would call mediator messagebox num num msg num stuck design mediator correct way going mediator interface abstract mvc model best way go

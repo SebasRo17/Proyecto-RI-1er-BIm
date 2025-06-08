@@ -1,0 +1,1 @@
+I am taking over the maintenance of a simple commercial website, images and information are displayed. I have experience with html, php, word press, javascript, java, and such. What should I ask the previous dev for when it comes to taking over the maintenance, hosting, files, testing, deployment, etc? Also how much should I charge to maintain and expand the site?

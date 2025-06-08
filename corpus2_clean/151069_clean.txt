@@ -1,0 +1,1 @@
+suppose custom def greater b b num num num num defines compare two number determine greater case return num b else b use inbuilt built sorted create sorted number respect definition

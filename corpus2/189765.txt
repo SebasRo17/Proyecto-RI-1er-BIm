@@ -1,0 +1,1 @@
+I have seen some tutorials and some stackoverflow discussions on how to send data from android to php page. most of the cases i have seen people sending data in string format but returning in json format. My question is that is it better to send data from android to php in json format. or in what cases i should use json over string. Regards

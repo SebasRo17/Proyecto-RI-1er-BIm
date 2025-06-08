@@ -1,0 +1,1 @@
+I am working on some old code that works with a REST api in c#. The method names (what method to invoke on the API side) is being passed in as hard-coded strings. Would a static class be the best solution to force the user to pass in values that I want (so they don't make a mistake and mistype something, etc)?

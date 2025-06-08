@@ -1,1 +1,0 @@
-possible divide two equation mathematica following code eqn kp h e ta tau eqn kp h e ta tau obviously one get e ta tau e ta tau dividing eliminate eqn eqn kp h get true try eliminate assuming afterwards zero eliminate eqn eqn kp h fullsimplify getting rid fullsimplify e ta tau e ta tau e ta tau e ta tau suggestion

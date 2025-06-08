@@ -1,1 +1,0 @@
-I read a record from a file.               Read[file,Record];        It reads and opens a stream. Should `Read` not close its stream after reading, like `ReadList` does?               ReadList[file,Record,1];

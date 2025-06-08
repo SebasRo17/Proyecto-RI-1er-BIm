@@ -1,0 +1,1 @@
+I'm going to start my first real project in Ruby on Rails, and I'm forcing myself to write TDD tests. I don't see real advantages in writing tests, but since it seems very important, I'll try. Is it necessary to test **_every_** part of my application, including static pages?

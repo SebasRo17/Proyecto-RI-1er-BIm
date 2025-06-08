@@ -1,0 +1,1 @@
+django project situation come django orm able execute complex query num option num use raw sql query num use sqlalchemy want know rule like pro con guide choose one num option entirely depends like

@@ -1,0 +1,1 @@
+Can I license a program under Apache License 2.0, if it is using/including EclipseLink? (EclipseLink under Eclipse Public License or Eclipse Distribution License) I did not change anything in EclipseLink. I would realy like to distribute a Version that includes the needed EclipseLink jars, so that it is working "out of the box".

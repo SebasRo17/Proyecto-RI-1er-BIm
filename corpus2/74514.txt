@@ -1,0 +1,1 @@
+I like to write small GUI applications using Java and Swing, something like a client for the social website Tumblr Should I use Eclipse RCP or the Netbeans platform? And what benefits do I get from using either one over using plain swing/SWT? Do RCP applications require more dependencies than those developed using Swing or SWT?

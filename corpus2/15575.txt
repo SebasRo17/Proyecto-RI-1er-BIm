@@ -1,1 +1,0 @@
-I got matrix, let's say, 100 rows and I would like to plot only 10-rows window of it. Is it possible to add a slide control to Manipulate[] window so to shift 10-row "window" interactively? I trying Manipulate[MatrixPlot[matrix[[x ;; x + 10]]], {x,0,100}], but that's not working.

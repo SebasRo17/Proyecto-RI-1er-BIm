@@ -1,1 +1,0 @@
-easy way directly jumping definition variable like implemented good ides currently search manually ctrl f whole workbook find somewhere

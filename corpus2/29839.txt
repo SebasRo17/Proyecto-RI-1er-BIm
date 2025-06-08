@@ -1,0 +1,1 @@
+How useful is it to measure function points? We use function points at my new job. I've heard of function points but haven't had any training or experience... but I don't have much confidence in things that cannot be explained succinctly.

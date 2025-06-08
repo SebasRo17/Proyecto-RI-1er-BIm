@@ -1,0 +1,1 @@
+I am including two programs in my software. One of which requires VC10 and the other requires VC11. My question is that if program developed for VC10 will work on VC11 or I have to include both VC10 and VC11

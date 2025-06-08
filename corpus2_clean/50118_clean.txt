@@ -1,0 +1,1 @@
+assume library licensed gpl want use closed source project following num create small wrapper application around gpl library listens socket parse message call gpl library return result back num release source comply gpl num create client wrapper application release source know add huge overhead compared static dynamic linking interested theoretical way

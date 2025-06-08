@@ -1,0 +1,1 @@
+There are several design patterns like Adaptor, Iterator implemented in STL. Does that mean STL is implemented with OO concepts?   What is the relationship between OO and template parts of C++? I learned that virtual member function which justifys the OO is contradict with template, is this correct?

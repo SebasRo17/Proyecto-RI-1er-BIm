@@ -1,1 +1,0 @@
-want ask question reduce function say f x use command reduce f x x give interval x want interval want upper bound x example command reduce f x x output x want get

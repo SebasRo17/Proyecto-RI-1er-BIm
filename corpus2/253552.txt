@@ -1,0 +1,1 @@
+Is it legal / ethical to port a library that is written in C under LGPLv3 to (pure) Go under the Apache v2 license? Keep in mind the port will be 100% compatible with full attribution to the original author and it will be a complete rewrite being a different language and all.

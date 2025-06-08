@@ -1,1 +1,0 @@
-want make parametric plot like parametricplot tried following work parametricplot

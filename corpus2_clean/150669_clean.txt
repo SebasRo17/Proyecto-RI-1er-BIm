@@ -1,0 +1,1 @@
+currently creating web application allows user store share file num mb num mb size seems storing file database significantly slow database access valid concern better store file file system save file path database best practice related storing file working database working php mysql project issue environment ruby rail php net database mysql postgresql

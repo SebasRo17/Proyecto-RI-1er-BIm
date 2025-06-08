@@ -1,1 +1,0 @@
-write complex function f z form u x iv x using mathematica im work complex number function example try z conjugate z sin z mathematica return im z z sin z

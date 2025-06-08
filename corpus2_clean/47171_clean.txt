@@ -1,1 +1,0 @@
-way construct oneliner pure function enter mylist one place end line function return result last line bellow paired mylist result look like mylist alldiffelem sort deleteduplicates mylist flatten position mylist alldiffelem

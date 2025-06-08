@@ -1,1 +1,1 @@
-Does anyone know whether or not it's possible to embed a RichEdit 8 control within a Mathematica Notebook using .NETLink? The goal here would be able to both view and edit mathematical text typeset using Microsoft Word 2013 from within a Mathematica notebook. More background on the development of mathematical typesetting capabilities in Microsoft Office (and the RichEdit control) is available here: Murray Sargent's blog
+In what kind of situations, assembly language will be the only solution?

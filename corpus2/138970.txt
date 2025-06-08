@@ -1,0 +1,1 @@
+I have two questions on the search results panel (Find Occurrences of...) in PHP Storm:   1. What does "Unclassified usage" mean? How can results be classified?   2. Is there any way _not_ to group results by file? I am using the latest version (3.0.3)

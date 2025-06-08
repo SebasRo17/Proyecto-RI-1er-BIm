@@ -1,0 +1,1 @@
+How secure is sending passwords through email to a user, since email isn't secured by HTTPS. What is the best way to secure it? Should I use encryption?

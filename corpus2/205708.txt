@@ -1,0 +1,1 @@
+In simple words, is it true that an average size of an encoded video frame would be `FrameSize = BitRate/FrameRate`? Because `BitRate` shows how much data we are transferring per time unit, and `FrameRate` shows how many frames does this time unit contain.

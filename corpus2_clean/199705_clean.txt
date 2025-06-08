@@ -1,0 +1,1 @@
+developing asp net mvc num intranet site use integrated window authentication exclusively vulnerability challenge response authentication traffic sent plain text someone sniffing network traffic able hijack authenticated session

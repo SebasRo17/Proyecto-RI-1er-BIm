@@ -1,0 +1,1 @@
+There is an online facebook flash poker game. This game is constantly sending and receiving information to the player's browser about all the things going on in the game. How hard would it be for a good programmer to make a program that could interface with the game server so that the user wouldn't have to use their web browser to play the game?

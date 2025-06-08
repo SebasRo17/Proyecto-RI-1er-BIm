@@ -1,1 +1,0 @@
-default discreteplot display edge along side prominently align top extentsize full set example discreteplot x x plotrange full extentsize full plotstyle gray produce eliminate feature bar colored shaded evenly throughout

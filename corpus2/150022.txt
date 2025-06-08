@@ -1,0 +1,1 @@
+I know how to do simple loops but I don't know what's going on when many loops are working together. For example:               for (i=0; i <= 9; i++){          document.write(linebreak);            for (m=0; m <= 9; m++){          document.write(i);         }     }      Is there a way I can learn loops inside out?

@@ -1,0 +1,1 @@
+I have a set of single purpose functions that I need in two separate controllers. Right now I just have duplicate code and I want to get rid of it. This code is part of the controller and doesn't belong in my service layer. Where would you put it?

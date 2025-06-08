@@ -1,0 +1,1 @@
+android app need javax activation javax mail gplv2 licensed however want make app gpl licensed possibility break license requirement regarding classpath exception currently use maven dependency plugin pull package source merge compiled stuff one apk ok

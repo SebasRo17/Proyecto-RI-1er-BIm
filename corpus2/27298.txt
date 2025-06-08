@@ -1,1 +1,0 @@
-I want to solve the following equation: $$(-1-z)^n = z,\quad |z|<1,\quad n>1\in \mathbb{N}$$ where $z$ is a complex number. However `Solve` or `Reduce` didn't get me anywhere. Is there a way to do this?

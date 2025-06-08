@@ -1,0 +1,1 @@
+know share file visual studio project using linked file assembly using project reference good approach javascripts rather use linked file since allow project version script

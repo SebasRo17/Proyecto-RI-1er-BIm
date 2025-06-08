@@ -1,0 +1,1 @@
+While writing new application using GTKmm. the first line is :                Glib::RefPtr<Gtk::Application> app = Gtk::Application::create(argc,argv,"org.gtkmm.examples.base");      and i knew that "org.gtkmm.examples.base" is the application ID , my questions are : 1 - what is the application id?. 2 - how do i write it?.

@@ -1,1 +1,0 @@
-Being functional, and having no "quotation", i.e. essentially treating data and programs semantically same, Mathematica seems naturally capable of doing metaprogramming. But could anyone construct a more thorough analysis about this? If you think there is any missing elements that prohibit Mathematica from doing (practical) metaprogramming, could you give an example?

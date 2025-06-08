@@ -1,0 +1,1 @@
+How often to you release during a sprint. Only at the end of the sprint or every time a feature is ready. And how to you handle bugfix releases?

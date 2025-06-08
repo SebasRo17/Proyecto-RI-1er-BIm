@@ -1,0 +1,1 @@
+When adding salt values to a hash value for something like a password that cannot be stored in plain text, what is the best place to get the salt values come from? For context, let us suppose this is for passwords on a webpage login.

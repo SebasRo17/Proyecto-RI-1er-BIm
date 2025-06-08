@@ -1,1 +1,0 @@
-inversefunction work well globally invertible function like f inversefunction f however would one example find inverse f x x around x f x mathematica give warning multivalued inverse case well result sqrt x branch looking f inversefunction f inversefunction ifun inverse function used value may lost multivalued inverse sqrt specify neighbourhood function inverted

@@ -1,1 +1,0 @@
-Is there a `sprintf()` command (some command that takes a `printf`-style format string and a list of values to insert into the string) or something very much like it (preferably with a similar style of format specifiers)? Or, alternately, how would I implement `sprintf()` in Mathematica?

@@ -1,0 +1,1 @@
+I am a web and software developer involved in the creation of mobile apps. I am currently working on a project with a looming deadline. I am wondering if I should be committing code rapidly and large and testing later, or doing tiny commits and testing each one. Thank you!

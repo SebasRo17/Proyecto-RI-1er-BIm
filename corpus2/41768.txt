@@ -1,1 +1,0 @@
-I would like to plot the graph of the sum of two random variables.So, I wrote               Plot[PDF[NormalDistribution[0, 1]+NormalDistribution[0, 1], x], {x, -10, 10}]      Why doesn't it work?

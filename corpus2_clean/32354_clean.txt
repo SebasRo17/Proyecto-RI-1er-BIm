@@ -1,1 +1,0 @@
-would like export text file use paragraph enter command place different string different line say three string str str str place separate line text file command export test txt stringjoin str str str place str str str single line

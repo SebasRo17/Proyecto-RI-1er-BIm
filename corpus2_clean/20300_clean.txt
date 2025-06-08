@@ -1,1 +1,0 @@
-integrate f z z b c exactly calculate int b f z mathrm z int b c f z mathrm z int c f z mathrm z first idea integrate f z z b simplified even fullsimplify example integrate z z give result cdot pi cdot value closed path around zero path take complex plane integral thought would converge got error one

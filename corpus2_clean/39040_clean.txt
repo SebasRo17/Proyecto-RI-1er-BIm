@@ -1,1 +1,0 @@
-maple often simplify expression function argument using collect command collect f x f x f x f factor x f x f extra option factor factor coefficient contrast mathematica collect f x f x f x f f x x f x f command mathematica achieves

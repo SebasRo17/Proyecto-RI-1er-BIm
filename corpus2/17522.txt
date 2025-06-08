@@ -1,1 +1,0 @@
-I have an array of data that has repeats in it. I want to generate a heatmap depending on how much repetition each point has, as in how many times it is repeated.

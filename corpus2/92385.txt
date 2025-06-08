@@ -1,0 +1,1 @@
+How much should a reviewer trust the coder who submits the code for review? I always have that dilemma of whether I should go test of the changes proposed or should I trust the submitter that he would be _knowing_ what he is doing? Mainly because at the end of the day its reviewers responsibility also. Code-reviews are not fun always.

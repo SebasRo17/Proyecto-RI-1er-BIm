@@ -1,1 +1,0 @@
-How do I save a `ListLinePlot` graphic as an _Adobe Illustrator_ file (with extension `.ai`)?

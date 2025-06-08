@@ -1,1 +1,0 @@
-default x axis rectanglechart labeled using axis true true help set tick manually

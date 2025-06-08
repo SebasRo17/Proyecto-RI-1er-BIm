@@ -1,1 +1,0 @@
-say two polynomial mathbb r x z whose intersection zero locus correspond curve space best way plot curve example f x z qquad g x z want plot curve given begin case x z x z end case

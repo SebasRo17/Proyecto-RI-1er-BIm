@@ -1,1 +1,0 @@
-would like put dot point curve specific value know x value simple example code eqns sin pfun parametricndsolvevalue eqns plot pfun enter image description say want find x two coordinate know add dot guess confused interpolating function give given x figure inverse also suggestion tutorial use interpolating function would great thanks

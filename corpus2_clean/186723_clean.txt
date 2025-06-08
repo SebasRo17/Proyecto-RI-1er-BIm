@@ -1,0 +1,1 @@
+think using akka actor front transactional service bean good idea actor facade used client application actor use message handle right service call good practice article num num num akka actor dependency injection using spring talking using spring bean akka actor could see gain use actor front singleton spring bean

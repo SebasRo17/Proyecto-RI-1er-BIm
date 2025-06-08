@@ -1,1 +1,0 @@
-WolframAlpha can give step by step solution for indefinite integral. There seems to be similar question but for derivatives. Is there a way that I can generate my own step by step solution for indefinite integrals (for simple integrals having closed form)? Sorry, if the question is inappropriate.

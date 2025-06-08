@@ -1,0 +1,1 @@
+Is there a public constant for the maximum TCP port number (65535) defined in java or a common library such as Apache Commons, that I could refer to from my code (instead of using the integer hardcoded)?

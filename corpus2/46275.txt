@@ -1,1 +1,0 @@
-ListPointPlot3D[     Table[{n, s, (Prime[n]^s/(Prime[n]^s - 1))}, {n, 1, 2000}, {s, 2, 80}], PlotRange -> All]        ![enter image description here](http://i.stack.imgur.com/3opta.png) Is the pattern the result of the data, the plotting function, or a bit of both? **Edit** fixed bad exponents, replaced the plot.

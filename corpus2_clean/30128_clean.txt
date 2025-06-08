@@ -1,1 +1,0 @@
-symbolic solution linear system respect variable j depend parameter sol solve table j n j n would like make function solution something like j j sol hand everything fine try get loop like j j sol n j n work example trying look give j one define family function loop

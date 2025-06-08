@@ -1,1 +1,0 @@
-I have a LabJack U3-HV and I wanted to use it with _Mathematica_ to interface some hardware. I cannot find any information on the Internet; if I have to use Python, I will, but I would rather use _Mathematica_. Does anyone have any advice on this? Specifically, I can't figure out how to read "AIN0" (the LabJack's first analog input) using _Mathematica_.

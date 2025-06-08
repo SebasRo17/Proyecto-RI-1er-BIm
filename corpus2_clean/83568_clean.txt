@@ -1,0 +1,1 @@
+legal put fsharp core dll fsharp redist package application package redistribute application find information

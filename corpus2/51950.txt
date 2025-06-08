@@ -1,1 +1,0 @@
-I need to perform an integration. There is one particular value, which may be very small that is showing up as `0.`. Is there any command in _Mathematica_ 9 that will give me the very small value instead of `0.`? ![enter image description here](http://i.stack.imgur.com/km0SH.png)

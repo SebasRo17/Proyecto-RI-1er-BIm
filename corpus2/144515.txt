@@ -1,0 +1,1 @@
+Why were frames deprecated in HTML5, but not iFrames? After all, there is almost no difference between the two. In many instances using either of them would give the same output (pardon me if I am wrong)?

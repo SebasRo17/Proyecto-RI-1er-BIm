@@ -1,0 +1,1 @@
+I need to write out a documentation for developers to be able to use some API web software how should i lay out a documentation? What should always be included? And does it need to be really long or keep it simple and easy as possible for anybody to understand?

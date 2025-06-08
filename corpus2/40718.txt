@@ -1,1 +1,0 @@
-Is there an inverse to ImageDifference? What in two images are the same?

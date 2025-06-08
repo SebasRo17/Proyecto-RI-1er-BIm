@@ -1,1 +1,0 @@
-graph theory use hungarian algorithm compute weighted bipartite graph minimum edge cover set edge incident every vertex one minimum total weight find new version mathematica whole new package function graph theory begin graph found function job find function called findedgecover find edge cover minimum one

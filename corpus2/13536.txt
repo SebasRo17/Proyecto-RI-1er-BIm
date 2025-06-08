@@ -1,0 +1,1 @@
+Would it be useful to have experience in multiple programming languages/frameworks/stacks when applying for a software architect role? For example, combining experience in C#/.NET with Java/J2EE. How valuable would the above be, in this context?
