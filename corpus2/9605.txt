@@ -1,0 +1,1 @@
+There's a quotation by Alan J. Perlis that says: > There are two ways to write error-free programs; only the third one works. I recently heard this quote from my friend, and was unable to understand the deeper meaning behind it. What is Perlis talking about here?

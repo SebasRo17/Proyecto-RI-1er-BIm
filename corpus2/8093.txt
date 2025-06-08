@@ -1,0 +1,1 @@
+What are some somewhat common math formulas you learned that helped you write better algorithms and become a better programmer? Example: I learned about the ecludian distance formula: `sqrt((x1-x2)^2+(y1-y2)^2)` which helped me understand how to find like objects by comparing 2 factors.

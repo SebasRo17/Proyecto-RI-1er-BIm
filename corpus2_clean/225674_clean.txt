@@ -1,0 +1,1 @@
+see people declare object like map hashmap new hashmap list list new arraylist instead hashmap hashmap new hashmap arraylist list new arraylist preference define using interface rather implementation actually going used

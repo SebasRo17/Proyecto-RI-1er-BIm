@@ -1,0 +1,1 @@
+At first glance, I'd say a good programming team needs to understand the following matters:   * The details of the core language / framework   * HTML, (asynchronous) javascript   * SQL / data model   * Usability / UI design   * Security   * Project management. If this team is not complete: what is needed?

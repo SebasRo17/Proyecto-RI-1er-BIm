@@ -1,0 +1,1 @@
+came across enum definition typedef enum nsinteger num num num num num num num num num also possibly equivalent typedef enum nsinteger num num num num num internal difference advantage one one recommended handle phase reduced set instruction

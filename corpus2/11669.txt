@@ -1,0 +1,1 @@
+I saw some projects require BISON to generate C++ code. What is the advantage of having BISON/Yacc etc. generate C/C++ code instead of writing it yourself?

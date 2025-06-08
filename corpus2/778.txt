@@ -1,0 +1,1 @@
+What question have you found especially valuable in interviewing software developers? What is it about the question that has made it particularly useful? I'm looking for a particular question you like to ask, not just an interviewing approach like "make them write code".

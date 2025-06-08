@@ -1,0 +1,1 @@
+In my Programming Language Concepts class it was mentioned in passing that Fortran's original control structures were insufficient. It was alluded that they were too similar to machine instructions for the IBM 704. Was this the case? What exactly made them insufficient?

@@ -1,0 +1,1 @@
+When deciding whether to hire a new graduate, is it reasonable to expect them to have a software development portfolio, where they have produced at least something equivalent in complexity to a blog software?

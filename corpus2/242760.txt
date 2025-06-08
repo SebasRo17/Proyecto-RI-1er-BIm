@@ -1,0 +1,1 @@
+Say, for example I published my code under GPL. A month after release, I decide evil corporations (`*`cough`*`) are allowed to use my code after all, because it's so brilliant and bug-free. Can I just relicense my own code, or have I locked myself out of the right to do so?

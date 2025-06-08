@@ -1,0 +1,1 @@
+It's not meant to be subjective or get advice on what would be the best path to take, but an objective list of things that must be known in order for me to pick up a book on compiler theory and understand it. What level of mathematics, and related skills are required?

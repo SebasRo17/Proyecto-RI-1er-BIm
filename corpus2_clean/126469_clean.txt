@@ -1,0 +1,1 @@
+much familiar documenting system designing stuff maintain application written c working window service however documentation system make really pathetic find problem conceptually occurred would like know best way design document using current manually preferably automatically identify exact problem like feel sequence diagram much help probably also please guide taking wrong side

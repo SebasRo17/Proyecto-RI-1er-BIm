@@ -1,0 +1,1 @@
+I asked a question yesterday Should I Bother to Develop For JavaScript Disabled?. I think the consencus is: Yes, I should develop for JavaScript Disabled. Now I just want to understand why users disable JS. It seems many developers (I guess people who answered the questions are developers) disable JS. Why is that. Why do users disable JS? For security? Speed? or what?

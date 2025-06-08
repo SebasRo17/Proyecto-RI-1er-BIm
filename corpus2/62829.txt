@@ -1,0 +1,1 @@
+I have a big table with 1,400,000 rows, and I need to insert 3000 rows daily in it. When I insert 3000 rows daily should   * I first insert to a temporary table than dump that temporary table to the main table.   * insert directly to the big table. Which approach is fast and why?

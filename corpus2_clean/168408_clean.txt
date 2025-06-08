@@ -1,0 +1,1 @@
+look like import util scanner public public static argv scanner keyboard new scanner system byte q1 keyboard num give mismatch cannot convert byte would store literal operand small enough fit byte literal get stored variable register alu performs arithmetic operation

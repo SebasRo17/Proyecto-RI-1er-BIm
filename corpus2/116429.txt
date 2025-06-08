@@ -1,0 +1,1 @@
+I've read Steve McConnell's "Code Complete" and one of items in checklist for requirements is: "Is the definition of success included? Of failure?". Why is this important? Can you write any examples of those definitions? Can anybody provide examples of good requirements specification?

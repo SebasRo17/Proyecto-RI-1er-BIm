@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  How do you organize your projects folders? I'm interested to learn how everyone keeps their local development projects organized in a logical manner. What do you do to keep your dev projects organized in a manner that allows you to easily find things?

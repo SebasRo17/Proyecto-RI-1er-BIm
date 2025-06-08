@@ -1,0 +1,1 @@
+I'm currently doing my OCPJEA assignment. I have to draw several sequence diagrams for the use cases presented in the documentation. One of the use cases (A) state that after some interaction, the system executes another use case (B). I've already drawn the diagram for B, is there any way in UML2 to show inclusion, or do I have to duplicate all those interactions into A?

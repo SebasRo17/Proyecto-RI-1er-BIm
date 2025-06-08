@@ -1,0 +1,1 @@
+I just found a video online that shows files being dragged from a Mac to a PC and vice versa. I'm developing a backup and sync application, and I'd like to see if I could implement this. How is this accomplished? What libraries are available to do this, and what has been your experience with implementing this? Are there any gotchas to incorporating functionality like this?

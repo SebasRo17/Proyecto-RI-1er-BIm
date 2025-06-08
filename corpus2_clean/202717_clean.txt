@@ -1,0 +1,1 @@
+lately writing game engine writing lot foundation stuff standard interface module message system ect noticed pattern lot stuff interdependent everything done hence num num hour time wondering acceptable practice part project anyone give advice update downloaded metric tool program cyclomatic complexity num understand good correlate high cohesion wrong please correct

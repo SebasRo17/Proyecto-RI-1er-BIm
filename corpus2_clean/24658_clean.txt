@@ -1,0 +1,1 @@
+recently started learning clojure downloaded clojure box window came slime fiddling around clojure using repl mode starting learning many language repl available f haskell never used started clojure realized much help wondering many people use repl language available use reasoning use use testing learning language

@@ -1,0 +1,1 @@
+Can anyone explain in detail, how exactly the virtual table works & what pointers are associated when virtual functions are called. If they are actually slower, can you show the time that the virtual function takes to execute is more than normal class methods? It is easy to lose track of how/what is happening without seeing some code.

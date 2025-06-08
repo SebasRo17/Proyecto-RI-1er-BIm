@@ -1,0 +1,1 @@
+I am looking at how to justify changes to those who control budgets. For example if we have Enterprise Library 4 on some systems and the latest version is 5, is it worth upgrading? How do you justify it? Is it best to continually try to keep frameworks that systems use up to date. Or is it better to do a major lift every x years?

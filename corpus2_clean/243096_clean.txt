@@ -1,0 +1,1 @@
+using akka cqrs style still place entity everything go aggregate implemented actor object notice entity written mutable object side effect seem jive well actor based style

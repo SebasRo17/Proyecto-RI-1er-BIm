@@ -1,0 +1,1 @@
+writing private helper needed add check precondition would cause nothing met last line bottom editing area ide epic display laziness wrote check like precondition stuff opposed finding end block write traditional statement like precondition stuff made wonder reason avoid version favor stylistic difference assuming used way meant functionally equivalent

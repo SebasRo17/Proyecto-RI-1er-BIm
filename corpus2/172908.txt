@@ -1,0 +1,1 @@
+I have a site that will have lots of images of large size. What is the best format that I should choose for displaying these images? I need the website to load fast. I am jumbled with different formats of images like jpeg, png, gif, bmp, etc. Which to use in this case and why ?

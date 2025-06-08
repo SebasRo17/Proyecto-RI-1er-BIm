@@ -1,0 +1,1 @@
+would like make window desktop application using html5 javascript cs trying tidesdk xulrunner read documentation technology see export application exe package want write application html javascript export exe file

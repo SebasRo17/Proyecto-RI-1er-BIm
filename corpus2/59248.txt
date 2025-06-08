@@ -1,0 +1,1 @@
+Imagine a project where the interface to be delivered has been locked down 90%, and you are already in possession of a solid architectural design. Would an agile methodology still offer any value in this situation? It seems to me that agile methodologies (and I'm thinking Scrum), offer most value where there is a high degree of uncertainty about the requirements.

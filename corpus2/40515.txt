@@ -1,0 +1,1 @@
+Advice on being a lead developer is welcome. Advice on being a lead developer of an Objective-C team more so. Unfortunately, I don't have experience in Objective-C (I suppose the first thing to do is to learn it). Also, I've never been a lead developer before. I do have about 6 years experience in developing applications in Java, Flex and C#.

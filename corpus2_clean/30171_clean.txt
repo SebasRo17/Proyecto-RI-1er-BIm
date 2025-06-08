@@ -1,0 +1,1 @@
+begin writing application using intention porting platform little modification would wise consider using net framework instead specific target mind respect platform minimum window mac linux support would nice also ease use end user consideration

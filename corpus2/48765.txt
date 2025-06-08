@@ -1,0 +1,1 @@
+I'm working on a project which heavily uses OOP Design principles. But, one of my colleague tends to do everything in procedure oriented manner. I gets irritated by seeing procedure oriented code wrapped in a class and lose my temper. But, losing temper won't make anything better. I need some ideas, advices and tips on how to make people think in terms of objects.

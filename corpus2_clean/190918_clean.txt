@@ -1,0 +1,1 @@
+inheriting c user specify access specifier like base public mem1 protected mem2 derived1 private base mem1 private mem2 private derived2 protected base mem1 protected mem2 protected derived2 public base mem1 public mem2 protected possible e extends always like public inheritance c could someone explain reason

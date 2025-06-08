@@ -1,0 +1,1 @@
+* If I make a maven repository available for others to use, do I have to get permission form the authors of those software that I host in my repository even if they are free software?   * Can I host free software libraries under any license or should they have compatible licenses?

@@ -1,0 +1,1 @@
+read interesting article called getting cute c yield made wonder best way detect whether ienumerable actual enumerable collection state machine generated yield keyword example could modify article something like private ienumerable point point point list point foreach var point point point x num else throw question num better way question num something worry creating api

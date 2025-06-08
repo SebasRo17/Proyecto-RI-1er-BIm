@@ -1,0 +1,1 @@
+browsing open source project primarily developed linux system downloading latest package source always stored tar gz tar file reason using tar gz tar rather something like zip rar compression algorithm even leaving uncompressed project small enough

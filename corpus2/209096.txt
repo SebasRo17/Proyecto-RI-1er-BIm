@@ -1,0 +1,1 @@
+When developing login module for a web application, do you suggest to keep the username and password in a keystore? Lets assume the keystore was kept in a very safe place in web server.

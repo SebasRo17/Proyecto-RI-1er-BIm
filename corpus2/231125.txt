@@ -1,0 +1,1 @@
+I recently wrote a little CLI Hangman game in Python; it's not anything huge, but I did write it all myself. I would like to keep the program open and free (GPL ver.3), but it's so small I don't know if I need to/can license it. Is there a certain point where a program becomes "license-able", or can I license any program I write?

@@ -1,0 +1,1 @@
+constructor take lot parameter like public list count total page boolean hasnextpage boolean use separate take nothing constructor set parameter using setter pas constructor instead public pagination pattern p use

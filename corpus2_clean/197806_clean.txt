@@ -1,0 +1,1 @@
+trying learn node j create web application although best use node j create difficult time finding resource example describe process without using framework library specifically serve html cs content without using hard coded variable serving html cs file dynamically using node j

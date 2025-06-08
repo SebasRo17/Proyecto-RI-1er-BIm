@@ -1,0 +1,1 @@
+would like perform permutation test particularly large set e around num million entry basically need get number random permutation set usual way fisher yates shuffle pretty much limited period prng sequence longer around num solution randomly much larger sequence edit interesting related discussion random shuffle algorithm much limited rng

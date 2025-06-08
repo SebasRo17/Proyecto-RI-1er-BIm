@@ -1,0 +1,1 @@
+trying write massive online multiplayer client poker site one user flash client say io client iphone ipad would like know interaction two user visible client would better use use msmq ajax something need messaging layer client interaction message scale 100k online user begin word scalable technology use make game interaction online user visible game participant

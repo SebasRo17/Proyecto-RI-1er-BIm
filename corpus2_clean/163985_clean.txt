@@ -1,0 +1,1 @@
+seems lazy evaluation expression cause programmer lose control order executed trouble understanding would acceptable desired programmer paradigm used build predictable software work intended guarantee expression evaluated

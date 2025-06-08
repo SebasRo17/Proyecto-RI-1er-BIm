@@ -1,0 +1,1 @@
+To my knowledge, all modern imperative programming languages support recursion in the sense that a procedure can call itself. This was not always the case, but I cannot find any hard facts with a quick Google search. So my question is: Which languages did not support recursion right from the start and when was that support added?

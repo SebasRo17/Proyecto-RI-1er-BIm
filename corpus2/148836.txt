@@ -1,0 +1,1 @@
+I am preparing for a test and I can't find a clear answer on the question: What would be the impact of proving that PTIME=NPTIME. I checked wikipedia and it just mentioned that it would have "profound impact on maths,AI,algorithms.." etc. Anyone can give me an answer?

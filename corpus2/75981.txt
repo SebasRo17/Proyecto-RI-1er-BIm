@@ -1,0 +1,1 @@
+I work for a publishing company where we have to track converts, etc. Suffice to say we have tags for different areas of the world, and the list can get very large. We need to find a systemt that can give tag `A` to country `B` and so on, and I need to make it so my less technical gifted can manage it. Does anyone know of a good solution?

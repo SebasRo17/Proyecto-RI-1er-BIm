@@ -1,0 +1,1 @@
+I see the http parser written by Igor Sysoev for nginx does not use regular expressions https://github.com/joyent/http-parser What could be the main reason for such design decision? I guess I could write few regular expressions to parse HTTP req & res this would be a lot less complex than Igor's version of the parser. What am I missing here?

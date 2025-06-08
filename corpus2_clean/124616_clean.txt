@@ -1,0 +1,1 @@
+using strategy pattern good practice pas strategy strategy interface one call idea decides several possible action client perform call appropriate client concrete strategy might look like client client client else client client foo else client twiddle client call look like strategy good form better way passing back enum describing action value pas seemed overkill

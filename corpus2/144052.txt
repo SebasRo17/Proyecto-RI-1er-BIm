@@ -1,0 +1,1 @@
+I am the only person on my team that use TDD. How do I make them to use it? I am annoyed that when I pull, someone's code will break my tests and I am the one who has to fix them. Will using github, fork and pull request solve this problem, so that they need to pass the test before the pull is accepted? I am not the project manager and I can't seems to convince her to use it.

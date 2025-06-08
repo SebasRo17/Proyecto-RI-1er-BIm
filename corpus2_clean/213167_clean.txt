@@ -1,0 +1,1 @@
+every private apart form init str denote every double underscore deemed bad practice

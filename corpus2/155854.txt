@@ -1,0 +1,1 @@
+Is it possible to fetch commit messages from bitbucket via json or something so that a project manager can see what the changes are without having to look at the code. If it's possible can you give me some ideas on how to do it.

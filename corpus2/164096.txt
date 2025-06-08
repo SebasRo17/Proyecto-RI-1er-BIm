@@ -1,0 +1,1 @@
+What should I name a variable that has units with a fixed point?               int herpLimitLo_psig2 = 6000; // 60.00 psig     int derpLimitLoPsigwithtwodigits;     int herpLimitHiPsigfixedtwo;     int herpLimitHi_psig_timesOneHundred;      Apparently I suck at naming things.

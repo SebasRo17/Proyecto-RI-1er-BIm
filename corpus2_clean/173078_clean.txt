@@ -1,0 +1,1 @@
+certain function gsl gnu scientific library function take workspace environment argument example gsl poly dd taylor page easier allocate memory least difficulty suppose allows caller specify work see help

@@ -1,0 +1,1 @@
+book author using avro serialize processed pig understand need using serialization framework like avro use json serialization format way use serializer library language e g json clojure

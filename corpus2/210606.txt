@@ -1,0 +1,1 @@
+This question has been haunting me because I'm now reading Kernighan & Ritchie's: The C Programming Language (K&R) but I meet a lot, and I mean A LOT, of C programmers that have never read it. So, my question is: Is there an advantage to reading K&R? Should be a necessity?

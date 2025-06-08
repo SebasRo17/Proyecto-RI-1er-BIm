@@ -1,0 +1,1 @@
+Is cloud computing mature enough to alleviate some of the pains of maintaining the IT infrastructure on site? If so, what are some of the drawbacks of adopting it? Is security and privacy a big concern?

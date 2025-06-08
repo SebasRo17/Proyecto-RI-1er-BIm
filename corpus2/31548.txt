@@ -1,0 +1,1 @@
+Requirements:   * many different user experiences: website, mobile, etc.   * user management, registration, roles   * large amount of music metadata   * genome search that finds closest music   * public and private RESTful API for all functions   * massive server-side service scale

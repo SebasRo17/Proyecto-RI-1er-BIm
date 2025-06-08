@@ -1,0 +1,1 @@
+section entitled algorithmic implementation following rc low pas filter sample given sample time interval dt time constant rc lowpass real num n x real dt real rc var real num n var real dt rc dt num x num num n x num num mean

@@ -1,0 +1,1 @@
+choosealicense.com claims that the MIT license is “A permissive license that is short and to the point. It lets people do anything with your code **with proper attribution** and without warranty” (emphasis mine). Reading the license, though, I don’t see anything claiming that attribution to the original author has to be anywhere, so where are they taking that from?

@@ -1,0 +1,1 @@
+firefox chromium well implemented parser parser like lxml parser developed much effort put inventing wheel solving different problem parser browser made standalone library

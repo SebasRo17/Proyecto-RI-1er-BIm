@@ -1,0 +1,1 @@
+I've recently started learning C++, and I enjoy it a lot. I've often read it's easier to write bad code in C++ than in most languages, and that it is a lot deeper than what it seems. As I'd like to avoid writing bad code, I was wondering what exactly I shouldn't do, and what I should do, to write good code in C++.

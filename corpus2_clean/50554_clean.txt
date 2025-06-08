@@ -1,0 +1,1 @@
+today work one colleague reviewed suggested remove set property use insted busy stuff told look property design section framework design guideline book book writer asked avoid property setter accessibility getter wondering recommended set property anyone clarify please

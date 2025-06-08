@@ -1,0 +1,1 @@
+ok domain cross service boundary everyone recommend dto returned service creating simple crud application ok service method domain instead flat dto object save lot mapping related setup alternative approach

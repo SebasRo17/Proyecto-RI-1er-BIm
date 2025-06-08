@@ -1,0 +1,1 @@
+Today I was having a discussion with a colleague that ViewModel is a general concept and existed before MVVM pattern. I believe ViewModel term is used anytime you create a class with Model like properties for showing on View that supports data binding like in ASP.NET and even in WinForms. Is the opposite true? Did Microsoft name it the first time with MVVM?

@@ -1,0 +1,1 @@
+This is more of a conceptual question. I have learned about Neural Nets, and I have some clue as to how Support Vector Machines work. I read somewhere however that given the appropriate kernel (is that right?), the SVM is identical to the Neural Net. Could someone who understands this please enlighten me as to how that's possible?

@@ -1,0 +1,1 @@
+I am creating a basic game of space invaders. I am using a thread to animate the game and was wondering, how do I get the aliens the speed up going left and right without changing the speed of the ship you control below them? What is the easiest method? I am quite new to Java 2d and have only created two other more basic games.

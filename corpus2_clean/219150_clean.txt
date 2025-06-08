@@ -1,0 +1,1 @@
+using mvc pattern let say want create new add database better create new view boo boo new boo controller boo controller public boo boo new boo boo

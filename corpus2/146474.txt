@@ -1,0 +1,1 @@
+In this particular website, when you hover your mouse over a particular region, it displays something that is clickable. I know of tool tips, but in my experience, I have only used tool tips to show static text, not click able html text. http://www.cry.org/projects/projects.html What technology do you think is being used here? Also, is this a tool tip?

@@ -1,0 +1,1 @@
+aspect asp net mvc considered bad practice microsoft problematic asp net web form thing like viewstate automatically generated id name single form usage pattern like many time problematic claim reason less better mention aspect obstacle also finding problem intrinsically mean like solve therefore please also recommend way solve issue

@@ -1,0 +1,1 @@
+two class named share common functionality far seem like need polymorphic inheritance point considering following option num common functionality utility class call method utility num abstract implement common method abstract class derive abstract suggestion would best design decision

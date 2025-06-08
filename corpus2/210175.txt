@@ -1,0 +1,1 @@
+I am working on my first big(ger than before) project at my university which is coded under the Apache 2 License. So here is the question: Can I use copyrighted material/libraries (no restrictions and free to use) inside that project? I want to be specific: The library is flot (flotcharts.org) My guess is yes, but guesses do not count.

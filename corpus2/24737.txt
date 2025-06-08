@@ -1,0 +1,1 @@
+I'm just starting to get in to web development. I'm learning Rails at the moment. I have lots of experience with various programming languages. I've been searching for books to help me get started; I want to focus on writing clean, standards-compliant HTML and CSS. Does anyone know of any modern, standards-based resources I can use, particularly books? Thanks!

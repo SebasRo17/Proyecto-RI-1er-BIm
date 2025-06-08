@@ -1,0 +1,1 @@
+got mvc num site using form authentication setting cookie user log majority site require user logged though like whenever user first access site like update stored database table corresponding request isauthenticated want fire every page user access track user first access site global asax application start first request site website first load

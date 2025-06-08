@@ -1,0 +1,1 @@
+issue layout help button show every page mvc application way assign viewbag simple model without put every actionresult throughout application global public actionresult index var query db pageurl request firstordefault viewbag query layout html raw viewbag request track user depending page database queried return result home index

@@ -1,0 +1,1 @@
+One of my colleagues likes to use automatic code generators, which create large amounts of code that is poorly documented and very hard to maintain. Is the cost of using a code generator worth the hassle in maintenance, for the reduced time to creation?

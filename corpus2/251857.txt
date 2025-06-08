@@ -1,0 +1,1 @@
+I am trying to learn the theory of node.js but can't seem to figure out how node.js knows whether to pre process it on the server or send it to browser for execution.

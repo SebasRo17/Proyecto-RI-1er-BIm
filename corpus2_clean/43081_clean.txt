@@ -1,0 +1,1 @@
+know basic stuff like bean jsp servlet jsf stuff work together know make basic jsp page database query example need know best path learn stuff plan learn order num jsp including persistance jstl num servlets bean num jsf num jump framework hibernate strut spring etc also exactly sure jsf must make great page convenience know

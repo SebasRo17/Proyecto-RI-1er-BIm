@@ -1,0 +1,1 @@
+trying write program take screenshot workspace display together create effect currently using gtk take screenshot active workspace using get default root window get drawable currently found taking screenshot inactive workspace switch take screenshot switch back make screen flash question way capturing workspace without flashing screen

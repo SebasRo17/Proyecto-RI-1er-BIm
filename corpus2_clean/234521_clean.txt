@@ -1,0 +1,1 @@
+use community edition like many sql application put num result limit query limit provided wondering mysql explicit limit option come writing query sure developer end sticking large limit end within reason get full display view record table providing record table sensible like able select course limit instead select course limit num

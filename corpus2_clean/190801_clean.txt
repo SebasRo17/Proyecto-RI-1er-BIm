@@ -1,0 +1,1 @@
+reading interesting blog post singleton design pattern widely used stupid quora post anti pattern widely used even framework e g spring framework make class available dependency injection singleton class adding prototype optional

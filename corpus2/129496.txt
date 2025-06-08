@@ -1,0 +1,1 @@
+I've taken an interest in writing life-based simulations in C. I've been trying to find resources online and books, but haven't found anything. Is there a book out there that's the de-facto standard for describing best practices, design methodologies, and other helpful information on simulation programming? What about that book makes it special?

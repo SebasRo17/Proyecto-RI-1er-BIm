@@ -1,0 +1,1 @@
+learning polymorphism commonly see something like base prv member virtual fn derived base virtual fn downcasting derived base ptr upcast downcast call upcast going away base something specific people told downcast going hierarchy something specific top root people seem call call converting base ptr derived ptr called downcasting someone link official source explain called great

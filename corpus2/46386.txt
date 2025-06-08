@@ -1,0 +1,1 @@
+Is the code written in Japanese? Are filenames in English? What about like a C preprocessor? Is that still in English? Are comments in Japanese? Examples would be nice too.

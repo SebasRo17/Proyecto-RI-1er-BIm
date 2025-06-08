@@ -1,0 +1,1 @@
+I was following this highly voted question on possible violation of Liskov Substitution principle. I know what the Liskov Substitution principle is, but what is still not clear in my mind is what might go wrong if I as a developer do not think about the principle while writing object-oriented code.

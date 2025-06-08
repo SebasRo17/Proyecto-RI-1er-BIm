@@ -1,0 +1,1 @@
+I've been reading up on/learning C for a week or two and was wondering if anybody could recommend some extremely well documented open-source projects I could study? Things like sourceforge are great and so on, but there's a great deal of things I don't understand about most of the projects on there and could do with a bit more hand-holding to begin with. Suggestions?

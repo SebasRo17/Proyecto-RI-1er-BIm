@@ -1,0 +1,1 @@
+two common single responsibility principle srp module responsible single feature functionality system module one reason change question something absolutely strive every system relaxed combine lower level module compose abstract module extreme case top level module system responsible entire gamut system function look like may possible respect srp kind module

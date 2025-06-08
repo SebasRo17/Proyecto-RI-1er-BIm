@@ -1,0 +1,1 @@
+I teach some beginners the fundamentals of Java these days and they need to see the output for their small programs such as Hello world, etc. I need basic editor that contains code highlighting and contains the compiler with it so they can quickly run and see the result of their programs. What would you recommend?

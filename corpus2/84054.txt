@@ -1,0 +1,1 @@
+What is the difference between .net and asp.net? Which role does PHP more closely fill? If someone was developing a website using asp.net and C#, how would you communicate that idea to a colleague, i.e. what's the language you would use?

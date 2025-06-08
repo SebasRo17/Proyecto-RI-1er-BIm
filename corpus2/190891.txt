@@ -1,0 +1,1 @@
+Although Joda is feature rich and more sophisticated than standard Java time, it may not always be the best thing to use. How do I decide if I should use Joda Time or Java Time in any Java code? Is there some kind of guideline which tells us how to pick the right one depending on our requirements?

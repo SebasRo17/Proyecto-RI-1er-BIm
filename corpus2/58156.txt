@@ -1,0 +1,1 @@
+My question is that we have a completely ajax based website: http://news.swalif.com/. Now we want to get all the 'pages' crawled by Google and other search engines, but we do not want to move to a PHP based solution or make an archive. I would like to get any ideas on how it could be possible.

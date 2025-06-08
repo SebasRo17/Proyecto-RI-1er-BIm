@@ -1,0 +1,1 @@
+When you're discussing a system or a code base, when you use the adjectives 'brittle' or 'fragile' to describe it, what's the difference between those two terms?

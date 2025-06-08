@@ -1,0 +1,1 @@
+What has changed with regards to the design patterns? Do both use the same development techniques? If I'm faced with the option of learning `Windows Phone 7` vs `Windows Phone 8` will learning windows phone 7 will qualify me for directly start development for windows phone 8?

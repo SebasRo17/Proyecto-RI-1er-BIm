@@ -1,0 +1,1 @@
+today learned eager boolean evaluation following example bar evaluated even foo foo bar answer example first num second j num something use case would want reuse result would rather write like first num second j num first second something another use case would bar side effect executed regardless foo question good would indicate smell

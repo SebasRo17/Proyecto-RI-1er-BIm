@@ -1,0 +1,1 @@
+difference design pattern strategy monolith actually anti pattern

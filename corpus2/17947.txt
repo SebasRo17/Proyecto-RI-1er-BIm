@@ -1,0 +1,1 @@
+1) Up-time   2) Latency   3) Throughput   4) Server software such as SQL, etc.   5) $$$ -- transfer, overages, etc. What else? And is there a web site rating hosts by this criteria that is actually reliable and not simply a dishonest advertising site... or do you guys have any recommendations? (BTW, someone with 150+ rep should create "hosting" and "web hosting" tags.)

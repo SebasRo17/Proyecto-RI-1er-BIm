@@ -1,0 +1,1 @@
+I want to understand the architecture of web apps that use subdomains. I don't think that I'm phrasing this well, so let me explain. Many web apps, like tumblr or shopify create a user's site on a subdomain. Say for example my tumblr account was `johndoe` then you could find my tumblr blog at `johndoe.tumblr.com`. Can someone explain how this is implemented?

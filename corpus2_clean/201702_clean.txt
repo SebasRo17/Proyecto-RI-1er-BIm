@@ -1,0 +1,1 @@
+make num base generic something else two class link get set b b link get set upd public root get set public avlnode root get set public parent get set public left get set public right get set public key get set avlnode public avlnode parent get set public avlnode left get set public avlnode right get set public key get set public height get set finally want get something like

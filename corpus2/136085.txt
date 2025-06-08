@@ -1,0 +1,1 @@
+I'm wondering, is music notation language Turing-Complete? My first thought is that there are loops in musical notation, but there is no way to write conditional branches, right? I'm not a musician, so perhaps someone can help fill in the gaps?

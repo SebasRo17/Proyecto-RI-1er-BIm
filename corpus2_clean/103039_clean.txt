@@ -1,0 +1,1 @@
+language exemple introduced low pause gc gc work without pausing whole world obviously quite hard problem require analyze memory thread modifying resulting used begining process anymore finish appears reference moved memory never appeared gc looking basically algorithm behind research paper really technical article link would considered valid answer topic really technical

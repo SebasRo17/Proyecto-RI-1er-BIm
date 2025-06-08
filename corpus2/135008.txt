@@ -1,0 +1,1 @@
+What is the difference between               public delegate void SecondChangedHandler(Object clock, TimeInfoEventArgs ti);     public event SecondChangedHandler OnSecondChanged;      and               public event EventHandler<TimeInfoEventArgs> OnSecondChanged;      When should you use which and is there any best practice?

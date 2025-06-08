@@ -1,0 +1,1 @@
+I would like to learn more about robotic mobile, could anyone recommend some easy and stable one? **EDIT** If possible in C, C++ or Java as programming languages. It could run in linux or windows.

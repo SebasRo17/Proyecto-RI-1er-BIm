@@ -1,0 +1,1 @@
+I am creating a website, where users can upload their own videos. So far I am just building the main structure with HTML and CSS. Is it a better practice to write server-side code _before_ the site layout is finished? Does it not make a difference?

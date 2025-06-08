@@ -1,0 +1,1 @@
+developing asp net website used cs property word wrap visual studio num showing warning validation cs num word wrap known cs property tested website working fine however issue using property ignoring warning

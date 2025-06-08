@@ -1,0 +1,1 @@
+concept oop intimately tied allocating object heap possible write normal oop without creating excessive object heap

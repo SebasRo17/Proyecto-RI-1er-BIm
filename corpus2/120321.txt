@@ -1,0 +1,1 @@
+I had a very stimulating and interessting discussion with a colleague about ORM and its pros and cons. In my opinion, an ORM is useful only in the rarest cases. At least in my experience. But I don't want to list my own arguments at this time. So I ask you, what do you think about ORM? What are the pros and the cons?

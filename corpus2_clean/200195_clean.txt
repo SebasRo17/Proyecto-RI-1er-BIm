@@ -1,0 +1,1 @@
+say model written php whose property column table db instance model represents row table also page view display content column one row time starting first row id num display two button one clicked display content next row display content previous row want change display occur without reloading page going new page question simply would need use ajax

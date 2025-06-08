@@ -1,0 +1,1 @@
+I need to accept text and photo data from an iPhone app. Normally I would write a web service or a windows service with WCF for client server connections. I'm not familiar with iPhone apps, what is a good way to handle the communication layer to use for iPhone to windows service?

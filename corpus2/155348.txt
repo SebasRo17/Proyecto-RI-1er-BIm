@@ -1,0 +1,1 @@
+With all the controversy surrounding scheme r6rs, I stuck with r5rs and I am wondering why the designers decided to not implement a module system. How does one organize code in this?

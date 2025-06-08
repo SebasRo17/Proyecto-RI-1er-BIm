@@ -1,0 +1,1 @@
+.NET 1.1. IE6. Java 1.1. All of these are old ancient versions of software that still for some reason exist in organizations that are too scared to upgrade, don't like change, or follow the "If its not broken, don't fix it" principle. But when do you drop support for such old versions of software? What determines when a platform is too old?

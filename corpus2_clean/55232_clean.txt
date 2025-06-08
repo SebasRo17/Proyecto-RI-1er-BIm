@@ -1,0 +1,1 @@
+question go would one overload use operator use thought bitwise ands base type float decimal using logical short circuit bools function bool using operator usually cant think class use operator absolutely none know might support combine two string together seen datetime overload two date subtracted make timespan obviously cant add two date never seen used anyone know use language

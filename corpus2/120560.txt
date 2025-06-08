@@ -1,0 +1,1 @@
+What are the things that Java (the language and platform) got categorically right? In other words, what things are more recent programming languages preserving and carrying forward? Some easy answer are: garbage collection, a VM, lack of pointers, classloaders, reflection(?) What about language based answers? Please don't list the things Java did wrong, just right.

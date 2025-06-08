@@ -1,0 +1,1 @@
+need make somewhat custom change request system high auditing requirement instead completely reinventing wheel wondering open source change request system considered decent could write custom module done searching one found seem encapsulate change request system way recording test plan work stream experience change request system store test plan technical spec log work

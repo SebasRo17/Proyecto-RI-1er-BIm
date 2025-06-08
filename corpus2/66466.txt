@@ -1,0 +1,1 @@
+this is a general question about programming, I hate using other people's code and I find myself coding things in my own way, even the simplest things like a web template, a PHP calendar, or a news module. Is there anything wrong with that ? Should I change and get in the habit of re-using other people's free code.

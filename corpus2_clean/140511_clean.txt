@@ -1,0 +1,1 @@
+single root node num n ordered sub node key represent distinct set path two tree merged share common root need support minimum insert merge enumerate path tree cat cow dog drink jump bark milk path would cat drink milk cow jump cow dog bark bit like trie

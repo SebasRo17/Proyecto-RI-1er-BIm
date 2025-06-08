@@ -1,0 +1,1 @@
+My boss has offered me a 25% share, in exchange on more input from my side, of a website ( a crawling engine in php and a front end using ajax ) I developed for him. What are the things I should consider in writing the contract so that my share is future proof?

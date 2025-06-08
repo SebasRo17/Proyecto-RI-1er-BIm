@@ -1,0 +1,1 @@
+I am trying to show some information from a [TestMethod] method. Usually we use NUnit and a line with Console.WriteLine runs fine and we can see it in 'output' window, but on this project we must to use Testing tools embebed with VS2010 and Console.WriteLine doesn't run because we cannot see anything.

@@ -1,0 +1,1 @@
+different version naming convention suited different project use personally prefer build number hexadecimal e g incremented regularly customer simple num digit version number e num num num num build number correspond revision source control minor bug spelling mistake etc minor feature major bug fix etc major version ux change file format change etc

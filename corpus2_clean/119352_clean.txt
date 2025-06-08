@@ -1,0 +1,1 @@
+interested whether activerecord pattern made famous ruby rail encourages discourages use solid design principle example seems activerecord object contain domain logic persistence logic violation single responsibility

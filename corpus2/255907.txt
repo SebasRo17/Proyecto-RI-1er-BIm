@@ -1,0 +1,1 @@
+The problem in extracting schema from any given data is that they can have other JSON objects embedded in them which in turn have others. Also the types of the values in the name-value pair have to be recognized. How can it be done effectively in Java?

@@ -1,0 +1,1 @@
+Question: **Why might RMI be a sensible option for communication between client and server in a web application?** _So why would RMI be used for communication between client and server in web apps?_

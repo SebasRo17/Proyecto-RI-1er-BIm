@@ -1,0 +1,1 @@
+seems like used coding language part num kent beck book test driven development read first part book started appreciating tdd first part easy understand example language worked prepare go reading second part book provide plan write testing framework skip entirely go third section

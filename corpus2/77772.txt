@@ -1,0 +1,1 @@
+I'v been working on sorting for a while now but I can't figure these two questions apart, I'm kind of getting mixed up somewhere ... Somebody help a) Which sorting algorithms have a different worst case complexity than their average case? b) Which sorting algorithms have a different best case complexity than their average case?

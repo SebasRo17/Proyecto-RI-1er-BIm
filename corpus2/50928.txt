@@ -1,0 +1,1 @@
+How do people deal with profanity in source code and VCS comments. Keep or delete? What about soft-expletives like WTF or Arrgggh? Is unprofessional, offensive or something to be shrugged off?

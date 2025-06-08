@@ -1,0 +1,1 @@
+scheme defined define f lambda b c define l list b c argument destructuring mean argument evaluate first destructuring part f l reason expression equal following apply f l edited make clearer according suggestion comment

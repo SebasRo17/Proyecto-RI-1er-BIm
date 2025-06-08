@@ -1,0 +1,1 @@
+trying understand difference two according wikipedia page multiple dispatch synonymous overloading later go say language single dispatch seems like contradiction since support overloading multiple dispatch different overloading article wrong claiming support dispatch

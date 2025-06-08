@@ -1,0 +1,1 @@
+following following member public loginpage idisposable private readonly static private readonly navigator private readonly private readonly private readonly public view loginpage page navigator base view page successfully able bind readonly member ioc container ninject case except static know approach choose could apply ioc value able mock unit testing

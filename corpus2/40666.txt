@@ -1,0 +1,1 @@
+I have programmed in Java, PHP, C# and a little bit in C in an OS course I have taken recently in college. For all of these languages, I've found decent documentation except C. I couldn't find a good source for it. Any thoughts ?

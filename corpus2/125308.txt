@@ -1,0 +1,1 @@
+Hibernate has CR postfix in their releases for the 4.0 version of hibernate, for example 4.0.0.CR7. What does the CR part mean? When would I use this kind of release numbering?

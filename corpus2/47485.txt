@@ -1,0 +1,1 @@
+Are there any credible sources of information on the adoption of agile techniques like automated testing, continuous integration and refactoring? Of those that are using unit testing, how many follow test first or test driven development. I'm trying to determine how widespread these practices are.

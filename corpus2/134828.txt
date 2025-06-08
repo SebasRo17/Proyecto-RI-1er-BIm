@@ -1,0 +1,1 @@
+I have to measure execution time for a blocks of code. I had implemented simple `StopWatch` class like http://www.goldb.org/stopwatchjava.html. If I will invoke methods of `StopWatch` class directly between business logic then my source code became unreadable and unclean. What design pattern can be useful in my situation to keep code readable and clean?

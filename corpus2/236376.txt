@@ -1,0 +1,1 @@
+I have singleton in Java and I have realized, that I could make its fields static and it would work same way as regular instance fields. Would there be a performance / optimization difference? If so, what would turned out better? Is there a preferred way to implement singleton fields? (again, I am talking fields, not methods)

@@ -1,0 +1,1 @@
+What is the difference between stream-based Input and Channel-Based Input? The java API provides both stream-based in "java.io" package and channel-based in "java.nio" package. Which one of the two is better in performance and reduced run-time errors?

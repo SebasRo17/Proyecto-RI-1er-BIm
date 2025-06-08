@@ -1,0 +1,1 @@
+I have found an open source library that can work fine with my project, but I have noted that It's not frequently updated and I'm afraid of not having the necessary support. Is the frequency of updates a proper criterion for choosing an open source library rather than another?

@@ -1,0 +1,1 @@
+In this book, the author is using avro to serialize data before it is being processed by pig. What I don't understand is, why we need to do it using a serialization framework like avro? Why don't we just use json as the serialization data format? This way we can just use serializer/deserializer library in a language e.g. `data.json` in clojure.

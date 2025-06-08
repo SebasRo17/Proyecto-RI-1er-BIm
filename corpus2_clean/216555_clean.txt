@@ -1,0 +1,1 @@
+writing grail application sure best practice regard comment outside block done bit research seems conflicting view sort comment used lot source seen seems comment every detailing sure grail question comment controller service domain object e display index page def index render view index

@@ -1,0 +1,1 @@
+I have three entities :               Technician     Vehicle     Repair      The question is how to model this in ERD? Knowing that a technician can repair multiple cars, and the same car can be repaired by one and only one technician? How should the repair entity tied to all this?

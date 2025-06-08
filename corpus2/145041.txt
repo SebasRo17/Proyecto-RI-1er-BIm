@@ -1,0 +1,1 @@
+How to decide if have to take the `<<access>>` or `<<use>>` notation for "-->" arrows in Component diagrams written in UML?

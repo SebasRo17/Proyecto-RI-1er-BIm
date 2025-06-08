@@ -1,0 +1,1 @@
+Where should you manage a users session in a SOA? Should you manage it in the Web Service or in the client and why? My application is SPA (Considering that this will be the stacked that will be used Apache CXF for Web Services AngularJS for making REST calls)

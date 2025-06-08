@@ -1,0 +1,1 @@
+What are the common terminology used to schedule software update and support. For example, I really have no clue how releases and updates differ, how often are updates released (not everyday I hope)? Most importantly communicating stuff like milestone (what is this mean?), roadmaps, basically I want to know how I can offer support to end users by using industry terminology.

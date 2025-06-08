@@ -1,0 +1,1 @@
+internship big technology new area question use nosql big architecture need always use distributed storage like hdfs case hadoop put top nosql database like hbase find difficult understand typical big architecture specially unstructured help see better thankful

@@ -1,0 +1,1 @@
+Let's say I have a database-driven web application written in PHP. After obfuscating the code with PHP protect it will be copied to a web hosting server. And here is the question. What is the workflow of a programmer when there is a bug in an application and he needs to edit the PHP code to repair it? It's clear, that he can't debug (and edit) directly the obfuscated code.

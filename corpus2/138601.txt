@@ -1,0 +1,1 @@
+I am curious as to what technology is needed to create a service such as stageit.com and livestream.com. What hardware and software is involved, besides a camera and microphone, from the broadcaster's computer to a viewer's computer?

@@ -1,0 +1,1 @@
+currently working mvc num web app project need display lot information front page relatively new web page layout design hit wall term structure behind page first thought split page many partial possible view model smaller easier manage although sure correct way going try fit need page one view model display information need question split page lot small partial make one big page

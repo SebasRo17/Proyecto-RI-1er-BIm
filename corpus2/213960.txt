@@ -1,0 +1,1 @@
+I'm developing a product related to printing. To work it properly in all windows versions I need to include few exe (lpr.exe) files from system32 folder. So I need to know it is legal to distribute these exe file with my product.

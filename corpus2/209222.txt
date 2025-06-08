@@ -1,0 +1,1 @@
+The C++ language allows intermixing of both C++ and C in one source file. For example,               extern "C" {         struct bar { /* ... */ }     }      Does C++ or has it ever supported any other "linkage languages" other than C? e.g. `extern "Pascal"` or `extern "Haskell"`

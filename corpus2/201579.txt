@@ -1,0 +1,1 @@
+I have a Java program that takes about an hour to run. While it is running, if I change the source code and recompile it, will this affect the above run?

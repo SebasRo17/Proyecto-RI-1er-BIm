@@ -1,0 +1,1 @@
+let say building site similar quora arbitrary blog like site need real time component using web socket long polling notify user new post question etc depending page user viewing real time component essentially site api implemented something like twisted nio site web server sitting front say flask pyramid api webpage served component best keep separate asking logically physically

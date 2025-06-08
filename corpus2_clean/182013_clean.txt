@@ -1,0 +1,1 @@
+writing unit test library written qt c library rather big lot functionality separate unittest folder unittest cpp test case unit test file make one big cpp file wondering best approach unit test huge library different unittest cpp file different folder like one every every space

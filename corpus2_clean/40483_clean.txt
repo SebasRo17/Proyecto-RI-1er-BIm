@@ -1,0 +1,1 @@
+goal define contract class like duck typing like also define interface different layer application clearly define call external accessory method used layer example define interface method like get save define method need persist database maybe another method saving remote asking interface ruby know neat way keep distinction like ruby worked small project

@@ -1,0 +1,1 @@
+I have done this static code analysis with Code Analyzer. Is it a green signal or should I improve my coding standards? ![enter image description here](http://i.stack.imgur.com/UVXFb.jpg)

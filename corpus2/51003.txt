@@ -1,0 +1,1 @@
+I'm a front and backend .NET web developer (most solutions use MS SQL Server) and I won't be using any non-MS solutions for a while. Will Perl be useful for situations that require scripting in an MS product environment?

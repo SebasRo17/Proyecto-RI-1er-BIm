@@ -1,0 +1,1 @@
+making functionality register command subsystem want know also want contain like think make additional example player command func action readonly player player inject public override visit builder builder getname player need use reflection find subclass good idea suggest better way

@@ -1,0 +1,1 @@
+Are symbolic programming and metaprogramming the same thing? I've always read about symbolic programming while using Mathematica, but I've never searched about it's meaning, I've searched about it today and I found that both concepts are similar, are there any differences?

@@ -1,0 +1,1 @@
+From MSDN... > The access level for class members and struct members, including nested > classes and structs, is private by default. If class members are private by default then why use the private access modifier for them? I see it all the time in code examples and open source projects including the ASP.NET MVC source. I even use it in my own projects but I'm left wondering why.

@@ -1,0 +1,1 @@
+I am in need of an estimation technique to verify if the source code delivered is appropriate. for example, if the vendor has developed an application and is surrendering the source code, me as a consultant to the client, need to verify if the source code delivered is genuine and appropriate. Question is how to verify and how much to charge for this service?

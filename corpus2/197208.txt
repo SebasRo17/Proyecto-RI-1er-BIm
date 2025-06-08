@@ -1,0 +1,1 @@
+Given that we do not know the encoding of a string what is the best way to make sure that it is transformed to say ASCII? Also in such situations we are willing to accept potential loss of data.

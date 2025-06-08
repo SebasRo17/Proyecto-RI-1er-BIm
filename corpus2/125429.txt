@@ -1,0 +1,1 @@
+In a meeting the other day a claim was made that agile was only 60% as efficient in development time when compared to waterfall. I am not looking to validate or refute this claim. I am interesting in finding out if there have been any studies comparing the 2 methodologies. Are there any studies out there comparing the two?

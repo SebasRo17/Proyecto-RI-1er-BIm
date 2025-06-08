@@ -1,0 +1,1 @@
+In a debate with Andrew Tanenbaum over microkernel vs. monolithic operating system architecture, Linus Torvalds said, > Portability is for people who cannot write new programs. What did he mean by that?

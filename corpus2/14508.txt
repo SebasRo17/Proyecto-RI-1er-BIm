@@ -1,0 +1,1 @@
+I love the LinqPad not just for the Linq, but also for the various types of simple compile options it provides like single expression, statements and programs for C# and VB. Anyone knows something similar to this for C/C++?

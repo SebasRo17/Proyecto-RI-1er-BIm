@@ -1,0 +1,1 @@
+![enter image description here](http://i.stack.imgur.com/3ZXno.jpg) What language, if any, is used in this book? My school is currently using a terrible book for the algorithms course that I have to take next year and I'd like to convince the department head that Introduction to Algorithms by Cormen is a much, much better book.

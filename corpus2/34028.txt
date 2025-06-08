@@ -1,0 +1,1 @@
+What kind of problems arise from installing a new program while other programs are running? I'd imagine the GAC solved a lot of the old problems of shared dll's being locked. So what kind of issues still arise? I can see issues with upgrading a single program for sure, but outside of this its hard to see why apps would stomp on eachother's toe's.

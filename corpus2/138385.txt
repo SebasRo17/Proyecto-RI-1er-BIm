@@ -1,0 +1,1 @@
+I am quite new to source control and would like to know the differences between committing and patching? Also, how/when a patch is use and can it be used on a web application?

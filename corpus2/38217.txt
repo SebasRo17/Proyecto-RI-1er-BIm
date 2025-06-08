@@ -1,0 +1,1 @@
+When tasks take longer than expected, why is it better to defer items during a sprint than to just defer everything you didn't finish on the last day of the sprint?

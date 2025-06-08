@@ -1,0 +1,1 @@
+There are two types of color mixing: Additive and Subtractive. http://en.wikipedia.org/wiki/Color_mixing Is is possible that color mixing model be done in XOR?

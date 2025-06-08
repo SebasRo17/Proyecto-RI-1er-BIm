@@ -1,0 +1,1 @@
+far know apache solr lucene project web app used rich text searching wanted know use mysql rich text searching use solr thing performed using db

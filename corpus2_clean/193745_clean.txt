@@ -1,0 +1,1 @@
+two system b running lan intranet directly connected router middle case system sends udp packet every millisecond system b possible system b receives packet different order please note asking whether use tcp udp interested whether scenario packet order aware udp packet guaranteed arrive order

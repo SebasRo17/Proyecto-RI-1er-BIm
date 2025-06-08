@@ -1,0 +1,1 @@
+First heard about it from Google Tech Talks, back 2009 when it was called Silver Bullet: http://www.youtube.com/watch?v=LpfmKIxusZY It's now called, Chronon... http://chrononsystems.com/ "Sounds" nice, have you tried Chronon the Java "Time Travelling Debugger" -- if so, is it worth trying and why?

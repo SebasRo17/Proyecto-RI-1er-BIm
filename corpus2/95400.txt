@@ -1,0 +1,1 @@
+Does this depend heavily on the type of project (e.g. scientific software vs banking system vs game)? If so, in which areas is the difference the highest and lowest? In your experience, is it safe to say that as a rule, the time it takes to run unit tests is at least one order of magnitude larger than that of building the software in the first place?

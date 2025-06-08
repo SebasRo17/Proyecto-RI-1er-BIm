@@ -1,0 +1,1 @@
+I need to program an expert system that, according to a series of complex possibilities, returns a well defined result, together with some kind of diagnostic of what that results means. What is the general process to define the behavior of an expert system, from the initial assessment of the conditions to the actual code ?

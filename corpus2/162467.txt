@@ -1,0 +1,1 @@
+Is it Ok if Domain Object cross Service-Boundary? Everyone recommend that only DTO should be returned by Services. I am creating simple CRUD application. Is it ok if my service methods return Domain object instead of flat DTO objects. It will save me from lots of mapping related setup. Is there any alternative approach?

@@ -1,0 +1,1 @@
+read spring doc inclination towards using xml config file rather annotation class reasoning avoid tying pojos particular framework based experience spring advantage xml configuration annotation based configuration disadvantage

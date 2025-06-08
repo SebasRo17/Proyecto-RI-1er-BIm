@@ -1,0 +1,1 @@
+client know send request server confirmation box result ok stay page cancelled also mechanism different asp net asp net mvc want know internal working user click ok cancel happens internally browser come know proceed server call close nothing researched far tell web form page page isvalid property somehow responsible browser determine outcome correct also happens mvc

@@ -1,0 +1,1 @@
+We're hiring a QA person and I am supposed to come up with some interview questions. The truth is, I don't know much about what a good QA engineer should know, much less what good interview questions might involve. Does anyone have suggestions? Some information: The environment is two separate (but intertwined) web applications for the Microsoft stack (ASP.NET, SQL Server, IIS).

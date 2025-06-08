@@ -1,0 +1,1 @@
+simple application deployed scheduled job pseudo get xml database report report num tostring generate xml file using post file sftp site wondering include logging functionality job also suffice use text writer write text file every time use library log4net edit able log execution job like start time info etc self

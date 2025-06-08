@@ -1,0 +1,1 @@
+want add logging application currently working added logging issue design perspective oriented language best practice logging follow oop pattern note currently c example c obviously welcome would also like see example ruby edit using log4net know best way plug

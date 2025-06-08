@@ -1,0 +1,1 @@
+We've had a long living product for about 8 years now. Over time, the names of concepts and entities change. Should we put the work in to rename all the code base and database tables and columns to match these new names? Is there a study made on this or some best practices published? Thanks

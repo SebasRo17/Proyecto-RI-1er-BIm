@@ -1,0 +1,1 @@
+This is a general topic, **How do Event Handlers work?** This means behind the scenes - what happens when they are created. I have a rough idea - but would like to have it confirmed.

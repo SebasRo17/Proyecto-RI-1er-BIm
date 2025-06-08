@@ -1,0 +1,1 @@
+hearing using dependency injection singleton colleague still make two orthogonal pattern replaced one another di make singleton pattern testable please take look following snippet obj singleton instance new obj num num accepting parameter instead accessing singleton internally get singleton instance passed caller good example consuming singleton via dependency injection

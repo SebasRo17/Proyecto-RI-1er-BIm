@@ -1,0 +1,1 @@
+Where waterfall commonly includes:   1. Requirements   2. Functional design   3. Technical design   4. Build   5. Test   6. Review   7. (Deploy) And iterations across this list. If I forgot a step, let me know.

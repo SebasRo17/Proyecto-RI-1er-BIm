@@ -1,0 +1,1 @@
+currently developing multi branch retail software branch set item however one stock quantity question best practice apply branch quantity control item currently thinking following design item table id description branch table id description branch quantity table id itemid fk item table branchid fk branch table quantity contains quantity specific item good design suggestion

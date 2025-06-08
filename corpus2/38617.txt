@@ -1,0 +1,1 @@
+Back in the uni days, I had the opportunity to study C for one semester but I didn't take it any further because I can not see many job opportunities for C hence I learnt Java. These days I see more things are made with C, mainly programming language and database server. Is it still relevant to learn C? Will learning C land me a job these days?

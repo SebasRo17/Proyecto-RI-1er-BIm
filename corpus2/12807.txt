@@ -1,0 +1,1 @@
+There is a colleague of mine who constantly writes:               if (someBool == true)      It drives me up the wall! Should I make a big deal of it or just drop it?

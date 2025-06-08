@@ -1,0 +1,1 @@
+For as long as I've programmed, I've never really been entirely satisfied with any projects that I've finished. Sure, they do what I've set out to do, but there has always been _something_ in the code that I, in retrospect, would have done differently but can't be bothered to refactor. Is this just me, or is it a common programming trait?

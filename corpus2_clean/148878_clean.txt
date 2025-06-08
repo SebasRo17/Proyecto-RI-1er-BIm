@@ -1,0 +1,1 @@
+often want unit test applied multiple item roughly equivalent two non empty string currently implement multiple unit test method name like bit smell better multiple item one multiple asserts another design pattern model accurately

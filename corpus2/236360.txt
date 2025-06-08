@@ -1,0 +1,1 @@
+I was asked this question in an interview. After installation of programs on windows OS,some program need the system to be restarted while others not. What is the reason behind this? I googled but didn't get satisfactory answer. Thanks in advance.

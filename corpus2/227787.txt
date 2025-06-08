@@ -1,0 +1,1 @@
+I'm writing an app and referring to some open source, source code (copyleft licensed.) I am not using the original source code because it's for a completely different operating system using a different language, and as far as I am aware, no-one has ported that source into the language I am using nor my target operating system. Am I still covered by the original copyleft license?

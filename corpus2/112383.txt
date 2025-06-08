@@ -1,0 +1,1 @@
+In the book "Hard Code" by Eric Brechner, he states, > Lying is one of a handful of valuable process canaries that can warn you of > trouble. I've heard a dev or two toss around the old "canary". What is it? [Google didn't answer it for me. Perhaps my keywords were a poor choice.]

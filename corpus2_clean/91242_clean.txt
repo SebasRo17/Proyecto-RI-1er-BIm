@@ -1,0 +1,1 @@
+generally include javascript file using script tag script text javascript src somefile j script seen people using language attribute well day find many people omitting attribute started get feeling javascript default scripting language even omit attribute would good omit attribute would cause problem

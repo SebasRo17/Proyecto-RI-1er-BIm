@@ -1,0 +1,1 @@
+far implementing mvvm silverlight app pretty well one question user control made wondering placed view folder seperate folder call usercontrols user control considered view

@@ -1,0 +1,1 @@
+open source project would recommend people study learn pro write scala attribute looking though present every exemplary project idiomatic use language library functional programming technique concurrency using actor method large scale system many module readability interop etc

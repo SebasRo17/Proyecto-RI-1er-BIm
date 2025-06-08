@@ -1,0 +1,1 @@
+designing small library strong temptation provide synonym exported function var foldl var reduce foldl reduce synonym foldl imagine multiple name might help initial api since user likely stumble want time worry duplication bring needless complexity rule keep mind thinking adding synonym api whould choose one way api incentivize one way instead

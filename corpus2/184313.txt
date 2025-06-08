@@ -1,0 +1,1 @@
+My understandment is that hash maps allow us to link, say, a string, to certain memory location. But if every string were to be linked to a unique place in memory it would need a huge block of empty memory. I don't get it.

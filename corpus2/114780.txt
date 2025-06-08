@@ -1,0 +1,1 @@
+Since the .NET Framework SDK is free, is Visual Studio anything more than an IDE? If yes, do I need to buy Visual Studio to deploy my ASP.NET web application (written in C#)? I'm using MySQL for the database. I'm a student that is going to graduate college soon, and I'm exploring technologies for a web application that I'm building for a startup.

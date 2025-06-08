@@ -1,0 +1,1 @@
+The title sums it up. I'm interested to know if there exists an algorithm capable of producing variable output given identical input without relying on other sources for randomness such as DateTime.Now or a number generated from a light sensor etc. In addition, the algorithm can not be run in sequence, just two distinct, unrelated runs that produce different output.

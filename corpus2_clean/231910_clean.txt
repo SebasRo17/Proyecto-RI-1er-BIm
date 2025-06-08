@@ -1,0 +1,1 @@
+team currently working web platform planning divide application set independent service written different language problem service rely domain model layer need duplicated across different language c domain layer heavily cohesive cannot easily splitted given working multiple language requirement good architectural style allow positive approach problem

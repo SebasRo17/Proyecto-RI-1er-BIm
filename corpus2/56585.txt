@@ -1,0 +1,1 @@
+I am in sort of a dilemma (in a geekish way of course). I **love** to declare variables at the beginning of my methods, and usually order them in some logical way. The problem is, when the list gets long, it sort of gets out of hand. Should I just declare them **when I need them**?

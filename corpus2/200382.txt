@@ -1,0 +1,1 @@
+I was thinking about experimenting a bit with using mapreduce and such on a dataset we have to see if we can benefit from it in any way. What route should I go if I want to be able to instantly, without any major modification, deploy my findings to some kind of grid/cloud-system to see if there is any extra benefit to have it scaled in the cloud.

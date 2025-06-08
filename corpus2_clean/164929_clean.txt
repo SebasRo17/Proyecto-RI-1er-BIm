@@ -1,0 +1,1 @@
+singleton pattern prone thread safety problem best method work around

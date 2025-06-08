@@ -1,0 +1,1 @@
+I prefer Single Page Application to server side generated HTML. I am sensible to the pitch of "high productivity" delivered by Play. Now if I don't use the HTML generation part, is it still valuable? Is it worthwile to learn it? For the controller (REST or other), business logic, persistence. Does it help generating unit tests? How do you use it? Thank you

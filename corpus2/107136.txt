@@ -1,0 +1,1 @@
+I've just finished the first rails tutorial and now want to learn something about how other developers use it. So is it possible to "read" rails web applications to learn about its architecture and design?

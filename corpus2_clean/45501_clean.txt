@@ -1,0 +1,1 @@
+understand exception work catch handle c simulate event may cause exception ensure caught correctly example possible application kind test bed possible simulate network problem database problem etc exception nature seem hard reproduce thus making hard ensure cope although mainly develop using c net visual studio answer resource relating language could useful

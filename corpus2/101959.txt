@@ -1,0 +1,1 @@
+There are plenty of windows programming online-video courses but most of them is about .net programming. But many task cannot be accomplished by .net such as API Hook. I think to be a windows programmer one must learn windows api via c/c++ sooner or later.I have the _windows via c++_ book, Is there any video course about advanced windows native programming online?

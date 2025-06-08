@@ -1,0 +1,1 @@
+could someone please explain quite clearly difference port socket know port serf door network application process application process us socket connection given port number handle network communication multiple process listening single port number finding difficult understand difference socket port fit together

@@ -1,0 +1,1 @@
+What is the need for garbage collection (GC) in a stack-based language? In a language like Forth or RPL (on HP calculators), is there a need for garbage collection? I would think, since output is popped off the stack, that there wouldn't be any need. Am I missing something?

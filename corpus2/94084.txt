@@ -1,0 +1,1 @@
+How deep should an iOS developer review data structure & algorithm when preparing for iOS job interview position? I know most people would just say there's no harm in reviewing it, but would like to get some insights based on your experience interview what are the percentage of the questions are related to data structure/algorithm and what percentage are iOS related?

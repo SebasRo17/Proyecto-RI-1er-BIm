@@ -1,0 +1,1 @@
+I'm creating a small web-site that needs to call a REST API to retrieve some JSON and display it. What is the best tool for this job? There are so many Javascript libraries available now it is difficult to decide which one to choose. Is there are particular library that people would recommend that will do what I want both efficiently and without extensive development effort.

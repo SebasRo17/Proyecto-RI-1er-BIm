@@ -1,0 +1,1 @@
+I need to use FIFO in my application in linux+C, I have multiple threads and processes, I read some where that writing to a FIFO is atomic below some value (I believe 4k) especially I'm writing max of 300 bytes, Am I safe here?

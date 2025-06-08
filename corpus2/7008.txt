@@ -1,0 +1,1 @@
+What different types of security do there exist? Why and when should they be implemented? Example: SQL Injection Prevention

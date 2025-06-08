@@ -1,0 +1,1 @@
+I cant find plugins written in other languages other than javascript. There is browser support only for Javascript. Why didn't they use other scripting languages other than Javascript when people started using scripts on their web pages? Why javascript was given priority?

@@ -1,0 +1,1 @@
+difference oriented design pattern principle different thing far understood try achieve common goal e g flexibility say pattern principle vice versa design principle solid e dependency inversion principle design pattern gof e abstract factory pattern

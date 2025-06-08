@@ -1,0 +1,1 @@
+...or, can I license things separately within the project (i.e. images=LGPL, code=GPL). I've been confused about this for a little while now and I can't seem to find a clear answer.

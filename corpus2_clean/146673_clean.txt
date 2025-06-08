@@ -1,0 +1,1 @@
+considered bad practice pas item php reference instead relevant documentation structure foreach php

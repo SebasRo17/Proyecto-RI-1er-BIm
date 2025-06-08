@@ -1,0 +1,1 @@
+I've built peer to peer app a while ago in QT and C, but I had to build the whole thing with a friend of mine. I'm wondering if it possible to build such an application in web browser. Is there an opensource lib, API or anything that could help me achieve that on a browser?

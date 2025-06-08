@@ -1,0 +1,1 @@
+using mamp example develop web application without constantly upload download via ftp sure correct way test project sure right satisfied project change every page mysql database link etc workaround used thanks advance

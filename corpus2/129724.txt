@@ -1,0 +1,1 @@
+For example, a system where the developer does not need to write source code any more, instead they can using XML or some defined text to construct the application-level logic.

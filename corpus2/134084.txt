@@ -1,0 +1,1 @@
+Where can I find the x86 instructions execution time? How to find out which instruction is faster or smaller?

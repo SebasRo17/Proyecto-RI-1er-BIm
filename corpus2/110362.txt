@@ -1,0 +1,1 @@
+I'm wondering is JSP a safe alternative to PHP? Some things I'm concerned about are cpu usage, memory usage, and security.

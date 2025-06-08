@@ -1,0 +1,1 @@
+I want to access the clipboard data in flex appication. How to implement this functionality in Chrome and FF?

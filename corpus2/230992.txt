@@ -1,0 +1,1 @@
+I would like to write a web system that can capture and parse incoming emails, traditionally the web system I write are asp.net-mvc, running in a cloud hosted environment like AppHarbour or Azure. How can I leverage those (and potentially my DNS) to acheive this?

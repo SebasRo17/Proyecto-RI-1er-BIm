@@ -1,0 +1,1 @@
+process proposing new standard directory layout used across project organization project compiled source setup script build script third party library database script resource web service web site etc partly inspired discovering maven standard layout standard layout generally accepted industry

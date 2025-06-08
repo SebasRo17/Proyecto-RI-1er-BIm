@@ -1,0 +1,1 @@
+I have been working on a website containing 3d maps, virtual 3d tours, etc. All of the content is large like images and video. The problem is the site performs well under normal speed connections but it take more time to load if network is busy or the internet connection is slow. How can I describe this to the customer? Yes, we optimize the content where its possible.

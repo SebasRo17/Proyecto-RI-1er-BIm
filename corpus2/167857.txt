@@ -1,0 +1,1 @@
+Do you need to take account of the different processors and their instructions when writing a compiler? Have instructions been standardised? Or what tools and techniques are available to assist with this? E.g. Ignoring machine instructions that are specific to a certain processor model.

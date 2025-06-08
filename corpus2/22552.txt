@@ -1,0 +1,1 @@
+We've all (almost all) have heard about the horror stories as well as perhaps studied about them. Its easy to find stories of software that is over budget and late. I wanted to hear from developers the opposite story: **Question:**   * Do you know, or have worked on a project that was on budget and on time?   * What is the most valuable lesson you learned from it?

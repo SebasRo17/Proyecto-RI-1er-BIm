@@ -1,0 +1,1 @@
+Why does IIS default to recycle the app pool after a given time? Is there some specific reason other than perhaps most web apps are not managing the memory prudently? Given that you are managing your application's memory properly, is is safe to go ahead and turn this off? What are some potential down sides, up benefits to turning off recycling or keeping it on?

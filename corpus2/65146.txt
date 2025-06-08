@@ -1,0 +1,1 @@
+It's been 5 years since I worked with Java, but I'm in the job market again and there seem to be more Java positions than C/C++ where I live now. Are there any resources to quickly come back up to speed? The last Java I developed with was 1.3. Also what are the good resources for java technologies like springs and struts?

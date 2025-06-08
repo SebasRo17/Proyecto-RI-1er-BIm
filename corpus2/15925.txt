@@ -1,0 +1,1 @@
+Usually when talking about coding standards we refer to the code of the program itself, but what about the unit tests? Are there certain coding standards guidelines that are unique to unit tests? What are they?

@@ -1,0 +1,1 @@
+situation require user provide password automating thing development process site deployment one common situation creating file o x requires password well command utility used script ability receive password via stdin providing password time script kinda defeat purpose automatic storing plain text script defeat purpose password optimal approach providing password script requires

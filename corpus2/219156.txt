@@ -1,0 +1,1 @@
+My P2P app needs to locate peers, but I don't want to hard-code a DNS address... One example I've seen is bootstrapping via IRC, but I'd like to do this over HTTP/s if possible. What are my options and techniques for bootstrapping a P2P app?

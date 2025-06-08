@@ -1,0 +1,1 @@
+Is it possible(expected) for an individual to figure out(having never seen it before) the algorithm if asked at an interview? What other problems have equally interesting solutions? Edit: Due to the confusion of the actual algorithm I am referring to, it is the Floyd's cycle-finding algorithm, aka, tortoise and hare algorithm.

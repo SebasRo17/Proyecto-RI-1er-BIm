@@ -1,0 +1,1 @@
+From a developer point of view which platform would you consider for a large social web application? If you could provide some details on what you consider to be the strengths of which alternative it would be great.

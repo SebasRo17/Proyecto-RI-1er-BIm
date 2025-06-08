@@ -1,0 +1,1 @@
+When I wrote original code, I was using TortoiseSVN to manage versions, but later a new problem evolved. Customers desired customization on few things and now the list of customers is growing. I want to keep version control depending upon customers. I want to keep a root source code and than add version changes depending upon customers. Is there any simple way?

@@ -1,0 +1,1 @@
+Azure ACS offers OAuth and OpenID providers, and now that ASP.NET 4.5 offers the same thing, without the added cost, is there any reason for a .NET developer to consider ACS? (Disclaimer, I don't know what version of oauth each service provides)

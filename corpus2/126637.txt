@@ -1,0 +1,1 @@
+Sometimes, when I plan to create a program using this architectural pattern, I've got a lot of difficulties when I'm in the View Model phase. I'm using WAF Framework to develop this architectural pattern. I'm a still a newbie. Before you start, do you create all the UML design or do you use another tool to help you? How do you handle the design of your ViewModels ?

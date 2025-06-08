@@ -1,0 +1,1 @@
+For example I just learned today about NARC. Never release something unless you made it "New, Alloced, Initialized or Copied". That just fixed a couple different bugs in my app that I couldn't find. What other things are very important for iPhone development? _**EDIT_**   I have no idea how to make this Community Wiki.

@@ -1,0 +1,1 @@
+long continuous integration process take e compiling class running unit test integration test current project take num minute ok ideal length build time integration test take time num min long done impact build complete num min

@@ -1,0 +1,1 @@
+I came across this Wikiepedia article which says that using interfaces for defining constants is not a good thing. Solution suggested there is to define constants in a final class and use static import. That works for Java. I come from the PHP world which does not have the "import" thing. So, what is the acceptable solution for PHP?

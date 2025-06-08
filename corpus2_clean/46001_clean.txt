@@ -1,0 +1,1 @@
+index page running apache tomcat server link page welcome would like goto page x goto page link hard coded want able manage index page dynamic way pull page cause temporary time change add link redeploy route take

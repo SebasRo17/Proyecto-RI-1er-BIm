@@ -1,0 +1,1 @@
+Before being release to the public, has the syntax of any programming language undergone usability testing? If so, what kinds of testing was performed, what were the results, and what impact did the testing results have on the design of the language?

@@ -1,0 +1,1 @@
+I have a question that I did not find an answer for except the following answer that does not meet my requirements: > "Because James Gosling didn't want to" I know that Java can have interfaces (only pure virtual functions, no attributes), but it is not the exact same thing as class definitions.

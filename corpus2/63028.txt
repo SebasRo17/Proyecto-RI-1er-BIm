@@ -1,0 +1,1 @@
+What is better for performance to write the loop as linear e.g. for , while or write it as recursion ?

@@ -1,0 +1,1 @@
+know basic question sometimes find struggling figure split single multiple method example trying set acl using zend acl zend auth shown tutorial num however wondering plugin auth invoke call called authenticate called authorize instead everything lumped thinking would make readable encapsulate logic smaller part sure reason enough

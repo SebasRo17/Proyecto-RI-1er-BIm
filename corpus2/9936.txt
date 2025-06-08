@@ -1,0 +1,1 @@
+I've been thinking of releasing a few projects, and most authors in the community leave their email address right in the code, often as is or using commonly used schemes like "meATNOSPAMgmail.com", which sort of gets my paranoia flag up... When releasing source code publicly, does it often lead to your email address being parsed by spam bots, and if so how do you obfuscate it ?

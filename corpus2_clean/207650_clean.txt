@@ -1,0 +1,1 @@
+working first asp net project torn using asp tag asp everywhere use regular html simple thing need behind like fixed divs static text etc think would best use asp tag behind dynamic stuff whereas static element vanilla html assuming ever need turn asp net future best practice recommended approach

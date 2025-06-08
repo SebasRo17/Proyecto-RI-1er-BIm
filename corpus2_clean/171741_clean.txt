@@ -1,0 +1,1 @@
+good alternative inline documentation e one separate doc file somehow mapped source file never liked huge comment section littered looking option good tool available doc management

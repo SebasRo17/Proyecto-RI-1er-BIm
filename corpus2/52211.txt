@@ -1,0 +1,1 @@
+Some IDEs (or code editors like Notepad++) are released under GPL. If I decide to make a program using the IDE, do I have to release my program under the GPL? Or is it only if I take code from the open source?

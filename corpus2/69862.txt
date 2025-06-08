@@ -1,0 +1,1 @@
+I'm preparing a LINQ section in interview questions for senior programmers. What are the most interesting questions in LINQ to include? And why?

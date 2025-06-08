@@ -1,0 +1,1 @@
+using v num since developing app net num performance driving crazy mostly bad view ide get pulled away help desk call come morning realize probably built wpf unloads resource unused minute delay load everything back really annoying also noticed significant delay opening file compiling

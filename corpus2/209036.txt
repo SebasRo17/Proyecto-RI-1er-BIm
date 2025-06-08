@@ -1,0 +1,1 @@
+Does an Open Source license exist that allows me to retain rights to revoke usage of software/source at any time, for any reason, and without warning? I want to allow others to use my software and source code for free but at the same time, I want the ability to revoke rights to usage if I don't agree with the ways that the software and/or source is being used.

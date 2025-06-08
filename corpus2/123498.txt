@@ -1,0 +1,1 @@
+Is there any other reason for using session variables besides keeping the values longer than the current request? For instance, is it advisable to use session data when storing information in a file on the file system to prevent one user from writing data to the file of another user? I understand what a session variable is, but I'm not for sure how to properly implement it.

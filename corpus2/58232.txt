@@ -1,0 +1,1 @@
+I've been reading about git in Apress' "Pro Git" book. It mentions that SHA-1 is used to detect changes to commits and also to verify there is no corruption during pulls from the server. I am aware of the message digest detecting change, but how is it checking and presumably correcting for corruption ? The Wikipedia page for SHA-1 does not mention features like CRC. Thanks, Scott

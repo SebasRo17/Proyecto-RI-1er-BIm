@@ -1,0 +1,1 @@
+Say you coded up some new feature. Now the client comes to you and asks for a change that would make that new feature less user-friendly and just plain wrong. Should you just accept the change request or can you influence the client that their request is misguided?

@@ -1,0 +1,1 @@
+question infinite standing particular point either move num step forward num step backward search infinite direction give optimal solution approach go num step forward num step back ward go num step forward num step back ward complexity let say required point n total number step num num num n num num num num n n num way improve efficiency

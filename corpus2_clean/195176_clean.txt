@@ -1,0 +1,1 @@
+c dependency inversion principle often demonstrated high level class depends interface abstraction owns low level class implement interface thus inverting dependency wonder applied oriented language interface example expert ruby seems language define interface like net

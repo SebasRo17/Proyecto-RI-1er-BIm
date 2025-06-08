@@ -1,0 +1,1 @@
+I've been wondering if one can still classify a Waterfall type development approach, where the length of the waterfall cycle is 1-2 weeks, as Agile.

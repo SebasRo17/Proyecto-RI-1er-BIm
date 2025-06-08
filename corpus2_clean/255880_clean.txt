@@ -1,0 +1,1 @@
+qapplication argc argv qt test w table new w table num table num table num num num num qpushbutton btn new qpushbutton table num num btn table num table num table num num btn w show exec make confused table blank without expected button

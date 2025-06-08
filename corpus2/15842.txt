@@ -1,0 +1,1 @@
+I am thinking about creating a silverlight application, and I lack the skills to create a good looking UI.   Today's graphic designers usually know HTML and CSS and thus save me the trouble of doing something I am not very good with.   Is this the same case with XAML?   Do I have to hire two employees for this job?

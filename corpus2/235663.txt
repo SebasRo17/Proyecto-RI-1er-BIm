@@ -1,0 +1,1 @@
+I have many classes with many relationship I draw Uml that relation between them: > ![enter image description here](http://i.stack.imgur.com/tw1H9.jpg) Is this relation true and how to implement this?

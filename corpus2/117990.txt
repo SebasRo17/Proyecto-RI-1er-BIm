@@ -1,0 +1,1 @@
+If we refer to exceptions as bugs, why not just call it a bug in the first place instead of an exception? If in the code it's called exception and as soon as it occurs it's called a bug. Then why not call it a bug in the first place? Thank you for any answer or comment.

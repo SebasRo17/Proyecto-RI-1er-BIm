@@ -1,0 +1,1 @@
+Is it a good idea to create an OS that's written in a scripting language? For example, how about creating an OS using Python?

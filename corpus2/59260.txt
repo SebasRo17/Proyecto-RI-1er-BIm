@@ -1,0 +1,1 @@
+I was asked this in an interview, and I'm not sure what the answer is or how to approach the problem. > Find a pair of numbers that sum up to zero (or any other number), then find > three (and then four) numbers that sum up to zero.

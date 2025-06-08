@@ -1,0 +1,1 @@
+I'm studying source code with other developers, and my job is to type up the specifications as the lead programmer describes what each function does. Are there any tips/tricks to doing this faster? a lot of times I have to ask him to repeat himself, as I didn't hear it well. How can I be a better specification writer?

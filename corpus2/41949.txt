@@ -1,0 +1,1 @@
+Back in college I remember a professor teaching the class one of the laws of computer science. He said something like "More code equals more bugs" and gave it a name (The Law Of Whatchamacallit) and attributed it to someone. Does anyone know where this "law" comes from, who said it or what it's original verbiage is?

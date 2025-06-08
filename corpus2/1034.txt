@@ -1,0 +1,1 @@
+I'm developing a server application and am looking at Windows 2008 R2 **application** certification located here. Does application certification really make a difference to your application? Has anything tangible ever come from it in your experience? Are there any other certifications I should consider?

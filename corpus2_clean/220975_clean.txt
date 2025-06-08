@@ -1,0 +1,1 @@
+boolean operator implemented infix method short circuit evaluation consequence implemented using call semantics since example evaluate second arg case first wondering generally treated separate topic e g scala intro course taking num lecture num short circuit evaluation seems consequence call

@@ -1,0 +1,1 @@
+develop open source android application licensed gpl freely available github currently heavy development therefore published play store yet someone decides publish play store without modifying build repo upload package modifying source publishing github license modify publish license

@@ -1,0 +1,1 @@
+relatively simple system mobile client creates record sqlite database would like synced remote sql server shared mobile client create new record phone sqlite table push change remote service restful api problem order primary key collision e record phone primary key completely different record server usual best practice referencing record client referencing record server

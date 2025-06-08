@@ -1,0 +1,1 @@
+many modern programming language scala erlang clojure etc targeting jvm reason behind decision jvm maturity portability jvm simply exists language designer willing write new vm interpreter

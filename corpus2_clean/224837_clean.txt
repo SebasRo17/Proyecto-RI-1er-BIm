@@ -1,0 +1,1 @@
+let say datepicker control allow u client something like num num hit tab go next control parse date num num num similar pattern u based mm dd yyyy question format want support country format like yyyy mm dd country interpret pattern

@@ -1,0 +1,1 @@
+got started web development got foot wet creating basic facebook app using django thinking publishing app consequently need development app could make subsequent change roll production app completely new would really thankful someone could guide could go best practice also plan letting friend contribute app would need integrate git vcs process right thanks

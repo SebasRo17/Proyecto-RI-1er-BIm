@@ -1,0 +1,1 @@
+extent understand single responsibility principle single must one responsibility use reuse functionality class affect whole question entity one purpose really interacts system purpose change separate implementation method another instantiate entity put another way ok break srp know function reusable future better assume know functionality method reusable abstract class

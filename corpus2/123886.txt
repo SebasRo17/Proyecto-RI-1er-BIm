@@ -1,0 +1,1 @@
+I'm thinking about curiously recurring template pattern. I find it quite useful, and it's pretty well adjustable for many tasks. But I have to admit, I don't see much of CRTP code in the wild. Is it hard to grasp? Are virtual functions easier overall? Shouldn't it be used for 90% of cases where virtual keyword appears?

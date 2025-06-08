@@ -1,0 +1,1 @@
+I have been in several software projects but not as a leader. In all the projects we all knew the tools and languages etc. before the project started. I am wondering if it is ok or is it a good practice to have a time for developers to familiarize themselves with tools and technologies after project kicks off (eg. After requirements specification)?

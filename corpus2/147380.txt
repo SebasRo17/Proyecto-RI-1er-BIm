@@ -1,0 +1,1 @@
+I am very confused about this programming language, Objective-C, which I heard is used to develop iOS applications. I know that it uses the principles of OOP. Would it be easier to learn if I already knew C++? What about it's name? is it a combination between the C programming language and the OOP principles I use in C++?

@@ -1,0 +1,1 @@
+When I compile a C program, it is compiled first to assembly code, then assembled into machine code. I'm curious why it doesn't just convert straight to machine code in the first place.

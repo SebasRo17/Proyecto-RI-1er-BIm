@@ -1,0 +1,1 @@
+I am developing software for my company and I would like to use some libraries under GPL license. What could be the consequences? Does it mean that the code developed above these GPL dependencies will also be under GPL? Do I have the obligation to publish the source code of these products?

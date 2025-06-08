@@ -1,0 +1,1 @@
+I program CLI utilities in bash to automate much of my work as a DBA. I would like improve my code and make it more robus,t maybe with the help of some static code analysis tool like the one I used to use for Java. Does any of you use a static code analysis tool for bash scripts ? Is so, which one do you use ? Does one exist ?

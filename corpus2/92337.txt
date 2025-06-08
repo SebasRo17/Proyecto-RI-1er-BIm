@@ -1,0 +1,1 @@
+There are lots of other APIs I need to use besides the Selenium test tool to be able to get tests working. Not using them for just one week and the mind has lost all of them. How is it possible to remember zillions of APIs?

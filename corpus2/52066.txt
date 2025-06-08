@@ -1,0 +1,1 @@
+I have worked on several ordering systems. Every one of them has tracked the shipping and handling as part of the order header rather then tracking it as a line item. To me, it would make more sense to keep them with the line items, even if the information is not displayed that way to the user. What are the reasons for keeping them in the header?

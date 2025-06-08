@@ -1,0 +1,1 @@
+iterator pattern clearly defined would call consumer iterator

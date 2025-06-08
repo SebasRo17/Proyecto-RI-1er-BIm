@@ -1,0 +1,1 @@
+If I want to use ORM in MVC system Which is/are correct?   1. Use ORM object to replace Model   2. Encapsulate ORM inside the Model   3. Use ORM outside the Model, use ORM to access DB, and then use one instance to store one record of data.   4. Other better practise Please give me some example

@@ -1,0 +1,1 @@
+keep house order want automatically assemble license project dependency documentation rather add manually anybody know simple way traverse set csproj file extract license information referenced package

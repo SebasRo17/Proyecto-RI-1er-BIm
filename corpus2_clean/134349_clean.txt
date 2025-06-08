@@ -1,0 +1,1 @@
+generally considered bad practice use hungarian notation common find gui control named put control kind hungarian notation

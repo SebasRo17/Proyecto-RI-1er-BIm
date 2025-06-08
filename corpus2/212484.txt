@@ -1,0 +1,1 @@
+I want to create an application which is dependent on .NET Framework 4.5. If I am binding the framework with application setup the size of application increases to much but I need to bind the .NET Framework 4.5 with my setup. Is there any other option to bind the framework with application setup besides downloading it from the website during installation?

@@ -1,0 +1,1 @@
+Simply, If I use reflection to add methods or functionality to a class defined in a LGPL'd library I'm linking to, does that count as a modification to the existing library and would my reflective code have to be released under the LGPL?

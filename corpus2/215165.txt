@@ -1,0 +1,1 @@
+I'm implementing a REST method that allows you to post a list of items. If all data is correct I obviously return a 201 and if all data is incorrect a 400. What would be an appropriate response code if some items are correct and others are not?

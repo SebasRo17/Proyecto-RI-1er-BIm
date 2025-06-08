@@ -1,0 +1,1 @@
+project security system using socket get detail client store database ip port connected service accessed wondering fetching detail storing database done separate thread single thread advantageous approach

@@ -1,0 +1,1 @@
+trying component capable reading inputstream file otherwise writing outputstream thus serving reader writer far best come good idea

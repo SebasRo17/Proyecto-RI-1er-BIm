@@ -1,0 +1,1 @@
+I know this is a little funny question, but I didn't have the chance to realize what makes any difference when programming x64 or x86 at high level languages (.NET for instance). Any explanations would be appreciated.

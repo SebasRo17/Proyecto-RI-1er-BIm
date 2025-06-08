@@ -1,0 +1,1 @@
+"... You need to understand the core language: is it algorithmic, functional, object-oriented? ..." - Effective Java, Joshua Bloch, 2ndEd. 2008. Foreword, p xiii Functional: Lisp, OO: Java, but what is ( would Bloch mean by ) an algorithmic programming language?

@@ -1,0 +1,1 @@
+this question may sound stupid, but no one has ever taught me this. I have an HTML input for a password field, and you can only log on with one specific password with JS. Could someone please give me a syntax on assigning a variable to document.getElementById(""); syntax or a different syntax? Thanks.

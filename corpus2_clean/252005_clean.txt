@@ -1,0 +1,1 @@
+command app multi threaded serve inbound outbound client send receive binary structure generated protobuf net question go client send receive usage protobuf net mean wcf less relevant certain serialization feature

@@ -1,0 +1,1 @@
+I was told by someone that I should start with Python and then, once I'm fluent in Python, the rest of the languages will be learned quickly. Is there any truth to this?

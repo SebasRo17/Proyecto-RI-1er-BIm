@@ -1,0 +1,1 @@
+I was reading about monkeypatching _ dynamically overriding the functionality of classes. C# allows dynamic extending, but no monkeypatching, which I find reasonable. But I wondered why they wouldn't include the feature. Is it because you could hurt other programs running on your machine, or just the feature wasn't considered necessary?

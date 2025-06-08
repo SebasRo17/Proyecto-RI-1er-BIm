@@ -1,0 +1,1 @@
+implementing referral program site wondering best practice term referral code look like assume since want overly long referral code use guid anything like check referral code generated ensure uniqueness

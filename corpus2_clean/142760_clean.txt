@@ -1,0 +1,1 @@
+attempting simulate rubik cube would create structure store cube state memory x number tile per side thing consider cube size rubik cube layer rotated

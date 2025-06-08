@@ -1,0 +1,1 @@
+designing web application using domain driven design following scenario one application application multiple configuration trying figuring one aggregate one aggregate root

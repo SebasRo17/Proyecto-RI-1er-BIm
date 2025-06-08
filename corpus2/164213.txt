@@ -1,0 +1,1 @@
+Visual Studio 2012 has a new feature where it automatically runs your unit tests after every build. I would like to use this feature, but I have a number of tests that should not be run after every build (long running performance tests, etc). Is there a way to define which categories are run automatically? Or some other way to define which test should be run?

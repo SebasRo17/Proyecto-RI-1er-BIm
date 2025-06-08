@@ -1,0 +1,1 @@
+Is it feasible to expect 100% code coverage in heavy jquery/backbonejs web applications? Is it reasonable to fail a sprint due to 100% coverage not being met when actual code coverage hovers around 92%-95% in javascript/jquery?

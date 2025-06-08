@@ -1,0 +1,1 @@
+I want to contribute to an open source project, but I don't know much about unit testing. I want to learn how to test and then practice my skills on an open source. Will this also be acknowledged as a contribution. I want to first get my name out there and then conc. on development.

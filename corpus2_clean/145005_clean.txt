@@ -1,0 +1,1 @@
+paid application android marketplace however want release free ad supported version easiest way thought set branch subversion repository additional add ad however went submit android marketplace require unique package name solution longer work change package every file would make merging trunk branch painful best way keep two project together sharing patch different package

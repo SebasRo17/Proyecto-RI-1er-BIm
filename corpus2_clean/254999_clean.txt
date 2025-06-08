@@ -1,0 +1,1 @@
+imagine simple controller process control interface concrete class say implement also decorator class extend class somehow say imagine private controller field would like outside runtime attach controller access field outside obviously decorator need reference original controller built

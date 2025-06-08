@@ -1,0 +1,1 @@
+net c system receives xml message processing transmission since working directly xml document would inconvenient necessary deserialize message c serialize delivery done microsoft xsd tool xsd exe get job done poorly tool old buggy generates outrageous name representation various xml schema construct better way accomplish net go whole way

@@ -1,0 +1,1 @@
+After Heroku acquisition by SalesForce, is there any chance for Ruby being adopted in enterprise development?   If you know any good examples already, please point to them.

@@ -1,0 +1,1 @@
+Is there any possible way I can download a program, type in a message, and watch the program display visually what iterations are going on and what formula the character is being fed through all the way down to the output message of a SHA-256 operation or is that just too geeky to ask for?

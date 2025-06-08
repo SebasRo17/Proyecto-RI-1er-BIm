@@ -1,0 +1,1 @@
+number large text file need manipulate highly performant manner decided look using memory mapped file c net num however find example guidance read write memory mapped file underneath bound text file anyone shed light possibly provide example help reading text whole line altering replacing content may shorter longer original manipulation done want save back disk text file

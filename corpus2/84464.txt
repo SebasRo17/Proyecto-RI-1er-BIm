@@ -1,0 +1,1 @@
+Could you please tell me which tools are used in python to build projects, as well as which continuous integration servers are used and how to deploy projects to the server? What I mean is web projects, but will still be happy to know more of this information not only around the web.

@@ -1,0 +1,1 @@
+Is it considered bad practice to throw `NotImplementedException` for code you haven't written yet? Possibly TODO comments would be considered safer?

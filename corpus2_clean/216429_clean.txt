@@ -1,0 +1,1 @@
+better constructor without parameter public newclass b c throw ioexception something public newclass something

@@ -1,0 +1,1 @@
+resource loader load object disk zip archive depending platform state e g path directory zip archive possibly caching future need single instance normally singleton would problem resource loader multiple implementation one chosen initialisation turning resource loader singleton think singleton hold reference single resource loader nicer pattern

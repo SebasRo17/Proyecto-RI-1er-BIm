@@ -1,0 +1,1 @@
+When I create PHP projects, is it better to put all database (e.g. MySql) queries in a single file (i.e. "queries.php")? Or is it better to place the respective queries in any "model" classes (i.e. User.php) that I may be creating? Is it bad practice to put database queries anywhere in any PHP file? In the queries.php I would be placing functions for calling the queries.

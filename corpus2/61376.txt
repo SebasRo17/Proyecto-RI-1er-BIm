@@ -1,0 +1,1 @@
+I understand what composition is in OOP, but I am not able to get a clear idea of what Aggregation is. Can someone explain?

@@ -1,0 +1,1 @@
+would like port large win32 dll native linux c think use wine dll like mine user dll would also wine would whine window c programmer yet familiarity gui front end service linux logically run anything like win32 message loop font bitmap invalidation region getmessage call forth fairly straight forward remapping existing looking rewrite path thing must well worn

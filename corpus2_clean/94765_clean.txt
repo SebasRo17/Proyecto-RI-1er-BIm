@@ -1,0 +1,1 @@
+trying find way make project work transparent business size even though backend programming quite visible time order want try atdd building acceptance test cucumber friendly way show test business still think running command cryptic thing thinking web interface something like

@@ -1,0 +1,1 @@
+I am writing a functional specification for a software program (Mac OS X application to be exact). I want to improve this by looking at other (good) functional specifications, but I cannot find any. Are there any (open-source) projects that have their specs publicly available so I can learn from them and improve my spec writing skills?

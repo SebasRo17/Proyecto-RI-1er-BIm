@@ -1,0 +1,1 @@
+If I am attempting to simulate a Rubik's Cube, how would you create a data structure to store the cube's state in memory, with X number of tiles per side? Things to consider:   * the cube can be of any size   * it is a Rubik's cube, so layers can be rotated

@@ -1,0 +1,1 @@
+I realize this is somewhat subjective, but I can't find a good case for one or the other : > it "should do something"   >  it "does something" Proponents of the should style mention that it forces you to actually question what it is you are trying to achieve, while detractors find it just redundant. Is there a consensus on this, or is it purely a matter of style ?

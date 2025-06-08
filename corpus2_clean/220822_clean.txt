@@ -1,0 +1,1 @@
+lot language like c garbage collector free memory memory longer reference yet immediately free reference counter hit zero instead every check memory see memory reference delete benefit way downside way lose destructor guarantee called would imagine done way performance study show garbage collector work like better performance std shared ptr found c

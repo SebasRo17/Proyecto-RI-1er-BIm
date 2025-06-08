@@ -1,0 +1,1 @@
+lamp project currently working pretty well organized backend however ton page javascript html numerous location little architecture rhyme reason case kind javascript prototype created common control mvc framework place taking care templating page start get spaghetti control backend project would start getting unit testing place ci refactor common mvc model mapper etc

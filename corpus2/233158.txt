@@ -1,0 +1,1 @@
+I am working on a web api and I am curios about the `HTTP SEARCH` verb and how you should use it. My first approach was, well you could use it surely for a search. But asp.net WebApi doesn't support the `SEARCH` verb. My question is basically, should I use `SEARCH` or is it not important? PS: I found the `SEARCH` verb in fiddler2 from telerik.

@@ -1,0 +1,1 @@
+What is the typical pattern regarding remembering users for a website? Do you offer to remember the user at login and when they register, or at login only, or either depending on what mood you are in :) ? Not interested in implementation details, just the recommended practice?

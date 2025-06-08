@@ -1,0 +1,1 @@
+seems like pre order traversal dfs case traverse root till left branch back root right branch recursively could please correct wrong thanks advance

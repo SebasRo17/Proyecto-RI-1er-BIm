@@ -1,0 +1,1 @@
+ddd promotes rich domain model behavior poco naked object without object possible combined multi layer solution core poco interface repository service repository implementation service service implementation infra ioc locator registrar viewmodels could merged webui webui asp net mvc presentation layer saying use ddd recently told entity behavior

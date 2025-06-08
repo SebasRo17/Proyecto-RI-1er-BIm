@@ -1,0 +1,1 @@
+cannot find naming standard convention msdn naming asp net control one following standard tends used programmer address according msdn member treating asp net control field hence using pascal case e g

@@ -1,0 +1,1 @@
+traditionally singleton usually implemented public foo1 private static final foo1 instance new foo1 public static foo1 getinstance instance private foo1 public doo enum implement singleton public enum foo2 instance public doo awesome 2nd version downside gave thought answer question hopefully better answer

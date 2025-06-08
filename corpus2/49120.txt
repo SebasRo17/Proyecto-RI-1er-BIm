@@ -1,0 +1,1 @@
+You are joining the development team of an existing Android app and are handed a technical document about it. What information would you like it to have?

@@ -1,0 +1,1 @@
+starting game project c using sfml provides various class handling graphic etc would like wrap single medium believe could simplify effort take care detail limiting amount write therefor limiting chance bug sneak past eye however read several time monolithic class might good idea

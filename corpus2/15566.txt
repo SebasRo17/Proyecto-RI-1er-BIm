@@ -1,0 +1,1 @@
+Our group is currently has a solaris server with eclipse installed on it. However, we need to run this from out desks using an xterm window. There is a delay with every action due to the weight of eclipse. Are there any other decent unix IDE's out there that are more forgiving on Xterm? The IDE is mostly used with our php projects (Though we do perl,ksh,python as well).

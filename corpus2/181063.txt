@@ -1,0 +1,1 @@
+First, does anyone know a specific advantage of Google App Engine for Python Apps? Is there some advantage over Heruko or Appfog? And about the database API? Now, what about the limitations? Are there any factors that make you think twice about using GAE?

@@ -1,0 +1,1 @@
+I have a program that I wrote in Delphi. The program is available for download, but some antivirus like Norton detects it as malware, while other antivirus, like AVG, has no issues with it. Moreover, Google Chrome also gives a malware warning when you want to download the program from my website. Is there some way to prevent this, apart from putting the EXE file in a ZIP file?

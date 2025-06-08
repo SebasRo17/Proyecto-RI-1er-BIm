@@ -1,0 +1,1 @@
+seem take amount effort use singleton need h file imported want call instantiated different

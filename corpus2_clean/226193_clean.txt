@@ -1,0 +1,1 @@
+understand connection pooling improves application performance suppose connection establishment would cause latency reusing established connection requires complex handling application server need track state every connection set connection initial state reusing discarding transaction switching default isolation level also cost time

@@ -1,0 +1,1 @@
+waterfall commonly includes num requirement num functional design num technical design num build num test num review num deploy iteration across list forgot step let know

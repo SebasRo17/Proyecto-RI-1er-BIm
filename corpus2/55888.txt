@@ -1,0 +1,1 @@
+So I have this old C++, KDE project for QT 3.3.x. The IDE's version is 3.0.0-10, the one that comes with Linux RedHat 7.3. I'd want to get rid of the dependency to this environment, in other words I'd like to manage the project throught Makefiles. Alternatively, it would also be acceptable if I could port this KDE project to Eclipse. Has someone been successful in doing this?

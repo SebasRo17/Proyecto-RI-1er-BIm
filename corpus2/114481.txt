@@ -1,0 +1,1 @@
+If Javascript is only allowed to access scripts from the same domain, how can a website create mashups which must read and modify content from another domain?

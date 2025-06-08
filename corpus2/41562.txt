@@ -1,0 +1,1 @@
+We use Clearcase at our office, and based on my admittedly light knowledge of clearcase, it just _seems_ like a really bloated source control tool. I know from hearing friends talk about Clearcase that it's really powerful. **My question is, what are some features of Clearcase that make it 'powerful', and what are good tips and tricks for getting the most out of Clearcase?**

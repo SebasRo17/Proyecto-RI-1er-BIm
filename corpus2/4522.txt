@@ -1,0 +1,1 @@
+I see a few developers that like to use virtual machines for web development. Are there others that do this? If there are, why do you do it? Are there any pros / cons to developing on a VM rather than in a non virtualised environment? I would think things are slower in a VM.

@@ -1,0 +1,1 @@
+Previously I was searching for a good TimeLine control for a WPF project. I found an answer in Here which direct me to this CodePlex project. Now I want to change code to feed my culture needs. But there are some mismatches! My question is: **How you interact with such thousands lines of code?** EDIT: Any shortcut will be great!

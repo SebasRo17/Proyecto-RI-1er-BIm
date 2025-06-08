@@ -1,0 +1,1 @@
+I am a beginning programmer and I really want to have good habits and practices. I have yet to slice up a PSD and code it. Is this a bad practice? I have heard it creates bad code that had to be fixed anyway so why do it? I want to create clean code even if it takes longer. Just wondering if it is as bad as I have heard. Are there advantages to doing it this way? Thanks.

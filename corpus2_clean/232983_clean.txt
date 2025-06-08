@@ -1,0 +1,1 @@
+pretty simple question new linked list found util linkedlist saw elsewhere use pointer create new list add new element list contain reference next previous element also contain

@@ -1,0 +1,1 @@
+using netbeans ide php programming best solution using netbeans two different computer keeping sync currently using ftp upload save feature open netbeans another computer download change file

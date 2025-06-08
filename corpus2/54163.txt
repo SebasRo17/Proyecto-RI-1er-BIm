@@ -1,0 +1,1 @@
+Given a standard windows procedure function: `LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam);` Where do the names wParam and lParam come from and what the history behind them?

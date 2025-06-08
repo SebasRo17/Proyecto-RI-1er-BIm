@@ -1,0 +1,1 @@
+At the moment I am teaching myself iOS programming, and one concept I find really hard to wrap my head around is delegation. What is it? Why and how is it used? What is the advantage? The technical writing from the book I'm reading makes it hard to understand.

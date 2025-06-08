@@ -1,0 +1,1 @@
+read pas reading question stackoverflow still bit confused regarding close shutdown method various class want know suppose public constructor inputstream istream new inputstream istream public inputstream stream stuff stream close istream actually get closed copy get closed istream still left open

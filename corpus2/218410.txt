@@ -1,0 +1,1 @@
+Assuming the only tool for generating random numbers I have available is generating a uniformly distributed variable `u` on U(0,1). I want to generate a Nakagami Random Variable from it. I know I could just plug `u` into the inverse CDF of the Nakagami distribution, but unfortunately, the inverse CDF isn't trivial to compute.

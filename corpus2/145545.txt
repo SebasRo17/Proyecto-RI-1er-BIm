@@ -1,0 +1,1 @@
+I want to integrate Spring framework in my project especially into server side. So, I don't want to put it within WEB-INF folder of war file. Should I put an applicationContext.xml it into each layer (means each project since divided in distinct projects? (Services, Domain, and DAO) What is the good practice ?

@@ -1,0 +1,1 @@
+want make synchronization algorithm nutshell num client read local sends server afterwards server compare actual decides newer overwrites received case received newer num client read server first compare local case server newer server order matter

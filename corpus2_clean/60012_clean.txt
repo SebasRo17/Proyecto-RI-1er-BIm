@@ -1,0 +1,1 @@
+starting learn scheme sicp video would like move common lisp next language seems interesting people writing book advocate expressive power cl seems decent standard library lisp widespread really powerful people using instead nearly impossible find say lisp job advertisement hope parenthesis great problem little

@@ -1,0 +1,1 @@
+I spotted a bug today in a web application that I develop and maintain for a client. I let the client know that I had spotted a problem and after a short time I fixed it and reported back the full details to them. In cases like these do you always tell your client? Even though it would be possible to fix the problem and tell no one?

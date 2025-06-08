@@ -1,0 +1,1 @@
+searching best way improve suffix time using text num num num char seems like thoughs sa suffix index first area text num next num substring found hence founded substring would repeat pattern text sa sa len break num result append repeat len result append num else break correct way could give advice

@@ -1,0 +1,1 @@
+Should we avoid using logging in business model classes and try to move logging to service/controller classes? In for example java context, logging in model classes will hard couple the code with dependencies on `slf4j` or `commons-logging` etc.

@@ -1,0 +1,1 @@
+I'm programming a plugin for a software under GPL v2. I'm using an unique name for my plugin, but I'm considering to rename it. I would like to take another plugin's name which has been abandoned and isn't currently being developed. Am I allowed to take up that name without asking for permission from the author beforehand?

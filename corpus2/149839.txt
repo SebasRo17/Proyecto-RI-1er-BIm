@@ -1,0 +1,1 @@
+So what happened to XHTML5? http://www.w3.org/TR/html5/ That page is a draft for both xhtml5 and html5? So there's no difference between these doctypes?

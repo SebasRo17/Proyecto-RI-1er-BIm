@@ -1,0 +1,1 @@
+git branching model recommends branching development effort merging complete num branch num develop num merge complete wondering work practice given performing merge model simply add commit develop whatever commit message happened last one people using model interactive rebase feature branch committing ensure commits make sense branch

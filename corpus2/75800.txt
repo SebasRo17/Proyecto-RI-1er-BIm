@@ -1,0 +1,1 @@
+apparently, some of our websites have been hacked by a hack bot. The reason: bad input sanitzation. Our boss is giving us this file to put on all our servers to secure them: http://pastebin.com/0gJ19TQG Personally, i just do this on my personal websites: `filter_var(mysql_real_escape_string($_POST['Nom']), FILTER_SANITIZE_STRING);`. So you tell me, which one is better and why?

@@ -1,0 +1,1 @@
+This link really provided some insights into the idea that binary search implications into the optimization problems by giving the main theorem. I am not really confident that I get the idea of the main theorem suggested there. Are there any easy explanations, for the ideas, expressed in that tutorial?

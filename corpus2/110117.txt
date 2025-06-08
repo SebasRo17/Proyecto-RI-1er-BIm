@@ -1,0 +1,1 @@
+I'm looking for an open source license that lets people do whatever they want - just like the MIT license - just as long as they attribute the original author, i.e. me. Does a common license exist for this? If so, what is it?

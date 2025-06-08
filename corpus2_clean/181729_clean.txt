@@ -1,0 +1,1 @@
+building little framework currently fun wondering implement class instantiated framework passed controller use instance house function take post get filter also used framework routing similar thing make method static use singleton pattern maybe make something like codeigniter loader store instance instantiated class

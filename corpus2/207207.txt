@@ -1,0 +1,1 @@
+What is the real use of interfaces in Java? What is meant by programming to interfaces? I heard these things several times but I don't know what it is and why it is used.

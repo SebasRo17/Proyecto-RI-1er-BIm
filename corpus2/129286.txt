@@ -1,0 +1,1 @@
+Does anyone know the difference between those two? They are both created by iterative approach - giving successive revision after each iteration. They both have the initial idea->analysis->(outline)design phases.

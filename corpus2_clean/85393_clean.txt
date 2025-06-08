@@ -1,0 +1,1 @@
+big price comparison service allow send email directly price product meet targeted price email automatically cron job scan table something compounded database

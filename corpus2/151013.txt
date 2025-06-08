@@ -1,0 +1,1 @@
+I'm trying to improve my c++ coding technique by reading c++ source code. Which open source project would you recommend? Is the code of Boost C++ Libraries a good one?

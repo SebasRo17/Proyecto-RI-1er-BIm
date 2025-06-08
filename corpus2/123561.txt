@@ -1,0 +1,1 @@
+There are many answers in my previous question about simplicity relating to readability that helped me see my definition and understanding of simplicity in code was, quite possibly, incorrect. How can I define simplicity in code? What software measurements and metrics are available to measure code simplicity?

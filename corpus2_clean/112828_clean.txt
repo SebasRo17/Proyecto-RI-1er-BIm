@@ -1,0 +1,1 @@
+tool force developer adopt version scheme certain form form instance major minor build revision field must number fit beta instance version choose version num form num x yet num stable num x num beta introduces breaking change num x

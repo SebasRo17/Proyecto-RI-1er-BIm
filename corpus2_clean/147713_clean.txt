@@ -1,0 +1,1 @@
+want learn value reference example called apple created instance apple myapple new apple yummy stored memory ate apple need set myapple call forgot ate want check bool iseaten myapple call myapple referencing special pointer num object occupy num memory space num memory space think pointer

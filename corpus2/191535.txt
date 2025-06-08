@@ -1,0 +1,1 @@
+Some software projects have a Contributor Licence Agreement. The agreement could, for instance, assign copyright of 3rd-party contributions to the original project creator. Could submitting a Pull Request on github ever constitute accepting such an agreement?

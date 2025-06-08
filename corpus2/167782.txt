@@ -1,0 +1,1 @@
+What exactly is **C#** version of **Java RMI**? I want to invoke the methods of client from the server, ping the client from server etc. How the server and client communication is done with c#?

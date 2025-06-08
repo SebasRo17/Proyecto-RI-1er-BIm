@@ -1,0 +1,1 @@
+need write unit test validates serialization two attribute xml size num kb file best way provide test option considered num add file project use file reader num pas content xml num create xml program pas best option another way think better would love hear

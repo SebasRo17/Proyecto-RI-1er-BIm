@@ -1,0 +1,1 @@
+While many other languages have rapid development, such as Python, which has come out with a whole new version in the past few years, or to use a framework, Rails, which evolves super-fast (A book that was published in early 2011 is now obsolete), it seems that there are no updates for C. Why is this?

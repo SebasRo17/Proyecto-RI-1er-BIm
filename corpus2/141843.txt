@@ -1,0 +1,1 @@
+I've seen a lot of stuff that describes how it's done, but not a lot that tells WHY it's done. Is it just a way to keep the code readable, or is there a better reason?

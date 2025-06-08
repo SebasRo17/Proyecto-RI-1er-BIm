@@ -1,0 +1,1 @@
+Frankly, I don't understand the practical importance of vtable. For me it is just a theoretical concept which needs to be mugged up since interviewer will ask it surely. Can anyone shed some light on it that why interviewers love vtable? I don't see how knowledge of vtable makes me a competent c++ developer :-|

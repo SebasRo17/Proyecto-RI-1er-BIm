@@ -1,0 +1,1 @@
+By now I work with asp.net and C#. I have done a decent work in Java as well. I am planning my career in such a way I should be language-agnostic someday. What are the things that I need to learn? First would OOP paradigms as its speaks about the Class design. Are there any others?

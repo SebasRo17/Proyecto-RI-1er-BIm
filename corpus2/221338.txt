@@ -1,0 +1,1 @@
+When we look at the the overlap between the Ruby Community - we see the following overlaps:   * Think Relevance (now Cognitect) has switched from Ruby to Clojure   * Jay Fields has switched from Ruby to Clojure   * David Chelimsky \- author of RSpec \- has left the Ruby RSpec project to join Cognitect Is there some linguistic similarity that has lead to this crossover?

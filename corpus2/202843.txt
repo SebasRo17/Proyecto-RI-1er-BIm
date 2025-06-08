@@ -1,0 +1,1 @@
+In building an application that deals with a lot of mathematical calculations, I have encountered the problem that certain numbers cause rounding errors. While I understand that floating point is not exact, the problem is _how_ do I deal with exact numbers to make sure that when calculations are preformed on them floating point rounding doesn't cause any issues?

@@ -1,0 +1,1 @@
+writing multiple filed program right apparently running make one would intuitively think need done situation reason cause program fail guess provide detail problem important thing using make clean wondering anyone knew general rule thumb running make clean instead make

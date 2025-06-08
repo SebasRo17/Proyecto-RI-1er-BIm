@@ -1,0 +1,1 @@
+For both PHP and ASP.NET, which reporting tool you prefer to create, preview and print reports? Not just printing the web-page directly, any professional third-party or an open-source tool.

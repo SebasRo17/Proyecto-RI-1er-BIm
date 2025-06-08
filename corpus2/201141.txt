@@ -1,0 +1,1 @@
+I have a small open source library that I've written.   I want people to use it while forcing them to keep the authors attribution (a 2 liner in each file) when redistributing it or using it in their project. Would the MIT license work? or what type of license should I use

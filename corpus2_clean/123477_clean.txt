@@ -1,0 +1,1 @@
+order implement jsr num k invoke dynamic something called frame introduced hotspot vm like know invoke dynamic frame implement come etc google seems helpful pointer would appreciated better someone please writes blog

@@ -1,0 +1,1 @@
+I have heard two reasons why information systems projects fail.   1. Large projects with big budgets are more likely to fail   2. When there are two isolates teams, one doing the software design and the other implementation. These two failure reasons are described as recipes for disaster, but I don't understand that. Can anyone explain why these are recipes for disaster?

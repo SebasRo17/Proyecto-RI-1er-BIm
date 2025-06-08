@@ -1,0 +1,1 @@
+designing web page using php standard followed example suppose two page first page look like body div php include page2 php page2 php file look like php text div body designing standard practice affect search engine result

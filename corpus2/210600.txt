@@ -1,0 +1,1 @@
+My company has a large software application written in C++ Builder 6. I am a junior developer only one year out of college. My question is:   1. How much technical debt are they in? What are the hazards of working in such an IDE that is no longer supported?

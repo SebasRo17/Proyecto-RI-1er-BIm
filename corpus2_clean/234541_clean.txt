@@ -1,0 +1,1 @@
+use base development term tdd minimal aspect gui used seed grow towards backend logic backend give rise logic controlling gui

@@ -1,0 +1,1 @@
+I've got some software that I wrote around 2 years ago and needs some features added to it. I've realised that it's in an awful mess, and I have the urge to move everything around, tidy up, etc. I've read the Joel on Software article about not starting again, so whats the best way forward?

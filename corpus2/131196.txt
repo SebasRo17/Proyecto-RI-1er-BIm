@@ -1,0 +1,1 @@
+Is there a programming language in which you can set your own syntax configurations and it would convert the code to a language you choose? For instance, you would choose specific configurations like "Python's indexed blocks", `[a,b,c]` initializes arrays, `^` for exponentiation and others. A script would convert it to your choice language's equivalent.

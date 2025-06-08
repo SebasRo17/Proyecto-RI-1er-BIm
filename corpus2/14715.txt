@@ -1,0 +1,1 @@
+Is it any good ? http://findbugs.sourceforge.net/ I had a go on the webstart/demo version and it did indeed look useful. Has anyone got any experience with it, is it a valuable tool ?

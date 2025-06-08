@@ -1,0 +1,1 @@
+Is there any particular reason why people use the A tag to mimic a BUTTON in HTML and JavaScript?

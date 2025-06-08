@@ -1,0 +1,1 @@
+I am writing JUnit unit tests for my classes. Is it better to have a separate class for each method, or have just one test class for every actual class?

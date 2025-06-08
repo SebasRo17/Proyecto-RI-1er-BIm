@@ -1,0 +1,1 @@
+I'm developing an application handling DB parts. I retrieve the data from the DB with stored procedures and prepared statements. Now I want to display the data in the GUI. What is the current technology used for that? Does one still use DataSet and DataTable for that?

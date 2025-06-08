@@ -1,0 +1,1 @@
+need build social network expecting high traffic 10k 50k registration day even including visitor pageviews image uploads etc lot database activity solid quad core dedicated server right 8gb ddr3 2tb hdd doctrine slow far query load time handle high traffic website

@@ -1,0 +1,1 @@
+requirement m access application need application m access app num num record num column sql connectivity record need edited used send email pdf report attachment report designed using sql reporting service need create ui call reporting service generate report customer want num record loaded single stretch datatable anyone please suggest best way mimic need go swing app web app

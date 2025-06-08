@@ -1,0 +1,1 @@
+In all projects that I have been involved with that have had input from an outside consultant the question has been asked about what sort of Configuration Management we were using. In none of these cases has the consultant been able to define Configuration Management. So what is it?

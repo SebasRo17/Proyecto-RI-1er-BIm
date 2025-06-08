@@ -1,0 +1,1 @@
+I'm working on an application and I need to use some existing components such as libraries and JavaScript frameworks that are covered by licenses. My application will be paid (not free) and closed-source. Can I use components in my app that are under one of following licenses:   * MIT   * Apache   * BSD

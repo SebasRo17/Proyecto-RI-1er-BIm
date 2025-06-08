@@ -1,0 +1,1 @@
+I have a problem understanding some functionalities in IIS. Per example I want to know when do I use "Add application", "add virtual directory" or "add website". Currently I have around 10 websites which are located in my wwwroot/websitename directory and they automatically appear under sites in IIS. What is the best approach?

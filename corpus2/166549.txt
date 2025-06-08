@@ -1,0 +1,1 @@
+I am very new in ASP.NET MVC and Web stuff. I want to know how I should separate my page logic into different controllers. Like for example should I use `Home\BuyProduct` or `Product\Buy`. When there is a sign to move logic to the new separate controller? Should it be one Controller per page? What is the basic rules?

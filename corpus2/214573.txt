@@ -1,0 +1,1 @@
+I would like some help with printing out put of mysql tables as PDF. I have scenarios where a user views their details from the database printed to an HTML table, I would the same HTML table to also print in PDF.

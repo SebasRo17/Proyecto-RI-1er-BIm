@@ -1,0 +1,1 @@
+What makes a language scalable ? I believe scalability is more about system design. It sounds really odd to me, to say that one language is more scalable than the another.

@@ -1,0 +1,1 @@
+I'm having a difficult time understanding the `Single Responsibility Principle`. What should I look for to evaluate the various sources of information on the matter?   What should I look for in examples explaining the principle?

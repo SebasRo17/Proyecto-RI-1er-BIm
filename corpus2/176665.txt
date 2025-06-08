@@ -1,0 +1,1 @@
+Generics in Java are implemented using type erasure. The JLS says that the inspiration was backward compatibility. Where as on the other hand C# generics are reifiable. Theoretically what are the advantages and disadvantages by having Generics as "erasure" or "reifiable"? Is Java missing onto something?

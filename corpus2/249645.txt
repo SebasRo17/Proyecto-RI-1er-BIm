@@ -1,0 +1,1 @@
+How could a true Vector type be implemented in Haskell? In order for something to be a Vector, it has to be stored sequentially in memory, with `O(1)` random access. But Haskell hides its memory management, and its datatypes describe trees! So how could you express that kind of requirement?

@@ -1,0 +1,1 @@
+I'm curious whether Mathematica could help me in software development or not. Do you use it for that, and for what? For instance, do you use it to analyze algorithms, or to do something else? I will probably buy myself a (student) license, but I'm not completely sure (if it isn't good for software development, I might still use of it for math, of course).

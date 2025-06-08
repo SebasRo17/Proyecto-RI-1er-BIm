@@ -1,0 +1,1 @@
+Are there any programming languages that have a built-in database as a first- class language feature rather than connecting to an external SQL (or other) database? What would be the drawbacks and benefits to such a feature? What would such a feature look like and how would it change the way we program?

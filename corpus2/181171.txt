@@ -1,0 +1,1 @@
+I've read a couple of articles (example) that consider the classic `for (int ...... size() .... i++)` loop bad practice when iterating through for example vectors in stl. Instead the recommended why is to use vector iterators, i.e. `begin, end`, etc. Why is that?

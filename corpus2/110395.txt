@@ -1,0 +1,1 @@
+In asymptotic notation when it is stated that if the problem size is small enough (e.g. `n<c` for some constant `c`) the solution takes constant time and is writen as `Theta(1)`.   Why we write `1` inside the `Theta`?   What does the `1` mean? Why not `Theta(c)`?

@@ -1,0 +1,1 @@
+I'm pretty new to programming and computer science, but I was wondering if there was any good way to approach the following problem: For a set of 2n points (not necessarily unique) in R^k (assume each entry is positive), I want an algorithm which will partition the set into n pairs such that the average Euclidean distance squared is minimized. EDIT: Edited for clarity.

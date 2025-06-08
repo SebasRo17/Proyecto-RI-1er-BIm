@@ -1,0 +1,1 @@
+ASP.NET MVC and Rails have similar area of use, are built around same architecture, both frameworks are relatively new and open source. So as a Rails programmer I'd like to know, what ASP.NET MVC can do and Ruby on Rails can't, and visa versa?

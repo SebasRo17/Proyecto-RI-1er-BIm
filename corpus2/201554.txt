@@ -1,0 +1,1 @@
+For, say, a subtle background gradient to a web page, what are the advantages and disadvantages of saving it as a 16bit/channel png? Are the colours represented by >8bits displayed in the intended detail in all browsers?

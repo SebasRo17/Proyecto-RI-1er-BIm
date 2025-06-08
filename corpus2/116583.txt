@@ -1,0 +1,1 @@
+We have an OOP course at our university, while discussing the concepts I came across MetaClass and Delegation. As far as I know, these don't exist in C++. Could someone give an example by which I can better understand how to simulate them instead.

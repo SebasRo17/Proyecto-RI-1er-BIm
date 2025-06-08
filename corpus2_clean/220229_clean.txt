@@ -1,0 +1,1 @@
+tiny project compiled wall tried adding wextra two thing happened minor valid warning popped e g comparing signed unsigned minor warning popped e g unused parameter function implement agreed upon prototype extra parameter really needed however warning pollute build log could hide much dangerous warning wextra retained removed compromise made robust development future

@@ -1,0 +1,1 @@
+assume thread single core cpu cpu one instruction one cycle said even thought share cpu resource computer ensure one time one instruction lock un necessary

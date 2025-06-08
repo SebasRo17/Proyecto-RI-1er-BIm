@@ -1,0 +1,1 @@
+Has anybody's organization started the migration from Java to Scala? If yes, how do you do that? What can I do to encourage my colleagues to do the same?

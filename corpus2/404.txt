@@ -1,0 +1,1 @@
+Joel Spolsky wrote a famous blog post "Human Task Switches considered harmful". While I agree with the premise and it seems like common sense, I'm wondering if there are any studies or white papers on this to calculate the overhead on task switches, or is the evidence merely anecdotal?

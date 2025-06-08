@@ -1,0 +1,1 @@
+started logging failed logins attempt website message like failed login attempt noticed log look like failed login attempt guessing people failed login typed username password username field password hashed database somehow db got compromised log message could way attacker figure password whatever small percentage people end failed login better way handle even worry possibility

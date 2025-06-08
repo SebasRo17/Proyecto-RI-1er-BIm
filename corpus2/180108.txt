@@ -1,0 +1,1 @@
+I am new to web crawling and I am testing my crawlers. I have been doings tests on various sites for testing. I forgot about robots.txt file during my tests. I just want to know what will happen if I don't follow the robots.txt file and what is the safe way of doing the crawling?

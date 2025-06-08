@@ -1,0 +1,1 @@
+I know you'd have to use Unicode. And that Japanese is read vertically and reverse of English. What are some of the things one would have to take into consideration?

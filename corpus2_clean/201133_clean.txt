@@ -1,0 +1,1 @@
+familiar c someone please inform line detail auto add element row col value size row size col double row push back row col push back col value push back row col value obvious vector add element vector row size row

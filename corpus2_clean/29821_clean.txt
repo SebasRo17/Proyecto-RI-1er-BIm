@@ -1,0 +1,1 @@
+created small web app want deploy used struts2 mysql database problem static ip app machine anyone suggest hosting service host page mysql since project money would prefer free server even allowing usage short period time

@@ -1,0 +1,1 @@
+given branch prediction also effect optimization tends offer superior performance note represents uncommon condition normal path logic common path must branch around exception bool somefunction bool abort primary body common path branch bool somefunction bool primary body else

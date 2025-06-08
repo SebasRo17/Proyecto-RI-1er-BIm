@@ -1,0 +1,1 @@
+If I'm using a technology like Grails. It's really easy to wind up with inline styling. Are there any downsides to auto-generating code with inline styling? Is this considered bad practice? Why?

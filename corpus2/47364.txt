@@ -1,0 +1,1 @@
+What does it mean when an algorithm is patented? Am I allowed to use it as long as I am not making money out of it? I am asking because I am working on a project and I happened to discover a feature detection algorithm that I want to implement, but then it is patented by someone. Can I use the algorithm? It is for a school project

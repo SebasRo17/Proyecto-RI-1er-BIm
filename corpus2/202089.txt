@@ -1,0 +1,1 @@
+I am wondering what is the purpose of Chrome using multiple processes for each tabs? I asked this to C++ chat room and one responded it is a product of laziness. I personally believe this is an example of "Distributed processing" like in Erlang programming language. What exactly is it?

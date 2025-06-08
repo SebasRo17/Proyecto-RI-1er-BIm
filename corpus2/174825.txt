@@ -1,0 +1,1 @@
+How does a browser determine that a script has run for too long ? Is it actually configurable through some advanced settings ?

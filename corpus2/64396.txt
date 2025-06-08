@@ -1,0 +1,1 @@
+IBM's Watson has alot of book information encoded into a 'database' that Watson searches in real time. Does anyone know how that information is coded? I mean no one could type in all of those rules.

@@ -1,0 +1,1 @@
+writing game c different enemy type defined base enemy also derived class etc updating enemy iteration game want element pointing existing enemy make sure update version update etc one way would define separate array enemy would clean way solving problem however wondering fact enemy class derived base make possible somehow enemy modification later

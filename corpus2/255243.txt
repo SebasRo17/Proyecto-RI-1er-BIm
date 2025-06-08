@@ -1,0 +1,1 @@
+I'm a newbie in mac programming so here's my questions: I'm developing a mac app that has two xib file MainViewController and SecondViewController in MainViewController there's a button in which it calls Second View Controller. I'm using XCode 5 How to do this? and How to display video in a mac in XCode 5

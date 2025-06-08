@@ -1,0 +1,1 @@
+Is it possible to build a custom email client for Gmail using Java APIs? Or only Google can do that?

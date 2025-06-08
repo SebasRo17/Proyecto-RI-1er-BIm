@@ -1,0 +1,1 @@
+problem qt num num ubuntu num example include qwidget include include include qpushbutton include qlabel include qpixmap include qimage include include include qlineedit include qlabel include include include include work well problem following include qlineedit qlineedit file directory fix

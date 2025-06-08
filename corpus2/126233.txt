@@ -1,0 +1,1 @@
+This is an interview question: > Given two Binary Search Trees, write a program to determine whether they > contain the same set of values. Assume there are no duplicates. My idea is to perform an in-order traversal for both trees and compare each element one by one. It takes `O(n)` time and `O(n)` space. How could I do it in `O(lg(n))` time and `O(1)` space?

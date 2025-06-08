@@ -1,0 +1,1 @@
+I don't think Objective C was in use from the beginning of Apple hardware development. What languages did app developers use for the earlier Apple computers, such as Apple II or Mac Classic?

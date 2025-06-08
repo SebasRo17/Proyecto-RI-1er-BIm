@@ -1,0 +1,1 @@
+ruby normally make thing easy however allow implicitely converting number num num num typeerror implicit conversion nearly every language allows including perl php vba

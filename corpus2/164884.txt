@@ -1,0 +1,1 @@
+What is the best practice for packaging Java enums? is it separate file for each enum?   or   having same file for all the enums? What are the pros and cons ?

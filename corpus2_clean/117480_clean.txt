@@ -1,0 +1,1 @@
+working library several header meant used library also class function header want client use instance header contains debugging function used outside library could cause problem hidden client

@@ -1,0 +1,1 @@
+example read website httpresponse httpentity executes http request return response turn response entity turn entity stream got use two object buffer reader builder turn seems like lot repetitive httpresponse return inputstream better yet p necessarily saying wrong want find reason behind

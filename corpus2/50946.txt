@@ -1,0 +1,1 @@
+I'm working on a project with MVVM. Some ViewModels have more than one repository.   * **Is ViewModels with more than one repository bad?**   * **Please provide with why it's good/bad.**

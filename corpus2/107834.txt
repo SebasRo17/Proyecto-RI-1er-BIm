@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Are design patterns really essential nowadays? I recently read a book on design patterns. A few of them seem very usefull in specific situations. Im not sure how much use they will be in everyday coding though. How often do you use design patterns in your everyday work? Should I be trying to find situations to apply them?

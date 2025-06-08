@@ -1,0 +1,1 @@
+My friend and I are planning to develop a tiny and simple CMS by taking some inspirations from an already existing GNU GPL CMS. We take the ideas and try to develop it as simply we can, is it possible ? We are planning to set up the same licence, GNU GPL. Is it a good choice ? Which are the conditions to do it ?

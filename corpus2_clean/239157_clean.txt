@@ -1,0 +1,1 @@
+bit novice javascript wondering positive negative side using polling compared using event javascript one use one polling consider effect triggered something repeat usually using settimeout also example render bloop rendercomponent box document body requestanimationframe render also polling since requestanimationframe render called frame called basically anything fit definition

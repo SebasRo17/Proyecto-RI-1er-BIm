@@ -1,0 +1,1 @@
+We are having rich text editor in which we can insert html. if any input contains `<style>` tag then the css is applied to entire window. is it possible to restrict that CSS to be applied within `<div>` not entire window?

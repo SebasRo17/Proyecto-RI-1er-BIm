@@ -1,0 +1,1 @@
+selenium automation project using maven like able set test overnight possibly email report daily team ci would suitable testng xml suite tried hudson figure way execute testng file build thanks advance

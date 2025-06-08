@@ -1,0 +1,1 @@
+How much should one worry about the "edge cases" in an application, especially when creating the UI?

@@ -1,0 +1,1 @@
+planning making website mainly article video going post video youtube use youtube api site wondering make page like without using server side technology would need server side programming php mysql etc would much new web development first webpage hoping whole thing client side technology html cs javascript feasible

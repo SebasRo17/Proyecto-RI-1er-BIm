@@ -1,0 +1,1 @@
+So I am still fairly new to ruby, though I have noticed that it is very hard to create 2d-array and that hashes seem to be more of the go to data structure than arrays. I was wondering why the Ruby community is so focused on Hashes and maybe if there is something more ruby-idiomatic than a 2d-array when trying to create something like a game board.

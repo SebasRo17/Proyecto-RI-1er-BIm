@@ -1,0 +1,1 @@
+Suppose I have an algorithm that takes N^100/2^N to complete. Would the tilde of this be 0? But then that does not make sense. However, since the alogrithm tends to 0 as N increases, what should the tilde approximation be? Thanks in advance.

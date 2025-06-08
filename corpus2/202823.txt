@@ -1,0 +1,1 @@
+Sockets were invented in Berkeley around 1983, but how did networked computer programs work before this? These days, pretty much everything uses sockets, so it's hard for me to imagine how else programs could communicate and Google turned up nothing.

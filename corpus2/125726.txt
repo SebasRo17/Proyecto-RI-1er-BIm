@@ -1,0 +1,1 @@
+I have created a class hierarchy for an inventory system for a book/magazine. Here's the picture: ![enter image description here](http://i.stack.imgur.com/3WGKd.jpg) Will it do? I know there's no magazine class yet but I was wondering if anyone could suggest a better idea.

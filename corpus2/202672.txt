@@ -1,0 +1,1 @@
+I serialized lambda expressions in C# before. Now I wanna use F# instead of C# for serialization and deserialization. I heard F# is better in this area. Is it true? How can I do that with F#? I’d appreciate even if you just suggested a correlated link.

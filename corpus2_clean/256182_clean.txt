@@ -1,0 +1,1 @@
+multiple report single pdf file using jasperreport ftp new hashmap new r add add exporter new exporter setparameter jasper list outputstream new fileoutputstream new file ftp pdf pdf exporter setparameter stream exporter question report going add new page pdf report single page pdf

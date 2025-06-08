@@ -1,0 +1,1 @@
+If JSON stands for JavaScript Object Notation, then when you say JSON object, aren't you really saying "JavaScript Object Notation Object"? Would saying "JSON string" be more correct? Or would it be more correct to simply say JSON? (as in "These two services pass JSON between themselves".)

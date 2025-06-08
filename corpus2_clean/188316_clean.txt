@@ -1,0 +1,1 @@
+reading bit literate programming recently got thinking well written test especially bdd style spec better job explaining prose big advantage verifying accuracy never seen test written inline test language tend make simple separate application test written source file nobody made easy reason people separate test application

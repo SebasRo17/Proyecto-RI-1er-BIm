@@ -1,0 +1,1 @@
+building significant number string difference performance following two example stringbuilder sb new stringbuilder num largenumber sb append var sb append sb append sb append stringbuilder sb new stringbuilder num largenumber sb append var append append append thanks

@@ -1,0 +1,1 @@
+often programming want count index inside foreach create integer use increment etc good idea keyword introduced count inside foreach could also used loop well go use keywords seeing would allow keyword used anywhere construct

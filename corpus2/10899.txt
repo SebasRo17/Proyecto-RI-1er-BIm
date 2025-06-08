@@ -1,0 +1,1 @@
+What are questions to test a programmers knowledge of SQL? What is the answer to the question? And what would a lack of an correct answer mean in terms of time likely to understand the concept(s) related to the question? **GOOGLED:** sql challenge

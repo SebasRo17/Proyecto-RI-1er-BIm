@@ -1,0 +1,1 @@
+Im really not getting the idea:   1. What is Detailed Design.   2. Why use Detailed Design.   3. Advantages/Disadvantage of using Detailed Design.   4. Any alternative methods other than using Detailed Design. Could some one please guide/explain me ?

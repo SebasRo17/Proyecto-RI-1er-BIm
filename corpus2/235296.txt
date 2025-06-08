@@ -1,0 +1,1 @@
+Does it violate the GPL v3 if I were to use a gpl licensed firmware with my closed-source hardware that I am selling? Or do both have to be open-source, or do I just have to make the firmware source freely available? Thanks!

@@ -1,0 +1,1 @@
+Functional/non-functional and interpreted/compiled are two different categorizations, yet it seems that there are a lot of overlaps in the programming languages that fall under those categories. Is this a coincidence?

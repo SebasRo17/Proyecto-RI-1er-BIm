@@ -1,0 +1,1 @@
+following reading latest codeproject newsletter came across article bitwise operation make interesting reading certainly see benefit checking integer even odd testing n th bit set possibly advantage

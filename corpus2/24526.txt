@@ -1,0 +1,1 @@
+Are there any patterns which seem sensible when designing an object oriented domain, but do not translate nicely onto a relational database schema? If so, are there standard patterns that can be used instead?

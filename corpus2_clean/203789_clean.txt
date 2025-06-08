@@ -1,0 +1,1 @@
+using macro reader possible interpret javascript compiled like normal common lisp hence getting benefit lisp implementation notably performance would mean native performance browser without cheating would technically possible build browser mainly worried dom binding

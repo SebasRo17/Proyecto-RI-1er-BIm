@@ -1,0 +1,1 @@
+I wonder how do you decide on the version number of your apps, do you really record down all changes made (for a change log)? Then how will you decide how to increment the version number. eg. +0.0.1 for each bug fix or something, +0.1 for each new feature release? or maybe you bundle many changes into +0.1 of your version number?

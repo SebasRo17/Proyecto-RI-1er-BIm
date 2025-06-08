@@ -1,0 +1,1 @@
+Are you a functional programmer? By that I mean   * employed full time   * paid by someone else   * using a recognized functional language (Haskell, Scala, Erlang, F# etc, not just using FP techniques in an imperative language like Javascript) If so, what do you do, and how did you get there?

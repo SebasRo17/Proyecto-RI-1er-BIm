@@ -1,0 +1,1 @@
+I have a 100+ users on a Silverlight application that uses WCF and entity framework. Everyone has their own database and here comes my problem. How do I make sure that only the user gets access to his database via WCF. Do I have to send the connectionstring every time I make a call to the service, or?

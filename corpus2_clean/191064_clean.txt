@@ -1,0 +1,1 @@
+let say animal field height weight want create bird animal also say wing size general idea creating animal bird inherits animal additional field different kind bird would inherit question solution appropriate oo approach problem known design pattern handling modeling problem

@@ -1,0 +1,1 @@
+far best idea represent card one structure deck another deck num card card num char one rank one suit b second seems like might easier manage less obvious creating ints different ranging num num crating conversion would translate card structure would suit rank zero could indicate card dealt trying find better way

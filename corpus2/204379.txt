@@ -1,0 +1,1 @@
+I was asked about how to run a suite of 65.000.000.000 tests and I wonder if it is normal to have a project with such a huge amount of tests. Have you worked in projects with this characteristic?

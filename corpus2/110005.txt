@@ -1,0 +1,1 @@
+I'm developing a CRUD application on command line for a non-tech client. What's a simple (for both parties) way for me to demo the application remotely? A middle-ground between SSH (easy for me) and setting it up as a webapp (easy for the client) would be great.

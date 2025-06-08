@@ -1,0 +1,1 @@
+How to for non-programmer : formulate web-programming requirements for designing a website by a third party how to ask and what to ask Example : I want to hire someone to design or implement any existing " Photo Voting Contest " with some extra features. How do I formulate my needs for a web-programmer to understand me ? Are there any templates ? Books ?

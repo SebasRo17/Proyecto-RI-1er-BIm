@@ -1,0 +1,1 @@
+learning hibernate mapping using maven project management however currently reading hibernate book reilly use ant example question difference setting hibernate ant maven thanks advance

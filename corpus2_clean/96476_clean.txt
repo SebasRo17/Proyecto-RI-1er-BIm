@@ -1,0 +1,1 @@
+store user session id along table store user session id table access user session id efficient generating report

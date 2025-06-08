@@ -1,0 +1,1 @@
+Say you have a function `f` that is or contains a critical section. How would you unit test that only one thread can run it at once, that it doesn't have race conditions, and that it doesn't cause a deadlock, etc...?

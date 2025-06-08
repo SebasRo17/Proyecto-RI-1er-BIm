@@ -1,0 +1,1 @@
+Did any of you use behavior driven development in your projects? The concept and tools for it sound great. But was it easy to introduce and then stick to it? Did it lead to significant and visible positive results?

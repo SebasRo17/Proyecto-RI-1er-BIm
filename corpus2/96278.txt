@@ -1,0 +1,1 @@
+I wanted to know how (real) elevators work. But, so far, I could not find much material about the algorithms they use, nor software (if any) for simulation. Could anybody give me references for that?

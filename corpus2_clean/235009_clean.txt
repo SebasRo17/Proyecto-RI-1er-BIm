@@ -1,0 +1,1 @@
+using primitive generic also use reflection want create generic list would typed safe e list contains object want create list contains specific mix hand also want create different possible list way without use generic

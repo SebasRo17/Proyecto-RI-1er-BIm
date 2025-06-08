@@ -1,0 +1,1 @@
+far know deleting non empty directory could work way deleting empty directory removing pointer directory metadata would pointer item contained effectively deleting child recursively must directory empty deleted safeguard prevent erasing many file technical limitation possibly ancient file system

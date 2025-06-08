@@ -1,0 +1,1 @@
+my IT boss asks what is the best way to secure the PHP source code against illegal copy of the code once it is deployed to clients. Is there a PHP compiler that will make the final codes unreadable? By the way, i work for a software development company using PHP.

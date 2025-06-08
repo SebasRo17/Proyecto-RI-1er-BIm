@@ -1,0 +1,1 @@
+understanding include iostream using namespace std pointer array b ch3 num c e f g h ptr num ptr num ptr num ch3 cout endl put abcdefgh supposed give address cannot make sense abcdefgh

@@ -1,0 +1,1 @@
+Is it really necessary to mention the same impediment (blocking issue) in every daily standup, if the whole Scrum team already know about it because it's been mentioned at previous daily standups?

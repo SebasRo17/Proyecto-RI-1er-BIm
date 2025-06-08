@@ -1,0 +1,1 @@
+I read that the EJBContainer is responsible for things like managing transactions, managing EJB lifecycle, managing bean pools etc. So I took a look at the source code But there seem to be no methods for managing transactions, managing EJB lifecycle, managing bean pools.   So how is this taken care of?

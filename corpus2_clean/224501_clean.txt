@@ -1,0 +1,1 @@
+reference literal possible reference declared constant pointer const possible case literal e const ref num feature available pointer pointing constant

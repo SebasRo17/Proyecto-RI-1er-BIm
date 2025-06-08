@@ -1,0 +1,1 @@
+better check allowed domain value frond end let database engine handle domain integrity example entry form employee better check allowed value entry form submitting database assuming network io big issue lot check performed would engine faster would checking front end take load db engine

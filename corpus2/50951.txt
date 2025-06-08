@@ -1,0 +1,1 @@
+I'm looking for a who's who list of projects(open source) that really illustrate the strength of the languages they are written in. Ideally the project should make use of some features of a given language that would otherwise be clunky or difficult to do in another language.

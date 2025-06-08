@@ -1,0 +1,1 @@
+Today I encountered this little PHP gem called variable variables.               $literal = "Hello";     $vv = "literal";     echo $$vv; // => prints "Hello"      Are there actually any real use-cases for this language feature?

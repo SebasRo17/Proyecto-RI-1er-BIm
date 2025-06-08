@@ -1,0 +1,1 @@
+place sorting essentially swapping element without using extra storage correct find minimum number swap required list c q r z e movement c e q r z swapping c q r z e swap q e swap r q swap r z done num swap shifting item left right essentially swapping want optimal number item switching place another

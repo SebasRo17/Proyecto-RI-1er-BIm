@@ -1,0 +1,1 @@
+What is the general workflow when I want to add a feature to an open source application I didn't originally write? How do I get to know the code? How do I find the spot that needs to be changed or added? How do I actually make the change without breaking anything else? How do I test that everything is still working?   What are the general guidelines on such a project?

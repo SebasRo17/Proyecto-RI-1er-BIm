@@ -1,0 +1,1 @@
+suppose unit testing xunit like framework test created test much tested individual test method one one mapping method test test method assertequals math sqrt num num assertexception math sqrt num better one test per scenario assertequals math sqrt num num assertexception math sqrt num better pro con method

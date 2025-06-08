@@ -1,0 +1,1 @@
+I designed an application framework by considering the SOLID design principles and supported by design patterns. However, I wonder if there are any automated tools or well-known approaches to evaluate whether the SOLID design principles are satisfied or violated in the proposed design?

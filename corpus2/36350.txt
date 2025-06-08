@@ -1,0 +1,1 @@
+From the joel test: > Can you make a build in one step? I've got to say I can't. I'm currently working on a web app that has a spreadsheet list of items that must be carried out in order to deploy. So my question is **how can I automate this**? Does it have to be organisation wide? Tips/techniques?

@@ -1,0 +1,1 @@
+I'm wondering if there is a common license that would be good for _snippets_ of code (eg. things you might just paste into a file), which has the following conditions:   * Modifications of this snippet must be open-sourced   * No restrictions on code that uses the snippet Or would this license be too prone to workarounds to exist?

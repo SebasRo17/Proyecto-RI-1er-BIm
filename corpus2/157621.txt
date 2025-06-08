@@ -1,0 +1,1 @@
+If we have a large development team, say 100, and we would like to keep our encryption key hidden from developers who are not directly involved in the encryption module/algorithm, what are some best practices to keep this key as secret as possible while still allowing for development and debugging?

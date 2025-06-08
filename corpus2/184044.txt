@@ -1,0 +1,1 @@
+I am learning how to write a System Requirements Specifications, and most of templates I have seen talk of a Context Diagram. What exactly is a Context Diagram?

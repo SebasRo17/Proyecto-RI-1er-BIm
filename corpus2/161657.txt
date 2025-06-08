@@ -1,0 +1,1 @@
+Well, the title really says it all, but to elaborate a bit, can you take a random, typically effective QA department and have them learn to work in an XP environment (with a learning curve to pick up the XP workflow of course) or would they need more programming skills to be effective? If so, what would they need to know?

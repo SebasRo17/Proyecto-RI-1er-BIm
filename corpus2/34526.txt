@@ -1,0 +1,1 @@
+Question: **Can RMI or CORBA operate over IP?** _I don't think RMI can - does it not operate over IIOP?_

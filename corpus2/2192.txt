@@ -1,0 +1,1 @@
+What things tend to slow a developer down? Please try to refrain from posting answers that:   * are slow now but useful in the feature. (TDD, Refactoring, ...)   * list a distraction.

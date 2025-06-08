@@ -1,0 +1,1 @@
+want make roulette board ball spinning landing certain field catch field ball land known beforehand want animation look somewhat realistic even though result decided beforehand think need calculate path ball follow starting end position however case always need end starting position done

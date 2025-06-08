@@ -1,0 +1,1 @@
+When is it beneficial to use encodings other than UTF-8? Aside from dealing with pre-unicode documents, that is. And more importantly, why isn't UTF-8 the default in most languages? That is, why do I often need to explicitly set it?

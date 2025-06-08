@@ -1,0 +1,1 @@
+For example an activity diagram for a simple program:   1. Get User data.   2. If User Exists DO something, ELSE do nothing.   3. End. I often see diagrams with multiple endpoints but also with just one. Should activity diagrams merge both ways to one final state, regardless of the previous paths?

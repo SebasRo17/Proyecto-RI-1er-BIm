@@ -1,0 +1,1 @@
+In a previous question here on programmers, the OpenCalais system has been referenced as a solution. Has anyone used OpenCalais? Can you identify pros and cons of the system ?

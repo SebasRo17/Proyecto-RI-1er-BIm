@@ -1,0 +1,1 @@
+Another programmer wants to subcontract me to write, test, and document code. If anyone has nuggets of wisdom they could share regarding the business arrangement, I sure would appreciate the advice. My present plan is to go through specification and break it down into fixed-price deliverables, with the definition of "done" being passing the pre-specified test.

@@ -1,0 +1,1 @@
+working hashset day written spec add add specified element e set set contains element e2 e e2 e equal e2 using hashset realized based contract better arraylist since using non overridden equal array checked reference equality particularly useful know array equal exists help one using collection hashset question would array override equal

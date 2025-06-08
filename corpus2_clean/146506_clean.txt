@@ -1,0 +1,1 @@
+implementing hashtable structure dictionary dictionary text file num word generating hashtable using first word key holding hashtable list want save hashtable text file use every time kind structure use way without reading whole hashtable text file

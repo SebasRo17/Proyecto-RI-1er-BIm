@@ -1,0 +1,1 @@
+designing delegate represent state ui swing cleaner manipulate delegate directly custom event handler defined ui register delegate change listener ui element basically logic ui second design like feedback churning load bad

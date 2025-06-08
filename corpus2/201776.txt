@@ -1,0 +1,1 @@
+I've heard ProGuard's Jar shrinker affects the performance of you application. Is this true? And if so just how much slower does the Jar go shrinked compared to unshrinked?

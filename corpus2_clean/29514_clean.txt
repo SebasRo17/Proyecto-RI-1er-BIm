@@ -1,0 +1,1 @@
+let say application two different version e g professional lite edition would best way keep source version control dvcs particular assumption common professional edition extra well would optimum way versioning system like git mercurial

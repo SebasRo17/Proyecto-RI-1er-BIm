@@ -1,0 +1,1 @@
+What differs between "writing a specific JRE for each platform" for Java developers and "writing a C++ compiler for each platform" for C++ ones?

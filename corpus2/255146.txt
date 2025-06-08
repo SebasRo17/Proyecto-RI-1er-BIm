@@ -1,0 +1,1 @@
+I'm creating a c# employee management system app, I've created a form for Employee files and I don't have any idea how to store pdf files to mysql and then list and open them with c#.

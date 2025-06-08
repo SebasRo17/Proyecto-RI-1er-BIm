@@ -1,0 +1,1 @@
+I was just wondering if the programming language or database you use has any effect on selling your site to another company? I mean is it easier to sell PHP site than other language? How about database type? If I was using Redis instead of MySQL, would that make any difference?

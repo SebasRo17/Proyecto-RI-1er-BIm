@@ -1,0 +1,1 @@
+During our interview process we give the candidate a programming test as well as a programming design problem. Our HR department has told us to stop administering the programming test due to legal concerns. This would really hinder our ability to screen candidates. Are there other HR policies that prevent you from hiring capable programmers?

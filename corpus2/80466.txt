@@ -1,0 +1,1 @@
+The company I work for has recently been given an order to improve an App that is previously developed by a different company. They use a bundle identifier like com.theircompany.appname, however, I cannot register that bundle ID for generating an App ID for APNs. I wonder what the consequences are if I change the bundle ID to, say, com.mycompany.appname?

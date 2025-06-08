@@ -1,0 +1,1 @@
+Asynchronized programming seems to be natural in Javascript - it is the "first choice" to do many things. But in most other programming languages, asynchronization is more like a second choice rather than first choice. What makes asynchronizated programming so popular and natural to Javascript?

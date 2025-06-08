@@ -1,0 +1,1 @@
+I'm wondering why some people release software as freeware, yet they don't release the source code. Why is that? I can think of some reasons, yet most of them don't make very much sense. Why would you want to keep the source closed but let the program be freely available (free of charge, not free as in freedom)?

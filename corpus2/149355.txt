@@ -1,0 +1,1 @@
+I often catch myself doing code unnecessarily complicated (sad but true). Is there any set of rules, discipline, etc to help avoid that? (excluding the KISS principle, because I know it but often forget when it comes to the real code :)

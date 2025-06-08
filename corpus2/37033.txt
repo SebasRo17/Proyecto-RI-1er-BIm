@@ -1,0 +1,1 @@
+I am a pure internet product so i don't have any it degree or training so i am quit confused about bandwith. is it the memory resource server or processor resource or database server load? If i use sqlite database instead of mysql server for small projects, will it speed up my site performance (since sqlite file will be used only by me)

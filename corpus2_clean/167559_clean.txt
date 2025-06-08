@@ -1,0 +1,1 @@
+working linux kernel area work includes study understanding porting say one kernel version another kernel version implementation new kernel module device driver estimation linux kernel assignment technique community

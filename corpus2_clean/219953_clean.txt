@@ -1,0 +1,1 @@
+localstorage indexeddb used offline storage html5 key difference one preferable situation

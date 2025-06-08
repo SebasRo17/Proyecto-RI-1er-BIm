@@ -1,0 +1,1 @@
+I'm looking for a `HashFunction(X,Y: Integer): Integer` that is monotonically increasing on X, then Y. So:   HashFunction(x1,y1) > HashFunction(x2,y2) if x1>x2   HashFunction(x,y1) > HashFunction(x,y2) if y1>y2 Does such an animal exist? Background: This question arises from a comment on   How to create single integer index value based on two integers where first is unlimited?

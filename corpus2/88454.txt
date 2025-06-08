@@ -1,0 +1,1 @@
+we are using slow developer notebooks. They come equipped with vista and 2 gb rams, which slows down everything. Someone decided a good resolution would be to use vmware clients instead of faster pc hardware. VMWare clients would run on dual core xeon cpu's. What do you think of that and what backdraws will probably result out of it?

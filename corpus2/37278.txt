@@ -1,0 +1,1 @@
+Can anybody share a reason (or list of reasons) of not using the native android junit framework but a standalone one like robolectric or something like that? I'm just trying to understand what framework to learn.

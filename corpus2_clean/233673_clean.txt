@@ -1,0 +1,1 @@
+general purpose language building program something described using language best way write build file instead use tool like ant maven gradle straightforward also remove need learn yet another programming language btw question also applied language like c

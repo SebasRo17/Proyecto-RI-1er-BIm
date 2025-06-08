@@ -1,0 +1,1 @@
+I came across coderun the other day does anyone know any better editors/ide's espeially that can be used relatively easily on some of todays smartphones for asp.net ?

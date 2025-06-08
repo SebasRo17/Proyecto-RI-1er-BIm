@@ -1,0 +1,1 @@
+Is it possible to generate every possible combination of a 32 character alpha numeric string? If so, how long would it take on today's fast computers? My lecturer at university said it's impossible, and I thought "nothing is impossible". Any ideas on how long it'd take and how it'd be done? We're using Java at the moment. I would like to think I can prove him wrong.

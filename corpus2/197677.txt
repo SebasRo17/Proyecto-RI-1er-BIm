@@ -1,0 +1,1 @@
+I would like to know how transparency is defined, and what is the measurement for this in the context of a broker architecture. For example : from a developer point of view, [in the broker architecture] distribution is transparent. you talk to a broker one way or the other and it introduces an object model in which distribute services are encapsulated within objects.

@@ -1,0 +1,1 @@
+By searching for the different software development methods I found that there are two AM:   * Agile Modeling   * Agile Manifesto The problem is that I can't get the difference between them. If one is a part of another? or an update to the other?

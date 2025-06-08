@@ -1,0 +1,1 @@
+seen forum dba stackexchange question involves visual studio well therefore wanted post question one old application built v num mysql back end three year major issue database performance also good scaling application wpf application want know whether sql server added advantage used v num microsoft mysql scenario notice query execution mysql faster compared sql server

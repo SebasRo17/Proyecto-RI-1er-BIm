@@ -1,0 +1,1 @@
+I'm considering extending JSON by adding comment. For just my own project, internally. If JSON got a comment, I think its syntax should be `//`~`\n` style, JavaScript syntax. How do you think?

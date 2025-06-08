@@ -1,0 +1,1 @@
+many browser disable applet default requiring enabled per page basis seems like applet changed much past year fact seems client side applet desktop application dying completely primarily becoming server side language except sake compatibility place applet still useful today web web developer familiar javascript would ever choose use applet instead javascript

@@ -1,0 +1,1 @@
+system whereby database connection get using common pas throughout relevant used doubt passing database connection parameter different class would cause problem checking see whether actually viable better pattern know orm tool persistence go yet feedback welcomed thanks

@@ -1,0 +1,1 @@
+ruby poject implement middleware pattern description idea pattern useful solution work well middleware pattern advantage drawback

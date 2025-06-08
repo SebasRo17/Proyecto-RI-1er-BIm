@@ -1,0 +1,1 @@
+I have seen several times on this site posts that decry Java's implementation of generics. Now, I can honestly say that I have not had any issues with using them. However, I have not attempted to make a generic class myself. So, what are your issues with Java's generic support?

@@ -1,0 +1,1 @@
+Thought of learning Qt. Need help from experienced ones out here. How should I begin. Some good books to refer. Some good tutorials to learn... Edit: Also which is the good IDE available out there for Qt programming. One that gives inline help, auto completion,indentation... I am using Debian Lenny

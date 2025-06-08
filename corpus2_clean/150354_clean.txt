@@ -1,0 +1,1 @@
+checking berkeley db impressed find supported sql interface nearly identical sqlite sql html curious high level kind interface might architected instance since value transparent efficiently query sort limit offset performed efficiently large result set would key structured serialized good average case performance

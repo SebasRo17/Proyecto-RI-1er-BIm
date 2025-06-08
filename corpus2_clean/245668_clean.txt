@@ -1,0 +1,1 @@
+understand really exist x64 programming however really find definitive explanation pointer put passed callee x64 like cdecl call put stack last gcc msvc compiler edit running gdb appears held pointer rsi held one parameter particular always work

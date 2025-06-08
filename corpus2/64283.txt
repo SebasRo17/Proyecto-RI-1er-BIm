@@ -1,0 +1,1 @@
+If I want to bundle fonts and images with an application released under the GPL, are there specific requirements for the license of these assets?

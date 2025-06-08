@@ -1,0 +1,1 @@
+When building an application should all validation messages have punctuation?

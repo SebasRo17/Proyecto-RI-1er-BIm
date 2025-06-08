@@ -1,0 +1,1 @@
+The first abuse that comes to my mind in C is:               #define if while       But at the same time it is extremely handy and powerful when used correctly. Something similar happens with Common Lisp macros. Why doesn't all the programming languages support macros like this and what are the alternatives? Is it they are considered harmful?

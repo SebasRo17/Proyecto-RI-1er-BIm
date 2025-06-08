@@ -1,0 +1,1 @@
+When reading _Programmers at Work_ (by Susan Lammers), they often refer to code as "listings". Why is that?

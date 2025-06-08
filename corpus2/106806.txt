@@ -1,0 +1,1 @@
+Five methods within my API call the same third-party method. In trying to abide by DRY, does it make sense to wrap this call in a private method?

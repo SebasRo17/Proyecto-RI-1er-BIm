@@ -1,0 +1,1 @@
+As a solo developer, I think I'm using an Agile-like process, but I'd like to compare what I'm doing to real Agile and see if I can improve my own process. Is there a book out there that's the de-facto standard for describing best practices, methodologies, and other helpful information on Agile? What about that book makes it special?

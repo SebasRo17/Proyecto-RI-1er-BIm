@@ -1,0 +1,1 @@
+I was going to refactor my ASP.NET MVC application and inject some IoC. Last time I was using IoC, Unity was all the rage, but I hated it. It was difficult to setup and had very nondescript errors. Does anyone have any suggestion or preferences?

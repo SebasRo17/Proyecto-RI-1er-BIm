@@ -1,0 +1,1 @@
+In git if I change a character in a line the entire line is considered changed. I don't know much but stackexchange seem to track changes in a word-by-word basis in the edit history.   Is there an option to make git like that, or is there anything else that does this?

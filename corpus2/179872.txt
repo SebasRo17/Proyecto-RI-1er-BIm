@@ -1,0 +1,1 @@
+I always get confused about how to use the verb "to map" in the context of associating objects with each other, particularly if the mapping is directional. Is there a distinction between > mapping users to IDs and > mapping IDs to users In the given example, which would be the better way to put it?

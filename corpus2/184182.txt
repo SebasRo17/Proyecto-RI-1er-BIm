@@ -1,0 +1,1 @@
+There seems to be an immediate problem with starting to develop in Common Lisp: choosing an implementation. What should one take into account, and how much weight should it bear when considering a CL implementation? Should it conform to the ANSI standard? Should it be supported by SLIME? Do certain implementations lack good libraries, documentation, etc?

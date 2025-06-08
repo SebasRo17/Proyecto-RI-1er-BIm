@@ -1,0 +1,1 @@
+Might be kind of an odd question. A guy writing a C++ compiler (or whatever non-VM language): Does he need to be able to read/write raw machine language? How does that work? EDIT: I am specifically referring to compilers that compile to machine code, not to some other programming language.

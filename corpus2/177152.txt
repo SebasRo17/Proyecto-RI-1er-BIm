@@ -1,0 +1,1 @@
+I'm doing a code-review on someone's code for class. The class is about 800 lines long, contains a good dozen of functions but the description is like 1 line long. I'm wondering, generally speaking, how long should the description of a class be? (in Java)?

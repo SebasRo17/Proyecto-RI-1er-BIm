@@ -1,0 +1,1 @@
+My username is krunal. And If i type my name in any language like Gujarati(કૃણાલ), Hindi(कृनल) or English(krunal) in username textbox than it should allowed me to login without any specific language selection. I just want to know the views of other people regarding this functionality. Is it a good to provide a login functionality like this ?

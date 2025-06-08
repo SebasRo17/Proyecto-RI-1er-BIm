@@ -1,0 +1,1 @@
+Does AJAX need to use a server-side language such as PHP/ASP.NET/Java to access a database? Or some sort of web service tied to these languages? Or is AJAX able to communicate directly with the database?

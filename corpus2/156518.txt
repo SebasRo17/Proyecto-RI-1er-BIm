@@ -1,0 +1,1 @@
+We have the following scenario: Changeset #1 is some unfinished buildable checkin   Changeset #2 is a completed small task   ..   Changset #5 completes the work done at CS#1 They all affect the same output dll. How do we deploy changes done at CS#2 without the other work? Also how can we avoid this situation happening again in the future?

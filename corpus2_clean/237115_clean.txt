@@ -1,0 +1,1 @@
+note used instead problem title obvious reason basic reading trait scala similar interface c allow default implementation wondering cause case diamond problem many language avoid multiple inheritance first place scala handle

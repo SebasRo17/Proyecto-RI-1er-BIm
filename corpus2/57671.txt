@@ -1,0 +1,1 @@
+Is it better to learn html, javascript, php, then mysql if you want to start your site? Is it better to learn it in that order or not?

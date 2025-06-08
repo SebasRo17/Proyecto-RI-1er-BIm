@@ -1,0 +1,1 @@
+SOLID includes the Liskov substitution princicple which has the notion that “objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program”. Since static classes with static methods (a bit like the `Math` class) does not have instances at all, is my system considered SOLID if I have static classes with static methods?

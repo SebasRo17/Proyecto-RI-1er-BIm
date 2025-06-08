@@ -1,0 +1,1 @@
+I want to start using Databases in my C# Applications, unfortunately there appears to be lots of different ways of going about this. Which is the 'best' way from a learning perspective? (IE: What is likely to be used in a business setup)? If I want to download mySQL/Postgres and connect to that from C#, is that ok?

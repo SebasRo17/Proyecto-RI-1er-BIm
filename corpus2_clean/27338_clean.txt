@@ -1,0 +1,1 @@
+doctrine propel make use single concrete table inheritance map relationship former see possible field tree mapped single table whereas latter map specific table duplicating common field inheritance hierarchy facilitates orm apparatus suggests bad database design bad design pattern enforce database

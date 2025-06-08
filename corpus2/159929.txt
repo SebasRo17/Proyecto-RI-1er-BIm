@@ -1,0 +1,1 @@
+In languages like c/c++ spacing and comments are ignored and only actual code gets into compiler. I'm interested if there is accepted way of naming these two things?   * comments & spacing   * everything else (actual code) Referring to comments & spacing as "comments & spacing" is quite annoying. Any ideas?

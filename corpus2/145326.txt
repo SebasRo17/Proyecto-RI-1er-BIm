@@ -1,0 +1,1 @@
+I have a WCF rest service that will be consumed by multiple clients. The information returned by the client requires me to know who they are, so that I can return information specific to them. Is the best way to approach this type of design to authenticate them and return a token for their session, then pass this token along with every request? Thanks.

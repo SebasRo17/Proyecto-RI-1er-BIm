@@ -1,0 +1,1 @@
+trying implement modified version lamport mutual exclusion algorithm original algorithm assumes fifo message ordering connected system would like use udp protocol guarantee fifo possible modify algorithm work without fifo edit forget udp assume protocol problem fifo guaranteed problem concerned right

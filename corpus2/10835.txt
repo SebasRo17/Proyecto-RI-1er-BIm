@@ -1,0 +1,1 @@
+In my battle to introduce unit testing in my workgroup, I find a lot of people that have little to none knowledge of the concept. Can you suggest:   * best articles or tutorials for quickly introducing people on the topic   * best comprehensive book(s) for learning unit testing in depth   * academic works and studies that prove the effectiveness of unit testing

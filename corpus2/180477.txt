@@ -1,0 +1,1 @@
+I know that C# gets compiled to an IL then after that to a machine code depending on the machine using just-in-time compiler. My question will go to ASP.NET. Is it the same? Does it require 3 steps? First your files is converted or compiled to MSIL then when you open a page for example in the browser it is coverted to machine code using the jitter?

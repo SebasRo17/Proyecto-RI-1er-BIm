@@ -1,0 +1,1 @@
+Recently I read an article on the bbc about encrypted viruses. I have no idea about how one would even start programming something like that. I would love to see the source code for that or something similar. Does anyone have any relevent material? (Disclaimer: I dont want to create a virus of my own. My interest is purely acedemic)

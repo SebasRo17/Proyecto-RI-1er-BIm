@@ -1,0 +1,1 @@
+c stl priority queue heap used underlying container deque implementation stay log n deque swap item index index b constant time

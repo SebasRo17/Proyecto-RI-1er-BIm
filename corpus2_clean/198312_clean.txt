@@ -1,0 +1,1 @@
+creating language discovered language tokenizer would change depending parse e abc num would parsed num token abc num abc num would parsed num abc num grammar would change tokenizer mid parse defined somewhere grammar even define thing irrelevant grammar really done parser level

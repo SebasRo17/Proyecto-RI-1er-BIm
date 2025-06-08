@@ -1,0 +1,1 @@
+learned test driven development tdd dependency injection di inversion control ioc time write using tdd always end using di constructor wondering learned tdd natural side effect tdd question following tdd principal writing unit test depend external service inevitably lead di

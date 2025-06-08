@@ -1,0 +1,1 @@
+never used automated test mechanism project feel missing lot want improve start tackling issue neglecting like trying git instead stuck svn good way learn tdd probably using eclipse program heard junit know anything else consider

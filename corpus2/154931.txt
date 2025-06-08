@@ -1,0 +1,1 @@
+I just started using requirejs and I love it. I have one concern though. I've been compressing all my js files into one single file. Even with requirejs optimizer, I need to load module files from the server time to time and I'm concerned with it. Performance and user experience wise, which one is better?

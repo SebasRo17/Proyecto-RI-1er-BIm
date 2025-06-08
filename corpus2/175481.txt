@@ -1,0 +1,1 @@
+I remember reading that there are no existing data structures which allow for random-access into a variable length encoding, like UTF-8, without requiring additional lookup tables. The main question I have is, is this even a useful property? I mean, to look up and replace random single _codepoints_ in O(1) time.

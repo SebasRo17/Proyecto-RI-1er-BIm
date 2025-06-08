@@ -1,0 +1,1 @@
+Question for lisp programmers: Lisp code is lisp data, usually lists. Is there an advantage to code being lists over code being arrays? Would macros be easier to write/faster to run? You can assume that, in such a language (you could call it "arrap"), elements can be deleted from or inserted into arrays and that the arrays would grow and shrink as needed.

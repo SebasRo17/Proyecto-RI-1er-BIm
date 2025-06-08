@@ -1,0 +1,1 @@
+seen prolog seems would ideal crafting rule engine app yet believe ever seen rule engine written prolog inherent limitation prolog e g poor garbage collection algorithm would prevent used build rule engine

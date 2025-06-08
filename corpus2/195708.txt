@@ -1,0 +1,1 @@
+Why does Haskell have a built-in `if/then/else`, which is dependent on the `Bool` type, instead of having a simple library function? Such as               if :: Bool -> a -> a -> a     if True  x _ = x     if False _ y = y

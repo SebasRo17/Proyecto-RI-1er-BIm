@@ -1,0 +1,1 @@
+For blackberry GUI developement. I am using the name convention like backButtonField and some of my colleagues are using btnBack. But sometimes I stuck with the names like loginVerticalFieldManager its a very long name. At that time vfmLogin looks better So for GUI components names what convention should I follow?

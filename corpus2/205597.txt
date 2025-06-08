@@ -1,0 +1,1 @@
+For the GUI of a program, I want it to list several items, all of which are, from a programming side, just subclasses. They can add one of these items to a list. I don't want to hard-code which subclasses there are. What would be the best way to allow the GUI to know about the subclasses, only having the base class to refer to?

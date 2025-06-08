@@ -1,0 +1,1 @@
+I'm looking to get into Windows 8 app development, and from what I understand I should be mastering XAML and C#. Now, there aren't any good tutorials on the internet about Windows 8 yet, but there are a lot of tutorials about WPF, which uses XAML. So what's the best starting point: learning WPF? Or is there something else I should be looking at?

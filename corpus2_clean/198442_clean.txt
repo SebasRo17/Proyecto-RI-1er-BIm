@@ -1,0 +1,1 @@
+database sanitizing use user enters website escaping mysqli character mysqli real escape wish also content htmlspecialchars problem let say user enters something single quote escaped sanitize way store like

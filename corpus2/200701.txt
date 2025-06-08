@@ -1,0 +1,1 @@
+I want to link to a source forge project for a job application but I can't seem to find where a user's commits are listed. If I go to > https://sourceforge.net/u/USER_NAME/profile/ All I see is the project that I worked on (which just leads to the project page, not my individual activity) and then there's Personal data and skills list. How do I get to a user's actual code?

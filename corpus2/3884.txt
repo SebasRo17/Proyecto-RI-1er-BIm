@@ -1,0 +1,1 @@
+I learned about them in a Structured Programming course, but never saw them used thereafter either at the analysis phase or for documentation purposes. Not even for highly structured languages like Pascal (Delphi).   Does any of you actually use Nassi-Shneiderman diagrams? If yes, what tools do you use to create/maintain them?   **edit:**   Or have you never heard of them?

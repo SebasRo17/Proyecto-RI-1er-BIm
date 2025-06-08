@@ -1,0 +1,1 @@
+I was just wondering if a typical PHP developers needs to be very familiar with Linux. I am studying Linux right now and I believe some of linux knowledge is not required for a PHP developer job (not sure if I am right about that). For example, vi or shell programming. In sum: what should I learn about Linux if I only want to land a PHP developer job.

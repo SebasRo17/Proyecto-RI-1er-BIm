@@ -1,0 +1,1 @@
+I heard the phrase _classic object oriented programming_. Is it different from present object oriented programming, like classic ASP and ASP.net?

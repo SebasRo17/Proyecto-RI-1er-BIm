@@ -1,0 +1,1 @@
+I'm reading a chapter on jQuery in a ASP.NET book. To be honest I'm finding it quite boring. How important is it to learn jQuery? And do many ASP.NET developers use it for their pages? Regards TDG

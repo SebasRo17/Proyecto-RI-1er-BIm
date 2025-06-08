@@ -1,0 +1,1 @@
+Myeclipse's java code templates like _sysout_ make coding easier, and they can also be customized. But seems it's jsp editor has no such capability. Is it possible to create and customize some templates like _sysout_ in myeclipse jsp editor, and if yes, how?

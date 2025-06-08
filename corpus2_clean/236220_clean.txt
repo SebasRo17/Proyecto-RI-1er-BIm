@@ -1,0 +1,1 @@
+creating 2d game plain ansi c using planning let user create graphic achieve use information file hold width height x position frame two view one use single file hold information graphic use one file graphic one faster cleaner

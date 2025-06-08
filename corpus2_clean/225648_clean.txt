@@ -1,0 +1,1 @@
+used webapp2 gae number jee webapp framework wsgi framework could keep user logged redeploy app none web framework tried could redeploy user webapp get logged use gae redeployment log user general feature v webapps general coincidence one tried feature feature ability keep user logged redeployment also keeping cache e g memcache without getting cache erased updating app

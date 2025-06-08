@@ -1,0 +1,1 @@
+I was trying to understand the difference between Open Closed Principle (OCP) and Dependency Inversion Princible (DIP). Based on research I've made on the internet so far, I came to the conclusion that 'DIP is one option through which we can achieve OCP'. I'm I right on this? Can you give me an example which doesn't follow DIP but follows OCP ?

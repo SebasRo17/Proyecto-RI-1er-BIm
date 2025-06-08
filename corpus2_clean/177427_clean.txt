@@ -1,0 +1,1 @@
+investigation regarding asp net web api enjoyed using wcf rest template create new restful web service web api seems cleaner iteration however like flexibility wcf allowing tcp msmq aspect seems facilitate distributed scalable architecture correct conclude wcf would continue best bet come fire forget durable message queueing

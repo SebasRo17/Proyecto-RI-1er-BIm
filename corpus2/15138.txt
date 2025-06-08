@@ -1,0 +1,1 @@
+I'm looking into Entity Framework for a new project that I'm going to be taking on and as part of my research into it I'm asking some industry professionals if it's stable and ready for 'real world' implementation. In the running is:   * EF   * NHibernate   * DevExpress XPO I already have a great deal of experience with XPO, but I'm not particularly happy with it.

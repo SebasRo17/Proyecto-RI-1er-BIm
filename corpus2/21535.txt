@@ -1,0 +1,1 @@
+Almost all developers who work for a large corporation find themselves on the wrong side of site blocking software. It can be both frustrating ( _"Just let me read that damn blog!"_ ) and helpful ( _"Woah! Dodged a bullet with that site"_ ). In your opinion, what is the right level of blocking to apply to developers and why?

@@ -1,0 +1,1 @@
+When programming, what naming conventions do you use for your variables? I don't mean when the name of the variable should be obvious; ie. sum, total, first, last. But when you name variables that don't really fit into a category/obvious structure, what sort of names do you use? Is it, myVar1 or test1 or variable1, etc...?

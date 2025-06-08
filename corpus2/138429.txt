@@ -1,0 +1,1 @@
+What are some good resources for advanced C++ topics. I know C++, but have little knowledge of threading, advanced meta-programming and inner-workings of meta-programming and I'd like to get better.

@@ -1,0 +1,1 @@
+"Extreme" suggests that it has very different from normal, very aggressive, exceeding limits, but in my opinion regular releases, pair programming, unit testing, collaboration with customers are quite normal and acceptable. What does extreme mean?

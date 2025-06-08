@@ -1,0 +1,1 @@
+building perl application following operation num copy bunch file num parse file fileparser num store file database dbhelper pl entry point script construct instance call appropriate method better practice separate application instantiation call let script call like application would exist instantiate call method thing seem right

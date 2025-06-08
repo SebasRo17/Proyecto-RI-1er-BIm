@@ -1,0 +1,1 @@
+I am just curious why in the C programming language the function to read formatted input was called "scanf" as opposed to "readf". I assume it is derived from an earlier language, so in that case why was it named that way in the earlier language? (Recurse.) Also, why "printf" rather than "writef"? In languages other than C, why "print" or "write" rather than "display"?

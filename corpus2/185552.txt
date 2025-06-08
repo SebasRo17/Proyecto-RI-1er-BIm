@@ -1,0 +1,1 @@
+I'm currently working on an open-source project. Currently, we put our copyright notice at the top of every Java source file. I was wondering whether it was advisable or common practice to put copyright notices in CSS or XML files.

@@ -1,0 +1,1 @@
+I'd like to see (good) examples of optimizations performed by compilers (static and JIT). Why?   * To learn what we don't have to optimize ourselves (often leading to better code)   * To be amazed

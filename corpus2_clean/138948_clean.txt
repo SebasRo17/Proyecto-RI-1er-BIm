@@ -1,0 +1,1 @@
+say interface ifoo public interface ifoo bar quux version num api need add interface without breaking existing api user maintaining backwards compatibility mainly aimed net apply framework language well

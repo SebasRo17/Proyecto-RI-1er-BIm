@@ -1,0 +1,1 @@
+come using asp net mvc web api starting use angular clear proper way mix using angular mvc sever side concept still provide strictly using web api purely get angular http call maybe stripped starting point use v template adding lot stuff need like idea strict divide server side pure client side pure html processing tip asp net mvc guy transitioning angular would helpful

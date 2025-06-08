@@ -1,0 +1,1 @@
+apparently optimal schedule job take less time first assuming non preemptive scheduling job run must finish confused ordering would change overall latency since take single process time latency regardless order

@@ -1,0 +1,1 @@
+I have used Java Swing for some desktop applications. But I haven't used other GUI frameworks that much so I can't compare them. There is definitely some things that I like with Swing and some that I don't like, but that is the situation with almost everything. What are the biggest drawbacks with the Java Swing GUI framework?

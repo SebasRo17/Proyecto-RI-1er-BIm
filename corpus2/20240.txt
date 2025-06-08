@@ -1,0 +1,1 @@
+I want to build a PHP web application, but always faces the problem that I need to connect to database and deal with related objects. So I tried codeigniter and it uses a special way to connect to database named Active Record and I've known that its an ORM technique and there are lot of ORM libraries out there. What is the best, the easiest and the fastest of them?

@@ -1,0 +1,1 @@
+learning gerrit first review tool use gerrit requires reviewed change consist single commit feature branch num commits gerrit prefered way squash num commits single one however way commit merged target branch internal history feature branch lost example able use git bisect bisect commits right little bit worried state thing rationale choice way gerrit without losing history

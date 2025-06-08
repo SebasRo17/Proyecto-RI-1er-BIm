@@ -1,0 +1,1 @@
+two u working something using branch structure master dev dev b work separate branch dev b whenever done promote change master drawback get change developer make everything exists master tree get latest update developer made way resolve change branch structure per feature

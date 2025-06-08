@@ -1,0 +1,1 @@
+Some people swear by closing their PHP files with `?>`, some say it's more optimized to leave it off. I know that it's not essential to have it on there, I'm just wondering what the pros and cons are of doing this, and what best practice is.

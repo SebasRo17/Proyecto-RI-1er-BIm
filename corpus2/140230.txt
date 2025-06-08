@@ -1,0 +1,1 @@
+I've been reading about Semantic Web technologies such as RDF/RDFS and "ontology", but was wondering how each of these are related? At the moment the terms all seem interchangeable, or I'm not understanding a fundamental concept here.

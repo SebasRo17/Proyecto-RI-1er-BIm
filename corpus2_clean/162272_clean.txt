@@ -1,0 +1,1 @@
+real world networking software following c model always proxy server process client server process dealing business logic need proxy isolate logic part client benifit architecture

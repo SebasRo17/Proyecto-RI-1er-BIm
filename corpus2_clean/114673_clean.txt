@@ -1,0 +1,1 @@
+post rob conery note slug say development environment inside virtual machine see saying tend agree still feel little uneasy virtualization mature even production system inside vms speed pretty much non issue say something bother take development machine already done pitfall gotchas along road

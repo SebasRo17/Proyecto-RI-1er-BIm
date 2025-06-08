@@ -1,0 +1,1 @@
+php script example1 php would control flow call another php script example2 php example1 php e g example1 php look like example2 php calling example2 php example1 php control flow work example1 php wait example2 php completes execution continuous rest logic continues allowing example2 php independently

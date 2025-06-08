@@ -1,0 +1,1 @@
+developing hw driver access register class example class define bit manipulate register offset etc validate parameter however function use way hw via memory map common function like planning putting common function like etc base x inherits sensible use base strictly speaking kind better way using c

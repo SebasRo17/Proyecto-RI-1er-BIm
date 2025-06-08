@@ -1,0 +1,1 @@
+building android guitar application need way object notify multiple listener played includes current activity instance guitar displayed twice zoomed far handled arraylist activity add list guitar singleton know may frown upon make sure object remove listener disposed question good approach pattern using handle

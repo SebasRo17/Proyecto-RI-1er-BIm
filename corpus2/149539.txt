@@ -1,0 +1,1 @@
+When estimating (story points) a story that consists on extending a current functionality with a known tech-debt, should we consider the effort that will be spent to refactor the current code or should we estimate independently of this tech-debt?

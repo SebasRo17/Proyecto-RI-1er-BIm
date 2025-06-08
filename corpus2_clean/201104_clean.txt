@@ -1,0 +1,1 @@
+seen two style using sizeof memory related operation memset malloc sizeof sizeof sizeof one would prefer would use mix two style would use style pro con style use example see following pair situation one style help get pointer indirection wrong var memset var num sizeof var oops change new var changed old new memset var num sizeof old oops

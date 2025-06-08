@@ -1,0 +1,1 @@
+Simple example:               (def ticks 0)     (defn run-iteration []       (def ticks (inc ticks)))      Though the usual case involves things that don't change more than once every several hundred ms. How to do this idiomatically? Edit: and why is the idiomatic way idiomatic, and why is it good?

@@ -1,0 +1,1 @@
+I'm new grad of a SW Engineering school, and I want to create a small program. For example, the program might be a Web program, with or without a client that is not a browser (Mobile or Desktop). My question is, how do I know what technologies and languages to use? There are so many buzz words.

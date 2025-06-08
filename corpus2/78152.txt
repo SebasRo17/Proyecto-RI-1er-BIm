@@ -1,0 +1,1 @@
+If experienced programmers actually ever use debuggers, and if so under what circumstances. Although in the answer to that question I said "months" ago I probably meant "years" - I really don't use a debugger. So my specific answerable question is under which circumstances would you, as an experienced programmer, use a debugger?

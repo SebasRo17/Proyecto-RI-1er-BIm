@@ -1,0 +1,1 @@
+We've long had coding standards for our .Net code, and there seem to be several reputable sources for ideas on how to apply them which evolve over time. I'd like to be able to put together some standards for the SQL that is written for use by our products, but there don't seem to be any resources out there on the consensus for what determines well written SQL?

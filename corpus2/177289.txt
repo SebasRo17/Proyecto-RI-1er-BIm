@@ -1,0 +1,1 @@
+There's a bunch of languages that automatically return the last value in a function (mostly functional) like Ruby, Haskell, Lisp, etc. Does this feature (or what do you call it) affect the performance of these languages?

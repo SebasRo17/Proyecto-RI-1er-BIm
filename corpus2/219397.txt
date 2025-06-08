@@ -1,0 +1,1 @@
+I want to use LGPL for my project, can I use some source code which is apache licensed ? If I only use the apache licensed component as library in my project, how should I make the clarification in my project ? Do I need to put some information about apache license at the beginning of source code which uses the library?

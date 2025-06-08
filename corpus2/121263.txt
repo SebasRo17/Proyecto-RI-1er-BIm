@@ -1,0 +1,1 @@
+I wonder how you guys are updating your tech knowledge on a daily basis. Definitely it will be from internet. But what are those sources? E.g. I didn't know about the DWR technology but knew if from my colleague and used it in my work. I like to know about technologies like this, to use in our Java SE and Java EE projects as soon as they are available to the community.

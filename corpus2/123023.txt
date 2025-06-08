@@ -1,0 +1,1 @@
+I heard about Domain Driven Development from a developer in the area. He talked it up like it was just about the silver bullet to changing requirements. I read the wiki. Still not too clear. What is "3D" in practical terms? Is it really that amazing that now UML class diagramming is just obsolete?

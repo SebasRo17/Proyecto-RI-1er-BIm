@@ -1,0 +1,1 @@
+Should you delete the old Nuget package files/folders under the packages directory after you upgrade a package? Maybe I'm just being overly picky, but seeing files/folder for older package versions it bothering me. Is there a good reason NOT to delete the package folders for previous package versions?

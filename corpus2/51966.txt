@@ -1,0 +1,1 @@
+We use compilers on a daily basis as if their correctness is a given, but compilers are programs too, and can potentially contain bugs. I always wondered about this infallible robustness. Have you ever encountered a bug in the compiler itself? What was it and how did you realize the problem was in the compiler itself? ...and how _do_ they make compilers so reliable?

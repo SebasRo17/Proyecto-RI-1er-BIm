@@ -1,0 +1,1 @@
+I'm a postgraduated student and I had the idea to build an app for elementary school kids. My question after many days of searching is whether anyone here have ever tried and what was their experience of developing an IOS app on other platforms than Xcode such as Phonegap, Monotouch, flex or others?

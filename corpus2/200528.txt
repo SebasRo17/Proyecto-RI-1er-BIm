@@ -1,0 +1,1 @@
+If a dynamic library exports the address to a global variable defined within the library, how are accesses to that variable translated during dynamic linking so that a running application can interact with it?

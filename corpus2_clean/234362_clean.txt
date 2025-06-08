@@ -1,0 +1,1 @@
+working little ruby script move screenshots renaming based specific convention writing test confirm behavior ruby lot convention store file e g spec feature directory rspec cucumber respectively finding best practice storing file acted upon test go destination final copy file question two part num store file test case use source num test need write file send

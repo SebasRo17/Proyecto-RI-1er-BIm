@@ -1,0 +1,1 @@
+Is a readonly field in VB.NET thread safe? For example, see the code below:               Class Customer       ReadOnly Name As String            ReadOnly ZIP As Integer = 98112            Sub New(ByVal Name As String)              Me.Name = Name            End Sub     End Class

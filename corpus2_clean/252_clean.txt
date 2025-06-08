@@ -1,0 +1,1 @@
+hold singleton pattern always anti pattern think

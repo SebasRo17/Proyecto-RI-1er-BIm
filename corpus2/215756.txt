@@ -1,0 +1,1 @@
+In a web services, how does the server know which request belongs to which session? I know that for a web application, the web server inspects the cookie (or the sessonId query parameter in case cookies are disabled) so it knows which session the request is associated with. But for a request that comes from a rest client, how do the server know?

@@ -1,0 +1,1 @@
+quick question many file system still competing use today ntfs fat32 ext3 etc seems file system designer could agree upon best aspect system implement best filesystem thought since filesystems around least somewhat apparent one good quality others could combine good create ultimate system much better

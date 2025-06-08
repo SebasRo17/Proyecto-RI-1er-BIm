@@ -1,0 +1,1 @@
+As I came from the background of webapps and move to iOS programming, I am wondering why we can't just apply the MVC design approach to native apps, i.e. in iOS, the view and controller are tightly coupled, are there any reason?

@@ -1,0 +1,1 @@
+Lets take some random internet site which i am not aware of any API it exposes for it's web services if there are any , is there a way to query that URL for exposed web services ?

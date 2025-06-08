@@ -1,0 +1,1 @@
+Does a web application have to live in a browser to be called a web application? Or is a thin client that uses a web service for most of it's functionality a web applicaiton?

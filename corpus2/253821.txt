@@ -1,0 +1,1 @@
+A lot of apps, for instance, have a free version and pro version. Do programmers, when a new update is released, remove lines of code that shouldn't be available in the free version? As for Visual Studio. Or demos. Or a lot of things actually.

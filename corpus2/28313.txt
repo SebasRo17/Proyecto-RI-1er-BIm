@@ -1,0 +1,1 @@
+Are the default objects supported by `My` keyword in VB.net is a kind of singleton? If not, what is the difference? Again is this "default object" feature is something useful? If yes, then why it is not implemented in other languages like C#?

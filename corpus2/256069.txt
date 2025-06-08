@@ -1,0 +1,1 @@
+We usually test the web apis using jmeter by writing test scripts. Is there a way to create a software which will automatically generate test scripts for testing ? Jmeter will be used as a backend for testing. And the software which we will create will be in the frontend, as an interface.

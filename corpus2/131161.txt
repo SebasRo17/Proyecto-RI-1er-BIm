@@ -1,0 +1,1 @@
+In most other languages the condition comes before the statement to be executed when the condition is met. However, in CoffeeScript (and maybe some other languages) the syntax is:               number = -42 if opposite      Is there any online documentation of what the logic behind this design decision for this syntax was?

@@ -1,0 +1,1 @@
+using parser generator build commit source file produced parser generator want commit avoid dependency parser generator build process test however commit tempting never update parser generator fear backwards incompatible change advantage disadvantage thought reference check generated source control part project source control

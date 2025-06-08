@@ -1,0 +1,1 @@
+I prefer providing an example to explain the following paragraph: > However, since excess K representation using N bits has two parameters, K > and N, you can pick K to be whatever you want. You can have more positive > numbers than negative, not include zero, and so forth.

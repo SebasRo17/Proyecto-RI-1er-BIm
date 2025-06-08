@@ -1,0 +1,1 @@
+heard proguard jar affect performance application much slower jar go shrinked compared

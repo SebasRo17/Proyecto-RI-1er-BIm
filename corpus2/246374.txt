@@ -1,0 +1,1 @@
+I have a task to convert CAN protocol Driver from Basic CAN to Full CAN. The project contains CANopen stack used in it. I have initiated the study of CANopen stack. **I want to know is it necessary to study CANopen Stack and to how much depth should I study CANopen stack?** Please note- Major task is to improve the drive code by converting it into Full CAN implementation

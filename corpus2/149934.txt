@@ -1,0 +1,1 @@
+On many e-mail subscription lists, the is a link at the bottom that says something to the effect of: > You are subscribed to our e-mail list as you@example.com. To unsubscribe, > click here What is the best way (and is there a way?) to emulate this when sending out mass text messages through SMS gateway?

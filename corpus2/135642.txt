@@ -1,0 +1,1 @@
+I need to give a presentation to a coworker on some of the best practices regarding reports. Right now I use jaspersoft's iReport to do my reports and I need to give some input to a coworker. I'm looking for some general knowledge and insight on the topic.

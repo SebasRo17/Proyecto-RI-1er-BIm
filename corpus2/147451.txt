@@ -1,0 +1,1 @@
+I keep hearing people (Crockford in particular) saying the DOM is a terrible API, but not really justifying this statement. Apart from cross-browser inconsistencies, what are some reasons why the DOM is considered to be so bad?

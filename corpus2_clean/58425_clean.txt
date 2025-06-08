@@ -1,0 +1,1 @@
+considering multiple line say sql query string sql select table num think benefit downside putting concatenation character end beginning revise coding guideline document num people feel either way

@@ -1,0 +1,1 @@
+Even after six years of experienece I am still doing the things which I was doing six years ago. Working on the same mundane CRUD stuff. Nothing has been real challenging. Since I am working in a small company, we dont even have a proper development process. We don't even do unit testing, for example. I am feeling like I am just not going to the next level in my career.

@@ -1,0 +1,1 @@
+written decent chunk past day ready git init push github want correct way case anyone else want use guess need pick license probably mit implement write sort comment top every file good style comment put top file info include look like put license license folder root directory top every source file something step missing throwing github

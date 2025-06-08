@@ -1,0 +1,1 @@
+want app able manipulate image create watermark also need window mac hence investigating qt qt ship library need achieve get standard c library worth project qt

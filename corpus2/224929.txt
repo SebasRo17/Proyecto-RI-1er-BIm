@@ -1,0 +1,1 @@
+Is CSV considered a good option against XML and JSON for programming languages? I generally use XML and JSON (or sometimes a plain text file) as flat file storage. However, recently I came across an CSV implementation in PHP. I generally have seen CSV used for inputs in Excel files though, but I have never used it with programming. Would it be better than XML or JSON in any way?

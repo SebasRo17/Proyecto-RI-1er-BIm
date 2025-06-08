@@ -1,0 +1,1 @@
+`java.util.Arrays.sort(/* int[], char[], short[], byte[], boolean[] */)` is implemented as a 'tuned quicksort' rather than a radix sort. I did a speed comparison a while ago, and with something like n>10000, radix sort was always faster. why?

@@ -1,0 +1,1 @@
+watched active record class project grow large class need anything user example go person make perfect sense consider domain reality person mishmash lot lot functionality get modified sometimes domain becomes clearer mean srp ocp violated one thing come active record pattern wrong

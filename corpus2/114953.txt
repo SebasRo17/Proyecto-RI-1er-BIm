@@ -1,0 +1,1 @@
+Are there any libraries in Java that come close to providing the functionality of Linq?

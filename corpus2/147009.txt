@@ -1,0 +1,1 @@
+Google released Caja around 2008(Capability JavaScript). It is still mainly a laboratory language. But XSS and other attacks would be prevented if there was widespread integration of Caja.

@@ -1,0 +1,1 @@
+In an MVC framework i have often heard that use business logic in a model. But i think using the business logic in controller would run faster as view is directly connected to controller. I want to know what are the advantages of using a business logic in model?

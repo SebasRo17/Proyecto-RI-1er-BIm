@@ -1,0 +1,1 @@
+Are there any object-oriented programming languages that are not based on the class paradigm?

@@ -1,0 +1,1 @@
+I have been reading up on dynamic programming lately. Would like to hear from someone who started from scratch and now is pretty good at identifying and solving DP problems. I am struggling in identifying these problems as DP and framing a concise solution. I have gone through most of the beginner DP problems and MIT resources etc

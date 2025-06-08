@@ -1,0 +1,1 @@
+The time needed to download a website would be significantly reduced, and parsing would be also easier I think. Why are not these languages imposed as a standard? Obviously they are better than raw html and CSS... Browsers are the only thing that keeps us away from eliminating the intermediate HTML/CSS code.

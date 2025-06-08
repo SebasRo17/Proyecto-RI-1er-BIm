@@ -1,0 +1,1 @@
+If I have an application that is using a less secure method for storing passwords, such as SHA-1, how would I go about converting to SHA-256 or SHA-512?

@@ -1,0 +1,1 @@
+I saw this asked in the SO Tavern, so I'm posting the question here. I thought it an interesting question. (Of course it doesn't belong on SO, but I think it's OK here.) Do you add periods (or, as the OP wrote, "full stops") in your code comments? To keep it relevant, _why_?

@@ -1,0 +1,1 @@
+trying follow single responsibility principle srp application lot crud class following srp made num class one end one static create model model update model model etc smell pushing srp far

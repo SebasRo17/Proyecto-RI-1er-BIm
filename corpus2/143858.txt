@@ -1,0 +1,1 @@
+I'm using the following code in my application, and it's working fine. But I'm wondering if it's better to make it with malloc or to leave it as is?               function (int len)     {     char result [len] = some chars;     send result over network     }

@@ -1,0 +1,1 @@
+I'm building a system has both a WPF desktop application as well as an Asp.net MVC application. I need a common user identity component so that user can log on to either one with the same credentials. Is ASP.NET Identity appropriate for this task? Has anyone used ASP.NET Identity with a WPF application? Are there any alternatives?

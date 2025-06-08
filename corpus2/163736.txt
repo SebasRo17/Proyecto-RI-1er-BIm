@@ -1,0 +1,1 @@
+In agile process, the product owner put the unformal ideas/user story/backlog items to the sprint/iteration. Sprint/iteration is like a plan for a short term and it is drived by daily meeting. Planning is made in both processes. So what's the difference between agile and the old plan based developing?

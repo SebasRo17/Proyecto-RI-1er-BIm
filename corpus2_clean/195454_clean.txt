@@ -1,0 +1,1 @@
+written rather small app one activity understanding activity seen kind view controller one even little app num dialog made anonymous inner class come activity num loc became hard maintain activity house mainly android lifecycle handler view handling business logic little handle activity class keep readable maintainable

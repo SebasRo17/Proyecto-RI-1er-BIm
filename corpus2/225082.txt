@@ -1,0 +1,1 @@
+I have a Entity Framework Database First Model. I want to write a MSTest/nUnit test to verify that all the stored procs, tables and views that are defined in my edmx model are still valid on the database.

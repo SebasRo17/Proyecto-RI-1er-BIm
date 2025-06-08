@@ -1,0 +1,1 @@
+I want to know what purpose does console solve in sublime text 2. This is invoked by pressing Ctrl+Shift+` Is this a kind of debugger, or It just helps you to install packages.

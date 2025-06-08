@@ -1,0 +1,1 @@
+I know, I know--it isn't possible presently BUT my question is this: Would it be possible to write a browser plug in for the major browsers that _enables_ true, multi-threaded JavaScript? It just seems like this would be possible and, if so, it would take the web (not to mention JavaScript) to new heights. Thanks!

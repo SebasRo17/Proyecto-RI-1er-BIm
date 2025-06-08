@@ -1,0 +1,1 @@
+I program primarily in python and have programmed a couple of GUI's with Tkinter, every tutorial I have ever seen has recommended defining and using a class for the GUI, but my GUI runs flawlessly using only procedures, without a class. Why use a class? It seems from my perspective to simply be an extra layer of complexity and unnecessary code.

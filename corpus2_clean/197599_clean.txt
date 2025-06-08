@@ -1,0 +1,1 @@
+basic angular tutorial seems like fetch json api display also double binding magic would use instead backend solution like rail build view backend serf user everything place already use case

@@ -1,0 +1,1 @@
+How useful would it be for a recruiter? In martial arts there are a minimum number of trainings, not years of practicing, to be evaluated for a higher level. I saw some exceptions but there are rare. In software, maybe this would be valuable to express experience in particular technologies such as OO, OR/Mappers or specific DBMS.

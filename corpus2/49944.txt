@@ -1,0 +1,1 @@
+I have a front end C# that needs to call a C++ back end. So interop is needed. I have an "interop layer", that converts the C# data structure into C++ structure, and do all the memory freeing grunt work. My question is, should I write this interop layer as a _static_ class, or should I wrap it in a normal class and instantiate it as an object when I need to use it?

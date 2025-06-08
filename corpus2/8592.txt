@@ -1,0 +1,1 @@
+As the title suggests, what is a good shape of a table when doing pair programming ? Are there shapes that should be avoided? What are the reasons a certain shape is good or bad? (I _do_ have my own thoughts on this, but would like not to bias the discussion with that input just yet)

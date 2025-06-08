@@ -1,0 +1,1 @@
+What is a requirement traceability matrix? What are the differences between different requirement types and what are the advantages/disadvantages of using these matrices?

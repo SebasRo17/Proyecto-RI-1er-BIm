@@ -1,0 +1,1 @@
+I recently joined a startup, and we've been growing quickly over the last year. However, I've noticed that out of all the new hires (mostly sales and support) they are bringing in their own laptops to work. Is that normal? Most of the developers have basic linux boxes provided for them. Meanwhile the company keeps telling us every month that they've set a new revenue record.

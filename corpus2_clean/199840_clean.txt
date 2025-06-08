@@ -1,0 +1,1 @@
+came across question textbook solution sure solve question suppose host want send large file host b path host host b three link rate r1 500kb r2 2mb r3 1mb assuming another busy flow travel set link say host c host throughput file transfer know throughput traffic would min r1 r2 r3 would throughput traffic max r1 r2 r3

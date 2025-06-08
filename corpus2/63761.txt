@@ -1,0 +1,1 @@
+I'm looking for a comprehensive (or as close as possible) list of all the prototype-programming style javascript work done to date. Does anyone know of such a list somewhere, or have the knowledge to compile it somewhere and then reference it here?

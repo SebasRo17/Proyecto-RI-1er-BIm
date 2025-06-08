@@ -1,0 +1,1 @@
+I am writing an article about both programming language locking primitives (which are really wrappers for OS primitives) and database locking primitives. Are there any short wide-spread titles for these two types of locking? For example, "code locking" and "database locking"?

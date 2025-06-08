@@ -1,0 +1,1 @@
+Normally unit tests were written by developer who write the code, i.e. Test Driven Development. So what does Software Engineer in Test do?

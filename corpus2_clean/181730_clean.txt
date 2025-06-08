@@ -1,0 +1,1 @@
+done good normalization still need index table going affect performance even affect performance way good normalization column usually indexed already primary key foreign key seems like already effective normalize database might skipped indexing affect database effective query used work perform make database better

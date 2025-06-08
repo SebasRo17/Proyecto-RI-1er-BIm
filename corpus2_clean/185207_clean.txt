@@ -1,0 +1,1 @@
+would like propose solution company problem building consistent installers different environment current process build installer test perform testing update app config build installer production unfortunately lead issue past installer properly updated etc suggest best practice mitigate problem

@@ -1,0 +1,1 @@
+I use a 13" laptop. I want to test my responsive site designs on displays larger than 1280x800. Is there an easy way to do this? Or should I just set that as my top media query?

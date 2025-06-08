@@ -1,0 +1,1 @@
+find encapsulation concept bit confusing far read member private access private member must getter setter method public property define properly encapsulated yes protected member access protected member package reference class containing protected member improperly encapsulated please give clarification

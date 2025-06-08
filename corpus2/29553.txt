@@ -1,0 +1,1 @@
+Should error messages ever be presented to an end user and if so what rules or advice should you have about what should be in them?

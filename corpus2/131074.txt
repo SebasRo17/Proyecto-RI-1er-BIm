@@ -1,0 +1,1 @@
+We all know that the process of creating a design and the whole architecture of the software is very important before writing the code. But how deep should be dive into the design stuff - should we start from the general architecture and go down til the names of the classes or should be just designate common parts and start coding?

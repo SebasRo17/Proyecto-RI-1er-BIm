@@ -1,0 +1,1 @@
+buffer size choose read write file via posix fread fwrite function

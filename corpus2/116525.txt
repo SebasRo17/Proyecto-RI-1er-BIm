@@ -1,0 +1,1 @@
+I am trying to do some design in Blend 4. The sample data function of Blend is nice to have during design time, but it could be much more better to see the design in browser. Can anyone help me to use sample data created by Blend as real data (see same data in browser) also ? Thanks in advance.

@@ -1,0 +1,1 @@
+Think JSFiddle. LINQPad is pretty sweet for fast C# with similar options. Is there anything like LINQPad that runs in a browser?

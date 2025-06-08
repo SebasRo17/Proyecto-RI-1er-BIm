@@ -1,0 +1,1 @@
+This was a question I got in an interview. After asking the coding question, the interviewer asked how I would test the function. I answered with writing unit tests and test cases to try to cover every edge case. The follow-up was how much would I test before I stop? What's the interviewer looking for in these questions? and what are some good answers?

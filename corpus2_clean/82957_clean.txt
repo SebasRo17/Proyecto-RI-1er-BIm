@@ -1,0 +1,1 @@
+newbie web development started studying asp net mvc noticed cshtml replaces aspx using razor syntax design view supported designing asp net mvc webpage difficult without design view handle web page project without

@@ -1,0 +1,1 @@
+Recently I've been reading some blog posts regarding MVC and how it doesn't fit the web. I've learned about alternative patterns like the RMR Architecture. I'm curious what other patterns people are using on the web besides MVC? Also, if there is a framework that implements the pattern, please post a link to it.

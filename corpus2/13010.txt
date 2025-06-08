@@ -1,0 +1,1 @@
+When you are under pressure, the deadline is approaching, and a manager is breathing down your neck do you find yourself starting to write bad code? Do TDD and best practices slip by the wayside in order to get things done? What do you do in situations like that? What were your experiences?

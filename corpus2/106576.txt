@@ -1,0 +1,1 @@
+When asking an interview candidate to write a program on the whiteboard, do you expect the candidate to write code that is syntactically correct? I had two candidates, one of which wrote a syntactically correct program but the logic was not up to the mark, and the other had the logic better written but the syntax was crap. I favor the first candidate.

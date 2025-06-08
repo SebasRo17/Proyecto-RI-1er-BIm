@@ -1,0 +1,1 @@
+working application heavily depends asynchronous operation dealing promise however work feel getting chaotic hard maintain future assume validate success promise p failure reason assume another promise depending operation notification update see promise call heavily nested furthermore deal resolve reject method every step missing improve technique

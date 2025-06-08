@@ -1,0 +1,1 @@
+hope getting coworkers adopt automated unit testing method future project would like see proper example done simple lesson unit testing cover basic example seem convince anyone benefit unit testing offer open source project written php come extensive unit test done properly used example testing done

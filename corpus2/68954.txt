@@ -1,0 +1,1 @@
+Last time I checked C# was loved by many because it's a statically typed language but the introduction of ViewBag in ASP.NET MVC 3 brings the same problem that is there with strings: in a controller you type one thing and in the view you can by mistake type something else. What's the reason for making ViewBag dynamic? How is it better?

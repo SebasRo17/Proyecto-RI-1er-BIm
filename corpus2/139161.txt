@@ -1,0 +1,1 @@
+I wish to know if there's some way to know which is the elemnet of a logic operation is false?   Example.               if( String.IsNullOrEmpty(obj1) || (String.IsNullOrEmpty(obj2) )        throw("...............");       How can I kown which one of those is the empty one?

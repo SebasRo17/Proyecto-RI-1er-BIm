@@ -1,0 +1,1 @@
+I like `LaTeX`, but I find its macro system and logic both complex and weak. languages such as Schem/Lisp/Clojure are very good at macros. I imagine the entire document written in a lisp family language, which, when run, would emit LaTeX code and produce a document. Has this been done before? Any links?

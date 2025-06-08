@@ -1,0 +1,1 @@
+Why is there no exponentiation operation in hardware, even though many languages have builtin operators for it? Is it because even hardware implementations would need to use the same algorithm as software (i.e. no hardware implementation could be significantly more efficient), or because it is rarely used, or another reason?

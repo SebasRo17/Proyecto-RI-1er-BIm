@@ -1,0 +1,1 @@
+haskell often provides two version given f e f integral exist many standard library function two version length take drop etc quoting description overloaded version length particular instead returning return instance num however less efficient length question efficiency loss come detect using therefore u length better performance length generic default

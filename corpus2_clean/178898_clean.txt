@@ -1,0 +1,1 @@
+discussion seen seems atomic operation thread safety thing lot people say different anyone tell difference one

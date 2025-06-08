@@ -1,0 +1,1 @@
+Why did the creators of the Internet Protocol decide to use IP addresses to identify a particular computer? Why not just have a unique ID assigned to each computer upon manufacture, then use that ID for identification of the computer?

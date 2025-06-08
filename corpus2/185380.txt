@@ -1,0 +1,1 @@
+As all of us know that after IPv4 it came IPv6. How this transition happened? I just want to know was there any IPv5 also? or there is any other logic in naming this version of IP as IPv6?

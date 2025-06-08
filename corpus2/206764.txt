@@ -1,0 +1,1 @@
+When designing a RESTful API that uses JSON to respond to requests, I usually return an object like this when an error happens:               {       "error": "Something bad happened",       "error_code": "XXX"     }      Do I need to have a `"error": ""` or `"error": null` in my object when there is no error?

@@ -1,0 +1,1 @@
+possible take binary compiled armv7 architecture convert armv6 tool

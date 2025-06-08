@@ -1,0 +1,1 @@
+I am wondering what would be the formal and the most commonly practiced method of documenting business rules? Also how do you document the UI specifications of development artifacts (e.g. Documenting form fields and how buttons behave on form, info text .. etc)

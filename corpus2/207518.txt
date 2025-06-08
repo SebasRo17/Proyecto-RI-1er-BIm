@@ -1,0 +1,1 @@
+> HTML 4 supports a "title" attribute that can be inserted inside any HTML > tag. Inserting this attribute effectively gives the element a tooltip that > pops up when the mouse moves over it. It just seems like a bad word choice.. or am I missing something?

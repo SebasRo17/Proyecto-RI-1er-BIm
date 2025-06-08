@@ -1,0 +1,1 @@
+The model is defined first, then the controllers are fired based on the user request, and they will generate the views (the output). So it should be M->C->V, right?

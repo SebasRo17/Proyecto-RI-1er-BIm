@@ -1,0 +1,1 @@
+newbie learning every source file must contain public source file public moreover source file contain two public class restriction

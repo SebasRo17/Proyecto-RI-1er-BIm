@@ -1,0 +1,1 @@
+I wondered what functional languages are mainly used for? I've been reading about them and read about Haskell and others. Some seem to be just "academic" languages which makes little sense to me, so hoping to get a better idea of their uses in real world applications.

@@ -1,0 +1,1 @@
+In an async call pair you would rather have a BeginDoSomething & FinishDoSomething or PreDoingSomething & PostDoingSomething pair? Cheers

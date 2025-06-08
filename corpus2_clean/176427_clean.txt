@@ -1,0 +1,1 @@
+want create two dimensional layout rectangular shape grid made random sized cube cubed fit together equal padding margin space kind like comic book layout like image attached could procedurally practically would probably using graphic software render image know algorithm whatnot would need use generate randomized grid random cube

@@ -1,0 +1,1 @@
+I was wondering what design patterns **every** developer, no mather what dev language, should know and why?

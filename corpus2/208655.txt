@@ -1,0 +1,1 @@
+Is "pass by value" synonymous with "functional programming" ?   1. Are there any iterative programming languages that are (largely) "pass by value"?   2. Are there any functional programming languages that are (largely) "pass by reference"? Thanks.

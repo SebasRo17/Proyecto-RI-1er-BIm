@@ -1,0 +1,1 @@
+assuming project called bar would net port c bar sharp

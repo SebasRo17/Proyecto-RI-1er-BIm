@@ -1,0 +1,1 @@
+In a test I was asked: > What elements present in the general form of a rendezvous are not present in > Ada language? I was a bit stumbled as I thought Ada fully supported rendezvous. Now it seems it doesn't. Can anyone tell me what are those elements?

@@ -1,0 +1,1 @@
+I have often seen desktop applications in stores and banks. How do these desktop applications talk to a remote database central server? There will be a desktop application which is installed on multiple computers in multiple different locations. How do all these machines talk to one central remote database server?

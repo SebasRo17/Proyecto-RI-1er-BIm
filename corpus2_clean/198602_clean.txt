@@ -1,0 +1,1 @@
+say want build website support multiple language use mongodb datastore wonder good approach multiple version body title article one language keep version article document like collection key pair language text body field article way get num request viewing article also get might need response larger better solution

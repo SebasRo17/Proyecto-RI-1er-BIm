@@ -1,0 +1,1 @@
+interested creating chess endgame solving engine chess usually solved using endgame table base generated retrograde algorithm found artificial intelligence genetic algorithm applied chess programming however starting implementation wanted find whether chess played without endgame yes pro con alternative endgame table algorithm known problem

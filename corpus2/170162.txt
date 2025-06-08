@@ -1,0 +1,1 @@
+Is there a definitive listing of programming languages which don't use English for the keywords and statements in the language code? For example, I know that Russians back in the Cold War were developing their own computers on their architecture. I'm interested if there is a listing of programming languages that are not English based?

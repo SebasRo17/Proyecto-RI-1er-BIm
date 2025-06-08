@@ -1,0 +1,1 @@
+In a response to another question, a poster suggested that under the GPL: > ...you need to provide the human readable [code], not a whitespace stripped > version... Readability would seem to me to be subjective and unlikely to be explicitly required by the GPL. Is it?

@@ -1,0 +1,1 @@
+Are there any testing-related methodologies except TDD/BDD? I see a lot of people who practice their own testing approaches (e. g., see Ayende post), but I don't see any formalization for it, no naming for these approaches.

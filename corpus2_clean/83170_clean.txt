@@ -1,0 +1,1 @@
+seems silly compare two server considering meant different thing think lot similar thing store configuration distributed locking queueing etc got instance redis using production related thing would like simple synchronization server mostly configuration change require pushing simple locking server zookeeper give redis

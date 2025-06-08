@@ -1,0 +1,1 @@
+developing various website functionality cater various different use case django good notation showing behaviour stage e g swimlanes use bpmn num notation everything feel overusing probably abusing notation p example bpmn num diagram please recommend suitable notation showing interaction model view controller well inner business logic stage

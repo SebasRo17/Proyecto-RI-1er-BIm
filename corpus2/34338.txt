@@ -1,0 +1,1 @@
+How does an object oriented programmer understand the word "type"? I'm not aware of there being a type theory for object oriented programming because whenever someone mentions type theory it is always in the context of some kind of functional programming language so what does "type" mean in the object oriented context?

@@ -1,0 +1,1 @@
+developing app android need get information external database mysql read rest rest using http verb get post put delete respectively get insert update delete resource server e g get url controller customer id use simple php really necessary use rest dont understand must use rest simple php rest php restful

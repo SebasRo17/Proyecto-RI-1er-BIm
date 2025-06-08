@@ -1,0 +1,1 @@
+I have to query a large data-set (~500 MB) using a sqlDataReader but I have to save the data in three different formats. Instead of querying the database 3 times I'm thinking about saving the data to an in-memory table and then save the data from there. Is there a practical limit to a table size in memory? Any ideas for a better approach? Thanks!

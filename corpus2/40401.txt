@@ -1,0 +1,1 @@
+In their influential team leadership book, "Peopleware", DeMarco and Lister suggest that managers should provide "strategic but not tactical direction" for their IT teams. This is intriguing, but they don't go on to explain exactly what they mean! Any thoughts on what this intriguing idea looks like in practice? Is it a good or bad practice?

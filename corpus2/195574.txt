@@ -1,0 +1,1 @@
+Does anyone know how to create an algorithm capable of making the figure just like in the picture, when given a set of specific points (3D array) ![enter image description here](http://i.stack.imgur.com/9P1t0.jpg)

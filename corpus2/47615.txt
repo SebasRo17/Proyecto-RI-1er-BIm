@@ -1,0 +1,1 @@
+What will be the best way to manage reviewed source code in a source control repository? Should the source code go through a review process before getting checked in, or should the code review happen after the code is committed? If the review happens after the code is checked in to the repository, then how should that be tracked?

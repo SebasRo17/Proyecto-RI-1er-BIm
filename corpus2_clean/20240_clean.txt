@@ -1,0 +1,1 @@
+want build php web application always face problem need connect database deal related object tried codeigniter us special way connect database named active record known orm technique lot orm library best easiest fastest

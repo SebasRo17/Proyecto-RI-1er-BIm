@@ -1,0 +1,1 @@
+No one's perfect, and no matter what we do, we are going to produce code that has bugs in it from time to time. What are some methods/techniques for reducing the number of bugs you produce, both when writing new software and changing/maintaining existing code?

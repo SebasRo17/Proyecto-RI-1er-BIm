@@ -1,0 +1,1 @@
+I found in legacy code a class which name is BucketService. Because english is not my native language I was trying to translate that, but it doesn't make sense. I found few termins like bucket sorting and so on, but I still don't get it. Actually this word is used quite frequently in programming I would be helpfull for some simple explanation of that word

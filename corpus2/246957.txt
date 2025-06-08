@@ -1,0 +1,1 @@
+I want to make the basic trigonometric functions in maths inbuilt functions using my own header file . so as the users can do trigonometry in c language compilers.

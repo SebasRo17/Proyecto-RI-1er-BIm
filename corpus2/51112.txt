@@ -1,0 +1,1 @@
+I learned Prolog many years ago in University. During my professional life, I have never needed to use Prolog. Have I missed something special? As far as I remember Prolog requires completely different mindset comparing to prominent programming languages. **Is Prolog really ever used to implement something professionally useful?**

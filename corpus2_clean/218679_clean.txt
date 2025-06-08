@@ -1,0 +1,1 @@
+writing c library according site increment major version make incompatible api change changing namespace considered incompatible change api quite sure know whether increment major minor version number

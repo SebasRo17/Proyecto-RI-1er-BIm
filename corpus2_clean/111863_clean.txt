@@ -1,0 +1,1 @@
+hear lot tdd practitioner one tdd advantage force developer follow solid principle single responsibility open closed liskov substitution interface segregation dependency inversion enough write test unit test primarily understand important follow solid thus create testable architecture tdd force developer follow solid actively writing unit test

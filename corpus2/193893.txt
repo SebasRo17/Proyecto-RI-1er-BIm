@@ -1,0 +1,1 @@
+Are developers actually likely to receive significant _help_ by open sourcing a work in its unfinished stages, or are open source consumers more likely to want something ready to use? This is frequently cited as a benefit of open source, but I haven't been able to find evidence of it outside of already established products.

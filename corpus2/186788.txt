@@ -1,0 +1,1 @@
+As an example, if I have a Post service and have a method to retrieve all posts for the logged in user, is it OK to have a findPosts() method that uses an injected Security service to get the user ID and then pass that user ID to my post DAO to get the records? Or should the findPosts() method explicitly require the user ID as an argument?

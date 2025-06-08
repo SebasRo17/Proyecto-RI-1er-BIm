@@ -1,0 +1,1 @@
+I primarily work in C++. My question is, for a C++ developer, what languages are beneficial to learn, from a job-profile point of view. For example, I see a lot of work combining C++ and Php these days. Conversely, I don't see a lot of work combining Ruby and C++ (unfortunately). Of course, learning another language is beneficial regardless of whether it compliments a language.

@@ -1,0 +1,1 @@
+current websocket rfc requires websocket client mask within frame sending server required reason protocol designed way prevent frame altered malicious service client server proxy etc however masking key still known service sent per frame basis beginning frame wrong assume service still use key alter mask content passing frame next point wrong fix supposed vulnerability

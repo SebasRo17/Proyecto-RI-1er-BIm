@@ -1,0 +1,1 @@
+I'm not sure this question can be asked here, but nevertheless. Almost each operating systems or systems programming course is taught using UNIX only. I wonder what are the reasons for this? Why Windows does not take at least a half of those courses?

@@ -1,0 +1,1 @@
+new smalltalk currently trying wrap head around gnu smalltalk pharo environment upon browsing introductory session pharo example came know lot base repository submitted programmer pharo site well say anyone refer huge base available would like know actually browse load peek source project within ide get basic understanding smalltalk syntax pharo please help

@@ -1,0 +1,1 @@
+call static final field constant rather say constant call final field constant right say edited consider following final num final b x x b public static arg new num num field instance field b different different instance call final field constant final field b constant

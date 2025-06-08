@@ -1,0 +1,1 @@
+preparing interview try solve exercise problem book num num num describe modify balanced tree structure search insert delete minimum maximum still take log n time successor predecessor take num time operation modified support solution maintain extra pointer successor predecessor update pointer insert delete nothing else right trick involved thanks

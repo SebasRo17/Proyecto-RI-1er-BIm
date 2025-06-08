@@ -1,0 +1,1 @@
+question jquery plugin file including jquery library came today stackoverflow strongly advised including jquery plugin really get support others fact support include jquery ok good reason think really bad idea think developer using plug version jquery used

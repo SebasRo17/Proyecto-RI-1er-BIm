@@ -1,0 +1,1 @@
+Are there any good books to learn about distributed computing ? I work on large scale java applications. Recently my colleagues started talking about things like distributed cache, load balancing, BigMemory (Terracotta thing),parallel processing etc., Is there any good book that gives an introduction to these concepts.

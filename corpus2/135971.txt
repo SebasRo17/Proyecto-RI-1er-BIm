@@ -1,0 +1,1 @@
+Since learning (and loving) automated testing I have found myself using the dependency injection pattern in almost every project. Is it always appropriate to use this pattern when working with automated testing? Are there any situations were you should avoid using dependency injection?

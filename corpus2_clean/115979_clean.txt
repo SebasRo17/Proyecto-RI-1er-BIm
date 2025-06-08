@@ -1,0 +1,1 @@
+watched google tech talk presentation unit testing given hevery said avoid using new keyword business logic wrote program end using new keyword mostly instantiating object hold ie function method wondering something wrong used new keyword program break rule

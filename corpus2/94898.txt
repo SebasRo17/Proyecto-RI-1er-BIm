@@ -1,0 +1,1 @@
+How would you go about defining a standard? I am defining a protocol for a sort of thing that does not exist yet and I would like to create an RFC for it, and use a well-known port number provided by IANA. How do I start?

@@ -1,0 +1,1 @@
+If you know MariaDB, what's your opinion about migrate applications to use MariaDB instead of MySQL? What we gain and what we lost with this change? Is it really unnecessary to change the application in any situation? Any tip to assure the application run smoothly on MariaDB?

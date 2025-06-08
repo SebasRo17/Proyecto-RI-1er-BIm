@@ -1,0 +1,1 @@
+Are there some recomendations on Open Source or Free **PHP Encoder** systems? Is something available?

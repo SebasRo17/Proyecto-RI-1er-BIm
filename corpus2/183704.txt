@@ -1,0 +1,1 @@
+Objective-C lacks private methods or java-esque final methods. This means that it is possible for a subclass to (accidentally) override some of the internals of a superclass. How does one prevent overriding methods in Objective-C?

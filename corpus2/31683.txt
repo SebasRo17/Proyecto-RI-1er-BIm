@@ -1,0 +1,1 @@
+I've looked at other anti-spam algorithms, notably Reddit's, but they seem to be inadequate and naive: for example, only banning specific words (like "spam") that appear in the title of a post. How can one approach this problem? Are there any tools that would help in this case, and for high-activity online community websites in general?

@@ -1,0 +1,1 @@
+I have the following question:               Convert the following grammar into an LL(1) grammar which recognises the same     language (you may assume that the grammar is unambiguous).     A -> int     A -> int + A     A -> int - A     A -> A - (A)      What are the steps or rules I must follow to convert this grammar to ll(1)?

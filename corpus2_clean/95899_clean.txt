@@ -1,0 +1,1 @@
+page following want stop event e g prevent default action stop bubbling extended event event stop foo observe click event event stop

@@ -1,0 +1,1 @@
+reading file bll sitting ui layer currently application using httpcontext current request find absolute path written bll feel good design thinking pas information kind structure bll could use helper get please let know one better better solution suggestion please ask need detail

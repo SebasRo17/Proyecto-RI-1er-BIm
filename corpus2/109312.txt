@@ -1,0 +1,1 @@
+In discussions about NoSQL vs SQL databases, I sometimes hear that companies prefer to use schemaless NoSQL databases because it is problematic to migrate the schema to a new version. But is that really a big problem when doing upgrades? Are relational databases bad for such operations? I read this blog post on the MongoDB blog: Why Schemaless?

@@ -1,0 +1,1 @@
+I am new to Java; through my studies, I read that reflection is used to invoke classes and methods, and to know which methods are implemented or not. When should I use reflection, and what is the difference between using reflection and instantiating objects and calling methods the traditional way?

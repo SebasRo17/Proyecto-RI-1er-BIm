@@ -1,0 +1,1 @@
+I'm looking for advice from people who have actually migrated a large system from WebForms to MVC. What are the things to watch out for? The literature says that both can co- exist for the same system but was it really that easy? Was managing authentication between the two seamless? Was maintenance easier/tougher after that? Thanks.

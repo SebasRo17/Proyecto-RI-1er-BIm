@@ -1,0 +1,1 @@
+possible duplicate getters setter justified exactly public private accessors like private foo public foo get foo set foo considered better public one like public foo end result seems

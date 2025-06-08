@@ -1,0 +1,1 @@
+I'm kind of horrified that people actually suggest using UTF-8 inside a `std::string` and are OK with UTF-16 `std::wstring`. Do you actually do this? Do you think that it is OK?

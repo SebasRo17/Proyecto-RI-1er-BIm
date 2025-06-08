@@ -1,0 +1,1 @@
+Is it possible for an application to request a socket (tcp) and have it set the source address without using raw sockets? (the addresses would be bound to the interfaces. [no spoofing]). This would be a tcp client connection, not bind()ing to a specified address.

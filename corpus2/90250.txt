@@ -1,0 +1,1 @@
+I am delving into the science of UML. The tool I am using is **ArgoUML**. I feel very confident portraying OO designs through this tool. But what still vexes me is the incorporation of the database. What does one do in UML to show table structure? Stored procedures? So on and so forth.

@@ -1,0 +1,1 @@
+whether could checked implicitly like assertthat isequalto something could checked explicitly assertthat isnotnull assertthat isequalto something latter make expectation bit clear blow test good reason prefer second approach first

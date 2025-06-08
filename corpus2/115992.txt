@@ -1,0 +1,1 @@
+After having hard time trying to remember details of my past projects several years ago I was wondering how programmers usually keep track of that? This kind of information comes handy with job interviews etc. Do you write down technologies used, challenges faced etc to some kind of "jumbo CV"? Or do you just trust your memory?

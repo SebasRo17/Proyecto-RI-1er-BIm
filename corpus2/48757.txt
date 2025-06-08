@@ -1,0 +1,1 @@
+A record can implement protocols. However, each time I think of a new function that I would like the record to implement, I have to add it to an existing protocol or create a new protocol. How do I get around this? Ideally, I'd just like to associate a function to a record without having to define a protocol.

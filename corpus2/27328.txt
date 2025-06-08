@@ -1,0 +1,1 @@
+I've never been really convinced of the advantages that you get by switching over to RSpec from Test::Unit in Ruby on Rails (despite reading from time to time about RSpec). What is it about RSpec that most Rails project seems to be using it? (some code examples clearly indicating advantages of one over the other would be much appreciated)

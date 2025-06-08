@@ -1,0 +1,1 @@
+In a general sense, for medium/big projects, what's the best way to handle javascript/ajax code? Is it better, to have a script file where to put each script or, to add the script directly into the html file between tags? I know it doesn't make any difference in terms of result, but i would like to understand what's is easier to mantain in long terms.

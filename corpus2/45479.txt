@@ -1,0 +1,1 @@
+My team uses Team Foundation Server for source control, and today I fixed some bugs and smoke test application before I checked it in but I forgot to comment some code. (This code made the UI a little bit strange.) I want to know what good practices there are before checking code in - I don't want to make this kind of mistake again.

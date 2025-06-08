@@ -1,0 +1,1 @@
+In my new company, I wanted to use Doctrine DBAL for data abstraction. But it's not working due to the PHP Version 5.2 we are using on our development server. Here it's all about rights issues. You don't have access to anything. I can't use anything new due to this rigidity of the product! What can I do about this? How should I talk to my TL and project manager about this?

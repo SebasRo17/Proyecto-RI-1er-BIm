@@ -1,0 +1,1 @@
+What are the differences between a while loop and a for loop? It seems to me that they are the same.

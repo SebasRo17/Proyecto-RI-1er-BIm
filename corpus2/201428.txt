@@ -1,0 +1,1 @@
+We java developers always know that you should always override equals() when you override hashCode(), but I consistently have trouble remembering this rule. What is a clever mnemonic to help Java developers remember this?

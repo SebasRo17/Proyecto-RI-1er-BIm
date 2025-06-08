@@ -1,0 +1,1 @@
+Aside from the technical specifics, what should be on your checklist for when you go live with a program? **Are there last minute things you can do to make a piece of software go into production smoothly?** (assuming you used sound principles in development and tested the average amount) More testing? Discussion with the client? Last minute optimizations?

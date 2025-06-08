@@ -1,0 +1,1 @@
+new c wanted know question regarding makefile num writing makefile really important mean many ide automatically also people programming job write makefiles use automation num learn gnu make something else like cmake anyone point pro con

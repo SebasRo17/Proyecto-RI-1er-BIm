@@ -1,0 +1,1 @@
+syntax iterators somewhat similar syntax c iterator sequence iterator hasnext system println next make sense equivalent syntax iter sequence try next except break thought exception supposed used well exceptional circumstance use exception stop iteration

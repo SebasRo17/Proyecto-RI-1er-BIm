@@ -1,0 +1,1 @@
+trying configure mysql database table use per user group permission table almost like facebook local company intranet site best possible way design table would allow find user permission fewest amount query

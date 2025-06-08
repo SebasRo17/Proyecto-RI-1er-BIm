@@ -1,0 +1,1 @@
+following successful git branching model guide development still wonder way handle bug ticket correct current workflow accept bug ticket git checkout b bug ticket number create single commit fix checkout develop git merge ff love hear experience others whether abusing ff option instance could someone suggest better approach

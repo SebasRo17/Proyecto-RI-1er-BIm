@@ -1,0 +1,1 @@
+There are a number of both open and close source off the shelf solutions. For example Magento has an impressive list of sites that use them for eCommerce. There are also stories such as this (only link to last section) where an eCommerce site is developed from scratch with great success. I'm wondering if there's an objective way to approach the build vs customize decision?

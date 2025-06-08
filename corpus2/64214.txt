@@ -1,0 +1,1 @@
+_Certanly it has been, it must've been, but I just don't seem to be able to find it answered already._ What are some good /or mediocre for that matter/ free private git hosting sites out there for storing some private projects? I would use Dropbox but I've heard bad things about how it can screw up the repo on sync.

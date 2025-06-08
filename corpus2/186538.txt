@@ -1,0 +1,1 @@
+I have a Silverlight application that uses Entity Framework. The application are protected with a login made in ASP, so only valid users get the xap file. Have do I secure the WCF calls to the Entity Framework? I have to make the calls over https, but have can i make sure that only valid users can get data from the WCF service? Thanks Jakob

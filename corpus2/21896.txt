@@ -1,0 +1,1 @@
+I frequently encounter a situation where I need to write a program which reads data-objects from a file or system, does a transformation on the data, convert the data to another datamodel and then push the data in another file, or system. Do you know of a object-model which facilitates these type of programs in such a way that it is pluggable and scalable?

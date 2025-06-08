@@ -1,0 +1,1 @@
+written version c using temporary size num space complexity num n n p j k temp num num num temp num num n k temp k j num j j k p j temp k num temp k else break j printf occured n else printf occured n program working correctly wanna know space complexity thanks

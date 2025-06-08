@@ -1,0 +1,1 @@
+I'm reading Coders at Work and Brendan Eich cites a paper by Norvig, from when he was at Harlequin, "about how design patterns are really just flaws in your programming language." Can anyone provide the link to this paper?

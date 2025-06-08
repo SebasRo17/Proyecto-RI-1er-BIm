@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  What should every programmer know about web development? I'm not sure where to start with web development. I have experience with HTML and PHP fundamentals and have tried out a little CSS. As of yet, I haven't tried Javascript. Should I focus on one of these or something else?

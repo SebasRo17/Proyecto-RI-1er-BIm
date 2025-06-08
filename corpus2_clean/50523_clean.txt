@@ -1,0 +1,1 @@
+implementing voting system need fellow programmer see anything could go wrong user valid email perhaps captcha stop automated voting instead traditional login vote

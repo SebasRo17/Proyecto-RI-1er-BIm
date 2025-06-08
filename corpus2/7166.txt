@@ -1,0 +1,1 @@
+Thoughts on these? Python is one example, and no this is not a stab against Python I like the language. What languages have a indentation requirement?

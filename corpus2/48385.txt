@@ -1,0 +1,1 @@
+When a .net project use newer technologies like ASP.net MVC or Silverlight, is VB.NET being used? Or it is used just in the legacy projects? What is the situation now?

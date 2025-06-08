@@ -1,0 +1,1 @@
+Most of Haskell syntax has beauty of purity. But the record syntax looks ugly. It's uncomfortable. It feels some kind of mixture with C. It requires comma and braces. Haskell has tab,line based separation. So it looks too verbose than originally it requires. Why is it designed in that way?

@@ -1,0 +1,1 @@
+I'm work on a simple blogging web application using Java and MySQL as the database backend. I'm implementing the whole application using plain HTML and servlets. I'm using a Java class with static methods that are called from within servlets to handle communicating with the database. Is this a good design? Or what should I do instead?

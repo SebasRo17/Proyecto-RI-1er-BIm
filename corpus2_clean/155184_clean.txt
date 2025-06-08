@@ -1,0 +1,1 @@
+learning lisp gotten let quite understand implementation common definition given term lambda macro however nowhere seen let must implemented macro term lambda possible define let without using macro lambda know implemented primitive want know whether implemented lisp without creating macro creating special form

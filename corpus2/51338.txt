@@ -1,0 +1,1 @@
+How do programmers in countries whose writing system is, say, right-to-left write their code? Say if they were using C# compiler, do they follow the left- to-right approach or do they have a different IDE that allows them write C# code right-to-left?

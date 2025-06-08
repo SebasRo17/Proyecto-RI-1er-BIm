@@ -1,0 +1,1 @@
+developing desktop application file manager c copy cut paste operation use default method net like system io file copy system io file move limitation method know alternative method win32 api maybe

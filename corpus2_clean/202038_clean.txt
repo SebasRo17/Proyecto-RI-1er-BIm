@@ -1,0 +1,1 @@
+benefit removing unused reference v project done using resharper v automatically take care building deploying

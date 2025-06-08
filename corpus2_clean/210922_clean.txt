@@ -1,0 +1,1 @@
+question ca1819 msdn performance warning rule array returned property write protected even property read keep tamper proof property must copy typically user understand adverse performance implication calling property specifically might use property indexed property understand rule want know happens array yes

@@ -1,0 +1,1 @@
+Have you ever built a solution for a client and in the months to follow, the client goes bankrupt and so can't accept the work done? What do you do? Re-purpose the code, and "put it out there"? Leave the code alone and be thankful for the knowledge and expertise gained? Shop around elsewhere for a buyer? EDIT: It's an asp .net solution for use in a financial context

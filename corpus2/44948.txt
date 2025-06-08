@@ -1,0 +1,1 @@
+As you must be aware that IPv4 addresses ar almost over and the switch to IPv6 is imminent, should I, as a programmer need to worry about anything to make my applications work with the new system ? Please pardon my ignorance. Its always better to ask and learn than pretending to know-it-all.

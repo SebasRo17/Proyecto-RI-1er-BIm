@@ -1,0 +1,1 @@
+How can one achieve both the 8th and 12th point, i.e. > Do programmers have quiet working conditions? and > Do you do hallway usability testing? mentioned in The Joel Test: 12 Steps to Better Code?

@@ -1,0 +1,1 @@
+What are the things that took you only a little time to learn, but had a big payoff? And how long did it take to learn enough before the they began to pay off? For instance, I’m not a master of regular expressions, but it probably took a couple of hours to understand the basics enough for to start using them and they come in handy on a regular basis.

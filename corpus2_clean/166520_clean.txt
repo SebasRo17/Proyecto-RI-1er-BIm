@@ -1,0 +1,1 @@
+one question mind case circular doubly linked list head pointer doubly linked list also logically point next pointer tail node linked list tail next pointer also point previous pointer head please answer question bit confused

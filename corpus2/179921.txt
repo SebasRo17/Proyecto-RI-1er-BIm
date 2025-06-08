@@ -1,0 +1,1 @@
+I am training an engineering fresh out of college to work on testing (both manual and automated testing). What are some possible ways to go about it? (books, videos, beta testing sites, etc.) Obviously I will be using the person on our codebase too, but I am also interested in them gaining a larger breadth of testing knowledge that they can then bring into our project.

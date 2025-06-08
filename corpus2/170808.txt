@@ -1,0 +1,1 @@
+Some colleagues of mine have told me that having business logic in stored procedures in the database violates the three-tier separation, since the database belongs to the data layer whereas stored procedures are business logic. I think the world would be a very grim place without stored procedures. Do they really violate the three-tier separation ?

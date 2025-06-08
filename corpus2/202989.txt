@@ -1,0 +1,1 @@
+Beside RoR, what do people use Ruby for? Is there any use for Ruby on Windows platform? If you use ruby for scripting why not use Bash or Powershell?

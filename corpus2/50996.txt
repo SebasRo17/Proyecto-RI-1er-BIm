@@ -1,0 +1,1 @@
+I would love to create some database diagrams like this one with Visio but I can't find any templates at all for that kind of notation. The example I linked to was apparently made in Photoshop, which sounds like a terrible way to make ERDs. Are there any good Visio templates for this sort of thing? (I have Visio 2010 Pro, by the way.)

@@ -1,0 +1,1 @@
+Almost all of the mobile phones, except the ones being produced by Intel, use ARM based processors while desktop/server industry is dominated x86 processors. What features does one provide over the other with regards to the domination they have in their respective sectors?

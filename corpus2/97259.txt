@@ -1,0 +1,1 @@
+I find nothing to do in my spare time. And I want to practice my c++ skills on project. The idea is to rewrite a project in c++, such project like Minix. Is this a good way to improve my programming and architecting skills or it's a waste of time?

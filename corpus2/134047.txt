@@ -1,0 +1,1 @@
+While researching Metro and WinRT I haven't been able to find anything regarding enterprise apps and database access. All I hear about is the front end development. Does anyone have any idea of how a Metro app will access a database server? Will this still be done through ASP.Net and ADO.Net? If not, then does anyone have any idea or guess as to how?

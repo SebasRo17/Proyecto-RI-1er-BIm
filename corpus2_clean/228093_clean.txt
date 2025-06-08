@@ -1,0 +1,1 @@
+good practice put bug number file inside header comment comment would look something like modified mm dd yy abc num num num bug num npe drill across dashboard edit mode num num num bug num description seems helpful considered bad practice

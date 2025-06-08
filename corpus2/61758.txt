@@ -1,0 +1,1 @@
+I used to be an iPhone app developer. Now there are frequent enquires on cross-platform mobile app. So I look for a web based solution and find Sencha Touch. Are there more options? What's your experience and comment on these frameworks? Thanks!

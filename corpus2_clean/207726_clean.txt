@@ -1,0 +1,1 @@
+writing first application android use sqlite database trying limit size much possible think question applies general database design planning store record text date creation app stand alone app e link internet one user updating chance one entry given date table still need id column advantage using id record identifier opposed date

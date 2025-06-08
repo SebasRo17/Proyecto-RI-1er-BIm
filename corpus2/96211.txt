@@ -1,0 +1,1 @@
+I'm doing some data transmission from a dsPIC to a PC and I'm doing an 8-bit CRC to every block of 512 bytes to make sure there are no errors. With my CRC code enabled I get about 33KB/s, without it I get 67KB/s. What are some alternative error detection algorithms to check out that would be faster?

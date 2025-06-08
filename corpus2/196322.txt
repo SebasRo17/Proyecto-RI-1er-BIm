@@ -1,0 +1,1 @@
+It's pretty easy to track when we fix security vulnerabilities in existing code. But to make sure the whole team is staying on their toes about writing secure code, I'd like to also track how well we are preventing and avoiding writing new security vulnerabilities. What is the right way to measure that?

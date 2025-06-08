@@ -1,0 +1,1 @@
+know integration testing mean integrating unit tested testing interface error etc real world example kinda lost example system back end front end flex back end heavily lot test weekly automated regression system test think hand back end part testing say system testing ui part involved well testing ui cannot test logic processing

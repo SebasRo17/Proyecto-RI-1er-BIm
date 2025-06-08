@@ -1,0 +1,1 @@
+All characters in ASCII can be encoded using UTF-8 without an increase in storage (both requires a byte of storage). UTF-8 has the added benefit of character support beyond "ASCII-characters". If that's the case, why will we _ever_ choose ASCII encoding over UTF-8? Is there a use-case when we will choose ASCII instead of UTF-8?

@@ -1,0 +1,1 @@
+Looking at the Friend Connect sites, documentation, example, I've noticed that:   * there haven't been updates in a long time   * many of the sites used as example sites are dead or abandoned   * the community (forums, message boards, etc) is relatively silent Is google's Friend Connect set of tools defunct/abandoned, or is it still actively being used, developed and marketed?

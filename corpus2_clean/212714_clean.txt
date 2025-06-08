@@ -1,0 +1,1 @@
+couple project depend additional file like image config file compiling installing program like cmake specify installation directory let make install install somehow program figure dependency within folder withing linux file system far absolute path like etc config ini problem cannot test program without installing system easily c

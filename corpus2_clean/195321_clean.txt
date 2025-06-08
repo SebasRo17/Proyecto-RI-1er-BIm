@@ -1,0 +1,1 @@
+trying understand wrote point circle radius num note first last point intentionally coincide num x num co num num num num num num sin num num num num num x num num num num end supposed circle following figure demonstrates plot mathematica look like ellipse something wrong way mathematica plot command plot x num num num num

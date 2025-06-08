@@ -1,0 +1,1 @@
+rail app user buddy user since relationship status approved rejected pending decided go join model attribute handle state join model controller action restful endpoint changing state relationship bad practice handle state change relationship user model

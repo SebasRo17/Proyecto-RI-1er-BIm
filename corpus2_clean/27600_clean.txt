@@ -1,0 +1,1 @@
+love writing unit test agree excellent way test prevent regression etc however find unable write much vast majority work day day application display ui user good way unit testing application best practice looking specific answer framework etc rather general approach problem

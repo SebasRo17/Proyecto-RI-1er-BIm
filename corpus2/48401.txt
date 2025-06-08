@@ -1,0 +1,1 @@
+The typical reason I hear to why people bash C++ is that they don't actually know C++, they just know "C with classes", which apparently is different. I am just beginning to learn C++, however, I want to actually learn C++ and not simply "C with classes". How can I ensure I learn C++ properly? Some examples would be wonderful.

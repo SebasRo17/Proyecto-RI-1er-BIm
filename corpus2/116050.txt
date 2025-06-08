@@ -1,0 +1,1 @@
+Aren't you essentially writing the same data twice, to the disk? Doesn't this cause a slowdown of a factor of ~2x? What optimizations can be made to minimize the cost of having to write things twice?

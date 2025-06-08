@@ -1,0 +1,1 @@
+aware floating point arithmetic precision problem usually overcome switching fixed decimal representation number simply neglecting however know cause inaccuracy many rounding issue float number

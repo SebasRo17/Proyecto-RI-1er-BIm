@@ -1,0 +1,1 @@
+In Java particularly Android development, is there any difference between declaring an object like               SomeObject object = new SomeObject();     someField.setObject(object);      compared to an anonymous object (not sure if that's what is called)               someField.setObject(new SomeObject());      performance wise? Or improvements in memory. Thanks.

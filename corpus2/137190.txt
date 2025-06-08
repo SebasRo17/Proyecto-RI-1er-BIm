@@ -1,0 +1,1 @@
+In this Stack Overflow question: http://stackoverflow.com/questions/9471332 I learned that Jscript is not dead after all. Yay! But what is JScript.NET good for? According to this article, you can use it to provide C# with an Eval function. That's neat, but it seems like kind of an edge case. If you were after first-class scripting capability, doesn't PowerShell fit the bill?

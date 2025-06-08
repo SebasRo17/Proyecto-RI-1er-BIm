@@ -1,0 +1,1 @@
+(Let me know if this is the wrong SE for this) Why is a Here Document (or Heredoc) called that? Wikipedia didn't have anything to say on that particular subject. I did find unix docs describing a "Here is document", is that the original form?

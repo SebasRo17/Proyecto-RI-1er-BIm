@@ -1,0 +1,1 @@
+I just subscribed to a facebook page which post links to different open source projects or code archives. I'll like to save those links and descriptions to a local db. How can I do that? I heard something about the concept of web spiders and I know some php and java but I don't know how can I solve the problem from above. Thank you!

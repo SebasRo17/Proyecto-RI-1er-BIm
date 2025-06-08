@@ -1,0 +1,1 @@
+I heard a while back that there used to be a compiler that attempted to fix syntax errors by analyzing context and inferring what was intended. Does such a compiler really exist? Obviously it has little practical value, but would be very interesting to play with and learn from.

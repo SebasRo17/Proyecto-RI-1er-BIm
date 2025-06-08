@@ -1,0 +1,1 @@
+coding standard style enforced continuous integration server running static analysis tool ex pmd stylecop fxcop failing build standard followed type rule used fail build

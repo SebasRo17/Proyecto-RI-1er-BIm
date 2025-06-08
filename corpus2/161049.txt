@@ -1,0 +1,1 @@
+As the title says, I find it useful to be able to overload operators. Is it possible to also change the way the operators are parsed by specifying the precedence and associativity of overridden operators?

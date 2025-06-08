@@ -1,0 +1,1 @@
+today seen article described relevance solid principle f development f design principle solid addressing last one dependency inversion principle author said functional point view container injection concept solved simple higher order hole middle pattern built right language explain question dependency inversion related higher order function

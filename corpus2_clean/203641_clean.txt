@@ -1,0 +1,1 @@
+language con list major datatype easy create list last first prepending item processing file however one likely encounter item first last order language like typically recurse define parse file con datum parse file use append operation step build list reverse order reverse canonical design pattern solve problem typically going reverse order way list constructed

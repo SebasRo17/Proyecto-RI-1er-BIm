@@ -1,0 +1,1 @@
+Can you think of some reasons that the management force the developers to write and call Stored Procedures instead of inline SQL statements directly? Even a very simple CRUD statement, writing a stored procedure takes more time and create extra workload.

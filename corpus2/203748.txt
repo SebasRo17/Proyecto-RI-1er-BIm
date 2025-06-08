@@ -1,0 +1,1 @@
+The Evercookie project has several contributors and there is no explicit license for the code. There is currently discussion on the dev mailing list trying to figure out what the licensing options are.   * Is there any tool or process that can be used to find consensus among the various licenses?   * What can be done if some contributors are non-responsive, can't be found, etc?

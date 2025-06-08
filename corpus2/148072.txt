@@ -1,0 +1,1 @@
+I'm trying out Visio for the first time today, creating ERD's. Is it possible to specify alternate keys in _addition_ to PK's in Visio ERD diagrams. I can't see any way to define more than one key on a table. Any ideas? Cheers.

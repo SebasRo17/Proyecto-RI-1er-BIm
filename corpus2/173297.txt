@@ -1,0 +1,1 @@
+Given that GitHub provides GUI apps for both Mac and Windows, what are the benefits of learning to use git from the command line? Currently I'm using their mac app to update my repositories, and so far it seems to cover my needs. What might I be missing out on?

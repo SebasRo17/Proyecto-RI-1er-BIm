@@ -1,0 +1,1 @@
+I'm working on a C++ wrapper for libpcap and I'd like to get more into version control as I'm not experienced with this (the only reason I used it was to put code on GitHub :)). Does it make sense to schedule nightly builds for a one-man project? What advantages are there in doing this?

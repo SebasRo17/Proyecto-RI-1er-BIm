@@ -1,0 +1,1 @@
+adding salt value hash something like password cannot stored plain text best place get salt value come context let u suppose password webpage login

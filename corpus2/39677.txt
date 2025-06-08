@@ -1,0 +1,1 @@
+While doing my pre-research for this question, I found that there isn't much well-organized information about Java Swing best practices out there on the Internet. So I figure I'll give Stack Exchange a shot at building that One Great List. What are the best practices of Java Swing development? What have you found to work for you, and why?

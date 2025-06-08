@@ -1,0 +1,1 @@
+back day common manage database transaction writing something like transaction tx session try tx commit catch someexception e tx rollback beginning end every obvious problem redundant hide intent happening etc along came annotation driven transaction transaction public getresult support declarative transaction management node j

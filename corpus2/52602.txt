@@ -1,0 +1,1 @@
+I need to use a group of Java classes licensed under the Mozilla Public License. I want to close the source code of my application. Is it possible without charging a fee for the MPL classes?

@@ -1,0 +1,1 @@
+Just like we can measure complexity of code and algorithm, are there any metrics for measuring architecture/design/solution space complexity.

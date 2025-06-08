@@ -1,0 +1,1 @@
+Maybe I don't understand closures fully but take for example C#, why would I use closures when I can use classes? Am I missing something? Note that I read this one already but my question is specific to closure: Introducing functional programming constructs in non-functional programming languages

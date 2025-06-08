@@ -1,0 +1,1 @@
+I read the hardware requirements of WCF in a book and two of them are the following ones:   * A DVD-ROM drive   * A 1024 × 768 or higher resolution display with 256 colors or more Why is there a requirement for the screen resolution, or to have a DVD drive? Perhaps, this requirement is necessary for Visual Studio to work. Am I wrong?

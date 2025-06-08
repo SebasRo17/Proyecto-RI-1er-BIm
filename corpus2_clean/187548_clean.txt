@@ -1,0 +1,1 @@
+simple piece c incorrect easy see tool like valgrind tell running several c code containing kind noticed time ended segmentation fault try use address question safe claim trying use address allocated inevitably lead segmentation violation corresponding public using address allocated ptr x ptr

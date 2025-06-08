@@ -1,0 +1,1 @@
+unix whenever want create new process fork current process e create new child process exactly parent process exec system call replace child process new process e replace parent process new process create copy parent process first place create new process directly new unix please explain lay man term

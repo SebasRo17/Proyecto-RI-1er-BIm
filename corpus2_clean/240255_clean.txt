@@ -1,0 +1,1 @@
+suppose grammar like member member pair pair number char char char number digit digit number could parse following example one num far understand token member pair char tokenizing example produce member pair one num parsing token produce pair one num seems like tokenizer either useless fully understand responsibility tokenizer benefit tokenizer parsing original

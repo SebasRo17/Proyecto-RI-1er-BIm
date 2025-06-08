@@ -1,0 +1,1 @@
+What is that feature according to you that has made object oriented programming so much successful ?   1. Message Passing   2. Inheritance   3. Polymorphism   4. Encapsulation Or some other feature that you may like to introduce. Also I would like to know that what is the connection between Abstract Data type and Object Oriented programming?

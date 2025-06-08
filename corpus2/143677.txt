@@ -1,0 +1,1 @@
+Can my MIT/BSD licensed, open source project, or a closed source project I build and sell, execute a command, where the command is a program released under the GPL? I would not be distributing any version of the GPL'd program, either source code or binary. I would be telling the customer/end user that they need to have the package/binary installed prior to running the program.

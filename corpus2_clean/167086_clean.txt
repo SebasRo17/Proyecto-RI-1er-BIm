@@ -1,0 +1,1 @@
+open source compiler contain builtin shared caching reuse fetching using sha1 hash version build flag target platform input executable object elf coff similar scons many large software project would benefit enormously required build disk space time present say gcc

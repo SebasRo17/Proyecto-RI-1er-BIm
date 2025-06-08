@@ -1,0 +1,1 @@
+Today's testing is not much like yesterday's testing. More services, more distributed systems, more automation. I want the kind of testers that are self-starters and will constantly work themselves out of the job by writing test code. What are good interview questions for the modern software tester?

@@ -1,0 +1,1 @@
+quit lot javascript widget would like good decoupled way communicate something like signal slot qt probably widget written jquery using widget factory correct way achieve without ending spaghetti

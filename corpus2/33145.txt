@@ -1,0 +1,1 @@
+C# and Python can't compete with C and Assembly when writing such tools is the need. I left C many years back and I don't think I will be able to cope up so fast. Is it possible to write Anti-Virus and Intrusion-Detection tools using C# or Python? If yes, what things to learn along side and where I can find good resources on this?

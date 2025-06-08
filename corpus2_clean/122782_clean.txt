@@ -1,0 +1,1 @@
+interface called cell start read come know implementing know example need call constructor implementing initialize would best way implement first thing mind something like cell interface sphere rectangle implement cell set boolean flag called sphere reading cell sphere new sphere num else new rectangle num good design

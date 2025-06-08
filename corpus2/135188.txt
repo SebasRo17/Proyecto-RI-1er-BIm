@@ -1,0 +1,1 @@
+Google developed a cross-compiler from Java to JavaScript. Why did they do this? Does this mean that JavaScript is not good enought for developing advanced web apps?

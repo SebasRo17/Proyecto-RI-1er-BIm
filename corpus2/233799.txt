@@ -1,0 +1,1 @@
+I'm reading data from a stream in buffered series of bytes (say 1024 bytes at a time) and do some comparison, checking, or processing, before writing it back to the same type of stream. Currently data comes from file. But in the future it may come from other sources (memorymapped file, TCP etc) Is there a design pattern I can implement? Or is that not necessary?

@@ -1,0 +1,1 @@
+I'm implementing a referral program on a site and was wondering if there was a best practice in terms of what the referral codes should look like. I assume since we don't want overly long referral codes, we can't just use GUID or anything like that, so I'll have to do checks on the referral codes generated to ensure uniqueness?

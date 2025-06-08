@@ -1,0 +1,1 @@
+currently middle refactoring important legacy system almost zero test started working added quite lot ensure correct work refactorings came across crucial part algorithm calculates indicator something like indicator test correct behavior unit test also slightly different algorithm function program reach case vital outcome

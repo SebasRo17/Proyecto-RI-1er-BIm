@@ -1,0 +1,1 @@
+While writing an EJB (deployed on WAS) that connects to a db, i have never needed to use JCA. But apparently JCA is the standard for connection to thrid party EIS (which includes database). So does the WAS implement JCA internally? Under what situation would the app develoepr need to use JCA related classes?

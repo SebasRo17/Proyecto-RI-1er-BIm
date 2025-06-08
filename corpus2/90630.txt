@@ -1,0 +1,1 @@
+I am writing a desktop application in Java, which has all of the Airband radio frequencies for the UK in it. I would like to make this frequency database downloadable so people can print it. Would it be best to create the database in XML or use PDF for the download to print? Or perhaps there is another, better option?

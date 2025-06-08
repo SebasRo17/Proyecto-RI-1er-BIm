@@ -1,0 +1,1 @@
+Some hold that the Singleton Pattern is always an anti-pattern. What do you think?

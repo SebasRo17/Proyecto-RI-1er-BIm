@@ -1,0 +1,1 @@
+As stated in the title, are optional parameters, such as those used in C# helpful or are they a hindrance to application maintenance and should be avoided as they can make the code harder to understand?

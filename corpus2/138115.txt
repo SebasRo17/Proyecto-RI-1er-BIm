@@ -1,0 +1,1 @@
+Are there any advantages to using a query builder, rather than using raw SQL? E.g.               $q->select('*')       ->from('posts')       ->innerJoin('terms', 'post_id')       ->where(...)      vs:               SELECT * FROM posts WHERE ...      I see that many frameworks use these kind of abstraction layers, but I fail to understand the benefits.

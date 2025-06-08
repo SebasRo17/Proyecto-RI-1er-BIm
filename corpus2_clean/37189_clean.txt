@@ -1,0 +1,1 @@
+interview interviewer told improve concept e g asked type array answered two type simple associative also asked use pdo answered use database e g oracle mysql help sql injection asked help sql injection told give correct answer asked persistent connection told used mysql know used standard way follow help improve upon concept

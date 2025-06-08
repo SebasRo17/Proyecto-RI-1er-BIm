@@ -1,0 +1,1 @@
+scenario local app used take using iphone camera local app send photo web server user visit website another web app using iphone website webapp invokes local app work security restriction iphone prevent scenario implemented create local app scenario mind something aware start creating app user visit web app website local app correctly invoked job

@@ -1,0 +1,1 @@
+I'm working on a group project for school, and it's just me and a teammate. Well he is really behind with coding skills, and I was wondering if I should still give him access(email a copy) to the source I've been working on solely. So far he hasn't done anything except a basic TUI. Is it advisable to gently tell him to "catch up" to the coding level first?

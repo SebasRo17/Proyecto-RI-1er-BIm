@@ -1,0 +1,1 @@
+I remember reading some "funny" examples once of weird results JavaScript can give when you, for example, add strings to numbers etc. Does anyone have any good examples or a link to the blog that I might have read them on? Which ones are likely to catch a programmer out in the real world?

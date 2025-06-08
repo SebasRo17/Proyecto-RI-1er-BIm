@@ -1,0 +1,1 @@
+I was wondering how big companies of software developers check for bugs in their programs. Do they just test it on several computers?

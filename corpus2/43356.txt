@@ -1,0 +1,1 @@
+DeMarco and Lister (Peopleware) suggest you create a "cult of quality" within your programming team. Frustratingly, they don't suggest how you go about doing that! Anyone got any thoughts on how to accomplish this?

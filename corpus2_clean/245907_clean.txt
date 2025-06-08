@@ -1,0 +1,1 @@
+starting api design reading existing base found apis consist interface implementation bundled different package read interface generally problematic use maintain abstract class abstract class used instead interface

@@ -1,0 +1,1 @@
+Eval is a notoriously controversial language feature. Douglas Crockford flat out rejects it. I'm wondering what specific risks Eval brings about. According to this question, `Improper use of eval opens up your code for injection attacks`. What are some improper uses of the Eval command, and what security holes do they open up?

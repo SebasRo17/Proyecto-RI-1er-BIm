@@ -1,0 +1,1 @@
+We are currently writing unit test cases in our project . The implementations for database methods exist and is working fine . In this case why do we need to write mock objects ? Is there any specific reason ? Why can't I test the DAO implemntation directly?

@@ -1,0 +1,1 @@
+seen lot article none really help want use dapper dal create repository special function like use repository implement dapper extension generic crud idea handle database connection open connection every supposed use transaction scope somehow repository work share connection order transaction work connection bll use query execute directly still thing

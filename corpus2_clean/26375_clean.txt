@@ -1,0 +1,1 @@
+solo project keep build management tool local machine separate server server guaranteed safer reliable machine struggle see point maybe missing thing note debating continuous integration staging environment etc question whether exists separate hardware

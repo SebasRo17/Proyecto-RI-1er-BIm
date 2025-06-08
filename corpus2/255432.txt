@@ -1,0 +1,1 @@
+My team uses Agile as a development approach. Currently, each task has four states which are todo, in progress, testing, and done. We've just started doing code reviews, and I wonder if I need to create a code-review task or I should add time for code-review to the estimation?

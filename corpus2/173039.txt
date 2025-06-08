@@ -1,0 +1,1 @@
+I hear about modern C++ popularity and some talks about migrating back to C++ from C# or other C-like languages. I know about C++11 features but I would like to hear your experiences, especially from developers who migrated from C# to C++. More importantly, does Microsoft push developers to use C++? If yes, why?

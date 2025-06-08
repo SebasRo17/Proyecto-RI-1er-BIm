@@ -1,0 +1,1 @@
+asp mvc application decided add another business layer made model property functionality like save db get db done new business layer controller calling business layer model various operation good approach design like decided use model purpose would need number model different action eg one edit create

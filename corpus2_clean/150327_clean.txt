@@ -1,0 +1,1 @@
+read book effective chapter num met sentence think num implementation designing subclass rely implementation detail superclass num inheritance break encapsulation

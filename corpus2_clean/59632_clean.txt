@@ -1,0 +1,1 @@
+developing web application asp net mvc scenario many action web page dependent upon role specific user example memo page action edit forward approve flag etc action granted different role may revoked later stage best approach implement scenario

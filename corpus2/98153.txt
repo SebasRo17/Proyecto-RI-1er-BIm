@@ -1,0 +1,1 @@
+For custom built web based software, what is the industry standard or generally accepted cost for support and maintenance of the software? Is it usual to be expressed as a % of the original development cost, and if so what is the usual % amount?

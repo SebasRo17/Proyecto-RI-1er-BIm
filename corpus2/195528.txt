@@ -1,0 +1,1 @@
+Is there a difference between HttpRequest and xmlHttpRequest in terms of security? Is one more secure than the other? Is it more secure to send important data such as passwords via HttpRequest than via xmlHttpRequest ? Is data packing in both done the same way?

@@ -1,0 +1,1 @@
+ok creating game using javascript html5 variable map x level exp etc stored javascript keep track client page javascript variable stored play along game every num second client page sends post ajax call mysql database successfully update however user easily modify javascript variable cheat way game edit javascript variable post grab update even though edited prevent happening

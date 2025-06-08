@@ -1,0 +1,1 @@
+question inspired question mostly numerical work usually use c fortran occasionally numpy trying broaden horizon looking programming language good numerical work binding blas lapack fast lightweight multidimensional array etc little bit outside mainstream unusual language good getting new idea numerical programming

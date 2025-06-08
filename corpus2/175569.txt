@@ -1,0 +1,1 @@
+I am currently doing some research about software patterns and about architectural patterns for frameworks specifically. Google is not really showing off for this topic, so I am curious which patterns would you consider specificially important for the architecture of frameworks? I am focusing on frameworks for web, mobile and desktop software, such as Rails, UIKit, etc.

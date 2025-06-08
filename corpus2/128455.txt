@@ -1,0 +1,1 @@
+I have recently become curious about open source licenses. I have a question about the LGPL. I created a Java web project and built it as a WAR package. Can I add LGPL jars to this WAR file?

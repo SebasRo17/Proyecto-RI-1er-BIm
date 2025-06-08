@@ -1,0 +1,1 @@
+android final string stored string xml file make easy update text reuse string translate app different locale everything one place however example seen desktop application string hardcoded hardcoding string file standard practice desktop application better way

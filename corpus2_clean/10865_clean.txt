@@ -1,0 +1,1 @@
+functional programming declarative paradigm one strenghts fp side effect avoided said problem fp good fit common problem functional programming good fit

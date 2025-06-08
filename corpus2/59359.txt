@@ -1,0 +1,1 @@
+When first implementing Scrum within a team, how should you go about determining the amount of story points that are in an initial sprint when you have no idea of the team's velocity? Should you base this on an estimate of hours and only use the points at a later stage?

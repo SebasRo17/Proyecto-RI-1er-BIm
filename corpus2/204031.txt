@@ -1,0 +1,1 @@
+I was thinking about how two bugs could interact with one another. The only relationship I can think of is one bug being the cause of another. What other interactions between multiple defects are common in everyday coding? What kinds of behaviors could result?

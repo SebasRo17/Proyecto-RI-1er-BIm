@@ -1,0 +1,1 @@
+I was wondering if anyone can give me some direction related to "Block level design" in context of mobile application? Recently I saw a video in my university and a professional mentioned about building block level design of applications, since then it has stuck in my brain! It would be really helpful if someone can share their knowledge.

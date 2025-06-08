@@ -1,0 +1,1 @@
+Given a long method with Pac-Man ifs, would it be wise to:   1. Break down code blocks into regions.   2. Then refactor code blocks into methods. Or would it be best to leave it alone? Would it be risky?   Would it be a waste of time? In the absence of automated unit-tests, I'm trying to understand the risk- reward relationship associated with this manuever.

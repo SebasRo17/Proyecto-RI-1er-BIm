@@ -1,0 +1,1 @@
+I've done Java for ten years, and stopped doing any C++ sometime in the mid-90's. What's the best way to quickly relearn C++? Near as I can figure, the language has changed significantly in 15 years; or, writing good 1995 C++ _isn't_ the same as writing modern good C++. RAII is one thing that keeps coming up, and I still don't quite know what it is.

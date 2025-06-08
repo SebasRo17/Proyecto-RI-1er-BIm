@@ -1,0 +1,1 @@
+What does the word Representational State Transfer (REST) mean actually ? Now I don seem to find any relation between its naming and its working, I have understood that it is a architectural style for programming web service and I've read all the hush hush stuff but can't find a reason behind its naming. What is `Representational` ? Who's `State`? and What do we `Transfer`?

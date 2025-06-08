@@ -1,0 +1,1 @@
+I am implementing a voting system and need some input from fellow programmers. Do you see anything that could go wrong by having users input a valid email and perhaps have a captcha to stop automated voting instead of a traditional login and vote?

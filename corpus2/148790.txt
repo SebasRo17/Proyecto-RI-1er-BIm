@@ -1,0 +1,1 @@
+Python's Zen states on line 14 that: > Although that way may not be obvious at first unless you're Dutch. Is this a reference to the famous Dutch computer scientist Edsger W. Dijkstra?

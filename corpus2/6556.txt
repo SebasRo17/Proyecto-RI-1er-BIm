@@ -1,0 +1,1 @@
+Oracle will no longer develop JavaFX script ( the language ) and now the applications would be coded through the API. I think JavaFX script was kind of neat. Does it seem reasonable to stop the development of the language, and use it only through the API? Links: http://jonathangiles.net/blog/?p=916 http://java.dzone.com/articles/javaone-2010-alternative-jvm

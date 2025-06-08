@@ -1,0 +1,1 @@
+project us gnu autotools build trying modify autotools generates non versioned control file separate directory keep source tree clean temporary file anyone idea

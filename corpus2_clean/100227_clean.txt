@@ -1,0 +1,1 @@
+correct way handle apis invent type example winapi qt boost many framework integer boolean type along complicated type better use native c c like bool alternative like bool etc native container type like std map std set std vector v reinvented one like qlist boost something atl map etc choice respond cross platform portability tl dr one const qstring str v bool const std str

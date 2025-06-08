@@ -1,0 +1,1 @@
+using modernizr file came across problem need source file call script script src j modernizr min j script script modernizr placeholder placeholder textarea placeholder placeholder script script work embedded within script tag across situation many time failed understand cause problem script written two different script tag make work else fails

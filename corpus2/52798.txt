@@ -1,0 +1,1 @@
+There seem to be a lot of programming books on coding style and best practices and then of course a lot of books on organizational or team process e.g. agile/scrum/kanban, etc. I'm looking for books that discuss the process and method of solving programming problems.

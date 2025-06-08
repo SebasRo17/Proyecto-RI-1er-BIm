@@ -1,0 +1,1 @@
+What type of programming or project would only involve the Ruby language? Rather than using RoR. What was Ruby used for before the Rails framework existed is what I am basically asking.

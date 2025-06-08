@@ -1,0 +1,1 @@
+remote csv file get updated every second need download window machine always sync local file remote one obviously downloading whole file every time option need download change something like rsync backup searched quite bit could find sort new nodejs using app opportunity expand nodejs skill also planning use nodejs package using node webkit

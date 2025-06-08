@@ -1,0 +1,1 @@
+I have noticed that many famous libraries written in Objective-C (eg. AFNetworking) use the macro guard inside their header files. Im aware that the #import directive, which works exactly like #include, includes each file only once, obviating the need for #include guards. For what reason are still used?

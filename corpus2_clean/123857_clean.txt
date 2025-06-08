@@ -1,0 +1,1 @@
+working application adding logging stuck want allow force user set location logfile basically problem logger initialization first thing program initialize logger determine user want log saved determining log saved process logged problem solved log file location user customizable log buffered logfile set

@@ -1,0 +1,1 @@
+design phase project end user submit request web page spawn long running asynchronous processed job best practice problem web service service broker good way go microsoft messaging queue applicable

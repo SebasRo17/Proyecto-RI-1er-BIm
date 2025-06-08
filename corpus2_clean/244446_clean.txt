@@ -1,0 +1,1 @@
+looking implementation service layer controller interaction blog open source project seem refer dbcontext repository class avoided use service class service class essentially using iqueryable reference dbset want know practice good dbcontext reference service layer

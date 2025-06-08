@@ -1,0 +1,1 @@
+To start an open-source project is not just to throw up the source code on some public repository and then being happy with that. You should have technical (besides user) documentation, information on how to contribute etc. If creating a checklist over important things to do, what would you include on it?

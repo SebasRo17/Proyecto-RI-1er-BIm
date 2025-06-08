@@ -1,0 +1,1 @@
+Been calling them "implementers", but it seems weird to me.               /// <summary>     /// Implementers should implement this.  Derp     /// </summary>     protected abstract void InternalExecute();      A point of clarification, I'm interested in what to call the **people** who create child classes, not the child classes themselves. "Hey, you there" not "that thing there."

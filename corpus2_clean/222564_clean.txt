@@ -1,0 +1,1 @@
+program seen organize memory one call stack usually fixed size sometimes heap static memory lately thread local static storage added well attempt organize memory layout radically different way e g without call stack organize memory different way accomplishes thing

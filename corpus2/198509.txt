@@ -1,0 +1,1 @@
+We have an existing ERP system written in VB 6 that we are converting to .Net incrementally. Now, every module in the system is being separated into DLLs so that the product becomes customizable and flexible. I'm not sure if this is the way to do this. I think this will cost a lot of maintenance in the future. What do you think?

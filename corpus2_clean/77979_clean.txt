@@ -1,0 +1,1 @@
+designing high volume web service rely central database containing object single json currently considering using store object retrieve object using view restful api view may complex amount stored database limited object expire sensible approach problem option

@@ -1,0 +1,1 @@
+currently writing unit test test behavior would like partially mock method calling injected property example public dosomething num num getproperty etc obviously want mock getproperty order expect question since want getter visible class visible unit test currently making method package private default scope standard type operation thanks

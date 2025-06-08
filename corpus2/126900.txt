@@ -1,0 +1,1 @@
+In Knuth's Fascicle 1 on MMIX, the "Memory and Registers" section on page 4 states: "thus if _x_ is any octabyte, M[ _x_ ] is a byte of memory." and "thus if _x_ is any byte, $ _x_ is an octabyte." How can _x_ be an octabyte (64 bits) and M[ _x_ ] be a byte (8 bits)? Conversely, how can _x_ be a byte and $ _x_ be an octabyte?

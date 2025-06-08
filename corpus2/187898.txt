@@ -1,0 +1,1 @@
+I was wondering why the Dining philosophers problem is based on a five philosophers case. Why not four? I guess that we can observe all unpleasant issues that can occur when discussing five philosophers example also when we are given four thinkers. Is it only for a historical reason then?

@@ -1,0 +1,1 @@
+In the influential "Peopleware", DeMarco and Lister state that an organisation that builds a satisfying community will tend to keep it's people. We have about 40 programmers at work. How do we go about creating a "community" out of them?

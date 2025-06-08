@@ -1,0 +1,1 @@
+beginning design phase application following platform device desktop window linux mac mobile android iphone ipad window phone num web silverlight use c mono want maximize usability except desktop use winforms gtk concern related many different gui face would approach obviously view different controller access utility class etc really acceptable share everything view

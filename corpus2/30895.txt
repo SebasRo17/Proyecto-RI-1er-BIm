@@ -1,0 +1,1 @@
+While reviewing a coworker's code, I came across some spelling mistakes in function names and also grammatical errors like 'doesUserHasPermission()' instead of 'doesUserHavePermission()' in function and variable names. Should I point these out to him? Or am I being too pedantic to notice these ?

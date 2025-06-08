@@ -1,0 +1,1 @@
+tool like pc lint used perform static analysis base experience static analysis often yield huge amount noise e warning thing real bug somehow violate one rule given rule set turning certain rule either good rule set via special comment real cumbersome process real benefit static analysis

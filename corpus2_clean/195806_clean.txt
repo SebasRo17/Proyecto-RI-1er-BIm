@@ -1,0 +1,1 @@
+reduce number include file header file reduce build time instead put include file source file use forward declaration header file read say header file need use actual definition b time use forward declaration instead including particular b header file question header use actual definition particular b forward declaration help reduce compile time

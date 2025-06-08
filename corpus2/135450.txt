@@ -1,0 +1,1 @@
+How is it legally possible to take a project initially released as open source back to closed source? Especially one licensed with the GPL any version.

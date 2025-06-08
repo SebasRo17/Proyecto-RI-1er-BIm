@@ -1,0 +1,1 @@
+I’m doing a thought experiment about making a product on top of Linux. I’m wondering: If you make a custom window manager (akin to KDE, for example) on top of X and you release it, do you have to release it under the GPL (Linux) or MIT (X.org)? Or can you keep it closed source?

@@ -1,0 +1,1 @@
+teaching clojure started using leiningen working clojure koan plan next look question essential must know clojure library function know beyond covered learning plan looking clojure contrib large number library professional os clojure developer find using daily basis one useful otherwise commonly used e esoteric come often day day coding

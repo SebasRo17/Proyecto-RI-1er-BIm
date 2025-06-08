@@ -1,0 +1,1 @@
+question delegate pattern want delegate parsing xml file instance want converted key dictionary let take classical example best practice creation dictionary creates pas reference delegate asking fill delegate create dictionary add pas back done job trough call back way one two way really better

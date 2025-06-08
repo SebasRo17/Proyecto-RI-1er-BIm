@@ -1,0 +1,1 @@
+How does the for loop function is implemented so that it can accept `;` as parameter separator rather than `,` which is trivial in normal functions.

@@ -1,0 +1,1 @@
+building online social network finished writing restful api service using django json response html generated server side json response used build native smartphone apps api service common client question since html response server side mv javascript framework like angular backbone ember take care complete front end right generating html page cs

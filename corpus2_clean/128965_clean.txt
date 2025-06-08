@@ -1,0 +1,1 @@
+oo programming preferred way handling multiple instance object single say want write program random number circle get drawn screen every circle instance circle click button every circle change color would see two way either use static holding instance along static loop call recolor instance use instead put separate maybe called

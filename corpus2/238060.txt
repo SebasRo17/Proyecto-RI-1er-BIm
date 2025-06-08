@@ -1,0 +1,1 @@
+This is more of a theoretical question. If jvm is implemented in go which itself is a garbage collected language, then does that jvm need a separate garbage collector to be implemented for its own operation?

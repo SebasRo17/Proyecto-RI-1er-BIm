@@ -1,0 +1,1 @@
+Do you think it's worth it to use version control if you are an independent developer, and if so, why? Do you keep the repository on your own computer, or elsewhere, where it can serve as a backup?

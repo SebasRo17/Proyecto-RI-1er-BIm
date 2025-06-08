@@ -1,0 +1,1 @@
+estimating story point story consists extending current functionality known tech debt consider effort spent refactor current estimate independently tech debt

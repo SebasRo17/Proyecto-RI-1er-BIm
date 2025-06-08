@@ -1,0 +1,1 @@
+I see some of the more preferred logging frameworks like log4j, log4net etc all use 'trace, debug' etc methods. Why do they use these instead of methods that take something like a enum level?

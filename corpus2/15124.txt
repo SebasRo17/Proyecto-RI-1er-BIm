@@ -1,0 +1,1 @@
+Are there any services that 'for a reasonable price' will give and provide good and technical advice on applications. On a lot of projects, I'm usually the only developer, and sometimes, I think some of my work needs to be improved for efficiency, better MVC interactions, etc. It would be great if there was a professional service that actually can and will do such reviews

@@ -1,0 +1,1 @@
+good practice write comment widely known method like equal compareto etc consider compare equality current override public boolean equal obj equal company enter comment like javadoc comment required obvious well understood equal like compare compareto etc suggestion

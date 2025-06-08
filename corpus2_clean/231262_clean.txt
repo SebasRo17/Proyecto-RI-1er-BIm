@@ -1,0 +1,1 @@
+gcc clang known driver gcc executable compile anything rather call assembler linker ld right flag needed setup also microsoft c cl exe actually executable compilation assume least assembling linking done separate executables since know ml exe known masm link exe exist separate executables cl exe probably call

@@ -1,0 +1,1 @@
+I write all (well, most) of my programs in an IDE, mostly it's netbeans. Should I just use Mercurial through the IDE, or is it better if I used the CLI instead? and why?

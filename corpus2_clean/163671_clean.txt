@@ -1,0 +1,1 @@
+making mon storage system client server model part thinking storing inventory file user computer wish edited except program alternative would instead store inventory file server control editing sending command server wondering situation require file stored user computer editing would undesirable protect file thinking aes sort checksum

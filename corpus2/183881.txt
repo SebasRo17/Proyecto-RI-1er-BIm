@@ -1,0 +1,1 @@
+Every time I look for an IDE (currently i'm tinkering with Go), I find a thread full of people recommending Vi, Emacs, Notepad++ etc. I've never done any development outside of an IDE; I guess I've been spoiled. How do you debug without an IDE? Are you limited to just logging?

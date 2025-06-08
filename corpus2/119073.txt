@@ -1,0 +1,1 @@
+We all know what a value is. A type is the type of a value. A kind is (loosely) the type of a type. A type constructs a value; a kind constructs a type. So what is the type of a kind, a thing that constructs kinds? Is there such a thing? Does it have a name? Is it useful?

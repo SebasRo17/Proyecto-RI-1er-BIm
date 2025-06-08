@@ -1,0 +1,1 @@
+To put it another way... What is the most commonly held and frustrating misunderstanding about programming, you have encountered? Which widespread and longstanding myths/misconceptions do you find **hard for programmers to dispel/correct**. Please, explain why this is a myth.

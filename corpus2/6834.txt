@@ -1,0 +1,1 @@
+Modern IDEs have a lot of tricks up their sleeves to help with code writing, refactoring, searching. All those are very helpful, but rarely any of them looks like a real "magic" and makes me think "Wow! How did it figure that out?" Can you name any impressive IDE code automation (or other) features that blew your mind first time you saw them?

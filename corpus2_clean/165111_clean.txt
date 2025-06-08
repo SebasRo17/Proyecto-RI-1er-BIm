@@ -1,0 +1,1 @@
+creating basic game space invader using thread animate game wondering get alien speed going left right without changing speed ship control easiest quite new 2d created two basic game

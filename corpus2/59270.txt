@@ -1,0 +1,1 @@
+Are languages which are very customizable, like Python (see for example goto in Python, lightweight Python type-checking) and Javascript (see jQuery for one example of this) more widely used than languages which cannot be customized very much?

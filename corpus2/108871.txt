@@ -1,0 +1,1 @@
+Often it is not obvious how to implement a given design pattern in a language. Sometimes it is difficult or cumbersome. Are there any languages built to make using design patterns easy and effective?

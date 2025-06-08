@@ -1,0 +1,1 @@
+I define **defect** as : > "something within the application design or code which prevents it > functioning as per requirements." I'm looking for ideas about the causes of defects, eg the human factor, lack of testing, lack of prototyping, and possible ideas to mitigate these.

@@ -1,0 +1,1 @@
+When writing applications for software, specifically mobile devices, will there be a problem with using any specific type of fonts (copyright/patent issues)? If so, how can we avoid this possible problems? Will it then make a difference if the app was a paid version or a free version?

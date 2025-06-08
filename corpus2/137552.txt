@@ -1,0 +1,1 @@
+I want to model a Thesaurus using the ANSI/NISO standard relation description like "broader term", "narrow term", etc. (see this Wikipedia article for details). Is it valid for a Thesaurus item in this description standard to have more than one "use" relationship?

@@ -1,0 +1,1 @@
+I'm in a position to write something along the lines of business process management (BPM) software for a small to mid-sized company, but I have no clue about the design goals, and patterns I can adapt for typical BPM. What defines BPM and are there any typical approaches to it? How do I learn more about it?

@@ -1,0 +1,1 @@
+question stupid right came across wikipedia persistence api replaces persistence solution ejb num cmp container managed persistence understanding cmp still e pooling transaction etc done via cmp jpa orm think even thing thought may cmp v might make sense obviously know track thats may help get thing perspective

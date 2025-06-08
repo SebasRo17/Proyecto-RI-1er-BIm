@@ -1,0 +1,1 @@
+Following reading the latest CodeProject newsletter, I came across this article on bitwise operations. It makes for interesting reading, and I can certainly see the benefit of checking if an integer is even or odd, but testing if the n-th bit is set? What can possibly be the advantages of this?

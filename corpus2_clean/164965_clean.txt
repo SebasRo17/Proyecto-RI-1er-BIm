@@ -1,0 +1,1 @@
+mssql db zend php framework using way call sp p parameter get p parameter seems writing sql php good approach str1 declare varchar num declare last id exec in qty rate amount msg last id last id select n msg last id last id calling sp stmt db prepare str1 stmt execute stmt fetchall num last id get last in id p parameter

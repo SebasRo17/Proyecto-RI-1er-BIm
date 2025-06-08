@@ -1,0 +1,1 @@
+In the second edition of PeopleWare, DeMarco and Lister suggest that annual performance and salary reviews foster teamicide because they encourage competition within the team. Spolsky re-iterates this idea in his "Incentive Pay Considered Harmful" essay. Is this really the case? And if we don't have salary reviews, how should pay rises be done?

@@ -1,0 +1,1 @@
+What is Big and O in Big O notation? I've read the definitions and it doesn't tell what is _O_ pronounced as 'oh'. For example - I understand that _O_ (n) is complexity of a linear algorithm where n could be the number of operations. but what is an _O_?

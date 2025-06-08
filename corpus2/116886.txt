@@ -1,0 +1,1 @@
+I know a little about how to use message passing and shared memory, but I still don't know when to choose one or another. Can you tell me about their traits (not the implementation)?

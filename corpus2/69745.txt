@@ -1,0 +1,1 @@
+Let us say that someone is hosting a web application where others can come and register and use for free(like stackoverflow or stackexchange). Is a terms of service agreement necessary? Like this TOS for stackexchange ? If there is no TOS agreement, are there any implied(default) legal conditions?

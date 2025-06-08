@@ -1,0 +1,1 @@
+Programming books often contain a lot of code scattered within it. Usually there will be an accompanying website to download the code used in the book. How do you use the code? Do you just run them and check the results or do you code it from scratch again? If you are coding it from scratch, have you found any advantages( like remembering the content better etc)?

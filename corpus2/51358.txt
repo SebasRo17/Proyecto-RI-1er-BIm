@@ -1,0 +1,1 @@
+We are doing a cost benefit analysis on a migration project. It would be nice to be able to say that future changes will be x percent cheaper due to the migration. Does anyone have any experience or know of any study that shows what benefit we could expect?

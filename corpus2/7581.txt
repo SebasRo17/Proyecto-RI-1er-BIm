@@ -1,0 +1,1 @@
+Is Java becoming the de facto standard from Linux application development in the same way .NET is the standard for Windows application development? If not why not?

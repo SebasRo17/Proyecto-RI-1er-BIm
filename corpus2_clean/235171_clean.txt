@@ -1,0 +1,1 @@
+begun reading art unit testing roy osherove mostly finding material helpful make statement using message assert statement please never ever use parameter make sure test explains supposed happen question experience find advice good bad use assert message unit test information use capture beyond well named unit test could give first place

@@ -1,0 +1,1 @@
+I understand that computers are basically a complex system of electrical signatures that can calculate based on logic boards, and some sort of gate mechanism, but how do computers process something like if the number produced by the keyboard is less than 10, or if a mouse is clicked two times in a certain amount of time it equals a double click?

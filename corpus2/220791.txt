@@ -1,0 +1,1 @@
+I've noticed that even when a websites front end is coded in HTML 5 as evidenced by the `<!DOCTYPE html>`, people rarely seem to use the new HTML 5 `<section>`, `<header>` and `<footer>` tags. Is it because people don't understand that you're supposed to use reusable classes for styling things within a `<section>` instead of the full path of tag selectors to the element?

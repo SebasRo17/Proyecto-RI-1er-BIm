@@ -1,0 +1,1 @@
+got reasonably good release management process however large part manual task e promoting build qa deploying build internal group tracking release etc build test automated cruisecontrol anyone recommend good release management continuous deployment tool use automate rest process

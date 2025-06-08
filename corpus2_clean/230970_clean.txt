@@ -1,0 +1,1 @@
+developing real time chat app searching around found ejabberd erlang good option question ejabberd providing function need need custom feature location based matching anonymous login development custom function top ejabberd write module develop another standalone server app web kind server app interact thanks

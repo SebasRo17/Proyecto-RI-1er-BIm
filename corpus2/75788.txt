@@ -1,0 +1,1 @@
+Google announced the chromebook yesterday (11 May 2011). While this is surely a nice thing, I have no clue whether it was interesting to buy one for a (non- javascript)-programmer. What do you think? Will there be, for instance, a Java IDE in the cloud? A command line, even?

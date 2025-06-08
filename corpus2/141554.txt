@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  How could the first C++ compiler be written in C++? I know my question goes to the underground galaxy cave where languages are born and involves some lambda math and light-years of google-studying. But what kind of knowledge is necessary to create a language?

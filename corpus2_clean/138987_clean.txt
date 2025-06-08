@@ -1,0 +1,1 @@
+going start first real project ruby rail forcing write tdd test see real advantage writing test since seems important try necessary test every part application including static page

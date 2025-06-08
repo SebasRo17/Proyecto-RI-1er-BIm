@@ -1,0 +1,1 @@
+Reading SQLite source code is IMO mission impossible. Yet it is a usable piece of quite complex software (it's a full-blown embedded database after all) that can be downloaded, compiled and used from others code and it is constantly updated. How do people manage to write and maintain such extremely complex and hard to read code?

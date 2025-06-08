@@ -1,0 +1,1 @@
+Following the Pareto rule, a programmer spends only 20% of his time for really useful things. I spend 80% of my time debugging, fixing small things to get everything working. Is there a way to spend less time debugging?

@@ -1,0 +1,1 @@
+tried evaluate clojure expression nested shorthand function today let expression num sorry eye bleed illegalstateexception nested allowed clojure lang invoke num bunch garbage

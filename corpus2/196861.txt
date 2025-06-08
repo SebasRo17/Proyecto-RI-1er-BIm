@@ -1,0 +1,1 @@
+I'm trying to document my code using JSDOC3, that has a similar syntax to PHPDocumentator / Apigen. But is there a de-facto standard for Javascript inline documentation? I think Google Closure is the most complete (or so it seems), but what is widely adopted by IDEs and what most people expect to the docs to be?

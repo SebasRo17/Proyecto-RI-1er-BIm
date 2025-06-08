@@ -1,0 +1,1 @@
+What is it about Perl that makes it so useful in Bioinformatics ? Why isn't C++ or Matlab or Python the big language?

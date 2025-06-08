@@ -1,0 +1,1 @@
+still issue getting small issue come tdd need get certain record set filtered layer linq2sql please note using linq generated class generated dbml problem want write test first insert record test execute test result b use might database keen logic cause could cause thing break c ever suggest

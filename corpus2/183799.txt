@@ -1,0 +1,1 @@
+Or more generally: to trigger compiler errors in test projects if something that can be checked at compile time is wrong?

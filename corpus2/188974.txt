@@ -1,0 +1,1 @@
+I plan to program web applications for small companies. When I read about ASP.NET Web Forms, I liked its way of building dynamic sites. However, I have heard from a friend that Web Forms could increase the size of the pages because of ViewState output. Will the difference between the size of PHP pages and the generated HTML of ASP.NET pages be dramatic?

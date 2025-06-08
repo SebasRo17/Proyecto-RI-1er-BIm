@@ -1,0 +1,1 @@
+came across article say using interface defining constant good thing solution suggested define constant final use static import work come php world import thing acceptable solution php

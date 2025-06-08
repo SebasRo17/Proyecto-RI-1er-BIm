@@ -1,0 +1,1 @@
+I was wondering if it would be possible to install a git service for use by a small team. Would it be possible to install on a private network/locally or would it be more practical to install over a web network (e.g. a website domain). Thanks and please point my in the right direction, ~Daniel

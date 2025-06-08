@@ -1,0 +1,1 @@
+curious developer feel come across pretty nasty sql join sure would prefer making database call sake readability simplicity rather large sql statement maintain num num join performance argument give little performance readability example make first call filter query second table preference

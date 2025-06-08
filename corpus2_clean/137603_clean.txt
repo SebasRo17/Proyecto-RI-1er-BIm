@@ -1,0 +1,1 @@
+program us following define statement define lowest patient id num define highest patient id num define lowest critical status num define highest critical status num used scanf c status c status lowest critical status c status highest critical status unclear secure typedef statement secure

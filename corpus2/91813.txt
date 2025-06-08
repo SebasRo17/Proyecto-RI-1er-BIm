@@ -1,0 +1,1 @@
+Some say that DBaaS (database as a service) -- aka cloud database -- is not suitable for Business Intelligence (BI), analytics (OLAP) or archiving. Is this true? More generally, when DBaaS is the most effective technical choice?

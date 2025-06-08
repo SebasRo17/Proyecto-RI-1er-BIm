@@ -1,0 +1,1 @@
+wondering standard best practice regard managing user uploaded image obviously need way limit file size best common practice limit size image uploaded user reduce size uploaded back end thanks guidance ken

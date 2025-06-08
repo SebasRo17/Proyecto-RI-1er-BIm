@@ -1,0 +1,1 @@
+php support list language construct short allows multiple value attach different eg foo bar list echo echo foo echo echo bar failed find much info language construct curious usage php list construct considered bad coding convention serious article literature subject

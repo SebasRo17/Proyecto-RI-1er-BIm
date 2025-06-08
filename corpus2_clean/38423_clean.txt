@@ -1,0 +1,1 @@
+possible duplicate getters setter justified good programming practice use getters setter trivial part

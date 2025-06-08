@@ -1,0 +1,1 @@
+In what kind of situations, assembly language will be the only solution?

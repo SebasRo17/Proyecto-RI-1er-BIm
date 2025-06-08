@@ -1,0 +1,1 @@
+In CSS, what is the difference between visibility:hidden and visibility:collapse They are given to be separate in W3Schools, but I see no difference in their output. I have tried it in Google Crome.

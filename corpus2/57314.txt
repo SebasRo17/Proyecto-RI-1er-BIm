@@ -1,0 +1,1 @@
+I have a project that requires me to write a library management system in F# and using Windows Azure for the development. I am quite new to Cloud concept and i don't know what to do as a next step. Is there any way to implement it using webForms? If you can help me with the steps i have to take, i can study them and learn. Thanks

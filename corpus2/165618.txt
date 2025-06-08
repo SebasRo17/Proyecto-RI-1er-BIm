@@ -1,0 +1,1 @@
+This question follows directly from the part of an answer of this question - Why would one bother marking up properly and semantically? . I would like to understand why SEO techniques gives more weight to semantically correct mark up?

@@ -1,0 +1,1 @@
+I am new to web services. I have been working with Java web applications for the past 3 years. Are there books that explain the basics of web services clearly. I have read Starting Java Web Services and feeling lost but I did not find a proper book recommendation there.

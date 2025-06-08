@@ -1,0 +1,1 @@
+So far I have been living of standard Android books and mainly blogs for Monodroid, but I'm trying to find a definitive resource about the topic and not having any luck. Is there a book out there that's the de-facto standard for describing best practices, design methodologies, and other helpful information on Monodroid? What makes that book special?

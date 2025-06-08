@@ -1,0 +1,1 @@
+I currently use one controller per action. One of the problems—sort of—I encountered is when naming the methods of these controllers, which only have one.   Should I use a generic method name like `get()` or should I encapsulate all my controllers into one and name its methods after the action they do, e.g. `indexAction()`, `userListAction()`?

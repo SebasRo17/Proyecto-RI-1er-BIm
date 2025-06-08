@@ -1,0 +1,1 @@
+following find readable hand written std vector foo const iterator vec begin vec end bar process algorithm invocation include algorithm include functional std vec begin vec end std std mem fun ref bar process bar wonder std really worth given simple example already requires much thought matter

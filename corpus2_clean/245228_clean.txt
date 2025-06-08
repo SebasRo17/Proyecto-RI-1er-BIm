@@ -1,0 +1,1 @@
+good idea nhibernate entity webapi simple entity tried use complex entity lazy loading handled case

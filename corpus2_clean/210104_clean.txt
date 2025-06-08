@@ -1,0 +1,1 @@
+lot method would like group similar method together method need extend another classc thinking classa contains first group method extend classb extends c etc inefficient term runtime performance virtually note hundred instance running would really want waste memory

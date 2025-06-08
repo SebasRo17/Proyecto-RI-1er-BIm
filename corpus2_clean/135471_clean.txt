@@ -1,0 +1,1 @@
+c file contain likely num num line like break file tabbed segment organize certain tab label tab something like initial setup helper function execution logic list structure global variable etc using php would separate file use include include separate file done following style c

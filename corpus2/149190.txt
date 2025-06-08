@@ -1,0 +1,1 @@
+So I have a function that takes two dates. The SQL query gets all the results between the two dates. I currently have my function setup as such:               function myFunc(start, end)      Where start is the most recent date and end is the oldest date. Is this intuitive/correct or is there another naming/ordering convention I should be using?

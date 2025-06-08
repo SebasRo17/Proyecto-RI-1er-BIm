@@ -1,0 +1,1 @@
+Are "system analysis" and "system requirement analysis" the same thing? I think system system analysis is broader term and system requirement analysis is part of it. Is this correct?

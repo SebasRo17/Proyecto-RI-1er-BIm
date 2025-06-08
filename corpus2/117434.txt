@@ -1,0 +1,1 @@
+I am reading Effective Java and it has the following sentence. > The disadvantages of wrapper classes are few. One caveat is that wrapper > classes are not suited for use in callback frameworks, wherein objects pass > selfreferences to other objects for subsequent invocations (“callbacks”). Now what is a callback framework ? Can you point me to an example of call back framework ?

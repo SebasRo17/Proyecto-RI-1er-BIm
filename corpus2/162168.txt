@@ -1,0 +1,1 @@
+I was considering taking up the challenge of learning C++ for designing Metro apps and that's when I came across C++/CX. Can Metro apps be coded in C++ 11? Do they require C++/CX to work? And what exactly is C++/CX? Is it possible to create a Metro app using only C++, or is C++/CX required? Also, how does C++/CLI tie into this picture?

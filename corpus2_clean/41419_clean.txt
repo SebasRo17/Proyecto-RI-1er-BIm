@@ -1,0 +1,1 @@
+im really aware benefit using hudson ci server im facing problem convince coworkers install use put context developing two different product one enterprise search engine based apache solr several enterprise search project facing lot versioning issue think hudson solve problem argued productivity learning curve hudson benefit would spotlight

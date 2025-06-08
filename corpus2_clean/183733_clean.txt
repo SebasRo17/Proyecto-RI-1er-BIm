@@ -1,0 +1,1 @@
+recently consultant tell u feature tested via automated ui test e g selenium coded ui underlying architectural issue statement might bit extreme along line testing pyramid ui test make small portion overall automated test suite kind feature automated ui testing system cogent architecture still feature verified ui test test serve back suite unit service test

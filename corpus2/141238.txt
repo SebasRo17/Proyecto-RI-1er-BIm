@@ -1,0 +1,1 @@
+I'm learning javascript. I see that with an object, I can use .prototype, is it fair to say that, in a class/tree hierarchy I am effectively using the 'parent' (or 'ancestor' perhaps) by doing that? Can a class only have 1 prototype at a time as in Ruby? Call it Personal Homework that I set myself.

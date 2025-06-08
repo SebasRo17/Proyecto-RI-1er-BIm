@@ -1,0 +1,1 @@
+When I fix a bug I mention briefly what was the issue and in which revision its fixed. But this way nobody would know how much tricky the issue was and how much effort went in analysis and findings. What is the best practice for a developer to show such things to higher management to get noticed?

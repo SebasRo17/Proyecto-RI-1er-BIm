@@ -1,0 +1,1 @@
+What best practices should be undertaken for a website that needs to "scale out" to handle capacity? This is especially relevant now that people are considering the cloud, but may be missing out on the fundamentals. I'm interested in hearing about anything you consider a best practice from development-level tasks, to infrastructure, to management.

@@ -1,0 +1,1 @@
+using closure language feel nature variable outer scope captured automatically without need declaring capture c num good see closure make uncomfortable work declaring capture also read write control likely implementation consideration kind philosophy leading awkward spec

@@ -1,0 +1,1 @@
+wonder util arraylist allows add case would want add arraylist asking question project bug adding null list hard spot bug obviously nullpointerexception thrown another tried access element problem locate added would easier arraylist throwed exception element added

@@ -1,0 +1,1 @@
+I'm interested in learning Scala, but due to is relative newness, I can't seem to find a whole lot of books about it. Is there a book out there that's the de-facto standard for describing best practices, design methodologies, and other helpful information on Scala? What makes that book special?

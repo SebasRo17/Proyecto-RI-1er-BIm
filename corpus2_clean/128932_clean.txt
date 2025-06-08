@@ -1,0 +1,1 @@
+new asp net mvc ef read open source implementation mvc pattern like spring castle etc want know flexible alternative compared asp net mvc one widely used whose help easily available net

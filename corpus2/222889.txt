@@ -1,0 +1,1 @@
+I just stumbled upon Clojure reducers library. It looks a lot like loop fusion. However the term is not mentioned anywhere on the page. Is there a difference between the two?

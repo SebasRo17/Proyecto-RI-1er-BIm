@@ -1,0 +1,1 @@
+Simulated threads are known as "green threads" in programming-language-wonk speak. They are compared to "native threads" as provided by the operating system, but is there an analogous colour for native threads, and what is it?

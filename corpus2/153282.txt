@@ -1,0 +1,1 @@
+What would be the easiest way to use git correctly in a small team of about 5 developers, with one server running the live application?

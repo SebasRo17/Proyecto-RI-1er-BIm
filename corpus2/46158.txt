@@ -1,0 +1,1 @@
+I was reading through the documentation on http://www.springframework.net/. I was extremely impressed with this framework despite the amount of xml configuration it requires. I was wondering why this framework is not in the "buzz" . Any shortcomings? They are even up to speed with CLR 4.

@@ -1,0 +1,1 @@
+UML Diagrams take time and even though they provide knowledge about program design, the design changes and so do requirements, and hence it becomes a chore to keep UML Diagrams in Sync with code. I am trying to figure out how should we use UML in an optimum way.

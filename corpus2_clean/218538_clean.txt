@@ -1,0 +1,1 @@
+link num native annotation indicates field defining constant may referenced native annotation may used hint tool generate native header file determine whether header file required declaration contain problem idea problematics would efficiently solved feature

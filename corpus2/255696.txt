@@ -1,0 +1,1 @@
+Just ran across this term here: http://www.codemesh.io/codemesh2014/viktor-klang > "We'll demonstrate the Flow API—a lifted representation—as well as a > pluggable way of transforming the lifted representation into the execution > representation—Flow Materialization." Googling did not help much.

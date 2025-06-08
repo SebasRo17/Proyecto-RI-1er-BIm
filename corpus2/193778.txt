@@ -1,0 +1,1 @@
+When IDEs like eclipse can handle all the maven, ant, classpath etc related tasks, does a developer really need to learn all these things ? If yes, then why ?

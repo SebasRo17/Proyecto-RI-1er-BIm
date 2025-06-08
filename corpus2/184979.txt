@@ -1,0 +1,1 @@
+What's the recommended method for setting up tests on code that requires a private key to make calls to external web services? Full on mock objects or is there a way of distributing open source unit tests with a neat method to add in a tester's own private key at test time? I'm using python but any general best practice

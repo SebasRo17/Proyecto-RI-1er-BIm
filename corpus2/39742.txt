@@ -1,0 +1,1 @@
+I have seen many times statements like- "Please make this feature a first class citizen in so and so language/platform". For example, it is said about enums in C#/.net. So, when is a feature considered a "First class citizen" in a programming language/platform?

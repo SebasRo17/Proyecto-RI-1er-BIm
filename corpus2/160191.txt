@@ -1,0 +1,1 @@
+Semi-open intervals (`[a,b)`, where `x`belongs to the interval iff `a <= x < b`) are pretty common on programming, as they have many convenient properties. Can anyone offer a rationale that explains why SQL's `BETWEEN` uses a closed interval (`[a,b]`)? This is esp. inconvenient for dates. Why would you have `BETWEEN` behave like this?

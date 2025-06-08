@@ -1,0 +1,1 @@
+want extract text various file used apache poi parsing microsoft document working want parse pdfs extract text api could use used apache provide api

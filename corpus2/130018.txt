@@ -1,0 +1,1 @@
+I am looking for a book that describes in fair detail the most common network cryptographic protocols such as SSL, TLS, SSH, HTTPS, etc. I already have some books that cover the underlying cryptographic protocols (such as DES, AES, etc.). It's the next layer up that I am interested in learning about.

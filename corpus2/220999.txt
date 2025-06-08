@@ -1,0 +1,1 @@
+No introduction or description needed. We all know how troublesome it is make different codes and test codes in different platforms and browsers such as IE, Firefox, Chrome, Android 2.3 onwards, iOS, Windows, etc... All across the web, here and there, we have talks of having HTML5 apps run seamlessly on all devices. Will that ever be true? Is that future coming up?

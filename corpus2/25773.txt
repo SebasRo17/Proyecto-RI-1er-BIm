@@ -1,0 +1,1 @@
+How do sites like Facebook and Twitter optimize their sites for massive traffic. Aside from spending big bucks on getting the best servers, what can be optimized in your code to accommodate massive traffic? I've read about caching your pages to static HTML, but that's impractical for social networking sites where the pages are constantly updated.

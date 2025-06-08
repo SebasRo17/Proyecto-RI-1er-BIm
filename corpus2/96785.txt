@@ -1,0 +1,1 @@
+I was surprised when I heard that Pascal didn't originally have units. If I recall correctly they were introduced in Turbo Pascal 4. Did other pascal version have units prior to that? How long before other Pascal's got units?

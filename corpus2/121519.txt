@@ -1,0 +1,1 @@
+We have unfinished tasks which are part of stories in sprint. They are not accepted by the PO. They must be included for the next planning of sprint. Obviously the stories must be moved, but what about the tasks? Shall they be reopened and moved for the next sprint within the stories or not?

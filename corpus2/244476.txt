@@ -1,0 +1,1 @@
+I recently noticed decoupling as a topic in a question, and want to know what it is and where it can apply. By "where can it apply", I mean: Is it only relevant where compiled languages like C and Java are involved? Should I know about / study it as a web developer?

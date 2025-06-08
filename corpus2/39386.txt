@@ -1,0 +1,1 @@
+What process do you use to estimate how long a (significant) programming task will take. Do you use one or more of the following:   * intuition/guessing   * reference to similar tasks whose estimated/actual lengths you recorded   * reference to the lengths of similar task others recorded   * saying it will take the length of time allocated for it (by your manager)

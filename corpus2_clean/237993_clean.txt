@@ -1,0 +1,1 @@
+reason use shelve able quickly develop without worrying db table structure unfortunately changing say class1 class2 give attributeerror module attribute class2 next canonical way rename shelved similar surprise lurking deeper shelve db structure

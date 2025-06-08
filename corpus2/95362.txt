@@ -1,0 +1,1 @@
+I want to write a program that solves sudoku. So, I found some sudoku algorithms on Wikipedia. Can I use them or do I need to develop my own algorithm? Also, do I need to ask the specific license holder's permission?.. If so, how would I go about obtaining that permission?

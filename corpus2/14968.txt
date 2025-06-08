@@ -1,0 +1,1 @@
+It's a fairly common adage that adding more programmers to a late project will make matters worse. Why is this?

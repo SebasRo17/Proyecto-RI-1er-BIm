@@ -1,0 +1,1 @@
+num table database let say instance buyer seller collect common set instance telephone number email address address etc better practice one common table contact detail reference table row contact detail seperate entity better seperate table entirely

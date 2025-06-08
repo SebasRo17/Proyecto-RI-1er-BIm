@@ -1,0 +1,1 @@
+Clang is able to be used instead of gcc? What your experience on that? What disadvantages there are yet? Performance of compilation is very better than gcc but about performance of code generated when executing it? Are there good tools as front-end (IDE) to run on Linux or Windows? EDIT: I mean C compiler. C++ it's not so good yet.

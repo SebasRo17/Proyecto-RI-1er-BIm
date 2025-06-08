@@ -1,0 +1,1 @@
+I read from somewhere that when using C++ it is recommended not to use pointers. Why is pointers such a bad idea when you are using C++. For C programmers that are used to using pointers, what is the better alternative and approach in C++?

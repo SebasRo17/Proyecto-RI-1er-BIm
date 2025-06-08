@@ -1,0 +1,1 @@
+Python has a nice function in the standard library `random.choice` which returns a random element from a sequence. But none of the other languages I've developed in have thought to include such a feature. Do other languages provide such a feature? Why not?

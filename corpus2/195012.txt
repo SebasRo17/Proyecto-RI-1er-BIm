@@ -1,0 +1,1 @@
+I like to think I write good maintainable Java code, using best practices, design patterns and try and get good test coverage with unit tests. Recently whilst looking for a job, I came across a couple of job adverts that have references to "scalable" code. So, my question is, what is considered to be "scalable" code?

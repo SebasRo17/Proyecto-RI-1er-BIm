@@ -1,0 +1,1 @@
+trying instantiate linkedlist op new linkedlist get cannot instantiate linkedlist cannot instantiated

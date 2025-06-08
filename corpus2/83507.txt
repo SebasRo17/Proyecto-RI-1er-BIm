@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Is there a canonical book on Agile? I'm looking for a good book on learning Agile and Scrum for web application development. Can anyone suggest a good resource that guides one from the group up? We want to start implementing this into our business and web application development cycles.

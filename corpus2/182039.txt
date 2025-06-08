@@ -1,0 +1,1 @@
+Let's suppose I want to create an extension for Joomla that uses a jQuery plugin or any third party library. Imagine that I create a Joomla module that uses jquery Nivo Slider plugin (MIT License) http://nivo.dev7studios.com/license/. I'm not sure If I could sell this module with this license. Could I sell it if the plugin has a GPL License?

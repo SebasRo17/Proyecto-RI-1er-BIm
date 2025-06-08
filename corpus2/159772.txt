@@ -1,0 +1,1 @@
+In extreme programming methodology, what artifacts/ can be used to document the implementation? I have used an activity diagram to document the design steps for each activity. I have read that for XP, the implementation chapter is the code itself. I am developing an android application which consists of the GUI and java coding.

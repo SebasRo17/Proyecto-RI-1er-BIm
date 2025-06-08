@@ -1,0 +1,1 @@
+As a hypothetical, if I were to interview someone for a new PHP developer position when my experience is in .NET, how can I determine if the code sample they've provided me is efficient and of good quality? In other words, what is the best way to evaluate a programmer's code if you're not familiar with the language?

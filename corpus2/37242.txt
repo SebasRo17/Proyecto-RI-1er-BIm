@@ -1,0 +1,1 @@
+Most people seem to treat debugging as an art, rather than a science. For those here which treat it as a science, rather than an art - what process(es) do you normally use when faced with a new issue/bug/problem?

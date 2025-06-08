@@ -1,0 +1,1 @@
+What information would you expect to see in the github README? Should everything go in the README? i.e.   * Introduction   * Installation   * Versions   * User Guide   * Implementation   * Testing   * Related Resources Or should you just put certain things in the README (Introduction, Installation, Versions) and the other information is best placed in the Github wiki?

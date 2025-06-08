@@ -1,0 +1,1 @@
+thought unicode designed get around whole issue lot different encoding due small address space num bit prior attempt ascii etc many unicode encoding even multiple version essentially one like utf num utf num etc

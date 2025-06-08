@@ -1,0 +1,1 @@
+I keep seeing this term being thrown around in blogs about frameworks. While I understand the difference between declarative and imperative programming, how does this apply specifically to UI? Why does there appear to be a special term for it? Are these different 'things'? If so, what is the alternative to Declarative UI and why would I want to use it?

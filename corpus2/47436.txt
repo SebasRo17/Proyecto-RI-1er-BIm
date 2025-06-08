@@ -1,0 +1,1 @@
+I am in the design phase of a project where the end user will submit a request from a web page that will spawn a long running asynchronous processed job. Is there a "best practice" for this problem? Are web services and service brokers a good way to go? Is Microsoft messaging queue applicable here?

@@ -1,0 +1,1 @@
+wondering anyone resource advice related using architecture pattern like mvvm mvc mvp etc small application tool opposed large enterprisy one edit information see application architecture directed large enterprise application writing small program tool far using architecture pattern generally worthwhile go overhead using mvc mvvm framework would better keeping simple

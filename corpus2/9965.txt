@@ -1,0 +1,1 @@
+I don't see any use for case sensitivity in a programming language, apart from obfuscating code. Why implement this in a programming language? **Update:** It looks like someone you know made a statement on this.

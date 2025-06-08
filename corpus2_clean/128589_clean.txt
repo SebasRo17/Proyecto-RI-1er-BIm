@@ -1,0 +1,1 @@
+well started puzzle annoying see puzzle easy also need handle large number problem say deal number like num num num etc need arithmetic operation however feel handled brute force way math theorem statement click mind time could possible handle puzzle use external lib

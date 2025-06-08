@@ -1,0 +1,1 @@
+I just read about cyclesort via a sortvis.org blog post. This is probably the most obscure one I have heard of so far, since it uses maths that I am not familiar with (detecting cycles in permutations of integer sets). What is the most obscure one you know?

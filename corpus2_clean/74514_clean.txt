@@ -1,0 +1,1 @@
+like write small gui application using swing something like client social website tumblr use eclipse rcp netbeans platform benefit get using either one using plain swing swt rcp application require dependency developed using swing swt

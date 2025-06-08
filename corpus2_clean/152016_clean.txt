@@ -1,0 +1,1 @@
+seems cherrypy standalone web server suggested deploy application apache server use standalone one pro con decision thanks

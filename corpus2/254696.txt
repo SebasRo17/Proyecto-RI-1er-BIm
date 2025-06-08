@@ -1,0 +1,1 @@
+The question title speaks for itself. I'm specifically thinking in terms of a Node.js server. Additionally, this question is assuming that you don't need `eval()`. Also, if this is not possible, why not?

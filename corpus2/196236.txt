@@ -1,0 +1,1 @@
+I don't hate using assembly language, since I have written some in my os course. But obviously, assembly language lacks abstraction, you have to pay more attention to the details. Is assembly language really essential to write TAOCP?

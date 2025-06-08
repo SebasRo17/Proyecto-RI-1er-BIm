@@ -1,0 +1,1 @@
+If we have more than one service that uses same database - is it ok to move out user authentication on separate server and use RPC calls, instead of traditional database lookup?

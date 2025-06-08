@@ -1,0 +1,1 @@
+So far, most of the fastest and common sorting method is quicksort. Although it has its pro and cons. However, i'm thinking that although this sorting method is fast but does it provide shortest swapping step? Because quicksort divide a set of element into 2 and then sorting, will it double up the swapping step?

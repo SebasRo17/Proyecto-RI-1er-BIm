@@ -1,0 +1,1 @@
+I have noticed this style from time to time:               if ( 0 == myVar )      Rather than:               if ( myVar == 0 )      Is this just the individual programmers idiom? A defensive programming style? Does anyone know if it originated in some canonical text?

@@ -1,0 +1,1 @@
+trying show information testmethod usually use nunit writeline run fine see window project must use testing tool vs2010 writeline cannot see anything

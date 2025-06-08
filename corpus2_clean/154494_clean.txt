@@ -1,0 +1,1 @@
+designing scene graph system required compare two tree tree populated individual object varied number child root eg parent scene child bullet num player good way compare two tree using c also question shoot question

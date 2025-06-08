@@ -1,0 +1,1 @@
+one conference presenter said workflow foundation application require persistence make easier write maintain async wcf corresponding handling try catch assuming workflow foundation able use cpu system async io wf specific guidance needed writing cpu heavy async wcf application within wf framework tip specific workflow foundation

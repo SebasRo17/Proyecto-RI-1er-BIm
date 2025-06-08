@@ -1,0 +1,1 @@
+I'm trying to understand the flow of Android apps. I come from a RoR background, so I try and use that background to understand new concepts in Android. Here's my question: How can I think about fragments? Are they like partials in Rails? If so, how? If not, why?

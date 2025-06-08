@@ -1,0 +1,1 @@
+title aggregation bad idea restful although know crud good restful example resource employee client need sum total salary employee restful service provide sum question aggregation bad restful client get sum total salary retrieve employee record sum

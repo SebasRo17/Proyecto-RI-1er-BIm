@@ -1,0 +1,1 @@
+seems many bigger c library end creating client either use one library qstring cstring etc sure anyone keep converting standard one library us time involves least one copy particular something wrong std like auto ptr semantics bad changed c num

@@ -1,0 +1,1 @@
+One of the reasons why programmers prefer SVN over CVS is the former allows atomic commits ? What does this mean ?

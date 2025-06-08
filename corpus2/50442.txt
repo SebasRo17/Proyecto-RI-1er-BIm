@@ -1,0 +1,1 @@
+So, what do you use?               int anInt = (int)aFloat;      or               int anInt = static_cast<int>(aFloat);     // and its brethren      And, more importantly, why?

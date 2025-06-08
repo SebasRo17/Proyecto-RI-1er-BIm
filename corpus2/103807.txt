@@ -1,0 +1,1 @@
+I was reading the Wikipedia article on Douglas McIlroy and found a quote that mentions > "The real hero of programming is the one who writes negative code." What does that mean?

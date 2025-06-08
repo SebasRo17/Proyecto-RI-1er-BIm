@@ -1,0 +1,1 @@
+I'm working on a website where we expect many of our users to be under 18. Our lawyer told us that anyone under 18 will need their parents to agree to the Terms of Service, since they aren't legally able to do it themselves. So my question is, how thoroughly do we need to verify a user's age? Is it enough to just ask them?

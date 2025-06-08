@@ -1,0 +1,1 @@
+far tell service like travis ci circleci take project test suite whenever push new change repository assuming also possible either manually automatically test suite locally commit push change point using service like

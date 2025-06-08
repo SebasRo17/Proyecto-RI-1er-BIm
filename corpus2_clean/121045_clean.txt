@@ -1,0 +1,1 @@
+sure everybody share regex woe big application around num developer working mvc3 web application two fold regex validation front end server side becoming nightmare maintain way keep regexes one place used attribute entity also used validation controller

@@ -1,0 +1,1 @@
+want close issue github via commit message sure commit contain magic close xxx multiple commits responsible closing issue specifically wondering last commit feature branch always merged ff close issue close via merge commit sort summarizes entire feature branch standard way something endorsed git community

@@ -1,0 +1,1 @@
+guess tool called py2exe convert application executable file since also using pyqt4 gui apps external dependency executable file need bundle along setup setup builder tool

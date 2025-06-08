@@ -1,0 +1,1 @@
+usually test web apis using jmeter writing test script way create software automatically generate test script testing jmeter used backend testing software create frontend interface

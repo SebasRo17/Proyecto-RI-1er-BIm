@@ -1,0 +1,1 @@
+Many languages seem to have structures that are very similar called iterable or enumerable. These are structures that can be iterated or enumerated over, which seem to me extremely similar things. Are these words synonymous or is there a subtle semantic difference between iterable and enumerable which justifies the choice of term?

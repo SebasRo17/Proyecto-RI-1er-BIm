@@ -1,0 +1,1 @@
+I'm in a situation where I only need $100 to live at a place. How is this relevant to programming? Well, I would like to hear the opinions of those on this site if it is at all realistic to expect a Ruby noobie to be able to make $100 freelancing by a month from now, assuming a great deal of effort and enthusiasm o_O I'm a noob, learning Ruby before Rails.

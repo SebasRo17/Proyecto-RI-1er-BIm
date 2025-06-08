@@ -1,0 +1,1 @@
+If some developers still use a 32 bit 'Windows XP' and others use a '64 bit Windows 7', would it be advisable for the entire team to work with 32 bit development tools even if their OS is 64 bit? Are there any problems that could happen if uniformity is not followed?

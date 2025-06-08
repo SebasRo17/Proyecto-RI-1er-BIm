@@ -1,0 +1,1 @@
+I am fairly new to Java and my experience is limited to Web Based Applications running on a Web Container (Jboss in my case). Am I correct in saying that for Web Applications the web container takes care of multi-threading? If so, can I introduce new treads in a Web Based applications? Is there any advantage in doing so and in what scenario one would need to do that?

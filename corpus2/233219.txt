@@ -1,0 +1,1 @@
+Consider it is as a small personal project and is not intended to be maintain in future, what can be possible harm of cowboy coding style in such case?

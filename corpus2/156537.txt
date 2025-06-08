@@ -1,0 +1,1 @@
+I have very little knowledge in application security. I have often seen to protect your application from csrf attacks developers use tokens and pass these tokens with request to validate. I want to know if i just validate the request is coming from my server and rejects all requests coming from any other server how can it be unsafe?

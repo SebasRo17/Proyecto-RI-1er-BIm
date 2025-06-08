@@ -1,0 +1,1 @@
+Some friends and I are starting up a hobby programming project. I wonder if there is any good method/tool/service which lets us collaborate on UML diagrams online. This can be in any form (online direct edit, source-control style, etc.) as long as we can make changes independent of each other.

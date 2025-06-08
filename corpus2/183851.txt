@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  How do you dive into large code bases? I want to study the source code of a large project (for example, the Doom 3 source code) and I would like some help determining how I should navigate the code. How should I start reading it? Should I find a main() function and go on from there? Do you have any other tips that may help me?

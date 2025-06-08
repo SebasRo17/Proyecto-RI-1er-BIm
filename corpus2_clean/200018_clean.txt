@@ -1,0 +1,1 @@
+gnu parallel small utility allows execute bash command parallel wondering something similar window

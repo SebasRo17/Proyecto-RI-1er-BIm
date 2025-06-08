@@ -1,0 +1,1 @@
+Let's say an application I'm writing requires a password for something but I don't want that password to be saved in version control (so no hard-coding the password). What I've been doing is creating a file called `PASSWORD` which is read in once by the application and ignored by version control. Is there a more preferential method to handle this situation?

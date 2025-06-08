@@ -1,0 +1,1 @@
+pattern seem sensible designing oriented domain translate nicely onto relational database schema standard pattern used instead

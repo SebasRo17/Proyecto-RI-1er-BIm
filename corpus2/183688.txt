@@ -1,0 +1,1 @@
+Often what's displayed to a user (e.g. on a web page) will be based partly on security checks. I usually consider user-level / ACL security to be part of the business logic of a system. If a view explicitly checks security to conditionally display UI elements, is it violating MVC by containing business logic?

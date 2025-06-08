@@ -1,0 +1,1 @@
+perception seems widely used convention versioning recommended increase major version number change break modify api introduced two related scenario see apply guideline though num offer api version num start offering api late stage development

@@ -1,0 +1,1 @@
+closed source commercial c application logged message plain english like could read file foo others use macro filename information like cpp num bound assert crash application recovers fine want log good rule thumb plain english message appropriate v filename one filename error even appropriate closed source commercial software heard argument unprofessional looking handy debugging

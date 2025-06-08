@@ -1,0 +1,1 @@
+proper etc import rest def init self db url self resource rest resource db url def create self person self resource post person def get self pas def update self pas def delete self pas person def init self age self self age age def self dict self age self age

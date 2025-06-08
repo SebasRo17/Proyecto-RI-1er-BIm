@@ -1,0 +1,1 @@
+sequence diagram user entered username password authentication see two detail valid detail invalid detail diagram user password match miss match respectively big question one draw first either valid detail invalid detail know one come first

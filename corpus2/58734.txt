@@ -1,0 +1,1 @@
+I'm going to graduate soon and I've been thinking. I have a few really small projects/scripts (~100-200 LOC) that I made on my free time and I have them on Github. I was wondering if they are "worthy" enough to be presented to future employers? Or should I only include those that are big (~1000 LOC)?

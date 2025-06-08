@@ -1,0 +1,1 @@
+beginning programming io app read apple guide deal error got following important point exception programmer use nserror user nserror usually passed argument used inside checked caller however asking whether good idea use global handler say singleton wrap around nserror could used trigger error handling within called anything would bad practice

@@ -1,0 +1,1 @@
+bad coding practice design make instantiated variable function grouped together look good lack better description since somewhat related global variable global function btw using javascript angularjs express mongodb

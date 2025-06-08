@@ -1,0 +1,1 @@
+planning write application service call listening particular command service relay command service call b c written respectively net service chooses service b c relay depending content request service looking framework allow interoperability net example wcf jax w writing custom framework e g json rest command http similar question aspect consider deciding

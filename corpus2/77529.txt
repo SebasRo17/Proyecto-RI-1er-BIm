@@ -1,0 +1,1 @@
+It's stable and has a time complexity of O(n). It should be faster than algorithms like Quicksort and Mergesort, yet I hardly ever see it used.

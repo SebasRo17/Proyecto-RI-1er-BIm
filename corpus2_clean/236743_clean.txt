@@ -1,0 +1,1 @@
+keep hearing people say banking system like atm use eventual consistency model synchronization wondering definitely amount withdraw might delayed showing banking statement assume let amount banking account inconsistent given time right anyone working industry confirm

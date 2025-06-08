@@ -1,0 +1,1 @@
+Do you know any scenario where asp.net mvc can outperform asp.net? Because while comparing these two, people always say that each of them are different beasts and may be a better choice depending upon the scenario.

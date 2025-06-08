@@ -1,0 +1,1 @@
+I wrote two programs that server and client can connect to each other (one program for server and another for client) with their IP addresses (socket programming). Now I want to modify it so that if the client or server for example wrote something in `textbox` other user be notify of that. My programs are Windows Form Application. For this purpose, should I use WCF?

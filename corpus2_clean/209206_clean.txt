@@ -1,0 +1,1 @@
+datetime module timedelta object take week day hour minute second microsecond argument upon instantiation however timedelta created two attribute former listed day second microsecond

@@ -1,0 +1,1 @@
+I'm looking to really grasp OO once and for all. Any recommendations on a good Objected-Oriented book? I program in .Net, so if it's .Net oriented all the better. Regards,

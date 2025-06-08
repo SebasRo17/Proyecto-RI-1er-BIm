@@ -1,0 +1,1 @@
+I work as an independent developer. I find it difficult to test functionality of a feature and test code. As project goes complex, I loose focus resulting in each feature partially developed. I want to know how to write test cases, manage smooth workflow and handle features effectively and while remain focused?

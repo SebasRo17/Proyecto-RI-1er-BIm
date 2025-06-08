@@ -1,0 +1,1 @@
+In the next month I have to shift to work on the ubuntu system and writing c/c++ programs. I used to program in windows visual studio for some years. What should I do to prepare the shift suddenly? And how to debug in that system?

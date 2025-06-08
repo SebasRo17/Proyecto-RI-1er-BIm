@@ -1,0 +1,1 @@
+I'm a young upstart programmer and I've never actually seen a database. But computers in large part come in boxes, not in cylinders so I was wondering why they are always represented as a cylinder when people show their architecture drawings. Is there a reason why or is it just tradition to draw them like that?

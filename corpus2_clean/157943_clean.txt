@@ -1,0 +1,1 @@
+started reading design pattern book gof pattern seem similar minor conceptual difference think many pattern unnecessary dynamic language like e g substituted dynamic feature

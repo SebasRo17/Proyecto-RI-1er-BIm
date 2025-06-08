@@ -1,0 +1,1 @@
+I have a list of **unique string**. I don't want to destroy this string i need it.I only need to find out weather an given string S exist in this unique list.What would be the best data structure for this purpose.

@@ -1,0 +1,1 @@
+I'm really interested in playing around with the electronic paper technology, but I don't really want to program any commercial device (kindle or whatever). I have some ideas and I want to start. How do I get a screen of electronic paper, a chip and how to start programming for it (language, interface)

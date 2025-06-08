@@ -1,0 +1,1 @@
+I'm working on a project solo and have to maintain my own code. Usually code review is done not by the code author, so the reviewer can look at the code with the fresh eyes — however, I don't have such luxury. What practices can I employ to more effectively review my own code?

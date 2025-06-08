@@ -1,0 +1,1 @@
+c told class getters setter wrong blog post hand objective c direct use ivar discouraged getters allow lazy instantiation setter make kvo easy difference

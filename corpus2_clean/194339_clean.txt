@@ -1,0 +1,1 @@
+mips assembly register stack pointer another register frame pointer frame ponter purpose differ stack pointer

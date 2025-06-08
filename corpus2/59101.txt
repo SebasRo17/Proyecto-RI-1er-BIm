@@ -1,0 +1,1 @@
+For example, some library (in my case it's ruby gem) became deprecated. And my app is using this library. It's ok and I have not any problems with how it works. When should I switch from deprecated open-source library to something new? Or should I at all?

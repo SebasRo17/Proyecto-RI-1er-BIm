@@ -1,0 +1,1 @@
+I am importing a website into TFS that is stored in SourceSafe as               $/MyApp 1.0     $/MyApp 2.0     $/MyApp 3.0     $/MyApp 3.5      Should I import this as several distinct projects (MyApp1.0 ... ) or as one project called "MyApp"?

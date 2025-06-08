@@ -1,0 +1,1 @@
+I am a Software Engineer professional. I have studied calculus as a core course in my graduation studies. I want to ask question, that what/where is the implementation of calculus in computer science?

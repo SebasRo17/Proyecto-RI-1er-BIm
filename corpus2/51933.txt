@@ -1,0 +1,1 @@
+Let's assume the situation where a team of four developers is building an application. During the testing phase, bugs are reported by users. Who should fix them? The person who committed the erroneous code, or anyone who is free? What is preferred approach in agile development (scrum)?

@@ -1,0 +1,1 @@
+trying create small cm asp net mvc3 got confused designing administrator section decided create two area one user another admin cm post news want put create edit delete function admin area related user user area achieve functionality cm example two newscontroller one admin area include create edit delete function another user area include preview id design good improve

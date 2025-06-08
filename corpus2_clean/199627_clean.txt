@@ -1,0 +1,1 @@
+famous strassen matrix multiplication algorithm real treat u reduces time complexity traditional n num n num resource gone even cormen steven skienna book clearly state strassen thought rationale strassen matrix multiplication algorithm lucky accident something deeper

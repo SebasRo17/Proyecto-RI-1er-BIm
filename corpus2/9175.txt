@@ -1,0 +1,1 @@
+What do you do when `malloc` returns 0 or new throws exception? Just halt or try to survive OOM condition/save the user's work?

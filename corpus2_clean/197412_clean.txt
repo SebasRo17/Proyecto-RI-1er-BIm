@@ -1,0 +1,1 @@
+different type dependency particular name linear dependency circular dependency self referencing etc dependency rule num zero b num b zero c num zero c uml diagram illustrating relationship described particular relationship suggestion

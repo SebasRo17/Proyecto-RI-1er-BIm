@@ -1,0 +1,1 @@
+It seems really simple, but who invented the commonly-used `otpauth://` scheme (used by Google Authenticator and other TOTP soft tokens by scanning QR codes)? When?

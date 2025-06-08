@@ -1,0 +1,1 @@
+I am developing a PHP Application that needs to display and accept content written in tamil. For example "login" should be written in tamil on the form. How can I achieve this ?

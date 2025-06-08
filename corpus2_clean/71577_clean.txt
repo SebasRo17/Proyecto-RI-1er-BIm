@@ -1,0 +1,1 @@
+best use id activerecord pattern php auto increment question would like generate id use create new record unique random value chance creating collision querying get last id used incrementing chance another record created approximately time id use situation best thing use situation

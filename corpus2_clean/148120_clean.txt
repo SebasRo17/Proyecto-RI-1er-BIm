@@ -1,0 +1,1 @@
+need hebrew text wrote little script read hebrew text text file globally replaces hebrew letter latin one need fine tuning replace certain thing position global replace trouble following read text cannot replace individual element would best way

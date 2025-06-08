@@ -1,0 +1,1 @@
+I understand the Heap memory divisions such as Young, tenured and Perm Gen. But I'm just curious from where is the memory used for performing the Garbage Collector itself? Is it from any of these memory spaces or in the thread stacks ?

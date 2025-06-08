@@ -1,0 +1,1 @@
+Why is there just support for JavaScript and some VBScript in browsers today? I know JavaScript is good and all, but wouldn't having the option of using another programming language help promote different development styles?

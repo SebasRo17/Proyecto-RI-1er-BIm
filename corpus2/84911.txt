@@ -1,0 +1,1 @@
+I am mostly developing on ASP.NET MVC and sometimes on ASP.NET WebForms. But when I hit a PHP web site, I always think that; > Should I learn PHP? Assuming answer here is yes, where would be the first place to start and where should I go from there?

@@ -1,0 +1,1 @@
+In development, what is the best way to manage delays? For example, you're doing a task, new requirements come in/something which further steepens the learning curve of something that must be learnt right there and then, and you need to communicate this to the PM/manager. What is the most effective way of doing this?

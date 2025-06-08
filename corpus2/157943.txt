@@ -1,0 +1,1 @@
+I've started reading the design pattern book by the GoF. Some patterns seem very similar with only minor conceptual differences. Do you think out of the many patterns some are unnecessary in a dynamic language like Python (e.g. because they are substituted by a dynamic feature)?

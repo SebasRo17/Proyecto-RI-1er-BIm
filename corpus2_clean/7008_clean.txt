@@ -1,0 +1,1 @@
+different type security exist implemented example sql injection prevention

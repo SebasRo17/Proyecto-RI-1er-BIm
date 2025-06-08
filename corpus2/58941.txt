@@ -1,0 +1,1 @@
+I am looking for advice of where to deploy a Rails app for a small business:   * web-based   * https needed   * fewer than 500 users   * (probably) fewer than 20 concurrent users So far, I am reading pricing information of:   * Amazon EC2   * Dreamhost VPS   * Heroku   * Self-hosting (most unlikely) Any suggestions and/or pros and cons to share? Thanks!

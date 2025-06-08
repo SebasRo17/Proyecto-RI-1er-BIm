@@ -1,0 +1,1 @@
+I need to implement an algorithm where I find the maximum flow and the minimum cut of an undirected graph and I cannot really find an algorithm for this. I have looked at the Ford Fulkerson algortihm but for that one it´s used for an directed graph. Anyone can help me to find an appropriate algorithm?

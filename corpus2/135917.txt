@@ -1,0 +1,1 @@
+I am new to Entity Framework. I know there is an option to update model from the database, but I want to know how easy and successful is this task. I may need to update my model in a few weeks but till that time many lines of code has already been pushed inside. Is it difficult to track changes and make code work?

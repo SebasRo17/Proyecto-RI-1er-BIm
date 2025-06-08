@@ -1,0 +1,1 @@
+I work for a company where we build enterprise applications, and we maintain three environments: dev, stage and prod. The meaning of dev is intuitive: it's the environment used during development of the application. What's the difference between stage and production environments?

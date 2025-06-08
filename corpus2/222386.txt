@@ -1,0 +1,1 @@
+Main excuse from the developer for not having a good unit testing is "Code is not designed in a unit testable fashion." I am trying to understand what type of design and code that can't be unit tested.

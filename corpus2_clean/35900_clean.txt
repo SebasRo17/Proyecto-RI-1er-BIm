@@ -1,0 +1,1 @@
+thinking hosting private project server may use gitolite copy local machine backup git clone automated git fetch every minute want know happens bug gitolite somewhere else server source git repository tampered backup also corrupted easily able revert source using history

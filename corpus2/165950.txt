@@ -1,0 +1,1 @@
+I have a problem that boils to down having a set of integers and wanting the subset of those integers whose sum is closest to some target without going over. What's a good algorithm for doing this? Maybe it's even a well known problem whose name I don't know?

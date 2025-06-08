@@ -1,0 +1,1 @@
+browser based web application page want little label link corner display user username account information along logout button information displayed immutable store account information session attribute user log forget use filter interceptor load request request attribute

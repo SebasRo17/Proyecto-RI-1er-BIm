@@ -1,0 +1,1 @@
+django good solution creating application use database communicate internal api

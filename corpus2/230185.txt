@@ -1,0 +1,1 @@
+I have a method that generates a data URI from a byte array. In the event the input byte array is empty, what is the appropriate thing for the method to do? Here are the options I see:   1. return `data:,`   2. return an empty String   3. throw an Exception By my read, RFC 2397 doesn't explicitly address the notion of empty data.

@@ -1,0 +1,1 @@
+Is the semantic web extended form of the relational database that the data should not be redundant? That is it should exist only as an entity and all its characteristics defined by the other entities should be linked via predicates.

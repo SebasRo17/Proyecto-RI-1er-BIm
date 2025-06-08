@@ -1,0 +1,1 @@
+I wanted to know if there is a way to make your JavaScript private from client side?

@@ -1,0 +1,1 @@
+We've all been there:   * Your project failed or got cancelled.    * The code you spent days working on got rejected by your team.    * The design pattern you introduced to the team created chaos.    * Everyone ignores your ideas. My question is, what is the most productive way for a programmer to handle development-related failures such as these?

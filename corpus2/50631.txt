@@ -1,0 +1,1 @@
+There are two areas to possibly optimize for speed in:   * Where the most time is spent   * The code that is called the most Which is the best place to start optimizing? Often code that is called the most often has low execution times already. Do you optimize the slower, less called areas or spend time optimizing the faster, heavily used areas?

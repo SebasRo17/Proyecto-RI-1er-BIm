@@ -1,0 +1,1 @@
+I work on an app that does a lot of network communication. I know that IPv4 addresses are being exhausted. At the same time, none of our customers are asking for IPv6 yet. We are examining which new features to add to the next release, so I ask: is IPv6 support a "must have" or a "nice to have" feature at this point?

@@ -1,0 +1,1 @@
+trying better understanding polymorphism say base called baseclass one called foo three derived class called derived1 derived2 derived3 override implement version foo baseclass object contain object derived base like also pull called foo would call defined baseclass defined respective derived depend programming language implemented

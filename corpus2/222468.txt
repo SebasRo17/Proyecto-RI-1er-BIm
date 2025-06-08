@@ -1,0 +1,1 @@
+I'm a programmer who'd like to learn VBA, but I don't have a Windows box. However, I have a MacBook Pro with the latest version of MS Office for Mac on it (2011 I think). Since I work in a .Net shop, I'd like to learn VBA. Is there anything I'm missing out on not having a Windows machine to learn it on?

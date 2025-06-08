@@ -1,0 +1,1 @@
+I am constructing a ray tracing algorithm , i know that the first step is to develop camera and view plane specifications. Now is the next step performing rasterization algorithm on image before a BVH tree is constructed so that intersection tests can be performed? Kindly Guide

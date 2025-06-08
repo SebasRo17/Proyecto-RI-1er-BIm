@@ -1,0 +1,1 @@
+I need to reference the latest version of Bouncy Castle in a project I intend to publish to Github. In my first posting of the code to Github, someone complained that I downloaded the entire Bouncy Castle library, added it as a project, and uploaded it. What is the correct way to link to the latest version of this Bouncy Castle DLL so that my references are properly maintained?

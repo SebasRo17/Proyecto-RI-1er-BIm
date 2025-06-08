@@ -1,0 +1,1 @@
+I have not intended to hash and rehash the same matter, but just to decide, what to learn first (JavaFX, Flex, HTML5, etc.) I would pull through a kind of survey, especially as the recent similar questions here came out since at least one year. So, what is JavaFX prospect as a RIA technology for the next couple of years?

@@ -1,0 +1,1 @@
+use mongodb database providing paid service mongodb licensed agpl driver using mit licensed buy commercial license mongodb use backend app

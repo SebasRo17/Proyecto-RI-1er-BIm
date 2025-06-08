@@ -1,0 +1,1 @@
+I'm tempted to create a `final class CaseInsensitiveString implements CharSequence`. This would allow us to define variables and fields of this type, instead of using a regular `String`. We can also have e.g. a `Map<CaseInsensitiveString, ?>`, a `Set<CaseInsensitiveString>`, etc. What are some of the pros and cons of this approach?

@@ -1,0 +1,1 @@
+I was told not to use Jquery as a beginner because it would hamper my learning of Javascript. Now I've read a couple books on Javascript, read loads of sites, and made a Javascript web app. Am I ready for Jquery? If not, then how will I know when I'm ready?

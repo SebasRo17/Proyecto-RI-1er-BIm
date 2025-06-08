@@ -1,0 +1,1 @@
+I am planning to learn objective-c to be able to build iOS Applications I have seen some guys using Monotouch sdk, I am really confused where to start from. I have a solid experience in Developing sites and Application using .NET Framework Technology, should I go with `Monotouch`? Will the application made in the native platform run faster? Many Thanks.

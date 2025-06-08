@@ -1,0 +1,1 @@
+basic website homepage num subpages static content want add something like slideshow current offer custom image would change every month also want include image gallery effect like lightbox person going add modify delete image two new module want deal ftp according experience install cm joomla drupal create basic image management system upload select delete image

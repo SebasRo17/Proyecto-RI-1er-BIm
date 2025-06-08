@@ -1,0 +1,1 @@
+It seems lazy evaluation of expressions can cause a programmer to lose control over the order in which their code is executed. I am having trouble understanding why this would be acceptable or desired by a programmer. How can this paradigm be used to build predictable software that works as intended, when we have no guarantee when and where an expression will be evaluated?

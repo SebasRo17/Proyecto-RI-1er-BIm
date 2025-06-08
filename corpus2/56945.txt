@@ -1,0 +1,1 @@
+If you only had time to test 5 features of a product that had 10 features total, how would you decide which features to test? Another Question: When is it okay to ship a product with a bug

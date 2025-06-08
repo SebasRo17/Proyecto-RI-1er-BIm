@@ -1,0 +1,1 @@
+I am developing a commercial application. There are several GPL programs which have some common features with my applications. Can I take an idea from those GPL applications and implement them myself without copying the code. Does this violate GPL.

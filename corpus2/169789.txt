@@ -1,0 +1,1 @@
+What would be a good GPU to start learning CUDA on? Are any GPUs unsuitable?

@@ -1,0 +1,1 @@
+Obviously, if management buy into spending time with code reviews, then everyone has to do it. But there are always those guys (or gals) who resist with every ounce of their being. How do you effectively manage dealing with this scenario when dealing with it as the peer reviewer?

@@ -1,0 +1,1 @@
+MS Access gets pooped on a lot because A) many newbies use it B) people use it as a database backend which is not a good idea. I'd like to see some reasonable discussion on why you might choose VB.Net over MS Access or vice versa for programming a Database GUI (forms and reports) to be used with MS SQL Server.

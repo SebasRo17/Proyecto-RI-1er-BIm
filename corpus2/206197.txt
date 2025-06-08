@@ -1,0 +1,1 @@
+I have been doing a lot of code review lately, and I am unsure of the positive and negative effects and professionalism of putting positive and/or funny comments in code reviews. We use Github as our code review platform on my team, so the comments are viewable by anyone. I generally try to use this platform so the entire process from start to finish is visible and historical.

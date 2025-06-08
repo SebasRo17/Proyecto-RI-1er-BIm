@@ -1,0 +1,1 @@
+seen many example testing automatic tool e serializing deserializing json paired following way val actual deserialize serialize checking appending symbol done properly imho silly cause extremely hard made mistake plain operation provide really useful example use case automatic testing scalacheck advantage meant used mostly paired style straight inverse function like json example

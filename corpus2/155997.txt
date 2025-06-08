@@ -1,0 +1,1 @@
+I am taking course in OOA/D this semester. In academic they teach till now about Object Oriented Programming. I have some doubts regarding this.   1. Is it true that Object Orinted programming can be done without any specific modelling like OMT.   2. What are the models available for object Oriented software development?

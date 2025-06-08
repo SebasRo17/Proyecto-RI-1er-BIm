@@ -1,0 +1,1 @@
+never written program make significant use logging done capture stack trace exception happen wondering much people log depend kind application writing find log actually helpful

@@ -1,0 +1,1 @@
+using library return json think standard would like store content local database fairly fresh faced term interfacing db find way around using mysql database store involved using method extract field raw slicing dicing wondering would efficient use nosql solution store already right form

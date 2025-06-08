@@ -1,0 +1,1 @@
+reading example across internet including msdn reference found example following thing public fooviewmodel baseviewmodel public fooviewmodel controller controller controller protected controller get private set public route action controller controller view public fooview private viewmodel following public fooview private viewmodel controller even use shortcut property controller

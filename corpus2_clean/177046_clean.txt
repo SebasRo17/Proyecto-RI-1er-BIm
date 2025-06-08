@@ -1,0 +1,1 @@
+non oop language like google go idiomatic go implementing new container type using datatypes like array list implement convenient functionality like contains absent built container type

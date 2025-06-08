@@ -1,0 +1,1 @@
+When building a parser to a programming language what I earn and what I lost choosing one or the other?

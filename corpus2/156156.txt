@@ -1,0 +1,1 @@
+I know what the JIT compiler is but how about why is it called that, it obviously catches exceptions _Just in Time_ , but how and why should it be called this? Sorry if this sounds a bit vague.

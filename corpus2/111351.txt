@@ -1,0 +1,1 @@
+Quines, which are programs that generate their own code as part or all of their output are a neat idea for a programming puzzle. However, do they have any use beyond that?

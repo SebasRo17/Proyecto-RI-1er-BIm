@@ -1,0 +1,1 @@
+need write simple file transfer mechanism ftp firstly must gui secondly must dropbox third may use paid library hopefully us open source component question came mind everyone moving desktop web web desktop would useful experienced say c php vice versa

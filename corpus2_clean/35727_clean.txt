@@ -1,0 +1,1 @@
+looking way test webpage dynamically generated graph using thing like google graph anyone know tool exist perhaps selenium would thanks

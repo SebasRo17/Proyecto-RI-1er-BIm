@@ -1,0 +1,1 @@
+What is a XML schema in plain simple terms? What will be the problem if an XML doesn't have a schema defined? An example can be very helpful.

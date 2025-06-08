@@ -1,0 +1,1 @@
+I want to understand the linux kernel code, and I have been going through it but I am not able to get the full feel of what is happening(I am concentrating on network part of the linux kernel), so can anyone of you suggest good practices of reading C (or any other lang) code in general and specific to network part of the linux kernel. Thanks in advance

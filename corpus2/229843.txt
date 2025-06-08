@@ -1,0 +1,1 @@
+I forget the name of it but there's a rule that you aren't supposed to allow visibility into an objects inner makeup. It has to do with not allowing more than one dot in the implementation like this for example:               return world = foo.bar.hello.world();

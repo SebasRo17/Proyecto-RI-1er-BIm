@@ -1,0 +1,1 @@
+currently c socket server used client socket c stick built low level message passed via json string cot package better technique commonly used situation reduce cost future development maintenance

@@ -1,0 +1,1 @@
+I am trying to put together a bug bash at my office and I was what was the best way to conduct it. Ideally, I'm looking for the most effective way to manage testing and provide the staff with incentives to find relevant errors.

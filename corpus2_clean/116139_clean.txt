@@ -1,0 +1,1 @@
+today introduced mvvm architecture silverlight winphone wpf look nice big project thought mvvm pro con want get architecture know use

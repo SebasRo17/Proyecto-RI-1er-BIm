@@ -1,0 +1,1 @@
+best way query m sql server c sharp know good practice sql query best way create stored procedure call c sharp parameter using var conn new sqlconnection connstr using var command new sqlcommand conn commandtype commandtype storedprocedure conn open command executenonquery conn close

@@ -1,0 +1,1 @@
+There is so much going on in the cloud, acronyms like PaaS, SaaS, IaaS, (any more?) that I'm losing track of what technologies are important (within each category) how relevant each one is. What are the core cloud technologies that Architects should know about in each category?

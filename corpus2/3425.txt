@@ -1,0 +1,1 @@
+And what do you think about operator precedences? Would be harder programming in language where the operations are executed in sequential order? Ex.: 2 + 3 * 4 == 20 2 + (3 * 4) == 24 Ok, Lisp family has not precedences by definition. Let's gonna talk about procedural and object oriented languages using this "feature".

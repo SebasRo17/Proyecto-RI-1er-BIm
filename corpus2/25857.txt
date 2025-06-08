@@ -1,0 +1,1 @@
+As a result of reading Peopleware, I'm thinking of sending a survey out to our programmers to determine how they feel about their office environment. One obvious question is whether the office is too noisy or not. **What other questions should I ask our programmers about their work environment?** I'll post the final survey I put together onto this thread.

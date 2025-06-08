@@ -1,0 +1,1 @@
+What do you normally call a class that stores open, high, low, close, volumne, and timestamp of a financial instrument(e.g. stock)? For example, in a 5 minute intraday chart, this object would hold OHLC, and volume between 10:00 and 10:05AM. Can anyone working in the field give me an advice?

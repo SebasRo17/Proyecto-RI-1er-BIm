@@ -1,0 +1,1 @@
+Example here: What languages should I know if I'm interested in building web applications ? Yes, I understand that HTML and CSS are not Turing-complete. Yes, I understand that they are declarative, not imperative languages. But why are people always clubbed over the head with this pedantic (and arguably obvious) fact when they ask a question about these languages?

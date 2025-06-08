@@ -1,0 +1,1 @@
+today noticed basically never use protected method c rarely feel need call non public method parent use protected template pattern since override private method c need protected either real world scenario would want use protected method c note fond implementation inheritance general might explain lot

@@ -1,0 +1,1 @@
+What benefits for the developer does the Ruby language have that are not available in C# (preferably with code examples)?

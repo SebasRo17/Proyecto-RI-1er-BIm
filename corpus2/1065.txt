@@ -1,0 +1,1 @@
+I'm comparing different STS's for claims based authentication and am trying when it's appropriate to use each one. It appears that ADFSv2 should be used in all Windows Environments. Ping and Siteminder are more for the Unix side... although a sales rep said Ping was better for Windows, I didn't really understand "why" Any comparative information is much appreciated!

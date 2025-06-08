@@ -1,0 +1,1 @@
+What's the best way to review a code before it's committed to the SVN trunk? One idea that I am thinking of is to having the developer to commit his code to a branch and then reviewing his code while merging the branch revisions into the trunk. Is this a good practice? If not, what else could be done to review a code before it's committed to the trunk?

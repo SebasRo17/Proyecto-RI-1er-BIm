@@ -1,0 +1,1 @@
+know xunit framework allows test parallel make use multiple core today machine none maybe reason test usually quick people simply feel need something deeper precludes distributing least test multiple thread

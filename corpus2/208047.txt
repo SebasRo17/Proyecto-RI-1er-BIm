@@ -1,0 +1,1 @@
+I have a class that inflates objects from rows found in a database (or another source, e.g. MongoDB, a CSV file, etc.). To set the object's properties, it does something like `self.__dict__.update(**properties)` or `obj.__dict__.update(**properties)`. Is this considered Pythonic? Is this a good pattern that I should continue to use, or is this considered bad form?

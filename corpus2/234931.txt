@@ -1,0 +1,1 @@
+In localization code (like `T('English phrase with %s and %s parameters', param1, param2)` the order of parameters in different languages is different. How to handle this? Our localization engine seems not to support named or numbered parameters, so the parameters need to go in the same order as they are in code.

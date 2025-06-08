@@ -1,0 +1,1 @@
+In a financial services environment - is it realistic to ask your team of ten programmers to take on a 100% automated unit and integration test coverage goal as a stretch task for a legacy java system (>1.5M SLOC)? [as a two year goal in increments]

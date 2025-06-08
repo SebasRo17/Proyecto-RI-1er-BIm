@@ -1,0 +1,1 @@
+contains two method method add remove datastore contains method arg constructor two method take amount parameter addition removal method static parameter initialized within structure instance variable instead level pseudo utility public utility public add arg1 arg2 boolean arg3 add logic public remove arg1 arg2 float arg3 remove logic

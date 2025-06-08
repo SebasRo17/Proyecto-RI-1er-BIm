@@ -1,0 +1,1 @@
+cursor connection cursor cursor execute cursor fetchall expected non empty result whereas connection cursor execute connection cursor fetchall return empty list sqlite3 command identical case edit num num num added last fetchall sample

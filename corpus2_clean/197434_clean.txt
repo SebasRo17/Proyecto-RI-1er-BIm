@@ -1,0 +1,1 @@
+creating importing db creating script script table post build populate table schema generated problem table containg num num row put num num row insert one sql file post build fails big num better way achieve getting schema db created part build publish num way valid thing create another post build process manually break one big sql file smaller sql file build publish

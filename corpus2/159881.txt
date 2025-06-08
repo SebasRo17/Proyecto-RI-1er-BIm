@@ -1,0 +1,1 @@
+For NASA's Interplanetary Network, what does a packet look like? It's obviously a form of redundant protocol, stored at the receiver and with built back up. Is there any documentation on the packet structure or the communication protocol, which has to span 14 minute communications?

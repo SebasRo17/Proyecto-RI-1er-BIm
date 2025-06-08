@@ -1,0 +1,1 @@
+Today I stumbled upon the python package called PyContracts. However, python has the `assert` statement which seems to allow you to do exactly those things. What advantages do contracts have over assert statements?

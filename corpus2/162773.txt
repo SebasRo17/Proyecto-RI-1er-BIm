@@ -1,0 +1,1 @@
+Is it safe to use `LAST_INSERT_ID()` in a system using `MySQL` like Point Of Sale when there are multiple users using the system at the same time?

@@ -1,0 +1,1 @@
+I am using a shared host that which doesn't support CRON/TaskScheduler (it is a windows Godaddy server). I need to search on email server for new emails on each 1 hour, I have the script on PHP. Can I use `PERL` to emulate a task on certain times, or is there any other alternatives?

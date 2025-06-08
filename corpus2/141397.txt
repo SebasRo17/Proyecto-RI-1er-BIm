@@ -1,0 +1,1 @@
+In C++, the integer variable `bar` evaluates to 1 in this code               int foo = 0;     int bar = ++foo;      and 0 in this code               int foo = 0;     int bar = foo++;      Is this behavior prevalent in most popular languages?

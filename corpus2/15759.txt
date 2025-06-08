@@ -1,0 +1,1 @@
+Pretty much every CPU has some internal code name before it is released to the public (and even after it hangs on). But what about software projects? Are those usually code named? Do you code name your projects?

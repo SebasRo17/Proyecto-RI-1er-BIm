@@ -1,0 +1,1 @@
+Sample situation: A team of Java developers starts an iOS project. Only one developer has Objective-C/iOS knowledge, and in the beginning he will work on this project alone. How we can perform code reviews in this situation? What are processes, approaches, tools that this developer will use?

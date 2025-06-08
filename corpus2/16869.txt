@@ -1,0 +1,1 @@
+When interviewing for a job, is there a delicate yet accurate way to find out if they have insane policies, like "no open source", or "no installing software without permission", "not upgrading software until it's about to lose support", or "no visiting blogs"?

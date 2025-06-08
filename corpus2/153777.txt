@@ -1,0 +1,1 @@
+What are the benefits, if any, of having a personal Version Control System? This includes such things as personal projects, hobbies, sample code accumulated over the years, etc. ### Over and above the obvious benefits such as backup/history.

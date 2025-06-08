@@ -1,0 +1,1 @@
+Is "Analysis Patterns: Reusable Object Models" by Martin Fowler (published 1996) still a good book to use for the content it covers? Are there other good books that cover the same content? Are there more up-to- date books? **Update:** Are there any more answers on this question, as well as any answers on the second part about alternative books?

@@ -1,0 +1,1 @@
+Is it normal and still proper (in agile/SCRUM-based software development) for a product owner to be in charge of more than one product?

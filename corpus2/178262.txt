@@ -1,0 +1,1 @@
+What reasons to companies have for open-sourcing libraries and applications? Doing this may allow a developer to better understand the code, but could doing this allow people to find and exploit vulnerabilities in the library or application?

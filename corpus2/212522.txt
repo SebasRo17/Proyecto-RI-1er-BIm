@@ -1,0 +1,1 @@
+Say I have a class User and an interface Administrator. Some users are administrator and can thus implement the interface. Most aren't, however, so it's false to say that "User implements Administrator". How can I represent that in a class diagram? Should I use the classic implementation arrow, or is there an existing stereotype for a class that **can** implement an interface?

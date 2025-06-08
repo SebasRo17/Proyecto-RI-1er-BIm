@@ -1,0 +1,1 @@
+hidden divs show via javascript button clicked right hiding using inline styling e style display none work general rule guideline follow determine use inline style styling via stylesheets selector

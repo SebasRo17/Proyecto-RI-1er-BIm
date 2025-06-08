@@ -1,0 +1,1 @@
+opencl tutorial give nice introduction opencl yet found information question interoperability compilation target seems compile opencl target gpu making binary distribution application using opencl one make several build vendor platform

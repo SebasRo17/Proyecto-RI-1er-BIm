@@ -1,0 +1,1 @@
+Can regexp pattern matching be used to check for palindromes within a given text in Java? My intuition is that in order to check for palindromes, we may need to remember the character that was parsed, which cannot be done using regexp. Is that correct?

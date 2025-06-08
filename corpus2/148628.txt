@@ -1,0 +1,1 @@
+I am storing database passwords in app.config as plain text. I am also publishing the application. How safe is that password stored in app.config? Can I use a disassembler and find it?

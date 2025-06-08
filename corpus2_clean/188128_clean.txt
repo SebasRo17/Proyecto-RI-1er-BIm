@@ -1,0 +1,1 @@
+working android application development question always come mind xml interacts mean button inside xml view button inside populating xml layout use setcontentview r layout want know xml interacts technique used behind know please tell brief

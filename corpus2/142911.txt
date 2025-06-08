@@ -1,0 +1,1 @@
+I'm confused. I've seen two different terms: `Javabean` and `Java Beans`. Is there a significant difference between them?

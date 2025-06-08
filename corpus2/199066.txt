@@ -1,0 +1,1 @@
+I am planning to start the public repository on github. In this repository I will be sharing code which I will be posting in my blog. I have seen lot of repositories without any license. Is it required to have a license file? Can't I just say "You're free to use this code in whatever way you need"? Please advise

@@ -1,0 +1,1 @@
+perl support friend relationship object support private protected method usually done private method prefix underscore occasionally method think friend method meaning expect used specific specific responsibility sure make public meaning foo private foo better convention convention friend method

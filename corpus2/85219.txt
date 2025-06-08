@@ -1,0 +1,1 @@
+I need to learn as much C++ as possible, I'm a senior C# developer. Is there any good tutorial for that? Or a book? And will it be difficult to learn C++? If you ask what I will do with C++, I have to get enough ability to make video processing application or image processing applications and whats the time period for that?

@@ -1,0 +1,1 @@
+What is the main difference between a Rapid Application Development tool like MonoDev and Visual Studio, is an RAD more focused on one thing? I'm looking to make a web application, are there advantages to using a Web Based Rapid Application Development Tool as opposed to Visual Studio with the .NET framework 3.5 support?

@@ -1,0 +1,1 @@
+Scenario: Your boss tells you he needs a big chunk of code in language X converting into code Y. You know code Y but are only vaguely aware of X. You only have limited amount of time. Do you try and find a code converter? slowly hack through the code until it works? outsource? say you cant?

@@ -1,0 +1,1 @@
+modularized api independent component independent meaning built via maven used dependency project webapps use api need intermediate processing translation client model callee component model question handler processor belong need packaged along client application jar war part component jar convention

@@ -1,0 +1,1 @@
+After a user installs my application, where in the app's install directory should I place information regarding 3rd party software (e.g. FOSS) licenses? Should I just append it to my EULA? Is there some sort of convention or standard that I should following to make it easily scan-able by license detection scripts?

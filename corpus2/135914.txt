@@ -1,0 +1,1 @@
+Why was the dependency injection pattern not incluided in the gang of four? Did GOF pre-date widespread automated testing? Is dependency injection now considered a core pattern?

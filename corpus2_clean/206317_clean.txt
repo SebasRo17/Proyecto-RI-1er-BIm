@@ -1,0 +1,1 @@
+use one versus instance let say num comma delimited denormalized text file want transform load normalized sql server table

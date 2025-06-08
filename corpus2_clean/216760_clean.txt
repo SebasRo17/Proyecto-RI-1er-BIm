@@ -1,0 +1,1 @@
+developing android app using html5 want make work completely offline know possible package html cs j file inside apk file resource possible also package php file inside apk file internet connection would required app

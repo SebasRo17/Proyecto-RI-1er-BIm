@@ -1,0 +1,1 @@
+I read an article a while back (forgot from where) that essentially stated that someone wrote a virus and inserted it into an image. The end result allowed the cracker to have his way with the system. How is this possible?

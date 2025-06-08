@@ -1,0 +1,1 @@
+It seems like after I've written a significant amount of code I get this anxious feeling like I haven't done it in the best possible way, and I end up continuously refactoring and spending way too much time on the project, or never getting it done sometimes. Does this ever happen to anyone else, and how do you deal with this?

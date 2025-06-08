@@ -1,0 +1,1 @@
+I am developing an ASP.Net MVC 3 intranet site that will use Integrated Windows Authentication exclusively. What are the vulnerabilities of the challenge/response authentication traffic being sent in plain text? Will someone sniffing the network traffic be able to hijack an authenticated session?

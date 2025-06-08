@@ -1,0 +1,1 @@
+want compare performance two search tree integer avl tree tree design engineer test accomplish example let consider insert operation step follow order state average operation faster rb case consideration take correctly measure cpu time implementation optimized may compare optimized implementation avl v straightforward implementation rb link paper would helpful

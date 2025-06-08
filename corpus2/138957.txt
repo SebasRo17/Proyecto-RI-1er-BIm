@@ -1,0 +1,1 @@
+i have just reading MongoDB.came across sharding but not getting what exactly is it .watever i understood is its better to have more small servers than a huge one for data storage and when data exceeds capacity of one server you can use another machine to store data.can anyone give soem more idea about sharding?

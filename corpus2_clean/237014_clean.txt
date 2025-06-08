@@ -1,0 +1,1 @@
+c decimal used number need exact representation base num instance num cannot represented base num e g float double always approximation stored variable type wondering reversed fact also possible number base num represented base num case would want use float instead decimal handle

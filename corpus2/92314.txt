@@ -1,0 +1,1 @@
+If we want to have code reviews before a developer delivers his work, then can you suggest whether multi stream project { i.e., each developer create his own stream and view and later deliver to single stream.} or single stream { i.e., all developers work on same stream } which is advisable.

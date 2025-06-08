@@ -1,0 +1,1 @@
+Does anyone know of any resource which gives some man-hour ballparks for common types of development projects? I realize it's going to vary wildly by framework/language/the skill levels of the developers, but I'm just looking for something that comes within 50% of the mark. Facing a classic build vs buy vs use open source and I don't want to pick the wrong path. Thanks!

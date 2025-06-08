@@ -1,0 +1,1 @@
+How the encodings work? Which encodings can be used in XML?               To avoid errors      XML encoding while using PHP I heard about               Character Encodings:     Source Encodings:     Target Encodings:      May i know what is the Difference between them?

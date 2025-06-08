@@ -1,0 +1,1 @@
+When I'm coding in Python and I want to try something out, I open IDLE of Python on the command line and am able to quickly try something out. Is there a similar way I could do that for Java? I have heard about Java "shells" (e.g. http://www.beanshell.org/). Has anyone tried them?

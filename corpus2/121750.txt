@@ -1,0 +1,1 @@
+Could Java ever match C++ with regards to programming ultra high frequency systems? Has the JVM improved enough to allow this? From a theoretical or practical point is it possible? Is C++ used in most UHF systems simply because out of habit? If you agree/disagree, what parts to Java/C++ is the basis for your viewpoint?

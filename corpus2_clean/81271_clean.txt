@@ -1,0 +1,1 @@
+database store login credential num num num user plaintext much effort take md5 hash password

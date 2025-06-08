@@ -1,0 +1,1 @@
+We have an offshore development crew who has a bad habit of installing nonsense software on corporate desktops (which has nothing to do with their job function) and so are considering removing their local administrator rights. Is Local Administrator, or local Power User a requirement with VS2010? How do you run without elevated rights? What issues will you run into?

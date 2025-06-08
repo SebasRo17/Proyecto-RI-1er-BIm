@@ -1,0 +1,1 @@
+wish know way know logic operation example isnullorempty obj1 isnullorempty obj2 throw one empty one

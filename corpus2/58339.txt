@@ -1,0 +1,1 @@
+What advice (tips, techniques, gotchas, et cetera) do you have for someone who is porting a code library from one language to another, or rewriting it to work in a different compiler, environment?

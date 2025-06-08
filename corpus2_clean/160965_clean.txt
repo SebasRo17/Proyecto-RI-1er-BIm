@@ -1,0 +1,1 @@
+set fractional coordinate also rotation matrix operates cartesian coordinate anyone know could convert rotation matrix operate fractional coordinate fractional coordinate function basis vector b c corresponding alpha beta gamma following link explains coordinate transformation sure use listed matrix operate rotation matrix idea thanks

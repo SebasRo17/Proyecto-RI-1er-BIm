@@ -1,0 +1,1 @@
+lot great explanation model view controller design pattern trouble finding good resource showing use practice starting new application matter toolbox example suggested using uml collaboration diagram useful designing application around mvc although certain exactly might case toolbox mvc

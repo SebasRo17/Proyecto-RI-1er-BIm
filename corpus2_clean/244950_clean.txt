@@ -1,0 +1,1 @@
+working 2d physic engine need certain precise hundredth method basically shaving unneeded precision tried thing like num 2f format obviously produce number moving based upon speed want obviously stop num keep going speed really something like num

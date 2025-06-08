@@ -1,0 +1,1 @@
+could someone explain complicated context rewrite performed get put taken msdn property mean rewrite compile time rewrite induce time overhead far know release mode property compiled thing must performance getters setter right

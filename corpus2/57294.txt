@@ -1,0 +1,1 @@
+Would it be acceptable for some very generic utilities or classes to be added in the `System` namespace? I'm thinking of really basic stuff like a generic `EventArgs` (`EventArgs<T>`), Use case: would be shared in a company's core library (so that it can be recompiled in a new project as-is, without changing the namespace);

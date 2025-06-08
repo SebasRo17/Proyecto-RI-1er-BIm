@@ -1,0 +1,1 @@
+We are a group of enthusiast engineers who are developing a series of application using Excel as our front end. We are using VBA but plan to start doing in VB.net. Some people in IT have questioned the wisdom of using Excel as a platform because it crashes, it's unsafe, difficult maintain, slow, etc.

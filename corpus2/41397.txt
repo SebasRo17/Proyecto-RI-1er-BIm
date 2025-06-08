@@ -1,0 +1,1 @@
+My question is whether I should test code that I know will be changed in a short time. I'm doing TDD in ruby, and I often meet with this question. I'm interested about best practices about this, pro and contra. Thanks. **Update** Clarification: My question is basically how do you compare the 'cost of writing a test' VS 'the fact that the code will change soon' and make decision.

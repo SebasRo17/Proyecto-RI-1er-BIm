@@ -1,0 +1,1 @@
+many year ago debugging real time system one used telephone switch use logic analyzer read execution straight cpu emulator physically replaced cpu situation instrumenting still relevant

@@ -1,0 +1,1 @@
+stumbled upon article den contentpresenter say wpf element called contentpresenter often used inside control template well inside root application markup understand inside root application markup part thought contentpresenter used inside controltemplate role contentpresenter quite clear used controltemplate valid reason use contentpresenter outside template markup

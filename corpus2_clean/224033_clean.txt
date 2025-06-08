@@ -1,0 +1,1 @@
+let say reason object created way obj getinstance inject dependency using setter perform starting initialization using obj real trouble situation solved use constructor p reason create way replace inside getinstance according rule working php matter

@@ -1,0 +1,1 @@
+Is is possible (and sensible) to unit test a web forms site? It seems to me that as so much of it depends on state and user input it wouldn't be fesable. If it's not feasible is there a valid automated alternative?

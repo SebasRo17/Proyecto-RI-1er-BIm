@@ -1,0 +1,1 @@
+The LGPL (we'll just assume version 3 for all in discussion for ease), is a less restrictive version of the GPL, likewise, the AGPL, is a more restrictive version of the GPL, but is it possible to use LGPL code, make additions(or don't), and relicense it as GPL or AGPL; can GPL code be modified and relicensed as AGPL?

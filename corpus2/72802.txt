@@ -1,0 +1,1 @@
+I've made two "complimenting" projects. These two projects are stand alone, but are almost designed to be used together. They are both fairly small projects as well. I'm wanting to host the code on GitHub, but I'm not sure if I should use two repositories or one for this. What do you think I should do?

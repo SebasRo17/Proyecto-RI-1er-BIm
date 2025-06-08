@@ -1,0 +1,1 @@
+current application running issue orm relying pretty hairy sql express query orm best practice term manage sql query example usually live relation part separate sql file edit directly source file latter ide editor allow syntax highlighting scheme vim eclipse perform sql syntax highlighting given set tag like begin sql end sql something similar

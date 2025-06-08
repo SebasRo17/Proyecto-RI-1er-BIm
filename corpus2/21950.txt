@@ -1,0 +1,1 @@
+The last week I saw at least three questions where people were confused about the differences between `char *` and `std::string` or made some related mistakes. Don't get me wrong, I don't have a problem with this, I just don't get the exact reason for this. Maybe it was just a coincidence.

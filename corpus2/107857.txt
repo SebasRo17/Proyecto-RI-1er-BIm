@@ -1,0 +1,1 @@
+I work in a small software company where my boss is a great fan of Visual Foxpro. We are working on an ASP.NET project but my boss is insisting to use Visual Foxpro DBF instead of SQL Server. I want to know what may be the advantages and disadvantages of using a Foxpro database file with ASP.NET 3.5.

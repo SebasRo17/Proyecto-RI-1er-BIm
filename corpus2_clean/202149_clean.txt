@@ -1,0 +1,1 @@
+given corner x undirected graph g would like ask connected component x first try work desired edge b edge b edge b c edge c b edge c edge c connected x x connected x edge x connected x edge x edge x z connected z query result connected b b c connected b b corner b connected corner corner b connected three time afraid problem get complex graph

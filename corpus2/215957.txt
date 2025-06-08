@@ -1,0 +1,1 @@
+I have been taught to access databases through abstraction layers. I was wondering why it is not also standard practice to access the file system through an abstraction layer? It seems to me unit testing would become much simpler, since mocking the filesystem is often a pain and poorly supported by some languages.

@@ -1,0 +1,1 @@
+I'm learning about unit tests, and have a doubt for a test i want to do, to implement an "AND" logic gate               A   B   A^B     0   0   0     0   1   0     1   0   0     1   1   1      how can i test for a method that works like AND gate?, is this what a mock object is? or stub? Thanks, Please provide pseudo code,

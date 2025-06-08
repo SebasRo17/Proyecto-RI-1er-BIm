@@ -1,0 +1,1 @@
+I would like to publish part or full source code of one or more plugins (licensed under GPL, GPLv2, MIT or no license) in my website/blog. Website I am talking about is for everyone, free to use and free to copy code. Plus, is it okay if I do not provide any link to the source code/plugin? I will definitely give full credits to the developer.

@@ -1,0 +1,1 @@
+happens one process child thread child process child process inherit child thread parent process assume o linux let threading model

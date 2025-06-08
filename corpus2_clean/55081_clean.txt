@@ -1,0 +1,1 @@
+eventually need depreciate part public web api however confused would best way large 3rd party app base old version api seems like wrong way almost apps would fail overnight however keep ancient web api available forever might outdated significant change make working impossible best practice deprecating old web api

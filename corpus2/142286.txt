@@ -1,0 +1,1 @@
+I know that the default advice for open source projects, and getting started, is to start fixing bugs. But I have a feeling that its the path that one would want to take if they wanted to be a tester/fixer of bugs in the project. How does one become an active contributor of an opensource project? [I.e. on the level of architecture]

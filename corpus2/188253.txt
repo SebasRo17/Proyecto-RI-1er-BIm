@@ -1,0 +1,1 @@
+I thought that in .NET types are either value types or reference types. But this guy, when asked about .NET types, talked about "primitive types" and "complex types". I understand that people sometimes use different names to refer to the same concepts, but isn't it strange that a Microsoft certified professional would use this kind of terminology?

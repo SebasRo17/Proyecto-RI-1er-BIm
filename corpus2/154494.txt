@@ -1,0 +1,1 @@
+I'm designing a scene graph system, where it is required to compare two trees. The trees are populated with individual objects, each with varied number of children; and they have a root.   Eg: Parent: Scene, Children: Bullet1, Bullet 2, Player What is a good way to compare two such tree? I'm using C++ for the code.   Also, this question is an off-shoot from this question

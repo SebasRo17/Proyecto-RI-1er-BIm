@@ -1,0 +1,1 @@
+I would like to have your opinion, how I can handle the case when PDO engine and Hibernate engine "talk" to the same db? There is a PHP application as frontend, and a Java doing some job after user through PHP says so. So can we avoid concurrent access to same records? And not have problems? The database is PostgreSQL.

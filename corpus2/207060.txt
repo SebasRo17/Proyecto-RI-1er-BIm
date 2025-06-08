@@ -1,0 +1,1 @@
+Our Scrum Master keeps referring to bugs as technical debt. Is he right, are bugs considered to be technical debt in the world of Agile?

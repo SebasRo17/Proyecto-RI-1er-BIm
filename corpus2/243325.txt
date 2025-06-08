@@ -1,0 +1,1 @@
+I have one exception handler class. I want to show this class in the uml -- class diagram. But, I do not know how to represent relationship between class `<X>` and exception handler class. How can I represent relationship between class in class diagram?

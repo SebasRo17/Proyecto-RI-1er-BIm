@@ -1,0 +1,1 @@
+Is is an absolute must when following the Scrum methodology to practice collective code ownership, instead of for example weak code ownership?

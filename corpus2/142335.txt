@@ -1,0 +1,1 @@
+I am researching this question for a possible paper. Given the exploitation of user identities for risk management and market tracking, how easy is it to alter a browser enough to throw off fingerprinting techniques? My current sources are:   * EFF Panopticlick project   * Peter Eckersly's follow-up presentation at Def Con 18.

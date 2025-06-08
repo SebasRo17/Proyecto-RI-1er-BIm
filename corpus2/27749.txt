@@ -1,0 +1,1 @@
+Are there specific things that you look out for before getting the team into pair programming? Obviously pairing someone who's great with C++ with another who knows ASP.NET best won't get me far, but how about someone who's great with C++ with another who knows Java best but can pick up C++ quick enough? What else? Experience levels? Character traits?

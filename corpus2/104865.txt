@@ -1,0 +1,1 @@
+I am working with a team of 5 persons. We are using SQL Server as our database. Since long time I want to store the Stored Procedures in SVN so that the versions can be maintained. Is there any tool which can be used as a plugin with SQL Server Management Studio and allows checkin from there.

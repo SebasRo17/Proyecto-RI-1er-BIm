@@ -1,0 +1,1 @@
+If I retrieve a random number from a database (e.g. RAND() in SQL Server) or using a programming language and send this in some form back to a client machine, is there an economic chance I will be sending an indicator of what's in my server's memory that might form a security problem (like revealing my schema, etc)?

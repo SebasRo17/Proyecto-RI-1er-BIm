@@ -1,0 +1,1 @@
+What are some concepts/techniques/language features that every decent C programmer should know/be aware of (exclude general software engineering and similar and focus only on C specific stuff). I would like to know so that I would be able to fill in some possible gaps in my C knowledge.

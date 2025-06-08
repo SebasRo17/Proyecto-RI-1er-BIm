@@ -1,0 +1,1 @@
+creating pretty simple database driven application whenever create db app create class mimic db good practice better making one big call database populating object working object retrieve db needed

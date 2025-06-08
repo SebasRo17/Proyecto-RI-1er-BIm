@@ -1,0 +1,1 @@
+I've recently learnt regular expressions and I love writing / using them. I'm looking for ideas and more opportunities to use them, however I don't want to overuse them as an all purpose tool, as often warned by people. What kind of things should I use regular expressions for, and where should I not use them? (Apart from the obvious: HTML parsing).

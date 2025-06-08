@@ -1,0 +1,1 @@
+I've been trying to grok the double-dispatch pattern and having a hard time. I finally attempted a sample program to help myself understand. Here's the gist. But then I decided to attempt it without Double dispatch and the solution didn't look any more terrible than usual. What am I doing wrong?

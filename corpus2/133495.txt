@@ -1,0 +1,1 @@
+To my understanding, a parser creates a parse tree, and then discards it thereafter. However, it can also pop out an abstract syntax tree, which the compiler supposedly makes use of. I'm under the impression that both the parse tree and the abstract syntax tree are created under the parsing stage. Then could someone explain why these are different?

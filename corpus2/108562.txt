@@ -1,0 +1,1 @@
+I going to start a new project in my company in which are involved the use of MVC 3, now this is the first time that we are using this framework, and i have a couple of questions,   1. It's recommended to start with MVC3 and not from the MVC2?   2. Any Tutorials in specific that you can recommend?   3. This framework have full integration with jQuery?

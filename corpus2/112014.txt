@@ -1,0 +1,1 @@
+I have noticed that most SQL job vacancies are not adapted for remote (telecommute) work as Java or .NET jobs are. I'd like to know if there is a way to work in remote mode in T-SQL programming direction? And if that is impossible, why is that?

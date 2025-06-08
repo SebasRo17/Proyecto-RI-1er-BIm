@@ -1,0 +1,1 @@
+I thought about it and could not come up with an example. Why would somebody want to catch an exception and do nothing about it? Can you give an example? Maybe it is just something that should never be done.

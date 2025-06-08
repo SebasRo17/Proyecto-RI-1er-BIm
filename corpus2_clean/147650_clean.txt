@@ -1,0 +1,1 @@
+benefit understand difference considered best standard practice mystring equal mystringvar avoids potential npe require check good thing cleaner read since check required expected program could breaking without wiser mystringvar equal mystring requires check expected good thing clutter compound conditionals check allows npe let u know something broken

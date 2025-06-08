@@ -1,0 +1,1 @@
+developer fan static method recently come across difference oop language static method oop language use static access without creating instance call kind language allow access static instance also like like objective c reason kind difference two oop language correct oop behaviour curious know

@@ -1,0 +1,1 @@
+Everyone says the same thing: "a real programmer knows how to handle real problems." But they forget how they learned this ability or where: it's not taught in schools. What can I do to improve my ability to tackle complex programming problems? What strategies have worked for you? Are there specific areas I should be focusing on, like algorithms or design patterns?

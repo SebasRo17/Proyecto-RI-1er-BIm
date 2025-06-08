@@ -1,0 +1,1 @@
+There is plenty of material about designing software for object oriented programming. Do you know of any good materials for pure structural programming? I am working purely in C and while I can use some experiences from object oriented programming I found out, that I know few tricks about good structural design.

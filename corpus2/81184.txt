@@ -1,0 +1,1 @@
+Do you think flash performance is bad mainly due to the fact that most people build flash applications using the flex framework? As opposed to the problem having everything to do with the lower level flash system. What percent of flash apps are built with flex?

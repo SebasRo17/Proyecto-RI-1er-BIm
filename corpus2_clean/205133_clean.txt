@@ -1,0 +1,1 @@
+trying develop selenium application using c win form application start user enter app text box many field cost validity etc corresponding app example webpage description appname cost validity desc app1 num num someattribute want selenium search entire page given app find want selenium retrieve attribute cost validity store achieve please note none field unique attribute id

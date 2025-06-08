@@ -1,0 +1,1 @@
+let say got list l num num want get n th number n pretty large say n num call l num machine result memory haskell capable realizing number index n 2n making call l num trivial extreme example num num haskell able realize every number num num num

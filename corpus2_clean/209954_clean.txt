@@ -1,0 +1,1 @@
+better practice force user extend abstract make configuration eg pseudocode classa weight height width config config weight weight height height width width abstract classa weight height width classb extends classa item weight num height num width num using configuration library use whats wrong second recently found extending producing clearer maybe missing something

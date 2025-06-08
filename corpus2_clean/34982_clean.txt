@@ -1,0 +1,1 @@
+obj c c library used manipulating git repos mac apps working mac app would like able clone modify git repos using git directly option gpl like sell app commercially without opening source seen could link sure properly appear implement thing necessary pushing pulling repos git protocol

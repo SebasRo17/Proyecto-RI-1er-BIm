@@ -1,0 +1,1 @@
+I've just been learning Unit Testing and I'm trying to understand how I could incorporate it with a project with existing code. Say I wanted to write tests for a specific class in that project, but that certain class requires an instance of another class for the the methods to be run and/or tested. How should I approach this?

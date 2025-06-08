@@ -1,0 +1,1 @@
+My target platform is Mac OS X, but I'm looking for a library that will give me a 2D coordinate of someone's head, via the built in webcam. My requirements are that it be near real time if not real time, give me a 2d screen coordinate I can write out to a log.

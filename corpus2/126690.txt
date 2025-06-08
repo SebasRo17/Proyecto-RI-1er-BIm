@@ -1,0 +1,1 @@
+Currently, I've learned the following in Java SE:   * Logical Operations   * Loops   * Inheritance   * Polymorphism   * Abstract Classes   * Interface I'm currently learning Strings, Characters and Regular Expressions. What are things that I should learn before proceeding to Java EE?

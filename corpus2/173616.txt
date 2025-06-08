@@ -1,0 +1,1 @@
+I am planning to use cloud storage for my app. What my app will do is retrieval of users data and user authentication and have the ability to sync data continuously. Is it a good idea to use Amazon Glacier? Is there a bandwidth limitation or request or any downside of using it?

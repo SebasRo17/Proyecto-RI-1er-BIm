@@ -1,0 +1,1 @@
+documented doxygen want default html give know customize providing custom cs header footer etc like gnome add common php file tell save php really want want like msdn describe really question possible using doxygen something like template xml parse another program mind writing

@@ -1,0 +1,1 @@
+filesystem window num text file sql script file matter opened notepad encoding menu reported encoding ucs num little endian utf num without bom difference seem perfectly valid script could tell encoding file without notepad

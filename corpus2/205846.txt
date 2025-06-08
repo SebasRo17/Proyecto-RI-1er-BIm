@@ -1,0 +1,1 @@
+It's current to see the terms `callback`, `trigger` and `handler` in some API documentations. It is just synonymous or each term correspond to a specific concept? I used to think that this terms are just synonymous, but I must be wrong ... Thanks !

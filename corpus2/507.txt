@@ -1,0 +1,1 @@
+I have seen this on the SO on many times. Whenever a question is vague and the question is asking some magical answer somebody or the other leaves a comment saying answer is 42. Even a book I am reading right now uses '42' as the number whenever it wants demonstrate some basic concept using an integer. So is there any history behind it or it is just a coincidence?

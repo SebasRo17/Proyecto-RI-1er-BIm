@@ -1,0 +1,1 @@
+Why questions about HTML/CSS/JS/etc(Web-programming et al) collect more views and answers than those about, for instance, automata theory? Does this mean that the huge part of programmers are just "intermediate" programmers? (This is not sarcasm, I really interested!)

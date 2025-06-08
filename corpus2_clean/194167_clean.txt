@@ -1,0 +1,1 @@
+working mvc4 n tier application quick question service controller relation using domain viewmodel public actionresult detail id num tenant getbyid id mapper map tenant view see service domainmodel controller use create viewmodel using automapper better way ideally would like domain model referenced presentation web layer exact best practice specific point thanks

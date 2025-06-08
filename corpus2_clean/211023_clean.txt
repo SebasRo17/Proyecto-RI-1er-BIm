@@ -1,0 +1,1 @@
+wondering today would put utility class asp net mvc app utility class mean class static used perform like send email take email address subject body argument would assume maybe creating separate folder namespace would good enough wanted get everyone opinion

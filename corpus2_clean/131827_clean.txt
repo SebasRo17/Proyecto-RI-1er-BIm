@@ -1,0 +1,1 @@
+understanding expression template technique discovered significantly prior original c standard num used improve performance several standard class like std stream

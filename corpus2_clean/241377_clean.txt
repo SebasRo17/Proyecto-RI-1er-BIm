@@ -1,0 +1,1 @@
+let say need write test front end following bdd style user visit com save something wishlist saved item count updated result test dom get manipulated heart feel better suited integration test team currently using jasmine load fixture test interaction lead brittle test reliant static fixture instead actual markup misusing jasmine

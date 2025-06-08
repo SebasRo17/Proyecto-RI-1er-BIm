@@ -1,0 +1,1 @@
+designing tiered net application want use first approach new struggling envision ought designed would following reasonable approach problem limitation might write dto class domain used transfer server client wcf write set poco class inherits dto class use generate database server write another set poco class inherits dto class use generate sdf database client

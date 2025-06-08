@@ -1,0 +1,1 @@
+As programmers we have a lot of inputs:   1. Ebooks    2. Code snippets    3. Interesting emails    4. Documents   5. Web articles    6. Blog posts   7. StackOverflow questions   8. Podcasts ... Which tools do you use to store, organize, search and consult all of this stuff?   Is there a silver bullet solution to handle this huge amount of data?

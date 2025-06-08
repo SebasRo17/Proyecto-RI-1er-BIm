@@ -1,0 +1,1 @@
+I would like to know what differentiates a Service class from a utility class or a helper class? A class only with underlying methods calls the dao's is a service? Doesn't the usage of Helper classes violates SRP?

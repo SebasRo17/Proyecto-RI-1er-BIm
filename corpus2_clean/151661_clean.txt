@@ -1,0 +1,1 @@
+come across php tag recently reluctant use itch hard wanted take know bad practice use short tag use full tag php instead one would save typing would better readability imo instead somevar php echo somevar could write like cleaner somevar somevar using operator frowned upon

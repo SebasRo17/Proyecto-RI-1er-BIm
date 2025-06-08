@@ -1,0 +1,1 @@
+recently refactoring command query separating one command one query found multiple place calling command getting query seems like violation dry principle wrap common would command query acceptable

@@ -1,0 +1,1 @@
+This reply to the question "I don't know C. And why should I learn it?" has me interested in learning C. What is a good self-instruction program (textbook/website/OpenCourseWare, etc.) for someone who already has lots of experience in high-level languages?

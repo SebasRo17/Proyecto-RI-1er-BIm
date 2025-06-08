@@ -1,0 +1,1 @@
+Why don't browsers have the ability to differentiate between events triggered via input devices and scripts ex: element.onEvent()? Wouldn't this be a very simple way counter attack web spam bots? Or am I way off on this?

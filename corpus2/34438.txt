@@ -1,0 +1,1 @@
+I've used Adobe Flex to develop a web application and I simply don't have an opinion of it, it looks good to the user and the code can't be seen for most users, but, is that it? What other advantage does Flex has?

@@ -1,0 +1,1 @@
+Let's say you are planning to create a website of the scale of Facebook (If I am going to cite a website's name then why not Facebook?!). Is it recommended to use SQL Server as your database for such applications? I am asking this question because many colleagues of mine say that SQL server should not be used such applications. They prefer Oracle or MySQL instead.

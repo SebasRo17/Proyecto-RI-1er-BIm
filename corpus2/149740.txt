@@ -1,0 +1,1 @@
+In OOP, it seems that if an object cross-references another object in its property, ultimately, if such objects are used a lot, the software at the end will be slow because of this. Is this true? If yes, can we intentionally not do this by getting things done?

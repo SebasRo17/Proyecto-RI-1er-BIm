@@ -1,0 +1,1 @@
+What features were added to C that were originally in C++?   When where they added and for what reason(what where the pro/con arguments)?   How do they differ in C as compared to C++?   Did the features originate in C++ or in another language? Examples (feel free to expand on): const, Function prototypes, implicit exit(0);

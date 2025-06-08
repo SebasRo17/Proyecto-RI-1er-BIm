@@ -1,0 +1,1 @@
+suppose hierarchy public abstract animal public abstract eat public abstract talk dog extends animal override public eat override public talk cat extends animal override public eat override public talk public static extends animal animal animal eat animal talk public static animal animal animal eat animal talk difference using bounded parameter polymorphism use one

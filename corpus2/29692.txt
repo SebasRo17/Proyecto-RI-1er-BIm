@@ -1,0 +1,1 @@
+Always when the term RAII is used, people are actually talking about deconstruction instead of initialisation ... I think I have a basic understanding what it might mean but I'm not quite sure. Also: is C++ the only RAII language? What about Java or C#/.NET? or is C++/CLI not RAII anymore?

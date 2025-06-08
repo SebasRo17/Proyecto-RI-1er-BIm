@@ -1,0 +1,1 @@
+When building an API for a customer, the public javadoc has to contain just what you want to show the customer. Which is a shame, as it the javadoc is also, in some ways, the obvious target for some kinds of internal design documentation. One might imagine a custom doclet or some other trickery to allow the two types of information to coexist in the source. Anybody been there?

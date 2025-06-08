@@ -1,0 +1,1 @@
+I am new to the MVVM pattern. I have a window which has 3 text boxes (`Name`, `Address`, `Description`), a save button, and a listview which displays the above fields. When the save button is clicked I want to save the fields into database as well as show the record in the listview. How do I design my Model, ViewModel for this interface ?

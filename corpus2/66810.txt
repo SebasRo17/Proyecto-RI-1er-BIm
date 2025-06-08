@@ -1,0 +1,1 @@
+One meme about Rails is that Rails can't Scale. Is it known how this meme started? Was there a particular blog post that argued this is the case?

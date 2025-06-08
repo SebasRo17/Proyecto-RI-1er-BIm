@@ -1,0 +1,1 @@
+Should tests in some project be written by the actual person that does the coding (usually senior in our team) or it can be done by junior coders with less experience?

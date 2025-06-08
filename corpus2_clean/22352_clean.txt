@@ -1,0 +1,1 @@
+consider system us ddd well system us orm point system realistically nearly every use case manipulate domain object otherwise real effect purpose modifying immutable cause generate new record persisted creates massive bloat datasource unless delete previous record modification see benefit using immutable object sense ever see useful case using immutable object wrong

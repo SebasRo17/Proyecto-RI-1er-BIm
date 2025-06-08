@@ -1,0 +1,1 @@
+people used garbage collected language often scared c memory management tool like auto ptr shared ptr handle many memory management task lot c library predate tool way handle memory management task much time spend memory management task suspect highly dependent set library use please say one answer applies make better worse

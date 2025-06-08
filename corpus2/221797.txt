@@ -1,0 +1,1 @@
+Java has the following syntax for different bases:               int x1 = 0b0101; //binary     int x2 = 06;     //octal     int x3 = 0xff;   //hexadecimal      Is there any reasoning on why it is `0` instead of something like `0o` like what they do for binary and hexadecimal? Is there any documentation on why they went this route?

@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-preprocesamiento_corpus.py (mejorado)
+preprocesamiento_programmers.py
 
-Recorre todos los archivos .txt en la carpeta INPUT_DIR,
-les aplica limpieza avanzada, tokenización (letras y dígitos),
-remoción de stopwords en inglés y dominio-matemático,
-mapero de números a <NUM>, lematización,
-y genera un archivo limpio por documento en OUTPUT_DIR.
-
-Requisitos:
-    pip install nltk scikit-learn
+Limpia y preprocesa el corpus del dataset de programación. Aplica:
+- Limpieza de texto
+- Tokenización alfanumérica
+- Mapeo de números a <NUM>
+- Eliminación de stopwords (inglés + dominio programación)
+- Lematización
+- Filtro por frecuencia de documento (DF)
 """
+
 import os
 import re
 import argparse
@@ -21,50 +21,42 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import regexp_tokenize
 from sklearn.feature_extraction.text import CountVectorizer
 
-# ---------- CONFIGURACIÓN ----------
 INPUT_DIR = r"C:\Users\roble\OneDrive\Documentos\GitHub\Proyecto-RI-1er-BIm\corpus2"
 OUTPUT_DIR = r"C:\Users\roble\OneDrive\Documentos\GitHub\Proyecto-RI-1er-BIm\corpus2_clean"
 
-# Patrón para tokenizar letras y dígitos
 REGEX_PATTERN = r"[a-z0-9]+"
-# Idioma de stopwords
 STOPWORD_LANG = "english"
-# Stopwords adicionales del dominio matemático
-DOMAIN_STOPWORDS = {"theorem", "lemma", "proof", "example", "figure", "equation"}
 
-# Umbrales DF para filtrar vocabulario
-MIN_DF = 2        # descarta términos en <2 documentos
-MAX_DF_RATIO = 0.9  # descarta términos en >90% de los documentos
-# -----------------------------------
+# Stopwords del dominio de programación
+DOMAIN_STOPWORDS = {
+    "code", "function", "variable", "class", "int", "string", "print", "value", 
+    "return", "python", "java", "error", "output", "input", "type", "method",
+    "true", "false", "null", "void", "main", "line", "run", "compiler", "loop",
+    "char", "name", "data", "array", "object", "args", "console", "debug"
+}
+
+MIN_DF = 2
+MAX_DF_RATIO = 0.9
 
 def inicializar_nltk():
-    for pkg in ("punkt", "stopwords", "wordnet"): 
+    for pkg in ("punkt", "stopwords", "wordnet"):
         try:
             nltk.data.find(f"tokenizers/{pkg}")
         except LookupError:
             nltk.download(pkg)
 
-
 def limpiar_texto(texto: str) -> str:
-    # 1. Mapeo de números a <NUM>
     texto = re.sub(r"\b\d+(?:\.\d+)?\b", " <NUM> ", texto)
-    # 2. Eliminar URLs
     texto = re.sub(r"http\S+", " ", texto)
-    # 3. Permitir letras y dígitos, reemplazar resto por espacio
     texto = re.sub(r"[^A-Za-z0-9\s]", " ", texto)
-    # 4. Minusculas
     texto = texto.lower()
-    # 5. Colapsar espacios
     texto = re.sub(r"\s+", " ", texto).strip()
     return texto
 
-
 def construir_vocabulario(corpus_texts):
-    # Usa CountVectorizer solo para filtrar por DF
     vect = CountVectorizer(min_df=MIN_DF, max_df=MAX_DF_RATIO, token_pattern=REGEX_PATTERN)
     vect.fit(corpus_texts)
     return set(vect.get_feature_names_out())
-
 
 def procesar_texto(texto: str, vocab_permitido: set,
                    stopwords_set: set,
@@ -73,7 +65,6 @@ def procesar_texto(texto: str, vocab_permitido: set,
     tokens = [t for t in tokens if t and t in vocab_permitido and t not in stopwords_set]
     lemmas = [lemmatizer.lemmatize(t) for t in tokens]
     return " ".join(lemmas)
-
 
 def main(input_dir: str, output_dir: str):
     inicializar_nltk()
@@ -86,7 +77,6 @@ def main(input_dir: str, output_dir: str):
     total = len(archivos)
     print(f"Se encontraron {total} archivos, preparando DF-filter...")
 
-    # Leer textos crudos para construir vocabulario
     docs_crudos = []
     for nombre in archivos:
         with open(os.path.join(input_dir, nombre), encoding='utf-8') as f:
@@ -95,7 +85,6 @@ def main(input_dir: str, output_dir: str):
     vocab = construir_vocabulario(docs_crudos)
     print(f"Vocabulario filtrado: {len(vocab)} términos permitidos.")
 
-    # Procesar y guardar
     for idx, nombre in enumerate(archivos, 1):
         texto_crudo = limpiar_texto(open(os.path.join(input_dir, nombre), encoding='utf-8').read())
         texto_procesado = procesar_texto(texto_crudo, vocab, sw_set, lemmatizer)
@@ -106,7 +95,7 @@ def main(input_dir: str, output_dir: str):
         if idx % 500 == 0 or idx == total:
             print(f"Procesados {idx}/{total} archivos ({(idx/total)*100:.1f}%)")
 
-    print("Preprocesamiento mejorado completado.")
+    print("Preprocesamiento completado para corpus de programación.")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()

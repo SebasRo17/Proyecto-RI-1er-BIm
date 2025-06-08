@@ -1,0 +1,1 @@
+script count number file folder number file exceeds num creates popup window ask user clean folder use program background consumes minimal resource tried running daemon agent see anything happen popup window

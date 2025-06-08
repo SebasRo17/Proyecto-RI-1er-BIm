@@ -1,0 +1,1 @@
+current database design make use multiple column primary key use existing would unique anyway instead creating additional column assigning entry arbitrary key know allowed wondering practice might want use cautiously possibly avoid much like goto c disadvantage might see approach reason might want single column key

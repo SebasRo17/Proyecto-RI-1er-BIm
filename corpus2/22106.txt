@@ -1,0 +1,1 @@
+Other than using Emacs / Vim with ctags or cscope or both, are there alternatives to C++ code navigation of an existing code base? I used to use Source Insight on Windows and it worked for me fairly well. The main functionality I am looking for is quickly find definition of macros, variables and functions and places a function is referenced.

@@ -1,0 +1,1 @@
+Clean code recommends to name methods to be a verb, and classes to be a noun. I am developing an c++ application using boost::signal as some kind of event framework, and have defined various events, but naming them to make the code cleaner seems to be problematic. So, how to name event types?

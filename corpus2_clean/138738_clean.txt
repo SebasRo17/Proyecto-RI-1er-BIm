@@ -1,0 +1,1 @@
+wrote nice little open source coffeescript color library called color think handy believe people would find useful best approach letting world know

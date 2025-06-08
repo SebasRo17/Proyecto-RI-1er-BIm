@@ -1,0 +1,1 @@
+created private validation certain validation happens multiple time store validated various reason resharper suggests could made static little reluctant due known problem static method would private static question private static method cause similar coupling testing problem like public static method bad practice would guess sure pitfall

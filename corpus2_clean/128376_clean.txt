@@ -1,0 +1,1 @@
+web page load faster load slower header footer basic function placed external file called using statement benefit separating content php include includes function php php include includes header php php require includes function php

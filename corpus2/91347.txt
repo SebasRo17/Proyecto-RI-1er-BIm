@@ -1,0 +1,1 @@
+I've seen that some of software systems have functionality of audit and log. Both of those functionality seem that they are just doing the same things - **records all the users's actions behind the scene.** There are respective tables of audit and log even exist in the database. If they are really doing the same things why the developer developed duplicated function in a system?

@@ -1,0 +1,1 @@
+Have just looked at stackgeography and at soapi. I cannot see where the geo data comes from as it's not on the soapi. Can anybody shed some light on that? More info on the stackgeography

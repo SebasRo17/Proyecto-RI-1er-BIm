@@ -1,0 +1,1 @@
+I'm teaching a scientific programming course to undergraduates, targeted at freshmen/sophomores who are seeing the command line for the first time but are likely to need version control in future classes and careers. Are there resource for teaching version control (to those who have never seen it) available? What aspects should be taught first / emphasized most?

@@ -1,0 +1,1 @@
+considering using signalr send mobile app need way synchronize closed pending update good idea use backbone j signalr manage queued crud update server

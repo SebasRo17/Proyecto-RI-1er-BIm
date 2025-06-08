@@ -1,0 +1,1 @@
+Will my site be automatically indexed, or search ranking affected based on my use (or non use) of the Google/MSFT CDN? My clients will be sending them the referrer header which I may or may not want included in search results.

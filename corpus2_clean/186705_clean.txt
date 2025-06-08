@@ -1,0 +1,1 @@
+anybody got idea area memory object allocated referred heap understand rationale stack lifo would like know rationale heap

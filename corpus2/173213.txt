@@ -1,0 +1,1 @@
+Friend of mine said that not every interface is abstract. I haven't chance to discuss that with him but it get me thinking of not abstract interface in any type of language. Is there a non abstract interfaces?

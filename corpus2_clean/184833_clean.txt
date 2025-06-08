@@ -1,0 +1,1 @@
+purpose base address executable example microsoft visual c linker set base address use default 0x1000000 virtual memory would base address needed would link 0x0 put initialization routine window would make writing 0x0 would overwrite startup routine never called plus could set page execute x86 processor writing cause exception

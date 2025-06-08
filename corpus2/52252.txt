@@ -1,0 +1,1 @@
+I want to build a website that runs e-commerce (C2C), thus I want to ask which programming approach is more appropriate and advanced in terms of website's functionality?

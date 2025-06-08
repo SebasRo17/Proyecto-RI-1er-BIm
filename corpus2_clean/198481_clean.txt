@@ -1,0 +1,1 @@
+applying markdown comment xml comment config file xmlparser reported two hyphen allowed xml comment checking xml specification appears xml comment designed contain two hyphen compatibility reason sgml parser sgml parser disallow double hyphen comment

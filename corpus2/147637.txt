@@ -1,0 +1,1 @@
+In Java, why are `nextInt()` and `nextDouble()` instance methods of Random objects? I feel that these methods should be static methods of the Random class. What is the purpose of having to instantiate a Random object to generate random integers or double values?

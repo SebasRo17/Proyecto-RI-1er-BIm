@@ -1,0 +1,1 @@
+I am aware that floating point arithmetic has precision problems. I usually overcome them by switching to a fixed decimal representation of the number, or simply by neglecting the error. However, I do not know what are the causes of this inaccuracy. Why are there so many rounding issues with float numbers?

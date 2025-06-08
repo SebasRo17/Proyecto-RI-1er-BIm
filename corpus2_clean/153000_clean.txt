@@ -1,0 +1,1 @@
+used android onclick attribute extensively xml layout android application example button android id id android onclick proper create interface enforce implementation onclick method activity use layout file public interface public view v

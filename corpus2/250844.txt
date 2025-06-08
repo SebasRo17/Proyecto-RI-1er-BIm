@@ -1,0 +1,1 @@
+I'm looking for a book to learn how to implement interpreters for programming languages. Thing is there are much more 'compiler books' than 'interpreter books'. So my question is: can I read a book that teaches how to build compilers, to learn how to build interpreters (at a very beginner level)? Is this a good idea? If so, what do I need to keep in mind while reading?

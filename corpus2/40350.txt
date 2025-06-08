@@ -1,0 +1,1 @@
+Where did exceptions and exception handling come from? I like how .NET uses it, I like how C++ supports it (but libraries unfortunately use return code or is written in C instead). I know its pretty much standard in all new languages, but who designed it first or where did it come from? Is C++ the first language to use it? I don't know of any other that is older.

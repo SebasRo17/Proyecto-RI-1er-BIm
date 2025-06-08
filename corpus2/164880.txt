@@ -1,0 +1,1 @@
+I am new to requirements analysis and have a simple questions: Would you include the budget in the requirements, if e. g. the departments budget for running costs is 10k a year.

@@ -1,0 +1,1 @@
+So, I have a couple of projects that I have been working on and I am trying to decide if I want to open source them or provide them for free as closed source. I have never "owned" an open source project before and I would love to hear thoughts on the pros and cons of both options. Any horror stories of deciding on either approach are acceptable too.

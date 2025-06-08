@@ -1,0 +1,1 @@
+What is the best plugin for Eclipse to work with GitHub? What does it do well? What does it do not so well? And how do you work around them?

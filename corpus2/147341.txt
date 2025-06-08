@@ -1,0 +1,1 @@
+I've never noticed this quirk until now, and it's screwing with my mind. Why was HTML 4.01 numbered with a leading zero, rather than as 4.1?

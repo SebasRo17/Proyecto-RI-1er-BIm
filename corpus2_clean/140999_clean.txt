@@ -1,0 +1,1 @@
+reading domain driven design evans part discussing layered architecture realized application domain layer different separate project working kind blended tell difference read book say clear really question since concern logic application supposed clean technical presentation aspect advantage drawing boundary two

@@ -1,0 +1,1 @@
+like know technical reason php designer decided invoke static using static instead static like syntax change reflect technical requirement asking syntax every single language know invoke always despite static

@@ -1,0 +1,1 @@
+In .net, the **value types** are stored on **stack** where as **reference types** are stored on **managed heap**. What is the reason for this one? Is it not possible to exchange their storage locations?

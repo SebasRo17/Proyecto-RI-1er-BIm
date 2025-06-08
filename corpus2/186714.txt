@@ -1,0 +1,1 @@
+I have a silverlight app that connects to a entity framework over WCF ria service. These calls have to be secure. What can I do so only valid users can call the ria service, and to make the call secure? The user has to log in to get to the silverlight app, so maybe that login in some way can be saved for authentication of the ria calls?

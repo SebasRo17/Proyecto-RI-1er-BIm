@@ -1,0 +1,1 @@
+say defining directory including file better practice define path c xampp htdocs includes require path header php define path c xampp htdocs includes require path header php

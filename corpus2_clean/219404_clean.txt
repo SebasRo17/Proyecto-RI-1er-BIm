@@ -1,0 +1,1 @@
+kind new php create basic site login registration etc always struggle build complex site lot feature eventually becomes messy little bug fixing produce another realise partially simply writing clean working would also probably benefit using framework using ready made framework unprofessional would big site youtube facebook use framework like cakephp codeigniter

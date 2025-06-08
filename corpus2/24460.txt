@@ -1,0 +1,1 @@
+I'm totally new to the Ruby world, and I'm a bit confused with the concept of Symbols. What's the difference between Symbols and Variables? Why not just using variables? Thanks.

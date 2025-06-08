@@ -1,0 +1,1 @@
+always using sys import argv use argv argv convention using import sys using argv sys argv second make self documented really adhere reason prefer first fast importing needed rather import whole module contains useless function waste time importing note need argv function sys useless question first really make script fast preferred

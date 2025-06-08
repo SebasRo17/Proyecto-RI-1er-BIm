@@ -1,0 +1,1 @@
+When developing an iOS application (freelance) for a customer, how do you handle the iOS Developer Subscription? On the one hand, I have no problem submitting the app using my own subscription.   On the other hand, the subscription is per year which means the customer would be dependent on me actually renewing my subscription every year.

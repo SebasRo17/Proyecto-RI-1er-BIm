@@ -1,0 +1,1 @@
+javafx provided bunch new property object javafx bean property allow define field automatically observed synchronised many example mvc model number property field bind automatically view however seems encouraging u put property domain object assume model going domain strike poor separation concern e putting gui domain anyone seen problem solved real life done

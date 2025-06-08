@@ -1,0 +1,1 @@
+I'm planning to use OpenCart to build a web site. According to the licence (GPLv3) it's necessary to provide the source code of any modifications made. Is it acceptable to provide this on request or should it be linked to from every page on the shop?

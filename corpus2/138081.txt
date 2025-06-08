@@ -1,0 +1,1 @@
+Suppose I create a domain object called UserAdministration, if i have a method called CreateUser how would i pass state to this method, would I create properties on the UserAdministration object and have a CreateUser method or would i pass all the info for CreateUser method in a poco? Also how do I identify my domain objects?

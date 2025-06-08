@@ -1,0 +1,1 @@
+rest api endpoint json response look like product id num price num id num price num one colleague suggested add key item list said make easier browse api suggested something like product num id num price num num id num price num making harmful api performance understand help ability browse example public api something similar

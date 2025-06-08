@@ -1,0 +1,1 @@
+Since HTML5 is still only a markup language, what is meant when people say "HTML5 application"? Please explain.

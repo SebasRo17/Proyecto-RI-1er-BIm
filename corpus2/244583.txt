@@ -1,0 +1,1 @@
+I'm trying to train and perform classifiers from TMVA. My data set contains event weights besides event data. In the _TMVA::Factory_ there's a method _setWeightExpression_ to specify event weights. What are the event weights good for? Why it doesn't exist similar possibility to set event weights in _TMVA::Reader_? Regards, Vladimir

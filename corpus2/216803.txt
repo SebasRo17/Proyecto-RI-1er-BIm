@@ -1,0 +1,1 @@
+I want to use a MS-PL licensed library in a proprietary software, but it'll run inside my company, with no external distribution. Does the license allows this kind of usage or it constitutes a violation of the license?

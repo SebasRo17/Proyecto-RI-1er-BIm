@@ -1,0 +1,1 @@
+open source jargon committer someone creates commit get accepted project committer gatekeeper decides commits patch accepted blessed repository

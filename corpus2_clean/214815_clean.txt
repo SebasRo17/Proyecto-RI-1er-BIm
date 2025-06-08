@@ -1,0 +1,1 @@
+wonder write database application accomplish guy mentioned written abstract however understand would benefit understand correctly would write abstract every method need database connection could simply extend abstract database different normal could instantiate database another would completely forget instantiate mysqli demand recommend

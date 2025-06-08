@@ -1,0 +1,1 @@
+On Stack Overflow, I see a lot of PHP code in questions and answers that have MySQL queries that are highly vulnerable to SQL injection attacks, despite basic workarounds being widely available for more than a decade. Is there a reason why these types of code snippets are still in use today?

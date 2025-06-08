@@ -1,0 +1,1 @@
+seen numerous project file named common example go wondering convention adopted meaning naming file package something common

@@ -1,0 +1,1 @@
+In the company where I work we are doing code reviews. I gave some negative comments about the code (code duplication) of programmer A. My commit was OK and ready to merge and then programmer A added negative comments to my code in revenge. What do you think about this kind of situation?

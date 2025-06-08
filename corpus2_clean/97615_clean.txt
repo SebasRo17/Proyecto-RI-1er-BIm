@@ -1,0 +1,1 @@
+thread speed execution actually needed every piece done using single thread something exists accomplished using multiple thread

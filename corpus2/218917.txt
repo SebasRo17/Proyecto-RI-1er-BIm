@@ -1,0 +1,1 @@
+I am not sure if this question is silly or not, or even nonsensical, but can a neural network be converted to a traditional algorithmic representation ? For eg. the NN for a pattern recognition program. Is there any mathematical basis for this ? Thanks Cheers

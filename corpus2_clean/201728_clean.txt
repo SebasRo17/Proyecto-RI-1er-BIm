@@ -1,0 +1,1 @@
+studying mediator pattern noticed use pattern register colleague mediator colleague concrete class make instance mediator inside colleague concrete class violates ioc inject colleague mediator far know whether right wrong question num right thing said num shall always use ioc time forget num always use ioc say mediator anti pattern

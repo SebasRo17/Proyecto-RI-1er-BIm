@@ -1,0 +1,1 @@
+I saw many issue numbers from comments of jQuery code(Actually, there were 69 issue numbers in jQuery code). I think it would be good practice, but I've never seen any guidelines of this practice. If this is good practice, what could be guidelines of this practice?
