@@ -29,6 +29,11 @@ from fastapi import FastAPI, HTTPException, Query
 from pydantic import BaseModel
 from rank_bm25 import BM25Okapi
 
+from fastapi.middleware.cors import CORSMiddleware
+
+
+
+
 # ==================== CONFIGURACIÓN ====================
 
 # Carpeta donde están los .txt limpios (uno por documento).
@@ -44,6 +49,14 @@ app = FastAPI(
     title="BM25 Retrieval API",
     description="API para consultar documentos más relevantes usando BM25 sobre un corpus preprocesado.",
     version="1.0.0",
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # <--- origen de tu frontend Vite
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
