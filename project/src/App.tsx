@@ -10,17 +10,24 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [hasSearched, setHasSearched] = useState(false);
 
-  const handleSearch = (query: string, topK: number) => {
+  const handleSearch = async (query: string, topK: number) => {
     setIsLoading(true);
     setHasSearched(true);
-    
-    // Simulate network delay
-    setTimeout(() => {
-      const searchResults = buscarDocumentos(query, topK);
+
+    try {
+      // Simula retraso (opcional)
+      await new Promise((resolve) => setTimeout(resolve, 800));
+
+      const searchResults = await buscarDocumentos(query, topK); // ✅ Espera los resultados
       setResults(searchResults);
+    } catch (error) {
+      console.error('Error al buscar documentos:', error);
+      setResults([]);
+    } finally {
       setIsLoading(false);
-    }, 800);
+    }
   };
+
 
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col">
@@ -33,7 +40,7 @@ function App() {
           </div>
         </div>
       </header>
-      
+
       {/* Main content */}
       <main className="flex-grow py-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-5xl mx-auto">
@@ -43,17 +50,17 @@ function App() {
               Ingresa tu consulta para buscar en nuestro corpus de documentos. Puedes especificar el número de resultados a mostrar.
             </p>
           </div>
-          
+
           <SearchBar onSearch={handleSearch} />
-          
-          <SearchResults 
-            results={results} 
-            isLoading={isLoading} 
-            hasSearched={hasSearched} 
+
+          <SearchResults
+            results={results}
+            isLoading={isLoading}
+            hasSearched={hasSearched}
           />
         </div>
       </main>
-      
+
       {/* Footer */}
       <footer className="bg-white py-4 border-t border-gray-200">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
