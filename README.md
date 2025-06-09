@@ -1,1 +1,3 @@
 # Proyecto-RI-1er-BIm
+
+https://epnecuador-my.sharepoint.com/:v:/g/personal/sebastian_roblez_epn_edu_ec/EbPEF-Zzy8pAiFoDLU8-cMYBCTiF5ccFZkRcFFHw1k0iuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TejeIk
