@@ -1,1 +1,0 @@
-Suppose I have the following list:               list = {a, b, c, d}      I want to generate this result:               {{f[a, a], f[a, b], f[a, c], f[a, d]}, {f[b, b], f[b, c],       f[b, d]}, {f[c, c], f[c, d]}, {f[d, d]}}      What could be the shortest way? The list elements can be anything and not necessarily sorted.

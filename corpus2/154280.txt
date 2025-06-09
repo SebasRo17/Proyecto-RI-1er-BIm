@@ -1,0 +1,1 @@
+Is it possible to change the used sequence in Planning Poker, for some stories, it is thought that when the stories gets larger it contains more uncertainty but stories have nearly exact time estimations and these estimations don't drop into two bounds defined by Fibonacci series.

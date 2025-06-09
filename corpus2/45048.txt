@@ -1,1 +1,0 @@
-What is a more efficient way of solving this problem? By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.               sumfib = 0;     For[n = 1, t = Fibonacci[n] ; t < 4*10^6,  n += 1,          If[Mod[t, 2] == 0, sumfib += t]         ]     Print[sumfib]      > >      4613732 >

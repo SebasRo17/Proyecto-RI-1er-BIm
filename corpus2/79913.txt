@@ -1,0 +1,1 @@
+Lets say I am writing a server, which will run continuously and answer the queries of the client. Now what parameters (speed, memory, ease of use, quality etc.) should I consider to decide whether to use JAVA or to use C++ and how? How does system architecture decides this? Or they just choose the one in which they can found expertise?

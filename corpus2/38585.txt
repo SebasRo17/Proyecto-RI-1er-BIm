@@ -1,1 +1,0 @@
-I noticed that I cannot create a variable $f_{2s}$ since Mathematica seems to leave a space between the subscripts `2` and `s` implying that $f_{2s}$ is not recognised in later calculations. But I see that I can create the variable $f_{s2}$ instead without any problem. Is there a way to create the variable $f_{2s}$ in Mathematica? Thank you.

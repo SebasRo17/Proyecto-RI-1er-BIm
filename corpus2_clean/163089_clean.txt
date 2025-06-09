@@ -1,0 +1,1 @@
+writing app image entity already trouble deciding whose responsibility task first image path width attribute created retrieving image single tested eg also need able createthumbnail deal thinking imagemanager would app specific would also third party image manipulation reusable component choice reinventing wheel maybe would let image resize let imagemanager think

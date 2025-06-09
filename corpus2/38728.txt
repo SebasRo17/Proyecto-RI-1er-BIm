@@ -1,1 +1,0 @@
-I am getting the message > Reduce::nsmet: This system cannot be solved with the methods available to > Reduce. while trying to solve the following equation:               Assuming[n ∈ Integers, Reduce[p + 2 s == (2 r (p + 2 b) + 2 b + p) (2 r + 1)^n, r, Reals]]      How can I get my code to work?

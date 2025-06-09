@@ -1,1 +1,0 @@
-ordinary differential equation solve symbolic parameter k k k k k k mathbb r left begin array l k k k k k k k k k k k k end array right ode system seems simple k numerical number solve symbolically possible obtain explicit solution update expression mma dsolve work nonlinear ode system dsolve k k k k k k k k k k k k

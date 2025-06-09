@@ -1,0 +1,1 @@
+In class today we were introduced to the MVVM architecture for Silverlight/WinPhone/WPF; it looks nice for big projects, but what are your thoughts on MVVM? What are the pros and cons? I want to get more into the architecture so that I know when I should use it.

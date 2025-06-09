@@ -1,0 +1,1 @@
+developing small application net thinking using xml save model first thought separate model generation xml using visitor pattern would walk hierarchy create xml thought extreme programming gonna need yagni principle envisage needing create another visitor way simple app want use human readable format save application use visitor pattern engineering solution

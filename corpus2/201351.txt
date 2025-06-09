@@ -1,0 +1,1 @@
+What should a programming language have so that it can be said to promote good reusability? Only generics and functions come to my mind when I hear the word reusability. What else make a programming language good for writing easily reusable code?

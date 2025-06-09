@@ -1,1 +1,0 @@
-How can I pass enum values to a function when using J/Link? What is the correct syntax for typing an enum value? For example, call `normalize()` using `NFC` from here.

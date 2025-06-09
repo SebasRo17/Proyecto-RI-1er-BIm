@@ -1,0 +1,1 @@
+Let's say I have a product that has different features, or different feature access depending on things (i.e Premium User, Beta, Demo, Logged-in User, etc..). What's the best way to organize a system to where it's not a set of static checks (i.e a bunch of if statements, for example)? The platform isn't important, I'm precisely asking for design principles / general design.

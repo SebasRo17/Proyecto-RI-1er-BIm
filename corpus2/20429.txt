@@ -1,1 +1,0 @@
-Mathematica automatically simplifies `Exp[a]Exp[b]` to `Exp[a+b]`. The problem is now that I can't do this `Exp[a]Exp[b]/.Exp[a]->c` for example. How to solve this kind of problem? In particular I want something like this to work `Exp[x_+y_]//.Exp[x]Exp[y]/.Exp[some_pattern]->c`.

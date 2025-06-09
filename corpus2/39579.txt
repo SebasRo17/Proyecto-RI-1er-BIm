@@ -1,1 +1,0 @@
-I'm trying to learn of how I can use netlink in Mathematica to communicate with arduino. So question is the following: Can some one that has such experience in programming arduino using netlink in Mathematica share a simple example such led blinker so I can understand of how it works?

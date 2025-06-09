@@ -1,1 +1,0 @@
-expression assigned variable example exp x b would like plot using something like manipulate plot evaluate ex x b see b properly substituted evaluate plot work expected suspect something x substitution fix thanks

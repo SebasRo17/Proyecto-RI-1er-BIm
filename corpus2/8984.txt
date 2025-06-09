@@ -1,1 +1,0 @@
-I am plotting a curl, and I only want VectorPlot3D to show one arrow, I have tried adjusting VectorPoints-> 1, but the plot show's no arrows at all. Is 2 the minimum VectorPoints I can have? If I cannot make use of VectorPlot3d in this way, how can I use the Arrow function to point in the direction of a vector field at a certain point? Thank-you

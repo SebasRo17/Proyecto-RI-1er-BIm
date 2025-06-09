@@ -1,0 +1,1 @@
+Do you use both Client-side and Server-side validation techniques side by side when validating input from a user, e.g. via a contact form? If so, is it really necessary? Are you over engineering? Regards TDG

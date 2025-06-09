@@ -1,1 +1,0 @@
-figure draw line polarplot vertical line r co theta polarplot co theta theta pi pi work horizontal line b r sin theta b polarplot b sin theta theta work using theta pi pi work dividing sin guess draw radial line theta pi line slope tan pi done polarplot guess since give function r

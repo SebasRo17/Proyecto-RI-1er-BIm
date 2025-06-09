@@ -1,0 +1,1 @@
+I am interviewing for a job where the requirements are for...               UX practice with UI and Javascript expertise      I am expecting questions perhaps about MVC, maybe some specific frameworks, like backbone, yui, or jQuery UI. Are there any good resources to prepare me for the interview? Any obvious things I should look into beforehand?

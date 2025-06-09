@@ -1,1 +1,0 @@
-Why is the output of the limit below an interval? It should be precisely $1$.               Limit[(2/Pi) ((2 n + 2)!!/(2 n + 1)!!) Integrate[(1 - x^2)^(n + 1/2), {x, 0, 1}],        n -> Infinity]

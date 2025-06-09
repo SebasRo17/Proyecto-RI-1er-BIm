@@ -1,1 +1,0 @@
-new mathematica looking way create pattern surface object one thing able create hexagonal mesh torus would like hexagonal mesh certain thickness would printable far able create torus sure create hexagonal pattern surface process mapping onto torus parametricplot co co u sin co u sin u pi u pi mathematica graphic

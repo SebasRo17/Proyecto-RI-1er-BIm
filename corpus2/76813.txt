@@ -1,0 +1,1 @@
+I'm a Java Developer, and now I'm using **IntelliJ IDEA Ultimate Edition**. Is it worth to buy **phpStorm** for developing PHP projects? Also, are there any other features for PHP developers which **IDEA** doesn't have? Thanks in advance!

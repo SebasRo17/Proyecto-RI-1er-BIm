@@ -1,1 +1,0 @@
-defined function f x x x construct table showing vertically value f corresponding x interval increment f x x x paddedform x b paddedform f x p table b x tableform p tableheadings none x f x x x tablealignments center answer far ok next plot set value heavy dot listplot p error saying co ordinate floating point number fix

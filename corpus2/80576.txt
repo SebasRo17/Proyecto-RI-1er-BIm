@@ -1,0 +1,1 @@
+I would like to know if you guys have any best practice when dealing with transaction between different databases vendors. For example, if you have a C# application that save customer data in two databases (one Oracle and the other Microsoft), what would you do? Would you use OleDbTransaction? Is it possible?

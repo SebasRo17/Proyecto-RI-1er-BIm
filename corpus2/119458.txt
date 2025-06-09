@@ -1,0 +1,1 @@
+I was having sometime making an application that deals with many of chatterbots APIs, That made me wonder, how these bots are exactly made? How they develop an answer for your questions? Do they rely on previous conversations with you/other poeple to develop a more reliable answer?

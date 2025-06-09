@@ -1,0 +1,1 @@
+MVVM pattern is a hot word recently and I am planning to learning and refactor my existing project into this pattern. I have no experience and foresight of the potential risk. Have you guys really get lots of benefit from the MVVM Pattern in real-world projects? Is it worth refactoring an existing non-MVVM (mainly using Code-Behind files) into the MVVM pattern?

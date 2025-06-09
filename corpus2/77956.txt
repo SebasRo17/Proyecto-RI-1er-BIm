@@ -1,0 +1,1 @@
+I'm just starting as a Scrum Master, and I am looking for a good web based tool for a story board. I am trying Agilefant, and they have something called "leaf stories". I wonder what do they mean by that. I've read about User Stories, Technical Stories, Unplanned Items, but I can't seem to find a reference to "Leaf Stories". ¿Can anyone clarify?

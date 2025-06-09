@@ -1,0 +1,1 @@
+I recently found a framework named ecto. In this framework, a basic component named "plasm", which is the ecto Directed Acyclic Graph.In ecto, plasm can be operated by ecto scheduler. I am wondering what's the advantage of this mechanism, and in what other situations can we exploit the concept of DAG?

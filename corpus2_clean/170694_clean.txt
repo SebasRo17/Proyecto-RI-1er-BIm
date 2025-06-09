@@ -1,0 +1,1 @@
+often see c negation returned code e g einval instead einval used negation

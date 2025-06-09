@@ -1,0 +1,1 @@
+What is actually the role difference between ProductOwner and StakeHolder ?

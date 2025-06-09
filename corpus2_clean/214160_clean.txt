@@ -1,0 +1,1 @@
+convention getter setter boolean field setfield work perfectly fine field name adjective like active visible closed etc field meaning verb like add ing verb maybe edit clarify control name getter setter auto generated ide need appropriate field ide generate getter make sens example haschildren perfect field ide generate getter field would solve

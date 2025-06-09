@@ -1,1 +1,0 @@
-I have data in the following form. I have a list of values and a list of frequencies that indicate how often each value has occurred. Example list of values: `{5,7,4}` Example list of frequencies: `{1,2,3}` I would like to obtain the original data from which such a histogram was generated. Any suggestions on how to do this with _Mathematica_ ? Example: `{5,7,7,4,4,4}`

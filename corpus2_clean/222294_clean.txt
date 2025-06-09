@@ -1,0 +1,1 @@
+enum like enum size page size num header size num use constant enum created program e x page size num better way declare constant scenario enum const

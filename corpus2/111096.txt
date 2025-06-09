@@ -1,0 +1,1 @@
+Clearly AJAX improves the user interface but does this also decrease server load? You would think it does because the entire page will not have to be served up each time, but maybe there are other variables I'm not considering.

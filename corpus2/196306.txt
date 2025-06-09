@@ -1,0 +1,1 @@
+I'm wanting to get an assembly book to learn assembly, and was wandering if i get a book for intel x86 processor will there be any problems assembling the code on an amd processor?

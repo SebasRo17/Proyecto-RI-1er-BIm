@@ -1,1 +1,0 @@
-trigonometric equation begin equation sin x co x dfrac co x sin x end equation putting co x begin equation dfrac dfrac dfrac dfrac dfrac end equation tell mathematica mathematica code sin x co x co x sin x

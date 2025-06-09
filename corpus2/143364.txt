@@ -1,0 +1,1 @@
+I know CGI spawns a new process for every HTTP request that it serves, while servlets use one Java process to serve many requests. What do other technologies (rails, WSGI/django, mod_php, asp.net etc.) do so that web servers do not have to spawn a new process new HTTP request?

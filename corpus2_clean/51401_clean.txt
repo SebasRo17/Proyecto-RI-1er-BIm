@@ -1,1 +1,0 @@
-hope somebody help guess simple question list variable name l w w w another list value v like get name variable l assign variable value v end variable w w w value tried thing like toexpression l toexpression v keep getting message form set write tag toexpression toexpression omega protected anybody tell simple way achieve looking thanks

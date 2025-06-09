@@ -1,1 +1,0 @@
-want color spherical harmonic write follows color rgbcolor sign sphericalharmonicy sign sphericalharmonicy sphericalplot sphericalharmonicy pi pi colorfunction function x z r color expect output plot show parity spherical harmonic red corresponding positive part blue corresponding negative part actual result blue spherical harmonic

@@ -1,1 +1,0 @@
-I would like to draw a quadrilateral inscribed within a circle. How can I construct this figure, taking into account arbitrary (specified) side lengths, while still ensuring that the vertices of the quadrilateral lie on the circle?

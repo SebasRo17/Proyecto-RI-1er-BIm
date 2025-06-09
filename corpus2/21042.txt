@@ -1,1 +1,0 @@
-We have $a*b*c=-1$, $\frac{a^2}{c}+\frac{b}{c^2}=1$, $a^2 b+a c^2+b^2 c=t$ What's the value of $a^5 c+a b^5+b c^5$? I tried               Eliminate[{a b c == -1, a^2/c + b/c^2 == 1, a^2 b + b^2 c + c^2 a == t,        a b^5 + b c^5 + c a^5 == res}, {a, b, c}]      It's much slower than Maple's eliminate. How do I solve this efficiently?

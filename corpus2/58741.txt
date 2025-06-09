@@ -1,1 +1,0 @@
-How might I select the 1st Placeholder in a Notebook?               SelectionMove      Has no option.               Button["Click Here",      NotebookWrite[        InputNotebook[],        ToBoxes[Unevaluated@Sum[Placeholder[m ], {t, 1, n}]],        Placeholder];      ]

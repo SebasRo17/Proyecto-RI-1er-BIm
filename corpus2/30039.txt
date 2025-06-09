@@ -1,1 +1,0 @@
-Specifically I want different versions of 'Item1Numbered'. For example one with a frame and another with a background colour. How is that done?

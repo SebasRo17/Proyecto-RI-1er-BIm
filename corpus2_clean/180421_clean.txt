@@ -1,0 +1,1 @@
+might sound like naive question database table index mysql required index affect performance

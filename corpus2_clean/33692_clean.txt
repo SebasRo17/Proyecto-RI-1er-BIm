@@ -1,1 +1,0 @@
-way package built simple operation vector matricies arbitrary size conforming extent simplest example test given arbitrary vector z r n r n time n nabla cdot z jabobian nabla cdot z etc tried obvious assuming z vector grad z z etc work noticed differentiating respect vector unspecified length generating vector dummy variable appear help may suggesting possible

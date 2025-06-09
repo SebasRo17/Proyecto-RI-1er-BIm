@@ -1,1 +1,0 @@
-help linearmodelfit regression line added scatter plot like show listplot data plot lm x x possible fill point regression line illustrate distance whose sum square minimized tried variation filling table lm data length data table list predicted value observation x result error valid filling specification

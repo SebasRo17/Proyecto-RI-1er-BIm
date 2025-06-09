@@ -1,0 +1,1 @@
+* What is better naming conventions at Xcode regardng External File (images, sounds) etc?   * Is there any guideline from vendor Apple?   * As we store our projects at SVN, is there any complicity from Hosted Server (we use Linux + Server SVN ) ?

@@ -1,1 +1,0 @@
-simple example maximize u x x solution would show constraint frac partial u x partial x frac partial u x partial x etc always explicitly define function

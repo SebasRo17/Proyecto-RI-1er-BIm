@@ -1,0 +1,1 @@
+It seems to me that the list terminator in Lisp could be any arbitrary value. For example, the string terminator in C is the null pointer. Is there a philosophical reason why the empty list was chosen to terminate lists?

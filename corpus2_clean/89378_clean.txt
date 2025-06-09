@@ -1,0 +1,1 @@
+entity framework num mysql oracle mature enough used production level web application provide high level performance stick plain access sqlcommand

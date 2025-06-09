@@ -1,1 +1,0 @@
-following data data represents movement particle time using colorfunction possible get rainbow color according axis listlineplot data colorfunction function x colordata rainbow plotstyle thick axis x listlineplot data colorfunction function x colordata rainbow x plotstyle thick possible use colorfunction according time get rainbow according movement time

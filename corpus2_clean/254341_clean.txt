@@ -1,0 +1,1 @@
+list event always sorted chronologically start time always followed end time time string formatted hhmmss list event var event num start num end num num num num desired var spare num start num end num num num num num num programmatically create new list spare time num num p trying javascript conceptual answer pseudo would helpful

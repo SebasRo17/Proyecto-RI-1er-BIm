@@ -1,0 +1,1 @@
+working small side project using cgi scalability issue need simple system thinking implementing authentication using cooky wondering established best practice user successfully authenticates want use cooky figure logged according best practice stored cookie

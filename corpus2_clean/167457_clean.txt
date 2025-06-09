@@ -1,0 +1,1 @@
+issue licensing downloaded third party github gpl v3 license however used another open source project gpl v2 license submitting script requires everything gpl v2 side allowed change license even though author

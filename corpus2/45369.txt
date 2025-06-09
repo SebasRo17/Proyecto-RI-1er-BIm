@@ -1,0 +1,1 @@
+Assuming that you're working on a piece of software which is required to pass a third party security/penetration test before being released to the client, at which point in the project life-cycle would you perform the tests? Passing the test means that no major flaws are detected, or, more likely, that any flaws detected have been properly corrected before release.

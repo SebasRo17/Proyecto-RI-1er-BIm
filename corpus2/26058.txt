@@ -1,0 +1,1 @@
+Does anyone practice the "code review" process for functional tests? Do you find it useful? The way that my current employer practices SCRUM we include functional testing as part of our "must have done" stuff in any given sprint.

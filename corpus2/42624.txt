@@ -1,1 +1,0 @@
-The following command:               ParallelTable[Image[Graphics[{{Red, Disk[{5, 5}, 4]}}]], {i, 10}]      shows a very strange behaviour. It starts a new _Mathematica_ process on every Parallel Kernel, so that using 6 Kernels I end up with 7 _Mathematica_ Processes and 14 MathKernels running. With `Rasterize` it is the same. Can anyone explain/help?

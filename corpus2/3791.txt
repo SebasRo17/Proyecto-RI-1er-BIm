@@ -1,1 +1,0 @@
-I want to write partial derivatives of functions with many arguments. Why is it that when I type f[x,y] `ctrl`+`6` (0,1) it turns out to be bad syntax? The output of `D[f[x,y],y]` looks very much like f with a superscript (0,1).

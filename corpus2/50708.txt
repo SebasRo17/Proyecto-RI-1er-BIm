@@ -1,1 +1,0 @@
-How many different ways can one solve an eigenvalue problem and plot its corresponding eigenfunctions in Mathematica? For example for Harmonic Oscillator? Which one is the most accurate one? Thanks in advance.

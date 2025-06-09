@@ -1,0 +1,1 @@
+In simple steps how can one make the transition from a Use Case diagram to a Class diagram?

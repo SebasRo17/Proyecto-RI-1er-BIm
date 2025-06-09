@@ -1,1 +1,0 @@
-Now when I merge two cells with right-click "Merge Cells", they merge with the results included, while I only want the commands merged. Can I make it a one- click button? Now I have to delete the results first then merge.

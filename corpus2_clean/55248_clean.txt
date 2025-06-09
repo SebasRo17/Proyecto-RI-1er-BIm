@@ -1,1 +1,0 @@
-image enter image description tried extract outline bubble met problem firstly tried method used mathematica documentation analyze segmented cell image work well got irregular figure enter image description tried function edgedetect thing got little bit better still want could please help problem

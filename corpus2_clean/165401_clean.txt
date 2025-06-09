@@ -1,0 +1,1 @@
+since started learning c year ago never part team worked project interested know best practice writing large project c one thing want know split project different source file previous experience writing header source duo function defined header written source want know best practice splitting project pointer important thing writing project part team

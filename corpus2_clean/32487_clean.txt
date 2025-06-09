@@ -1,1 +1,0 @@
-typical nonlinear least square problem seems similar example provided section parameter fitting wolfram website unfortunately always get error message code follows could anyone help get rid error message fitdata pfun parametricndsolvevalue derivative x x b x x h x x b h fit findfit fitdata pfun b h b h

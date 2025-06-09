@@ -1,0 +1,1 @@
+understand normal php including file merging source script would take longer page parsed processed using hiphop ok create one single php file include every file contains every page need class separate file include one single php file would ok presence hiphop

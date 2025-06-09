@@ -1,0 +1,1 @@
+I'm building a blogging site for learning, with a PHP/MySQl back-end. All of the user input is handled with forms sent in POST requests. Will using JSON somehow make it cleaner, or easier to maintain or add features? Or am I just adding an interchange format for no reason? So essentially, what functionality would be best implemented by using JSON?

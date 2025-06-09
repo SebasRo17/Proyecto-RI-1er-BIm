@@ -1,1 +1,0 @@
-In:          D[Sum[Sin[x],x],x]          D[Sum[f[x],x],x]               Out:          1/2 Cos[1/2 (-1 - Pi + 2 x)] Csc[1/2]          0      Function f is undefined, but _Mathematica_ 9 counts it as constant? _Mathematica_ 8 returns ![Mathematica graphics](http://i.stack.imgur.com/7154K.png)

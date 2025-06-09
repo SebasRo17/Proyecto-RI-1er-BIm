@@ -1,0 +1,1 @@
+making facebook app trying follow mvc properly wondering bunch fql query getting facebook keep controller model according codeigniter user guide model php class designed work information database since fql interacts facebook database would full basically sql select statement count valid model

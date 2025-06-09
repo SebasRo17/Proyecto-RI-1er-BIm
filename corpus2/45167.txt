@@ -1,1 +1,0 @@
-I have a property in .NET Type, which is actually a generic list of objects. When I try access the property using numeric index e.g. 10, this works. However when I iterate through indices using indexer such as i, then I get error "NET::nofield: No public field or property named i exists for the .NET type ..." How to resolve this?

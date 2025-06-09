@@ -1,1 +1,0 @@
-want partial least square pls regression using leastsquares data input parameter temperature humidity pressure given date problem parameter missing example temperature pressure recorded humidity possible use available data day like leave day

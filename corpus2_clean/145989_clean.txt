@@ -1,0 +1,1 @@
+possible duplicate language transcompiles c better syntax many language implementation compile c however language specific runtime requirement example gambit c vala compile c gambit c depends upon garbage collector vala depends upon gobject system language compile c dependency beyond standard c library libc

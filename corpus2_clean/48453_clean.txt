@@ -1,1 +1,0 @@
-trying plot f q overlambdasimpler sqrt pi sqrt arctanh sqrt log using plot f q overlambdasimpler result look like enter image description plotted function using matlab enter image description get mathematica plotting equally nice already tried thing like workingprecision even yield weird behaviour suggestion

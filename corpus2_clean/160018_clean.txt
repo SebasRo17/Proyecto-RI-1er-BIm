@@ -1,0 +1,1 @@
+created pretty simple templating framework default implementation interface used passing around information store myframework default namespace however unsure place example implementation template creates concrete template seems like would useful people use framework sure belongs separate assembly perhaps namespace within framework namespace convention

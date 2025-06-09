@@ -1,1 +1,0 @@
-trying export plot x jvx vrml file using mathematica export function problem plotrange large compared two dimension output essentially stretched thin line way maintain original scaling try following export file x plot x x verticalaxis option seem help thanks

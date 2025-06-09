@@ -1,1 +1,0 @@
-## Background I've coded in C/Scheme for 10 years. I have a BS CS. I've recently become very interested in pattern-matching (lisp's match macro), and term rewriting systems, which brought me to Mathematica. I would like to read a book on Mathematica that will show me lots of cool term-rewriting as a programming style techniques. ## Question: What should I read?

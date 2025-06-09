@@ -1,1 +1,0 @@
-I have an equation like this: $${20 \choose k}\cdot \sum_{i=0}^k {k \choose i}\cdot i \leq 1+f$$. I want to plot this inequality as the dependency between `k` and `f`. I found a commend `RegionPlot` but I don't know how to correctly use it in such equation.

@@ -1,1 +1,0 @@
-Using _Mathematica_ 's .NET/Link (`NETLink``) package, is it possible to call out to .NET's LINQ facilities for list manipulation and other operations?

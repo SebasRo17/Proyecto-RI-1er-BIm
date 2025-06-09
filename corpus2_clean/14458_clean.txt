@@ -1,1 +1,0 @@
-want able plot several numerical solution ode plus analytical solution one plot order see numerical solution converge towards analytical one w r number step method using euler method equation code far n n n n n doable thanks advance help

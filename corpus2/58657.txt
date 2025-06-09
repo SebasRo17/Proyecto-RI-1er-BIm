@@ -1,1 +1,0 @@
-The following two photographs _forest_ and _tiger_ were blended into one with `screen` blending mode in Photoshop. How to accomplish the same result in Mathematica? ![enter image description here](http://i.stack.imgur.com/8MxSm.jpg) Images:1 2

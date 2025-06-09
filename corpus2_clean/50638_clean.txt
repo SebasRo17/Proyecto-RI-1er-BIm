@@ -1,1 +1,0 @@
-suppose matrix defines position non zero value sparse array sparsearray table p p p p dimension arrayrules possible construct sparse array without explicitly building table correspondence using single rule extract position non zero element matrix mathematica documentation show example rule e g sparsearray j ab j ab j similar rule devised case thank

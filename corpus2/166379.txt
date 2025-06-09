@@ -1,0 +1,1 @@
+I hear a lot of people speak poorly of Java, especially the ones coming from C/C++. Is there a historical reason why? Is it because it used to be machines were too slow to run the JVM without lag?

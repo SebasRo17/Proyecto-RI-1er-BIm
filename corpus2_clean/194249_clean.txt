@@ -1,0 +1,1 @@
+day reading little unit testing saw example people create repository interface e create real repository public repository used unit testing implementing method however different linq query exactly objective thought one part unit testing make sure work correctly use two totally different query one real one test much sense test make

@@ -1,1 +1,0 @@
-I want to generate a table of Euclidean distances from the points in a list to a given point, e.g.:               Table[EuclideanDistance[MyList[[i]], c], {i, 1, Length[MyList]}]      Moreover, when `EuclideanDistance` returns a value greater than $T$, I'd like to replace that value with a given real number $R$. Is there a simple way to do this?

@@ -1,0 +1,1 @@
+I want to be able to call `javac <class file name>`, and then automatically run java on the compiled `.class` file. I thought initially to use a x86 disassembler to hack it (javac.exe) but bumped that idea; I then found the open source code for JDK, and concluded that maybe a batch file would be easier. How can I do this?

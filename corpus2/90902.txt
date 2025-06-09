@@ -1,0 +1,1 @@
+Anyone know if great enterprises (Google, Oracle, SAP) uses Functional Point Analysis to estimate software building effort?

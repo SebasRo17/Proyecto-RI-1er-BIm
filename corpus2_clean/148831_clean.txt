@@ -1,0 +1,1 @@
+considered bad practice bad different javascript ie currently im writing javascript simplist way work arround ie quirk seems check browser version different var navigator appname microsoft internet explorer stuff else stuff quick work well lead duplication feel hacky

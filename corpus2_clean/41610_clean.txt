@@ -1,1 +1,0 @@
-ok worked every natural number expressed sum power eg looking algorithm splitting natural number power efficiently

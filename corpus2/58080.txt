@@ -1,1 +1,0 @@
-Plot[{4 - 2 y, (5 + y)/3}, {y, 1, 10}]      ![graph](http://i.stack.imgur.com/o4Dve.png) How do I make Mathematica tell me the coordinates for cuts with the y-axis, other than just looking at it?

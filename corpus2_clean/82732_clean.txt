@@ -1,0 +1,1 @@
+scrum software management tool give option explicitly sprint preferred way naming sprint use simple scheme like num num num

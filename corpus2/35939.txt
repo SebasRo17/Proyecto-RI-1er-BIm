@@ -1,0 +1,1 @@
+I have heard of many web APIs like that of Facebook, Twitter, etc., which helps third party access data and manipulate it. I would like to know how a web API works. What are the basics of a web API? If I want to create an API for my site, so that people can access or update it, what will I need to start with?

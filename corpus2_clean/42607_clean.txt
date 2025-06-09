@@ -1,1 +1,0 @@
-simplifying expression using simplify expr assumption assumption explicit possible simplify expression pattern assumption transformationfunctions satisfy need always functional following example example psimp sqrt psimp f x b f b psimp b c b c n x n expand f b f c f f n x n psimp g x derivative f x f x derivative g x g x derivative f x f x derivative g x defer f x g x f x g x

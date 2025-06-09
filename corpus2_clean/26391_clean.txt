@@ -1,1 +1,0 @@
-trying use java robot class type done far need jlink installjava robot javanew java awt robot mousemove command robot work fine try robot keypress keyevent vk given error java argx method named keypress defined class java awt robot called incorrect number type argument argument keyevent vk calling function robot object using parameter work fine java ide get work mathematica wrong

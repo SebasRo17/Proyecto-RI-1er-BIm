@@ -1,0 +1,1 @@
+bundle proprietary javascript mit licensed library e g jquery angularjs file distribute via http disallow user use mit licensed way could minimize number browser request reduce error due network error want let user copy modify reuse outside website

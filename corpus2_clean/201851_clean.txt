@@ -1,0 +1,1 @@
+imagine scenario created multiplayer game app mobile platform android successfully set one server figured work quite well surprise game take server demand explode need scale hardly experience running single server let alone running multiple server tandem service heroku style help thing anything need hire someone certain skill set necessary experience

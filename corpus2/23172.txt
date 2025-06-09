@@ -1,1 +1,0 @@
-I generated a huge mathematical expression (~200k terms, impossible to simplify yet) and want to save it for later analysis. Last time I did `Export` to *.nb file and it froze my whole system so I was forced to kill the kernel and generate it again from scratch. How should I do it correctly and then `Import` it back easily?

@@ -1,0 +1,1 @@
+At http://www.codeproject.com/Articles/552846/Why-s-How-s-of-Asp-Net-MVC- Part-1, I read this: "You should not use Asp.Net MVC if you rely on 3rd party vendor controls for of the UI." The author doesn't seem to say why (maybe the explanation is too subtle, or I'm too dense). Thoughts? Is it true? Why would this be?

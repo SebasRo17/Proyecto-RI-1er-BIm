@@ -1,1 +1,0 @@
-read package list string using readlist readlist package string stringreplace used e g mapped list string anyway save export result revised package overwriting package

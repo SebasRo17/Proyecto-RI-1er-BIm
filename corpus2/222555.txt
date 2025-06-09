@@ -1,0 +1,1 @@
+This claim by Aleks Bromfield states: > Almost every language with a static type system also has a dynamic type > system. Aside from C, I can't think of an exception Is this a valid claim? I understand that with Reflection or Loading classes at runtime Java gets a bit like this - but can this idea of 'gradual typing' be extended to a large number of languages?

@@ -1,0 +1,1 @@
+make presentation haskell looking interesting haskell example tip topic general miss presentation purpose presentation give general idea language still writing say following topic already included lazy evaluation way defining function pattern matching lambda expression etc higher order function currying think must explained talk haskell

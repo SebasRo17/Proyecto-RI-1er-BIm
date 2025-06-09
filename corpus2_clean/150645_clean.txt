@@ -1,0 +1,1 @@
+one service us database ok move user authentication separate server use rpc call instead traditional database lookup

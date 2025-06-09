@@ -1,0 +1,1 @@
+thought process one follow convert sequential algorithm parallel one specific pattern parallelized pattern normally use looking loop parallelized try break algo form map reduce format looking producer consumer pattern

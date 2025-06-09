@@ -1,0 +1,1 @@
+Do I need to have a knowledge of architecture along with C# to get a job using C#, or if I worked through some books (no architecture content) would that be sufficient for a graduate position? I finished university and have a Software Engineering degree, but can't recall any of the architectures and frameworks module content such as setting up an n-tier architecture.

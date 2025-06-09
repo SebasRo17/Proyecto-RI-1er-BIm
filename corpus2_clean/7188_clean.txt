@@ -1,1 +1,0 @@
-shape hollow tube good surface import graphic enter image description tried use following vertex data plot generate mesh pt import tube vtk vertexdata graphic point pt enter image description question plot smooth surface vertex data generate tetrahedral simple mesh trying use following thread solve problem calculate volume convex hull volume object donut hole

@@ -1,1 +1,0 @@
-How can I separate the odd terms in one array and the even terms in another array,i.e., go from               a={1,2,3,4}      to `aeven={2,4}` and `aodd={1,3}` I thought of:               a={1,2,3,4}          s={}          For[i = 1, i <= 4, i++,       If[EvenQ[a[[i]]] == True, AppendTo[a[[i]], s]]]      but it does not work. Thankyou

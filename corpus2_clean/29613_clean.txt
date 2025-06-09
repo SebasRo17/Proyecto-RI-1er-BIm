@@ -1,1 +1,0 @@
-one table contains time period start end type every period table start end type b c second table contains date table date want test whether date within one period yes period result table show period date small example table look like result date coresp type c b c c none way create result table automatically

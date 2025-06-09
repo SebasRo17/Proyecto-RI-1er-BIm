@@ -1,0 +1,1 @@
+Our company is looking at implementing BDD in our .NET application. Specifically, SpecFlow. We can foresee a large number of common steps being created ('Given a customer', etc), so what methods have been used to document these, so that the business can reference them? Is XmlDoc on the step definition classes sufficient, or have others found better methods of documentation?

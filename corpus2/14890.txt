@@ -1,1 +1,0 @@
-Here is a Typing Effect in javascript. I could only implement a very simple one:               DynamicModule[{s = ""},      Dynamic[Refresh[        If[Length[s] > 10, s = "", s = s <> "x"],        TrackedSymbols :> {}, UpdateInterval -> 0.5]]]      How can I do that exactly the same?

@@ -1,1 +1,0 @@
-Now I'm trying to use _Mathematica_ to simplify an expression like this: $P \sqrt{-P + \sqrt{M^2 + P^2}} + \sqrt{(M^2 + P^2) (-P + \sqrt{M^2 + P^2})} - M \sqrt{P + \sqrt{M^2 + P^2}}$ where $P,M>0$ It should be zero, obviously. But _Mathematica_ cannot do this simplification. Is there any technique that will help _Mathematica_ to deal with this kind of expression?

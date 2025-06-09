@@ -1,0 +1,1 @@
+I'm a little bit confused about BDD. I'm doing TDD currently. My question is whether BDD is complementary to TDD or it's a whole new thing and my team should do both TDD and BDD? Or is it enough to do just one or the other?

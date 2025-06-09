@@ -1,0 +1,1 @@
+apache http server fairly large project much larger say light nginx certainly simple http server see floating around c c tutorial extra add security stability thing like parsing apache conf file htaccess thing guess etc ask critique apache interested writing web server sort like know thing perhaps obvious important remember secure stable fast web server

@@ -1,0 +1,1 @@
+I work on several teams that are living in the past, and I'm trying to introduce them to new technologies like ASP.NET MVC2. What are good ways to introduce new technology in a positive light?

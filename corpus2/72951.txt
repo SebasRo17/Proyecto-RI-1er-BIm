@@ -1,0 +1,1 @@
+Does anyone have a suggestion for digitizing + OCR'ing a printed corpus with images? I have 1,200 pages of text sprinkled with essential photographs. Assuming I have perfect scans of the pages, what are my options for preserving the layout of the original text and allowing me to feed this to a program?

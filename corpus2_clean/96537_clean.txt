@@ -1,0 +1,1 @@
+num str length str length num character tostring str charat equal num character tostring str charat num equal character tostring str charat num else num else empty brace else statement mean returned

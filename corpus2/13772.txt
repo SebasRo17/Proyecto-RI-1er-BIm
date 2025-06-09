@@ -1,1 +1,0 @@
-I'm learning _Mathematica_ (v8) to use it to program formal logic. Can anyone recommend a logic-specific tutorial text? A reference list of logic-related functions would also be very appreciated!

@@ -1,1 +1,1 @@
-need solve fredholm integral equation second kind f integrate f k kernel k besselj besselj ab struveh struveh ab real imaginary unit tried solve method described integral equation numerical solution ndsolve best algorithm case come across far take age end produce result due memory insufficiency could anyone please help solve
+new company wanted use doctrine dbal abstraction working due php version num using development server right issue access anything use anything new due rigidity product talk tl project manager

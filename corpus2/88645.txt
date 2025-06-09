@@ -1,0 +1,1 @@
+Looking at most (if not all) dynamic languages [i.e Python, PHP, Perl and Ruby], they are all interpreted. Correct me if I'm wrong. Is there any example of dynamic language that goes through compilation phase? Is dynamic language identical with interpreted language?

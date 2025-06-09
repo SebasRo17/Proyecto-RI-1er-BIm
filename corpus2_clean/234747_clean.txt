@@ -1,0 +1,1 @@
+trying understand dependency inversion principle differs program interface implementation principle understand program interface implementation mean also understand allows flexible maintainable design understand dependency inversion principle different program interface implementation principle read dip several place web clear confusion still see two principle differ thanks help

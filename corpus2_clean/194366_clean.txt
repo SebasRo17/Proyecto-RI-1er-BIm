@@ -1,0 +1,1 @@
+project need handle 1000 request second decent amount processing part processing done list item basically filtering returning smaller list process done parallel fairly easily also say speed important narrowed language choice project clojure erlang go researched moderate degree question factor looking decision language better example would great little difficult tell

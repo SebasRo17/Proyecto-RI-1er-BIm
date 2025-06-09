@@ -1,1 +1,0 @@
-listdensityplot flatten table j sin j j give expected result linear scale crash kernel please save work trying listdensityplot flatten table j sin j j fix using o x screen crop enter image description

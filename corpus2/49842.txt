@@ -1,0 +1,1 @@
+I would like to discuss why is PHP called a structural language? what are the OO concepts that cannot be implemented using PHP?

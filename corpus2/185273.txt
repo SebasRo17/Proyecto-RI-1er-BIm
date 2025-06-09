@@ -1,0 +1,1 @@
+Why does PHP's `dechex(4000)` not return a signed hexadecimal value? It returns:               fa0      As opposed to:               0xfa0      And is `signed` the correct term to use in describing this problem? Or is there a better term to describe the `0x` portion? Is that called a prefix?

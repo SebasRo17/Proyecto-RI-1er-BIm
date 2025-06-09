@@ -1,1 +1,0 @@
-like create simple communication channel mma animation package maya possible socket simple sending receiving string got working perfectly writing simple net dll sends receives string calling dll net link however player pro support net link unable deploy outside mma way send receive string tcp ip socket way player pro would support thanks

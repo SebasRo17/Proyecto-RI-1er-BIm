@@ -1,0 +1,1 @@
+Are there any words for the design model implemented by HTML + CSS + JavaScript, either for that specific set of technologies or any abstract pattern that they follow?

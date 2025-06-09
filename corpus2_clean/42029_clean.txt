@@ -1,1 +1,0 @@
-need help solving differential equation dsolve x r r r x r r r x r x r x x infinity x r r tried solve dsolve success suggestion highly appreciated

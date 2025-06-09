@@ -1,0 +1,1 @@
+I'm coming from a web forms n-tier background into ASP.NET MVC projects, and I'm wondering what the best practices are for separation of the components of MVC into different libraries (or not to) in the way one might with an n-tier model. Most of the sample apps I have seen only had one project file and objects were separated only by folder. Thanks

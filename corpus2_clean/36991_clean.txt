@@ -1,1 +1,0 @@
-noticed question behavior graphic mesh inpolygonq self intersecting polygon mathematica psuedo hidden functionality allowing one quickly perform winding number calculation tell point inside polygon mesh shot dark built functionality detect point sits graphic primitive like cylinder

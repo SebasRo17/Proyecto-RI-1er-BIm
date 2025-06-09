@@ -1,0 +1,1 @@
+When you write wrappers for APIs how do you handle usage errors? Do you assume that the user uses it right and write the wrapper such that it makes the call to the server and let the server return the error? Or do you check for the missing parameters and return an error? If yes, how do you convey the error? a string or an error code?

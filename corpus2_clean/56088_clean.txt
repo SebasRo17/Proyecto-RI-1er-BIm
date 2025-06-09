@@ -1,1 +1,0 @@
-suppose nested listed follows element would create new list drop sub element first part output look like

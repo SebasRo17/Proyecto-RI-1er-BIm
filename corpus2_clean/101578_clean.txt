@@ -1,0 +1,1 @@
+question asked electronic art interview num thread first thread print number num num second thread print number num num third thread print number num num three thread running number printed irregular order like num num num num num etc want number printed sorted order like num num num num thread

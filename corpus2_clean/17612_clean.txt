@@ -1,1 +1,0 @@
-possible duplicate contourplot displaying curve put evaluate trying plot certain contour function f mathbb r mathbb r tried following contourplot table f x x reason work first evaluate table f x plug result contourplot however work noticed table f x evaluated false false false somewhere process evaluated inside contourplot result evaluated separately happen make work thanks

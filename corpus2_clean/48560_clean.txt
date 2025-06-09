@@ -1,1 +1,0 @@
-following integral give correct result assuming n element integer integrate w sin n pi z w sin pi z w z z w simplify n n n w however following expression return g wrong n give assuming n element integer integrate w sin n pi z w sin pi z w z z w simplify edit make disaster clearer assuming n element integer integrate sin n pi z sin pi z z simplify return

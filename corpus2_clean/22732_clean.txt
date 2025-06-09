@@ -1,1 +1,0 @@
-need take two list list contains number mole chemical function calledfraction take entry list calculates mole fraction chloroform entry new list mole fraction calculated taking moleschloroform moleschloroform molesacetone tried moleschloroform molesacetone molefraction molesa molesb molesa molesa molesb molefraction moleschloroform molesacetone correct output

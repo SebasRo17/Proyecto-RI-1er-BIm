@@ -1,0 +1,1 @@
+I think I have never seen a [] that doesn't mean array in C. Background:   I was reading about l-values and r-values here: http://msdn.microsoft.com/en- us/library/bkbs2cds.aspx and there it says so. I am curious.

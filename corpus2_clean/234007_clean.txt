@@ -1,0 +1,1 @@
+webservice written way called via browser url eg webservice called callable following url browser likewise params passed via url unlike one look like param passed via url seems require either program human param click invoke always require client program way wsdl figure whether called browser program webservice fulfils criterion

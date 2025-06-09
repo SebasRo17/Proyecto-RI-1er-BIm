@@ -1,0 +1,1 @@
+Say you're a software engineer, what does the company actually own of your work? Do they own the source code, the binary, both? What about code you do outside of the workplace? Do they have any claim to that? I was just wondering from a legal standpoint how that all works.

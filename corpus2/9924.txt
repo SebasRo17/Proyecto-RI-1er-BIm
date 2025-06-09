@@ -1,1 +1,0 @@
-I am new to mathematica. I do the convolution of dirac delta :(DiracDelta(x-10)" with "sine(t),t=0-pi". How to plot the output ? Theoretically, the full wave should appear at the location of the singularity.

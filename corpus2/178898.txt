@@ -1,0 +1,1 @@
+From the discussion I've seen it seems that _atomic operation_ and _thread safety_ are the same thing, but a lot of people say that they're different. Can anyone tell me the difference if there is one?

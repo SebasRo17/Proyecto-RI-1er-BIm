@@ -1,0 +1,1 @@
+I am trying to instantiate               LinkedList<?> op = new LinkedList<?>();      But I get error               Cannot instantiate the type LinkedList<?>      Why is it that this cannot be instantiated in Java?

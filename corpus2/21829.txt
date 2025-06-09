@@ -1,1 +1,0 @@
-How is it possible to send the whole content of an existing notebook to _Mathematica_ for evaluation by using NetLink/C#?

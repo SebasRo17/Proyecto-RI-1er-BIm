@@ -1,1 +1,0 @@
-Can someone share how to find a Laurent series expansion of $$f(z)=\frac{1}{(z^2-1)(z^2-4)}$$ centered at zero on the annular disk $1<|z|<2$?

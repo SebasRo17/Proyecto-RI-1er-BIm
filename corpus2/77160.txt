@@ -1,0 +1,1 @@
+I heard about a tool named FitNesse, which is supposed to promote better collaboration between development, testing, and product groups. What are your experiences with it? Does it really improve program quality? Are there any drawbacks to using it?

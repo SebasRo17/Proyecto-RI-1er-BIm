@@ -1,0 +1,1 @@
+In DB2, it seems there is a strong separation between what a _database_ is and what a _tablespace_ is. Where as in MySQL and MS SQL Server _tablespace_ and _database_ seemed to be used synonymously. What are the differences, if any?

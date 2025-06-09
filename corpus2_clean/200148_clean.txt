@@ -1,0 +1,1 @@
+c programming language ritchie say library routine sqrt expects double produce nonsense inadvertently handled something else n integer use sqrt double n convert n double following work fine system printf f sqrt num also giving result sqrt double num following book

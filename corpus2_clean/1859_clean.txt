@@ -1,1 +1,0 @@
-system result f x sin x sin x reduce f x x contains following expression twice x pi pi c entire result element c integer x pi pi c x pi pi c x pi pi c x pi pi c reason expression appears twice bug

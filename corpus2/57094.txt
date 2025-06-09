@@ -1,1 +1,0 @@
-I would like to use something like `Point[x,y]` to plot diamonds instead of small circles ("points"). I'm creating charts from scratch inside a `Graphics` expression using my own graphics functions. I've looked through the documentation and questions here and haven't found anything about how to do it.

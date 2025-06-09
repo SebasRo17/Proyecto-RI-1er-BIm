@@ -1,1 +1,0 @@
-I have a power of 2 in a list, and I want it to show as $2^{31}$ (2 with exponent 31), not 2147483648. I've tried this:               aa={2^31,1103515245,12345,12345}     Text[Style[aa[[1]]]]     Text[Style[HoldForm[2^31]]]      The first form shows 2147483648. The second form shows correctly, but not when it is in a list.

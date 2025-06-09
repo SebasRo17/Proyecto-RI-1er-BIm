@@ -1,1 +1,0 @@
-wondering change output format mathematica example x binom binom want find linear combination x produce binom make mathematica display output x tried using solve mathematica return coefficient also tried use augmented matrix mathematica still give output want p working matrix variable convenient read coefficient variable

@@ -1,0 +1,1 @@
+I looked into minified versions of jQuery and also various online CSS & HTML compression tools. I tried compressing few CSS files and gained only 20-30% compression. Are these compression tools worth using and do they add considerable performance improvements? I am looking for tools to compress ASP.NET (.aspx) files.

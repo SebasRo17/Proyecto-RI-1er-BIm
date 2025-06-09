@@ -1,1 +1,0 @@
-problem getting coordinate ofa listloglogplot basically plotted list selected data point graph moved point around need get coordinate moved point idea enter image description

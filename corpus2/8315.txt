@@ -1,1 +1,0 @@
-I have a plot and I would like to annotate some mathematical text in it. Initially, Mathematica puts it in italics by using Drawing tools palette, but I want it all in plain text. How can I do it? Thanks for your time.

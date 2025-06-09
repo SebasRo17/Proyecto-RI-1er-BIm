@@ -1,1 +1,0 @@
-ran program wrote mathematica v v appears generate different randominteger number even though use seedrandom beginning random function changed v

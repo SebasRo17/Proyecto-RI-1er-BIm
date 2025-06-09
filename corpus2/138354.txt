@@ -1,0 +1,1 @@
+What are the similarities between MFC and WPF? Is it worthy to learn MFC before WPF?

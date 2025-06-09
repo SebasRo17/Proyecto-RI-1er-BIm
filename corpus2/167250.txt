@@ -1,0 +1,1 @@
+Automapper is an "object-object mapper" for .Net, which means copying objects from a class into another class that represents the same thing. Why is this ever useful? Is the duplication of classes ever useful/good design?

@@ -1,1 +1,0 @@
-list list would like able append element start list sure must elegant solution eg b c e f b c e f want apply function list list normally use however know modify get feed second argument appendto someone please explain could achieve

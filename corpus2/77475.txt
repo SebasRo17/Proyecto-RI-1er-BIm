@@ -1,0 +1,1 @@
+Both Git and Mercurial are DVCS, and that's great. I wonder if there is a list of particular situations when one of those systems are preferable, something like 'In mobile development for many platforms git is better because ...'.

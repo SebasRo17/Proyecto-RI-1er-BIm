@@ -1,1 +1,0 @@
-want monitor current result dynamic l k dynamic refresh appendto l k last l updateinterval reason output update instantaneously every second

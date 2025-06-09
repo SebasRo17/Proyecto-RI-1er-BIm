@@ -1,0 +1,1 @@
+working observer pattern javascript using various popular library number year yui jquery often need observe set property change e g respond num specific value change elegant way subscribe handler called one time something missing wrong design

@@ -1,0 +1,1 @@
+Is it recommended to use a WCF Service Library in developing an N-Tier Windows Application? Also is it better to use the VS wizards to create the DataTables and DataSets? And if so should I add all of my tables to 1 dataset or have a dataset for each table? This is all new to me and I want to learn it the right way.

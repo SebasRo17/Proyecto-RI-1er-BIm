@@ -1,1 +1,0 @@
-function defining assume n b non negative integer myfcn x p n x p b basefcn n b extending polynomial linearity way defined function work long n b greater fails otherwise instance want myfcn x p p evaluate basefcn mathematica recognize want extend function definition include case without explicitly writing possible input form thanks

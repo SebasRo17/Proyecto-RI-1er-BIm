@@ -1,1 +1,0 @@
-I provide a custom function in `TransformationFunctions` options of `FullSimplify` that can do a transformation only for some values of its argument. What is the proper way to bail out from the function and instruct `FullSimplify` to skip this transformation for the current argument when the transformation is not applicable to it?

@@ -1,0 +1,1 @@
+Why do my colleagues hate it when I add an empty line of code? Sometimes I add a few lines to see when a method ends and another one starts more easily.

@@ -1,0 +1,1 @@
+bulk emailing service within system allows template used mail sent template parsed parser replace tag actual information e foo logged parsed bar logged better num service sending parsing email concurrently num service one check pending email parses another sends email already parsed

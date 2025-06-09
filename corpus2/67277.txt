@@ -1,0 +1,1 @@
+When drawing out quick class diagrams, I'm often at a loss how to represent classes that are used just to pass data around between various parts of the program. I've been putting them out in the middle of nowhere, so that other people can see what the class in the parameters/returns is. Is this the correct way to do it? _(They look awefully lonely out there by themselves.)_

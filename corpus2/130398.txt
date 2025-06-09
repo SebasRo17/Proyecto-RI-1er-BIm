@@ -1,0 +1,1 @@
+I am a newbie learning Java. In Java every source file must contain a public class and that source file should have the same name as that public class. Moreover, no source file can contain two public classes. Why is this restriction?

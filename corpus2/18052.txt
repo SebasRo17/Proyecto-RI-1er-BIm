@@ -1,1 +1,0 @@
-Is it possible to assign custom attributes to symbols and check them later?               SetAttributes[a, b]      says               Attributes::attnf: b is not a known attribute.

@@ -1,0 +1,1 @@
+...and unmarshalling/deserializing? Wikipedia's explanation leaves me none- the-wiser! I'm a Java programmer, in case the terminology is used differently in different languages.

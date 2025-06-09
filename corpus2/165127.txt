@@ -1,0 +1,1 @@
+Recently at work we ran into a problem where we tagged/branched a project and had some compiling issues because of dll/project references that was pointing to the old folder structure. We created an 'external bin' folder for each of the projects and copied the referenced dll's to these folders. Is this the best way or is there a specific industry standard to handle this?

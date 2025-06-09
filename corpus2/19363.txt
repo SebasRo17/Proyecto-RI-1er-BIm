@@ -1,1 +1,0 @@
-Is there a way to get the analytical form to the root of this equation `2 A e (-ArcTanh[smax/s0] + ArcTanh[(smax Cos[w \\[Zeta]])/s0]) == F0` `\\[Zeta]` is the variable to be solved and is bounded by (1/2 Pi / w, Pi / w) Thanks~

@@ -1,1 +1,0 @@
-built method de list singleton expression like rule based solution expr length expr first expr expr data analysis come handy normalize output case since single exact match wrapped list wrapping first would break match case non singleton list

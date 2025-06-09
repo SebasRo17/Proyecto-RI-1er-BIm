@@ -1,0 +1,1 @@
+In programming what is called Principle of Least Astonishment? How is this concept related to designing good APIs? Is this something applicable to only object oriented programming or does it permeate other programming techniques as well? Is this related to the principle of "doing a single thing in your method and do it well" ?

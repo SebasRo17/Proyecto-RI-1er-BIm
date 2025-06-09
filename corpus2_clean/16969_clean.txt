@@ -1,1 +1,0 @@
-problem mathematica symbolic manipulation example consider following expression sum n x left x b right get mathematica expand form sum n x sum n x b sum n x mean function apply get product expand summation operator distribute

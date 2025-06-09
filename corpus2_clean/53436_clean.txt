@@ -1,0 +1,1 @@
+recompiled plugin making change accepted upstream gstreamer medium framework recompile whole library plugin want proprietary use plugin running afoul lgpl license never directly link modified plugin proprietary binary lgpl gstreamer binary lgpl binary w source lgpl source modified plugin would available per lgpl

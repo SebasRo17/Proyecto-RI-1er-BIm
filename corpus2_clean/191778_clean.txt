@@ -1,0 +1,1 @@
+difficulty learn ant colony algorithm read generating game using genetic algorithm ga know ga ant usually used optimization question possible create game generator using work optimization case

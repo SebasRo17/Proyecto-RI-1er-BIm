@@ -1,0 +1,1 @@
+I am a C, C++ developer. I am interested in mobile development. I want to know how can I develop Android apps using C and C++, I have read that they are providing a kit for C, C++ developers but it does not have all functions as of Java kit. Should I go for C/C++ development kit or it's better to learn java as they may not provide all the functionality in future?

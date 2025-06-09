@@ -1,0 +1,1 @@
+I heard some people complain that APSL 2.0 ( http://www.opensource.apple.com/license/apsl/ ) has too many limitations. What's the limitation of it compared to BSD or MIT?

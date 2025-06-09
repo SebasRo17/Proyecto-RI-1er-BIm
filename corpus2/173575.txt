@@ -1,0 +1,1 @@
+In an interview question a guy was asked to "implement a threadpool"... I've been reading on wikipedia for "threadpool" but I still can't figure out what should a guy do to solve this question (possibly because I didn't quite understand what a threadpool is in simple terms). Can someone explain me in plain english what a threadpool is and how would one answer this question?

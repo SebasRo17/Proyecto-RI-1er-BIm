@@ -1,0 +1,1 @@
+Working in a large organisation, it is often the case that the members of the development team are not able to get direct access to the client to gather requirements. Is it possible/advisable to give a list of questions to an account manager so that they can gather requirements on your behalf?

@@ -1,1 +1,0 @@
-want create expression classifies sample weather feature decision example training data enter image description value data use rule f f alternatively use table hashmap f f etc f compute estimation decision based closest existing sample element closeness defined distance function ex euclidean distance hamming distance

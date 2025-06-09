@@ -1,1 +1,0 @@
-From what I've been able to deduce, Mathematica uses a root sum scheme to determine the exponential of a matrix. Can someone please explain to me the theory behind this? I've searched, but have had no luck finding any literature on calculating a matrix exponential using root sums. (Example: Help->RootSum->Applications->'Matrix exponential of any order:'

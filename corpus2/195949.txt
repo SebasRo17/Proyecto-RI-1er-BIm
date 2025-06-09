@@ -1,0 +1,1 @@
+I would like to know if there is such widget in tk (or in any different standard Python 3 module), or how to create it: ![enter image description here](http://i.stack.imgur.com/sg5g9.png) Of course it doesn't have to look like this, but it should offer same functionality. Unfortunately PyQT, wxWidgets or any other non standard modules I cannot use.

@@ -1,1 +1,0 @@
-Background:                Manipulate[       {jj, kk},       {{jj, 2, "Select j"}, 1, 11},       {{kk, 2, "Select k"}, 1, 11},       LabelStyle -> {Bold, Medium}      ]      In the example above the fonts of the labels "Select j" and "Select k" are, as expected, set to bold and medium size. **Question: Is there a way to set the labelstyle for each variable individually?**

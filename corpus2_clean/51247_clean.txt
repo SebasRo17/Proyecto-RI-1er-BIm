@@ -1,1 +1,0 @@
-matrix forming number disjoint path randompaths would like find length path spectrum longest length example starting shortest length possible generate path never tree cycle path identifying start cell either boundary three neighbor one neighbor tracing start cell along path quite clunky anyone see slicker method efficiency main concern moment thanks idea matrix displayed

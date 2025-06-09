@@ -1,1 +1,0 @@
-Dear Community members, I am thinking about an interactive machine to teach a school child to write difficult words correctly. As a first step I need a collection of words. I will select a pool of words from this collection. Then I will use the pool to make the machine. My question is: is there a way to get the words with _Mathematica_? A constraint is that I need German words.

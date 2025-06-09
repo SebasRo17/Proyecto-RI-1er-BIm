@@ -1,0 +1,1 @@
+time refactor working legacy awful convention best practice trying follow better coding style would improve readability actually hurt example name usually camel cased repository method like majority c style look

@@ -1,0 +1,1 @@
+I've strong interests in Functional and Logic programming and Mercury seems like a good blend of the two. Is it used in industry at all? I'm one to learn a language just for the fun of it but it would nice to have practical, employable avenues for it. I could not find much in the way of examples of use in industry on the language website.

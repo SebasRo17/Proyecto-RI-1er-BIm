@@ -1,0 +1,1 @@
+When I get a new laptop, it usually takes me about two weeks to reinstall all my developer programs, utilities and tweak the O/S settings to how I like them. I know there are utilities out there to backup/restore systems, but this is usually if it is on the same hardware. What would you recommend?

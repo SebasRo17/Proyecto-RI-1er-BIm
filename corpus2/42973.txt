@@ -1,1 +1,0 @@
-I have this list `{1,7,8,10}` for instance. and a second list which is always smaller or equal to the first one say `{10,7}`. How can I find the position of the elements of the second list in the first list: the answer to above example is `{2,4}`. but I want the answer in this form: `{0,1,0,1}` which implicitly gives `{2,4}`.

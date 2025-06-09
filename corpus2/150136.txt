@@ -1,0 +1,1 @@
+I've been thinking about the subject and I've always wondered, from where do they obtain the data that is analized in applications, I've looked at Nasdaq's website and they do not seem to have any sort of APIs, do the firms parse yahoo's finance section, or are there special contracts, agreements in places with the different stock markets?

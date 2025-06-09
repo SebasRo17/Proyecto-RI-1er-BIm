@@ -1,0 +1,1 @@
+Starting a job in the financial sector in the next couple of weeks. I have never done financial programming (EG Loans, mortgages, etc). Just to get acquainted and familiar with this kind of thing, are there any open-source application libraries in C# that I could look at and get a feel for? Any suggestions?

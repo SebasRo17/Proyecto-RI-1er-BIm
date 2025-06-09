@@ -1,0 +1,1 @@
+What are the mechanics of contributing to open source projects? How are they managed? What exactly is meant by submitting a patch? Should I do some reading up on advanced version control techniques?

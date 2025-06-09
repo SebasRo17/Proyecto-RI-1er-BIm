@@ -1,1 +1,0 @@
-consider example data table sin randomreal plot x x plotstyle red thickness epilog pointsize point data enter image description seen point rendered main plot make invisible control layer plot send layer backward bring forward

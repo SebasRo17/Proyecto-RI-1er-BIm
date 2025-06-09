@@ -1,1 +1,0 @@
-Is it possible to have a constraint on variables in summation of series just similar to pattern constraint e.g.               Sum[Binomial[i + 3, 3]*Binomial[2, j], {i, 0, Infinity}, {j, 0, Infinity} ]       with the condition that `i + j = 2`?

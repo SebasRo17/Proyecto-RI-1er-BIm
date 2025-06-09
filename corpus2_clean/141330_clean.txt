@@ -1,0 +1,1 @@
+mysql database automation script modifies inside day column may changed user manually best approach make system update automated manually edited one mean yes flagging cell manually edited one way want know another way accomplish curiosity btw question cell value row

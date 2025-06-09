@@ -1,1 +1,0 @@
-I just want to create a simple table: Three input columns, one output column Call the inputs `{x,y,z}`, each can take values `{-1,0,1}` The output column should be some function `f(x,y,z)` Sample table:               x  | y  | z  | f(x,y,z)          -1 | -1 | -1 | f(-1,-1,-1)          1  | -1 | -1 | f(1,-1,-1)      etc... (all possible combinations) Thanks!

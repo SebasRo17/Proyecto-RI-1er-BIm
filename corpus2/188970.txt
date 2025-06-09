@@ -1,0 +1,1 @@
+As far as I know,               main ()      function has the following prototypes:                   int main();         int main(int argc, char **argv);      Now, C does not support overloading, then how are multiple prototypes of                   main ()      supported?

@@ -1,0 +1,1 @@
+Just wondering on the pros and cons on TDD/automated unit testing and looking for the community's view on whether it's acceptable for professional developers to write applications without supporting unit tests?

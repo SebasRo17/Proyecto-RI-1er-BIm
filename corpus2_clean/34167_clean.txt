@@ -1,1 +1,0 @@
-given generating function f z way compute coefficient k z k mathematica one method calculate equation frac f k k however approach feasible k large

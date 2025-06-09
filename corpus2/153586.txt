@@ -1,0 +1,1 @@
+What is the difference between Object Oriented Design Patterns and Principles? Are they different things? As far as I understood both of them try to achieve some common goal (e,g. flexibility). So can I say a pattern is a principle and vice versa? Design Principle = SOLID (i.e. Dependency Inversion Principle) Design Pattern = Gof (i.e. Abstract Factory Pattern)

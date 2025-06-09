@@ -1,0 +1,1 @@
+Considering I have no programming background, Is there a resource out there that's the de-facto standard for describing best practices, design methodologies, and other helpful information on R programming? What about that resource makes it special?

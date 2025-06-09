@@ -1,0 +1,1 @@
+What the difference given they all exist 'once per class'.   When should I use one over another, i.e. for what purpose?   I use Ruby.

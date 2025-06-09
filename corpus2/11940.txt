@@ -1,1 +1,0 @@
-How can I have _Mathematica_ randomly place spheres in a cube so they won't overlap? The cube is $20 \times 20 \times 20$, and the spheres have a radius of $0.7$.

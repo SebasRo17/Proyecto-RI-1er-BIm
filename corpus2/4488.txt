@@ -1,1 +1,0 @@
-Consider the following:               list={1,2,2,2,3};      I would like to replace all `2` with the string "Test". `Replace[list,2->"Test"]` does not do it. Result must be: `{1,"Test","Test","Test",3}`.

@@ -1,1 +1,0 @@
-codegolf challenge write shortest practical least common multiple function use built gcd lcm related fuctions accepts multiple argument order e g lcm spirit original obfuscated better

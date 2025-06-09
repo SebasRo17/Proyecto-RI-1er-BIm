@@ -1,0 +1,1 @@
+plain view logic behind action controller behind alert user something like sent email confirm account access resource etc view really simple calling controller action seems much overhead somehow feel like quite correct think handle kind situation guess question apply mvc framework case using asp net mvc num framework

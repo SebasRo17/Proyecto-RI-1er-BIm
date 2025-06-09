@@ -1,0 +1,1 @@
+looking library scaled image size calculation clearly understand algorithm used following obj w h var nw obj width nh obj height nw w w num nw w nh w obj width obj height nh h h num nh h nw h obj height obj width obj width nw obj height nh obj width nw height nh know using jquery image described following link want understand algorithm used

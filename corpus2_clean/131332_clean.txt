@@ -1,0 +1,1 @@
+possible duplicate use abstract class instead interface extension method c reason write interface rather abstract class question sounded bit trivial well till gave serious thought point interface really answer multiple inheritance despite using interface never got around think point know interface still pondering

@@ -1,1 +1,0 @@
-This is a rather simple numerical solution, but it simply doesn't work. Does anybody have a solution?               NSolve[x - Sinh[x] - 1 == 0, x]      > NSolve::nsmet: This system cannot be solved with the methods available to > NSolve.

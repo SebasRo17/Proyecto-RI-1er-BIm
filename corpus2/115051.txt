@@ -1,0 +1,1 @@
+I started to study about _state transition chart_. As I see, it assumes all state transition is done instantly with no time consuming. But in most of my case, I'm heavily depending on asynchronous I/O, so it seems to be less efficient modeling them with the chart. How do you think about how to represent asynchronous state change? Please recommend something to me :)

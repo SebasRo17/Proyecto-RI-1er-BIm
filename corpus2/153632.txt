@@ -1,0 +1,1 @@
+I can list part of the problems that will show up when writing a moderately- sized concurrent application with shared memory:   * Locking granularity   * Choice of synchronization primitive   * Number of threads   * Method for decomposing into threads (data parallelism; task parallelism; how threads are organized, etc) What are other similar problems?

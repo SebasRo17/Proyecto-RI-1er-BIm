@@ -1,1 +1,0 @@
-matrix containing position pair number b would like compute norm vector b keep result form matrix basically need apply function norm elementwise matrix vector could

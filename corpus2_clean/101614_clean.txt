@@ -1,0 +1,1 @@
+note programming c section complexity rob pike writes program complicated complex need solve problem efficiently mostly bad design skip issue big one anyone know whether rob pike written software design avoid complexity might found

@@ -1,1 +1,0 @@
-How do I plot the content of a directory and all its subdirectories into infinity using TreeForm? I've tried using a mix of FileNames, StringSplit and GatherBy but in the end I couldn't find even a promising start.

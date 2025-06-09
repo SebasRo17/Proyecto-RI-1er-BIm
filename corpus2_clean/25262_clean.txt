@@ -1,1 +1,0 @@
-given eight element set would like enumerate multisets subset repetition size n n example n set would found ideally would like able iterate set rather create one gigantic program crashing list use set time found since binomial n k work value k n sure best go

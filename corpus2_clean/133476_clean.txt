@@ -1,0 +1,1 @@
+project involves writing pretty much back end legacy application us xml persistence originally written single user system one large xml file could accessed multiple user hence get corrupted thinking introducing sql database user could work resource let database worry concurrency short deadline wondering could keep xml persistence well business logic introduce locking way possible

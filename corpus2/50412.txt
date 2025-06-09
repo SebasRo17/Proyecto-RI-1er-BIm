@@ -1,1 +1,0 @@
-I have two solutions; I want is to find an equation that these solutions satisfy using mathematica. The solutions are $x= \frac{{(26-k)}^2}{26}$ and $y= \frac{{k}^2}{26}$. I know by hand computing that $x$ and $y$ satisfy $\sqrt{x}+\sqrt{y}=\sqrt{26}$; How can I show this using _Mathematica_?

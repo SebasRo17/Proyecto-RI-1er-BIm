@@ -1,0 +1,1 @@
+The title tells everything about my question but still let me elaborate to clarify : I know very well about the ZEND Framework but what about the Zend server? Does it work like Apache server or anything else? What is the main difference between these two? I also know that Zend Server is a product of the Zend Company but where is it used?

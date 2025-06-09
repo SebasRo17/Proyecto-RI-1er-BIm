@@ -1,0 +1,1 @@
+If I have a datastructure which is the fastest way I could insert values into it in a specified range? For example if I had a method:               myDatastructure var=new myDataStructure();     var.insert(2,1000);      it would mean that I get a most optimised way of getting a datastructure holding values from 2 to 1000 in each of index sequentially.

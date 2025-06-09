@@ -1,0 +1,1 @@
+I am trying to find a way of classifying different types of PHP functions. For example that fopen, fwrite, fclose and so on are all part of IO, and the MySQL functions and MySQLi class is all for mysql related things but something more automatic was wondering if there is some sort of function class mapping in PHP

@@ -1,1 +1,0 @@
-use window command prompt mathkernel noprompt script file execution like kernel window opened closed immediately avoid window run script silence thanks

@@ -1,0 +1,1 @@
+Especially when writing 'standard' (non-HPC) applications, do you consider what sorting algorithm to pick, or just settle with quicksort (which is what most libraries just call sort)? To some extent it may be profitable in specific situations, but on the other hand proper optimization requires some time to analyse the problem and make benchmarks.

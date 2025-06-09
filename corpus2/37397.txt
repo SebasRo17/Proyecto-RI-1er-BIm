@@ -1,1 +1,0 @@
-Is there a way to generate a counting function for prime powers - i.e. to create a similar function to `PrimePi`, but including prime powers. The following will, of course, generate a list of these numbers:               Select[ Range[1000000], PrimePowerQ]

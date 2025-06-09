@@ -1,0 +1,1 @@
+For example, in case of GDB it is possible to debug itself by itself. I have not been able to find any JVM that can debug itself or even allows debugging on source level. I was just wondering if someone can suggest on how the systems are made self debuggable. If you have references, please paste it here. I wanted to read on it in detail.

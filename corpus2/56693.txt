@@ -1,1 +1,0 @@
-Recently asked this question http://math.stackexchange.com/questions/888369/betweenness-centrality-how- long-does-mathematica-take on the Mathematics SE. Does anyone know, as a follow up, what algorithm Mathematica uses to calculate the betweenness centrality vector (of $N$ elements) for an unweighted graph?

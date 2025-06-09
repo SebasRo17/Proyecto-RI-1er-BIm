@@ -1,1 +1,0 @@
-listplot interpolation option interpolationorder us two different convention interpolation give value nearest greater x value plot quiet interpolation interpolationorder x x enter image description listlineplot give value nearest smaller x value listlineplot interpolationorder plotrange enter image description make interpolation use listplot convention

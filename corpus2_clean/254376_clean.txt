@@ -1,0 +1,1 @@
+want make solution find optimum route school visit example want visit num school b c e city given choice five route regarding school visit first second third etc calculate efficiency route distance time cost criterion done use calculation distance time cost fuel usage genetic algorithm find optimum route

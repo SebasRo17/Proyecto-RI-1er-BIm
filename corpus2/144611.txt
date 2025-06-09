@@ -1,0 +1,1 @@
+We are a company and we want to use 30% of the BSD opensource software to plug and play it with our source code, can we do that. Further this program will not be distributed and only will be accessed by our clients using our own software. Is it possible for us to do the above without any restrictions. Kindly give me feedback on the above soon as possible.

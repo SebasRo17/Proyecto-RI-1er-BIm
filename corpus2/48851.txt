@@ -1,1 +1,0 @@
-Why does `Equal["string", False]` not evaluate to `False`? I would have thought _Mathematica_ could prove that these two things are not equal.

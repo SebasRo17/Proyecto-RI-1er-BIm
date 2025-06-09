@@ -1,0 +1,1 @@
+We are following scrum in our project. I see most of the times the scrum master allocates the tasks for us. However, I read from many scrum books that scrum works the other way around (the 'pull' approach) and team members pick up tasks or features. Is scrum master assigning tasks the correct approach or does it go against the agile ideology?

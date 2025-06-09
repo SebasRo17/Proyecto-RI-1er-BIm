@@ -1,1 +1,0 @@
-I want to fill region between different contours, e.g. `ContourPlot[{c1 = f1, c2 = f2}, ...]` a la the filling options for `Plot` like `Filling -> {1->{2}}`. Is it an easier way than superimposing two contour plots then manually excluding regions?

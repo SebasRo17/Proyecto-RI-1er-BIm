@@ -1,1 +1,0 @@
-We know that we can achieve to a box contained two spheres by the code:               Graphics3D[Table[Sphere[{i, Mod[i^2, 10], Mod[i^3, 12]}], {i, 2}]]      ![enter image description here](http://i.stack.imgur.com/kVJzR.png) How can the left sphere move in a vector path to the right of the box and the right one move to the left of the box simultaneously?

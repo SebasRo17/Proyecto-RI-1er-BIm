@@ -1,1 +1,0 @@
-consider following code evaluating move mouse output text print click mouse text print eventhandler text mousemoved print mousedown print want modify move mouse output text print click text print stop printing

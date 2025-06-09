@@ -1,0 +1,1 @@
+read construction concept understood num need lexer divide program statement token num need check identify token known type num create grammar check token fit grammar num create ast syntax tree stuck parser ast step trying create simple language create parser ast simple statement like var num num etc

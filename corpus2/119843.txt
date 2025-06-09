@@ -1,0 +1,1 @@
+I'm looking for ideas for tasks that I can give to a Java programmer candidate to check his knowledge of Java; I'm specifically looking for a Java developer for web applications.

@@ -1,0 +1,1 @@
+I am building a website for a UK audience that will utilise location data to offer search results based on a desired location or home address. I have a large list of UK postcodes and geographic locations that I could parse and input to my DB to use in searches I am wondering if this is the right thing to do? Would it be better to just rely on an API such as google geolocation?

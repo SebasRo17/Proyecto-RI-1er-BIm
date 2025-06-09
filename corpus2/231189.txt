@@ -1,0 +1,1 @@
+According to the slides given by my lecturer, one of the disadvantages of MVC model is > additional code and complexity when data model and interaction are simple Why is this so, I would assume it would make no difference since data model and interaction are on two different components of the MVC model?

@@ -1,0 +1,1 @@
+I'm working with ASP.NET Web User Control (WUC) and I got to this question: I'm creating a WUC to show an object's data. This object is already loaded when I call that WUC. I'm wondering what would be better: give the WUC the full object or only the necessary attributes?

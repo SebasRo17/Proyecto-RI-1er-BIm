@@ -1,0 +1,1 @@
+Suppose there is a language where, instead of statements, functions could only be defined in relation to other functions and operators such as partial application and composition. What would be the characteristics of such language? Could everything that is done with statements be done on this design? What would be the limitations? Are there languages like this?

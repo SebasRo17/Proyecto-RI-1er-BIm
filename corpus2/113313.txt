@@ -1,0 +1,1 @@
+Last week my lecturer was teaching us about interfaces in Java. However, I failed to understand her explanation that well. Does anyone have a good description, or explanation of Java interfaces, and reasons to make use of them?

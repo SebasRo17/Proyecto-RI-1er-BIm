@@ -1,0 +1,1 @@
+I am creating use cases for a project. A generic user is extended by user "categories" which then is extended by an administrator (that can do all tasks possible). Is the following acceptable to portray? Is there a better way to portray such info? ![sample use case](http://i43.tinypic.com/adm0b4.jpg)

@@ -1,0 +1,1 @@
+I frequently see _Simulation_ and _Emulation_ in computer science. These two terms seem synonymous. Is there any difference between _Simulation_ and _Emulation_?

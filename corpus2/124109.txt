@@ -1,0 +1,1 @@
+I am interested in learning design patterns and would like to know what are considered top tier books in learning this subject. Is there a book out there that's the de-facto standard for describing best practices, design methodologies, and other helpful information on design patterns? What about that book makes it special?

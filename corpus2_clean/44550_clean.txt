@@ -1,1 +1,0 @@
-let mathbb n n k mathbb n ldots efficiently generate list ldots k ldots k mathbb n n setminus ldots k would also desirable code short current highly inefficient solution select tuples tuples range max length k plus memberq table n

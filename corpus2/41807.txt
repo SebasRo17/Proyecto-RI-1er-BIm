@@ -1,0 +1,1 @@
+I did a quick search before asking and it brought up this: Where are sample Select2Perform test questions? I'm looking to take a sample Java exam, but the above topic doesn't mention a resource I could go to - just that somebody had taken the C++ version. If anybody could help, that'd be great.

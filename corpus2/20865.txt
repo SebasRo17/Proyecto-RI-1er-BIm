@@ -1,1 +1,0 @@
-I only have a little coding experience in C, and I remember I was told that pass by reference is more efficient than pass by value since the parameters don't need to be copied. Since there is no pass by reference in _Mathematica_ , I'm wondering if that affects the performance of function calls, especially when dealing with large data?

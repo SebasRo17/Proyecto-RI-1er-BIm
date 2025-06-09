@@ -1,0 +1,1 @@
+wondering best way add copyright info source client normally project release gpl however working client sure give source would something like correct package project file filename php author example net c num client right reserved file description client owns paid still think good idea add file description copyright file maybe conversation client seem like fair legal way

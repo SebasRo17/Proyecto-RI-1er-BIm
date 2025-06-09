@@ -1,0 +1,1 @@
+Here is a logical statement:               term1 AND (term2 OR term3) OR term4      What is an effective way of storing this information in a data structure? For example, should I use a graph, with a property on each edge defining the operator to the next term? (This suggestion doesn't make sense IMO, but it's a data structure that might be useful for this)

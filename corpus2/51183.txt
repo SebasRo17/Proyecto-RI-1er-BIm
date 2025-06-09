@@ -1,1 +1,0 @@
-My `BarLegend` shows only zeros instead of right values and I cannot find the reason. I set following minimum and maximum:               MinC=-1.66423*10^-13;      MaxC=9.39154*10^-13;     legend = BarLegend[{"TemperatureMap", {MinC, MaxC}}, LegendLayout -> "Column"]

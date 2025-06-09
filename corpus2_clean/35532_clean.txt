@@ -1,1 +1,0 @@
-given following data organized year want draw following diagram grouping data month together barchart transpose chartlabels jan feb mar apr may jun jul aug sep oct nov dec barchart yearly data grouped month show one chartlabel per month category

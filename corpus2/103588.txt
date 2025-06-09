@@ -1,0 +1,1 @@
+When constructing prototypes, should we also create appropriate unit tests as if we were writing production code? Would it make a difference if we knew in advance that the code **was** or **wasn't** going to be re-used for the final solution?

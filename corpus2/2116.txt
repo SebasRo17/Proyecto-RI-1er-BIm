@@ -1,1 +1,0 @@
-According to the Mathematica help: > Round rounds numbers of the form x.5 toward the nearest even integer. For example:               Round[{0.5, 1.5, 2.5, 3.5, 4.5}]      gives               {0, 2, 2, 4, 4}      What's the rationale behind this? Why not the usual x.5 always rounds up?

@@ -1,1 +1,0 @@
-matrix defined array give give j value nxn matrix

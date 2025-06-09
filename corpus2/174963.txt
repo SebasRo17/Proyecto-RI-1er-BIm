@@ -1,0 +1,1 @@
+I know that operating systems facilitate inter-process and inter-thread data sharing. I want to know about the mechanisms used to facilitate such sharing. I read about "pipes". What are the other ways?

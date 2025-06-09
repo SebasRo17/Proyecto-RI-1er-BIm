@@ -1,1 +1,0 @@
-anyone know simple mathematica code computing lyuponov exponent rossler system thank rossler system rossler x z x z x z z x z

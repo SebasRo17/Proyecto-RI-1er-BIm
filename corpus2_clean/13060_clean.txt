@@ -1,1 +1,0 @@
-plot quarter circle using x abscissa ordinate taking advantage plot function mathematica range pi x sin co

@@ -1,0 +1,1 @@
+It seems to me that you cannot possibly write a software specification in English that is completely free of ambiguities, simply due to the informal nature of natural language - and therefore that a truly unambiguous specification must include code written in a formally specified language. Is this a known result or am I missing something?

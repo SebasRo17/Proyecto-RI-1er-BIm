@@ -1,0 +1,1 @@
+learning develop small embedded http server assignment example given use com sun net use extends link client server however previous network programming assignment used socket serversocket create raw connection server client send custom protocol back forth clearly two class different share common ancestor lang inherently special make fundamentally different

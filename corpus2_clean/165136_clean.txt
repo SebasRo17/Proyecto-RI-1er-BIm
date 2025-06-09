@@ -1,0 +1,1 @@
+practicing oop php struck setter getter method directly access property method getter use setter see example php myclass public public getter obj new myclass echo obj getter

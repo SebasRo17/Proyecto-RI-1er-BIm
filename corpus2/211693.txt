@@ -1,0 +1,1 @@
+I've done some research on this but I can't find more specific examples to help me with this. I'm new to SOA/Patterns in general please take it easy... :) Can you display an example of using the fileupload control in .net implementing SOA Messaging Patterns?

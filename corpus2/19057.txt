@@ -1,1 +1,0 @@
-How can I print grouped cells with CellPrint ? The closest thing I have to what I want to do is this               CellPrint[CellGroup[{TextCell["i","Item"],ExpressionCell[Defer[x^2;],"Input"]},1]]      But the cells aren't grouped.

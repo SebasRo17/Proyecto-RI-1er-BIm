@@ -1,1 +1,0 @@
-lot data e g x plot consumes much memory gb causing mathematica return memory available example lst table sin x x listdensityplot lst way cope

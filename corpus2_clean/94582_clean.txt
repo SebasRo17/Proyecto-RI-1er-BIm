@@ -1,0 +1,1 @@
+pretty comfortable high level language application development however although learned low level topic one listed never done anything knowledge outside school example bit twiddling dealing little v big endian memory management stuff relating stack heap malloc etc multi threading mutexes semaphore way practice spare time working company writes managed

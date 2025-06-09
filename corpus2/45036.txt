@@ -1,1 +1,0 @@
-I'm designing a logic circuit and I was wondering if the following two things are equivalent: (x <= y) and (x < (y + 1)) I can't think of any set of numbers that would make these two things not equivalent. Only real integers are allowed. Thank you.

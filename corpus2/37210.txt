@@ -1,0 +1,1 @@
+What's more important: To write programs fast or to write fast programs? According to: http://math.stackexchange.com/questions/17478/how-quickly-with- better-tool it is better to write fast programs, but I wanted to ask this Q here to get the general gist of what you're thinking on this subject. Of course I'm taking as a given that all programs have to be correct etc. etc.

@@ -1,1 +1,0 @@
-How to run a batch file, send commands and collects output on windows               Run["!C:\\runme.bat"]      it outputs 1 and a window appears and then disappears. I also want to send my script file to python shell and collect its output in mathematica. How to do on Windows?               ReadList["!C:\\Python27\\python.exe", "my_script_file.txt"]

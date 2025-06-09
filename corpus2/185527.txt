@@ -1,0 +1,1 @@
+I started building a web crawler and read somewhere that it's a very hard problem to find a good seed page for the crawler. Can anyone explain me if there is any pre-defined procedure/ guidlines of finding a good seed page? or how you say that a particular page is a good seed page?

@@ -1,0 +1,1 @@
+config file php project setting go production anybody offer specific example help automatically check field make sure value development demo setting file get committed subversion ide jetbrains php storm use latest version subversion u develop linux others window

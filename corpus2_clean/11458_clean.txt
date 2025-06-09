@@ -1,1 +1,0 @@
-would like plot expression like treeform using new treegraph functionality treegraph take input set edge form b seems solve problem necessary turn expression set edge example sin plus b would need transformed sin plus plus plus b transformation done mathematica expression thanks

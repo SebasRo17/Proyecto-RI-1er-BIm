@@ -1,0 +1,1 @@
+good day gosling said avoid implementation inheritance whenever possible instead use interface inheritance avoid inheriting structure using keyword extends time make oriented could someone please give oriented example illustrating concept scenario like ordering book bookstore thank advance

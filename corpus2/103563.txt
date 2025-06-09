@@ -1,0 +1,1 @@
+What are the things that I should be familiar with to make my own computer that can add two numbers, in the same way that happens in a calculator? Can anyone please give me links that teach these things in detail? I know how to program but have never programmed at the root level.

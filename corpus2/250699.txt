@@ -1,0 +1,1 @@
+That must have broken a lot of peoples code bases right? Everyone who had a variable named "nullptr" (which I think would have been fairly common) has to find "nullptr" and replace with "something_else" before being able to compile with c++11. Does the standards committee assume that people will do that much "adjusting"?

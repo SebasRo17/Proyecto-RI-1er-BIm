@@ -1,0 +1,1 @@
+I'm looking for a site/page somewhere that has translations of common open- source licenses. In particular, I'm looking for translations for the MIT license. Is there a site or resource somewhere that has these translations?

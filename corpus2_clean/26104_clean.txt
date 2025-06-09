@@ -1,1 +1,0 @@
-trying style tabview like example wolfram cdf site custom size background image gradient struggling find documentation style tabviews way mathematica list property control like tabview control modified user edit link example styling done wolfram

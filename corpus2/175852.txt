@@ -1,0 +1,1 @@
+What's the story on contributing to open source projects with respect to the International Traffic in Arms Regulations (ITAR) or the Export Administration Regulations (EAR)? From how the laws read it seems like just working on open source SW could put you in violation of export control laws. Is there any precedence on this? Has there been any court cases involving this?

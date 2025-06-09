@@ -1,0 +1,1 @@
+I just saw a video showing how Notch (of Minecraft fame) is debugging and changing Minecraft while it is running. He pauses the game, changes something in the code and then unpauses the game where the change takes immediate effect without the need to restart the program. How does this work? Which kind of technique is used to achieve this?

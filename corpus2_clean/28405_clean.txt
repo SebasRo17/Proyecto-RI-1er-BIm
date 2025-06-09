@@ -1,1 +1,0 @@
-since visualizing work using mathematica import model molecule notebook question way modify somehow imported model inside mathematica example label bond length currently use mol format maybe others format provide ability mathematica process model graphic thanks

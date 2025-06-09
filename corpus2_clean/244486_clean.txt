@@ -1,0 +1,1 @@
+thinking maybe forget ajax http request got web socket open client server decided ask check could bad practice reason thinking socket open less syntax often meaning simpler handling involved passing information client server socket io one example web socket obvious situation web socket socket io example going capable handling functionality ajax request could easily

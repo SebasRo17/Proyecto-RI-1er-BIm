@@ -1,0 +1,1 @@
+what kind of a question should be asked to test the programming and DB knowledge of a developer ? i am guessing 2 hours practical would be fine. This is for a senior PHP resource and can anybody please suggest me some examples of questions for a technical test? Not sure weather this is the right place to ask this question. if not, can i know where to ask this

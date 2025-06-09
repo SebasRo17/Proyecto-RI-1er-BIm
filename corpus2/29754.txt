@@ -1,1 +1,0 @@
-When I try               FullSimplify[FunctionExpand[x^(1/12)(1/12) LerchPhi[x,1,1/12]]]      I have a nice answer with many complex numbers. Is there any way to have the expression with just real terms ? As an example, changing (1/12) by (1/4) leads to beautiful results.the argument "x" is real and (value between 0 and 1). Thanks for your help

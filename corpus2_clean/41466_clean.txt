@@ -1,1 +1,0 @@
-simple mathematica find asymptotic expansion frac p p rightarrow infty however want restrict p integer also include term simplify integer p generally series longer job without prodding expect simple way use series find asymptotic expansion frac p p p rightarrow infty assuming integer p

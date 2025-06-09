@@ -1,0 +1,1 @@
+reading lang org api num num index html scala collection directly subclassing recommended instead consider declaring iterator next hasnext creating iterator one method iterator declaring subclass traversable subclassing recommended

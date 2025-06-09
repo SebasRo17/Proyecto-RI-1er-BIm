@@ -1,0 +1,1 @@
+c file basically manages little database people add remove edit search function among others static us store good way go unit testing file like static put employ trickery make pass pointer get compiled production version test function make way want via series add remove best way test file like

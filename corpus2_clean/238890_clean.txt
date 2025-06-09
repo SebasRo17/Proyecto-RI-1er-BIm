@@ -1,0 +1,1 @@
+following interface public interface long getvalue public implement private static long num public setvalue long override public long getvalue static analyzer findbugs warned set static field non static make set static make getter static interface overridden okay static setter non static getter could better approach

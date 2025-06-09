@@ -1,0 +1,1 @@
+orms persistence ignorance make perfect sense programming language want use language native implementation object structure drive program need worry sql database always thought inline sql string program cumbersome sql still used backend orm persist object xml binary file avoid overhead difficulty administering database server

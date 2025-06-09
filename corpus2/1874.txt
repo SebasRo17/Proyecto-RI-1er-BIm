@@ -1,1 +1,0 @@
-I've quite forgotten: what file does one modify in order to add directories to `$Path` globally? Specifically, I want to include `$UserBaseDirectory/ExtraPackges`. Or does one do it by means of modifying some setting in the OptionInspector (for Global Preferences) and, if so, which setting? I didn't see a relevant one under `Global Options>File Locations`.

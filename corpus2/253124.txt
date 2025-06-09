@@ -1,0 +1,1 @@
+I'm learning groovy and I've just learned about the new feature added in 2.3, which is the addition of _Traits_. Now to me it seems like Traits allow you to do basically everything a super-class and an Interface can do. Does the addition of Traits to Groovy make Inheritance and Interfaces obsolete? And if not, then what is the best time to use each of these mechanisms?

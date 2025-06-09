@@ -1,1 +1,0 @@
-consider following integral asked mathematica assuming q k integer k integer integrate exp q sqrt k sqrt integrate tanh sqrt log exp q sqrt various different positive value k q general case mathematica rewrote back integral nothing mean integral converges mathematica know would added bonus someone point integral done

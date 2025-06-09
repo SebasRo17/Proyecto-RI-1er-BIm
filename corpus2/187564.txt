@@ -1,0 +1,1 @@
+I started my new job as a JS developer in November and starting implementing Backbone pretty soon after. This was a big enough learning curve for the team (me included), however I'm thinking about looking at CoffeeScript, which I'm guessing would require everyone on the team to know it? Is that too big of an ask, just to make me slightly more productive?

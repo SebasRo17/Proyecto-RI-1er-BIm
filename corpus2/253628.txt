@@ -1,0 +1,1 @@
+I've been using Devise for a while now and have wondered how the secret key is used. I looked through the source for references to `secret_key`, but it wasn't clear to me exactly what we do with it. It seems to me that it might be related to session security?

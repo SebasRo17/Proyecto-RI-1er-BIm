@@ -1,1 +1,0 @@
-Is there any function opposite to Normal? For example, let as say that I have an SparseMatrix A, then, let as say that for convenience for a certain operation like Packing, I convert it into an Array by doing               A=Normal[A];      and afterwards, I want A to became an SparseArray again. Is there anyway to do this without the need to define the matrix A again? Thanks

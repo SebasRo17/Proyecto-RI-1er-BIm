@@ -1,0 +1,1 @@
+I'm not a C++ guy, but I'm forced to think about this. Why is multiple inheritance possible in C++, but not in C#? (I know of the diamond problem, but that's not what I'm asking here). How does C++ resolve the ambiguity of identical method signatures inherited from multiple base classes? And why is the same design not incorporated into C#?

@@ -1,1 +1,0 @@
-Let's assume I want a button that, when you click it, get the cell that contains it selected. This approach won't work, it selects the cell containg the selection previous to the click.               Button["Select this cell", SelectionMove[ButtonNotebook[], All, Cell]]

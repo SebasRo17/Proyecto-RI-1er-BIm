@@ -1,0 +1,1 @@
+If I wrote this in MySQL               SELECT * FROM foo ORDER BY bar LIMIT 1      it would first order the result and limit it afterwards. I always get the lowest bar. I wonder if this is specified like this in SQL-standards and how to check that? All I found are some BNF's which do not explain how something should work, but only what syntax is valid.

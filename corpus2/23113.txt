@@ -1,1 +1,0 @@
-When I evaluate the limit of `(1-Cos[x]) Sin[1/x]` at `x = 0` in _Mathematica_ 9, I obtained `Interval[{-2, 2}]`. The problem is that this limit is 0. It is also 0 when I compute it by Maple and _Mathematica_ 7\. So, I wonder whether I've found a bug in _Mathematica_ 9?               Limit[(1 - Cos[x]) Sin[1/x], x -> 0]      > >     Interval[{2, 2}] >

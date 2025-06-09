@@ -1,1 +1,0 @@
-two function three argument f x b f b need nesting like fx b first step fx fx b dt fy b dt second step fx fx fx b dt fy b dt dt fy fx b dt fy b dt dt third step thus every step replaced f x b dt b f b dt implement mathematica

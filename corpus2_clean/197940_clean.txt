@@ -1,0 +1,1 @@
+asm j application fast near native c speed possible write one c convert llvm trick emscripten asm j found tutorial write c use j api example xmlhttprequest websockets canvas webgl

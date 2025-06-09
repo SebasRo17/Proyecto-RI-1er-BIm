@@ -1,1 +1,0 @@
-I know it may sounds idiot, but I've been looking through the document, and couldn't find a way to combine two vectors say `{a, b}` and `{c, d}` into `{{a, c}, {b, d}}`. Thanks all.

@@ -1,1 +1,0 @@
-I want to use `ListAnimate` to show an animation but I want to remove the slider and all of the buttons from the top and show the animation panel only. There is an `AppearanceElements -> None` option but it doesn't remove the slider and the other buttons. How can I remove all of the controls?

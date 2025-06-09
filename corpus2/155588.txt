@@ -1,0 +1,1 @@
+I have a question about open source software. **Questions:** Where do you get legal advice from? Do you have to find a lawyer specialised in software issues right from the bat, or do you get legal advice from lawyers that may join the community later on? Is there any other way a newly created open source organization may seek advice on legal issues?

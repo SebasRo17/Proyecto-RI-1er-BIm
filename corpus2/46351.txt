@@ -1,1 +1,0 @@
-After asking a question about making InlineCell similar to Input, I realized that by typing `Shift`+`Ctrl`+`I` I really can manually convert every InlineCell to InputForm. So my new question is: Is there a way to make this conversion once and for all? Or is there a way to automate this conversion for all InlineCells? (maybe programmatically?)

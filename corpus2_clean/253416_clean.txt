@@ -1,0 +1,1 @@
+making net application lot entry go server though need stored updated frequently local machine would like something like sql database simply exists file application folder appdata whatever go use big fan linq2sql support would awesome tried use mssql compact really get work well basically required install mssql well option mssql compact

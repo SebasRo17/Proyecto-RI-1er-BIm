@@ -1,0 +1,1 @@
+Has anyone had any experiences with developing a Partitioned Global Address Space product or system, or an application that used PGAS, or anything PGAS- like? I'm looking for insights, warstories, and practical approaches with regards to languages used, wisdom learned, and ideas/applications either dreamed of or spun off from actual development.

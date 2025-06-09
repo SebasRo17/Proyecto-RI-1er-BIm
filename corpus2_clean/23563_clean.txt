@@ -1,1 +1,0 @@
-say need evaluate integral iiint w f x z dx dy dz w region given like w x z leq x leq leq z leq triple integral mathematica code

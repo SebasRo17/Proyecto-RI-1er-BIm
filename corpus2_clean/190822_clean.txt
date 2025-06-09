@@ -1,0 +1,1 @@
+application server jboss num use svn repository need ship custom security domain standalone xml jboss file packaged application war file however want commit jboss svn approach thinking using commit standalone xml separate folder svn repository move correct location jboss application deployed production site best mechanism

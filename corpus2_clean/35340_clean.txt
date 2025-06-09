@@ -1,1 +1,0 @@
-generated following plot enter image description code regionplot x z x x z ax false however resolution bit poor plot increase polygon count increase resolution way

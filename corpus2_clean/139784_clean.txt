@@ -1,0 +1,1 @@
+current user guide built using asciidoc documentation managed non technical person keep source text file well generated html source control issue arise making doc update version x z x branch typically one developer update environment forgetful know better way manage user guide versioned manner without actually depending non technical user learn vcs

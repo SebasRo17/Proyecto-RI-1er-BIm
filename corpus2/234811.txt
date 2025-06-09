@@ -1,0 +1,1 @@
+Why do so many people recommend offloading email to a transactional service such as Mandrill, Postmark or Sendgrid? Is sending email via smtp really that much slower than sending a request out to said service? I imagine it has something to do with the rendering of the actual message, but I'd like a more informed reason.

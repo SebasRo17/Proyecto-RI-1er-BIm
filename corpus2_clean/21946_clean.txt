@@ -1,1 +1,0 @@
-set constant ndsolve give true solution try example mathematica respond code problem need change constant defined beginning code see result suggestion io n cp c s dv cl v beta io c cp s beta b beta c cl c cp io c cp ndsolve vo v log b e c vo s s log b e dv c vo s e c vo s s log e dv c vo s e c vo s s n vo vo plot evaluate vo plotrange

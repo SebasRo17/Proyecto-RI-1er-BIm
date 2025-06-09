@@ -1,0 +1,1 @@
+I have a debug and a live server running a LAMP setup with some python scripts. By now I'm working with eclipse and Expandrive (via SSH) on the debug server. Whenever I want to release new code on the live server, I copy and paste the code via windows explorer from debugdrive to livedrive. I think this environment really sucks, what are good alternatives?

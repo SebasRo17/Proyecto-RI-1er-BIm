@@ -1,0 +1,1 @@
+Given that you have two identical methods (signatures, body, input/output) that you wanted to refactor into just one, what type of Work Item from the MS Agile template would be most appropriate? Task, Bug, Quality of Service, Risk? Why?

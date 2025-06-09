@@ -1,1 +1,0 @@
-would like use vectorplot plot vector field arrow b g b b b x z bf b x b b z bf vectorplot b x z x z plotrange vectorscale none vectorpoints vectorstyle arrow red regionfunction function x z x z boxed true ax false way change property arrow tail example make thicker guessing something tube function cannot quite figure thanks advance

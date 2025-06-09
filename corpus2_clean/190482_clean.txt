@@ -1,0 +1,1 @@
+instead database serialize json saving loading disk necessary management made program faster easier using sql query reason never understood database necessary one use database instead saving disk

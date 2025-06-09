@@ -1,0 +1,1 @@
+I dont think I get enough programming at work so I'm thinking of doing some contributions to Eclipse. Seems that might be the only way to get some of my bugs fixed :) But how do I get started? What are the requirements in regards to software used? What is the typical process? Any special do/don'ts one needs to know?

@@ -1,1 +1,0 @@
-input pp press enter get matrix output want ordered pair find best fit line using fit pp x x plot line try plot point mathematica interprets data matrix plot method able plot point line graph please help anyone

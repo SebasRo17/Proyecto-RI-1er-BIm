@@ -1,1 +1,0 @@
-I have the following line code:               Cases[g[h, r, t, b, m], x_[__, y_, __] -> y, {0, -1}]      I am expecting the results to be `{r,t,b}` because they match the pattern, but I am only getting `{r}.` Can anyone suggest why I am getting only `{r}?`

@@ -1,0 +1,1 @@
+The standard programmer interview books and websites go over simple algorithm and coding questions. But how does one prepare for high-level questions on building websites? For example, "How would you build website X? What data structures would you use? etc." Is there a good site or book to read that reviews such material?

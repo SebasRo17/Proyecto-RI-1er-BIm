@@ -1,1 +1,0 @@
-data reflects arrival time flight n element arrival positive value represent time minute past planned time late negative planned time early question would like find time arrival highest probability use data

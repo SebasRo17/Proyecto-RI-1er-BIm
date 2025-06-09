@@ -1,1 +1,0 @@
-solve x b x c x x e x c b c b e c e f produce different result solve x b x c x x e x c b c b e c e f c b c b e c e f

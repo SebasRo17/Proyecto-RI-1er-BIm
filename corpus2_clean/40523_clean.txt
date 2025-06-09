@@ -1,1 +1,0 @@
-newdata import data txt tsv listplot newdata data txt file consists two column number separated comma like look newdata output seems fine list datapoints newdata try listplot command get blank graph origin x range somebody help type graphing thanks advance

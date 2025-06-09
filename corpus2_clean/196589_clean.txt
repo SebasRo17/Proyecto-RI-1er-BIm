@@ -1,0 +1,1 @@
+list object require exact filtering basically set conditionals output good bad want keep good object list let say num object list want filter written language functionality would maximize parallel operation could played multiprocessing improve performance still left unsatisfied suppose embarrassingly parallel problem state need shared

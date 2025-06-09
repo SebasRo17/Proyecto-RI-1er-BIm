@@ -1,0 +1,1 @@
+Currently I'm still learning ASP.NET. My goal is to build dynamic websites. However, I also want to be able to build some windows applications as well. So, is it easy to learn Windows forms or WPF after ASP.NET? or is the reverse easier? meaning to start with WPF then move to ASP.NET?

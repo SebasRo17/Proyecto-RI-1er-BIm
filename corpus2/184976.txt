@@ -1,0 +1,1 @@
+I am administering hundreds of RHEL servers. There are many daily tasks to perform. Right now I am working with bash scripting and python. I was wondering if other languages such as Erlang, Lua, Ruby, Haskell, or Clojure.

@@ -1,0 +1,1 @@
+According to this question and it's replies What is the purpose of the "non-endorsement clause" in the New BSD license? it seems smarter to pick the BSD license over the MIT, to prevent people using your name in an unwanted way. If that is the case, why do people still pick the MIT license over BSD license?

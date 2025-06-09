@@ -1,1 +1,0 @@
-model accepts several input parameter want study sensitivity certain parameter described cross validated answer wikipedia also link matlab routine looking something like mathematica found something systemmodeler package build function global sensitivity analysis local sensitivity analysis screening morris

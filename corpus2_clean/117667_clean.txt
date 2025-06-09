@@ -1,0 +1,1 @@
+would probably consider smell even anti pattern implement num interface indeed anti pattern would call simply following single responsibility principle

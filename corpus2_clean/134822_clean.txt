@@ -1,0 +1,1 @@
+possible use find netbeans ide excluding commented result given project like find occurrence word without getting back possible match come commented one need something like

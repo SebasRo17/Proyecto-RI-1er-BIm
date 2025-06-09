@@ -1,0 +1,1 @@
+Problem: user has left review of iPhone app which is simply incorrect Question: is there a way to make contact with the reviewer and a) explain how what they've said is incorrect and help them with their issue or b) challenge the review?

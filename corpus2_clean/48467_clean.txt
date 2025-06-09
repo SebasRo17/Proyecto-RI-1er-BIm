@@ -1,1 +1,0 @@
-program using manipulate program given certain value compute value want value appear list plot problem facing user change parameter previous plot disappear keep previous point plotted even user change value x manipulator want user see point example manipulate listpointplot x x x want plot show point user change x latest

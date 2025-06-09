@@ -1,1 +1,0 @@
-wondering automatic way kind matrix operation example given matrix list want result like shown operation result operation add term second column number first column row e first row second term calculated plus term list

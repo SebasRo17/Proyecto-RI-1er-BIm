@@ -1,0 +1,1 @@
+In some libraries I've seen, a lot of emphasis is put into change of ownership of pointers, like for example a class method that allocates and returns a pointer to an object while relinquishing its ownership to the caller. My question is: how would you design if you had to code something with the constraint that no pointer ownership gets transferred, ever ?

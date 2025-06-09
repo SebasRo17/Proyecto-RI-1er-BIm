@@ -1,0 +1,1 @@
+Should I write APIs in US spelling or British spelling? Or should I provide with mapping both of them to a single one and internally using anyone which I like so that both of them works ? At present most of the APIs are with US spelling. What is the solution for it? edit: Is there a way to standardize this. May be support both?

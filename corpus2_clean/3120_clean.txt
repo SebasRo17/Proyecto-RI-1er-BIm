@@ -1,1 +1,0 @@
-put corresponding value different list together according operation e g three list giving velocity x z direction respectively like create one list giving norm sqrt x z would able procedurally using example mapindexed one list toghether part suppose like know elegant solution

@@ -1,0 +1,1 @@
+sql query compiled byte equivalent enhance performance know database server support prepared statement thing compiling application prepare statement time benefit pre compiled byte since prepared time application run also referring stored procedure strictly sql statement execute get result set

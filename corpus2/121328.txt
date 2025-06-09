@@ -1,0 +1,1 @@
+I read some code of a colleague and found that he often catches various exceptions and then always throws a 'RuntimeException' instead. I always thought this is very bad practice. Am I wrong?

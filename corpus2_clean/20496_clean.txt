@@ -1,1 +1,0 @@
-want change color progress bar progressindicator want progress bar red instead green purpose wrote following code still work style progressindicator red mathematica graphic change color

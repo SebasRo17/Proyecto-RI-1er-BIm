@@ -1,1 +1,0 @@
-What is the command to find function invariant? http://demonstrations.wolfram.com/AFunctionInvariantUnderAGroupOfTransformations/ what is algorithm it use to calculate this? **Edit** there is a book do it in this way Hope this book give you an idea on how to do multivariate case

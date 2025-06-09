@@ -1,0 +1,1 @@
+**Are modern testers like 'stupid' users which try to find a bug clicking and filling fields or they have solid knowledge about product cores?** What modern testers must be able to do?   * Must they be coders creating independant/embed tests?   * Must they understand source code of products and even can fix easy bugs?   * Other things? I'm interested in real practice.

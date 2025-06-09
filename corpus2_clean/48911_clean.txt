@@ -1,1 +1,0 @@
-data given column order x z dependent x z point equation bx cz x ez fx z nlm nonlinearmodelfit point equation b c e f x z method nminimize get error nothing give value coefficient b c e f wrong

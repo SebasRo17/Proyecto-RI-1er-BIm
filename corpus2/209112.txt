@@ -1,0 +1,1 @@
+If I write code with proprietary dependencies, can I release my own code under the Apache licence? An example of this would be a plugin for a proprietary framework.

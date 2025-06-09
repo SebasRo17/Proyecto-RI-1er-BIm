@@ -1,0 +1,1 @@
+Our T-SQL developer just gave his two weeks notice. We have been asked if our team of four developers would like an additional developer. We are offered to do our own T-SQL / Entitiy Framework development or we could get another dedicated T-SQL developer. What are the pros and cons with having a dedicated T-SQL developer on the team? Which would you prefer and why?

@@ -1,1 +1,0 @@
-testdata table n sin x x listlineplot ab fourier testdata plotrange full give enter image description expect fourier transform fouriertransform sin x x f sqrt pi diracdelta f sqrt pi diracdelta f saying mathematica fourier function somehow faulty could someone please explain peak around frequency signal

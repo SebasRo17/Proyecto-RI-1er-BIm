@@ -1,1 +1,0 @@
-data find mean day month year value month data

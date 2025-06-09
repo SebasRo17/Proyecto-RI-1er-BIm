@@ -1,1 +1,0 @@
-sublist tuples say example l x matrix goal create new list matrix length l matrix except position indexed element l replaced constant number used matlab iterative way j j length l state state l j l j memberq newlist state false appendto newlist state j would nicer use function map guess looking elegant synthax since little thanks

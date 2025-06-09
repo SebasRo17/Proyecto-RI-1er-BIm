@@ -1,1 +1,0 @@
-would like create series correlation matrix start sensmat diagonalmatrix matrixform iterates step element leading diagonal last matrix obtained maybe using correlation command enter image description

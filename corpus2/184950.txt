@@ -1,0 +1,1 @@
+I have been wondering this for a few days. I basically understand how networks and packets work. But what happends when an unexpected packet arrives? Like, when I didn't send a request for a website's index, but it sends the index to my machine anyways ? Does my browser pop up? Does it ignore it? Anyway to actually catch it?

@@ -1,0 +1,1 @@
+I am reading about a case study about a team that estimates tasks or "story points" as they call them based on the effort needed to complete them. What the units are these "story points" estimated in? I believe this notion of "story points" stems from a process called "agile development."

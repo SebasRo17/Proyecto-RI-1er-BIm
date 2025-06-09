@@ -1,1 +1,0 @@
-package notebook mathematica enable numerical calculation octonions maybe way plug octonion multiplication table

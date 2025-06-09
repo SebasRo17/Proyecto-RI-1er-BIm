@@ -1,1 +1,0 @@
-trying manipulate mathematica symbolic expression created matlab using matlink package succedeed importing numerical variable symbolic one mevaluate syms g real mevaluate syms l real mevaluate u g l mget u output u g l matlab correctly defines variable mathematica succeed getting variable anyone experience dealing

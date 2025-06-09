@@ -1,1 +1,0 @@
-try construct pattern using riffle except stringexpression riffle b c except expect match b c bc except repeated one time however stringmatchq bc stringexpression riffle b c except return true could anyone explain

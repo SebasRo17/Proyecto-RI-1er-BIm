@@ -1,1 +1,0 @@
-geospace find coordinate vertex equilateral triangle whose vertex integral coordinate tell mathematica

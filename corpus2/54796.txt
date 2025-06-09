@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  What should every programmer know about web development? Assuming one wants to be a professional in web design and development, what technologies would you recommend one learn? In what order should this be done? Any other suggestions. Note : I am interested in finding out about a video training package that contains all the listed technologies.

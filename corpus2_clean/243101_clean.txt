@@ -1,0 +1,1 @@
+trying upload file azure blob storage successful upload adding filename list operation synchronous work fine async occured collection modified enumeration operation may execute foreach var file file await f add filename count num point operation way wait till async operation get completed

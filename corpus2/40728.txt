@@ -1,1 +1,0 @@
-I have an array `exArray` with two types of integer elements: `1` and `2`. I'd like to choose a position $k$ in the array with uniform random probability conditioned on it having an element with the value `1`. Is there a one-liner to do this? Right now I'm using `RandomInteger[{1,arrayLength}]`, which is a ridiculous way to proceed.

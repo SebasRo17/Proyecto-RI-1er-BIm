@@ -1,1 +1,0 @@
-In the link, `ParametricPlot3D`, consider the example( _Variation on the Spheres_ ) given in the _Neat Examples_ section. ![enter image description here](http://i.stack.imgur.com/GdCTm.png) Can someone please explain how `RegionFunction` and `MeshFunctions` are working out there?

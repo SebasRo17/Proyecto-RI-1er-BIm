@@ -1,1 +1,0 @@
-following simple code never come end least version n mat sparsearray n n n matrixrank mat following clearly cause problem n mat normal sparsearray n n n matrixrank mat issue appears exist det instead matrixrank

@@ -1,1 +1,0 @@
-list l want take element list sequential order example first element list want select first member sub list want go second element list take first element process continues selecting

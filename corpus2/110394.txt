@@ -1,0 +1,1 @@
+In a django project, if a situation comes that Django ORM is not able to execute some complex queries then there are 2 options:   1. Use Raw Sql queries    2. Use SqlAlchemy  I want to know if there are some rules like some pros and cons of both which can guide me to choose one of the above 2 options. Or is it entirely depends on what we like?

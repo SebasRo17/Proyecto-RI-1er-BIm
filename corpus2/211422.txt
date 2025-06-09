@@ -1,0 +1,1 @@
+Several years ago, Microsoft announced that Ruby and Python were coming to .net. The projects were called IronRuby and IronPython, respectively. Microsoft said that the projects would be built on top of the .net DLR. WIKIpedia indicates that for all intents and purposes, these projects have been abandoned by Microsoft. Why did Microsoft abandon these projects?

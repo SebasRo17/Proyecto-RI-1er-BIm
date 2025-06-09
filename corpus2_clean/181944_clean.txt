@@ -1,0 +1,1 @@
+talk guido van rossum talking num num attempt write commenting saying turn easy write maintains nice dynamic typing property also maintains semantic correctness program actually thing matter kind weirdness somewhere cover actually run faster possible challenge related typing writing dynamically typed language like

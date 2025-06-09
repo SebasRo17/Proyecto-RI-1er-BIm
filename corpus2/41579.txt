@@ -1,1 +1,0 @@
-I want to convert a hexadecimal string to a decimal (base 10) number:               16^^ff     16^^ToExpression["ff"]      The 1st line returns the correct answer of 255, while the 2nd line gives an error. Why doesn't it work?

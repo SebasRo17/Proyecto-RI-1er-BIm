@@ -1,1 +1,0 @@
-I have an application using `DefineDLLFunction` whose output is: > Function[Null, If[NETLinkDLLPrivatecheckArgCount["DRV_AOVoltageOut", > {##1},2], WolframNETLinkDynamicDLLNamespaceDLLWrapper2DRVUAOVoltageOut[##1], > $Failed], {HoldAll}] How to extract the information “DynamicDLLNamespaceDLLWrapper2” from the output above?

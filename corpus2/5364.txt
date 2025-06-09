@@ -1,1 +1,0 @@
-Is there an easy way to get transparent plots that work with `Save Graphic As` using a compatible file format such as GIF or PNG? I tried `Background->Opacity[0,White]` and `Background->None`, yet the exported PNGs appear to still have a white background.

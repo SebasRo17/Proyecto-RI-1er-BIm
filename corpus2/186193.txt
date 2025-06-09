@@ -1,0 +1,1 @@
+This question & its answers are useful but not sufficient for my problem. My Question is if I want to add a javadoc as _@Deprecated As of version x.y, replaced by {@link SomeClass}_ in my current file's javadoc then what should be the version no. in place of x.y ?? Let my current version is 1.2 & after CVS checkin it will be 1.3

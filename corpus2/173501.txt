@@ -1,0 +1,1 @@
+For example, like this icon website: http://www.iconspedia.com/ There is a lot icon there, (I just can't draw myself, I am not good at it.....), I wonder if is OK to use them in my software project? Will the type of project make difference? i.e Open Source Application, Commercial Application, Free Download Application?

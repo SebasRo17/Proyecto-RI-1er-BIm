@@ -1,0 +1,1 @@
+lot web framework mvc style layout approaching problem good similar paradigm javascript already using framework jquery unobtrusive j still address problem complex web apps require lot javascript tend end bunch function single possibly file better way approach

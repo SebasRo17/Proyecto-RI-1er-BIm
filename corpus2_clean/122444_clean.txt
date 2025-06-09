@@ -1,0 +1,1 @@
+little bit new codeigniter framework first project framework chat stackoverflow somebody said need make controller tiny possible currently default controller named home num line code increasing model named num line code increasing controller num function also model thought codeigniter handle large controller model well problem performance issue security issue regarding

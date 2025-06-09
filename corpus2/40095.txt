@@ -1,1 +1,0 @@
-How can I derive analytically or compute numerically the solution to following differential equation $$ dy/dt = y\cdot X\cdot (y\cdot X - g(y,X))\cdot X $$ where X is a random variable (e.g. from a normal distribution) and g is a known function of y and X, e.g. $g=E[(y\cdot X)^2]$ ?

@@ -1,0 +1,1 @@
+well know thing like malloc free c new using destructor memory management c wondering new update language allow user option manually manage memory system automatically garbage collection somewhat newb ish question c year

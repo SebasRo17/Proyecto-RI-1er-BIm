@@ -1,0 +1,1 @@
+making wpf application following mvvm model seen approach applying mvvm concerned mainwindow xaml tutorial seen mainwindow hosting first page application making wizard application multiple view next back button one going first view question approach use window contain pointing towards mainview copy paste ui element mainwindow get rid suitable pro con approach

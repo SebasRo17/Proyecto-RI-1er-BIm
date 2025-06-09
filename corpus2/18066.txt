@@ -1,1 +1,0 @@
-I would like to plot the normal distribution for a population of human heights. My question is how can I input multiple frequencies for the same variable, without writing them out one by one. e.g. I have 17 instances of 5'10", 20 of 5'11", 4 of 6'.

@@ -1,0 +1,1 @@
+In every interview I have been in, I have been quizzed on mathematical analysis of complexity, including big-O notation. My question is, how relevant is this test to development in industry? How often do you reeeally use it, and how necessary is it to have a honed mindset for the problem?

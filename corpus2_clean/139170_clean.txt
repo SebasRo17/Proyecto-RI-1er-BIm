@@ -1,0 +1,1 @@
+wondering computer operate exclusively boolean operation example add sub mult div instruction set although could emulated appropriate boolean rather cpu would work comparing num bit time instruction like xor realize modern computer would operate like historical computer instruction set something like

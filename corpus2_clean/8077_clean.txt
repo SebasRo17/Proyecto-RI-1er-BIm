@@ -1,1 +1,0 @@
-given square matrix possible calculate characteristic polynomial modulo n unfortunately function characteristicpolynomial modulus option many function

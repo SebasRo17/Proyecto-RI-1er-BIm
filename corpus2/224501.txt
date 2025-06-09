@@ -1,0 +1,1 @@
+Reference to a literal is possible only if the reference is declared as constant. But why is a pointer to a const object not possible in case of literals? i.e.               int const& ref = 5;//      But why is the same feature not available for a pointer, pointing to a constant object?

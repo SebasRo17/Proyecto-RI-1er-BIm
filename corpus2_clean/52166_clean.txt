@@ -1,1 +1,0 @@
-way force adjacencygraph hide single unconnected self connected element adjacencygraph enter image description

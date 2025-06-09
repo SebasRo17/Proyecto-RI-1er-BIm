@@ -1,1 +1,0 @@
-following equation frac pi b sin left c right frac pi b sin left c right want solve equation cubic give answer potentially imaginary part answer know physical meaning parameter parameter b c positive real question use solve equation make sure imaginary part popping solution used suggestion chris tried solve b sin c b sin c real still see imath sqrt term answer still appear

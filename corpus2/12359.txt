@@ -1,0 +1,1 @@
+I am editing some c++ and all of the built in types have been wrapped in a corresponding wrapper class. All of the operators have been overloaded to do bizarre things like operator[] coded to ignore the argument or to exactly what the underlying type would do. Is this malevolent or is there some possibility this is a good idea in some other universe.

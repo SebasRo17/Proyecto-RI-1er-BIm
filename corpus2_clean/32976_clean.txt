@@ -1,1 +1,0 @@
-way raise system wide keypress event programmatically within mathematica say ctrl c ctrl v program recognize attempt gain simple control automation program within mathematica environment

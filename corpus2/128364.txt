@@ -1,0 +1,1 @@
+So In my app, I have a bunch of images. And in order to keep the app size down, I could store those images on my serve, and just download and cache them as needed. But my question is, will that hurt user experience? Is it likely an iOS user won't have internet access while using my app?

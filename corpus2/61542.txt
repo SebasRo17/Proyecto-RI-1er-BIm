@@ -1,0 +1,1 @@
+What are the things we need to take care for a web application to handle large number of requests(say 10000 simultaneous requests). Increasing the number of servers and distributing the load is one way , but are there other ways or configurations that can be done on application server ?

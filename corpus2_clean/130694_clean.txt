@@ -1,0 +1,1 @@
+going wpf concept came across routed event dependency property attached event concept behind called instead net ordinary method

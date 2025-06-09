@@ -1,0 +1,1 @@
+Does anyone here use dbdeploy (phing) in a commands? If so - how do you manage the migrations? Let's suppose we have 2 different features developed in different branches of mercurial repository (phing build file and dbdeploy migrations are stored in mercurial). Which IDs to give to each feature changes?

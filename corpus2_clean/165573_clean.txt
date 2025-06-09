@@ -1,0 +1,1 @@
+indie developer working multiple android project problem maintaining functionality different project example three apps use num class since different project need make change class need make three time simple solution kind common problem

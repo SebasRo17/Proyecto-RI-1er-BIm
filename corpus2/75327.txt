@@ -1,0 +1,1 @@
+I've heard a lot of buzz about the Iron languages.. I mostly write line of business applications in c# and I'm not really enjoying c# these days. Is IronRuby mature and fast enough to be used in silverlight right now? As in am I gonna get a call in the middle of the night from an angry customer cause the silverlight app they depend on is buggy / grindingly slow?

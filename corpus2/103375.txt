@@ -1,0 +1,1 @@
+I have a couple of Python modules that are meant to be run as scripts. How should I write the docstrings at the module and function level to make it clear how to run and use the module?

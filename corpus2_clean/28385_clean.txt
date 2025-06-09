@@ -1,1 +1,0 @@
-playing around trying determine get graphic object use standardform font want ax labelling titling legend inserted text etc graphic use standardform forever always unless explicitly overridden getting somewhat overwhelmed option option inspector anyone suggestion would appreciate

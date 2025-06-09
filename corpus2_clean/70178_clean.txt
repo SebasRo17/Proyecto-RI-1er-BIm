@@ -1,0 +1,1 @@
+chrome developer tool adequate substitute firebug learning develop simple web apps using django book recommends installing firefox firebug used chrome wanted know need switch chrome developer tool contain essential functionality firebug

@@ -1,1 +1,0 @@
-find point line segment joining whose coordinate positive integer

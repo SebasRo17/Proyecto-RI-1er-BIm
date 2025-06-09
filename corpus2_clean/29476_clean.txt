@@ -1,1 +1,0 @@
-question mathematica similarityrules defining e g sequencealignment function help centre clearly stand similarityrules b giving score pair identical element score mismatch deletion insertion ok get want give different score mismatch different indeles tried similarityrules b b many combination position seem help suggestion typo rather silly idea define like

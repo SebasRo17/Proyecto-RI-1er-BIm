@@ -1,1 +1,0 @@
-How to get the list of notebooks that are automatically opened when Mathematica starts programmatically? I know a tedious approach is opening option inspector and finding and copying the list out.

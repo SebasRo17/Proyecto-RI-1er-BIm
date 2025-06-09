@@ -1,0 +1,1 @@
+I understand the benefits of test driven development, but have there been any studies that reveal the level of satisfaction with the product or stress levels of the authoring developers with the introduction of unit testing? I'm looking for case studies, or preferably research papers.

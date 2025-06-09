@@ -1,0 +1,1 @@
+With some googling, I could easily find some documents in compiler design in C, Java, and C# and even in Haskell, but not in Lisp except implementing Scheme/Lisp in Lisp. Is Lisp not so popular in implementing other (not functional) programming languages? Do you know of some good documentation about implementing a compiler in LISP?

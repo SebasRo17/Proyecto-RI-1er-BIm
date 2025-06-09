@@ -1,1 +1,0 @@
-trouble make mathematica evaluate integral without specifying value limit integration mean write integrate x x x x mathematica return correct answer frac x x write something like integrate x x x x x mathematica keep evaluation forever something avoid behaviour

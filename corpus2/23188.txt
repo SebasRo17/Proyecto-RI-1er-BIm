@@ -1,1 +1,0 @@
-I've tried to make some research, but without any luck. How do I setup the Euler equation for this in Mathematica?: $ \text{Min} \int_0^1\left(2x^2+ \left(4t-5 e^{r \, t} \right) x \, \dot{x} + 12e^{r \, t} \,\dot{x}^2 \right) dt,\; \; \text{for} \; x(0)=1, \; \text{and} \; x(1)=e^{\frac{1}{6}}$ Thanks a lot guys, and happy friday.

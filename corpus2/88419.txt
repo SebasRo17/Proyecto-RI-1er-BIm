@@ -1,0 +1,1 @@
+One problem I have with compiler optimization is, that I actually never know what the compiler (or in this particular case the Jit) does with my code. So is there any possibility for me to know whether a particular compiler optimization took place or not? I just want to be sure about that some objects (math vectors) are created on the stack and not on the heap.

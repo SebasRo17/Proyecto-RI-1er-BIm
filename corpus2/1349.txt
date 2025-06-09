@@ -1,1 +1,0 @@
-Can you set the speed at which a `Manipulate` plays when the play button is clicked?

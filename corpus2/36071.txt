@@ -1,0 +1,1 @@
+Java developers use Javadoc in order to write inline documentation in their comments. What are the alternatives for .net - specifically c# and VB.net that people actually use in real world projects?

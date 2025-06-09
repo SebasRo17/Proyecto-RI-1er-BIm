@@ -1,0 +1,1 @@
+When I have a function that might, or might not receive a certain parameter, is it better to overload the function, or to add optional args? If each one has it's ups and downs - when would I use each?

@@ -1,1 +1,0 @@
-I have a list which looks like this: `data={{12,0},{0,0},{20,1},{0,0}, {0,-1}}`. Now I would like to count the number of sublists which:   * have both slots zero   * the first slot zero and the second not   * the second slot zero and the first not   * the first slot < 10 and any the second zero

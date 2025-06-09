@@ -1,0 +1,1 @@
+application generates text file need synced remote server may window linux sync happen without user intervention tried rsync window come rsync default also possible supply password command rsync currently going ftp seems like inefficient way way rsync without user intervention way sync remote server programmatically app nodejs

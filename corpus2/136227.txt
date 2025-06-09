@@ -1,0 +1,1 @@
+For the sprint backlog, I read that the stories are broken into tasks, and estimated. Are these estimates typically development hours only, or development + QA? What are these hours typically consisting of? Thanks.

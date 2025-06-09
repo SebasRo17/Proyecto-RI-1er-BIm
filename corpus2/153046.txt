@@ -1,0 +1,1 @@
+I found that sometimes the script don't run properly when I add script tag in the head section. But when I add script right before the ending tag of body it works fine. What is the difference between adding script in head tag   **OR**   on just before ending body tag   **OR**   right after the control? I found this issue very often when I use JQuery..

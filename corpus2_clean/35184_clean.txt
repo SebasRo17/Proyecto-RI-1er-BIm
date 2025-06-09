@@ -1,1 +1,0 @@
-calculation expr c giso xiso give result k x k x z also two expression fx k rho x k x z ff rho k x z pretty obviously expr fx ff get mathematica make substitution

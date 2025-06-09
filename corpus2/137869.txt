@@ -1,0 +1,1 @@
+I can't remember what site I glanced over and picked up that tidbit, but someone suggested that you should keep PHP parsing to .PHP files, and not modify one's webserver's htaccess to include PHP parsing within .HTML files. Is this true? Is there any generally agreed upon reason as to doing it one way or the other?

@@ -1,1 +1,0 @@
-able plot plot grayscale image using listplot plot surface image pixel intensity would like plot pixel value certain value specific case working want remove pixel value zero still plot pixel zero original position anyone know

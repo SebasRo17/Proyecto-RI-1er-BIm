@@ -1,0 +1,1 @@
+understand help instantiate one time try learn design singleton want know better understand kernel try following like know way come private constructor public singleton private static singleton instance private singleton public static synchronized singleton getinstance instance instance new singleton instance

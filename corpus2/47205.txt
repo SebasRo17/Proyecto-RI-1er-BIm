@@ -1,1 +1,0 @@
-What is the inside of the Mathematica command, solve, for a system of equations like the following? $$\eqalign{ (x +2\phantom{3} z)^2 + (y +\phantom{3} w)^2 &= 52\cr (x + 30z)^2 + (y + 3w)^2 &= 296\cr }$$

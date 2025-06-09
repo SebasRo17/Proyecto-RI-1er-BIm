@@ -1,0 +1,1 @@
+new web application developed web application using asp net hearing jquery going example changed existing application used jquery ajax work server side used html handler db connection processing using jquery concern script visible user application security issue following right path

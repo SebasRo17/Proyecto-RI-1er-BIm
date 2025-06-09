@@ -1,1 +1,0 @@
-plot vector function r j k j k unit vector parameter function r

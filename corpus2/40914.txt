@@ -1,1 +1,0 @@
-My question is very basic, When using the Differentiate functionality of Mathematica in this way:               D[0.5 x^2, x]      This results in:               1.x      I don't need the 1. but how can I tell mathematica to remove this? It works further along in my code and gives me results like:               {{1. m, 0, 0}, {0, 1. m, 0}, {0, 0, 1. Jcm}}      Any ideas?

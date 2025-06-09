@@ -1,0 +1,1 @@
+er diagram rail application begin entity called news model know problem future new part would right way call model since right thing would table news best thing working news time creating model activerecord ruby rail thanks

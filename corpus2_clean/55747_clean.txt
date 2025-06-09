@@ -1,1 +1,0 @@
-obtain n th approximation following operator form integral equation f int tds b f bigg begin matrix co end matrix bigg b bigg begin matrix e e end matrix bigg

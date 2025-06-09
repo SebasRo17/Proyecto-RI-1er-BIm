@@ -1,1 +1,0 @@
-playing around solution question found strange behaviour matchq composition optionq false matchq optionq true composition optionq true wrong first pattern find bug

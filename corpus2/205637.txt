@@ -1,0 +1,1 @@
+I am looking at configuration management and the idea of form, fit and function change can determine whether a change is minor or major. I wondered how this definition could be applied when doing software development. Is there a good guideline on whether a change to software is classed as a major or a minor change?

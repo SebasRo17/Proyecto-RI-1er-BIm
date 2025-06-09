@@ -1,1 +1,0 @@
-I start off with `m = 1000 x 5` matrix, and I would like to remove first column to get `1000 x 4` matrix and repeat again for `1000 x 3` and so on. Is there an efficient way to do this? I see Insert to add columns or rows but don't see command for removing? I see maybe use the extract but is this only for a single vector extraction?

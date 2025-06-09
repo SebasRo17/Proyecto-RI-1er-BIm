@@ -1,1 +1,0 @@
-got list manipulation optimization problem consider two dimensional nxm list list three dimensional nxmxm list list faster way taking following product table list list list length know table operator notoriously slow seems like might built list manipulation operator accomplish thing something similar

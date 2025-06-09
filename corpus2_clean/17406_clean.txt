@@ -1,1 +1,0 @@
-data file solution laplace equation rectangular area three column x z numerical value plot data vector field vector z direction magnitude third column import data table give list list e x z make unsuitable use listvectorplot cheer edit would like use imported data interpret vector field calculate rotation

@@ -1,0 +1,1 @@
+I have heard some say it isn't but they never suggest an alternative. Is this true? **UPDATE** Is it possible to store this external from application and have it called?

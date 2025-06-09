@@ -1,0 +1,1 @@
+Is there a command line tool (preferred) that'll generate a report of Java methods within a class and where they are used within a few project folders. Kind of how Netbeans does a "Find Usage" on open projects but as an automated approach. I have a utility class that contains lots of static methods, but I have no idea which ones are dead code [ignoring test case usages]

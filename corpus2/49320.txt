@@ -1,1 +1,0 @@
-Consider a list such as `s={1,2,3,3,5,6,3}` With `IntegerQ[number]` , you know if `number` is an `Integer`, the result is `True`, and if not, the result is `False`. But... How to do this without visiting each element with a `Do[...,{i,1,Length[.]}]`?

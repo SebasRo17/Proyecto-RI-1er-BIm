@@ -1,1 +1,0 @@
-Zeta[-13] == Zeta[-1] == -1/12        Why do these two different zetas produce the same value?

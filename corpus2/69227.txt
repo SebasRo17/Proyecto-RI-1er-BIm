@@ -1,0 +1,1 @@
+I'm currently learning C++ from Stroustrup. At the same time I'm practicing C++ by doing some little projects (Project Euler, a bit of SDL with Tetris, etc). But I have a tough time balancing. What should be a good balance, fifty-fifty? A bit more theory, a bit less practice?

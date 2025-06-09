@@ -1,1 +1,0 @@
-teach intro mathematica course one thing try reinforce early helpful mathematica help first lab course even give student randomly selected command among simple one like primeq integerdigits etc ask tell command right get question right correctly explain given command like make sure actually going help way capture f key press within eventhandler something similar

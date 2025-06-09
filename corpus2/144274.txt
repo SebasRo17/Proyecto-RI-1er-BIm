@@ -1,0 +1,1 @@
+What's the difference between these?   * Recursion   * Corecursion On Wikipedia, there is little information and no clear code explaining these terms. What are some very simple examples explaining these terms? How is corecursion the dual of recursion? Are there any classic corecusive algorithms?

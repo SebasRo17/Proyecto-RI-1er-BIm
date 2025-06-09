@@ -1,1 +1,0 @@
-Is there a way to set the `HOME` and `END` keys on a Mac's keyboard to jump the cursor to the line's beginning and end respectively? I tried to apply a global solution, as suggested for example here, but this didn't help. Is there a way to do it internally in mathematica?

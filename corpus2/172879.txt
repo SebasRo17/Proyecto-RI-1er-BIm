@@ -1,0 +1,1 @@
+Where it is accepted that a language has to be Turing complete to be any good, is it actually possible to have a 'useful' programming language that isn't Turing complete? I should clarify that this is quite specifically about 'programming' languages in the traditional sense, and not markup or query languages.

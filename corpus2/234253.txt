@@ -1,0 +1,1 @@
+What makes CPU cache memory so much faster than main memory? I can see some benefit in a tiered cache system. It makes sense that a smaller cache is faster to search. But there must be more to it.

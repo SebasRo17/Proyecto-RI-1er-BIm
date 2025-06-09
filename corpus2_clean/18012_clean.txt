@@ -1,1 +1,0 @@
-created following plot using mathematica mathematica plot defining function msp h b c piecewise c b h h h h b c mex h b c piecewise c b exp h h mga h b c piecewise c b exp h h plot show plot msp x mex x mga x x plotrange imagesize would like mark axis x axis using curly brace like done e x example possible mathematica

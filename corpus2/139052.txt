@@ -1,0 +1,1 @@
+So I ran into a `Dictionary<int, int>` today at work. This just seemed weird to me because I would have probably just used a `List<int>` instead. Is there a difference and would there be a use case where one structure would be preferred over the other?

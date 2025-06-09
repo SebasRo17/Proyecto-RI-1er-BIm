@@ -1,0 +1,1 @@
+told multiple button page purpose targeting different item e g delete item grid item say recommended register click handler top element like body check clicked instead hooking click every delete button whats benefit creating handler cause problem optimization sort pattern anything performance read

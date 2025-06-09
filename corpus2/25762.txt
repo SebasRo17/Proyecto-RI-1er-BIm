@@ -1,0 +1,1 @@
+Learning programming for the first time may be boring, especially reading a book with boring examples. **Is there other way to learn non-programmers programming?** For example involve them in a simple game project that is fun.

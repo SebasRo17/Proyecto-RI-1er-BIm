@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  How to grasp functional programming concepts? I'm looking for some resources on functional programming subject. It seems to be a paradigm which is gaining visibility and I wanna know a bit more of it. What are the books/ebooks/articles do you recommend? **Note:** I'm not necessarily looking for a specific language, but for the paradigm itself.

@@ -1,1 +1,0 @@
-mathematica implement binary search find ternary search find local min max nearly tell binarysearch method findroot ternarysearch method findmaximum realize numerical symbolic method surprised mathematica implement even ran case binary search would worked findroot would easy implement mathematica believe already included

@@ -1,0 +1,1 @@
+I'm a newbie programmer and I've been reading Michael Hartl's Ruby on Rails 3 Tutorial. I'm enjoying the book very much. It's easy to follow and doesn't assume I know much. I'd also like to learn to code iOS apps (both iPhone and iPad) and would appreciate any recommendations on books or courses that could help me to do so. Thanks in advance for the assistance! Eddie

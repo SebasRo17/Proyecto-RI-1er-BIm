@@ -1,1 +1,0 @@
-documentation graphicsgrid say default graphicsgrid display graphic specified size rescale plot even set imagesize option example graphicsgrid table plot sin x x imagesize give scaled plot regarding set image size enter image description rescale plot enter image description graphicsgrid rescale plot

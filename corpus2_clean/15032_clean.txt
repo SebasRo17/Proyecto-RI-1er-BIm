@@ -1,1 +1,0 @@
-inspired question list p b q c p q binary operator plus time would construct expression p b q c execute obviously solution proposed question constructing via string straightforward approach would like know infix formulation doable without resorting string manipulation

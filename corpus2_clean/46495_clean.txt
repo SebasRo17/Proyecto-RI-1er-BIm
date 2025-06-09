@@ -1,1 +1,0 @@
-following code module n p regionplot n x x n p p x x n n framelabel x plotstyle directive yellow opacity give yellow region lh figure enter image description question want revert axis regionplot axis look like rh figure position shape region change accordingly would first step make ternary regionplot

@@ -1,0 +1,1 @@
+goal make io app using phonegap writing phonegap plugins interact native objective c would possible instead make interact using

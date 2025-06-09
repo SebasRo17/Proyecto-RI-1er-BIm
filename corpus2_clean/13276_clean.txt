@@ -1,1 +1,0 @@
-giving cell simple option cellopen false hidden view inline cell cell within cell work option visible false seems exist notebook cell

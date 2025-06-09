@@ -1,0 +1,1 @@
+usercontrol cannot dragged dropped onto winform instead must compile assembly add toolbox drag onto form toolbox approach test control tweak repeatedly quite cumbersome right plan simply toolbox item pointing bin assembly repeatedly built imagine come set problem good strategy testing usercontrols

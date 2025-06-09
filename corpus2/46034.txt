@@ -1,1 +1,0 @@
-Using mathematica, what are the formula's/methods available to convert the following per hour intervals into meters per second (using meters/s from light speed):   * Kilometer   * Mile (US)   * Mile (Nautical)   * Feet The result should be decimal form of each interval with no E+/- in the float section.

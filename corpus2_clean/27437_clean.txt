@@ -1,1 +1,0 @@
-input matchq x sf b sf c plus time x sf b time sf c get true expected change matchq x sf b sf c plus time sf time sf ought general return false happen think evaluate plus return pattern like time sf make stop goal match pattern expression like x sf b sf c z sf e f fix

@@ -1,1 +1,0 @@
-pane style text bold fontcolor darker gray background red alignment center center mathematica graphic let pane rounded corner

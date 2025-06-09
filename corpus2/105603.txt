@@ -1,0 +1,1 @@
+Does Microsoft require third party .NET applications to meet any minimum standards for things like application security or code quality?

@@ -1,1 +1,0 @@
-I have google chrome on ubuntu 13.04. Every time I try to run a CDF on wolframs website, I'm required to download the CDF first, and then open it in my computer, but when I was using windows it was ready to use on the browser itself, any ideas on how to fix it? Is it a better topic for the ubuntu stackexchange?

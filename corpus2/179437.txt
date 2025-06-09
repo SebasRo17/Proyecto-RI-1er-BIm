@@ -1,0 +1,1 @@
+What is it? I was reading Effective STL and came across it. I have also Googled it, but couldn't get any helpful info.

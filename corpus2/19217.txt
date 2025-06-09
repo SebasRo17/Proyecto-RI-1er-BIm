@@ -1,1 +1,0 @@
-I have an equation I want to solve, so I entered the following into _Mathematica_.               (x^(17/6))/(a^(17/6)) - (x^2)/a -1 == 0      where I assume $a>>1$ and $x$ is the unknown. How do I compute the dependence of $x$ on $a$ as $a \rightarrow \infty$.

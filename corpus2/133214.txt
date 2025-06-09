@@ -1,0 +1,1 @@
+I'm new to programming, and I'm working in C. I know that this is structured programming but if I use blocks, say for local variables:               {      int i;      for(i=0; i<25; i++){        printf("testing...\n");        }     }      Doesnt this make it kind of object oriented-like? Is this still structured?

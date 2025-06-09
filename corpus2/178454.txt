@@ -1,0 +1,1 @@
+I understand the difference between the two architectures is the separation of instructions from data in the Harvard architecture. But how do I know which type of system I'm on? Is it possible to write a program such that the program determines whether the system is von Neumann or Harvard? Could there be another architecture or are these architectures the only ones known?

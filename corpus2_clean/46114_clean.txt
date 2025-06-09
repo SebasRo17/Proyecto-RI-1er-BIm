@@ -1,1 +1,0 @@
-need prove limit without using l hopital rule lim x frac x b x x frac b mathematica

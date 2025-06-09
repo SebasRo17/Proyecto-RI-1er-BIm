@@ -1,1 +1,1 @@
-need apply computation moving window n item time series struggling recursion shifting considered window illustrate please consider simple function myfunction state append state randominteger initialstate randominteger state myfunction initialstate state myfunction state reality time series analysis predicting based want predict based predicted iteration predicting based first prediction
+curious know become good technical architect thing make developer good architect please share insight article

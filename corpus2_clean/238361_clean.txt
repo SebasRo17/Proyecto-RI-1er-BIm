@@ -1,0 +1,1 @@
+developing application based two technology asp net sharepoint javascript use server side retrieve database manipulate whereas use client side build front end using json format problem architecture asp net strong whereas javascript less jump front end back vice versa model client side

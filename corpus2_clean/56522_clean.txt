@@ -1,0 +1,1 @@
+building simple web app database delete functionality normally would take following step num user initiate get request using delete link num user confirms deletion num upon confirmation browser initiate post request server perform deletion reason convention understand set confirmation step would prevent automated calling delete spider reason

@@ -1,0 +1,1 @@
+containing list could contain object lot different type e g arraylist linkedlist difference linkedlist arraylist pretty big big behavior method differs greatly example sorting list using binary search perfectly ok arraylist would make sense linkedlist

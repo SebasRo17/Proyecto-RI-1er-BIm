@@ -1,0 +1,1 @@
+All real computer hardware works in parallel. So why most emulators of retro systems (like NES) are single threaded (or I'm not right?)? You have main loop and you counting CPU cycles and after certain cycles activating other hardware like PPU. Same thing applies to IBM PC and (MDA/CGA/VGA) emulation ? Thanks

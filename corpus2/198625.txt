@@ -1,0 +1,1 @@
+I am working on a software project in my college. And I want to make it open source. But I want that people to only contribute to the project. I don't want that they should also release a project using my source with some modifications. So what will be the best Licence to use with my project ?

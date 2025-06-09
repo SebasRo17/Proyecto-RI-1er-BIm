@@ -1,0 +1,1 @@
+I am developing an iphone app and working through some sample code I saw, which uses libz.dylib. I did some research and found nothing enlightening, other than libz.dylib could be used for zip files, but other frameworks are prefered... I'm dealing with a pdf sample, so why use libz.dylib? In general, what are dylib? And why all the versions?

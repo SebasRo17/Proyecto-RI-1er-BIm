@@ -1,0 +1,1 @@
+I know that most of you would advice to go with the strategy and methodology of the project. However I just have a quick question, from Senior point of view, what would be better to see quick small commits from a developer, or large chunk of code pushed to the branch?

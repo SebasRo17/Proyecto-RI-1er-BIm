@@ -1,0 +1,1 @@
+TDD gurus more and more tell us that TDD is not about tests, it is about design. So I know some developers who create really great design without TDD. Should they practice TDD then?

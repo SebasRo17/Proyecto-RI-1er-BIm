@@ -1,1 +1,0 @@
-trying make code work iterating piecewise linear map unit interval mathematica compare matlab maple tent logistic map easy implement bernoulli non traditional map difficult least wish investigate histogram invariant density map iteration non periodic orbit

@@ -1,0 +1,1 @@
+To get off my noob status i am following the Learn python the hard way course. I really like it but at one point it says make a bin directory. In all games and other programs i saw to a bin directory but what does it do?

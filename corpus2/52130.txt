@@ -1,1 +1,0 @@
-Let               x= 0.0000000000000000036;          y = 1 - x      If i type this in Mathematica the answer of `y` is 1. I want the answer to be as it is 0.9999999999999999964

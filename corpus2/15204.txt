@@ -1,1 +1,0 @@
-I'm trying to label a 2D plot with something like $A/B$ rather than $\frac{A}{B}$. I have tried: `Plot[Sin[x], {x, 0, 10}, AxesLabel -> {HoldForm[A/B], y}]` However, this leaves the $x$-axis as $\frac{A}{B}$. Any ideas?

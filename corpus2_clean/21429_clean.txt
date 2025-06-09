@@ -1,1 +1,0 @@
-possible use widget created manipulate within guirunmodal intend run file using mathematicascript script filename

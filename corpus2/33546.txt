@@ -1,1 +1,0 @@
-I got the follwing code which should add a '1' 100 times to an empty list.               plotVals = {}     Do[Append[plotVals, 1], {l, 1, Nmax}];      The output is again an empty list, why is this the case?

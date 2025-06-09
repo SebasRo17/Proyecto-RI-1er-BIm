@@ -1,0 +1,1 @@
+I'm looking for a chart like this: ![alt text](http://i.stack.imgur.com/MmRTg.jpg) Basically something that tells you whether an app with a given license can be linked with a library of a given license. Does such a thing exist?

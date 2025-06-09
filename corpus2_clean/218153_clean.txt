@@ -1,0 +1,1 @@
+declare header file example extern unsigned long ptr pointer ptr linker file constant change

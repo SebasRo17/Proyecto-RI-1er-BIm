@@ -1,1 +1,0 @@
-sure wrong boundary condition problem ndsolve u x x x u x u x diracdelta x u u x u u x error message ndsolve ivone boundary value may specified one independent variable initial value may specified one value independent variable

@@ -1,0 +1,1 @@
+question design oriented question specific question new php planning use pdo access layer say instance called city need create instance best technique singleton db access used write read db layer delegate individual example invoke city save city city handle saving city database excuse ignorance background therefore trying understand best design principle management using php

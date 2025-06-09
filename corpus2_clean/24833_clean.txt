@@ -1,1 +1,0 @@
-imported cropped image testpicture import filepath jpg testpicturecropped imagecrop testpicture min imagedimensions testpicture specify coordinate image return color nearest pixel coordinate thanks help

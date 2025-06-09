@@ -1,0 +1,1 @@
+I'm a web developer interested in learning network. I work on Windows platform. Many of my friends and colleagures believe that to learn netwrok, I should become familiar with Linux platform. Should I? I mean, can't I learn network and it's concepts thoroughly on Windows Server platform?

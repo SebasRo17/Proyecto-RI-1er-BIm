@@ -1,0 +1,1 @@
+As images have EXIF data which provide info about where and how they are created, do any Text Editors append such kind of descriptive details to code files? For example I use Coda for my programming works. Does Coda sign any files created by itself? Is it possible to find out the author of two different projects by just looking at the inners of the files?

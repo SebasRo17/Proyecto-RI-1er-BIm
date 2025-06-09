@@ -1,0 +1,1 @@
+Projects that increase online anonymity, such as Tor and bitcoin, allow personal freedom from government oppression but also allow crimes to go unpunished. As a developer, should I contribute to such projects? Is there a way to enforce that those technologies will not be used for money laundering and child pornography?

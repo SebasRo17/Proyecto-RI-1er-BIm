@@ -1,1 +1,0 @@
-could create two input cell first evaluated content first copied second example would two empty cell let call b user enters f x x nothing happens user evaluates cell content cell b updated f x x similar question need low level thing also want automatic refreshing cell evaluated

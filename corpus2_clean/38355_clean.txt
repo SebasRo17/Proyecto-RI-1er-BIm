@@ -1,1 +1,0 @@
-need help figuring plot cylindrical coordinate read cylindricalplot replaced revolutionplot function integrate r co r z r try revolutionplot get revolutionplot r co r z r revolutionplot nonopt option expected instead z r beyond position revolutionplot r co r z r option must rule list rule

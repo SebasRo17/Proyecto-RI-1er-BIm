@@ -1,1 +1,0 @@
-part calculation need something like evaluate aaa bbb ccc index index stored variable aaa evaluate work aaa list variable tried various option hold etc manage solve

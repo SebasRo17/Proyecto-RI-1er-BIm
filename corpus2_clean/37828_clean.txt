@@ -1,1 +1,0 @@
-want draw set convex polyhedron whose vertex defined spherical coordinate surface unit sphere accomplish mathematica seems cannot polyhedrondata even though polyhedron want draw symmetric quite simple even cannot draw hexagonal dipyramid dipyramid work dipyramid also tryed use polygon leaf number face filled

@@ -1,0 +1,1 @@
+And then to automatically re-indent after that? (I tried copying code from one terminal screen to the other, but the tabulation got all messed up) I didn't know what to call this functionality, so it was hard for me to find it on google (which generally returned things related to how to set tab size, which wasn't what I was looking for unfortunately.) Thanks

@@ -1,0 +1,1 @@
+handle multiple instance single instance single constructor call elaborate handler two method let say json getuserinfo json assuming many user accessing method multiple instance method handler initialized e multiple object permitted rather multiple instance allowed ideal solution enabling concurrent call without corrupting executing

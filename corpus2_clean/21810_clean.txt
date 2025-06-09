@@ -1,1 +1,0 @@
-know epilog called mathematica exited callback upon exiting notebook

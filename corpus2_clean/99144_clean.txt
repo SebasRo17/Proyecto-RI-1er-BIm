@@ -1,0 +1,1 @@
+one unit testing multiple environment behave differently problem php like create unit test provides shortcut manipulating folder linux set folder permission without problem window knowing best practice creating unit test test suite could either window linux test folder setting window test fail live failing test make conditional o omit testing altogether something else

@@ -1,1 +1,0 @@
-Suppose I'm stopped at a breakpoint in Workbench, say at one of the `y = ...` lines in:               foo[a_] := Block[{y},          If[Sin[a] > 0,             y = -1,             y = 1             ]         ]      How can I find out what `Sin[a]` is? Or more generally do some other evaluation using the current state of my program?

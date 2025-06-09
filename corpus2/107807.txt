@@ -1,0 +1,1 @@
+I have been asked to put down the architecture and features of our Java application (more from infrastructure/software point of view). It will go on a Powerpoint presentation, so I need to provide the list. Please let me know how do I go about this.

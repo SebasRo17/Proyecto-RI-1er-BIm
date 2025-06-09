@@ -1,0 +1,1 @@
+given rectangular board height h width w n color given color occupies xi percentage area board sum xi num color board must placed rectangle optimal solution rectangle aspect ratio close num possible ideal case board filled square best algorithm laying rectangle

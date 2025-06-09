@@ -1,0 +1,1 @@
+move library inside project source tree compiling static binary want use particular tool utilizes ancient binary without upgrading api usage way use old library inside single binary without wrecking local host environment nix netbeans eclipse block problem reading looking starting point thought

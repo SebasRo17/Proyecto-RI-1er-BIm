@@ -1,0 +1,1 @@
+hashing algorithm best uniqueness speed example good us include hash dictionary know thing like sha num algorithm designed secure usually mean slower algorithm less unique want hash algorithm designed fast yet remain fairly unique avoid collision

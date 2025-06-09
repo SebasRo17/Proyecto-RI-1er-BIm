@@ -1,0 +1,1 @@
+What would be a good use case to use a native XML database such as Apache Xindice and eXist-db? I have used XML features of SQL Server in the past and they were of great value, but there it is possible to use XML for 5% and traditonal storage for 95% of the application. Which application types would benefit from a 100% XML storage?

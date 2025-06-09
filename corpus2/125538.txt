@@ -1,0 +1,1 @@
+I'm interested in knowing whether it is advisable for computer science students to spend their major chunk of time on the online judges practising programming(like Topcoder and codeforces) or it's more worth to develop a software or contribute to open-source ?

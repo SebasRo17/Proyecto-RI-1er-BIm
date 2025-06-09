@@ -1,1 +1,0 @@
-mathematica typing input alias intt would result keyboard cursor automatically positioned within first selectionplaceholder ready type inside however mathematica type keyboard cursor placed side selection placeholder anyone else experiencing mma go creating placeholder type alias keyboard cursor already positioned within first box

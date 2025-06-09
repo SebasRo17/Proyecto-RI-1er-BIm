@@ -1,0 +1,1 @@
+pushing new sparkle release internal apps pain make build make release note file sign zip private key add new entry file tying everything together love jenkins could help use commit message release note automatically rest looking writing new jenkins plugin using shell scripting something already want quick google find anything

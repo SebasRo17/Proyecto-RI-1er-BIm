@@ -1,1 +1,0 @@
-I have created a new stylesheet but now I'd like to delete a style type, for example "program" from it. How can I do it ?

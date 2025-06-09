@@ -1,0 +1,1 @@
+database table num column id question answer front end php application show question user application would compare user answer database using php loosely compare user record database pas correct even though strict match example question structure water molecule answer database oxygen acceptable answer oxygen n oxygen oxygen

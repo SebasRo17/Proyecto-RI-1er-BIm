@@ -1,1 +1,0 @@
-let assume q time matrix det q neq q frac left q q right need find next limit lim infty q word need find q left q q right epsilon anybody know possible find kind limit mathematica

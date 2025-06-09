@@ -1,1 +1,0 @@
-want solve quadratic integer programming problem mathematica first attempt look like minimize x x x x element x integer x output nminimize cvmit failed converge requested accuracy precision within iteration x seems optimal e g x get know integer programming tough think kind problem somehow solvable mathematica probably use wrong command achieve go

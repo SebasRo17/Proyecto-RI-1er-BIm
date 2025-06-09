@@ -1,0 +1,1 @@
+performance test instrumented build tool part build process live completely outside outside deployment pipeline live currently see performance test attached integration testing lifecycle phase fine know seem quite right difficulty finding actual answer attaching running performance test sake question assume environment utilizing jenkins ci maven build tool also assume scrum sdlc

@@ -1,1 +1,0 @@
-read question tried implement given answer yet succeed find proper solution eigenvalue hope someone show case even larger matrix shape mat l w w l l w l w l w l w used fullsimplify eigenvalue mat assumption element l real element w real element w real well sort eigenvalue mat simplify n result eigenvalue written root

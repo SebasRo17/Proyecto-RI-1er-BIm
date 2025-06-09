@@ -1,0 +1,1 @@
+currently developing replication system keep synch arbitrary number server server exist one cluster one lan others exist somewhere else world wondering pro con different path choose flow replicated server word different strategy load balance replication process

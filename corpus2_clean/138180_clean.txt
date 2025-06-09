@@ -1,0 +1,1 @@
+got file ifndef define include memory include endif want file included every header file use stuff header much preferable include via option hpp physically include header include note attempting cross platform minded use cmake serve atleast unix window

@@ -1,1 +1,0 @@
-I'm used to do > ??symbol when I want the reference for a given symbol, then I click on the `>>` arrows to open the help window. Would it be possible to redefine the meaning of `??` in order to open the reference window directly ?

@@ -1,1 +1,0 @@
-mathematica default frame label put label bottom left label left read bottom top would like also put label right frame label also read bottom top make right label read top

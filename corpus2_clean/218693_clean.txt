@@ -1,0 +1,1 @@
+asked put together application ror multiple role user idea user role admin moderator user ect also department well hr customer care ect app designated section department manage basic crud based task app need allow user access department assigned user multiple department user admin one department may user another department whats best way putting something like together

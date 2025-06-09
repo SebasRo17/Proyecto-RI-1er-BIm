@@ -1,0 +1,1 @@
+wcf rest service consumed multiple client information returned client requires know information specific best way approach design authenticate token session pas token along every request thanks

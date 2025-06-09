@@ -1,1 +1,0 @@
-need efficient accurate method evaluate hypergeometric ratio form frac f b c x f b c x large positive value b c however plot plot hypergeometric f regularized rationalize x hypergeometric f regularized rationalize x x see ratio inaccurate mathematica

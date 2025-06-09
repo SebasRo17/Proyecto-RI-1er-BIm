@@ -1,1 +1,1 @@
-frequently generate framed plot like plot sin x x pi frame true enter image description easy way change background color framed region specifying background option change background color entire plot framed region plot sin x x pi frame true background lightgray enter image description also way make figure look like matlab default figure style e white background surrounded gray frame see matlab figure
+sometimes learn lot looking project rather looking around advice good state art project good example learn

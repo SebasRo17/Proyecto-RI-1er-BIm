@@ -1,0 +1,1 @@
+reason one would want num often use dlls force customer install entire net framework would great deploy dlls need num often want update application framework sometimes requires machine reboot application using num full net installation usually take quite bit time xcopy private deployment could much faster seems mono allows private deployment solves issue thanks

@@ -1,0 +1,1 @@
+working annotation entity jpa entity belong model layer persistence layer kind clone entity simple javabeans model layer could decoupled entirely jpa best practice

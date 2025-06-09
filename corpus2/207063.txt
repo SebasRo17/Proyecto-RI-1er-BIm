@@ -1,0 +1,1 @@
+I am a software developer, and have knowledge of oo design, e.g. SOLID, and looking for a good book on object-oriented modeling. Is the book below still good to read? Analysis Patterns: Reusable Object Models Martin Fowler Publication Date: October 19, 1996

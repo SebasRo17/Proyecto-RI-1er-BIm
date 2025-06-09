@@ -1,0 +1,1 @@
+Is there a specific name to this? For me it looks like a view router, or a presenter router (I would name it like that) but maybe there is a better name and explication.

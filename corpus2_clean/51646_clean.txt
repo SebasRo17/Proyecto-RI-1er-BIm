@@ -1,1 +1,0 @@
-simple way use integer type particular table integer type require byte rep bit representation seems integer mathematica bit representation bytecount randominteger using bit representation would save lot memory problem know require large integer memory issue note question applies type

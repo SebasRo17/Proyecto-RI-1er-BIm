@@ -1,0 +1,1 @@
+following previous question wonder exception make sense look like nobody us use exception limitation really need suppose want create file directory exist would probably prefer use exception e throw exception catch create directory resume execution instead testing directory exists every time create file make sense general

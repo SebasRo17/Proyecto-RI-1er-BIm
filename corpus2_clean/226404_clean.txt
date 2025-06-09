@@ -1,0 +1,1 @@
+end implemented deque stl c per knowledge return past end element like begin end whole full suppose size num think end point position begin pointing way go resolve problem

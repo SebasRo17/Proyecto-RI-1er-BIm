@@ -1,0 +1,1 @@
+How do the big price comparison services allow to send emails directly if the price of a product meets your targeted price. They will email you automatically. Is it a cron job that scans a table, or is it something compounded into the database?

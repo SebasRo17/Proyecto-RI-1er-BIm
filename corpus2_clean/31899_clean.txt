@@ -1,1 +1,0 @@
-want find minimum cut two node weighted graph would use findedgecut follows g graph undirectededge undirectededge undirectededge undirectededge edgeweight findedgecut g function however return edge obviously edge weight considered find minimum cut using maximum flow wondering whether error easily fixable maybe see error

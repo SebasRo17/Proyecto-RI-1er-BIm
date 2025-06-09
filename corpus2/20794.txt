@@ -1,1 +1,0 @@
-I'm trying to build the table               {{1, 1}, {1, 2}, {2, 1}, {2, 2}}      given the list               {1, 2}      I can do it like this               Flatten[Table[{x1, x2}, {x1, {1, 2}}, {x2, {1, 2}}], 1]      But how can I do this given a very long list, say {1, 2, 3, ..., 100}? I've searched the documentation on `Nest` and `Fold`, but didn't find a solution.

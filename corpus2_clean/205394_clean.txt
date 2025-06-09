@@ -1,0 +1,1 @@
+dbf file dbase date read directly via php application result format dd mm yyyy stored hex interpret hex get result similar result application alogrithm used get result example app result database hex num num num 3c num num num num 3c num num num num 3d num num num 7c num num num 2c num anybody help

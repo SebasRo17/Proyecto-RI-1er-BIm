@@ -1,0 +1,1 @@
+developing iphone app integrating paypal successfully using paypal library testing sandbox mode transfer money one account account display message send server verification real need store paypal transaction id detail server

@@ -1,0 +1,1 @@
+What does it generally mean when a programmer says his program/application was "coded in .Net"? When I think of .Net I think of C# and Visual Basic. I don't usually think of any other language on this list: http://en.wikipedia.org/wiki/List_of_CLI_languages

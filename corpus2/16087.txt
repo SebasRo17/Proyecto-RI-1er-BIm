@@ -1,1 +1,0 @@
-I was looking for a Mathematica package that can take Lagrangians and calculate Feynman diagrams for any given n-point function. (..like if a software can draw and calculate arbitrary loop corrections to the Fermion correlation function in a theory..) Is FeynRules or FeynCalc capable of such?   If yes how? Which is easier to use? If no, then are there other softwares?

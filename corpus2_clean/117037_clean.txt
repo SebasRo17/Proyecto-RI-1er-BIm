@@ -1,0 +1,1 @@
+question rather matter english language proper commenting want know example following comment write public testclass public double volt get set public double curr get set somewhere else namespace public testclass test public testclass test test new testclass comment

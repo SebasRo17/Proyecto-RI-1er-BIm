@@ -1,1 +1,0 @@
-want numerical integration function using monte carlo method default setting monte carlo method use uniform distribution far know change random number generation gaussian numerical integration

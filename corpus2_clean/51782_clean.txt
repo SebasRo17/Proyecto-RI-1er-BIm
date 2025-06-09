@@ -1,1 +1,0 @@
-trying export set data file force mathematica keep certain width column example export table table export file dat table table fieldseparators alignment right result mathematica automatically determines column width number largest number digit fit export data arbitrary space column get fieldseparators still first column space three digit second one space digit

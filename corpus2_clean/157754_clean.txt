@@ -1,0 +1,1 @@
+asked question interview somehow supposed read file c program without using file pointer including f function e g fgets fscanf etc also allowed redirect using terminal e system exec call program get file runtime said interviewer answer question even though requested lot like know possible

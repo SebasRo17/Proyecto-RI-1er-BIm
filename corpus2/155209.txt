@@ -1,0 +1,1 @@
+At last team meeting I heard from managers that we need to create proof of concept (POC) before main prototype and integrate this concept with the main system for proving a new feature.   1. Could you explain me the main features or this method?   2. Do you use the POC in your projects before implementation?   3. What is the main advantages and disadvantages of this method?

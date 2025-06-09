@@ -1,0 +1,1 @@
+If I wanted to start learning Prolog on Windows, is there any package that would integrate Prolog into Visual Studio 2010? That is, a compiler and templates and so forth for working with Prolog on Windows? Assuming there is no flavor of Prolog targeting the .Net platform, is there a GCC Prolog compiler for Windows?

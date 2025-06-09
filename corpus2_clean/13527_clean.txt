@@ -1,1 +1,0 @@
-densityhistogram command let specify chartelementfunction according documentation argument supplied chartelementfunction bin region xmin xmax ymin ymax bin value list metadata question use bin value list metadata try access get something like system densityhistogramdump thisbinlist

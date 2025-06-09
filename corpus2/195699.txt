@@ -1,0 +1,1 @@
+I would like to know if there is a best practice for creating demo environments that substitutes database interaction into other forms of resource i.e. creating .json files containing the data that was supposedly returned from a webservice call. I wanted to know if there is already a standard way of obtaining the same result. Thanks

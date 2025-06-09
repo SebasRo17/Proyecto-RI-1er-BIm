@@ -1,1 +1,0 @@
-write function two parameter generate combination arbitrary range bit example function n k n range k number digit define n k function return following set order function

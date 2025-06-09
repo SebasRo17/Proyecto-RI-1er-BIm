@@ -1,1 +1,0 @@
-Has anyone had any success with importing an Excel Spreadsheet holding an array formula into Mathematica? The Syntax I'm using is `Import["test.xlsx", {"Sheets", "SheetWithArrayFormula"}]` The error that is returned is: Import::fmterr: Cannot import data as XLSX format. >> EDIT A sample excel file can be found here: http://temp-share.com/show/gFHKQZS0Y

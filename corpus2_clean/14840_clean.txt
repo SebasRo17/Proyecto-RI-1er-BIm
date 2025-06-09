@@ -1,1 +1,0 @@
-problem mathematica graphic inspector want make graph following code graphplot directededges true multiedgestyle true selfloopstyle true mathematica graphic result good looking graph use graphic inspector alter weight edge give error mathematica close anyone else ever experienced another solution achieve graph weighted edge using mathematica version

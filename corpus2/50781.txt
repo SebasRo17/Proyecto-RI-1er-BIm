@@ -1,1 +1,0 @@
-I want to fill region between 2 curves, but in _Mathematica 8.0_ :               FilledListPlot[list1, list2, Fills -> {RGBColor[f, f, f]}]       doesn't work.

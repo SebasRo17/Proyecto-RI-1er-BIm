@@ -1,0 +1,1 @@
+working ocr application need select option based user text ex available option ruby clojure haskell kava ruby ruby clojure etc application based algorithm already exist solve problem

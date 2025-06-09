@@ -1,1 +1,0 @@
-matrix visualization instance matrixplot plotrangepadding colorfunction rainbow matrix color map cover whole color range shown following density plot densityplot x x aspectratio plotrangepadding colorfunction rainbow frame true frameticks none color bar need add density plot color bar using legend solve problem

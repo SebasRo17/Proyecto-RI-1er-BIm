@@ -1,0 +1,1 @@
+Most questions like this only seem to apply for big pieces of software for companies with money. I'm developing a small application targeted at individuals. Informally speaking, I want to sell the application to users, but allow them to fix and modify it(but not redistribute). Practically and legally speaking, how would I do this?

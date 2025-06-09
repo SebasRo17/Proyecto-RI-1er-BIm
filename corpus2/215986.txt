@@ -1,0 +1,1 @@
+I have a table where a User can edit data by simply choose a field, then edit its value. I want to fire an update function to automatically save the data to a MySQL database. However, I think that it would be inefficient to fire that function on literally every change, e.g every single keypress. How long should I wait to save my input?

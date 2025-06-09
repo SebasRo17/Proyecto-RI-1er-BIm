@@ -1,1 +1,0 @@
-would like programmatically insert write expression current insertion point matching current format font size style look like user typed default use notebookwrite notebookapply paste instance change colour text cell press paste button paste text black colour unlike typing text avoid course one could set specific style using paste style exp red unknown style insertion font

@@ -1,0 +1,1 @@
+When creating data-driven web pages, do you generally work on: A) functionality first B) presentation first? C) both at the same time I'm learning how to build css sites and wasn't sure of the best approach. There will be ajax calls and updates but that is pretty easy to implement. Thanks for your time and feedback.

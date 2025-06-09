@@ -1,0 +1,1 @@
+application keep track running thread via hash map way retrieve correct thread action app evolved way new thread created old thread must destroyed concern removing element hash correctly efficient pattern developing share pseudo hashmap already initialized list new list first step stop thread element hashmap element element add element key remove element key remove key thanks

@@ -1,1 +1,0 @@
-I have read the guidelines published by Wolfram (these are restricted: non- numeric input fields, dialog windows, and data import and export) but I have a CDF that seems simple enough and seems to satisfy these constraints but does not work in the browser (gray box is all that displays). This CDF can be found here.

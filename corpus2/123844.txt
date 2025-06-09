@@ -1,0 +1,1 @@
+What thought process should one follow to convert a sequential algorithm to a parallel one ? Are there any specific code pattern that can be parallelized. Some patterns that I normally use are:   * Looking for loops that can parallelized.   * Try to break algo in some form of Map-reduce format.   * Looking for producer-consumer pattern.

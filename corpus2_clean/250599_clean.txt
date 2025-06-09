@@ -1,0 +1,1 @@
+application database configuration table schema table num num num num currently retrieve specific property pas repository argument come current web page address basically hard coded e g var property select myproperty like use hard coded string around idea improve quality use container constant var property select constant myproperty way develop better

@@ -1,1 +1,0 @@
-I would like to plot two 2d functions in a 3d coordinate system. Examples are `z = x^2` and `z = y^2`. Each function has one independent variable, (either `x` or `y`), and a global dependent variable (`z`).

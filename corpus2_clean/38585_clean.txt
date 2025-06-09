@@ -1,1 +1,0 @@
-noticed cannot create variable f since mathematica seems leave space subscript implying f recognised later calculation see create variable f instead without problem way create variable f mathematica thank

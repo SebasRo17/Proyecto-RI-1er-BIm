@@ -1,0 +1,1 @@
+The setting: Multiple development teams, lots of dependencies and constraints. If one team is blocked on developing some code, getting service calls, or moving to a QA environment, what are ways for teams to creatively look for work-arounds to their issues?

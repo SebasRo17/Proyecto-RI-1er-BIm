@@ -1,0 +1,1 @@
+I'm using .Net to build a commercial application, i.e. a secure chat application. This application is using RSA and Rijndael algorithms. Do we need licenses for using RSA and Rijndael algorithms for commercial product?

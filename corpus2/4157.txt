@@ -1,1 +1,0 @@
-I have list with the form `{{a1,b1}->{x1,y1},{a2,b2}->{x1,y2},...}` where the `{ai,bi}`'s can be `{}`. I know the elements of the list can be matched by `{___} -> {_, _}`, but I don't know how to match a list of this form. So how can I match it? **UPDATE** : I meant a pattern test: To test whether a list is in this form

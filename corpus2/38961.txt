@@ -1,1 +1,0 @@
-I alway use vi to edit Fortran files. I can use ctags to know which variables and functions I have already defined. Now I use vi to edit Mathematica *.m files. I tried to use ctags for *.m files, but it does not work. I have searched for the solution in Google but no luck. Could you give me some suggestions?

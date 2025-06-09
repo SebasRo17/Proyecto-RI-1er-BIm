@@ -1,0 +1,1 @@
+I am reading the source code of ObjectListView and there is a Munger class. What is Munger? Does Munger mean anything general in programming jargon? Afaik, the Munger in the source code wraps the methods to do map string to object properties through Reflection (C#). Thanks.

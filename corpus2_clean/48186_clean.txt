@@ -1,1 +1,0 @@
-trying get simple logarithmic tick distribution chart failing unhappy frameticks format try sparing automatic wrong distributionchart log randomreal exponentialdistribution frame true chartstyle lightblue frameticks log log none none none chartelementfunction histogramdensity chartlabels basestyle fontsize fontfamily helvetica

@@ -1,1 +1,1 @@
-I am working with LTSpice (Discret electrical circuit ( Spice) simulator). I would like to import LTSpice ouput data into mathematica for processing and plots. An example of a file can be found here (https://www.dropbox.com/s/ixbp11p6876pz1o/Test_SCOneDiode.raw) Any comments, suggestions and helps are welcome! Thank you in advance
+I thought they were 'the same' but now I realize they are not (two different sites in stackexchange). However I don't know the differences, what does a webmaster do (and don't) and the same for a programmer (or coder or developer?)

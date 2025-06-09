@@ -1,1 +1,0 @@
-it looks like it should be well known issue but I haven't found answer anywhere. Please tell me why the result (after clicking) of this:               Button["X", Print@1; Pause@1; Print@2;]      is different from result of this:               Print@1; Pause@1; Print@2;

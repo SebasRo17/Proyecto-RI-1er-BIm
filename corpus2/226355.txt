@@ -1,0 +1,1 @@
+I heard many people around still saying Perl is great language for CGI. But i think it is not as much as popular as now growing languages such as Python, Ruby. Is there any solid reason for Perl still being the appropriate language for CGI.

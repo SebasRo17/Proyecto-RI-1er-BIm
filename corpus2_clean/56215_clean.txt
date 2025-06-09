@@ -1,0 +1,1 @@
+c cannot definition implementation inside header file however c full implementation inside header file behaviour different

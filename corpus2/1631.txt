@@ -1,1 +1,0 @@
-Using `MouseAppearance` one can change the cursor image when passing over an expression. Is it possible to change the cursor image for the entire notebook front end (not just one expression within it)?

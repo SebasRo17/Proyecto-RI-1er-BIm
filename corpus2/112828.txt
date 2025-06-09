@@ -1,0 +1,1 @@
+Some tools force developers to adopt a version scheme of a certain form, form instance "major.minor.build.revision", where each field must be a number. How do I fit in betas in there? For instance, what version should I choose for version "2.0 beta2"? Should it be of the form "1.99.x.y" (it's not yet 2.0 stable) or "2.0.x.y" (2.0 beta introduces breaking changes with 1.x).

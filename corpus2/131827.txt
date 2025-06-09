@@ -1,0 +1,1 @@
+It's my understanding that expression templates as a technique were discovered significantly prior to the original C++ Standard in 1998. Why weren't they used to improve the performance of several standard classes like `std::string` and streams?

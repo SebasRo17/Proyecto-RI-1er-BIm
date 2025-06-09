@@ -1,1 +1,0 @@
-For example:               pts = {{0, 1}, {-(Sqrt[3]/2), -(1/2)}, {Sqrt[3]/2, -(1/2)}};     trig=JoinedCurve[Line[pts], CurveClosed -> True];      Then `trig` is a closed triangle. If I have a point `p={a,b}`, how can I judge if `p` is in the interior of the triangle `trig`?

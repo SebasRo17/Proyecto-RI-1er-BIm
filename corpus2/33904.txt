@@ -1,1 +1,0 @@
-Let's say I have a $n$x$m$ matrix $M$ in Matlab and I want to substitute the elements of $M$ that exceed $15$ for $-1$. In Matlab I just write               M(M>15)=-1      and I'm done. I have been struggling to do this in Mathematica. Does Mathematica have an equivalent way to do this? Something that is easy to remember and that takes few lines will be appreciated Thank you

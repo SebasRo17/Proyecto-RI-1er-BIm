@@ -1,1 +1,0 @@
-f data ndsolve x x x x co f x x periodogram data scalingfunctions absolute plotrange would create suitable power spectrum frequency system set value top ideally one unique frequency since one play mathematica example power spectrum utilizes periodogram funcition although really understand mathematically room using another type graph

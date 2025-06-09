@@ -1,1 +1,0 @@
-since fitting procedure using nonlinearmodelfit findfit sometimes take long would like monitor sum squared error process seeing afterwards well documented someone know

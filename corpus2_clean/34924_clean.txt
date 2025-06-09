@@ -1,1 +1,0 @@
-trying evaluate lim e frac e int pi frac exp e exp theta exp theta theta mathematica o x however get undefined input limit e integrate exp e exp theta exp theta theta pi e see numerically correct answer pi using code e e nintegrate exp e exp theta exp theta theta pi chop go wrong process possible get correct result

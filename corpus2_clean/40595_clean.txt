@@ -1,1 +1,0 @@
-trying generate random sample point unit square way point inside given circle twice likely selected point outside circle tried approach problem distribution need turn function f x x probability distribution x would use pdf generate point eventually plot main struggle come turning function two variable pdf

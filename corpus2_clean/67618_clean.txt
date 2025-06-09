@@ -1,0 +1,1 @@
+recently reading blog post regarding mvc fit web learned alternative pattern like rmr architecture curious pattern people using web besides mvc also framework implement pattern please post link

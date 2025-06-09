@@ -1,0 +1,1 @@
+What is the easiest way to insert copyright notice in lots of PHP files.   It's not possible to do it manually.

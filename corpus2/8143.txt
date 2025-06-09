@@ -1,1 +1,0 @@
-I have an approximate solution for the function `u[x,t]` using the semi- discretization method in time step. For example, I have `u[x,ti]` for all `x` and some `ti`. I want to plot a 3D figure for this function and I don't know how to plot it.

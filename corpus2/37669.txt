@@ -1,1 +1,0 @@
-Find the sum of series 5+7+9+10+13+13+17+16+....., upto 40 terms? Please help i am facing problem while solving this question.i have tried my best to solve this but unable to find the common difference.?

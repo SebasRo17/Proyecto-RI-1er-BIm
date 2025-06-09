@@ -1,0 +1,1 @@
+looking cross domain request design stumbled upon something puzzle local site firing ajax request another domain jquery vanilla xmlhttprequest sure request fails get fail event seems perfectly normal du origin policy noticed fiddler request actually made succeeds seems process response missing something security hole sure access point allowing sending preventing response access

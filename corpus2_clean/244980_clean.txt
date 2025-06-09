@@ -1,0 +1,1 @@
+list strictly convex element first decrease increase write accepts convex list return minimum time complexity log n n size list use built function list

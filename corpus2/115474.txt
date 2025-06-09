@@ -1,0 +1,1 @@
+Concurrent programming is quite difficult to me: even looking at a basic slide seems challenging to me. It seems so abstract. What are the benefits to knowing Concurrent programming concepts well? Will it help me in regular, sequential programming? I know there is a satisfaction to understanding how our programs work, but what else?

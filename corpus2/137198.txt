@@ -1,0 +1,1 @@
+I'm a beginning developer setting up a project in Xcode 4.3 and I'm wondering under what circumstances I would need to check the "Create local git repository for this project" box. Thank you!

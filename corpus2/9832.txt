@@ -1,1 +1,0 @@
-Why won't               EventHandler["text", {"MouseClicked" :> (output = Input[];)}]      work? When I click "text" the kernel hangs.

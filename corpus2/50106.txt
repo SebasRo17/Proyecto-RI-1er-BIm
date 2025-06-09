@@ -1,0 +1,1 @@
+What does a programmer need to pay attention to during the development of software? For example, some software can not be finished within the time constraints, others cannot meet the requirements of clients.

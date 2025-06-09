@@ -1,1 +1,0 @@
-mathematica crash number time recreate notebook content last save point looking something preference like autosave frequency configuration parameter could use automatically save notebook content regular frequency minimize loss due crash found notebooksave notebookautosave true attribute createdocument appear manipulating external notebook way systematically default

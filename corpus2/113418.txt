@@ -1,0 +1,1 @@
+I am doing research on software development methodologies are commonly used for embedded software development, and how they differ from their non-embedded software development counterparts. I am having a hard time finding good resources on this topic so if you can recommend me some papers, websites or other material, I will be very grateful.

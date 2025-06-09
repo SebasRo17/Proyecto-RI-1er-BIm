@@ -1,1 +1,0 @@
-suppose dynamicmodule sort control set parameter graphic object dynamicmodule b column slider dynamic slider dynamic b dynamic plot sin pi b pi graph updated every time one dynamic parameter change pretend graphic really slow plot construct render graphic tell button mouse event

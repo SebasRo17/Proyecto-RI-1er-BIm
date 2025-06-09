@@ -1,0 +1,1 @@
+What is a zombie process or thread, and what creates them? Do I just kill them, or can I do something to get diagnostics about how they died?

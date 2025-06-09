@@ -1,0 +1,1 @@
+What C# project(s) would you consider contributing to if you were a beginner trying to sharpen your skills in C# and .NET framework ? The project should be (besides all) active and not something less active and/or stagnant.

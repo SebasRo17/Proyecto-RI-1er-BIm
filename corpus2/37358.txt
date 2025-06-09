@@ -1,1 +1,0 @@
-for import,we can do like this Import["XXX.xlsx", {"Data",1,2,3}],Mathematica will get the cell {2,3} of the "sheet1" in "XXX.xlsx". But if we want to export data from Mathematica to one Excel specific cell,How to realize?

@@ -1,0 +1,1 @@
+understanding akka allows define group mini thread actor communicate work using event understanding zeromq tcp socket library allows thread communicate tcp port question seem like similar concept however sure reality meant solve entirely different problem intention wise difference two tool different problem solve clear concrete use case one preferable

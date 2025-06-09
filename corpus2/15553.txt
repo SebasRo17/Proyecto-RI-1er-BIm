@@ -1,1 +1,0 @@
-Given a simple graph like               g=Graph[{b -> c, a -> b}]      I would like to have `f[g]` resulting in `{a,b,c}` but for instance `VertexList[g]` results `{b,c,a}` which's not wanted. Is there any simple way to do this?

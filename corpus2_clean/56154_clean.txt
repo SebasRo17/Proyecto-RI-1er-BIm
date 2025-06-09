@@ -1,1 +1,0 @@
-example use true false logitmodelfit x x boolean parameter

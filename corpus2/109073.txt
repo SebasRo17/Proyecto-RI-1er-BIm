@@ -1,0 +1,1 @@
+I'm starting a gaming project on the side of my normal school/work projects and I'm wondering if I should start planning out the user interface before starting an actual project in code. I see some pros/cons to doing both first and was wondering what advice some seasoned developers could suggest.

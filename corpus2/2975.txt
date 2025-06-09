@@ -1,1 +1,0 @@
-By default in the Notebook interface the text wraps. Is it possible to prevent this wrapping?

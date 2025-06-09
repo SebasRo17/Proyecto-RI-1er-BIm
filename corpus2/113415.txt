@@ -1,0 +1,1 @@
+I understand why it is a good idea to code to an interface rather than to a concrete class. I find it hard to implement though as other methods generally need to use properties of the given object. Have I got the wrong end of the stick?

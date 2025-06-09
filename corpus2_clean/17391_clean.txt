@@ -1,1 +1,0 @@
-started using mathematica v trying follow computation book fourier series function f x x interval pi x pi code tried f x x pi integrate f x x pi pi n pi integrate f x co nx x pi pi b n pi integrate f x sin nx x pi pi got result n per book b n answer generate mathematica answer book frac n n someone explain case note found post fourier coefficient mathematica seem follow

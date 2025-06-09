@@ -1,1 +1,0 @@
-I'm new in Mathematica, and would like to know how can I open multiple help windows at the same time. It's this possible? I'm using Mac OS. I know it works for link in the help page with right mouse click, but not for drill down in another function (that is not a link).

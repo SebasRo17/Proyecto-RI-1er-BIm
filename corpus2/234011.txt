@@ -1,0 +1,1 @@
+How to distribute, one virtual token to each person in this world, and make sure nobody gets more than one? In other words, how to prevent a user from creating more than one user account in a site? What's this problem called? Is there any specific name to this problem? What are the solutions? Thanks.

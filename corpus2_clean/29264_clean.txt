@@ -1,1 +1,0 @@
-default cellevaluationfunction identity one quickly see handled specially equivalent function work sole example documentation us toexpression also work returning output last line input cell setoptions evaluationnotebook cellevaluationfunction toexpression one cell question real default function correctly handle multi line input output including xx cell label

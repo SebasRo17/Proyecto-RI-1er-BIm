@@ -1,0 +1,1 @@
+Goto is almost universally discouraged. Is this statement every worthwhile using?

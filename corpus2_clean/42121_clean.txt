@@ -1,1 +1,0 @@
-expression p b x b c z want substitute b b c obtain p x z tell mathematica dont know start

@@ -1,0 +1,1 @@
+I am trying to configure a mysql database table that I can use as a per user/group permissions table. Almost like what Facebook has, for a local company intranet site. What is the best possible way to design this table, that would allow me to find user permissions with the fewest amount or queries?

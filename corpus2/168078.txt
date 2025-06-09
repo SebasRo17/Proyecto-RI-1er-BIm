@@ -1,0 +1,1 @@
+I'm looking at a sample Windows 8 C# "Metro" style app (bingPushpin). When I 2-click MainPage.xaml, it gives me, "Design view is unavailable for x64 and ARM target platforms." My Acer Aspire laptop is, indeed, 64-bit. Is this going to continue to be a problem for me, or is there a workaround? If the former, can anybody recommend a Windows 8 dev machine (laptop)?

@@ -1,0 +1,1 @@
+Which if the SOLID principles introduced by "Uncle Bob" Martin had the largest effect on your day to day coding? Please give details!

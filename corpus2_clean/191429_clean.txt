@@ -1,0 +1,1 @@
+read write binary chunk approximately 1mb come form stream memory byte normally would use struct fixed layout property binary making harder num byte num describes version chunk num byte num start either sub chunk human readable blob num sub chunk version within num endian ness inconsistent structure program need handle binary thats format

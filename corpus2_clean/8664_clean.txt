@@ -1,1 +1,0 @@
-quantity varying time horizontal axis plot first oscillates jump larger amplitude oscillation continues oscillating quantity discrete set case vertical axis plot would like find option listdensityplot would allow really emphasize jump want nice smooth color scheme rather one would make small oscillation invisible would focus larger jump control listdensityplot

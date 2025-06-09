@@ -1,1 +1,0 @@
-wish solve following second order partial differential equation u tt c u xx initial condition u x e x quad u x sin x mathematica evaluated following code dsolve p x c p x x p x exp x p x sin x p x x mathematica responded dsolve deqx supplied equation differential equation given function think problem lie initial condition fix code

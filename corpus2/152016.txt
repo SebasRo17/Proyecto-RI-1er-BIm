@@ -1,0 +1,1 @@
+seems the cherryPy have a standalone web server, is this suggested to deploy the application on Apache Server? or just use the standalone one? If so, any pros and cons between these decision? Thanks.

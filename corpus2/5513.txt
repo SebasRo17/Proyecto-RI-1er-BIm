@@ -1,0 +1,1 @@
+In the past I have worked with designers, BAs and project managers, all who regularly produce project artifacts, yet very really do they understand the concept of versioning. When I try to explain it to them (even in its most simple form of mulitple differently named files) they seem to have some kind of mental block. Why do you think this is?

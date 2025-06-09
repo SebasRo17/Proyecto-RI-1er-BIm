@@ -1,0 +1,1 @@
+I'm interested in developing for the web and I'm curious what languages should I know besides html, css, javascript, php/python/ruby. I don't know much about c# or java to make a decision whether to learn them or not, are they used much in the field I'm interested in? What other technologies should I look into ?

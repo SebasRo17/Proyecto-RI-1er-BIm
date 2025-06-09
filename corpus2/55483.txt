@@ -1,1 +1,0 @@
-Having looked here, what should I do differently to get the progress indicator working properly?               Monitor[Plot[{Pause[0.1];      LogIntegral[x] - Sum[2 N[Re[ExpIntegralEi[ZetaZero[n] Log[x]]]], {n, 1, 500}] - Log[2],      Sum[PrimePi[x^(1/n)]/n, {n, 1, Floor[Log[x]]}]},      {x, 2, 1000}], Row[{ProgressIndicator[x, {2, 1000}], x}, " "]]

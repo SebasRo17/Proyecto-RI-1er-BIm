@@ -1,0 +1,1 @@
+seems like every net book talk type v reference type make point often incorrectly state stored heap stack usually first chapter presented important fact think even covered certification exam stack v heap even matter beginner net developer allocate stuff work right

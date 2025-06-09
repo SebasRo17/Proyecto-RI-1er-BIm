@@ -1,0 +1,1 @@
+working rest javascript client trying follow mvc pattern basic question came mind make http request load model intuition tell controller lot example ember j documentation example done model find framework like django controller think better way

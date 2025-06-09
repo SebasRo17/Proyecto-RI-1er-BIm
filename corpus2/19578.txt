@@ -1,1 +1,0 @@
-I was wondering, how would could I make a drawing of the Higgs potential aka "mexican hat potential". I am quite new to _Mathematica_ and don't know where to look to learn how to implement such a complex function.

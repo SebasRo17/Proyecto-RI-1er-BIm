@@ -1,0 +1,1 @@
+first programming language learning think like computer scientist chapter num author give following example recursion def factorial n n num num else recurse factorial n num result n recurse result understand n num execute second branch understand happens enters second branch someone explain

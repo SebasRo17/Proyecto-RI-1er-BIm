@@ -1,1 +1,0 @@
-After calling some functions, if I look into `$ContextPath`, I can see that `JLink`` is in there. Is there a way to find out what sequence of functions calls (like a stack-trace) imported a particular package? Something like `FuncA` called `FuncB` which called `FuncD` which executed `Needs["JLink`"]`

@@ -1,0 +1,1 @@
+I just got a new mouse with 7 buttons. Is there any way to use these extra buttons in eclipse or emacs? Is it possible to have a mouse button for compiling? Do you have any other ideas how to use the extra buttons? I'm using linux, but I'd be interested to hear from windows or mac users too, just to get some ideas.

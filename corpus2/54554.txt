@@ -1,1 +1,0 @@
-What does it take to deploy a report to the Wolfram Cloud? I would like to deploy _the generated notebook_ (not the notebook with the slots) to a public URL so my customer can access it. Every time the URL is accessed the data within the slots should be updated. All of this works on my desktop but I don't see the documentation regarding the deployment of the dynamic report.

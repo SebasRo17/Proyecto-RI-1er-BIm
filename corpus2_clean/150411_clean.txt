@@ -1,0 +1,1 @@
+beginning learn functional programming fp come oop world everything object mutable hard time wrapping around concept function side effect something mutable common thing object like employee person represented fp fp used create full fledged enterprise application

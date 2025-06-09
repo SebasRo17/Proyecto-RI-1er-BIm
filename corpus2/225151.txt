@@ -1,0 +1,1 @@
+I am working with _Forgot password_ , where I have single EditTextBox and a single submit button. So whenever I am opening this _Forgot password_ page, my keyboard is opened at the start of this page. In my mind there is a question that it is not a smart choice to open a keyboard at the start of the _Forgot password_ Activity.

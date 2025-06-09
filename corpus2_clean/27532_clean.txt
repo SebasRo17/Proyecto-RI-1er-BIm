@@ -1,1 +1,0 @@
-cam get rid small scientific form number output replacing zero eg

@@ -1,0 +1,1 @@
+I don't know how to say... The XIB is using xml to store the UIElement information, similar to .Net GUI. Is there any open source stuff also convert the xml file to a html layout?

@@ -1,1 +1,0 @@
-I'm trying to solve something like: `f[x] == Integrate[f[x]*g[x]]` where `g[x]` is known and `f[x]` is the function to solve (numerically is fine). I've seen some examples of integral equations but wonder if there is a direct way to solve it with Mathematica.

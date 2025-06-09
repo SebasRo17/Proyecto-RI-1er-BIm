@@ -1,0 +1,1 @@
+trying build single page web application call multiple web service soap restful aggregate ui initially though could client side ajax request realize many request fired per user take long time load lot user easily reach limit api call thinking kind server side process run every hour whatever retrieves item insert update database right approach pitfall need avoid

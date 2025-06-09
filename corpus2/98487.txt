@@ -1,0 +1,1 @@
+Can anyone recommend a good guide to VB.Net for someone having experience/comfortable with C? I can find Python/Java/Lua for C programmers had have used them earlier, but am unable to find anything for C programmers moving to VB.Net (I'll be moving from using C/C++ with gcc/g++ to VB.Net on VS 2010)

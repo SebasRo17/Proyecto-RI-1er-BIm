@@ -1,0 +1,1 @@
+trying design application user make post django backend right refresh page javascript every num num second check new post might available page wondering effective way maybe json response looking solution like twitter show many new post available page even like facebook update wall post automatically particular technology researching order make update efficient

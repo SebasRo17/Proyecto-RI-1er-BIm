@@ -1,0 +1,1 @@
+Why are some operating systems labeled 32-bit and others 64-bit? If the processor is the one doing the actual execution, why does the operating system care about how many bits are used?

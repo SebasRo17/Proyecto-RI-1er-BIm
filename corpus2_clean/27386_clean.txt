@@ -1,1 +1,0 @@
-attempting style plot line thick selected color manually solid liquid gas plot gas liquid solid plotstyle thick black blue red code give desired result believe use pure mapped pure function best way get result less obfuscatious method assigning plotstyle directive function set directive apply function individually

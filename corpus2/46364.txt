@@ -1,0 +1,1 @@
+We are trying to setup our testing process. We wonder if our testers should develop automated regression tests, or if the developers should do that. And what about other types of automated tests? Should testers develop them?

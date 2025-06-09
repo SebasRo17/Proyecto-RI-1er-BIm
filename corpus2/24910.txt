@@ -1,0 +1,1 @@
+Having spent all morning trying to check something in - I now realise I've lost a couple of days worth of work. Its happened before - and is apparently common occurrence with SourceSafe. Can SourceSafe be used successfully, without problems, and if so, how?

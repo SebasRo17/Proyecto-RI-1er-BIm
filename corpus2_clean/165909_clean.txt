@@ -1,0 +1,1 @@
+programming javascript application save document localstorage app evolves naturally change document format tried searching found anything probably least partly search term ambiguity good practice managing document format version upgrade local storage implementation approach

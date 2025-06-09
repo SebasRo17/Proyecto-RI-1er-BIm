@@ -1,0 +1,1 @@
+I would like to know whether Oracle ADF Mobile is free to use for someone who doesn't have the (expensive) ADF license, and what if I want to talk to a backend (web service), do I need Weblogic? What about usage scope? Is ADF Mobile suitable for games?

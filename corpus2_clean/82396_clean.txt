@@ -1,0 +1,1 @@
+work come across lot japanese text file shift encoding cause many unreadable character problem computer user unicode intended solve sort problem defining single character set language utf num serialization recommended use internet everybody switch japanese specific encoding utf num issue disadvantage utf num holding people back edit w3c list known problem unicode could reason

@@ -1,1 +1,0 @@
-trying split string chemical element number see example fe split fe tried using stringsplit various lowercaseq type patter working also tried using stringsplit split everything finding lower case character putting back together got work solution would greatly appreciated

@@ -1,0 +1,1 @@
+I'd like to know if it's possible to detect the `delete` error commented below at compile time? Especially, I'd like to hear about g++ compiler.               ClassTypeA *abc_ptr = new ClassTypeA[100];       abc_ptr[10].data_ = 1;       delete abc_ptr; // error, should be delete []        Thanks in advance!

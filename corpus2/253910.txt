@@ -1,0 +1,1 @@
+I got lost in the opening of this post on reddit. How can `if (sscanf(buf, "%i", &mode) != 1 || TRUE)` be rewritten to `if (TRUE)`? Does this assume that the `sscanf` never fails?

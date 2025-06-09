@@ -1,1 +1,0 @@
-I have this output: > >     a(b + c)d + 3 >   But I want it to become like this: > >     ad(b + c) + 3 >   How can I do that? Is there a way without using `HoldForm` to do that?

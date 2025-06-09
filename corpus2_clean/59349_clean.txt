@@ -1,1 +1,0 @@
-suppose want save filename foo window ordinarily way deal file name window open insert dialogue find file path use case file new exist yet unlike every window program familiar mathematica unwilling create new file locate relevant folder type mynewfile mma balk seems like bug sorry dan lichtblau misfeature reasonable workaround missing something obvious

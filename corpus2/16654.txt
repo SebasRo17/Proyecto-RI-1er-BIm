@@ -1,0 +1,1 @@
+Have you ever let your coding standards slip to meet deadlines or save time? I'll start with a trivial example: We came up with a coding standard at work around which brackets/formatting to use and so on. I ignore it and use the auto-format tool in netbeans.

@@ -1,1 +1,0 @@
-plot function mathematica let p g c positive integer defining n begin case frac n p n text divisible p ga n c n text odd end case p new mathematica really sorry ignorance borderline offensive

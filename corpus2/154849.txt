@@ -1,0 +1,1 @@
+We currently have a C++ socket server used by a java client. All of the socket code in both C++ and java is stick-built at a low-level with messages passed via JSON strings. Are there cots packages or better techniques commonly used in this situation to reduce the cost of future development and maintenance?

@@ -1,1 +1,0 @@
-So, _Mathematica_ can't solve it. Any workaround? \begin{equation*} \int_0^\pi \frac{1}{\sin\left(\frac{\theta}{2}\right)^\beta + 1} \mathrm{d}\theta \end{equation*} The code is:               Integrate[1/(Sin[θ/2]^β + 1), {θ, 0, π}]

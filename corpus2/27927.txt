@@ -1,0 +1,1 @@
+I am usually a PHP and Delphi developer and have been getting into Python lately. I am developing an app and would love to get some feedback on the code, there are few things which I would love to tidy up myself but I am sure there are other things. Where / how is a good way to get in touch with an experienced Python dev? Paying is no problem.

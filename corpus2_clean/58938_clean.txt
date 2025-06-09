@@ -1,1 +1,0 @@
-newbie image processing using mathematica like compose image image b image c quad c j b j j white quad c j j otherwise would work could min pixel quad c j min j b j min seem work component wise perhaps could turn white transparency compose b

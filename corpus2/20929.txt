@@ -1,1 +1,0 @@
-`RefProp` by NIST is a program that calculates the thermodynamic properties of fluids. I need to call certain `RefProp` functions from inside _Mathematica_. Can any one here, who has experience calling `RefProp` functions from _Mathematica_ , tell me how to do this??

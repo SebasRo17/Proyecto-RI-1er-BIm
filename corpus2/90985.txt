@@ -1,0 +1,1 @@
+Multiple clients can modify the DB and all need to be notified if a DB change occurs. Where I work, this is implemented with application threads that poll the DB every second or so. This doesn't strike me as a good way to do it, so I was wondering how do people usually handle this?

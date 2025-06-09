@@ -1,0 +1,1 @@
+need something represents queue f queue filled item application progress item taken queue moved list use queue net avoid use native list f instead better solution use one functional language f

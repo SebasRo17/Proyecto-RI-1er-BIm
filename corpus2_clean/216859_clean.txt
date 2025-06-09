@@ -1,0 +1,1 @@
+core seems add needless layer complexity want save created natively user app use write sqlite back server using restful script necessary android core though something similar seen heck point buggy cd except useless needless overhead people write sql cgi script

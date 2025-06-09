@@ -1,1 +1,0 @@
-using plot command want get one curve form circle like solid line plot co x sin x x pi plotstyle opacity mesh meshstyle pointsize large blue enter image description

@@ -1,0 +1,1 @@
+php application codeigniter controller accept record id parameter retrieving purpose also pas record id form action like www sample com record save num right way note record id encrypted

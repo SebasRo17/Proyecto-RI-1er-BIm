@@ -1,1 +1,0 @@
-possible print x looking like function look argument returning x true false true false x true print yes print x

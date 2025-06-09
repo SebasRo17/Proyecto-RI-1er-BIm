@@ -1,0 +1,1 @@
+I've set up a small Google Code project. I feel a bit obligated to use the built-in wiki feature, but I'm unsure of what to use it for. The project is basically a C++ library for container classes. I'm currently the only member of my project, but I might get a few friends involved. So, what should I use the wiki for? Do I even need to use it at all?

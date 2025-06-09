@@ -1,1 +1,0 @@
-simple module like bcdet x module auxmat auxmat mat f x det auxmat mat normal matrix x parameter f defined module return complex number work without problem would like find root real part given traila complex f findroot bcdet f triala f stepmonitor print step f f unfortunately work cannot get result use stepmonitor check however give output idea might problem

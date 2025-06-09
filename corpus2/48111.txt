@@ -1,1 +1,0 @@
-I have imported my text-type data as a matrix. I want to make a scatter plot (`ListPlot`) using one column as _x-axis_ and other columns as _y-axis_. Is there a function `F` which can make a scatter plot in the following form?               F[matrix[[All, 1]], {matrix[[All,2],...,matrix[[All,n]]]]

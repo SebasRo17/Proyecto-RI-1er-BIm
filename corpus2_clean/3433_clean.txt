@@ -1,1 +1,0 @@
-using code plot graph trying make font legend bigger plotlegends listloglogplot sort moby plotrange full joined true plotlegend moby dick legendposition legendshadow none legendborder none plotstyle dashed basestyle fontsize seems change font size label axis also want legend size

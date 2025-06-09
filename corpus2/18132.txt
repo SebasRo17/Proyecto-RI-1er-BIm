@@ -1,1 +1,0 @@
-I have a data set(x,y,z) corresponding to a hemisphere, to which I want to add some controlled noise (random values) to make the x,y,z values diverge. > data = Flatten[ Table[{i, j, i^2 + j^2}, {i, -10, 10, 1}, {j, -10, 10, 1}], > 1] The above is a 3 coordinate set (x,y,z) values for a hemisphere. How do I add random noise to it? Thank you

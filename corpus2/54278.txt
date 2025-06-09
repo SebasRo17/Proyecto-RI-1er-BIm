@@ -1,0 +1,1 @@
+A couple recent questions focused on "well designed applications" and "poorly designed applications". Looking at the responses it appears to me that it might be easier to recognize and define poor code and poorly designed applications than it is to define what good code and good/correct application design is. What do you think?

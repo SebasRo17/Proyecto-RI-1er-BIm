@@ -1,1 +1,0 @@
-need compute linearised einstein equation around fixed metric g text minkowski metric h flat metric anyone know mathematica package review paper help

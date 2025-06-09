@@ -1,1 +1,0 @@
-When I am rotating drawn 3D plot by mouse it rotates Ok until mouse release. After that it slightly changes it's size instantly. Probably it tries to accommodate document layout or something. Is it possible to disable this feature? May plot remain exactly I left it after rotation?

@@ -1,1 +1,0 @@
-great answer mr wizard would like learn implement associated plotlegends scaled simplest example plotlegends look scaled data table listdensityplot rescale data colorfunctionscaling false mesh colorfunction temperaturemap plotlegends automatic first legend show different scale three

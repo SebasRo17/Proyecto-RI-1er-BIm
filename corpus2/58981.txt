@@ -1,1 +1,0 @@
-I just want to know what is "x" in a code line like "SmoothKernelDistribution[Data,x], when it is a real number?!! when it is integer I know that it is the number of bins but what is this factor when it is something like "0.5"?

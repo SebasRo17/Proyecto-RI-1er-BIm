@@ -1,1 +1,0 @@
-want generate plot showing dependence function another parameter automatically add correct plotlegend say graph parameter f x x params plot evaluate f x params x plotlegends stringform params doesnt work mathematica complains function legend shape

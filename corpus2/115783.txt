@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  I don't know C. And why should I learn it? I start my programming from Java, and learned PHP. Also, because of the work, I learned Objective-C. But most of the programmer learn from C. So, is this necessary for a programmer to learn C? If yes, how important it is? Please drop your comments, thanks.

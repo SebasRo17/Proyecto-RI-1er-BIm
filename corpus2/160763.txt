@@ -1,0 +1,1 @@
+What exactly happens in Java when you instantiate the same object multiple times? For example:               Test test = new Test();      then later on I will call it again, `Test test = new Test();` again or inside a loop. Will the previous instantiation be disposed?

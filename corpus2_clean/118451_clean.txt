@@ -1,0 +1,1 @@
+playing around c window asp net mvc development time still unclear area trying understand basic difference performance issue using interchanging similar kind generic collection interface basic difference ienumerable icollection list seem use interchange without seeing problem application also similar generic collection like interchanged three

@@ -1,1 +1,1 @@
-discovered problem openerview opener view always close change value manipulator control manipulate simple example manipulate column openerview plot panel plot x x false openerview plot panel plot x x x false plot sin n x x n enter image description tried option contentsize manipulate imagesize openerview failed question option need add make interface keep state opener view unchanged change value slider n
+working project mvvm viewmodels one repository viewmodels one repository bad please provide good bad

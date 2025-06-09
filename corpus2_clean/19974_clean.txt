@@ -1,1 +1,1 @@
-convert list sequence pas function e g want able something like range output
+many ides ability spit automatically written piece example might generate getter setter pair wonder whether attempt work around flaw language ide figure without help case really good idea kind generation ide provide would thing better provided feature language

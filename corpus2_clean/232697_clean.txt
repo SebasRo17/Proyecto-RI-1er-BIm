@@ -1,0 +1,1 @@
+assume user register site password username stored inside database read password often encrypted using salt safe encrypt password salt save schema username secondly authentication work company like google giant database username password pair validation work quickly implemented

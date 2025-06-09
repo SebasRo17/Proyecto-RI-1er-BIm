@@ -1,1 +1,0 @@
-new cuda cudalink see cudafunctionload allows one set block dimension calling function also either pas argument mma automatically select number thread launched max length argument passed however see set grid dimension want bidimensional grid possible right

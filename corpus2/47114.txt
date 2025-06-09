@@ -1,0 +1,1 @@
+So I am confused when it comes to the .net framework 4. Is there a Microsoft Certified Solution Developer for .net framework 4? The Visual Studio 2010 Certifications Paths seemms to highlight MCPD 70-519 for one, which does not have pre reqs... Have I gotten it wrong? Is there still Microsoft Certified Solution Developer? and the Microsoft Certified Solution Developer Enterprise?

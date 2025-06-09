@@ -1,0 +1,1 @@
+I want to use design patterns for the following scenario. How to? I have classes named Person, Employee and Customer and all of them have their own save, update, get and delete methods. Employee and Customer classes are derived from person. What may be the best way to code?

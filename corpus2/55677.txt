@@ -1,1 +1,0 @@
-I need to generate nonperiodic tilings which are similar to the attached figure (kite-domino tiling). I was thinking the code is similar to the code for the Penrose tiling. However, that code is too complicated for me to digest at this time. ![Kite-Domino Tiling](http://i.stack.imgur.com/VBoUN.png)

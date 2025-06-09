@@ -1,1 +1,0 @@
-default font size legend text generated using showlegend small one increase code working need plotlegends lsttest flatten table j j j pltest listcontourplot lsttest contour colorfunction rainbow lmax max lsttest lmin min lsttest showlegend pltest colordata rainbow tostring round lmax tostring round lmin legendposition appear small would like increase font size thanks help

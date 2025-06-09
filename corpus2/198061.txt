@@ -1,0 +1,1 @@
+One thing I cannot find anywhere is: is this approach limited to non-critical software? Because in critical (or just when customer wants us to follow his rules) we have no freedom in testing and just follow the procedures. Am I right?

@@ -1,1 +1,0 @@
-On OSX at least, it's possible to quickly retrieve a folder/file path by dragging & dropping the folder/file into the terminal, eg: ![enter image description here](http://i.stack.imgur.com/1txfU.jpg) Is it possible to program _Mathematica_ 's front end enable similar drag & drop operation? I'm primarily interested in passing path info to `Import` and `Export`.

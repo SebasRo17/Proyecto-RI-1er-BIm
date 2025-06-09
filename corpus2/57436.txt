@@ -1,1 +1,0 @@
-Could somebody please explain what is the use for `SpeechNavigation` option found in the option inspector?

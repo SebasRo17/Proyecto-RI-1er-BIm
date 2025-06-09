@@ -1,1 +1,0 @@
-I want to borrow the vast amount of packages of R. I know there was one but it is neither sold nor supported anymore. So are there any active open source projects for linking R with Mathematica? Thank you.

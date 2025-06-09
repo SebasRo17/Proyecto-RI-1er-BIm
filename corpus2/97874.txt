@@ -1,0 +1,1 @@
+My company head says that I must write all , i.e. ALL my code within Try-catch statements. Now, I can understand the 'better be safe than sorry' approach here, but isn't it too chicken-hearted to think that there will be an exception when the Labels are created, form's position is set. has there been instances where Exceptions in Such simple operations.

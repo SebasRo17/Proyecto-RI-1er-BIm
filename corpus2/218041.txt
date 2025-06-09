@@ -1,0 +1,1 @@
+My colleague developed an internal web application. This app works only in Internet Explorer, which means that I can't access it from my smartphone. Is there any way to develop an application which will serve as a bridge between my smartphone and this web app, enabling me to use the web app from any other browser/mobile device?

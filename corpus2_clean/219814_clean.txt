@@ -1,0 +1,1 @@
+suppose rest api returning json status fail title title required since client application would always adapt message would better explicit i18n key client would mapped rather title required status fail title creation title required indeed point expect request consumer web application instance easily translate message regarding localization

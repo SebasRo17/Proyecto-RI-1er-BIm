@@ -1,0 +1,1 @@
+The term "segregation" is used in the CQRS pattern. What's the difference between segregation versus separation in this case?

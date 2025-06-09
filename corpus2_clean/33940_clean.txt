@@ -1,1 +1,0 @@
-want make simple demonstration using manipulate one two input field show depending whether another control true false achieve functionality manipulate dosomethig showmore true false whatshouldbehere showmore unchecked showmore checked

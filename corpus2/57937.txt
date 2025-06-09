@@ -1,1 +1,0 @@
-In _Mathematica_ V10, the glyphs for mathematical and/or other special symbols are wrong. I see this in input cells and also in the Basic Math Assistant palette. How do I solve this problem?

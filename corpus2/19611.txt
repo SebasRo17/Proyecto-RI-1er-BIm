@@ -1,1 +1,0 @@
-I am absolutely new to Mathematica and I actually want to try implementing a little optimization method . Long story short assuming I have a predefined two-variable function f(x,y) I want to calculate a Hessian matrix and a gradient symbolically. Then I want to be able to quickly plug specific x,y values into them. How is it done in Mathematica?

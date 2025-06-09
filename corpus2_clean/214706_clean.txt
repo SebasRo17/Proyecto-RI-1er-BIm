@@ -1,0 +1,1 @@
+rail developer tdd mac rspec capybara selenium webdriver asked company use approach net window environment best way could install ruby use rspec capybara selenium webdriver integration testing unit test also looked nspec sure combine capybara selenium integration test would good approach

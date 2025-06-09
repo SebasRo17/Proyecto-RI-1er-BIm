@@ -1,1 +1,0 @@
-Does anyone have experience with or a package for the creation of forest plots in _Mathematica_ 9? ![Grahics](http://2.bp.blogspot.com/--7YzQiUxYTI/TVSoUYwITeI/AAAAAAAALd0/M_OkY9Uc- LQ/s1600/forestplot.png) For instance for subgroup analyses of cox model or meta-analysis (e.g rmeta package in R)?

@@ -1,0 +1,1 @@
+know wcf allows attach interceptor method service contract interceptor capable performing custom logic call far know used mainly validating parameter custom authorization scheme point using write helper thing

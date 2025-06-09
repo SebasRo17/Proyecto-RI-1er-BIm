@@ -1,0 +1,1 @@
+I analyzed my algorithm and I deduced that in the best case it requires n^3 iterations while in the worst case it requires n^4 iterations. Then I asserted that my algorithm is in \Omega(n^3) and in \BigO(n^4). Is this assertion correct and useful? (sorry for the format but I'm not able to add LaTeX text, so if you can please tell me how to format this I will edit soon, thanks)

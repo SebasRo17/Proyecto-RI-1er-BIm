@@ -1,0 +1,1 @@
+writing script fb num object using class wondering advantage using static keyword except create instance every time need use way go static without know basic new oop want learn use proper manner

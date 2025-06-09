@@ -1,1 +1,0 @@
-Why am I getting the error > Syntax::sntunc: Unicode longname in the string is unterminated. from the following?               astroSymbol[name_String] := ToString[ToExpression["\[" <> name <> "]"]] <> "" ;      Is there something I need to do to wrap the escape sequence to avoid this error?

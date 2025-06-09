@@ -1,0 +1,1 @@
+looking create regular backup couchdb database ship offsite least intrusive way obtain ideally without interrupting significantly slowing performance existing database server

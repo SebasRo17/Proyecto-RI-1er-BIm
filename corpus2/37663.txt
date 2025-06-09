@@ -1,1 +1,0 @@
-How can I use _Mathematica_ to check if a statement like $$\left| \frac{\sqrt{1+2z}-2}{2z-3} \right| \le 1$$ is true for all complex numbers $z$? Also, how can I use _Mathematica_ to check such a statement for a subset of the complex numbers (for example, all complex numbers with imaginary part less than zero)?

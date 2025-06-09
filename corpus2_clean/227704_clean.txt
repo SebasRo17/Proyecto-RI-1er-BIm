@@ -1,0 +1,1 @@
+wsdl define operation element later binding define operation rationale behind define twice understand binding define encodingstyle attribute need

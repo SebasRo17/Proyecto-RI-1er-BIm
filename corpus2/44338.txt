@@ -1,1 +1,0 @@
-I need to apply a set of rules (I used `Which`) to every element in a matrix, but the rules are dependent on the position `[[i, j]]` of the matrix.

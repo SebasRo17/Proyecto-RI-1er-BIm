@@ -1,1 +1,0 @@
-possible conveniently direct output consecutive print statement output without actually accumulating output temporary string variable would useful case lot small output say like example print default print statement produce new output cell desirable would prefer c style dump terminal output one print space

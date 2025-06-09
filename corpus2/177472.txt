@@ -1,0 +1,1 @@
+According to this post : http://channel9.msdn.com/Forums/Coffeehouse/MS-working-on-a-same-compiler-for- C-AND-C--Not-in-incubation-but-for-production- How much truth is in this post? Should it be taken seriously by hardcore C++ programmers (game devs etc)?? Edit : There's another purpose to this question... Will C# be backward compatible with C++?

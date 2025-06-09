@@ -1,0 +1,1 @@
+writing gui application user selects item combobox non editable suitable control enabled user enters appropriate according combobox selected item created num thought using display list choice using conditional statement create num create object user selects set property accordingly user think better way like ask one first second way listed better thank

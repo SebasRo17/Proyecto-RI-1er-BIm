@@ -1,0 +1,1 @@
+For example, would you prefer this one-liner               int median(int a, int b, int c) {         return (a<b) ? (b<c) ? b : (a<c) ? c : a : (a<c) ? a : (b<c) ? c : b;     }      or an if/else solution involving multiple return statements? When is `?:` appropriate, and when is it not? Should it be taught to or hidden from beginners?

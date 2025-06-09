@@ -1,0 +1,1 @@
+used program gtk using pygtk library feel like program well separated according mvc model think following framework would help design better desktop application like know mvc framework desktop apps using

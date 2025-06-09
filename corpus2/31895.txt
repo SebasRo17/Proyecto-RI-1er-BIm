@@ -1,1 +1,0 @@
-Is it possible to use the `Export[]` command and add another address other than the usual `Home` directory that is used?

@@ -1,1 +1,0 @@
-want make grid cell imagesize place gui element cell imagesize want scale cell want set cell imagesize purpose tried grid graphicsgrid use grpahicsrid working fine corresponding code graphicsgrid constantarray frame imagesize use grid working corresponding code grid constantarray frame itemsize think itemsize unit totally different compared imagesize working resolve

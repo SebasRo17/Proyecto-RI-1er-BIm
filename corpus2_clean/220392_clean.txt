@@ -1,0 +1,1 @@
+wondering db query need three tier architecture first association think dal bl want search dal need publish method possible search unrealistic lot work second option bl bl need know db designed encapsulation good third option dal publish like querybuilder something similar bl build query weak association still needed db best option allow bl search

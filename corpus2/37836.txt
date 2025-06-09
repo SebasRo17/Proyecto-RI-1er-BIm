@@ -1,0 +1,1 @@
+I'm transitioning from being a desktop developer to a web developer, and I'm having trouble understanding why HTTP is stateless. What are the reasons for it? What are some ways a desktop developer like myself can make the transition to a stateless development environment?

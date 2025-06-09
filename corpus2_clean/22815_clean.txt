@@ -1,1 +1,0 @@
-beginner mathematica would like plot following function n sum j ge j j n however following code slow plot n nsum j j n j infinity n think may trying expand n th power symbolically instead numerically fix

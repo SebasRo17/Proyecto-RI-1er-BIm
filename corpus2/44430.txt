@@ -1,1 +1,0 @@
-There is a very nice cdf info graphic on the Wolfram Webpage (http://www.wolfram.com/cdf/uses-examples/infographics-full-example.html). I'd like to have a look at the code as I'd like to do something similar. However, they only provide the cdf. Is it possible to extract the code from this? – Thanks.

@@ -1,1 +1,0 @@
-I am new to Mathematica and using Version 8.0. I want to calculate the 2D-Fourier Transform of a digital image and see its Magnitude and Phase Spectrum, and reconstruct it.

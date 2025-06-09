@@ -1,1 +1,0 @@
-simple deq c constant c turn equilibrium point deq c use streamplot command plot direction field value c example c streamplot streamplot enter image description streamplot would look exactly like value c way show axis c instead show value c pm rm offset point shown c point shown c point shown c etc word axis value shown function general equilibrium point

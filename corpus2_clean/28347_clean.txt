@@ -1,1 +1,0 @@
-often end function contains term x need evaluate limit rightarrow hand rewrite x tell mathematica make simplification tried using x simplify expand neither work intend actually change anything

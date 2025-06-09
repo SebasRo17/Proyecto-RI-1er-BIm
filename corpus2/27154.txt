@@ -1,1 +1,0 @@
-How do I get the city and country names from the output of `FindGeoLocation[]` {lat, long} ?

@@ -1,1 +1,0 @@
-multiple plot permittivity frequency hard read frequency label go x x hz want label frequency thz instead hz value would get divided

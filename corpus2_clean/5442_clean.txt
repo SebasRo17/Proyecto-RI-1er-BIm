@@ -1,1 +1,0 @@
-generating complicated graphic mathematica object given size e g line length inch two point want make sure export graphic e g pdf print line length paper one inch without additional tweaking assuming scaling printing

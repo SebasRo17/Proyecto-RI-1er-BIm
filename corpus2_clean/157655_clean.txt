@@ -1,0 +1,1 @@
+trying find way write application lock free ipc linux c multi core processor let assume process num process num write fifo shared memory process num process num read shared memory fifo possible lock free algorithm guidance highly appreciated

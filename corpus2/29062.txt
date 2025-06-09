@@ -1,0 +1,1 @@
+Following on from this question, I wondered if folk might be able to suggest some samples of what might be considered a "good" objective in a periodic review cycle for a programmer? Let's define SMART from the most popular definitions in the Wikipedia entry:   * Specific   * Measurable   * Attainable   * Relevant   * Time-bound

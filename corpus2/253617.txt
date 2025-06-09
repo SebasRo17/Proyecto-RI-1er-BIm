@@ -1,0 +1,1 @@
+Or is the script generally converted to a known language such as C++ first? And how generally to you integrate a scripting language with the say a game engine?

@@ -1,1 +1,0 @@
-rank matrix r sub array represents range two sub array given row overlap want check given r scalar x want check sub array x within range e g x true x false since none want use mapthread use compilable function unitstep possible

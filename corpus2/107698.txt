@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  When is Singleton appropriate? I've seen many explanations why is Singleton is evil. But is there really no such a case when Singleton is the only beautiful solution?

@@ -1,0 +1,1 @@
+I am designing an online store service app with rails. Everyone who wants to make his/her own store can do it with this app by just signing up and choosing a domain. I want to make it as SaaS as it can be. Should I copy all store's files every time someone creates a new shop, or can I somehow keep these files in one place and just let every new store access them?

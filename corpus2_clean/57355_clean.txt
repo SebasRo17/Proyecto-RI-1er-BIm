@@ -1,1 +1,0 @@
-see compile documentation typical argument compile integer real complex true false enter image description possible use string argument type compile may somebody know tricky way met task read data remotely oscilloscope send huge long string need convert numerical form problem need lot time string contains thousand char

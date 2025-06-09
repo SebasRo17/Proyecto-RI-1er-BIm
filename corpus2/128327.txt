@@ -1,0 +1,1 @@
+Is a pointer pointing to 0x0000 the same as a pointer set to NULL? If NULL value is defined in the C language, then what location does it physically translate to? Is it the same as 0x0000. Where can I find more details about these concepts?

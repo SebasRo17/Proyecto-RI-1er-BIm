@@ -1,1 +1,0 @@
-Is there any way to force Mathematica to come up with the closed form to               Sum[1/(i^18 (i^2 + j^2)), {i, 1, Infinity}, {j, 1, Infinity}]      or               Sum[1/(i^4 (i^2 + j^2)), {i, 1, Infinity}, {j, 1, Infinity}]      ? The former series definitely has a closed form, whereas the 2nd one might have or not.

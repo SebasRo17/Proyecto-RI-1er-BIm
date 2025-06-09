@@ -1,1 +1,0 @@
-How do you detect different sound frequencies and cut off parts in an audio file? Among instruments, how do you pick up the human voice?

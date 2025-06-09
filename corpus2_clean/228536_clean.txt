@@ -1,0 +1,1 @@
+server client scenario simpler faster grant public user access stored procedure rather using web service xml rest soap etc interoperable solution way could connect directly database get relevant content way across language system

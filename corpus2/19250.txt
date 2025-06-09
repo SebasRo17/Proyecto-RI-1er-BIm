@@ -1,1 +1,0 @@
-Plot[{Sin[x], Cos[x]}, {x, 0, 10}, Mesh -> {{0, \[Pi]}},           MeshShading -> {Black, Red}]      In the above, how can I specify that I want the mesh for just, say the Sine function and not the Cosine? I know I can use two plots and combine them with Show, but this is not what I want.

@@ -1,1 +1,0 @@
-I saw this post from Wolfram here and I would like to know how to import facebook data into Mathematica.

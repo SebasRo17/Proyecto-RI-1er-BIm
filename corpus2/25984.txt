@@ -1,1 +1,0 @@
-I have a pretty long time series (4000 data points). How can I calculate the Correlation dimension and/or Lyapunov exponent for such data? Please also advise on how to import the data as well.

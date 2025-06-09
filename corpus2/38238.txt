@@ -1,0 +1,1 @@
+* Why should a company invest in a Commercial Off the shelf (COTS) product?   * Is it the cost of in-house development, support or are there other reasons to not buy an COTS product?  By Commercial Off the shelf (COTS) products I mean products such as SharePoint, SAP, MS Dynamics. Not Word/Excel/Outlook. By company I refer to a large enterprise.

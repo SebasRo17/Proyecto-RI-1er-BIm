@@ -1,0 +1,1 @@
+going design mvc pattern could either designed delegate pattern key observing kvo notify controller changing model project requires certain quality control procedure conform verification document question num delegate pattern fit better unit testing kvo num kvo fit better would please suggest sample code

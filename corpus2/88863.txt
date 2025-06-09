@@ -1,0 +1,1 @@
+I'm looking to get started with objects in my unit tests. It seems there are tons of good mocking frameworks out there.   1. Do the different frameworks have different target audiences?    2. What factors should I consider when choosing which framework is right for my situation?

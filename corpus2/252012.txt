@@ -1,0 +1,1 @@
+In Java, there is a method called `System.gc()`, which calls the garbage collector (or rather, "suggests" to the JVM to run the GC). Are there valid reasons to call this method? I'm thinking that it would be evident of bad software design.

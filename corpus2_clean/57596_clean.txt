@@ -1,1 +1,0 @@
-following code crash mathematica kernel v macos stringjoin constantarray h isotropic anisotropy n stringcases except n n known problem using string pattern wrong way

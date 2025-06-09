@@ -1,0 +1,1 @@
+trying log file move every num second using o rename supervisord process move current log timestamped log processed another script continue log old stream uwsgi server also tried timed version seem work properly sure using uwsgi server question simplest efficient way continue logging file file pointing moved

@@ -1,0 +1,1 @@
+api structure fit well angular app trying determine best practice specific design implementation converting usable structure needed basis within app controller directive quickly lead spaghetti thinking belongs service factory interacts api drawback benefit factory pattern service oriented architecture come handling structure conversion

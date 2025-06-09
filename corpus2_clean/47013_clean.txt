@@ -1,1 +1,0 @@
-need integrate expression g given r rx ry rz b bx bz r sqrt b r b r k exp r l r g simplify k r l r b b r use integrate g take quite long time instead use int integrate g simplify int int take less second

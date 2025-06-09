@@ -1,0 +1,1 @@
+Our project head is a genius software architect, a gentle and considerate person in general, a geek by nature and delicate by voice. But, at times, we (my teammates and I) differ in opinions -- especially of software architecture issues, system design issues, UI issues, etc., with our leader. When and how (if ever) should we express the difference in opinions?

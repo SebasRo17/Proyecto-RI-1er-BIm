@@ -1,1 +1,0 @@
-I noticed that the Mathematica 9.0 documentation only mentions the usage of "Name" to label the vertexlabel or edgelabel in the Graph. Is there an option to use the Weights automatically just as "Name" does?

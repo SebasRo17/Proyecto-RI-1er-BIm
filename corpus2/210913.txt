@@ -1,0 +1,1 @@
+My main problem when trying to form a program is that while I have the tools at my disposal, I am too disorganized to properly use them to solve my problems. Often my process is simply trial and error until the program works. I am looking to see what others use to organize the process of writing programs.

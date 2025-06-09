@@ -1,0 +1,1 @@
+What's the difference between a stream and a queue? They both have the concept of an ordered set of elements, but tend to have different implementations and a different vocabulary of 'insert'/'extract' (streams) vs. 'enqueue'/'dequeue' (queue). Are these interchangable? Do they suggest different concepts or patterns? If so, what are the differences?

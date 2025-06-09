@@ -1,0 +1,1 @@
+I have heard about many CMS such as Drupal, Wordpress, Joomla, etc. Many sites are build using these CMS's, but what is a CMS and How they work(i.e basics)? Is CMS a normal Blog like site which is given many extended functionality, or we can do more from it?

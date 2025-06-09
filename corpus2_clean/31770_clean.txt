@@ -1,1 +1,0 @@
-would like create simple function pas manipulate function used cdf file eg f x x manipulate plot f x x c c c work fine notebook crash cdf

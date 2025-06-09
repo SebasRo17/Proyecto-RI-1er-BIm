@@ -1,1 +1,0 @@
-Is there a way to have two controls that govern a single variable in a Manipulate? Specifically, I am using a Locator to select an {x,y} coordinate, but I would also like the user to be able to directly specify x and y, in InputFields. Similar questions have been asked, but not with Manipulate and not with a 2D variable.

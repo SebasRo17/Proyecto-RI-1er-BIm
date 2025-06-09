@@ -1,1 +1,0 @@
-I use _Mathematica_ 10.0.0, and after I run it for a while (a few simple commands for example) the CPU usage (Mathematica.exe) remains at 13% even after the calculations are over. I quit the kernel but the program continues to consume resources until I close the program entirely. Is it a bug? How can I suppress such behavior?

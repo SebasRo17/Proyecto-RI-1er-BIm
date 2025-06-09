@@ -1,0 +1,1 @@
+I created a jFrame using netbeans, Here is a screenshot on how i want the data to be added in to jList, From A to B. ![enter image description here](http://i.stack.imgur.com/LyTxa.png) Can you show me how i can do it?

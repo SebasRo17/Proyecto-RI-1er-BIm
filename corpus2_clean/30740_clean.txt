@@ -1,1 +1,0 @@
-modify evaluate expression new result replace old one rather happens old result get pushed mathematica display current result top look like expression result older result etc pretty sure messed preference revert default another issure resolved trying time sure exactly following old work fix reluctant restore default setting fixed issue far important mathematica ubuntu

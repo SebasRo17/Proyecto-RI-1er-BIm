@@ -1,1 +1,0 @@
-curious differential operator defined mathematica specifically laplacian function available would one go define function mathematica directly without reference grad div thinking pure function able reproduce effect laplacian

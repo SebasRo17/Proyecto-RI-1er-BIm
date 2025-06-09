@@ -1,0 +1,1 @@
+I am starting a new project using Eclipse under Linux and I am looking for a UML 2.x **modeling tool** not just a diagramming tool.   * Do anyone has experience with UML plugin for Eclipse? Does it support all UML diagrams?   * Do you recommend another modeling tool?   * If you have been in a similar situation, what did you end up doing anyway?

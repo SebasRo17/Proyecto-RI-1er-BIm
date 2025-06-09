@@ -1,1 +1,0 @@
-I was searching in the list of questions here but I couldt find it. I have two vectors say x={0.1, 0.2, 0.3, 0.4, 0.5} and y={2, 3.5, 6, 7, 8}. I want to plot them with respect to each other using probably listplot or listlineplot. What is the easiest way of doing this? thank you!

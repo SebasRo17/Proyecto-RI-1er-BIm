@@ -1,0 +1,1 @@
+I started learning PHP and I was able to get myself familiar with it. Now, i want to explore other programming languages like PERL so that i can compare it myself to PHP. Will I be confused to learn two language? Or are there any disadvantages?

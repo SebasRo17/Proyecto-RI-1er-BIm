@@ -1,1 +1,0 @@
-numerous time needed invert integral equation e something like f x g x int x g x dx arbitrary function g g would like find x given f way gotten around making sort table f x x spacing required precision efficient method numerically analytically try use nsolve f x x mathematica complains nintegrate nlim x x valid limit integration

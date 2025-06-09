@@ -1,0 +1,1 @@
+That's right, I learned to program in C++, and of course know the common set of features of both languages, so I can program in C.   But I'd really like to read tutorials or books that teach you C, and _the C way_ of programming, from a C++ programmer's perspective.

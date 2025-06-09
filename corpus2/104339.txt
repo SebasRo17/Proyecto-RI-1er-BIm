@@ -1,0 +1,1 @@
+How can I tell if a system is built upon a service oriented architecture when reading its source code?

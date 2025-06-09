@@ -1,1 +1,0 @@
-I've been applying the VertexMoving method to some graph data, and it's producing very useful results. However, I've got no clue as to what this method actually _is_ , and the documentation is spectacularly vague. Does anyone know what this method does?

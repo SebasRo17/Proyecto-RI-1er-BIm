@@ -1,1 +1,0 @@
-After importing a 3D image of STL format, my possibilities in regard to "3D Volumetric Image Processing" seems rather limited. All examples are given with TIFF files. Is there a way to convert from STL to TIFF or work with STL image in some other way?

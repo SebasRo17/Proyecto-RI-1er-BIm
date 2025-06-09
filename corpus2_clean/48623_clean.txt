@@ -1,1 +1,0 @@
-rather simple question flummoxed let say two matrix b b u v u v looking typeset similar text tableform plusminus work part want remove sign output also want control text size independently etc appear larger text u v appear smaller text tried text tableform plusminus x seem work help much appreciated

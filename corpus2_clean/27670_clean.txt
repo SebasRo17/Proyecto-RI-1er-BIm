@@ -1,1 +1,0 @@
-nonlinearmodelfit parallelized compiled allow one achieve scalable speedup fitting procedure attempting use function fit bivariate gaussian decent guess initial condition take upwards second

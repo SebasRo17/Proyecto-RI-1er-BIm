@@ -1,1 +1,0 @@
-I'm trying to change the CellLabel of Cells using                SetOptions[Cell, CellLabel -> "test"]      or                SetOptions[NotebookRead[nb], CellLabel -> "test"]      if nb is the notebook, without success. How should this be done? Thanks, once again, for all help!

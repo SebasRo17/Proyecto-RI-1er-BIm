@@ -1,0 +1,1 @@
+making http call client side server expects supply client nonce need num byte long planning use combination base64 part mac address random bit generated rng given protocol created expert thus security questioned nonce calculation acceptable view

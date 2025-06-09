@@ -1,1 +1,0 @@
-I have a 2D Plot of 3 functions               Plot[ { f1[x], f2[x], f3[x] }, { x, 8, 18 } ]      where I want f3[x] only plotted for the range [10, 18] instead of [8, 18]. Is that possible?

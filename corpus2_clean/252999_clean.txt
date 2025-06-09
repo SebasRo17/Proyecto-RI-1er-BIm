@@ -1,0 +1,1 @@
+browsing around came across answer suggested using try catch finally clause fix problem rare bug sometimes happened user someone commented valid solution said recommended production recommended production seems perfectly valid used catching exception context app user discouraged continuing app crash seemingly randomly also mentioned could fail anytime well

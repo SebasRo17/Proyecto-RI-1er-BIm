@@ -1,1 +1,0 @@
-please try evaluate code mathematica computationalgeometry g randomgraph pt graphembedding g convexhull convexhull pt show planargraphplot pt convexhull coloroutput red g graphic red pointsize large point pt enter image description work perfectly fine version dynamic object showing anybody got explanation

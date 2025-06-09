@@ -1,0 +1,1 @@
+There are several almost standard tags used in comments: **FIXME** , **TODO** , **BUGBUG**. Which other tags do you use and for what? Are there any standards on using them, i.e. format (supplementing with date and initials), revising procedures, etc?

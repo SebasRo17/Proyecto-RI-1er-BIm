@@ -1,1 +1,0 @@
-The product of cosines is given by (Wikipedia): $ \prod_{k=1}^{n} \cos{\theta_k} = \frac{1}{2^n}\sum_{e\in S} \cos(e_1\theta_1+\ldots+e_n\theta_n) $ where $S={1,-1}^n$. How can I apply this to a formula in Mathematica, say the formula: $ \cos{n_1}+\cos{n_2}+\cos{n_3}\cos{n_4}+\cos{n_5}\cos{n_6}\cos{n7} $

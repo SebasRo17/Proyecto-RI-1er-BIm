@@ -1,0 +1,1 @@
+I like to draw a UML sequence diagram to display the sequence of actions and interactions of different parts of my system (I think they called actors). However, I need to include `if then else` statements here. Do I do something wrong? Can I use conditional if statements in my UML sequence diagram? How?

@@ -1,0 +1,1 @@
+new mvc using framework going designing new web application using mvc user received controller suppose form action insert delete update must process action controller model must controller action insert model insert controller model process action model process action insert self insert language agnostic example mvc way

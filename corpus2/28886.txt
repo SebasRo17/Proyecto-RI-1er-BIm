@@ -1,0 +1,1 @@
+Coming from Windows, I used Putty a lot since it could store a list of hosts I often connect to, provide me with an easy to use double click and then spawn a terminal. Is there a preferred solution for OSX?

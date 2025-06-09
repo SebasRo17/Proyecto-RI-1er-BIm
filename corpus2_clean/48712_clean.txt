@@ -1,1 +1,0 @@
-struggling understand contour integration would applied mathematica hoping see written mathematica code help understand eg would int gamma text z int b text f z z text coded example taken form wikipedia

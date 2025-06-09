@@ -1,1 +1,0 @@
-want define new cellular automaton rule follows represents blank mathematica code mathematica

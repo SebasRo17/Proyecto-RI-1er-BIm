@@ -1,0 +1,1 @@
+wondering thing exist mutable flagged garbage collected specifically tp flag py gc c struct like writing like know member immutable thinking checking py gc flag determine member immutable want speed deepcopy faster shallow copy since know member immutable go expensive deep copy logically sound mythical blow water

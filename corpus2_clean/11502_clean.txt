@@ -1,1 +1,0 @@
-possible duplicate partition string chunk split string sub string length n example string abcdeabcde would like split ab cd ea bc de achieve looked stringsplit documentation seems like work splitting string character length

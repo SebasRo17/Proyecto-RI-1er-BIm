@@ -1,1 +1,0 @@
-want find function w f x z fit experimentally determined value w example assume x z experiment given w e want fit data according relationship w x b x c z find constant b c estimate error model produce

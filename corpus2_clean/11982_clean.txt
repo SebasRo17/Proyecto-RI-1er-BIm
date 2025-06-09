@@ -1,1 +1,0 @@
-code look like table b c give error set write tag time c protected case quite clear semicolon missing b causing error however sometimes encounter large code block spanning several line difficult debug automate semicolon hunting make debugging easier

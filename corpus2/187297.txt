@@ -1,0 +1,1 @@
+I am really confused. The GPL states that if you start with GPL code, and modify that code, that you must release your code with modifications free of charge also under a GPL. But what if you simply use the existing GPL code without modifications as a library? Can you then write software to interface with that code, unchanged, that is closed source?

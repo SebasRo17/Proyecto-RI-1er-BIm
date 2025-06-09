@@ -1,1 +1,0 @@
-findroot seems fail example form f x numericq x x findroot f x x x expected x occurs findminimum even case findminimum f x x x x going guy using mathematica linux x

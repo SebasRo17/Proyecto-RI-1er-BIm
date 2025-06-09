@@ -1,0 +1,1 @@
+often stating new project require quick n dirty content management solution ideally something read database schema generated html form previously used phpmyadmin lacking key area wish list num database independent num foreign key aware num handle view well table num generates modern html cs num ajax interface swiss army knife come cm project

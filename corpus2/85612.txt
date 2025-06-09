@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Version control for independent developers? I was wondering if there is a tool out there which acts as Visual Source Safe but only on local machine. Basically I would like to check in and check out on my local machine when I am codeing on my personal project from home.

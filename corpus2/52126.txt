@@ -1,1 +1,0 @@
-I need a function that will give me the shortest separation between angles that range from -pi to pi. For example if I have two angles 3pi/4 and -3pi/4, I would like a function that will tell me pi/2 instead of 3pi/2.

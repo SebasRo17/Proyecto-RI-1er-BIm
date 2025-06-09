@@ -1,0 +1,1 @@
+While learning Spring framework, I found that Spring framework provides `init- method` and `destroy-methods` which can be used to initialize some properties or to do housekeeping stuff. We can do all those things in the bean's constructor so why do Spring provides these things and in the real world what is the actual use of these two things?

@@ -1,0 +1,1 @@
+seen used object structure like designed let child extend functionality function without override pattern example public create pre create create logic public delete pre delete delete logic protected pre create empty protected pre delete empty extends model protected pre create custom logic

@@ -1,1 +1,0 @@
-try show convolution step function triangle function smooth following code manipulate f unitbox p f unittriangle f convolve f f plot f f f x x x p locator something like original pic click locate locator seems mathematica plot non necessary curve marked red cross cilck get right plot

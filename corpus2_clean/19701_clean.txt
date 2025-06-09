@@ -1,1 +1,1 @@
-suppose function f x z want get variable sequence x z method use one come like f x z func var sequence var elegant point view suitable method thanks
+asked define several algorithm mathematical term describe work customer trying determine anybody know whether common operator collection like sequence list tuples etc defined good reference could pointed thanks interested actual symbol used wondering following would make sense appropiate anybody given two sequence string b c h mind intersection sequence would look like union sequence would b c h

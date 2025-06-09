@@ -1,1 +1,0 @@
-way get word linguistic pronunciation given word string would like function lingusticpronunciation example lingusticpronunciation dog would return dawg maybe even g g depending type pronunciation dictionary used ultimately trying search homophone document would prefer use internet check different homophone pronunciation information

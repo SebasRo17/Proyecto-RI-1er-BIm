@@ -1,1 +1,0 @@
-Simple question but problem with `NSolve`. I need help how to extract first positive root?   For example:                eq = -70.5 + 450.33 x^2 - 25 x^4;      NSolve[ eq == 0, x]      If I have an equation `eq` that I am not sure of polynomial order and I need to define all positive roots `x[1], ..., x[2]`.

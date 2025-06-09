@@ -1,1 +1,0 @@
-I have a function: $\bar{u}:=u[t,x,y,z]$ (1) How do I prevent it from expanding and substituting in instructions like those following: $\partial _t {\bar u}$ (2) Thanks in advance EDIT: Mathematica expressions as asked:               OverBar[u]:=u[t,x,y,z]          D[ OverBar[u] , t]

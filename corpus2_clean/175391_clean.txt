@@ -1,0 +1,1 @@
+javascript difference applying tostring primitive datatype number like var mystring tostring applying tostring creating reference datatype equivalent number like var new number var mystring tostring

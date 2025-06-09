@@ -1,1 +1,0 @@
-two matrix b dimension n p n respectively leastsquares b return matrix r dimension p row r could anywhere real plane want constrain r r two different line done system overdetermined n p

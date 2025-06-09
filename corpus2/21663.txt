@@ -1,0 +1,1 @@
+I am seeing that Microsoft is concentrating too much on F#. What type of language it is going to be and will it replace the C# user base? In the last few months I am noticing Ruby posts in some forums going down whereas Python forums are going up. If Microsoft had not stepped back from IronPython, do you think Python would have ruled C#?

@@ -1,0 +1,1 @@
+Regarding pointers which are members of classes. Should they be of a smart pointer type or is it enough to simply deal with them in the destructor of the class they are contained in?

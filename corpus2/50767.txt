@@ -1,1 +1,0 @@
-I need to plot a function in implicit form as below:               ContourPlot3D[{73.04 z*y^2 - 293.04 z*x^2 ==         2605.68 y^2 - 2605.68 x^2}, {x, 0, 3}, {y, 0, 6}, {z, 0, 15}]      but with the constraint `x > y`. How can I do this with _Mathematica_?

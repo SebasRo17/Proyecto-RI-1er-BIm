@@ -1,1 +1,0 @@
-trying generate subset set containing specific element example set specific element want inside subset required answer would current code select subset range n memberq n example would n however code seems inefficient computer run memory n efficient way already best nb need work one subset point time select code seem allow pick arbitrary th subset

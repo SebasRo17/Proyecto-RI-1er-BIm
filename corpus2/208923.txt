@@ -1,0 +1,1 @@
+I'm just curious if there are any programming languages that use the '=>' and '=<' operators for something. I wonder why these are not commonly used when their variant '<=' and '>=' are so widely used by most languages. Is there a reason why? EDIT: I'm not asking why they aren't used for the same task as '<=', but why the operators go unused for anything.

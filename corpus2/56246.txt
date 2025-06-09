@@ -1,1 +1,0 @@
-Given that both `x` and `y` are expressions, in my case `x` is `Transpose[A]` and `y` is `B`, I thought that the `TraditionalForm` for multiplication was juxtaposition with a space between. Why is the `Output` for `TraditionalForm[Inactivate[x y]]` displayed with `*` visible? I am working in _Mathematica_ **V10**. Thanks for your help.

@@ -1,1 +1,0 @@
-I have 23 .csv files named as 0.csv, 1.csv.... I'd like to import those files one by one, perform some manipulation on the data and finally export it as "i+20".csv. "i" is the variable which in my case goes from 0 to 22.

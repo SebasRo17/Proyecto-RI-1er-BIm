@@ -1,1 +1,0 @@
-I want get something like this:               {{x, x}, {g[x, 1], f[x, 1]}, {g[g[x, 1], 2],        f[f[x, 1], 2]}, {g[g[g[x, 1], 2], 3], f[f[f[x, 1], 2], 3]}}      one way is `Transpose@{FoldList[f, x, {1, 2, 3}], FoldList[g, x, {1, 2, 3}]}` Is it posibble only use `FoldList` once?

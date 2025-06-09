@@ -1,1 +1,0 @@
-Is it possible to use `Manipulate` and `Switch` to change the `Manipulate` controls?               Manipulate[Module[{...variables...},       Switch[type,         1,         controls = ...,         2,         controls = ...]],       controls]      Where `Manipulate` controls would be different for each `type`.

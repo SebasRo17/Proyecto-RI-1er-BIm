@@ -1,1 +1,0 @@
-frac time according mathematica would like see number exactly decimal form scientific notation attempting use euclidean algorithm extended euclidean algorithm get final result precision accuracy much needed number truncated would give x simply difference large number x unless easier way euclidean algorithm mathematica well nice

@@ -1,0 +1,1 @@
+noticed load store large file binary format program run much faster load ascii encoded file case case plain limited parsing involved read fscanf

@@ -1,1 +1,0 @@
-trying import file import csv characterencoding utf getting error like characterencoding utf byte sequence could interpreted character utf character encoding idea solution

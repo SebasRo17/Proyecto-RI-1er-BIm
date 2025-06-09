@@ -1,1 +1,0 @@
-I have come across a few questions asking about integrating over regions. And while the answers are impressive there should be a better more consistent way. So my question is, are there ways, documented or undocumented, that allow one to expressly integrate over regions in an elegant fashion.

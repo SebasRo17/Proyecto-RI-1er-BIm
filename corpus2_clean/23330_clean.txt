@@ -1,1 +1,0 @@
-want create function returning subscripted symbol want symbol assumed real clearall evaluate context n oddq n subscript n map range subscript subscript subscript

@@ -1,0 +1,1 @@
+reading paper efficient reconciliation flow control anti entropy protocol clearly understand section num reconciliation extract sentence paper especially confuse num gossip message unlimited size set contains exact difference like precise reconciliation num requires certain delta r k v n omitted delta higher version number r omitted well num global invariant c p q two process p q

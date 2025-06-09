@@ -1,1 +1,0 @@
-change color locator manipulate example consider following manipulate graphic line pt plotrange pt locator easy enough hide locator add primitive want manipulate graphic line pt pointsize large red point pt plotrange pt locator appearance none locator though seems impervious directive try

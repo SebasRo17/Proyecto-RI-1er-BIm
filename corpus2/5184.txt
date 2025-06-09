@@ -1,1 +1,0 @@
-Are there any alternatives (IDE or other workflow) to Wolfram Workbench for development and debugging? Elaboration: An open source alternative.

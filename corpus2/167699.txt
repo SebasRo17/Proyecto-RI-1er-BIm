@@ -1,0 +1,1 @@
+I am working through some Lisp exercises using Clojure. If I were to convert Lisp lists to Clojure vectors, solving some of the problems would be simpler, so here is my question: Does using `vec` or `vector` cost a lot in terms of time and/or processing? Does using either function cause a meta state change, or are the values converted and moved to a vector?

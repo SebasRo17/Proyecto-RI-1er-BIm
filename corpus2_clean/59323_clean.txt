@@ -1,1 +1,0 @@
-data three category b c value category median semiiqr siqr value median siqr value median siqr e g want preferably bar indicating median value errorbar added indicating siqr done pbc else cat red cat b blue cat c green last two value category blended pinkish lightblueish lightgreenish indicate siqrs addition would like display median value category

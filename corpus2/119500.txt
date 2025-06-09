@@ -1,0 +1,1 @@
+I know some projects and web pages for practicing algorithms like TopCoder and Project Euler. However, they just dictate the solution of a particular problem. I wonder if there is a resource, website or any material, that doesn't only give away the code, but also explains the solution thoroughly ?

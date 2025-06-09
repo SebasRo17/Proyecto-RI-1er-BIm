@@ -1,1 +1,0 @@
-matlab save recall function using file function script something similar mathematica already searched know define function module like following f x sin x co x g x module f x restart mathematica however function deleted course save notebook nb file saving script saving definition function deal problem

@@ -1,1 +1,0 @@
-c one variable declared static initialized every single time function called e int f int inc static int x return x inc f f f return possible mathematica one use immediately come mind compiled function stored static variable use function

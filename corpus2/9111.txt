@@ -1,1 +1,0 @@
-What function can I use to evaluate $(x+y)^2$ to $x^2 + 2xy + y^2$? I want to evaluate It and I've tried to use the most obvious way: simply typing and evaluating $(x+y)^2$, But it gives me only $(x+y)^2$ as output. I've been searching for it in the last minutes but I still got no clue, can you help me?

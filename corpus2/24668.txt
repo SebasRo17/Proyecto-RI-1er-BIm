@@ -1,1 +1,0 @@
-I have the cells:               In[1]:= l = 2 + 2;          In[2]:= l >= 5      After evaluating them:               Out[2]:= False      Is there a way to evaluate all related cells, so if I change `In[1]` to `l = 2 + 5`, `Out[2]` would become `True` without evaluating the whole notebook?

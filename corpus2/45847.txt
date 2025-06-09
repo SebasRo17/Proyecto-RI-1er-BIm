@@ -1,1 +1,0 @@
-The title pretty much explains it and I have not found something similar already posted. Perhaps I am not searching for the correct title or maybe this is something very basic, but I would appreciate any help! Is there a way within the Mathematica front-end to run a command line argument into the terminal? I am using bash and Mathematica 9.0. Thanks!

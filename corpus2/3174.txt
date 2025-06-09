@@ -1,1 +1,0 @@
-Pure functions may be handy if you don't want to assign your function a name. For example I would calculate $x(x-1)$ for some numbers $x$ by               In: #(#-1) & /@ {1, 2, 3}     Out: {0, 2, 6}      Is it possible to use patterns in this construction? For example something like               f[x_Integer] := x(x-1)      but then without defining a function f first.

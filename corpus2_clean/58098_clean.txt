@@ -1,1 +1,1 @@
-list like list want search pattern mark number matching sequence red style option tried use case help work checked help time idea far case list
+work simple blogging web application using mysql database backend implementing whole application using plain html servlets using static method called within servlets handle communicating database good design instead

@@ -1,1 +1,0 @@
-I have embedded my CDF in facebook.The data for the CDF should be taken from facebook server or my server dynamically.I tried out but its not working in dynamic code iam not able to access the data at all from both servers.Now i have the doubt is it possible to access data for the CDF from external databases.

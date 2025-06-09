@@ -1,1 +1,0 @@
-let u take cmb spectrum example get data c l function multipole moment l also multipole moment function angular scale question make plot frame two different scale x axis plot cmb power spectrum edit see done easier way listloglinearplot frame true frameticks automatic none axesorigin enter image description

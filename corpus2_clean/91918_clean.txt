@@ -1,0 +1,1 @@
+application heavy autoloading meaning two class included directly every module tha application total like num module module defines autoloader however wanted know time expensive load class using autoloader could speed side note point experiencing slow application trying predict could happen thanks advance

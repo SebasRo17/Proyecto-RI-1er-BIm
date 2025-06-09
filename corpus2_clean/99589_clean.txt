@@ -1,0 +1,1 @@
+explain friend keyword preferred giving access right private

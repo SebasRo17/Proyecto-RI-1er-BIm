@@ -1,1 +1,0 @@
-set data mydata need fitted function form exp tt n exp ea r tt r gas constant r dot decay function exponent arrhenius factor checked help fitting tool found either one variable variable higher dimensional plot also variable bound need implement simple curve parameter n ea bounded ea lie n close zero single digit plot function respect temperature tt varying variable x axis

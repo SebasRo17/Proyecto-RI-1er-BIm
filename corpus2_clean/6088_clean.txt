@@ -1,1 +1,0 @@
-function plot given function array f part function plot f x filling plotstyle green specify x x function f get error must integer valid filling specification get error minus sign front argument f plot x x everything fine multiply everything f without getting error

@@ -1,0 +1,1 @@
+know business logic placed model using orm clear place handle multiple object e g let say customer model either posh wanted customer add bonus every posh customer would create new handle yes put alongside model class subclass orm currently using django framework specific suggestion even wanted

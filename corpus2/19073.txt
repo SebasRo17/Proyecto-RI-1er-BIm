@@ -1,0 +1,1 @@
+Does your company donate financially to open source projects? My company doesn't. We use open source operating systems, tools, libraries, IDEs, application servers, databases, websites (Wikipedia) etc. We produce a product from this which we sell. Yet we contribute nothing back. I'm sure this is the normal case in many companies. How can this be justified?

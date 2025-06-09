@@ -1,0 +1,1 @@
+I want to create a window icon (128x128 at most, the icon in the corner of the window on Windows is 24x24, I believe) from a large image (1024x768 and more). I've tried several algorithms - nearest neighbor, bicubic interpolation, but they all produce a very soft and barely recognizable image. Do I need content-aware resize for this task?

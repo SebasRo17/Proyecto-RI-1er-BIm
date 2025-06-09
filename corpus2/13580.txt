@@ -1,1 +1,0 @@
-I have $$j_n=\int_0^1 x^{2n} \sin(\pi x)dx.$$ How do I show that $$j_{n+1}= \frac{1}{\pi^2}(\pi- (2n+1)(2n+2)j_n)\, ?$$ I keep getting a recurring integration by parts and I can't simplify it. Please tell me where I'm going wrong.

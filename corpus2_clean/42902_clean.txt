@@ -1,1 +1,0 @@
-graphic text style sqrt b fontsize yield enter image description want nicer looking sqrt b instead ugly sqrt b

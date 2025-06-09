@@ -1,0 +1,1 @@
+Please say that 'code rots' if you don't clean it. What does that mean? Obviously code is text, not an organism that can change itself. So why does code 'rot' if you don't touch it? What makes it 'rot' and what does it actually mean? Please explain, examples would be welcome.

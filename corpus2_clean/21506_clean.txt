@@ -1,1 +1,0 @@
-using findfit fit function experimental data like know error bar fitted parameter scipy curve fit return optimised parameter along covariance matrix anything equivalent mathematica far tell mention documentation

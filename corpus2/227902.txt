@@ -1,0 +1,1 @@
+Hi I'm new to programming, and I've always wondered what would be the point of contributing open-sourced codes if there is no way to ensure everybody who uses the code will adhere to the licenses (or is there?).

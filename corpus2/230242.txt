@@ -1,0 +1,1 @@
+was there ever any serious attempt/demand to introduce C#-style partial classes to the java language? an abandoned JCP? a mailing-list flame-war? anything? or was this never even suggested?

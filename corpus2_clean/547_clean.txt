@@ -1,1 +1,0 @@
-mathematica use contourplot draw implicit cartesian equation seem similar function plot implicit polar equation example theta left frac pi right co r best way

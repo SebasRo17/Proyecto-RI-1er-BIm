@@ -1,1 +1,0 @@
-command take equation input creates output list term original equation something like input foo x b c z output x b c z

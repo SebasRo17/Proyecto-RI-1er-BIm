@@ -1,0 +1,1 @@
+as **GWT** is supposed to abstract all the browsers implementations (for widgets, etc) is it worth doing cross-browser testing? I was just thinking to test only the styling related stuff (CSS related) in different browsers. Any opinion on that?

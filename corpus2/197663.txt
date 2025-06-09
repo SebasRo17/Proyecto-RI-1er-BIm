@@ -1,0 +1,1 @@
+Why do schools teach Scratch instead of more commonly used programming languages (C, C++, Java, C#, Python etc)?

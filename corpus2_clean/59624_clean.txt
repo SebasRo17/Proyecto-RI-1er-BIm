@@ -1,1 +1,0 @@
-huge unbalanced panel data want count number row within group example following data data aa aa cc cc cc cc cc dd dd dd want calculate number row within group without using loop result result aa cc dd help greatly appreciated

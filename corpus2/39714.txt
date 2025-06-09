@@ -1,1 +1,0 @@
-I have table with values like:               t = {1.234 <= a <= 2.345, 3.42 <= a <= 5.67, ...}      and I want to plot this table, the `x axis` should be the number of element in table (first value, second value etc.) and the `y axis` should be values of `a` which satisfy the inequality

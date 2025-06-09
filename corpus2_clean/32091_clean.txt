@@ -1,1 +1,0 @@
-list point e g export file using export filename list want add line end file instance instead ending file ending like blank line tried appending list none added blank line need xmgrace parsing last line exported mathematica file expects blank line end file edit pointed comment kuba pinguin dirk appending work window xp probably others using o x

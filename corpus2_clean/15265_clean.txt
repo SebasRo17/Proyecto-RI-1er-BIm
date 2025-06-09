@@ -1,1 +1,0 @@
-would like graph appear somewhat larger notebook running v osx naturally specify imagesize individual plot drag plot size want make happen time legacy documentation indicates imagesize typically default px show way change default checking frontend preference also come empty get bigger plot default

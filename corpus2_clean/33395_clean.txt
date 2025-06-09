@@ -1,1 +1,0 @@
-parallelmap parallelize map expected work sow reap construct rather brief toy code find prime force use sow reap inside map reap map primeq sow range output expected reap parallelize map primeq sow range got output output ran reap parallelmap primeq sow range question explainable case efficiently spawn parallel job accumulate something

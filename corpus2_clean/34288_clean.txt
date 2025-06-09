@@ -1,1 +1,0 @@
-mathematica doesnt produce answer following integral integrate diracdelta w diracdelta w x w get solution thank much

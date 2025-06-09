@@ -1,0 +1,1 @@
+I am writing an application that will use many tables and I've been told that I must not use stored procedures in this project because it will be too slow. It has been suggested that I use TSQL. I have only used stored procedures until now. Is using TSQL different? Is this the way to go for faster data access or are there other methods?

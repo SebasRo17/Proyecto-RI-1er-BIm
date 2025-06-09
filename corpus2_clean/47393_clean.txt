@@ -1,1 +1,0 @@
-would like generate listloglinearplot automatically show data point however option plotrange achieve include data case example x range log x listplot transpose x plotrange listloglinearplot transpose x plotrange resulting plot listplot look expected listplot lisloglinearplot cut several point left listloglinearplot

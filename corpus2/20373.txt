@@ -1,1 +1,0 @@
-By default, large numbers are displayed in scientific form in output like `1.2345 x 10^8` in _Mathematica_ 8.0.4, but I would prefer having numbers in accounting form like `123,450,000` in output. How can I change the default output number form from scientific form to accounting form?

@@ -1,1 +1,0 @@
-function v h tau sqrt h sqrt h tau want check whether first derivative zero given point say solution h tau tried dt v h h tau h tau proper way show use v system equation trying solve newton method

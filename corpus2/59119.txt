@@ -1,1 +1,0 @@
-solve[{2 x + ay - z, bx - 4 y + z, -x + y} == {10, -30, 20}] $$ \begin{array}{lcr} 2x + a\,y - z & = & 10 \\\ b\,x -4y + z & = &-30 \\\ -x + y & = & 20 \end{array} $$ For what values of "a" and "b"   (a) will the system have a unique solution   (b) are the equations consistent?   (c) are the equations inconsistent?

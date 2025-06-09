@@ -1,1 +1,0 @@
-randominteger x style x red tableform without style tableform grid work well set style work expected fix problem

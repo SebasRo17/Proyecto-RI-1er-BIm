@@ -1,0 +1,1 @@
+colleague mine told business logic stored procedure database violates three tier separation since database belongs layer whereas stored procedure business logic think world would place without stored procedure really violate three tier separation

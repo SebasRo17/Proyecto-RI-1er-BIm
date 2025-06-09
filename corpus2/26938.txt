@@ -1,1 +1,0 @@
-So I need to use _Mathematica_ to find the solution of $y=x- \epsilon \sin(2y)$ as a power series in terms of $\epsilon$. I'd assume I'd need to create an equation $f=x-y- \epsilon \sin(2y)$, then express $y(\epsilon)=\sum_n a_n \epsilon^n$, then input into series, but I can't seem to get it to work. Some help would be appreciated.

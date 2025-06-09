@@ -1,0 +1,1 @@
+running microsoft service bus amqp num locally quite happy recently started business provider us rabbitmq amqp num num message broker integrate able receive event could expose http endpoint bus even write api could perform translation seems counter intuitive cumbersome like install rabbit environment

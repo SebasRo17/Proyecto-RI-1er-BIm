@@ -1,1 +1,0 @@
-made function conv map stringjoin riffle map tostring convert list test test test test know conv stringreplace tostring inside tried conv map tostring row list work understand work tostring row clue last method idea simpler solution

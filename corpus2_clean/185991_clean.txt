@@ -1,0 +1,1 @@
+building web application restful web service reading various article best way authenticate request web service best option seems use http basic authentication pretty much every article ive read say authentication encrypted ssl equivalent im totally sure involves mean whole web service secure server slow thing

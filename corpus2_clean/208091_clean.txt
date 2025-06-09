@@ -1,0 +1,1 @@
+hobby project look like need api library turn wrapper existing http api least two language javascript adding support perl would nice well question best practice minifying cost supporting developing multilanguage apis better choose one language write wrapper one better move slower implement thoroughly language

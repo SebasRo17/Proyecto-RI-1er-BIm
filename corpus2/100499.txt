@@ -1,0 +1,1 @@
+I m thinking of using iTextSharp, which is licensed under Affero GPL, in an internal closed-source WinForms project. No one outside my company will be using it. GPL (and Affero GPL as well) typically demands that the source be provided with the binary. Given that this is an internal project, do I need to provide my employees with the source code of the project?

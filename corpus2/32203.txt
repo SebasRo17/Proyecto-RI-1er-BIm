@@ -1,1 +1,0 @@
-I know it is possible to check the box "Include headers on first page" in the "Headers and Footers" dialog box of the Print Settings menu item, but is it also possible to check this using commands in the Notebook itself? It would be for the current notebook. Thanks for all help, as always!

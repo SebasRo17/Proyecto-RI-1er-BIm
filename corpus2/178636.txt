@@ -1,0 +1,1 @@
+I have submitted a patch for a GPL'd project and now a third-party wants to include this patch in a product. They have asked me what license my patch uses. Does my patch have to adopt the GPL license? Or I can choose an alternative one?

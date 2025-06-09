@@ -1,0 +1,1 @@
+What kind of process or static analysis would catch the heart bleed bug other than human code reviews which we already know failed. The Fix Commit is here.

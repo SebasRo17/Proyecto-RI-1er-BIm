@@ -1,1 +1,0 @@
-possible use option evaluationcompletionaction notify e g beep evaluation took longer example finished one default setting evaluationcompletionaction showtiming indicates frontend way aware duration evaluation ideally would want something like setoptions frontend evaluationcompletionaction duration beep possible could anyone point direction accomplish

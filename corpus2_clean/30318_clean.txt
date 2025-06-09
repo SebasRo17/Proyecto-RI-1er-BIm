@@ -1,1 +1,0 @@
-easy way make boxwhiskerchart show outlier median line g show outlier median line g show median line outlier data randomreal normaldistribution g boxwhiskerchart data outlier g boxwhiskerchart data boxwhiskerchart make boxplot style boxwhiskerplot need statisticalplots data randomvariate studenttdistribution boxwhiskerplot data boxoutliers automatic thanks

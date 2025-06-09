@@ -1,0 +1,1 @@
+private variable way hide complexity implementation detail user rather nice feature understand c need put header see two annoying downside clutter header user force recompilation client library whenever internals modified conceptual reason behind requirement ease work

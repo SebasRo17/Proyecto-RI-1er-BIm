@@ -1,1 +1,0 @@
-bkwrd compatibility issue save ndsolve result interpolating polynomia using dumpsave mathematica window try loading using mathematica linux way could specify backward compatibility cross compatibility file imported different o without version mathematica dumpsave read address issue also anyway interpolating function saved human readable format example code work convenience

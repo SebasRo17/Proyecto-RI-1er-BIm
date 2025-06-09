@@ -1,1 +1,0 @@
-Is there a way to **conditionally** take control/modify the flow during a depth-first scan or the breadth-first scan ? Say, **for example** , if a particular node if found, consider it as a leaf- node and continue with the rest of the processing as usual (meaning do not traverse its child-nodes).

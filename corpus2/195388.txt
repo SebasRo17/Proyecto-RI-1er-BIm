@@ -1,0 +1,1 @@
+We have lots of user-generated images on our site. When users upload their images, we only store the original. However, depending on the page, we show different sizes of those images (small, medium, large, original). Is it necessary to store all sizes of these images or is there a better way? Currently, we are resizing them with CSS but this is really slow.

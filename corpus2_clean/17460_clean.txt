@@ -1,1 +1,0 @@
-would like convert list n complex equation list n real one moment like eq b c flatten complexexpand first eq complexexpand im first eq would like know write compactly since basically using command twice difference changing function im perhaps use pure function map list function thanks

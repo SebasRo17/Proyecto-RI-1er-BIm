@@ -1,0 +1,1 @@
+Are there conventions to follow when naming an application package for an Android application? I'm coding in Xamarin Studio, using .Net, so I feel far from this "com.myapp.etc" naming convention. Are there rules to follow when naming a package?

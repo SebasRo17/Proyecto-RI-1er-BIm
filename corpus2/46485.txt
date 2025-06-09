@@ -1,1 +1,0 @@
-I am trying to solve for x the integral equation :               a Integrate[Exp[-s^2]/(s - c x)^2, {s,-Infinity, Infinity}] +      b Integrate[Exp[-s^2]/(s - d x)^2, {s,-Infinity, Infinity}] = 1          where a, b, c and d are numerical values. I have tried **`NIntegrate`** and some iteration but didn't get me too far... can anyone help me with a better idea?

@@ -1,1 +1,0 @@
-Having written a lot of code on M8, I recently switched to M9 and tried to run the code on M9, the code starts by loading an .mx file written by M8, but M9 wouldn't read the .mx file saying that it was written on another machine. This is a major incompatibility issue between M8 and M9. Fortunately, I kept my M8 installation, so for now, M9 is useless to me. Please a solution.

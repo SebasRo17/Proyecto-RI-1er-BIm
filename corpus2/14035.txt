@@ -1,1 +1,0 @@
-Is it possible to export the output expressions from _Mathematica_ computations (e.g., equations) in valid MATLAB syntax?

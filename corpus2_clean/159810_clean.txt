@@ -1,0 +1,1 @@
+several design pattern like adaptor iterator implemented stl mean stl implemented oo concept relationship oo template part c learned virtual member oo contradict template correct

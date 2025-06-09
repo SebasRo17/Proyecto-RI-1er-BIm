@@ -1,1 +1,0 @@
-I have a polygon that I want to thicken with thickness `h`. How do I do this? `FaceForm` is evil and says: > The directive Thickness was encountered in a context where it is not > allowed.

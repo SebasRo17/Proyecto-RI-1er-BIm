@@ -1,1 +1,0 @@
-ToExpression["9.0E-03"]      interprets String as               9*e - 3      instead of what I am expecting               0.009      How can I convert to expression Fortran notation?

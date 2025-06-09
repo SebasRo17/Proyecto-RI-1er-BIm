@@ -1,1 +1,0 @@
-I'm programmatically creating notebooks containing dynamic content. When a new notebook is being created, a window pops up: ![enter image description here](http://i.stack.imgur.com/LmUiP.png) I then manually click on "Continue" and it will create the notebook. The same steps happen for each notebook being created. How to automatically deal with this?

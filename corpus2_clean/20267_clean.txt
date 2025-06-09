@@ -1,1 +1,0 @@
-set n vector even length let u make easy example vector length b b b b b c c c c c want create vector e b b e b b f c c f c c suppose use gatherby found way get want

@@ -1,1 +1,0 @@
-What are the different ways I can start using Wolfram Language even though I dont want to use Raspberry Pi? Are there any convenient ways? I actually have a raspberry pi but I am trying to find alternative workarounds as well.

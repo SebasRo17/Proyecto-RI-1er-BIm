@@ -1,0 +1,1 @@
+I would like to know the skills and programming languages necessary to learn hypervisor development and any good resource to start learning?

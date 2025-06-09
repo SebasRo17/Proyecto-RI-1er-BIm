@@ -1,1 +1,0 @@
-If I have an equation               eq = f[x] + g[x] == 0      and I solve for `f[x]`               sol = Solve[eq,f[x]]      how do I use `sol` to replace both `f[x]` and its derivatives in another equation? For example               eq2 = f'[x]*g[x] + f[x] == 0      and then               eq2 /. sol      outputs               {-g[x] + g[x] f'[x] == 0}

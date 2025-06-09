@@ -1,0 +1,1 @@
+wrote include iostream std cin num std cout num msvc turned optimization flag expected since never num generate section num std cout however generated section check gcc llvm clang limit expectation c scenario

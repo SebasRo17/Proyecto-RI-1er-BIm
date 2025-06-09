@@ -1,1 +1,0 @@
-createdocument windowsize always center new window

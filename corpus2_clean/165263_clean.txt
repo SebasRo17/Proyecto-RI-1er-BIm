@@ -1,0 +1,1 @@
+assume abstract base model called two realization want display list different subclass define category interface end override concrete sublcass returning suitable view implementation end implementation end implementation index item objectatindex index view alloc init view view end ask model view violating mvc principle avoiding introspection construction thank

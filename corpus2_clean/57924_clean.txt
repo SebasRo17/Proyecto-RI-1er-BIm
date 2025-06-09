@@ -1,1 +1,0 @@
-would really like deploy textured graphic web sketchfab blog unfortunately mathematica export shape graphic e obj file omits associated material file mtl generated way accomplish aim deploy mathematica textured graphic sketchfab standard textured material format perhaps someone written basic mtl exporter

@@ -1,0 +1,1 @@
+I'm having trouble determining what I might put in the body of a response to an `OPTIONS` request? are there conventions? standards? What do you put? do you just provide a list of other METHODS? should you give the representation?

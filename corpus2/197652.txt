@@ -1,0 +1,1 @@
+I have a list of integers. Also, I have a function which returns True when the element is non-zero, and returns False when the element is zero (let's call it FUNCTION1). So, how to define another function (using FUNCTION1), which will give us a new list and only include the non-empty elements? For example, we have [1,2,3,0,6,0], and we want [1,2,3,6]

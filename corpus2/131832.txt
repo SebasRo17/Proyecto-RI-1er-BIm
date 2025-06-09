@@ -1,0 +1,1 @@
+Feeling slightly underwhelmed with the content in my degree path of Computer Science at my University, I have been attempting to learn on my own. I am looking for direction into topics that will be helpful to know when going into the working world. As a senior I've learned basics of data abstraction, and basics of C++, vb.net, and php.

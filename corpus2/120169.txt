@@ -1,0 +1,1 @@
+I know that `obj.func1().func2()` is called method chaining, but what is the technical term for:               func1(func2(), func3());      Where return of a function is used as an argument to another.

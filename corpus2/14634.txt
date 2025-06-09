@@ -1,1 +1,0 @@
-Map[f[#] + g[#] &, {a, b, c}] vs Map[f[x]+g[x]&, {a, b, c}]      My question is: why is the output different?               Map[f[#] + g[#] &, {a, b, c}]          (* {f[a] + g[a], f[b] + g[b], f[c] + g[c]} *)      and               Map[f[x] + g[x] &, {a, b, c}]          (* {f[x] + g[x], f[x] + g[x], f[x] + g[x]} *)

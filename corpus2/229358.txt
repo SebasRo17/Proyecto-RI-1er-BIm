@@ -1,0 +1,1 @@
+Before you answer, yes I know that other languages have no native javascript object support, but neither do they have native support for json. So wouldn't it make much more sense to modify the json spec to allow identifiers without "" and allow comments? Very sensible things because you don't have to serialize/deserialize when working in javascript, no?

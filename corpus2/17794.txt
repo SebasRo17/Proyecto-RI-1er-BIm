@@ -1,1 +1,0 @@
-I would like to generate a report for codes written in Mathematica, but I don't see basic features such as:   1. Table of Content generator   2. List of Figures   3. Abstract   4. Bibliography and other standard report generators like LaTex?

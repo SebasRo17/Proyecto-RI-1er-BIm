@@ -1,0 +1,1 @@
+instance let say nginx config pointing foo1 foo2 foo3 well haproxy config pointing foo1 foo2 foo3 finally deployment tool pointing respective server one reconcile build sort configuration generator nginx haproxy based host seems though would make grepping difficult potentially hinder readability configuration file general

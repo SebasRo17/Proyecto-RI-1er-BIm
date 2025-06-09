@@ -1,1 +1,0 @@
-want mimic image type using mathematica barchart function purpose wrote following code working enter image description barchart imagesize labelingfunction chartlabels placed barchartlabels barspacing chartstyle green chartelements graphic purple glow purple edgeform purple cuboid boxed false labelstyle directive bold directive bold

@@ -1,1 +1,0 @@
-suppose file multiple table separated line beak like banana yellow apple red grape purple fire red water blue sky blue parrot green whale blue cat yellow need create three list ordered pair single file single table simply use data import file dat table case know tell mathematica split three table need data data data

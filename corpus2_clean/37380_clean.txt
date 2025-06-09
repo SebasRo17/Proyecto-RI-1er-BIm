@@ -1,1 +1,0 @@
-noisy data want smooth savitzky golay filter want keep magnitude signal ready use filter available b appropriate value half width coefficient data point example data data

@@ -1,1 +1,0 @@
-Is it possible to `Manipulate` `Graph`s (e.g. a `CompleteGraph[100, GraphLayout -> {"SpringElectricalEmbedding"}]` in _Mathematica_ 9 such that I can e.g. rotate it as 3D object and zoom in and out? If not, how else can one inspect large graphs without extra programming?

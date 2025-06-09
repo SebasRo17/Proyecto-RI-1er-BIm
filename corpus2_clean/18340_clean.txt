@@ -1,1 +1,0 @@
-game theory package around mean supporting function take game matrix form tell nash equilibra best strategy ect

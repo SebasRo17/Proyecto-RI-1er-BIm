@@ -1,1 +1,0 @@
-So I'm in the middle of generating some plots and all of the sudden the frontend goes dead and I haven't saved my work. I'm using Mathematica 8 in MacOS X. The MathKernel process is still running and I'm hoping to be able to extract the In/Out history from it through Terminal. Is there a way to do this?

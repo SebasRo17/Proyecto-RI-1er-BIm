@@ -1,0 +1,1 @@
+What benefit could C++ bring to system administrators? I am working on Windows and Ubuntu. If I learn C++, where could I implement it in system administration, Please specify some of its benefits.

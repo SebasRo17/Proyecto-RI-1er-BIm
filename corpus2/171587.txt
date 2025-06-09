@@ -1,0 +1,1 @@
+Tags are a vital part at Version Controlling for example SVN.   * When should i write Tags at SVN?   * What information should have a Tags?

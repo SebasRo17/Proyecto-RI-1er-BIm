@@ -1,0 +1,1 @@
+web application serving file downloads php working fine download column file field increment want full downloads like many downloads day month time day location able find design mysql table need lo every download request database design pattern example real world

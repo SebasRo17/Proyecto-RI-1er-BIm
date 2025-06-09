@@ -1,1 +1,0 @@
-Sometimes I want some country data not available from `CountryData`. And issuing things like:               WolframAlpha[ToString[#]<>" | whatever data",                   {{"Result", 1}, "ComputableData"}                 ]&/@CountryData["Countries"]      is both incredibly slow and I'm sure to hit my daily API limit. Can I do all these requests in one go?

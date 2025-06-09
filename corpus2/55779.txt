@@ -1,1 +1,0 @@
-I have a list of 49 numbers, and I would like to define a function f such that f(n) is simply the nth number in the list. How can I do this?

@@ -1,0 +1,1 @@
+I'm curoious if there are any templates using annotations such as ambigous, needs update and so on. Industrial or Academic does not matter. If there are, are there any way tools available that use these annotations to show that "22% of the requirements are tagged ambigous" and so on? Bonus points for Academic papers on this topic (or a nearly related topic)

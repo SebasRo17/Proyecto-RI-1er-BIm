@@ -1,0 +1,1 @@
+In the excellent http://artofunittesting.com/, i saw recommendation to keep logic out of unit tests. Does this hold true for functional/integration tests?

@@ -1,1 +1,0 @@
-following expression expr sqrt r sqrt r r r sqrt r r r sqrt r fullsimplify expr r return expression however plot expr r show r disguise way tell mathematica smarter trick use case like

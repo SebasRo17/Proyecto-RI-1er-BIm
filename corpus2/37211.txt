@@ -1,1 +1,0 @@
-I defined and evaluated a function               Max2[t_?NumericQ] := Log[Abs[-1 + First[Maximize[sol1[[2]][x, t], 0 <= x <= L, x]]]];      Now, I expect this to be close to a straight line as a function of $t$, so I would like to get the best slope from a fit. Looking at the reference website, I don't understand how to linearly fit a function.

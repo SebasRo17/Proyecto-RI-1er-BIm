@@ -1,0 +1,1 @@
+writing small program want able link program also intend command interface maybe later gui interface could distribution reuse flexibility hurt linking program static dynamic library distribute library dynamically link gui command interface statically link stand alone binary

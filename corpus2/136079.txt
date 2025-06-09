@@ -1,0 +1,1 @@
+I'm writing an essay, and would like to have some empiric evidence, perhaps longitudinal data where the popularity of these technologies is compared over a period of some years. Are there any statistics that show the popularity of Git versus SVN?

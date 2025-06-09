@@ -1,1 +1,0 @@
-using densityplot similar want change font size frame label color bar legend get frame label work example densityplot sin x sin x plotlegends automatic basestyle fontsize enter image description

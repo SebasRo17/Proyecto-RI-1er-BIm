@@ -1,0 +1,1 @@
+I'm very good at programming in C++ but when it gets to linking and the other important stuffs I feel very ignorant. I want to learn allegro without wasting time. So please suggest a book or a resource to learn the concepts mentioned above. Thanks a lot in advance.

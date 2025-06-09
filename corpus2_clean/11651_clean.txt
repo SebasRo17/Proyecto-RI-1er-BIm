@@ -1,1 +1,0 @@
-expression want mathematica fully expand without simplification afterwards want output look like following example x x xy yx could help solve problem

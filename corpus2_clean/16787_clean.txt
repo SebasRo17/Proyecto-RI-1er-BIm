@@ -1,1 +1,0 @@
-given two list l l b b b b b function f accepting two argument produce list value f b l b l b using functional construction

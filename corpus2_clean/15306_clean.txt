@@ -1,1 +1,0 @@
-anyone experience calling mathematica inside sql server calculation example make procedure us mathematica job run mathematica script saw post mathgroup little bit confusing easy way specific would like execute inside sql server mathematica script script work using mathkernel script myfile know make sql call mathematica installed another server local web

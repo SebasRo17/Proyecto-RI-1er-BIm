@@ -1,1 +1,0 @@
-trying solve ode ndsolve using explicitrungekutta method need know exactly time step ndsolve chooses e point interval tmin tmax chooses implement runge kutta method interpolation made

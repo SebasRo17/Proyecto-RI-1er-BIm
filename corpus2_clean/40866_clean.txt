@@ -1,1 +1,0 @@
-wondering following expr l r foo l r expr foo l r substitute function variable expression realize could create dummy variable like foo l r expr l l r r actual expression lot free variable would like know simpler way

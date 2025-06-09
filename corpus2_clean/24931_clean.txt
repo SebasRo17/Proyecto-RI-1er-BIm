@@ -1,1 +1,0 @@
-hi absolutely newbie mathematica following problem list look like want choose range x value want say point want choose value like x value point linear regression done tried linearmodelfit data x x mathematica made linear regression value want choose range find solution somebody idea

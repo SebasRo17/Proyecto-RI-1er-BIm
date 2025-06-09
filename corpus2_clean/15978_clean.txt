@@ -1,1 +1,0 @@
-solved ode using dsolve problem understanding solution general solution form inversefunction many expression using g x c g constant mean inversefunction mean context

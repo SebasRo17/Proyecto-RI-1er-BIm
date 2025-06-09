@@ -1,1 +1,0 @@
-I have a data list in the following form,               data = {x, y, z, f}      I would like to present three kinds of subdata set as a density (or contour) plot on the respective planes at once in one 3D graph.   1. `data1 = {x, y, f}`   2. `data2 = {y, z, f}`   3. `data3 = {x, z, f}` How could I make an above kind of plot? I really appreciate if anyone help me.

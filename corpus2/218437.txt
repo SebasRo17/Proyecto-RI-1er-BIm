@@ -1,0 +1,1 @@
+I am trying to understand the difference a little better as it seem like they are the same thing. I have work in projects with no use of the requirements and everything is an acceptance criteria, and on projects that have both.

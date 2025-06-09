@@ -1,0 +1,1 @@
+building application requires huge transaction sec need use ipc communication know lot method used sure one choose application application gonna num process process num thread chunk need transferred two thread around found fifo good choice except 64k big need modify recompile kernel sure right thing anyway open suggestion like squeeze experience appreciate advance

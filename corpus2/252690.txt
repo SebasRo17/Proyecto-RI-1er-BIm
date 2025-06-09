@@ -1,0 +1,1 @@
+I was reading in Peter Norvig's Design Patterns presentation. From slide 13: > Dynamic version needs only the Window classes. > > The classes themselves serve as factories > > This works because classes are first-class values We can say `make(c)` Does it mean that Java and C# don't need the factory design pattern since they can pass around class type as a variable.

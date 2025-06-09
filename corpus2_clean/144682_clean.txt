@@ -1,0 +1,1 @@
+start new project must choose working embedded domain one criterion evaluating size benchmark dhrystone evaluating compiler term compiler handle integer floating point function something along line providing general comparison ability compiler produce small file

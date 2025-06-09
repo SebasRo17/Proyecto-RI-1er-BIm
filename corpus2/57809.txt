@@ -1,0 +1,1 @@
+I'm looking to dive into multithreading or multiprocessing in Python. Question: should I be learning one before the other (for any reason)? If so, which one and why? I've read the pro's and con's in SO questions like this, but I'm not really sure how they relate to the pedagogical value of learning one or the other first.

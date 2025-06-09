@@ -1,0 +1,1 @@
+I have read about linear programming and its content and I wonder if this way of programming is common to use in the market? I often hear about object oriented programming but not linear programming. I would like to hear a discussion about it.

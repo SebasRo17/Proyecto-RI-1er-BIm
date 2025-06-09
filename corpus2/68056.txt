@@ -1,0 +1,1 @@
+Is the synchronised keyword still required (ignore backwards compatibility, I'm thinking in terms of writing new code, today) or should we all be using the features available in the Concurrent and Collection packages?

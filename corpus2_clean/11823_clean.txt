@@ -1,1 +1,0 @@
-graph object contains forest directed tree want draw forest root tree top leaf bottom use following line code graph directededge directededge directededge directededge directededge vertexlabels name graphlayout layereddrawing get image forest everything look fine except root top resolve issue

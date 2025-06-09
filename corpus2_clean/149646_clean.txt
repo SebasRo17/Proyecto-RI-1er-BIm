@@ -1,0 +1,1 @@
+trying learn socket programming make game created playable via network never done much network programming subject bit confusing php use apache test aplications local server need install able network application

@@ -1,1 +1,0 @@
-trying create simple almost transparent sphere mesh made solid line front surface e directly visible dashed line line happen back sphere e directly visible cannot think easy way without involving explicit calculation part sphere directly visible given viewpoint part idea

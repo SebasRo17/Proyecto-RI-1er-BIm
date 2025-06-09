@@ -1,1 +1,0 @@
-I was wondering if it is possible to manipulate a `FindFit[]` function. As a basic example, if I had an equation $ax^2+bx+c$ and a set of data, would it be possible to manipulate the `c` value, while _Mathematica_ outputs the best fit values for `a` and `b` for that `c` value?

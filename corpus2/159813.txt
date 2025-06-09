@@ -1,0 +1,1 @@
+Isn't the whole point of an interface to for multiple classes to adhere to a set of rules and implementations?

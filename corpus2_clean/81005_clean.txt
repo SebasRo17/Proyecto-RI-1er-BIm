@@ -1,0 +1,1 @@
+tasked bos look system create script upload server store detail db also want implement versioning change made script updated version incremented version number area sure would go implementing versioning tool simply case incrementing field database new version number complex initially seems

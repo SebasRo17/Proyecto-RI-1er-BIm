@@ -1,0 +1,1 @@
+(This is a general question but I think is important.) How do you quickly understand a huge piece of code, say, a project with tens of thousands of lines of code (written by other people)? Are there any useful source analysis tools (for example, call graph visualizer) or IDEs that may be helpful? Any techniques are also welcome. Thanks.

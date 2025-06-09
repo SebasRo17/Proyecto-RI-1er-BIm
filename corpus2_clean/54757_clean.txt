@@ -1,1 +1,0 @@
-one great new function v peakdetect detect peak according desired sharpness shown example data table x sin x exp x x peak pick data peakdetect data listplot data peak plotstyle automatic directive red pointsize enter image description question find valley data using new function

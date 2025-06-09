@@ -1,0 +1,1 @@
+.NET defines the `InvalidOperationException` as > The exception that is thrown when a method call is invalid for the object's > current state. In an optimal software design, would it ever make sense to throw this exception? I would argue that the 'optimal' API prevents any misuse, including, never allowing a method to be called when its state is invalid.

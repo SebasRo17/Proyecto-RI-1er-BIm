@@ -1,0 +1,1 @@
+I'm developing a desktop application (a File Manager) in C#.   For copy/cut and paste operations I will use the default methods in .NET like               System.IO.File.Copy()       System.IO.File.Move()      Are there any limitations of these methods that I should know about ? and if there are, what are the alternatives of these methods ? (win32 API maybe)

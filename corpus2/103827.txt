@@ -1,0 +1,1 @@
+So I have an open source project that I would like to promote and I want to create a project-site for it where I will host the documentation, etc. (preferably something that integrates with github for handling downloads, issues, etc). The project-site should be just like a typical. Is there anything out-of-the-box for this or do I have to code it from scratch? Thank you.

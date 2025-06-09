@@ -1,0 +1,1 @@
+I am going to fork an open source project. Would you recommend to create a new changelog file or to update the original one? Would it be reasonable to increment its version number or would it be better to reset it?

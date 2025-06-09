@@ -1,1 +1,0 @@
-family equation want solve non negative integer one particular instance b like solve problem x b quad x mathbb n call linearprogramming ask linearprogramming table b table infinity table integer purported solution c actually solution problem happen mathematica tell solution

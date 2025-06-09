@@ -1,1 +1,0 @@
-listplot filling fillingstyle lightgray joined true frame true mathematica graphic result filling whereas listplot filling fillingstyle lightgray joined true frame true give expected fill order matter literally expected behavior

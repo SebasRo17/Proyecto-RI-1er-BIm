@@ -1,0 +1,1 @@
+stumbled across need create thin layer interface abstract away need know public interface task content path task path good idea test default implementation fall back standard net system io class logic attached think might overkill want get strategy checked experienced programmer

@@ -1,0 +1,1 @@
+think reason management force developer write call stored procedure instead inline sql statement directly even simple crud statement writing stored procedure take time create extra workload

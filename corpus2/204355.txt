@@ -1,0 +1,1 @@
+If you have to pay the price of performance to make code more readable would you prefer that or you would always prefer performance over it?

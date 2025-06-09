@@ -1,0 +1,1 @@
+If I use an Open Source library which is released under a zLib like license, but it has dependencies on libraries that are using LGPL or GPL; what license am I able to release my project under? If I read things I find on the net it sounds like I can sell my project but I can't stop people from distributing it freely as per GPL?

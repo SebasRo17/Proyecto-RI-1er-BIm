@@ -1,1 +1,0 @@
-part another problem working evaluate hypergeometric function hypergeometric f n large n hoping obtain least double precision accuracy way n however starting low n obtain precision error n hypergeometric f n meprec internal precision limit way tell mathematica use much time want compute quantity workarounds

@@ -1,1 +1,0 @@
-Is this matrix multiplication is possible? Microsoft mathematics gives me a answer for it? How it could be a correct? If we need multiple two matrix, number of rows and columns should be equal. So how it is possible? ![Is that possible?](http://i.stack.imgur.com/EI76V.png)

@@ -1,1 +1,0 @@
-Is there a way to calculate the _Rational Canonical Form_ of an $n\times n$ integer matrix using _Mathematica_? I have been perusing the documentation and web, but nothing so far.

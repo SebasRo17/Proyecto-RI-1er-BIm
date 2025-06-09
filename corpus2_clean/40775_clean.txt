@@ -1,1 +1,0 @@
-simple short question function contains certain number square root th power let take one f sqrt x sqrt sqrt z b c want able count number occurrence square root number occurences th power think possible use count figure tried count f sqrt infinity count f power infinity seem work someone tell achieve

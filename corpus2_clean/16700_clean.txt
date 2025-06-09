@@ -1,1 +1,0 @@
-want find sum f left dfrac right f left dfrac right cdots f left dfrac right f x dfrac x x tried f x x x sum f get answer tell mathematica know f x f x used simplify f x f x

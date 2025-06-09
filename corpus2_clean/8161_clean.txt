@@ -1,1 +1,0 @@
-execute following integrate exp w w w get e besselk sqrt agrees result obtained nintegrate however execute integrate exp w b w w get conditionalexpression b real evaluates b obviously wrong integral convergence issue integrand simply gaussian multiplied modulus one third order chirp factor clearly converges integrated real line mathematica give incorrect answer second integral

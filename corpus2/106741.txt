@@ -1,0 +1,1 @@
+I'm practicing Java in Netbeans. Is there a reference out there that's the de-facto standard for describing best practices, design methodologies, and other helpful information on GUI programming in Java? What about that reference makes it special?

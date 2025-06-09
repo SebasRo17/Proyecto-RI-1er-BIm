@@ -1,0 +1,1 @@
+Is there a representation for modern programming constructs that are becoming common in modern OOP/hybrid languages like mixins/traits/categories/partial classes ?

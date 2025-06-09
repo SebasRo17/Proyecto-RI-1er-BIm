@@ -1,0 +1,1 @@
+According to this Python code visualizer, Python strings are allocated on the stack and not on the heap. Why is this? I thought they would be similar to Java where Strings are allocated on the heap.

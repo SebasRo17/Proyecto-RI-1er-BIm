@@ -1,0 +1,1 @@
+understand naming restful uri commonly accepted use plural represent collection resource curious argument using singular noun instead

@@ -1,1 +1,0 @@
-know use notation package define custom notation work great standardform output would like notation apply convert traditionalform example notation tell mathematica find laplacian operator mathematica display without bracket work fine standardform however use traditionalform mathematica insert parenthesis instead following rule make rule apply traditionalform

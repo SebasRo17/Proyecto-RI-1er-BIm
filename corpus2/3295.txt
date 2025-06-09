@@ -1,1 +1,0 @@
-Functions such as `GraphDistanceMatrix[]` or `AdjacencyMatrix[]` are available without invoking               Needs["GraphUtilities`"]      . Why isn't the whole package available when _Mathematica_ starts? Are the functions different after having loaded `GraphUtilities`?

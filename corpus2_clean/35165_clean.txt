@@ -1,1 +1,0 @@
-following code exportstring b json give result e b e first one obviously wrong numerical value also e parsable python e e work guess following standard problem also exists export need exchange data program easiest way fix kind problem

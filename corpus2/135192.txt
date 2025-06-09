@@ -1,0 +1,1 @@
+I would like to know what would be needed to study and understand in terms of computing platforms and OS (Linux, Mac OS X and Windows) to become a software porting engineer.

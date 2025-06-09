@@ -1,0 +1,1 @@
+The title says it all: Are halting and terminating synonyms in the context of computability theory?

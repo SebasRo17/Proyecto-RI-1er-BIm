@@ -1,1 +1,0 @@
-Find integer values of p such that $(2^p - (2^2)(3^2))/ (3^3)$ is an integer.

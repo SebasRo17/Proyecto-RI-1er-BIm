@@ -1,1 +1,0 @@
-example two list structure l australia usa norway l russia b norway b japan b would like sort country list l country order l compare entirely mean value matching country thus would like gain something resembling result l sorted l l australia usa norway l australia b usa b norway b

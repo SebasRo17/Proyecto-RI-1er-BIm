@@ -1,1 +1,0 @@
-When I save plots made in Mathematica in PDF format and then insert them in a presentation (e.g., in Powerpoint), the plot axes are invisible in the picture created by the projector. Is there a way to impose a certain thickness to the axes?

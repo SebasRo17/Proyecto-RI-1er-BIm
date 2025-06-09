@@ -1,0 +1,1 @@
+new web development looking popular open source framework front end back end general idea modern full stack web setup look like database back end language rest api front end note back end language ruby php generates api layer back front api authentication protect private front end sends get post request api mvc framework used backbone angular ember j understanding accurate

@@ -1,0 +1,1 @@
+I looked and looked, and perhaps I am dense, but I could not find an API for open source projects on Google Code, similar to that offered by Github. Does it exist?

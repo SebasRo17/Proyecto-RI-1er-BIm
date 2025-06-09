@@ -1,0 +1,1 @@
+I want to know how exactly, we can ensure that a project is 100% tested ?   In banking or financial applications not 1% also tolerable.   So being a developer, how can you say your code is 100% tested?   Explanation with example is highly appreciated.

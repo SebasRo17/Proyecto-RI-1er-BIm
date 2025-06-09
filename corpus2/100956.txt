@@ -1,0 +1,1 @@
+I am thinking of developing customized software for desktops in Visual FoxPro 9 and want to know what type of licensing is required. As a developer, would I need to have a Visual FoxPro 9 license and would my users need to have the End User License? What type of licenses would be needed for commercial release? How would the licensing change if I released this as freeware?

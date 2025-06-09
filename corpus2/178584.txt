@@ -1,0 +1,1 @@
+I understand that the classical model from the lambda-papers is not valid for Python. And the closures are not the mathematical model of the implementation of the Python system. So which model is it?

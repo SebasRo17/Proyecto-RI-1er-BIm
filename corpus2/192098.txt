@@ -1,0 +1,1 @@
+I want to build a command line interface with menus and sub-menus and eventually the leafs of the tree should be operations like.. bank management -> account management -> add acount (insert account info) And I'm looking for a good way which works with the OO principles... Thanks for any piece of advice!

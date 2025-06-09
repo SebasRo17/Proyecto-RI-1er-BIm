@@ -1,1 +1,0 @@
-What techniques are there for modifying/organizing/selecting/deleting cells? I understand Mathematica 9.0 has a Cells function but what techniques exist in Mathematica 8.0? The documentation for effectively using and modifying `Cells` seems quite limited.

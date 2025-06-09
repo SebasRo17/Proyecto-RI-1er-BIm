@@ -1,0 +1,1 @@
+known standard structure hash table resolve collision using binary tree structure imagine structure would useful reduce worst case search time log n compared n hash table best case would still num

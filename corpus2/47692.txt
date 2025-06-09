@@ -1,1 +1,0 @@
-I have a $3D$ space, if I had a square in this space:               square = {{ 0, 0, 100}, { 100, 100, 50}, { 0, 100, 22}, { 100, 0, 86}};      how could I get the average height of any point in this field where `0 < x < 100` and `0 < y < 100`? For example I want the `z` value on `x == 40 && y == 33`.

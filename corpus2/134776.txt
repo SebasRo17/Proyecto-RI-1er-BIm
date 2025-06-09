@@ -1,0 +1,1 @@
+The code should remains as open as possible, but I'm planning to sell it on Windows and Mac, and make free rmp/deb. Does the licence even matter? It feels like I'm just selling the service of compiling and distributing the software here.

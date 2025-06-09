@@ -1,1 +1,0 @@
-Is it possible to generate C/Java code with Mathematica so that it minimizes number of operations performed? For example, for matrix inverse or determinant? With good caching variables?

@@ -1,1 +1,0 @@
-Why is               Integrate[ HeavisideTheta[1 - x^2] DiracDelta[1 - x^2] , {x, 0, 1} ]     (*0*)      It should be `HeavisideTheta[0]`?

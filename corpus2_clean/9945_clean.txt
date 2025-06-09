@@ -1,1 +1,0 @@
-using parametricplot get x v plot want shade area enclosed curve falling region example shade area enclosed sin curve sin x parametricplot x sin x x xm

@@ -1,1 +1,0 @@
-question may simple answer find anywhere documentation trying find function tell whether list permutation another list function behave like testpermutation return true testpermutation return false sort work use findpermutation list list catch error say e g findpermutation norel expression cannot related permutation nice solution neat way

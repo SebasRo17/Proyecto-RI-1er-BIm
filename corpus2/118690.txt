@@ -1,0 +1,1 @@
+Are complex numbers used in programming? If they are what is their significance? What IDEs and languages use them? And would it be recommended to learn how to implement them for a programming job (if so please specify what job)? I've been working in Eclipse and just studied the importance of complex numbers in math and wondered if it correlated.

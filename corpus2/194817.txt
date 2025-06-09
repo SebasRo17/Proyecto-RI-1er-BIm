@@ -1,0 +1,1 @@
+I am looking for an explanation on just why XML needs to be validated. I have been testing DTD's and Schema's for the past month and recently tried to find out why I am doing this. I know it makes the XML better and more Semantic but what are the overall benefits of validating XML?

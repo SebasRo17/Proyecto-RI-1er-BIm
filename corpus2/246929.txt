@@ -1,0 +1,1 @@
+When referring to or documenting a typical lock-free circular data structure (or class or object) used to communicate between arbitrarily long asynchronous threads or processors: "queue", "fifo" or "FIFO" are commonly used. Is there a technical reason why one term might be the more accurate or better communicative usage in some situation over the other term.

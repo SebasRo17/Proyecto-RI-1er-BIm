@@ -1,0 +1,1 @@
+I'm trying to look up info about reading JPEG's color profile info and to my surprise there's very little open specific how-to information on that regard, but rather lots of general explanation on what it is. **Does anyone know how to find and read the color profile information from JPEG?**

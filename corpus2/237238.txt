@@ -1,0 +1,1 @@
+I'm setting up a GitLab server in my company and now I'm adding GitLab CI to it. Before start this task I'd like to understand if there are any disadvantages running my runners on the same server used by GitLab and GitLab CI. I've read that there are security concerns but we use it only internally so I don't think this could be a problem. Am I missing something?

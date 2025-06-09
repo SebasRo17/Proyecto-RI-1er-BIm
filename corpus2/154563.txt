@@ -1,0 +1,1 @@
+I would like to optimize the way I manage my todo list. My tasks are, for a large part, related to `C++` coding but also include readings, presentations, research... Lately I discovered the `@todo` command in doxygen, which is pretty cool for the coding part. I would like to keep a clear track of all my tasks in one big tool though. Any ideas ?

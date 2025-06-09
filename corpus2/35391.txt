@@ -1,1 +1,0 @@
-I want to measure minimal distance of small dots from the edge of an image: Image of bright dots: ![enter image description here](http://i.stack.imgur.com/GmXiM.png) Edge image ![enter image description here](http://i.stack.imgur.com/N2P7t.png) ImageAdd looks like following: ![enter image description here](http://i.stack.imgur.com/vZQjy.png)

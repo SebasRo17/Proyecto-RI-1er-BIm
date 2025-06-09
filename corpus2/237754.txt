@@ -1,0 +1,1 @@
+In most, if not all implementations of regular expressions, the \w metacharacter matches all alphanumeric characters plus the underscore. Historically speaking, why was the underscore character included in this character class? And why not include dashes too?

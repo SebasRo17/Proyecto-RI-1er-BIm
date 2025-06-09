@@ -1,0 +1,1 @@
+I was applying markdown comments in the xml comments of a config file when the XmlParser reported that two hyphens (`--`) are not allowed in xml comments. Checking the XML Specification, it appears that xml comment isn't designed to contain two hyphens for compatibility reasons with SGML parsers. Why do SGML parsers disallow double hyphens in comments?

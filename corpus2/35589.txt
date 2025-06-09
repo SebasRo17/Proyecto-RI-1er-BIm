@@ -1,1 +1,0 @@
-I want to know what ranges must be set for theta and to get a hemisphere of radius 5 from SphericalPlot3D.

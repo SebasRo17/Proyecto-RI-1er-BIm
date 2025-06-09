@@ -1,1 +1,0 @@
-I want to solve the exponential inequality $$8^x +18^x -2\cdot 27^x>0.$$ I tried               Solve[8^x + 18^x - 2*27^x > 0, x]      and               Reduce[8^x + 18^x - 2*27^x > 0, x]      How do I tell _Mathematica_ to do that?

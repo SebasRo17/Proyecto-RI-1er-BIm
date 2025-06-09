@@ -1,1 +1,0 @@
-I combined two plots using `Overlay`. In the output plot I want to add few modifications. Usually I right click on the plot (for `Plot` or `ListPlot`) and use the drawing tool option. But there is no such option for the output of the `Overlay`. Is there any alternative to drawing tool to modify (like adding text or arrow) a plot created by `Overlay`.

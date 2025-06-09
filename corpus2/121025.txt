@@ -1,0 +1,1 @@
+Are there any 100% pure languages (as I describe in the Stack Overflow post) out there already and if so, could they feasibly be used to actually do stuff? i.e. do they have an implementation? I'm not looking for raw maths on paper/Pure lambda calculus. However Pure lambda calculus with a compiler or a runtime system attached is something I'd be interested in hearing about.

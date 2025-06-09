@@ -1,0 +1,1 @@
+currently working cuda directx want know flow architecture gpus one presented cuda directx parallel programming model graphic pipeline respectively want know flow architecture like flow architecture num processor

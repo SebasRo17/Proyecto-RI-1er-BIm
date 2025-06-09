@@ -1,1 +1,0 @@
-In mathematics derivates are often written like $$d^2y \over dx^2$$ or $$dy \over dx$$ In Mathematica we have the function D, but is it possible to use a similar approach?

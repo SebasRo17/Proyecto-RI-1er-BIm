@@ -1,1 +1,0 @@
-How can I make a stylesheet where inline cells have are styled like input cells? By "similar", I mean the same font and syntax highlighting. I have even tried copying all settings from `Input` cell of `Core.nb` to a private style definition for `InlineCell`, but had no luck.

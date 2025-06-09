@@ -1,1 +1,0 @@
-Given an expression `x`, are the following two statements interchangable with no exceptions?   * `Depth[x] - 1 == 2`   * `x // MatrixQ` If they are, which is evaluated faster? Other than for speed, is there a reason one should be used rather than the other?

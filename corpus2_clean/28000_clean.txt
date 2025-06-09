@@ -1,1 +1,0 @@
-wondering possible make following type plot mathematica would like take object ellipsoid cut wedge know done using sphericalplot plotting azimuthal angle phi tricky part usually whats left hollow shell want make seem solid object inside colored according function would see cut wedge flat surface colored according function possible mathematica anyone recommend program may done

@@ -1,1 +1,0 @@
-consider manipulate function manipulate per pdata table sin pi x per x n randomreal n listplot pdata n take time evaluate step manipulation would like export step manipulation image rasterized otherwise create manipulation simply scroll though image allowing run smoothly quickly way automate something like nb code working take far longer evaluate step example code work much idea

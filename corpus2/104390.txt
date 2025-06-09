@@ -1,0 +1,1 @@
+Maybe I'm looking for a dependency visualizer/matrix. I'm not sure. I'm just trying to wrap my head around an existing and large web app, and I like pretty pictures. I know of Autodiagrammer but I don't think it would show the master page/subpage relationships. Is such a thing even possible?

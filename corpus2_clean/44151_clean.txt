@@ -1,1 +1,0 @@
-trying find eigenvector time sparse matrix associated smallest eigenvalue realized smallest eigenvalue might negative example eigenvalue matrix want find eigenvector associated therefore command eigensystem matrix eigensystem matrix cannot guaranteed return desired result furthermore lower bound estimate possible smallest eigenvalue way find eigenvectors efficiently

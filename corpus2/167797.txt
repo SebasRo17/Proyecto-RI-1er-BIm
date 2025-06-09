@@ -1,0 +1,1 @@
+It seems that both Apple and Microsoft prohibit GPLv3-licensed software in the app stores for their locked-down devices (i.e. iOS, Windows Phone and the Metro part of Windows). I have heard various explanations for this. However: Would they even be able to allow this license in their app stores if they wanted to, or does the GPL's anti-tivoization clause already prohibit this?

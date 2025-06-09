@@ -1,0 +1,1 @@
+I've noticed since installing Visual Studio 2010 SP1 that I'm having huge performance issues. It will randomly freeze up on me quite a bit. I had no performance issues with Visual Studio 2010 before the upgrade. The only add-on I have running is ReSharper. I'm wondering if anyone else is experiencing performance issues? If so have you found a way to fix them?

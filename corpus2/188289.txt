@@ -1,0 +1,1 @@
+In order to sign an application for the Apple App Store, we need to create a certificate by saving a certificate request file from `keychain` and then upload it to the Apple store. I was wondering, what does this certificate request file contain?   Does the certificate contain any information (like a finger print) about the OS or hardware?

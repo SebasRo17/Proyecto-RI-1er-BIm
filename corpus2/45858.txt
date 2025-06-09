@@ -1,1 +1,0 @@
-I'm building an Animate where I have a 3D plot with some of its parameters changing: `Animate[SphericalPlot3D[Sin[(3/z)*x], x, y, PlotStyle -> Opacity[0.7]], {z, 1, 5}]` Whilst it is running through the changes though, the entire plot goes very low-res. How can I ensure that the resolution stays high throughout the animation, and not just when it stops running?

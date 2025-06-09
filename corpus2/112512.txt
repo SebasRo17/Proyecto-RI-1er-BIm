@@ -1,0 +1,1 @@
+Please advise if it is required to learn design patterns if I'm studying for Android development?

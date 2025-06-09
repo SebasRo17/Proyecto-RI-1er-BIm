@@ -1,0 +1,1 @@
+Would something like `This program uses code written by Nathan2055` satisfy the requirements for the BSD license, or do I need to copy out the whole notice? I know it asks that the notice is kept intact, but if I'm only using one file of code it's a waste to have to copy the entire license into the main copyright file.

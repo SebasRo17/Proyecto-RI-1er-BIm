@@ -1,1 +1,0 @@
-How do I find points on the line segment joining `{-4, 11}` and `{16, -1}` whose coordinates are positive integers?

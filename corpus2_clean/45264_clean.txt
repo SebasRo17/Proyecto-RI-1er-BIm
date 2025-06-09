@@ -1,1 +1,0 @@
-plot cornu parametric spiral mathematica quite easy thx detail need familiar cornu statement begin case x int co u du int sin u du end case

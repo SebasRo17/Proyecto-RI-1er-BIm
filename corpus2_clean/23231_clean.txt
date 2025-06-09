@@ -1,1 +1,0 @@
-started mathematica need many purpose important one read text data file extract column value variable successfully tested tab delimited data format problem file format line comment space blank line col line col have header repeated blank line comment suggestion welcome

@@ -1,0 +1,1 @@
+What are the best tools / frameworks / libraries available to implement and run algorithms on graphs? In particular I need a tool that can load a set of nodes, edges and values assigned to these edges and then allows me to perform operations on them. I already found R but I'm wondering if there is a more "programmer friendly" tool available?

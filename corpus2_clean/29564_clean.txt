@@ -1,1 +1,0 @@
-way set number color used listdensityplot using rainbow follows showlegend listdensityplot testlist colorfunction rainbow colordata rainbow tostring lmax tostring lmin legendposition testlist list like x z x z legend get color change get color would like listdensityplot well get color someone tell thanks shrihari

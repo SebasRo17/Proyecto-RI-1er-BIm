@@ -1,0 +1,1 @@
+question rather design question program got structure look something like private concurrenthashmap concurrenthashmap b concurrenthashmap integer c service new concurrenthashmap concurrenthashmap b concurrenthashmap integer c way handle structure elegantly thanks edit b c business class instance association many b b many mapping integer c

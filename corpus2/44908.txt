@@ -1,1 +1,0 @@
-How do I execute binary operations in Mathematica? I want to to multiply say 1010101011 (binary) to 1111101110 (binary) and getting the result 10100111101111111010? Then I want to add the result to say 10101010000111 (binary)? Assume the all binary numbers are given as lists such as {1,0,1...}. Thanks!

@@ -1,0 +1,1 @@
+Some tutorials give silly examples to teach OOP, for example: Car _class_ and myCar _object_ , etc. Is that way considered bad in learning OOP assuming that these examples not applied to real programming problems?

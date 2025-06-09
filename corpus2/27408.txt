@@ -1,1 +1,0 @@
-I re-ran a program I wrote for Mathematica v8, now on v9, and it appears to generate different `RandomInteger` numbers, even though I use the same `SeedRandom` at the beginning.   Have Random functions changed in v9?

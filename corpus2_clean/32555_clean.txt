@@ -1,1 +1,0 @@
-proteindata serpina moleculeplot give detailed graphic plot like make many small copy object place single graphic scene running performance problem molecule graphic object pretty complicated mesh general method reducing quality detail graphic object like one would allow place many single scene enter image description

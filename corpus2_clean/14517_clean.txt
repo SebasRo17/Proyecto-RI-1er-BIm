@@ -1,1 +1,0 @@
-since new mathematica want notebook take input user return average input entered plot x coordinate

@@ -1,1 +1,0 @@
-code curvature x z x z v ft v norm v fk ft norm v norm fk curvature co sin n sqrt ab derivative ab derivative ab ab derivative ab derivative ab ab derivative ab derivative ab question n get numerical answer instead derivative ab place thanks edit following fix code mynorm lst sqrt lst lst curvature x z x z v ft v mynorm v fk ft mynorm v mynorm fk curvature co sin n return

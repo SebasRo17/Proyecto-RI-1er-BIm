@@ -1,1 +1,0 @@
-want define variable q function want define another variable qdot dq dt want archive function f sin q take derivative df f mathematica return qdot co q way

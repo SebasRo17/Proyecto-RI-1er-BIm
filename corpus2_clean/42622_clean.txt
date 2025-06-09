@@ -1,1 +1,0 @@
-robin condition boundary condition combine dirichlet neumann condition boundary example boundary x want apply u x x du dx x think one possible approach reformulate pde discretization using finite difference method manual apply robin boundary condition system ode could trick dsolve ndsolve

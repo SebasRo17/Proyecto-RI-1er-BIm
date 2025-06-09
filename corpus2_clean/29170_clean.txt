@@ -1,1 +1,1 @@
-execute line data table j j data table j j opts imagesize automatic basestyle fontsize imagepadding bothplots row arrayplot data opts arrayplot data opts get following picture enter image description space plot data frame x array much smaller space plot data frame x matrix possibility avoide set space manually
+seen programmer tweaking make work good also make look good imo clean actually compliment indicating elegant perfectly understandable maintainable difference come choose aesthetically appealing v stressful look many actually write clean good practice benefit drawback

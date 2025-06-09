@@ -1,1 +1,0 @@
-data rectangular structure something like matrix b c e f g h problem column consist uncompressed data looking elegant way uncompress whole matrix unfortunately uncompress matrix work

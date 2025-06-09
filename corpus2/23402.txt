@@ -1,1 +1,0 @@
-I'm trying to find the following;               Subsets[Range[2, 2300], {4}]      but my computer gave the following error: > `Subsets::toomany:` The number of subsets (1160942293126) indicated by > «input» is too large; it must be a machine integer." What is your advice?

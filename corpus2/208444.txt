@@ -1,0 +1,1 @@
+For our iOS app, a lot of complicated UI logic depends on the interface orientation of the ViewController. This conditional logic is present in a lot of places. Can it be segregated into different states in form of objects?

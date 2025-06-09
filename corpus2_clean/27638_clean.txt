@@ -1,1 +1,0 @@
-provided coordinate c k two dimensional image return pixel bounding disk rectangle centered c k specified dimension update hat tip kuba recommending pixelvalue sjoerd c de vries recommending imagedata however considering case bounding box possible return pixel using pixelvalue image subscript x min subscript x max subscript min subscript max form matrix rather dimensional array

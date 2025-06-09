@@ -1,1 +1,0 @@
-How can I show the intersection points of three functions in my `Plot`? I really can't figure it out.               LogPlot[{(4.058*10^31)/M, (1.647*10^60)/M^2 , M}, {M, 0, 2*10^20},              PlotRange -> {10^9, 10^21} , Filling -> 3 -> Axis,              AxesLabel -> {Subscript[M, U], Subscript["Λ", U]}]

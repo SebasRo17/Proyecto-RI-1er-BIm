@@ -1,1 +1,0 @@
-creating barchart barchart ax false frame true give first three bar chart identical barchart ax false frame true intended behaviour bug originally asked workaround think use ax instead frame let ask instead sake knowledge need frame ax using mathematica

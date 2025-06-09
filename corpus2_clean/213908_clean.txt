@@ -1,0 +1,1 @@
+android application custom content provider set load database local file sure needed set content provider sometimes need something like get back short list id ok mix content provider pattern simple direct database call e open query close block

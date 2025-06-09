@@ -1,0 +1,1 @@
+In c++, is there any other way, besides header files, to use a function defined in file A.cpp, inside file B.cpp that would be considered good programming practice?

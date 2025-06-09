@@ -1,1 +1,0 @@
-easy make plot mathematica e g use plot sin x x want nice plot thesis decided use pgfplots latex together mathematica use picture mathematica draw latex well readable ax etc around picture see e g p et seq use program together need plot parallel perspective projection see pic picture perspective projection mathematica give perspective projection way get parallel projection

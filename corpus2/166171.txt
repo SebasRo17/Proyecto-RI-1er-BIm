@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Where is the application of Calculus(of continuous quantities) in Computer > Science or programming   >  How can calculus and linear algebra be useful to a system programmer? Differential and integral calculus is part of my degree but I don't understand why. Where does it come in play, where is it used?

@@ -1,0 +1,1 @@
+Are there standard practices when writing a spec for a software development project? Is there a specific format to follow? Also, does the developer or the client write this up? If the dev, is this billable?

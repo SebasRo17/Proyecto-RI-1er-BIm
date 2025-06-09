@@ -1,0 +1,1 @@
+How do you debug PHP? Just with debug-prints in your script? Or is it worth installing XDebug? Is there any better debugging possiblity?

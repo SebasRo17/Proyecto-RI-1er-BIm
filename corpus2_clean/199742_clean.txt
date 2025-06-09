@@ -1,0 +1,1 @@
+currently coding api social network slim framework question best practice row json structure let say call v1 get movie return num row table movie name indiana jones call v1 get book row table empty structure would better message error message match found num better practice api used io android apps thanks

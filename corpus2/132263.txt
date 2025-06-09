@@ -1,0 +1,1 @@
+I'm using Autumn gem to create a Ruby IRC bot for a game. However, it makes me feel rather embarrassed because I don't know how to test this kind of program... I think I should mock the IO process to have a control over it but I can't see how in this case when using the gem. Has anyone an idea ?

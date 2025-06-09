@@ -1,1 +1,0 @@
-trying create transition matrix network order need sum column degree divide column degree order normalize able sum column unable figure efficiently easily divide column sum l

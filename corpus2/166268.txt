@@ -1,0 +1,1 @@
+Should I be concerned with security when installing Node packages globally? Why or why not?

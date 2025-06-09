@@ -1,1 +1,0 @@
-I have this bit of code that works, but it's very slow when there are 600k elements in the list:               mytbl = {};     ParallelDo{        If[Flatten[left][[i]] == 1 || Flatten[left[[i]]==0,          mytbl = AppendTo[mytbl, Flatten[left][[i]]];        ];,        {i, Length[Flatten[left]]}     ];      Is there a significantly faster way to do this?

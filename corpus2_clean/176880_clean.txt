@@ -1,0 +1,1 @@
+understand heap memory division young perm gen curious memory used performing garbage collector memory space thread stack

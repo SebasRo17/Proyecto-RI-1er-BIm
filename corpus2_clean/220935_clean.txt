@@ -1,0 +1,1 @@
+still trying understand design pattern learning abstract factory pattern realised pattern scale well take look uml diagram abstract factory pattern uml diagram create new add abstract abstractfactory effect implementation question abstract factory pattern scale thinking wrong direction thanks advance

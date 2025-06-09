@@ -1,0 +1,1 @@
+Using Visual Studio 2012 with C#, when I write multi-line comments, VS automatically begins each line with an asterisk, like this:               /*      *      *      */      I was just curious if this was the case in programming languages other than C#, or if there was a specific reason for this template.

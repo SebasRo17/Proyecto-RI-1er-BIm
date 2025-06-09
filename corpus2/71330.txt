@@ -1,0 +1,1 @@
+Can I design my program so that it will automatically change OS's hotkeys parameters? I mean, when installing a program, it will set the hotkey of OS so that if you press them, the program itself would run. (Linux/Windows)

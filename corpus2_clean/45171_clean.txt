@@ -1,1 +1,0 @@
-point get error warning scaled local spatial error estimate direction independent variable x much greater prescribed error tolerance grid spacing point may large achieve desired accuracy precision etc track time whenevent scaled local spatial error kept ndsolve

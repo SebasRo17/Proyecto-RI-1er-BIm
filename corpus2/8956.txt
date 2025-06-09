@@ -1,0 +1,1 @@
+If you are a solo developer, or have a leading role in a software company, you might have to decide how much your software will cost one or another day... What is your experience with calculating how much your software costs for your customer? Why does this method it work for you?

@@ -1,0 +1,1 @@
+list num num point co ordinate like num num num num num num num num num num faster way search point bounding box instead iterating entire list time checking co ord inside num side using algoritm see point randomly moving come inside stationary bounding box help

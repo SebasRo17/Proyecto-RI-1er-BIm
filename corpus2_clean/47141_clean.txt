@@ -1,1 +1,0 @@
-idea dynamically update parameter inside ndsolve example consider following first order de eq x x parameter want solve ode parameter might change x turn zero whenevent x x tried following code work idea eq x x sol ndsolve eq x whenevent x x x

@@ -1,1 +1,0 @@
-Can Mathematica detect constructible numbers? I know it has `MinimalPolynomial` but for degrees higher than 4 it's not obvious whether a given polynomial yields a constructible number or not. See, e.g., http://en.wikipedia.org/wiki/Constructible_number#Transformation_into_algebra or http://mathworld.wolfram.com/ConstructibleNumber.html

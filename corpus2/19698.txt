@@ -1,1 +1,0 @@
-I have been trying to make code work for iterating piecewise linear maps on the unit interval in Mathematica to compare with MATLAB and Maple. Tent and logistic maps are easy to implement but Bernoulli and other non-traditional maps have been difficult (at least for me). I wish to investigate histograms of the invariant densities of map iterations for non periodic orbits.

@@ -1,1 +1,0 @@
-Is there `mkdirs()` (make directory structure) equivalent in _Mathematica_? I want to specify something like this : `dir1/dir2/dirn` and I want _Mathematica_ to create the directory structure `dir1/dir2/dirn`

@@ -1,1 +1,0 @@
-would like implementation chinese remainder theorem polynomial mathbb z x function polynomialcrt f f n n x thet return polynomial f mathbb z x smallest degree f x equiv f x mod x f mathbb z x pairwise coprime idea thanks advance

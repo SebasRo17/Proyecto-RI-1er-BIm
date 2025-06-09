@@ -1,1 +1,0 @@
-symbolic matrix e g x x x x x x x x x want produce output list unique element present desired output x x x x x x tried use arrayreshape arrayflatten convert matrix dimensional list would hopefully able conclude union far working properly

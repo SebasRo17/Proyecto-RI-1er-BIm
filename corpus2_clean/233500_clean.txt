@@ -1,0 +1,1 @@
+new javascript learning concept hoisting javascript based javacsript tutorial mozilla website came across word hoisting according tutorial variable javascript refer declared later without getting exception question circumstance suitable use hoisting client side javascript use hoisting javascript advantage

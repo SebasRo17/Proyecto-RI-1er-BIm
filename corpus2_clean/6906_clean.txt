@@ -1,1 +1,0 @@
-physic problem huge tiny number mathematica give speed particle speed light sqrt v c becomes singular use smaller value radius r work radius light year get error message way increase precision something like

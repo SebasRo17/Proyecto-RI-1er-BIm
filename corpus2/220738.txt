@@ -1,0 +1,1 @@
+I am thinking about using a GPL Bison grammar for my own compiler. Will the grammar "infect" my parser such that it needs to be open source? The grammar - in terms of - the input of bison is GPL.

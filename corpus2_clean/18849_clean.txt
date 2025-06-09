@@ -1,1 +1,0 @@
-learning use mathematica past week recently trying recreate something along line enter image description given function want create plot object bounded region function extruded upwards certain shape hope find basic volume instead integrating would seen parametricplot able create want

@@ -1,0 +1,1 @@
+Let's say, I have one or more web app I find interesting, and as I want to do something similar, I would like to know on which technology they are based (programming language, database, web server, framework, ...). Is there any site where such information is centralized? If not, where should I look for this information?

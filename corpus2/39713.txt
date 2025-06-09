@@ -1,1 +1,0 @@
-I would like to create a window where a student may enter an equation and, by clicking on a button, the function gets plotted. * * * In the original Spanish: > Quiero realizar una ventana en la cual el alumno tenga la opción de ingresar > una ecuación la cual al presionar un botón se grafique.

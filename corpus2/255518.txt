@@ -1,0 +1,1 @@
+I see that R has very nice plotting capabilities that I would like to use in a C# windows form. There is some integration between C# and R but is it also possible to have a R chart in a windows form? Basically doing all calculations in C# and pasding results to R to plot and see everything in the windows form app. Any idea to help me on this? Thanks.

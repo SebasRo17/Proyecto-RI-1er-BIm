@@ -1,1 +1,0 @@
-definition f x x v g u f v u v u following two expression yield different result despite difference name iterator table g table g believe related table applies value variable mentioned function behave similarly albeit bizarrely using different variable name iterator good way avoid issue

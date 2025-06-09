@@ -1,1 +1,0 @@
-I want to import list from a file and I am using `ReadList` but my data is in format like this 8.2457409790900004e+08 but it i being imported like $8.24574*10^8$. Is there a way to increase the precision of import? Or even better, is there a way to change the notebook's precision globally ?

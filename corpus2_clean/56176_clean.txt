@@ -1,1 +1,0 @@
-generate list random real number follow probability distribution pdf f x force random number follow f x

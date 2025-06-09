@@ -1,1 +1,0 @@
-I am unclear on the exact relationship between `Notation`, `Format` and `Interpretation`. `Format[X] := Y` seems similar to `Notation[Y <= X]` for formating and `Interpretation[X, Y]` seems related to `Notation[X => Y]` for parsing but I am not sure how they fit together and when to use which.

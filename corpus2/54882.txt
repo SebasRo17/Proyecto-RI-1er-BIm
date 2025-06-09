@@ -1,1 +1,0 @@
-How can one compute the q-Multinomial Coefficient as a function of q,m and a list {n1,n2,n3,...} in Mathematica? See http://mathworld.wolfram.com/q-MultinomialCoefficient.html for the definition.

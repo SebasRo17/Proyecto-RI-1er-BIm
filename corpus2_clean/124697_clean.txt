@@ -1,0 +1,1 @@
+project mining large size say n many small string l 1 l 2 size want find sequence small string concatenation minimum alignment cost cost include insertion deletion substitution large size n use one mandatory use string note n greedy implementation give bad result even small string find efficient solution problem anyone help look like dynamic programming might able help sure

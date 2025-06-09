@@ -1,1 +1,0 @@
-way generate counting function prime power e create similar function primepi including prime power following course generate list number select range primepowerq

@@ -1,0 +1,1 @@
+I need to encode data into a user token that describes the user's Country, State, and city. I understand that different descriptors apply to different government hierarchies, but am looking for a standard of some type that has already sorted this out. What ISO standard, binary format, etc is best at describing a user who may be from any country?

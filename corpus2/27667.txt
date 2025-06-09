@@ -1,1 +1,0 @@
-I am using `ParallelMap` for my code,however, it gives some messages that don't affect the evaluation process but fill up the memory and take some more time. So, I want to turn off all messages on all kernels. I used `Quiet` but it doesn't work. Is there a way to switch off messages on all kernels? Any help is appreciated. Thanks in advance.

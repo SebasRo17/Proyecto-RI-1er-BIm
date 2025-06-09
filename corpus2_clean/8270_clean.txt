@@ -1,1 +1,0 @@
-plotted histogram used axeslabel labeling x axis axis went wrong xarray tuples range randomsample xarray table energy randomvariate exponentialdistribution length total energy histogram axeslabel rightarrow average energy number time

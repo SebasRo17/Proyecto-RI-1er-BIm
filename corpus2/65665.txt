@@ -1,0 +1,1 @@
+What technology is used by sites like goanimate, xtranormal, and animoto? Especially the video compilation engine in the backend of animoto? Could HTML5 be used to do everything that's there?

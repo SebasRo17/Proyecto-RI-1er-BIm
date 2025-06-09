@@ -1,1 +1,0 @@
-create smooth histogram log log scale use histogram data log logcount get log log histogram use smoothhistogram data get smooth histogram way combine two functionality

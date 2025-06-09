@@ -1,0 +1,1 @@
+What happens when concurrent requests call the same static Java method running on an application server? Say that a method run takes 2 seconds and receives 100 calls in a given second. The method itself wouldn't read/write outer state. Could it be better to let it be an instance method instead?

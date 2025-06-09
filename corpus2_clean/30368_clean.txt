@@ -1,1 +1,0 @@
-calculation need increased precision parameter k manipulate manipulate plot co k x x pi k setprecision setprecision appearance labeled however time aesthetic reason want label right slider display couple digit could done

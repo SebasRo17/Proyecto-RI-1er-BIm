@@ -1,0 +1,1 @@
+I'm looking for a reference to the following. I commonly hear that one-third of a projects time will be spent in design, one-third in implementation, and one-third in testing. The three phases of development seems to be derived from the waterfall model. But, where did the time division originate (1/3, 1/3, 1/3)? Is there a paper or book that this is from?

@@ -1,1 +1,0 @@
-using histogram plot view correlation r g rgb image naturally want bin color corresponding x r g position chart unfortunately colorfunction histogram supply one argument height x position way color bin based x position within histogram e rgbcolor x generating uncolored histogram histogram transpose flatten imagedata jpeg flatten imagedata jpeg

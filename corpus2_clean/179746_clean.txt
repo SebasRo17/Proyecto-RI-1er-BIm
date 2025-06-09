@@ -1,0 +1,1 @@
+currently working rather large project used junit easymock fairly extensively unit test functionality interested type testing worry developer responsibility worry thing like functional regression testing good way integrate useable way tool maven ant gradle better suited tester ba useful type testing missing

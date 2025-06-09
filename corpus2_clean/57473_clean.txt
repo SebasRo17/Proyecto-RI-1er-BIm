@@ -1,1 +1,0 @@
-trying perform cross product two column expect give column cross b c x z gave error cross nonn argument expected vector equal length number argument expected less length idea happening

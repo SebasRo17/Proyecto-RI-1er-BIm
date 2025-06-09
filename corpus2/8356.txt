@@ -1,1 +1,0 @@
-Has anyone created on WinBUGS (Bayesian inference Using Gibbs Sampling) interface with Mathematica similar to BugsXLA for Excel? I'd like to setup the model, define the evidence in a notebook and then analyze the results of the MCMC (Markov chain Monte Carlo) runs.

@@ -1,0 +1,1 @@
+Can you have Java compiled straight into machine code? I want to do this so I have control over what platforms it's used on, and don't know C,C++ etc.

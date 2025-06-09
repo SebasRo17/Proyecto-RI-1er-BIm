@@ -1,0 +1,1 @@
+I am releasing an application at no cost, but I am not granting users the right to modify or redistribute the code. How should I call this? I initially used the term "free license", but on second thoughts I find this confusing because free can have several meanings, and in people's mind it is often associated with open source. Is there a better terminology for my case?

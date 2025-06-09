@@ -1,0 +1,1 @@
+Is the visitor pattern useful in languages supporting class extensions? Why bother implementing it, when you have open classes or can subclass. If you want new functionality for a class you could just subclass it, so unless I'm missing something, is it still (very) useful in languages supporting class extensions?

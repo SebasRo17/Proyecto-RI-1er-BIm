@@ -1,0 +1,1 @@
+There seems to be a lot of buzz around _software craftsmanship_ lately. Is it a well-defined concept? What does imply? To what extent is programming effectively a craft activity?

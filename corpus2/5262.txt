@@ -1,1 +1,0 @@
-The output of `Trace[expr]` can be nicely represented as a tree, I guess. Here is an example trace.               x = 5;     Trace[Mod[(3 + x)^2, x - 1]]          (* {{{{x,5},3+5,8},8^2,64},{{x,5},5-1,4},Mod[64,4],0} *)      How can I make a tree graph from this list?

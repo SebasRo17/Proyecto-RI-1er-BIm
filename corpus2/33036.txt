@@ -1,0 +1,1 @@
+I'm learning Haskell and as an exercise I'm making binary trees. Having made a regular binary tree, I want to adapt it to be self balancing. So:   * Which is most efficient?   * Which is easiest to implement?   * Which is most often used? But crucially, which do you recommend? _I assume this belongs here because it's open to debate._

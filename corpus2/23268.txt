@@ -1,1 +1,0 @@
-I entered the following recurrence relation into RSolve and it just gave the question back to me. $$a_{n+1} = \frac{(1+a_n +(a_{n−1})^3)} 3$$ Is there another way to get a formula for the nth term?

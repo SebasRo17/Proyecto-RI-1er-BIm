@@ -1,0 +1,1 @@
+Does an appropriate algorithm really help improve the quality and ultimately the efficiency of a program? Can we still produce a good quality program without the algorithm? Is an appropriate algorithm a MUST in modern programming?

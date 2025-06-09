@@ -1,0 +1,1 @@
+num byte word num byte 2x word heap go num byte alignment grabbing word time anyway right went num byte alignment num num

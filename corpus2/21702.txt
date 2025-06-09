@@ -1,0 +1,1 @@
+I have no knowledge of Entity Framework and NHibernate but definitely want to learn. I want to know how to start. Whether to first read documentation of NHibernate or the default Visual Studio Entity Framework? Is Microsoft's Entity Framework a variant of NHibernate?

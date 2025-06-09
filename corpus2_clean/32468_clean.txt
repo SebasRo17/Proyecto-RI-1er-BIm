@@ -1,1 +1,0 @@
-proteindata moleculeplot give graphic object like display multiple protein single graphic scene way place graphic object returned proteindata specific location orientation another scene alternatively proteindata api somehow missing would give object could place rotated translated new graphic scene

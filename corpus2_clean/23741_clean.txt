@@ -1,1 +1,0 @@
-would like make plot function defined integer value like f n integerpart n integerpart try plot plot f n n plotrange plotpoints exclusion none colorfunction bluegreenyellow need point get decent result take long time result similar histogram one know anyway thanks advance

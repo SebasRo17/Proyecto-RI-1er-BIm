@@ -1,0 +1,1 @@
+While reading about Java EE applications, somewhere I have seen people saying they're enterprise scalable, I am confused as to what that really mean? Are Java web applications mainly written & suitable for building enterprise management tools, not for the high traffic websites of today's world, that need to scaled to a large internet population?

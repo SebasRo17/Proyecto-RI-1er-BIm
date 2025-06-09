@@ -1,1 +1,0 @@
-plotting slow function would nice know much work already done however due refinement algorithm simply monitoring integration variable give useful estimate unless maxrecursion set clear best hope estimate example consider monitor plot pause sin x x x go interval dozen time although number point iteration go therefore question way get reasonable estimate much plot already done

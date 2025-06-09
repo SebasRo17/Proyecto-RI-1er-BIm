@@ -1,1 +1,0 @@
-three dimensional cellular automaton sense generalizes conway game life might use cellularautomaton command simulate might visualize

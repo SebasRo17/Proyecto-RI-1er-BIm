@@ -1,1 +1,0 @@
-following command give mathematica f b exp x b x integrate f b x infinity infinity assumption element b real seems wrong see following article really bug yes known perhaps even instance bigger problem

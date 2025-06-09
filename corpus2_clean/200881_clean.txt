@@ -1,0 +1,1 @@
+creating new project scratch decided use num layer model using 1st layer business entity 2nd layer business logic 3rd layer logic layer need create different project different layer need create different folder one project pro con approach

@@ -1,0 +1,1 @@
+currently working lob application basing mvvm architecture going answer question asking seems like many people building large complex application mvvm hopefully number built animal found mvvm scale

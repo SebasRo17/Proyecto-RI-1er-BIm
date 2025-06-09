@@ -1,1 +1,0 @@
-plot sqrt sqrt plotrange frame true framelabel framelabel sin sin plotstyle gray thick brown thick labelstyle directive black bold filling true fillingstyle directive opacity green obtained enter image description want shade definite region ax different color like sorry poor quality nd picture

@@ -1,0 +1,1 @@
+I was deciding whether to start a Windows Phone application, but it seems like it might be better to wait until Mango is released. Is Mango a new platform, or is it an upgrade to Windows Phone 7 (i.e. Windows Phone 8)? Is it expected to arrive in the near future? That is, should a project starting today worry about it?

@@ -1,0 +1,1 @@
+Almost every public CMS out there uses a .php configuration file for the database settings and so on. For example WordPress automatically creates a .php config file when you install it. Why don't they just use a .ini file? PHP already has parse_ini_file() and I'm sure other languages have similar functions.

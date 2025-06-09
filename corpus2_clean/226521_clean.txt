@@ -1,0 +1,1 @@
+application look c c application swing might designed purpose look based read swt example tried look native completley succeed question hard developer language design gui system copy exactly look native gui different native gui matter designing button look like native button go deeper

@@ -1,1 +1,0 @@
-compute covariance large integer matrix x element however according estimation take around day idea speed thing

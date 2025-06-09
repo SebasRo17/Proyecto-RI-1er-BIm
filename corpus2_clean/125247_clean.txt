@@ -1,0 +1,1 @@
+seems newer website api especially make use request format adding expected format end url path path resource html path resource json path resource xml problem approach study outline pro con instead listing resource without file extension

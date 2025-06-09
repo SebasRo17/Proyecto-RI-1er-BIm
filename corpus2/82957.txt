@@ -1,0 +1,1 @@
+I am a newbie in web development and have started studying ASP.NET MVC. I noticed that cshtml replaces aspx when using Razor syntax and design view is not supported. Now designing ASP.NET MVC webpages is difficult without design view. How do you handle your web page fesigns in your projects without it?

@@ -1,0 +1,1 @@
+Let's say you've written nifty JavaScript library that requires jQuery, and you want to host this project on github. Do you include the jQuery source with your project? Do you direct users to a download link for jQuery?

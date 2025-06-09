@@ -1,0 +1,1 @@
+In visual programming, there are many events which support our application tasks. So, along with user defined processes, should these also be in flowchart or not? What about the constructors of classes, are they supposed to be shown in flowchart or not?

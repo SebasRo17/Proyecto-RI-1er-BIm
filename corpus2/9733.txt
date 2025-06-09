@@ -1,1 +1,0 @@
-I want to use an event handler to stop speaking:               Speak[ExampleData[{"Text", "DonQuixoteISpanish"}]]      The only way I can stop this is by restarting mathematica!

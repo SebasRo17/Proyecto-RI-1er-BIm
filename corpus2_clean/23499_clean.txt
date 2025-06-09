@@ -1,1 +1,0 @@
-looked looked see simple efficient way get mma return number line text file thought reading file returned eof marker could take long time working large file suggestion appreciated

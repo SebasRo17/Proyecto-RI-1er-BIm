@@ -1,1 +1,0 @@
-When I open a `.docx` file containing _Mathematica_ graphs on a computer without _Mathematica_ software installed, the graphs look corrupted. For example, `PlotMarkers` or `FrameLabel` looks differently. How can I keep these graphs looking as they were originally on a computer without _Mathematica_?

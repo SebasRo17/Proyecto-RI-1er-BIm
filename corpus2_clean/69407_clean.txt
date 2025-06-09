@@ -1,0 +1,1 @@
+wikipedia article domain specific language seems refer actual language however heard term dsl used refer unique looking coding paradigm encouraged library standard language ruby rail example create table post title text content timestamps end ruby language unique coding style encouraged library order make coding specific domain readable separate term

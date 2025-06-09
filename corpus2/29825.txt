@@ -1,1 +1,0 @@
-I made a very simple case:               testF[x_, y_, z_] = x^2 + y^2 + z^2     Simplify[testF[x, y, z]]      If {x, y, z} is normalized, the simplified result should just be 1. How could I specify this condition/assumption?

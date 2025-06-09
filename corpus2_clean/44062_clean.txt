@@ -1,1 +1,1 @@
-label coordinate plotted graph want label coordinate plot sin x x pi pi plotstyle dashing thickness tick pi pi pi filling axis epilog pointsize point fillingstyle yellow background lightgray
+took time develop program measured num line sloc certain language domain certain complexity determine much time take develop program b estimated num line level complexity domain developed programming language expect time take grater formula estimate grows sloc count grows

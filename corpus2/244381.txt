@@ -1,0 +1,1 @@
+Is it necessary to start variable from zero (`var i = 0`) of any looping ? When should I use `var i = 1;` and when `var i =0;`?

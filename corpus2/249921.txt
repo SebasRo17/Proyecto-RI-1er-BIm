@@ -1,0 +1,1 @@
+OOP is often regarded as an effective strategy of managing complexity in software, as opposed to non-OOP procedural programming. Have there been any studies testing this notion? Is it proven that OOP often helps manage complexity in large projects?

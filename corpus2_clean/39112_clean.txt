@@ -1,1 +1,0 @@
-using optimal control theory trying find optimal path k maximize profit given lc lc k k k k u w md u mk w u k w give following dsolve k b md e r mk e r lc md k lc mk md lc r md mk lc k r mk lc u lc w r k u w md mk return input wrong ultimate goal able obtain u given k symbolic solution term b would best giving numerical value b getting numerical value would also suffice

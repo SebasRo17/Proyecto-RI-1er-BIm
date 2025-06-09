@@ -1,0 +1,1 @@
+schema allows multiple post type django project kinda like tumblr user make post different type one type photo want exif super generalized table make sense create additional column exif would result ton empty column every post photo alternatively would make sense create separate model photo completely create foreign key post model instead

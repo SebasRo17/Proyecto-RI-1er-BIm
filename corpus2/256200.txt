@@ -1,0 +1,1 @@
+I had use `XSSFWorkbook` which was work fine in all device(even for MAC), But now i migrate on `SXSSFWorkbook`, So now i face one problem xlsx file not able to view on MAC In detail Question So how can i achieve this as like in `XSSFWorkbook`.

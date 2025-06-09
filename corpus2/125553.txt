@@ -1,0 +1,1 @@
+I heard this mentioned and wanted to find out more. It does exist in google searches but I found no 'introduction'. I also found no information in the php manual or in my usual resources (like here). I'm looking for a succinct answer and/or a link.

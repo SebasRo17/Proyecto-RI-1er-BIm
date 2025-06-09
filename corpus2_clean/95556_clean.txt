@@ -1,0 +1,1 @@
+intel processor maybe others use little endian format storage always wonder someone would want store byte reverse order format advantage big endian format

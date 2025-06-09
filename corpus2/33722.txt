@@ -1,0 +1,1 @@
+My question aim to draw a fine line between Requirements Elicitation and Requirements Analysis. What is the difference between these two?

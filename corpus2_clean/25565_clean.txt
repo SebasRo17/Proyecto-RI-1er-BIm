@@ -1,1 +1,0 @@
-trouble understand rootlocusplot work option drawing etc example rootlocusplot transferfunctionmodel k k plotrange axesorigin enter image description problem draw rl hand despite negative gain note problem k closing loop use mathematica thing output seem right even increase decrease range k number plotpoints scale etc help greatly appreciated

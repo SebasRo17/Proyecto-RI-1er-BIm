@@ -1,0 +1,1 @@
+recent question stackoverflow provoked discussion immutability primary key thought kind rule primary key immutable chance day primary key would updated thought use surrogate key however sql standard rdbms cascade update feature allows primary key change question still bad practice primary key may change con mutable primary key

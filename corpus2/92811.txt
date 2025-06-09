@@ -1,0 +1,1 @@
+If you have an application of some sort and you want your users to be able to write plugins for it, how should the application be designed? What do you have to take into account, what design patterns are for this etc?

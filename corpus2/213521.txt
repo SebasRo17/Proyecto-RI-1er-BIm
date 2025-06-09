@@ -1,0 +1,1 @@
+And lets say, my application is a simple feed reader. Does my app really have to include the no warranty notice?

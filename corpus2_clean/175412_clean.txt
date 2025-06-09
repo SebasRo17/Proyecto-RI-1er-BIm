@@ -1,0 +1,1 @@
+learning node j trying express first app var express require express route require route user require route user http require path require path reading mongoose tutorial give var mongoose require mongoose db mongoose createconnection localhost test strict mode jshint give app j num col num bad breaking show one bugged syntax reason declare var way instead adding comma end

@@ -1,1 +1,0 @@
-I create a matrix of values using `Table`. Here's my code:               Matrice = Table[N[Spectral[i,j]], {i, 1, 50}, {k, {0.1, 0.2, 0.5, 0.8}}]      so I have a matrix `50x4` where `Spectral` is a function previously defined. I would like to have the `i`s on my first column, thus having a `50x5` matrix. How could I do that?

@@ -1,1 +1,0 @@
-In a classroom demonstration for               ParametricPlot3D [{f[u, v], g[u, v], h[u, v]}, {u, ... }, {v, ... }]      I want to show   * u lines only without v,   * v lines only without u,   * no lines, only surface,   * no surface, only u, v lines.  How can it be done?

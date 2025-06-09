@@ -1,0 +1,1 @@
+i'm trying to understand a constant 0x9e3779b9 what kind of data is this? it's not binary, not decimal, what is this? it's a constant used on the TEA algorithm it says it's derived from the golden number but the golden number is 1.618?

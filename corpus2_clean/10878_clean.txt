@@ -1,1 +1,0 @@
-today class shown create infinite limit graph plot given preceding condition fairly terrible sketch graph notebook like create clean version mathematica import note condition begin align g g lim x g x infty lim x g x infty lim x g x infty end align help would appreciated

@@ -1,0 +1,1 @@
+My biggest fear with getting back into C# (I have rudimentary .NET skills) is that although I may find the solution to a problem, it will not be the optimal solution. What is the best way to ensure that I am not just getting the job done, but that I become a competent C# programmer?

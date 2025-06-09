@@ -1,0 +1,1 @@
+In Java, C and C++ I see people using intensively debugging strategies (because mostly they don't know about TDD). On the other hand, debugging too can help to understand software abstractions. So, when and how do you use debugging in Rails applications?

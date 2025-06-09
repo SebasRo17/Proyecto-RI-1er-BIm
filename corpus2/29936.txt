@@ -1,1 +1,0 @@
-Imagine a define a pointlist inside of an image: ![enter image description here](http://i.stack.imgur.com/quvDb.png) Provided a pointlist for the set of red dots around the toy horse, is there a way for me to automatically crop to a minimum bounding box for this set of points?

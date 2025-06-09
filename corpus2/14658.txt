@@ -1,1 +1,0 @@
-I know that it's possible to import Excel data into Mathematica using the `Import` command, as we can see in this post. But some times, I need just to do some fast calculation and It would be very nice if I could achieve It using clipboard, using something as simple as CTRL+C/CTRL+V. How could I perform that?

@@ -1,1 +1,0 @@
-way set key binding displayformula displayformulanumbered style using mathematica mac o x would useful time consuming click mouse time

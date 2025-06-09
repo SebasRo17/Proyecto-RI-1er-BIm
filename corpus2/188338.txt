@@ -1,0 +1,1 @@
+I'm trying to name a component that will be capable of both reading from an `InputStream` (file or otherwise), and writing to an `OutputStream`; thus serving both as a `Reader` and as `Writer`. So far the best I've come up with is:   * `ReaderWriter`   * `IOStreamManager`   * `StreamManager` Any good ideas?

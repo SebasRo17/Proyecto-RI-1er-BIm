@@ -1,1 +1,0 @@
-installed mathematica trial o x maverick everything seems working fine except cannot use export kind function involving export process error message get export test txt test general unavail export available version wolfram language limitation trial limitation

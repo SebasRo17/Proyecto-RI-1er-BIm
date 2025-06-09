@@ -1,0 +1,1 @@
+writing c application see memory usage increasing running time application increase tool technique could monitor application memory use identify memory leak generally improve application memory use

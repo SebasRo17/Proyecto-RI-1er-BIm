@@ -1,0 +1,1 @@
+What is your favorite method to declare a pointer?               int* i;      or               int *i;      or               int * i;      or               int*i;      Please explain why. see also: http://www.stroustrup.com/bs_faq2.html#whitespace

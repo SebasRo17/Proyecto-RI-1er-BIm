@@ -1,1 +1,0 @@
-trying solve equation using following piece code f aa bb cc dd solve f give four symbolic formula try give number aa bb cc dd parameter aa bb cc dd formula provide result solve using numerical value aa bb cc dd beginning get also noticed behavior sensitive value give parameter using instead aa bb cc dd problem seems still serious idea might causing maybe way avoid

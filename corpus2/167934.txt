@@ -1,0 +1,1 @@
+Supposed there is an application with multiple windows, like: Logo splashscreen Connecting... screen Login-usercontrols screen Logging in... screen etc. Is there a design pattern, which allows to effectively manage all those windows? (to hide previous windows, display a new window etc.)

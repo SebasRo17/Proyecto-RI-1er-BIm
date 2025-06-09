@@ -1,1 +1,0 @@
-suppose two linear function f x f f x g x g g x possibly rather complicated set conditional expression obtained reduce example might something like condition f f g f g g f would like write something like f x g x condition receive output set pair f g adhering formula case ax bx bx b ax maybe f f x g x f f x f f x stick original variable name

@@ -1,0 +1,1 @@
+suppose distributed environment mutual exclusion implemented yet would able detect race condition researched use non blocking algorithm found solution using datastructures like stack queue etc could avoid mutual exclusion detect

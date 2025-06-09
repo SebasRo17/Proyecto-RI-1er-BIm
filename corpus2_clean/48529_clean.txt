@@ -1,1 +1,0 @@
-equation frac x sqrt frac x x clear solution x however reduce x x x toradicals yield x complexexpand sqrt complex number numerically n yield

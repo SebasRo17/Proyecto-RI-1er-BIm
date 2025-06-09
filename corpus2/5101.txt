@@ -1,1 +1,0 @@
-Does anyone knows a way to compute a list of all (p,q)-shuffles in mathematica? For a definition of the shuffle permutations see for example http://ncatlab.org/nlab/show/shuffle I'm dreaming of a function with p and q as arguments that gives me: 1.) The number of all (p,q)-shuffles. 2.) A list of the actual "shuffle" (p+q)-permutations 3.) The sign of each such permutation

@@ -1,0 +1,1 @@
+I searched the web for examples of extreme programming failure but I couldn't find any. I found success stories, but I want to learn about the "other side of the coin". So my question is only about projects that fail using XP. Why do they fail? I just want to hear some opinions about XP failures.

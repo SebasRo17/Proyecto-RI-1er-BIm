@@ -1,1 +1,0 @@
-listplot table randomreal normaldistribution plotstyle pointsize epilog style text b scaled fontfamily helvetica enter image description percent symbol shown wrong typeface possibly time make display correct face

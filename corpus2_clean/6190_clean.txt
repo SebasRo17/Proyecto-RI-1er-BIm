@@ -1,1 +1,1 @@
-say equation form u frac v frac p q form written standard quadratic really form example equal start however want form b c e coefficient using mathematica specifically interested finding b c equation written form grouped properly easy eye
+planning create utility query database store information another table database multi threaded utility require every num num minute later may thrice day see two option achieve c dotnet programming creating window service timer approach inside program schedule using window task scheduler one prefer

@@ -1,0 +1,1 @@
+lot reading online trying figure write asynchronous javascript one technique come lot research use callback understand process write execute callback confused callback seem automagically make javascript execution asynchronous question adding callback function javascript make said automagically async

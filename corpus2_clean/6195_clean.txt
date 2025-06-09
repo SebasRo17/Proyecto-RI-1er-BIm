@@ -1,1 +1,0 @@
-consider toy expression expr sin x b z c would like expand parenthesis get something like sin x b x c z able expand argument sin term using mapall expand expr sin x b x c z however leaf denominator unexpanded way expand entire expression

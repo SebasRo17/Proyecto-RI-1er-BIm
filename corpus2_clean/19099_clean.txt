@@ -1,1 +1,0 @@
-bit code work slow k element list mytbl paralleldo flatten left flatten left mytbl appendto mytbl flatten left length flatten left significantly faster way

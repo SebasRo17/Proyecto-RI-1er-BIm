@@ -1,0 +1,1 @@
+I am an undergrad studying Computer Science. When I tried reporting bugs to several projects, I came across the classification _untriaged_ a lot. A web search didn't really explain what this means. Could you tell me what an untriaged bug is?

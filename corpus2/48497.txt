@@ -1,1 +1,0 @@
-Assume I have an object whose radius is modeled by the function $x^2$. Using calculus and circular cross-sections, the object's volume is given by $\pi\int_a^b(x^2)^2dx$. But given an arbitrary function $f(x)$, how do I illustrate circular cross sections on an interval?

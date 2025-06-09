@@ -1,0 +1,1 @@
+style people prefer mystring defaultvalue condition mystring othervalue v mystring condtion mystring othervalue else mystring defaultvalue v mystring condition othervalue defaultvalue

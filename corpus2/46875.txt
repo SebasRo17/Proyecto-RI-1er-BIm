@@ -1,1 +1,0 @@
-How could I expand this equation `(0.837 + x^0.5 + x)^4.870` Neither               Expand[(0.837 + x^0.5 + x)^4.870]      nor               Series[(0.837 + x^0.5 + x)^4.870, {x, 0, 6}]      work.

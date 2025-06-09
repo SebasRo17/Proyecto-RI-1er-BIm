@@ -1,1 +1,0 @@
-new mathematica experimenting different programming construct looking map evaluate function list value seems quite number different way used trace look go detail difference approach shown syntax example appear equivalent map f x x f trace f f f f f f f f trace f f trace f f trace f

@@ -1,0 +1,1 @@
+I'd like to publish a small open-source library in Java. I wonder what package name should I choose? I'm not a company and I don't have a domain that I could use as the basis for naming the package according to the naming conventions. Still I'd like to somehow follow the naming conventions to prevent an accidental conflict and to keep things standard.

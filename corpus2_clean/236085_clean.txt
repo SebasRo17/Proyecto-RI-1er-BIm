@@ -1,0 +1,1 @@
+valid us class system collection specialized namespace superseded class system collection generic system collection concurrent system collection namespace class namespace namevaluecollection ordereddictionary similarly real reason one might use non generic system collection namespace class arraylist hashtable queue sortedlist stack

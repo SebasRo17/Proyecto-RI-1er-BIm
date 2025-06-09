@@ -1,1 +1,0 @@
-How can I color a `BezierCurve` from `Red` into `Green` just as `Line` does?               pts={{0,0},{1,1},{2,0}};     Graphics[{Thick,BezierCurve[pts],Line[{{0,0},{2,0}},VertexColors->{Red,Green}]}]      ![spLine](http://i.stack.imgur.com/ChnKo.png)

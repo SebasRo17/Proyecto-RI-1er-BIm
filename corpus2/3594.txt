@@ -1,1 +1,0 @@
-How can I set the output precision of the following statement to 10 decimal places? I was looking through the documentation, and for some reason, all I could find was `Accuracy[]` or `Precision[]`.               f[x_] := E^Cos[x]     NIntegrate[f[x], {x, 0, 2*Pi}]      Which, by default, evaluates to:               7.95493      Thank you for your time.

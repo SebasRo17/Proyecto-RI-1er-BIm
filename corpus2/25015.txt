@@ -1,1 +1,0 @@
-In this tutorial some _MathLink_ concepts are introduced. At page 33 in the last lines the author is talking about sending to _MathLink_ a function definition like `F[x_] := x^2`. In C/C++ (Unix) I want to to do exactly like that! Which function should I use to put a definition? `MLPutFunction`? `MLPutSymbol`?

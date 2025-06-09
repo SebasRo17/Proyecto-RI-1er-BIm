@@ -1,1 +1,0 @@
-trying find number connected component numerous named graph within combinatorica obvious answer seems length graphdata g connectedcomponents fails wrong property work number connected component

@@ -1,0 +1,1 @@
+I need to create a web service using the .NET platform for accepting file uploads. What are the options available for doing this in C#? What is the best approach to use? Can please you provide me with blogs/code samples/references for further reading?

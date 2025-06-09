@@ -1,1 +1,0 @@
-Mathematica 10 introduced lots of new geometry related functions, and one of these is SSSTriangle which creates a triangle graphic given the three side lengths. Is it possible however to label the side lengths to achieve something like this ![enter image description here](http://i.stack.imgur.com/PzQYP.png)

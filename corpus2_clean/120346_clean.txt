@@ -1,0 +1,1 @@
+studying cyclomatic complexity mccabe reachability software uni recently today lecturer said correlation two metric really case think would definitely correlation less complex program scant looked seem better result term reachability anyone know attempt look two metric together would good place find complexity reachability large ish number program

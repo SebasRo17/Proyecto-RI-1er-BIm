@@ -1,0 +1,1 @@
+way show save final definition entered scheme repl text file say defined repl define increase x num x define x num x let u say define x num x want save scm file content define increase x num x define x num x e got defined shall forgotten due definition possible

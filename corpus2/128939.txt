@@ -1,0 +1,1 @@
+I'm VB.NET user and now learning LINQ. The book I'm reading now focus on LINQ 2008 VB.NET. I want to know whether there are changes/improvement in LINQ 2010? p/s: I'm reading this book: Pro LINQ Language Integrated Query in VB 2008

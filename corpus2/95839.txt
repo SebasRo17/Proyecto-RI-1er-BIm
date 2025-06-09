@@ -1,0 +1,1 @@
+I have a client requirement where I need to expose a web service which takes XML. Client will consume my web service and send XML . This web service need to be async. Could you please suggest any good proven approach ? with advantage / disadvantage

@@ -1,1 +1,0 @@
-Exporting Image files (intermittently) doesn't work: ![enter image description here](http://i.stack.imgur.com/C18mr.png) I get messages back indicating the error is to do with escaping characters:               Syntax::stresc: Unknown string escape \\U.

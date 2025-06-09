@@ -1,0 +1,1 @@
+custom dsl javascript still viable specifically one written boo former microsoft proliferation open source javascript ecmascript engine v8 ironjs etc make sense write functionality needed one instead writing entirely new language

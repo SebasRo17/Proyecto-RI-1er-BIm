@@ -1,1 +1,0 @@
-How to solve this integral by Mathematica even by numerical methods (plotting the solution)               Integrate[(Cos[x] - a)/(1 + a^2 - 2*a*Cos[x])^1.5, {x, 0, 2*Pi}]      ![enter image description here](http://i.stack.imgur.com/idazn.jpg) It consumes huge time on Mathematica 9 home edition and no output. I just want the Taylor expansion in the vicinity of a=0

@@ -1,1 +1,0 @@
-### _Mathematica_ : ![Mathematica graphics](http://i.stack.imgur.com/478z2m.png) ### LaTeX: $\alpha =\underset{\square }{\overset{\square }{\lim \sup \sqrt[n]{\left|a_n\right|}}}$

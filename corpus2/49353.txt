@@ -1,1 +1,0 @@
-A signaling game is within the field of game theory, and more information can be found here. I would like to know, how one can solve such a game, by finding the Baysian Nash equilibrium in Mathematica. I have been searching for such a solution including in the wolfram library, but without any luck.

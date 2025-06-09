@@ -1,0 +1,1 @@
+I have heard that generally, an expression like: `if (true === $variable)` is faster than: `if ($variable === true)` My question is about the performance, not the readability. Questions such as this one do not mention explicitly in any of their answers whether there is a performance difference between the two. Is it true? Is the first form really faster than the second?

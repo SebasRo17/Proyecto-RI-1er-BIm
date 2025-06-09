@@ -1,0 +1,1 @@
+Should you sacrifice code readability with how efficient code is? e.g. 3 lines of code into 1 line. I read in _Code Craft_ by Pete Goodliffe that readability is key. Your thoughts?

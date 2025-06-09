@@ -1,0 +1,1 @@
+writing authentication system us xml formatted message client server successful username password authentication need randomly generated session id client xml version num auth sessionid sessionid auth write unit test confirm format success message since simply straight match due random component

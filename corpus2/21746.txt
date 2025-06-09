@@ -1,1 +1,0 @@
-I had nice discussions with Leonid and Rojo that got me interested in tail recursion. Tail recursion is not always easy to realize with _Mathematica_ , so it would be nice to have some tools to help with this. The question is the title: What tools can help in realizing tail recursion?

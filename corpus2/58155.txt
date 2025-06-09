@@ -1,1 +1,0 @@
-Why is that `Power[Quantity["ElectricConstant"],-1]` is represent different of `Power[Pi,-1]` What I am doing wrong ?

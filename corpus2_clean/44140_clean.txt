@@ -1,1 +1,0 @@
-put label simple chart usual place better top bar f x x x x x x table fa f amix table f atext table tostring atext barchart amix chartstyle darkrainbow chartlabels atext top

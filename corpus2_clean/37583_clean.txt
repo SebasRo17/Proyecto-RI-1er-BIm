@@ -1,1 +1,0 @@
-could anyone tell use nyquistplot first argument transfer function model expression like pas nyquistplot exp z co z

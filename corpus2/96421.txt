@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  The importance of javascript and the best way to learn it? I would like to learn Javascript, the DOM model and jQuery. I've found many recommendations for books for each subject, but I wonder if there is a single book which teaches the three subjects in order and how they relate to each other. Thanks for any advice.

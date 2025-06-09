@@ -1,0 +1,1 @@
+web page wish display dynamic dropdowns e g city name based country selected using ajax also using rest call use problem really get difference rest http browser request k form submit looked formal definition rest seems identical http request rest inherently different ajax

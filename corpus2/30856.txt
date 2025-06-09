@@ -1,0 +1,1 @@
+Some projects are available under restrictive FOSS licenses (GPL or AGPL, for example) which preclude them from being used in proprietary projects. The developers can then sell separate commercial licenses which allow the code to be used in proprietary projects. How common is this? Examples I'm aware of: MySQL x264 Cygwin

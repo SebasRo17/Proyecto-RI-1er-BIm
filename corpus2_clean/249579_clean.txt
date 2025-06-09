@@ -1,0 +1,1 @@
+fit stackoverflow transfer please hi trying implement priority queue c easiest way found circular rather using linked list fixed size index first element queue index next free place queue struggling maximum know get maximum move next first queue stay contiguous way know working suggestion better implementation thanks

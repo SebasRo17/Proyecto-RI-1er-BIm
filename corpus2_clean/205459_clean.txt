@@ -1,0 +1,1 @@
+suppose following animal food deer grass deer inherits animal grass inherits food far good animal object eat food object let mix bit let add lion inherits animal animal food deer lion grass problem lion eat deer grass deer food animal using multiple inheritance using oriented design solve problem fyi used create ascii diagram

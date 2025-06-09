@@ -1,1 +1,0 @@
-question arose analysis following problem filling gap code used simon wood work foldlist seems cooperate parallelmap understand f f x x fill data transpose foldlist f first rest transpose data fillp data transpose parallelmap foldlist f first rest transpose data data table randomchoice prepend range timing follows fill data timing first fillp data timing first

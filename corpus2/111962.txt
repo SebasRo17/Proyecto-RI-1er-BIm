@@ -1,0 +1,1 @@
+I'm taking my second course on Java. We are getting into data structures. I have done an assignment on a linked list, and now a stack. I had a hard time with the linked list. The stack gave me a little trouble, but was much easier. Should I be worried about having a hard time with these algorithms and data structures? I just feel like I didn't really grasp it.

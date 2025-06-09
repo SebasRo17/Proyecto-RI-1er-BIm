@@ -1,0 +1,1 @@
+wrap another one scala call nested found def factorial def fact accumulator num accumulator else fact num accumulator fact num usually use shorter generic explicit better way naming convention nested function def myfunction def num

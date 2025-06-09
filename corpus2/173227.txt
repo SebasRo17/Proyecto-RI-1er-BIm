@@ -1,0 +1,1 @@
+Recently I heard someone say they built a "SaaS" application. At first I thought "this guy knows something new", and I figured SaaS was some hyped enterprise framework or design pattern, but after looking up the SaaS Wikipedia page I realized it's similar in meaning to "web app". What is the origin of the phrase "SaaS"? When was it first used?

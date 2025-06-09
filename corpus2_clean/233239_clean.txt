@@ -1,0 +1,1 @@
+wondering function used like object1 arg1 arg2 change state use state used extensively logically fit used made member example csvfile private filestream stream header num column public csvfile filename csvfile throw csvfile header stream getline assert header member

@@ -1,0 +1,1 @@
+get domain event imply loose coupling separation responsibility fine domain event allowed cross aggregate boundary question guarantee concerned entity materialized persistence storage look like event bubble aggregate root handled service triggering transaction script letter case believe targeting specific event lost question arise fact whole model live memory

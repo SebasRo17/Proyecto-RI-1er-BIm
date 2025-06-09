@@ -1,0 +1,1 @@
+Recently I've finished learning about multithreaded programming on single shared objects, but was curious about how different things would be in order to successfully program on multiple shared objects?

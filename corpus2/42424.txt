@@ -1,1 +1,0 @@
-I have a LogLog plot, and i'm unsure about how to fit a line to it. The data represents a calibration curve.                calibdata = {{1, 39270.4}, {0.01, 4982.57}, {0.001, 1153.55}}      ListLogLogPlot[calibdata, PlotMarkers -> {Automatic, Medium}]

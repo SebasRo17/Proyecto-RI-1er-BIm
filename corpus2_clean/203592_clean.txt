@@ -1,0 +1,1 @@
+know banking application periodically store account balance certain point time would plausible calculate entire history transaction every time needed order find account balance application would first load latest balance saved add transaction occurred point process saving account balance called common technique used process e g every weekend night

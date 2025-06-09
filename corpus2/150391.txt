@@ -1,0 +1,1 @@
+Just came across this post on reddit, where someone was charged $1,223 for a "FREE STEAK SALAD". ![enter image description here](http://i.stack.imgur.com/yK7sy.jpg) I was trying to figure out 'Why 1223?' thinking that this might be a programming error somewhere. But 1223 seems to be pretty much an ordinary number (= 100110001112). Any ideas?

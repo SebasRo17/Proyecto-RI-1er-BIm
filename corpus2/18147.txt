@@ -1,0 +1,1 @@
+As i try to program a solution to a request arise. I can't separate the difference between implementation problems and design problems. How do you specifically express the design problem?

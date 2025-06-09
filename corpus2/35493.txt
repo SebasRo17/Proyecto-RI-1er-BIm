@@ -1,1 +1,0 @@
-I can't find in the documentation the list of methods available to `NMinimize[]`. Is there a way to get this? The NMinimize page in Documentation Center mentions only `Method -> "DifferentialEvolution"`.

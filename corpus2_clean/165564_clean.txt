@@ -1,0 +1,1 @@
+wrote migration file following activerecord migration def change add column player schedule id integer add column schedule coach id integer end end bad form create two migration file one change fine

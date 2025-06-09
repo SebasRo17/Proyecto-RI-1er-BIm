@@ -1,0 +1,1 @@
+I have a script I want to sell. It's written in PHP, but that's not relevant here I guess. I want to secure my script with a license, so the buyer is forbidden from redistributing it. This is the first time I am selling my own script, so I have no idea how to start with this. Please let me know how I can protect my script with a license and what kind of license.

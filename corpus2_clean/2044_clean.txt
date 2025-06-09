@@ -1,1 +1,0 @@
-noticed mathematica seems kind string interpolation feature find documentation figure work example enter stringform x notebook evaluate get string x select cell choose cell convert standardform ctrl shift n mathematica convert cell expression look like x also evaluates x however enter exact character sequence new cell evaluates x question documented somewhere work

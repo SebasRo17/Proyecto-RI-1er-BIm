@@ -1,1 +1,0 @@
-documentation listconvolve mention listconvolve work sparse array true result however never sparse eg sparsearray x b sparsearray listconvolve b way sparse convolution background multiplication high degree many variable polynomial

@@ -1,1 +1,0 @@
-difficult face function contourplot work slow seems natural function parallelized well anyway naive parallelize contourplot produce contourplot cannot parallelized possible parallelize contourplot

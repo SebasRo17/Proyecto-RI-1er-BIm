@@ -1,0 +1,1 @@
+I got several explanations but so far I'm not able to understand that what are the abstract classes and methods in Java. Some said it has to do something with the security of the program, other said it isn't anything like that. Even from the Dietel & Dietel's book I don't get it's purpose. When, where and why do we use it?

@@ -1,1 +1,0 @@
-new mathematica need ask graph sphere cylinder etc using cartesian equation example sphere case x z tried use plot work

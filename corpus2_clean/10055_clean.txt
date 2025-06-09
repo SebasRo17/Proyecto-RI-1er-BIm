@@ -1,1 +1,0 @@
-use one dimensional heat conduction equation example found thermal diffusion coefficient small enough mathematica give result second law thermodynamics fun k ndsolve te x k te x x x te te te x te x x plot te x x plotrange fun fun fun result graph graph graph graph graph graph circled part graph crux wave unreasonable view physic avoid use kind parameter

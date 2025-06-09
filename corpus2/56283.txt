@@ -1,1 +1,0 @@
-could someone please point me to good example on how to make a JDBC connection to an IBM DB2 database?

@@ -1,1 +1,0 @@
-frenetfucntion n n b b n n b sol ndsolve frenetfucntion n b integrate solution ndsolve also way plotting integration function interpolating polynomial used nintegrateinterpolatingpolynomial give definite integral specify limit way defining limit like may plot result integration well

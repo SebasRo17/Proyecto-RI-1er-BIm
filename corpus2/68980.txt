@@ -1,0 +1,1 @@
+In hiring programmers, a common test is the Fizz Buzz test. What are some neat/interesting variations on fizz buzz which keep with about the same difficulty level? Basically, if I asked someone to do a fizz buzz test over email or something, I'd want to make sure they can't just google the code.

@@ -1,1 +1,0 @@
-want find product first fibonacci number fibonorial want implementation using loop code using sum print fib n n get working edit fib code follows clear fib x fib fib fib n fib n fib n fib n fib

@@ -1,1 +1,0 @@
-I am new to Mathematica. I have created a table of real numbers. I want to create a new table that contains the set of values of $i$ such that, in my original table, the $i$th entry is greater than the $(i+1)$th entry. For example If I had the table {1,2,5,2,9} my new table would be {3}.

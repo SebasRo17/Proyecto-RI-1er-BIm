@@ -1,1 +1,0 @@
-whitespace separated matrix data read import table data contained mixed string number string row column name noticed weird behaviour importstring c table mathematica ate letter c eat letter importstring table importstring e table e explanation good workaround update seems happens even label quoted file importstring c csv

@@ -1,0 +1,1 @@
+I'm in process of making an open source application for Windows. In the end I would require an icons for my app and its gui. I'm huge fan of Tango styled icons, but its pack doesn't provide all icons I need. Gnome project seems to provide ones for more mature projects that run on linux. What is the general way, procedure for getting help in graphic assets for open source project?

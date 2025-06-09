@@ -1,1 +1,0 @@
-So I have recently upgraded to a Windows ultrabook with a high-res display. All my software seems to cope just fine with the high resolution, except for Mathematica 10. Mathematica seems to pretend the screen resolution is lower, and blurs both frontend text and graphics output. How can I configure the interface to display crisp text, as it did on my old MacBook Air? Thanks!

@@ -1,0 +1,1 @@
+I sometimes prefer to work in a terminal. I use git, and sometimes have merge conflicts. Are there any merge-conflict-resolution tools that work in a command-line only environment?

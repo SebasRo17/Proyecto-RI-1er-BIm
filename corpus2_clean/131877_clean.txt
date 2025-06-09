@@ -1,0 +1,1 @@
+coding standard naming private language private modifier specifically talking javascript placed underscore end private colleague told underscore usually field var myclass create initialize alert constructor publicmethod alert public privatemethod alert private

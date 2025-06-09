@@ -1,0 +1,1 @@
+let say set gps point current location asked give closest point current location utilize heap distance key update current location suspect key change enough violate heap property would efficient rebuild heap recalculating key heapify assuming key changed enough assumed jump around new location new current location close last current location

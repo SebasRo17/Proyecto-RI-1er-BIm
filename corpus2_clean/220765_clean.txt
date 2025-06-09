@@ -1,0 +1,1 @@
+trying understand difference open closed principle ocp dependency inversion dip based research made internet far came conclusion dip one option achieve ocp right give example follow dip follows ocp

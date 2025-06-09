@@ -1,1 +1,0 @@
-want import sound file record import sound manipulate audio import browse audiopath filenamejoin userdocumentsdirectory audio wav column audio file wav row inputfield dynamic audiopath string enabled false filenamesetter dynamic audiopath open wav wav audio record audio record button record sound systemdialoginput recordsound

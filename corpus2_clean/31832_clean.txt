@@ -1,1 +1,0 @@
-possible write code mathematica implement various differentiation method like forward central extrapolated etc

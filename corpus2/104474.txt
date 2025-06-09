@@ -1,0 +1,1 @@
+I have a chat room for a Rails app is implemented the old-fashioned way, using Ajax Polling. This is not scaling, and it is cluttering my log, so I want to reimplement using either EventMachine + HTML5 websocket/degrade to flash, or Node.js. Given that the rest of the app is in Rails, what are the the pros and cons of each of these two alternatives?

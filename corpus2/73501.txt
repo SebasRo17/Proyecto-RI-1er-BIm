@@ -1,0 +1,1 @@
+I have been asked to create guidelines for review CSS, JS and HTML. I know there are coding guidelines for JS but I don't know any about HTML and CSS. To review JS I will certainly follow those guidelines and mention them. But what about CSS and HTML? Apart from logical errors and indentation issues, are there any specific things I need to check when I review markup and or CSS?

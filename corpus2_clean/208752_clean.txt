@@ -1,0 +1,1 @@
+suppose design like corpus def something1 self pas def something2 self pas def serialize stream self stream serialize self stream def serialize self corpus stream think serialization process separate various reason make serialize stream corpus unnecessary would however like think make easier user corpus know anything another think reasonable shall expose let user work

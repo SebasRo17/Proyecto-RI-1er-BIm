@@ -1,0 +1,1 @@
+industrial practice separate html php web project using echo generate html considered bad standard way achieve sought separation using template engine like twig

@@ -1,0 +1,1 @@
+I'm searching for good tool that will allow me to draw Finite State Machine and then export it into XMI file so I could easily read it into my program. Could somebody propose something?

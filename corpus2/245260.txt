@@ -1,0 +1,1 @@
+Is it possible to have a constructor in a class, that you can ignore certain arguments/parameters? For example, I have this constructor Car(color, make, model, wheels, type, doors) Could I call this constructor and not include the type parameter?

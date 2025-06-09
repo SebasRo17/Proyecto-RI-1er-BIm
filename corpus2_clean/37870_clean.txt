@@ -1,1 +1,0 @@
-using ubuntu every time try start mathematica ubuntu session crash get thrown login screen also happens try run mathematica another computer ssh mathematica behaviour started last time normal software update system try solve problem find nothing xsession error errorlog x

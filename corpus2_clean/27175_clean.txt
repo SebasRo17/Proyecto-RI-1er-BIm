@@ -1,1 +1,0 @@
-going print inputfield cellprint textcell text text showstringcharacters true enter image description insert code blank notebook run second cell seems appear run code nd time cell displayed correct code inputfield displayed st time code run running mathematica window

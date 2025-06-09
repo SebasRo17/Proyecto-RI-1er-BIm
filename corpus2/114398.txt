@@ -1,0 +1,1 @@
+I have a web application with server logs that are attractive to researchers. Is it ethical or not to release the logs publicly? They contain visitor IP addresses and the user-agent but no more identity-related information than that.

@@ -1,0 +1,1 @@
+Why was it decided to call the `kill` command "kill"? I mean, yes, this utility is often used to terminate processes, but it can actually be used to send any signal. Isn't it slightly confusing? Maybe there are some historical reasons. All I know from `man kill` that this command appeared in Version 3 AT&T UNIX.

@@ -1,0 +1,1 @@
+What are the modern ways to (effectively) determine which part of page contains useful text, data tables, etc. and which are not (e.g. ads, navigation, etc.)? What were the last valuable researches/result/papers in this field in latest years? Thank you in advance!

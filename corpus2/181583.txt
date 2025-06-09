@@ -1,0 +1,1 @@
+I am interviewing for a PL/SQL position with a large corporation. I will have to write a multiple choice exam. I am wondering whether the exam will likely use old-style joins (joining happens in the 'WHERE' clause) or ANSI ones. My apologies if this is not the correct forum for this question.

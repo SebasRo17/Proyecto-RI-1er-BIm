@@ -1,0 +1,1 @@
+From the basic Angular tutorial, it seems like all it does is fetch some JSON from an API and display it. Also, there's its double binding magic. But why would I use it instead of a backend solution (like Rails) that builds the view in the backend and serves it to the user, with everything in place already? What are the use cases?

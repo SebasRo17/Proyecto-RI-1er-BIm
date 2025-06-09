@@ -1,0 +1,1 @@
+When creating a release with git flow like:               git flow release finish <branch_name>      I'm prompted for a release message. I grepped around to see where this go, but no succes. Any idea?

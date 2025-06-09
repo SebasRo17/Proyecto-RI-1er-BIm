@@ -1,0 +1,1 @@
+In Git it's possible to set and enforce a good commit template. Can you recommend (preferably with argumentation) a good commit template / guidelines to enforce in the company?

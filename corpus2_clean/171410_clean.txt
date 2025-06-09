@@ -1,0 +1,1 @@
+application built net mvc tasked exposing api third party member team want continue current path use controller reuse backend current application logic tell need create seperate service layer client going accessing net mvc seems take care really acceptable architecture use controller stand alone application expose api would potential gain extracting service layer

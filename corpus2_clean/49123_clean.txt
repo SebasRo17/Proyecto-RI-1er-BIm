@@ -1,1 +1,0 @@
-data form x dy x dy xn yn dyn error bar different coordinate pair want plot logarithmic x scale since use mathematica old library mathematica errorlogplot seem work kind regard benjamin

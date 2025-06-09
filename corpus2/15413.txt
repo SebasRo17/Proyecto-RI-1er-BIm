@@ -1,1 +1,0 @@
-I see that there's a control I can click to hide or "minimize" version 9.0's "suggestion bar". Is there a keyboard shortcut to do this?

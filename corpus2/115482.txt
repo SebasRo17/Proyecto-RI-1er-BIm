@@ -1,0 +1,1 @@
+I feel like it's critical to use an event driven architecture with a lot of application types that aren't web sites. However, when coding web sites(which are stateless at the most basic level) it seems like it isn't really necessary to use an event driven architecture. Is this true? Do most web frameworks not use events to communicate between objects?

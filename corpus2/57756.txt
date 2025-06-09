@@ -1,1 +1,0 @@
-Is there a special keyword to get the current index in `Scan` ?   For example, let say I have the following code :               Scan[Print[#] &, {2, 5, 7}]      It print the content of the list :               2     5     7      How to modify the code to print the current index also ?               1,2     2,5     3,7

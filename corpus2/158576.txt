@@ -1,0 +1,1 @@
+I wanted to ask if there is a typical structure for a team developing a computer game and, if so, what are the specific roles of the team members. Also, what is the size of such a team (in terms of order of magnitude, 5-10? 10-100? more?). Is there any literature on this topic?

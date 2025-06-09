@@ -1,0 +1,1 @@
+Well, I love C++, I have been using it for a while: I like all the libraries (Allegro, SDL, QT, Ogre, etc.), but I have a problem: I don't understand pointers. Do I really need them ? I just program for fun: but I want to study it some day. Thanks.

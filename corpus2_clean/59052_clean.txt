@@ -1,1 +1,0 @@
-would like use mathematica help simplify given binary decision diagram e pick optimal variable ordering seem find anything topic although something everyone little c background know well given mma ability dealing graph boolean function task seems feasible want waste long time solve problem already solved anybody aware mma resource matter

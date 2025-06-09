@@ -1,0 +1,1 @@
+reading effective josh bloch item num tell use inheritance correct way inheritance mean inheritance implementing interface extend interface interface find mention interface inheritance entire book mean interface inheritance always safe guidlines interface inheritance

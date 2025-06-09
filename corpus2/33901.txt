@@ -1,0 +1,1 @@
+I would like to get my younger brother, who can't program, to test some code I am writing from requirements I provide him in documentation. Is there a way to get him going quickly? Ideas? Please and thank you.

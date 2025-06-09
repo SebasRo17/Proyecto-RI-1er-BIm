@@ -1,1 +1,0 @@
-list xlsf column row pca analysis principalcomponents xlsf give following principal component matrix linear transformation original column uncorrelated column arranged order decreasing variance obtain transformation performed column mathematica

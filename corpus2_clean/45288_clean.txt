@@ -1,1 +1,0 @@
-using createpalette palette created always show upper left corner way make show center screen like createdialog

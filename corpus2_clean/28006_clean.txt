@@ -1,1 +1,0 @@
-add shortcut stylebox ctrl b overstrike font e strong strike add one new shortcut ctrl r make font become color red red style stylebox stylebox bold fontweight bold stylebox red fontcolor rgbcolor

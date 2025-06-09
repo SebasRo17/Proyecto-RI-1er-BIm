@@ -1,1 +1,0 @@
-I would like to Maximize this fairly simple expression               Maximize[{2^(-1-n)*(1+k)^(-1-n)*(1+2k)^(-1+n)*(-1 - 2 k + n)*(-2 k + n),k<=n/2, k>=1},              {n,k}, Integers]      However Mathematica just returns the query. What's the right way to do this?

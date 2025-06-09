@@ -1,1 +1,0 @@
-text file data column imported using following line c import ab table text file large amount data need certain range mean data run example need corresponding value naively tried plot c clearly wrong little wonder getting error message sure please help

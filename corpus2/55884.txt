@@ -1,0 +1,1 @@
+Should Whitebox testers be involved in the software design process and why?

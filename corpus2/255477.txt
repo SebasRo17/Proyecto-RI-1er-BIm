@@ -1,0 +1,1 @@
+I have started learning WinDbg, and it seems to be big world. I wonder how much WinDbg I should know to be able to use in practical world. Secondly, please suggest good material to understand WinDbg.

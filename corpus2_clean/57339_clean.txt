@@ -1,1 +1,0 @@
-array data measured time gap oscillating data clear linear drift want remove linear drift estimate findfit fit bad attempt findfit model e x noise fit findfit noise model e x e value e quite visibly wrong arround better way find remove linear trend data thank much data found

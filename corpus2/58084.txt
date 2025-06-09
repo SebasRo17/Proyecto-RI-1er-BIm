@@ -1,0 +1,1 @@
+I know a lot of places use UML and the unified process as their development model... but then there's a lot that don't. Would it be important to have more than a basic and functional understanding of these subjects or would it be better to focus on developing programming skills in other areas (i.e. language development, IDEs, etc)?

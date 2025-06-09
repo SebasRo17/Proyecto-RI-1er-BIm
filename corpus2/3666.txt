@@ -1,1 +1,0 @@
-Suppose I read a file with               B = Import["something.wav"]      Now how can I obtain a list of sample values?

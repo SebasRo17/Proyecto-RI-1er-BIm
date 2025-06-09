@@ -1,1 +1,0 @@
-How to make the text labels of 3D plots look always like coplanar with the specific axes planes no matter how the viewpoint/view angle changes? Here is an example of such effect: ![example](http://i.stack.imgur.com/GDYiI.png)

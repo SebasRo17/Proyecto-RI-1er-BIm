@@ -1,1 +1,0 @@
-trying create itoprocess following system sdes begin bmatrix mathrm x mathrm end bmatrix begin bmatrix theta end bmatrix begin bmatrix x end bmatrix begin bmatrix mathrm sigma end bmatrix mathrm w looking documentation see could accomplish possible mathematica

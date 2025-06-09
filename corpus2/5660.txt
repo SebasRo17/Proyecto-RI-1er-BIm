@@ -1,1 +1,0 @@
-I'm trying to export a plot with some added notes which happen to be in Russian. Using Mathematica 8.04 and WinXP I evaluate               Export["smt.pdf", "Текст на русском", CharacterEncoding -> "WindowsCyrillic"]      Which gives nonsense as output. Is there a way to solve this?

@@ -1,0 +1,1 @@
+I want my app to be able to manipulate images and create watermarks and also needs to run on both windows and mac. Hence I've been investigating QT. Does QT ship with all the libraries I will need to achieve that? or will I have to get other standard C++ libraries? If so is it worth doing the project in QT?

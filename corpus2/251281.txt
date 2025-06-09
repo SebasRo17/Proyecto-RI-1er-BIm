@@ -1,0 +1,1 @@
+A constant pointer is a pointer which points to a fixed memory location throughout.The question is how do you ensure that this behavior is ensured without using the keyword constant while declaring the pointer in a C program.

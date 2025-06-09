@@ -1,0 +1,1 @@
+coding standard common software development organization important follow understand need consistency dealing simple thing like position brace length etc sure excessively strict standard contribute much software development important readable conforms predefined standard seems like guideline anyway

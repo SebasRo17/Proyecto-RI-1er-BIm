@@ -1,0 +1,1 @@
+May be someone has a piece of code, that would work as a test for debugging abilities? We will give ability to use Visual Studio, so it should be hardly solvable by doing manual tracing and show us, that candidate is really good at debugging.

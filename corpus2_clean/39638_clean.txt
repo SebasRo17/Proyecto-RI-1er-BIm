@@ -1,1 +1,0 @@
-define function mathematica like f x f x integer value f determined seems independent order defined would make sense initial testing pick restricted definition meaning unclear used pattern like f x x anyone point documentation specification issue looked unsuccessfully

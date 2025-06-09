@@ -1,0 +1,1 @@
+preparing opensource asp net mvc multi tenancy cm currently use bitbucket org host source repository considering best approach repository naming term user host repository debating using company sponsor project versus project company solution project people think company user owner open source project turn displaying relationship

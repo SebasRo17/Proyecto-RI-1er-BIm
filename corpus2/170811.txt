@@ -1,0 +1,1 @@
+When designing data structures for an application, what are some best practices to make sure it can be sharded? In particular, which of the following is better:   1. Creating relationships in databases   2. Establishing relationships in SQL queries as necessary?

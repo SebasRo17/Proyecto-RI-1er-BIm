@@ -1,1 +1,0 @@
-problem quite simple yet seem figure solution simply trying export list mathematica actually list list list etc something like head list want export raw mathematica symbol access later let take simple list say list pi trying export listname list rawdata also export listname list data getting following error export infer cannot infer format file listname work format csv txt

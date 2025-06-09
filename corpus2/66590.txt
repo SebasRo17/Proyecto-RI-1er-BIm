@@ -1,0 +1,1 @@
+Why has Python been backed by google and become so rapidly popular and Lua has not? Do you know why Lua has stayed in background?

@@ -1,1 +1,0 @@
-one problem solve numerically equation different value one parameter x used two digit length x one real root others complex root seven point want plot complex im plane line first problem nsolve work reduce obtain result problem another problem understand happen x infinity x nsolve sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt sqrt x

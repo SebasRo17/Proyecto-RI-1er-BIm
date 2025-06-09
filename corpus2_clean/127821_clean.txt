@@ -1,0 +1,1 @@
+see lot discussion flying around performance db x moving x improved site performance yet see proper benchmarking work across different type database num possible write meaningful benchmark could used across multiple db type relational document oriented etc num would go designing benchmark

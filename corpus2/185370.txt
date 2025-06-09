@@ -1,0 +1,1 @@
+A small group of friends (including myself) decided to develop a simple 2D game. We are all fairly new to software development, so I wanted to ask which software development model would likely work best for such a group. From the list on Wikipedia, the Waterfall and Spiral models seem to be the two best options. Our plan is to use C# with XNA for development.

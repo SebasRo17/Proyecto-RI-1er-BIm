@@ -1,0 +1,1 @@
+understand process unit resource ownership executable instruction thread allow process share resource multiple execution easier o schedule thread overhead associated whole process thread reference interleaving execution even intuitive term opinion

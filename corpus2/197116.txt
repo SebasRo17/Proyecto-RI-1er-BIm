@@ -1,0 +1,1 @@
+Some pseudo code or resources will be appreciated.I was thinking if implementing it in form of a BST stored in an array. However,not all operations can be performed easily using this approach. I am open to using STL's for this purpose as well.My main purpose is to implement it in the simplest manner possible.

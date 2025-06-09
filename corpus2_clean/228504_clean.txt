@@ -1,0 +1,1 @@
+need support legacy web service using new web service implementation given time old well new work need achieve old soap translate new soap new w new w translate old soap created xslt translating look like little use implement webservice handle old given know xsd format involved implement web service take old soap translate using xslt call new service tool spring w cxf suited

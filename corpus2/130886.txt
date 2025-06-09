@@ -1,0 +1,1 @@
+In _Compilers: Principles, Techniques, & Tools_, Aho _et al_ describe an approach for optimizing for parallelism (chapter 11 in the second edition). Is anyone aware of any existing compilers which follow that approach?

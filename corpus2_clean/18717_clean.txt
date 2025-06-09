@@ -1,1 +1,0 @@
-possible way write equation th order system two diff equation second order two new variable automatically statespace command transforming first order eq x x derivative x x derivative x x

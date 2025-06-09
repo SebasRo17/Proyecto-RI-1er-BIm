@@ -1,1 +1,0 @@
-list list length example compare every element n text th sublist corresponding n text th odd number first sublist first odd number second sublist second odd number third odd number etc tried make another list odd number really know program case comparison one element sublist e g sublists multi element sublists e g rd sublist

@@ -1,0 +1,1 @@
+(First of all, I should make clear that compilers and virtual machines (aka) are a completely unknown field for me) As I understand it, every time a Java/C#/... application is run, a VM is invoked and translates intermediate code (bytecode, CIL, etc) to machine instructions. But why can't this operation done only once - at install time?

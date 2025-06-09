@@ -1,1 +1,0 @@
-consider following regfunc x boole x x integrate regfunc x x x x n integrate regfunc x x x x n first example mathematica seems figure correct substitution arrives correct answer second integration integrating expression expanded mathematica give clearly bug well known using mathematica bit linux edit got email tech support took answer confirmed bug

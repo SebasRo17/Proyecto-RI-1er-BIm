@@ -1,0 +1,1 @@
+I know that I can share files between Visual Studio projects using linked files and assemblies using project references. Is there a good approach for JavaScripts? I'd rather not use linked files since it doesn't allow projects to have their own version of the script.

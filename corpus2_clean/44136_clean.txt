@@ -1,1 +1,0 @@
-generated two time series p follows table table p two time series related lag l thus p l time series l known find given p code p k print k list number printed e k exactly expected would like define l k substitute print k code print resulting list number get different result way define function

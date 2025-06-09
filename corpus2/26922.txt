@@ -1,1 +1,0 @@
-Let's say I have the following plot `Graphics[{Opacity[0.2], Rectangle[{0, 0}, {4, 4}]}]` And I want to label all vertices on the graph to give their coordinates, in this case, `Point(0,0)` as `"P1"`, `Point(0,4)` as `"P2"`... In general, I want to write a function: `plotPolygonWithLabel[polygon_, label_]:=...` where label_ is the array like `{"P1", "P2", }` here

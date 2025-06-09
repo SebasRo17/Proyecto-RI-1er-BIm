@@ -1,1 +1,0 @@
-solving system four non linear equation four variable using findroot sense relationship variable want mathematica computation certain funky region domain example want solve begin align g w x z g w x z g w x z g w x z end align begin align x f x z x f x w z end align would like findroot operate domain get simply writing seem work findroot g x f x z b x f x w c z

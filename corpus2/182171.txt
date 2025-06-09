@@ -1,0 +1,1 @@
+I recently came across some newly written code that was interspersed with lots of Debug.Assert (C#). Should we still use this widely despite the usage of TDD, BDD and Unit Testing in general?

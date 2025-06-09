@@ -1,0 +1,1 @@
+I have a small personal project that I expect will be viewed by, at most, about 5 people. 'Tags', as used on this site and StackOverflow, would be helpful. Can I explicitly use something called a Tag in my personal project where the purpose/function is essentially the same?

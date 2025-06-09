@@ -1,0 +1,1 @@
+I guess there is a tool called Py2Exe to convert a Python application into an executable file. Since I am also using PyQt4 for GUI apps., what are the external dependencies for such an executable? What type of files I need to bundle along with my Setup? Is there any Python Setup Builder tool?

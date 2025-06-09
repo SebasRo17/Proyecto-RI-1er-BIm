@@ -1,1 +1,0 @@
-would like use mathematica programmatically take snapshot screenshots open notebook example would like get notebook created command createdocument textcell need help section textcell help windowtitle mynotebook image like entire notebook screenshot output file image use window

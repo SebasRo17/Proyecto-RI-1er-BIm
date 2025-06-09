@@ -1,1 +1,0 @@
-A simple sounding question with a few sub questions:   * What is the difference between unpacked vs packed array?    * Are packed arrays more space efficent, how much so?   * Are packed arrays more time efficient for certain types of access over the unpacked form? **Bonus:** Is it ever undesirable to make use of packed arrays, even if the data can fit?

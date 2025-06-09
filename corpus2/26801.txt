@@ -1,0 +1,1 @@
+I am looking for a way to give an algorithm (service) a sentence, and it will tell me if its positive context or negative or even neutral. Does such a service exist?

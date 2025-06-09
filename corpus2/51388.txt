@@ -1,1 +1,0 @@
-I have the following sequence list = {p1, p2, p3, p4 ....} I am summing up the p items as follows: p1 + p2 + 2*sqrt (p21*p2) = p12 p12 + p3 + 2*sqrt (p12*p3) = p123 p123 + p4 + 2*sqrt (p123*p4) = p1234 How do I get the end result to be an addition of p12 + p123 + p1234 ?

@@ -1,1 +1,0 @@
-How to have the vertical dividers of inner grids aligned to each other in the following?               Grid[{     {"12",Grid[{{"1","2"},{"foo","bar"}},Dividers-> All]},     {"xxxx",Grid[{{"1","2"},{"foooo","barbar"}},Dividers-> All]}     },     Dividers-> All     ]      ![enter image description here](http://i.stack.imgur.com/hBr2Y.png)

@@ -1,1 +1,0 @@
-simple data point v polys data representation following point uv npolys trying find corresponding vertex order coordinate different view possible mathematica

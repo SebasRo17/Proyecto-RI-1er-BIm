@@ -1,1 +1,0 @@
-trying add time dependent fraction parameter ndsolve e add k manipulate sol ndsolve k whenevent k k k cannot get code work get following error message anyone suggestion find error code ndsolve wenset warning rule fe k fe k fe directly set state left hand side list state variable

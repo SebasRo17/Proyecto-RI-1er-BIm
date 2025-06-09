@@ -1,1 +1,0 @@
-I happened to be looking at an old CDF (19 months old). It previously worked and does not now. It works if downloaded (opening or at URL). It requires dynamic functionality to be enabled but no longer prompts. I am uncertain how to resolve this. I apologise in advance if this is a duplicate and await redirection.

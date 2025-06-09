@@ -1,0 +1,1 @@
+traditional mvc application component model view controller responsible reading writing model disk

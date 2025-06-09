@@ -1,1 +1,0 @@
-MKL has a lot of functions. The question is: how to use these functions directly from _Mathematica_? Furthermore, _Mathematica_ shipped with some MKL libraries, which is located in                $InstallationDirectory/SystemFiles/Libraries/      Can I use these internal MKL libraries? Is there any restriction?

@@ -1,1 +1,0 @@
-Is there any command in Mathematica 7 which can compute the (McCaulay) resultant of a parametric system of multivariate polynomial equations? In fact, it would be great if there is also a way to compute the discriminant of such a system in Mathematica as well. Thanks, - dbm

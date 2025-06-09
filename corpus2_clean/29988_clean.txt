@@ -1,1 +1,0 @@
-could anybody explain following code fails reap nmaximize x x x x x x x element integer x x x method simulatedannealing evaluationmonitor sow x x x fact output infinity x indeterminate x indeterminate x indeterminate put x lower bound work us value x suppose something integer x thanks advance

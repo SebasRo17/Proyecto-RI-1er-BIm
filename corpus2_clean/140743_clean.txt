@@ -1,0 +1,1 @@
+let say simple event system following syntax new bind trigger hello bind trigger hello2 trigger trigger could make sure hello2 printed first want depend order event bind top would prevent event propagating e g want stop every event executed

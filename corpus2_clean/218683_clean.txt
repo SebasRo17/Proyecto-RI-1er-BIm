@@ -1,0 +1,1 @@
+found intel processor transactional memory support learned transactional operation db o simple concept entire operation executed nothing get executed programming new transactional mem model different multithreaded model us lock mutexes mean getting rid lock mutexes

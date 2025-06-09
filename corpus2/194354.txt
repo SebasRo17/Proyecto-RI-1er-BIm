@@ -1,0 +1,1 @@
+Are constants always irrelevant even if they are large? For example is O(10^9 * N) == O(N) ?

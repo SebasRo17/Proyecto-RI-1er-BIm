@@ -1,1 +1,0 @@
-teacher suggests using randominteger command along factor command cannot figure syntax b c need non zero integer

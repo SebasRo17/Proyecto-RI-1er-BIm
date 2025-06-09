@@ -1,1 +1,0 @@
-trying make return key move insertion point end input field text please see example problem facing namely return key pressed input field text updated insertion point moved dynamicmodule thing foo nb evaluationnotebook eventhandler inputfield dynamic thing string returnkeydown thing thing bar selectionmove nb next word

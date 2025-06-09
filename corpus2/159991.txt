@@ -1,0 +1,1 @@
+I'm working for a client that has no version control system in place. I want to record changes to code without having to add all changes to a spreadsheet. I'm restricted to using Notepad++ so would a plugin or macro for this be another option?

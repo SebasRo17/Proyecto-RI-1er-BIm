@@ -1,1 +1,0 @@
-using older version mathematica used system automatically beginning notebook line enter expression press enter keyboard evaluate expression however using default mathematica input v initial enter expression press enter appears followed value expression symbolic output would prefer new line begin numbered would like know possible get back old behavior familiar preference need set

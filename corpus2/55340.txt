@@ -1,1 +1,0 @@
-While this works fine in version 9, in version 10.0 the Antialiasing setting has no visible effect any more > ![enter image description here](http://i.stack.imgur.com/cZhBG.gif) I'm here on Ubuntu 12.04 64-bit with Gnome 3.4.2 and an NVidia GeForce GTX 590 with NVidia driver. Do others experience this and is there any known solution to the problem?

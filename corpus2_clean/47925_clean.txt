@@ -1,1 +1,0 @@
-seems like sort thing mathematica give simple solution list point x list want generate new list pair x ymean ymean average original list paired value x simplest elegant way accomplish mathematica

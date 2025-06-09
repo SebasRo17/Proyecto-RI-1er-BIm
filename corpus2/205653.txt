@@ -1,0 +1,1 @@
+I have a huge project that is using YACC and I would need to fix a bug in it. I might ask someone else who wrote that to fix it but I'm interested in how compilers work. Does it make sense to learn YACC nowadays? It was told me that it's old and obsolete. I would love to understand how compilers/llvm and other stuff like those work... what about YACC?

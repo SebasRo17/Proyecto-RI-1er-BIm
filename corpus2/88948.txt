@@ -1,0 +1,1 @@
+I have been reading about various Flex frame works, Robot Legs, Swiz, Cairgnom (spelling error) and a few others. What I am missing is how they actually work with Flex / Flash Builder. Are they simply libraries that you can use with the Flash Builder IDE? Why should I learn to use one of them instead of just using the IDE as it is?

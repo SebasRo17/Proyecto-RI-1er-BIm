@@ -1,1 +1,0 @@
-thinking tuples created came flatten outer list b b b tuples b true want convert function fun x list block flatten outer list x length x problem need put list sequence finding work around

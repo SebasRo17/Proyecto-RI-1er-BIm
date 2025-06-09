@@ -1,1 +1,0 @@
-How can we embed a dynamic version of a `Graph` object on a web page, similar to the one showcased on the networkx home page? This sort of dynamic visualization can be very useful for presentations, especially if more information could be shown than just the node names by tooltips.

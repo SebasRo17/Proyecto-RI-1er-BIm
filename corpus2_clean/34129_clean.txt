@@ -1,1 +1,0 @@
-list look like need group list equal sum element ascending order like expected see

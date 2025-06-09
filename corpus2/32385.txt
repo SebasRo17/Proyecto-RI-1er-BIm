@@ -1,0 +1,1 @@
+I may have to switch to Java for new project. I have very little knowledge about Java, because I've mainly studied and used C#, and I'm afraid of the differences between these two language/platform should likely to cause me many problems. Which are the pitfalls/gotchas I should care about?

@@ -1,1 +1,0 @@
-I would like to show that the following (and other similar formulae) tends to zero.               Limit[Sum[(2*E*n)^w/(w^(n/2+w)), {w,2,n}],n->Infinity]      What's the right way to do this in Mathematica?

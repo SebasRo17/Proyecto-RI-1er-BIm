@@ -1,0 +1,1 @@
+I'm starting symfony and interested in learning where symfony is coming from. In terms of it's architectural challenges. What are the architectural or philosophical differences between symfony 2 and 1? What changes make it so different from the other point version?

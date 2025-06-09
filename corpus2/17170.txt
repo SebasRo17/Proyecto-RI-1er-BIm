@@ -1,1 +1,0 @@
-When I have an area bounded by curves, is there a built-in way to find the center of the area? Or do I have to plot it first and then use `ComponentMeasurements` on it? For example: the area under $y= 1-x^2/4$ and above the $x$ axis: ![my region](http://i.stack.imgur.com/yj80Q.png)

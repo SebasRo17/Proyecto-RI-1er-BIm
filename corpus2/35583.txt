@@ -1,1 +1,0 @@
-I need to have 100 buttons, which their color is defined by the parity of number of times they are pressed: If they're pressed an even number of times their color is blue, and otherwise red. I don't know how to use 'Button' and 'Dynamic' to do so. Thanks in advance.

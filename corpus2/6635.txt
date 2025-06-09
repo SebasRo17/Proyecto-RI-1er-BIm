@@ -1,1 +1,0 @@
-I'm trying to use baseform to convert numbers in base 10 to base n, how can I make the convertion between, say base 2 to base n? Baseform seems to always think that the base in expr `BaseForm[Expr, n]` is always 10.

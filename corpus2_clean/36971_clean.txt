@@ -1,1 +1,0 @@
-sorry title wordy basically asking would probably easier use example say wanted plot f x asin x graph come sine function tic axis like half integer multiple homework assignment plotting f x sin x turning tick manually adding tick would really cool mathematica could

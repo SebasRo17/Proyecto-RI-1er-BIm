@@ -1,0 +1,1 @@
+I have some articles (more than 200 pages) in plain text. It needs to be converted to an given PDF markup. I got some Photoshop files for the headers for every page and a list of requirements for the different elements. Which program would you use? And what would be your workflow?

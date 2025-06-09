@@ -1,1 +1,0 @@
-I have a Mathematica command WriteString[str,TeXForm[ToString[a]^ToString[Divide[p, q]]]] where a=47, p=17 and q=2, but the result is $47^{\text{17$\backslash $n--$\backslash $n2}}$ I hope I have $47^{\frac{17}{2}}$. Can someone help me please. Thank you

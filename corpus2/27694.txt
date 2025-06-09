@@ -1,1 +1,0 @@
-I've been using Mathematica for awhile now and have never come even close to maxing out my CPU cycles. Are there any functions which consume lots of CPU cycles? Right now I am running a script which uses Parallelize and is consuming about 15%. Also, a related question -- is there any way to get Mathematica to use more CPUs? It'd be nice to get to my answers faster.

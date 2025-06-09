@@ -1,1 +1,0 @@
-I have a set of arrays I would like to output to some file `ArrayStorage.txt` s.t. these arrays could be read-in to a separate notebook on a separate kernel. Is there an easy way to export a set of arrays?

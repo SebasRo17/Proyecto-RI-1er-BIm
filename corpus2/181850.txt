@@ -1,0 +1,1 @@
+Having read a post yesterday, I realized I did not know much about the origin of exceptions. Is it an OOP related concept only? I tend to think it is, but again there are database exceptions.

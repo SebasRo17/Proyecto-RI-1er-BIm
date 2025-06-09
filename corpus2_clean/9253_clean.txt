@@ -1,1 +1,0 @@
-two expression sum like begin align b frac sum x bar x bar sum x bar x r frac sum x bar x bar sqrt sum x bar x sum bar end align wanted produce simplified expression frac b r would problem sum seems mathematica like unspecified unevaluated sum edit expecting end something like sqrt frac sum bar sum x bar x playing around expand simplify fullsimplify may way apply missing

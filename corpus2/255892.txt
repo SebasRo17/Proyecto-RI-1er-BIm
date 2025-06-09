@@ -1,0 +1,1 @@
+Let's say I have to generate random number from 1 to 100, however, the probability of each number is not 1/100, but a predefined probability. How to generate that number? I use Ruby/Python.

@@ -1,0 +1,1 @@
+fail fast seems like right way since simplifies bug detection harm performance cause multiple checking thing several level system simple example parameter must wrapping also await parameter also activity wrapper pass parameter first one item checked two time beginning wrapper inside wrapped would like know much widespread style write fail fast check everything

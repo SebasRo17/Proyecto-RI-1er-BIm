@@ -1,0 +1,1 @@
+Someone asked me this. The answer he gave was HTML5 in `UIWebView` can cache the app data so it can run offline. I thought the same thing can be achieved using safari add to home screen, no?

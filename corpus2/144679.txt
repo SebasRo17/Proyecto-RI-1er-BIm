@@ -1,0 +1,1 @@
+Would a competent asp .net C# developer be disregarding a lot of their skills in order to have more concern with configuration and server-side coding when moving their career into the sharepoint 2010 arena? Or is asp .net C# in fact just a good base to begin the study of sharepoint on?

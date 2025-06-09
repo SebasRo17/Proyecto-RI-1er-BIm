@@ -1,0 +1,1 @@
+I wanted to compile my program and I wanted to know how many times I have compiled it. How do I make a .sh file to do that? (I'm using mac, is it .sh file?)

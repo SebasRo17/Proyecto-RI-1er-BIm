@@ -1,1 +1,0 @@
-In Derive 6, if I plot $1 - x^2 - y^2 $, I get this: ![](http://i.stack.imgur.com/1zvQu.jpg) However in _Mathematica_ 8 I get this: ![](http://i.stack.imgur.com/7uzK7.jpg) I'm using `Plot3D[1 - x^2 - y^2,{x,-5,5},{y,-5,5}]` What should I do in _Mathematica_ in order to get Derive's result?

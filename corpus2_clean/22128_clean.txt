@@ -1,1 +1,0 @@
-simple example second order pde eqn u x x u x sol dsolve eqn u x mathematica cannot solve wrong

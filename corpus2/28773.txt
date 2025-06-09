@@ -1,1 +1,0 @@
-I have a set of trig equations, c1,c2,c3 are constants, I excepted the result is `c1 c2 c3 r^2 + (c1^2 + c2^2 + c3^2 - 1) r + c1 c2 c3 == 0` but following code worked so slow, is there a faster method do this?               Eliminate[{       c1 == Cos[a] Sin[b],       c2 == Cos[b] Sin[c],       c3 == Cos[c] Sin[a],       r== Tan[a] Tan[b] Tan[c]}, {a, b, c}]

@@ -1,1 +1,0 @@
-always thought thing general go faster working sparse array got eigenvalue arhm finding eigenvalue eigenvectors likely faster dense matrix method sparse input matrix converted fewer eigenvalue eigenvectors machine precision would sufficient consider using n matrix restricting number using second argument eigenvalue

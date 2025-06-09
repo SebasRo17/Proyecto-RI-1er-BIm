@@ -1,1 +1,0 @@
-Does anyone know how to write a _Mathematica_ function that returns the Google PageRank of a given URL? I found a tutorial for achieving this in a bash script here, but I have no idea how to port this over to _Mathematica_.

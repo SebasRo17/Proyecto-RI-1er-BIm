@@ -1,1 +1,0 @@
-mathematica tell series converge think converges would proper way write thing input sum n log n n n infinity

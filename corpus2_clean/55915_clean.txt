@@ -1,1 +1,0 @@
-try use simple algorithm paper calculate eccentric anomaly expansion k k k k k expand e sin u e co u trig true simplify k texform k tex print k k k result one paper maybe algorithm write old version mathematica output different term trigonometric function result arrange one paper result paper possible regroup equation term power series sin u something like equation thanks lot

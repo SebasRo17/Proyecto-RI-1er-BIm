@@ -1,1 +1,0 @@
-I edited this style sheet:               Cell[StyleData["Text"], FontSize -> 20, FontWeight -> "Bold",        FontColor -> RGBColor[255, 255, 255], FontFamily -> "Courier New"]      but nothing happens. Is there anything wrong with this piece of code?

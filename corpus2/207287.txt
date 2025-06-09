@@ -1,0 +1,1 @@
+I'm currently studying C from K&R book. In some examples the authors introduces new functions, my question is, to master C is necessary to know all the functions that are part of the standard library?. Suppose that is an extra-time cost to learn. NOTE: I want to master the language, and as K&R says; the standard library is not part of the language. Thanks

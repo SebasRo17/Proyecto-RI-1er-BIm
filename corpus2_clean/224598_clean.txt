@@ -1,0 +1,1 @@
+ruby use case common configuration option e g noop trace silent right using local var instead globals passing around place pain perfectly happy use globals could block globals temporarily changed reverted back e g global configure trace end make block thread safe thread change globals

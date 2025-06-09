@@ -1,0 +1,1 @@
+question regarding mvp let say two first one view1 mode1 second triad model2 trying want display click button view1 show view1 calling presenter show new view1 model1 show click button view1 display call show view1

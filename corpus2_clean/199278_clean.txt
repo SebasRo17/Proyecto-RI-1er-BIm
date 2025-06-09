@@ -1,0 +1,1 @@
+binary search know requires element sorted take care unsorted element worst case size large good idea sort element everytime check element sorted proceed sorting proceed sorting unsorted

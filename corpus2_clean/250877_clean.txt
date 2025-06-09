@@ -1,0 +1,1 @@
+sequence permutation formed using string bc permutation abcd bcda need reverse engineer e text file containing sequence able tell string used construct permutation algorithm use

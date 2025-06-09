@@ -1,0 +1,1 @@
+I have two model classes `User` and `Role` and two managers/DAOs (`UserManager` and `RoleManager`) plus a method which gives me all users with a certain role (`List<User> getUsersWithRole(Role)`). In which manager does this method belong and why?

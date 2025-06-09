@@ -1,1 +1,0 @@
-I'm using Mathematica 8 and strangely enough this code:                   Maximize[{x*(1-0.01 x),x>0},x,Integers]      produces the result `{8.19,{x->9}}`, which seems at odds with the actual answer of `x->25`. Does anyone know if it is an intended behavior or my mistake?

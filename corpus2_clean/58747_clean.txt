@@ -1,1 +1,0 @@
-okay newbie question coded sample problem solves heat diffusion equation annulus dom implicitregion x x x c dirichletcondition u x x dirichletcondition u x x result ndsolvevalue subsuperscriptbox del x u x c u x element dom plot data contour plot good say want get mean temperature imagine data contained variable result opaque

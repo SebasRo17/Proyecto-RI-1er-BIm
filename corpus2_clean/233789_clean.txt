@@ -1,0 +1,1 @@
+method im trying test use streamreader dependency mock using rhino mock large xmlfile spirit unit testing im trying keep away using test file test project hand copy pasting num line xml test seems sort ugly best practice returning large string using stub

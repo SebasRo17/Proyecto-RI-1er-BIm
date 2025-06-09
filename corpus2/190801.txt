@@ -1,0 +1,1 @@
+Was reading an interesting blog post on Singleton design pattern which is so widely used. If it's stupid or as in some quora posts, its an anti-pattern why is it so widely used even in frameworks. For e.g., Spring framework (java) makes all the classes available through dependency injection as Singleton classes and adding prototype is optional.

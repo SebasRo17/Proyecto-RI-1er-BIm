@@ -1,0 +1,1 @@
+I'm a beginner programmer, self-teaching and I have a question. I have some code and I don't know why my code isn't doing what I want it to do. My question is; what do you do when you just don't know why/how your code is not working and you've spent ages at it? Start over, or keep going, or what? I'm talking about best practice here, best practice for inexperienced programmers.

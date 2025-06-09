@@ -1,1 +1,0 @@
-performing fit using nonlinearmodelfit mathematica fitting function particularly interested nonlinear model mathematica make covariance matrix available fit parameter wondering anyone idea mathematica error estimation parameter

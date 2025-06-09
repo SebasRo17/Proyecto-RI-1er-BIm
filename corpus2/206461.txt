@@ -1,0 +1,1 @@
+Do JAX WS implementation classes come as part of the Java5 package, as part of the Java6 package or only as part of an application server libraries like WAS? I read that it comes as part of Java EE? What does that mean? Java 5?

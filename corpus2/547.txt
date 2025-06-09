@@ -1,1 +1,0 @@
-_Mathematica_ can use `ContourPlot` to draw implicit Cartesian equations, but doesn't seem to have a similar function to plot an implicit polar equation, for example $\theta ^2=\left(\frac{3 \pi }{4}\right)^2 \cos (r)$ What's the best way to do this?

@@ -1,0 +1,1 @@
+Is it that DirectX is easier or better than OpenGL, even if OpenGL is cross- platform? Why do we not see real powerful games for Linux like there are for Windows?

@@ -1,0 +1,1 @@
+come use linq every day programming lot fact rarely ever use explicit however found use sql like syntax anymore use extension function rather saying x select filter use x c filter select c style linq prefer others team comfortable

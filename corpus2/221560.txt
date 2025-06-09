@@ -1,0 +1,1 @@
+Sometimes I read in oberver-pattern descriptions, to make the constructor of a observer base class protected so the class will be abstract. but by making the constructor public (if even one is neccessary), I could use the observer as an instance and not only as base-class. Is there any disadvantage of doing so i'm not mentioned yet?

@@ -1,0 +1,1 @@
+trial generate two resourcebundle one property file property one directory tried get key resourcebundle bundle resourcebundle getbundle resourcebundle system println bundle getobject brought file decides get value situation condition

@@ -1,1 +1,0 @@
-need receive data serial port save list use later since input depend human interaction program must keep running saving long data available port whats best way

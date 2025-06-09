@@ -1,0 +1,1 @@
+What does the word domain mean regarding driven design/development? Not in terms of semantics or a scholarly definition but in terms of how it modifies processes or philosophies? I was reading a post: Your software-problem-solution approach I came across this buzzword, DDD, and didn't really know what that meant.

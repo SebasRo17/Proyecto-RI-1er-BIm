@@ -1,1 +1,0 @@
-How can I prevent Mathematica from using the "old fashioned" functions "Sec" and "Csc"? In Germany these functions are "old fashioned" as they are not taught anymore at school.

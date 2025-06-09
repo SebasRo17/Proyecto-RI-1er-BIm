@@ -1,1 +1,0 @@
-would like construct matrix using table command issue would like use one expression need obtain something like f g f g f g f g tried write table containing two expression f j g j inside table command without success obtain instead something like table f j g j j f g f g f g f g would correct syntax construct type matrix completely wrong trying use table command

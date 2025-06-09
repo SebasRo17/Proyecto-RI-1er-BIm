@@ -1,1 +1,0 @@
-equation would like compute jacobian symbolically f x ax diag x ax b x mathbb r n mathbb r n time n b mathbb r n new mathematica seen relevant question aware automatically ensure mathematica recognises different dimension someone help code mathematica

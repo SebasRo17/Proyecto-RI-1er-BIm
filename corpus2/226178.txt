@@ -1,0 +1,1 @@
+I'm moving over to work on a library that a fellow developer has been writing. It's full of `== true` and `== false`, which I find _crazy_ frustrating to read. I've tried asking him to quit doing it, but he just says that it makes it more straightforward to understand what is going on. Is there a good reason why this isn't a great practice? Or is it purely a stylistic thing?

@@ -1,0 +1,1 @@
+A typical curly brace programming lang has two types of AND and OR: logical and bitwise. `&&` and `||` for logical ops and `&` and `|` for bitwise ops. Logical ops are more commonly used than bitwise ops, why logical ops are longer to type? Do you think they should be switched?

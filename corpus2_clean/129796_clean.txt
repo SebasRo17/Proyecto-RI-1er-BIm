@@ -1,0 +1,1 @@
+introduced review process within organisation seems working well however would like able measure effectiveness process time e finding bug clean people picking bug currently effective fully automated test process primarily employ manual testing rely defect found stage ensure review process working anyone come across issue thought work well measuring review

@@ -1,0 +1,1 @@
+controller mvc4 web application action need call another happens e important action call never wait executed think done async point use resource call never wait ever happens please give advise

@@ -1,0 +1,1 @@
+What is the best way to implement automated updates? I've gotten as far as libcurl, I imagine I need to ping the server every now and again with the current version of the software. But then what should I do? What server tech needs to respond, and how?

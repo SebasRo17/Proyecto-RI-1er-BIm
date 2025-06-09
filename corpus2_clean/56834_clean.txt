@@ -1,1 +1,0 @@
-transform matrix vector mathematica bigg begin matrix end matrix bigg longrightarrow begin matrix end matrix vec function x length x j j length x j vec j x j

@@ -1,1 +1,0 @@
-show temperaturemap manipulate image without text colordata manipulate column style test datestring bold style show image temperaturemap last row darker red bold colordata temperaturemap temperature manipulate

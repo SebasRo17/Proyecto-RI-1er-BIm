@@ -1,0 +1,1 @@
+There are a lot of analogies for HTML/CSS development; which can be a bit confuse for a beginner.                  HTML = foundations/house        CSS = walls/blueprint/wallpaper      Is there any best practice here? Which one should we write first?

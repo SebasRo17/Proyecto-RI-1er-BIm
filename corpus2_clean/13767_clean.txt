@@ -1,1 +1,0 @@
-want solve trigonometric equation co x cdot sin x co x tried solve co x sin x co x x return solution term root object yielding also message solve ifun inverse function used solve solution may found use reduce complete solution information tell mathematica solve equation tan x tan x

@@ -1,0 +1,1 @@
+I'm currently developing some mobile applications using PhoneGap for Android, testing only in 3 different kinds of smartphones, and using emulators to test on the others target phone resolutions. Later on I will probably use a iOS emulator. I would like to know if I will have any problems with that.

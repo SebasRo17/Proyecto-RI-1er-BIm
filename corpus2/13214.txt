@@ -1,1 +1,0 @@
-Why is the scaling function being applied to the wrong axis? Here, the log ticks are on the Y axis, but they should be on the X axis:               BarChart[{0.1, 1, 10, 100}, ChartElementFunction -> "GlassRectangle",       ChartStyle -> 45, ScalingFunctions -> "Log", BarOrigin -> Left,       Frame -> True]

@@ -1,0 +1,1 @@
+bouncing around stackoverflow noticed number people attaching event notably click event document opposed element example given button id click button instead writing using jquery brevity click document click presumably use event target drill element actually clicked gain advantage capturing event document level instead element level

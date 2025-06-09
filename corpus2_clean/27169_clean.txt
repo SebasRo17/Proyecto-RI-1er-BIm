@@ -1,1 +1,0 @@
-would like make nice graphic parabolic bowl cylindrical rim following plot x x get paraboloid box rectangular edge come point want cylindrical bounding box best come plot piecewise x x x creates bowl also floor graphic would like get rid might able play game coloring seems like poor hack anyone suggestion generally possible create bounding box arbitrary shape

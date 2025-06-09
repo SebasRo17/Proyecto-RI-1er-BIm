@@ -1,0 +1,1 @@
+On a very small team, where the black box and white box testing is done by the same person, which should the tester do first?

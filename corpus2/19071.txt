@@ -1,0 +1,1 @@
+I am preparing a memoir about "Why do (some) IT projects become too complex and how to avoid it ?". If you have ever encountered projects having complex codes or were hard to maintain, how did you manage to go through it? If you have to choose between several applications to use in your project, what would be your top priority in their functionality and why?

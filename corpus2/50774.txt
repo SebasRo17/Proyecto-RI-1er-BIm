@@ -1,1 +1,0 @@
-Can 32 bit Mathematica run program which requires more than 4GB RAM ?

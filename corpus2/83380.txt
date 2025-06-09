@@ -1,0 +1,1 @@
+I was wondering if there's a big, direct revenue in releasing a programming language such as Java or C#? Selling IDE's, licensing your brand for books or gaining enterprise prestige seem bit of a marginal benefit to my eyes compared with the effort that undoubtedly the development took (I could be wrong though, of course).

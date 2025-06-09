@@ -1,1 +1,0 @@
-lately installation mathematica decided highlight symbol loaded package picture good representation enter image description loading physicalconstants unit bohrradius meter angstrom black yet retain unknown symbol color occurs package persistent across restarting front end rebooting entire system suggestion correcting running student version macos

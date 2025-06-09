@@ -1,1 +1,0 @@
-Wolfram Alpha and _Mathematica_ give an incorrect result (numerically) for the following infinite sum:               N[Sum[((-1)^n)/(n - (-1)^n), {n, 1, Infinity}]]     (* 0.700059 *)      Here's the result on Wolfram Alpha. Why the series isn't correctly evaluated?   The answer should be $\log(2)$.

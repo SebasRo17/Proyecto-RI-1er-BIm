@@ -1,0 +1,1 @@
+Often in coding, I find it very slow and difficult to detect the root cause of a bug and sometimes I end up going to wrong point in my code. It's painful. I know that to detect the root cause of a bug is a very important skill for programmers. Does anybody have a trick or technique to suggest a good way of finding the root cause?

@@ -1,1 +1,0 @@
-construct moving maximum function example list value want maximize value expected result would

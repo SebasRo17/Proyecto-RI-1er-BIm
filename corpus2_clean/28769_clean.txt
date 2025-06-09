@@ -1,1 +1,0 @@
-dsolve x x x x x x x x x dsolve returning input statement unevaluated kind help appreciated

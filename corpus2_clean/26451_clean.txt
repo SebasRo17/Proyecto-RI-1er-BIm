@@ -1,1 +1,0 @@
-trying solve following begin align x sim n mathrm cov x x text end align mathrm cov covariance would mathematica tried x normaldistribution cov x mean transformeddistribution b distributed x b distributed mean x mean cov x transformeddistribution distributed x seem work

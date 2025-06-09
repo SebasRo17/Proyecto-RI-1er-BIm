@@ -1,1 +1,0 @@
-question concerning check whether given matrix positive semidefinite mathematica function positivedefinitematrixq tell whether matrix positive semidefinite wanted ask whether exists implementation purpose implement code fast possible

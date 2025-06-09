@@ -1,1 +1,0 @@
-possible evaluate selected cell programmatically interested say current cell bottom notebook instead evaluate notebook cell

@@ -1,1 +1,0 @@
-sheet excel file already formated different color font column width cell style want fill value mathematica specific cell sheet use sheet formated template create new sheet copying stylings data corresponding cell

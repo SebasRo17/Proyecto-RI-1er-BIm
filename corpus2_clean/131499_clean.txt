@@ -1,0 +1,1 @@
+recently ran across developer used fully qualified name imported name source example import foo public example public bar dosomething final foo foo new foo impression reason one might want use fully qualified class source identical name two different package need fully qualified distinguish two wrong

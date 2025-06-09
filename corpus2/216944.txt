@@ -1,0 +1,1 @@
+Fowler refers to the MVC, as a GUI architecture: > There have been many different ways to organize the code for a rich **client > system**. Here I discuss a selection of those that I feel have been the most > influential and introduce how they relate to the patterns. If MVC is a GUI architecture, then say that the M in MVC are the business rules or domain is not wrong?

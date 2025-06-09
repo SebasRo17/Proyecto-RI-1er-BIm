@@ -1,1 +1,0 @@
-graph showlegend plot sin x x filling axis fillingstyle red blue graphic blue disk imagesize sin x graphic red disk sin x enter image description would like change size disk legend unfortunately using imagesize option work graphic red disk imagesize case

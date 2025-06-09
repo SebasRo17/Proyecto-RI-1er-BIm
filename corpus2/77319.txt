@@ -1,0 +1,1 @@
+I am a long time .NET developer and I have worked with Mono but I now want to start programming for Linux, what would be a good source to start native Linux development?

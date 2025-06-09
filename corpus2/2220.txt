@@ -1,1 +1,0 @@
-When I prepare a CDF file to be included into a web page, far too much blank vertical space is left over the pane. Is there a command to reduce that? This is illustrated by the files SimpleDemos.nb and SimpleDemos1.cdf.

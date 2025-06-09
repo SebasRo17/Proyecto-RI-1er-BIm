@@ -1,0 +1,1 @@
+studying final exam came past question earlier test question asks u find minimum unsorted integer must provide best upper bound best lower bound problem worst case first example upper lower bound hence talk term big theta worst case would go whole list minimum would end list therefore answer big theta n correct good explanation

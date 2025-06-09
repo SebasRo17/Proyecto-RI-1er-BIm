@@ -1,0 +1,1 @@
+current development situation lot dlls executables static library decide go dll go executable separate functionality different executable file hoping answer concise largely opinionated topic would seem decide functionality resides large scale project one executable file expecting answer range good design modularity whatever management put requirement doc

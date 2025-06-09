@@ -1,0 +1,1 @@
+I'm studying an approach to understand better how the continuous integration workflow fits better in a software development company with the scrum method. I'm thinking something like this: ![enter image description here](http://i.stack.imgur.com/vBqTq.jpg) Would that be a nice workflow?

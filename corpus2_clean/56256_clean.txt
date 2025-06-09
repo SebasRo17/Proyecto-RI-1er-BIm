@@ -1,1 +1,0 @@
-work assuming fullsimplify integrate z exp z z z e sqrt e sqrt erfc sqrt sqrt myassumptions assuming myassumptions fullsimplify integrate z exp z z z conditionalexpression e sqrt e sqrt erfc sqrt sqrt

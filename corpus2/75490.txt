@@ -1,0 +1,1 @@
+I like the small iterations. I like the unit tests. I like code review. What I don't like is the starting off with little or no documentation. Am I alone in this? Do I simply have a misunderstanding of the process? Any thoughts would be appreciated.

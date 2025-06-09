@@ -1,0 +1,1 @@
+I have a Python script on a box that I want to call from a Java server, over the network. I know that I can start a server on the Python side and then connect to it from the Java site, but I am trying to see if there is a way to avoid the overhead of running a server on the Python side. Is there any other way of doing it?

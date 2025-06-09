@@ -1,1 +1,0 @@
-case option f f optionspattern stringreplace content optionvalue f con en case rule optionvalue option gg gg optionspattern stringreplace content rule gg con optionvalue en optionvalue optionvalue get value make case work like case found one solution option gg gg optionspattern hold stringreplace content rule releasehold evaluate simpler method

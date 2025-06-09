@@ -1,1 +1,0 @@
-I wonder how can I implement dual numbers in _Mathematica_ , so that all functions work well with them (as with complex numbers). Particularly, for each function $f$, $f(\varepsilon)=f^\prime(0)\varepsilon$

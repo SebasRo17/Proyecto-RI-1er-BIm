@@ -1,1 +1,0 @@
-Is there a "parallel" way to perform these operations?               Indices = {}     For[i = 1, i <= Length[w], i++,      If[w[[i]] < 0, AppendTo[Indices, i]]]      Which gives a list of the Indices where the list w is negative. This is a little slow. Is there a faster cleaner way to get the same answer? This is essentially the Fortran 90 where statement.

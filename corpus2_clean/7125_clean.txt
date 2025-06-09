@@ -1,1 +1,0 @@
-noticed several occasion dayofweek function rather slow applied large list date e g recent question faster alternative situation

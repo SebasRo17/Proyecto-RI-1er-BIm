@@ -1,0 +1,1 @@
+given binary search tree understand use breadth first pre order traversal list entry tree way reconstruct tree order traversed however consider avl tree want traverse tree way recreate avl tree similar plain binary tree breadth first traversal always work pre order work case given work standard binary tree

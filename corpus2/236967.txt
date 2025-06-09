@@ -1,0 +1,1 @@
+I came across this term when looking into PHP's "traits" (which are apparently bad, since, among things, they're not mockable), but I can't really find a definition for this "mockability". It might be related to polymorphism? There isn't even a Wikipedia entry I could find!

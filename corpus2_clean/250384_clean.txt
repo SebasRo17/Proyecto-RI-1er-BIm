@@ -1,0 +1,1 @@
+scenario configuration file containing structured loaded runtime modified application referenced many place function retrieve specific configuration file loaded memory like write unit test ensure changed inadvertently developer good practice overkill e g assert somekey myvalue

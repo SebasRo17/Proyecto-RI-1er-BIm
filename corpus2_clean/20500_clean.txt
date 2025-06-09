@@ -1,1 +1,0 @@
-way run several rlink computation via revaluate parallel e g paralleltable

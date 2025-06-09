@@ -1,0 +1,1 @@
+Our team redesigns the legacy software and there are a lot of design meetings going on. Many of them are not very effective and lack good analysis of the proposed design. Is there any formal way to approach this kind of discussions to make them more effective? I heard about SWOT for example, but afaik it is used more for business projects.

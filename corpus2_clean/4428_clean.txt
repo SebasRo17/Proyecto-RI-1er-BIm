@@ -1,1 +1,0 @@
-mathematica batch script make mysql query using databaselink store parameter run database recently run query failed output indicate past using sqlite interface much success debugging least recovering error printing every sql query made log file function like sqlupdate sqlinsert get access raw query way get databaselink print least get access raw query print

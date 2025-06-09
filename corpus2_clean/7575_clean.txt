@@ -1,1 +1,0 @@
-could display text flashed red half second reverted black put bold reverted normal etc

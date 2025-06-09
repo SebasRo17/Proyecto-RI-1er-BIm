@@ -1,0 +1,1 @@
+what is the simplest and fastest way to support simple scripting in a .Net application? I search a lot but only find many things with practical no documentation or outdated since years. I only need to transfer a simple .Net Object to the script and get a bool result from it.

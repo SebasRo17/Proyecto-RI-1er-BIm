@@ -1,1 +1,0 @@
-assume prior distribution probability success follows p betadistribution graph plot evaluate pdf p k k would like use mathematica calculate posterior distribution given take sample get success sample size would calculate graph regard

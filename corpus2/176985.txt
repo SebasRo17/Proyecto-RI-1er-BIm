@@ -1,0 +1,1 @@
+I currently use Resharper with VS 2008 Pro. I find it almost a necessity to be as productive as I can be due to lack of some of the basic refactors/shortcuts in VS. However I was wondering if since VS 2008 improvements have been made that make it almost as good as Resharper?

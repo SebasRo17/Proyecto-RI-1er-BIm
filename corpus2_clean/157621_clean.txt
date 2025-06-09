@@ -1,0 +1,1 @@
+large development team say num would like keep encryption key hidden developer directly involved encryption module algorithm best practice keep key secret possible still allowing development debugging

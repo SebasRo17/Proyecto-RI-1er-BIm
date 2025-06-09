@@ -1,1 +1,0 @@
-I guess there is an easy way to do this, but I can't seem to figure it out. What I would like to do is to distribute a generic (i.e. without specifying what this function really does) binary function. So               f[a,b+c]      should be mapped to               f[a,b] + f[a,c]      And this must happen prior to any simplification or evaluation of the `b+c` term.

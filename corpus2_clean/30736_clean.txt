@@ -1,1 +1,0 @@
-trying use two color function within one matrixplot mathematica possible example using simple matrix test partition table would like make even number vary color increasing white red odd number vary color grey black could know get whole matrix vary color

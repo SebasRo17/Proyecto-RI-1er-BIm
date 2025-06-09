@@ -1,1 +1,1 @@
-following code plot quantiles gbm process range manipulate plot quantile geometricbrownianmotionprocess mu sigma range plotrange mu sigma would like shade area range say lt blue say med blue say dark blue quantile line thick black plot option seems allow filling curve using filling syntax sure applied
+pre research question found much well organized information swing best practice internet figure give stack exchange shot building one great list best practice swing development found work

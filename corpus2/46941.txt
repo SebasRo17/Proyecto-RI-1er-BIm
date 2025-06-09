@@ -1,1 +1,0 @@
-I'm trying to make a binary switch that switches after a fixed given interval. Why doesn't the following work:               step = .1;     t = Dynamic[Clock[{0, 5, step}, 5, 1] ];      Dynamic[t >=  2]

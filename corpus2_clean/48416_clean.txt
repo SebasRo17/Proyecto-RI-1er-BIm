@@ -1,1 +1,0 @@
-would like diagonalize one unitary non sparse matrix size complex number entry symbol really numerical problem possible make eigensystem run parallel access hpc cluster many kernel diagonalization run fast possible

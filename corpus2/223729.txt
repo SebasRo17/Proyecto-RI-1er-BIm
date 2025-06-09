@@ -1,0 +1,1 @@
+What is the difference between an ambiguity in a proposed algorithm and an ambiguity in the representation of an algorithm? I have done some research and found out that ambiguity in the representation of an algorithm is when the representation can be understood by a group of people and not clear to another group e.g. a layman and a programmer.

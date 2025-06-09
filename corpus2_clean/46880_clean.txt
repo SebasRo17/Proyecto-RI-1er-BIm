@@ -1,1 +1,0 @@
-might seem like basic operation already searched similar answer found none want subtract second element list ct corresponding element lt letting first element remain lt ct see first element want remain desired result nt also note resulting list nt list lt last previous first element like element nt element lt second element mean previous first element value next way look

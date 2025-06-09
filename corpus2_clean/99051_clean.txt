@@ -1,0 +1,1 @@
+possible duplicate use instead e bool reasoning behind making function method uniform usually status feel odd especially calling getter return status usually always set one parameter getting

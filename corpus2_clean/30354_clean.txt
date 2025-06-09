@@ -1,1 +1,0 @@
-problem want two locator simulate vector following sense first locator base second tip vector move tip base move hence vector change move base vector unchanged therefore tip locator move achieve tried storing previous value base test current value different updated position tip however make work using module suspect elegant solution

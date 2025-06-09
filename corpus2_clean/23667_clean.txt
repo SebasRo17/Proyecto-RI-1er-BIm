@@ -1,1 +1,0 @@
-possible combine two edge one double arrow example graphplot vertexlabeling true directededges true result something like enter image description possible change something like enter image description without using drawing tool edit graphic directly

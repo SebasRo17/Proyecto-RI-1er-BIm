@@ -1,0 +1,1 @@
+I am in the process of helping develop a commercial Java program. We want to use a certain third-party LookAndFeel in the GUI. The problem is that the LookAndFeel library is GPL licensed. Since we are planning to sell our product, would it be legal to use that GPL LookAndFeel in our product? The LookAndFeel in question is the InfoNode Look And Feel

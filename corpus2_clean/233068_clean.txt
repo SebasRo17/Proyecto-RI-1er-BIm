@@ -1,0 +1,1 @@
+better interface design point view two show hide function b one setvisible bool visible edit example visibility state function used change c three show hide setvisible bool visible function

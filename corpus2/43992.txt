@@ -1,1 +1,0 @@
-h[x_] := Log[2 x + xSin[x]]          h'[x_] := (2 + Sin[x] + xCos[x])/(2 x + xSin[x])          Plot[{h[x], h'[x]}, {x, 0, 10}]      Whenever I try to plot these two functions the plot turns up blank with two axes. Please halp.

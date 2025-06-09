@@ -1,1 +1,0 @@
-trying build certain module mathematica want dynamically ask directory path like file explorer code cell executed directory control directory current directory setdirectory notebookdirectory set local roaming directory setdirectory file directory set local roaming subdirectory

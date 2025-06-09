@@ -1,0 +1,1 @@
+mangling scheme c compiler vary documented publicly linkers made decode mangled symbol file attempt find mangled version via mangling convention across file static library linkers could help alleviate problem c library compiled symbol resolved list mangling documentation found msvc mangling convention gcc un msvc un mangling documentation llvm mangle

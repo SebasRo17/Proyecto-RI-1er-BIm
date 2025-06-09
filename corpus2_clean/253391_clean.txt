@@ -1,0 +1,1 @@
+wondering guy handling optional property let say product bud color property really best way use pattern use strategy pattern maybe maybe use decorator pattern product another property added become optional php product private id private title var private color construct id title color id id title title color color

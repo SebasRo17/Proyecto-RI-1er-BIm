@@ -1,1 +1,0 @@
-want use custom transformation function simplify mathematica seem use properly consider following b fullsimplify b transformationfunctions intended evaluates however add standard transformation function nothing happens fullsimplify b transformationfunctions automatic give b mathematica forget custom function idea

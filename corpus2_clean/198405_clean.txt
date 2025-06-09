@@ -1,0 +1,1 @@
+small team working web application using mvvm design pattern using technology like net knockout html trying come review checklist team make use coding well reviewing tried find google help guy suggest look review checklist

@@ -1,1 +1,0 @@
-trying build initial model electro mechanical system running loop various input parameter currently code follows clear sol k n j j c c em sol ndsolve j n k k n j c k k n sign c em em run code returning overdetermined system believe simple syntax error right loss idea pointer would great

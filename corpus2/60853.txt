@@ -1,0 +1,1 @@
+Sometimes I think architect role is just a title that is given for someone that has been a senior developer for a number of years. How do you know when a senior developer is ready to take on an architect role? Is it by market standard common for senior developer to jump to architect role or do they need to be a team lead then architect? I need some enlightment on this topic.

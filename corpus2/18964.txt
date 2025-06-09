@@ -1,1 +1,0 @@
-How do I plot a normal curve with filling under the curve and to the right of a vertical line. I would prefer that the vertical line starts at the x-axis and stops at the plotted curve. Basically trying to shade the area under the curve for a specific region.

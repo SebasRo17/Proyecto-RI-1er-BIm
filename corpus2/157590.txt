@@ -1,0 +1,1 @@
+I often read/overhear that good commit messages should be written in present tense or to use imperative mood when describing the change eg. `Fix xyz` instead of `Fixed xyz`. What are the advantages of doing so? Are there differences between the various VCS (I mostly read these about git but that maybe because I mainly work with git)?

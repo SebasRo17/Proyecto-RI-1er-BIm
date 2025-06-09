@@ -1,1 +1,0 @@
-create x matrix x random integer element code returned identical x element get tried

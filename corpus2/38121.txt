@@ -1,1 +1,0 @@
-I need to check if the expression is a correct equation with only 1 variable x and without functions, that are not build into Mathematica. For example               Sin[x]==0       is correct equation. And expressions               Sin[x*a]==0, Sin[[x]==0, f[x]==0, Exp[x]=9       are not correct equations.

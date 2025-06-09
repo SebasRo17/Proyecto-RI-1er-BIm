@@ -1,0 +1,1 @@
+I've seen the book Working Effectively with Legacy Code recommended a few times. What are the key points of this book? Is there much more to dealing with legacy code than adding unit/integration tests and then refactoring?

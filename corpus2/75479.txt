@@ -1,0 +1,1 @@
+Every time I check out a web page dedicated to some programming language I always see the word _"powerful"_ in the list of idiosyncrasies / attributes. If every programming language is powerful why do they put that word in the tutorials / documentations?

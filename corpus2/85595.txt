@@ -1,0 +1,1 @@
+Which one of these is the easiest/fastest choice for developing simple Android apps/games? I'm familiar with all this technologies.                  • Android SDK or NDK        • C# on MonoDroid platform        • Adobe Flash & Adobe AIR        • Corona SDK        • Converting tools like PhoneGap      Fundamentally, Could you explain adventages and disadventages of this methods.

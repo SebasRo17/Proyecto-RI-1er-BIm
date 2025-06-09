@@ -1,1 +1,0 @@
-plot function one discrete one continuous input plot want everything continuous listplot listpointplot want everything discrete would like able say something like hybridplot f dsc cnt dsc min max step cnt min max hybridplot f dsc cnt dsc somearray cnt min max seeing simple way doc

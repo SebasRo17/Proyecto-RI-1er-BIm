@@ -1,0 +1,1 @@
+Ideally, we would have different browsers supporting the same standards and same code producing the same result on all browsers. That hasn't happened yet. What are the reasons why?

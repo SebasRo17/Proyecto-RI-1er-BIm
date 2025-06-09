@@ -1,1 +1,0 @@
-find possible closed form number use function wolframalpha includepods possibleclosedform return result following form possible closed form inputform result display quite large expression containing pod cell represented xmlelement easy way extract first suggested closed form normal expression case e

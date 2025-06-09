@@ -1,1 +1,1 @@
-sequence given explicit formula n th term seq n fullsimplify lerchphi n n log array seq trying find recurrence relation sequence e g form differenceroot object invocation differencerootreduce produce desired result differencerootreduce lerchphi n n log n lerchphi n n log way find recurrence relation sequence
+going graduate soon thinking really small project script num num loc made free time github wondering worthy enough presented future employer include big num loc

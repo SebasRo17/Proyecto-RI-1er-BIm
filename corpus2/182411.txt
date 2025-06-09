@@ -1,0 +1,1 @@
+I understand that two of the many more options for inter process communication can be :   1. Shared memory   2. Sockets  Actually I saw these two options being exposed by Intellij Idea for debugging a Java application . I want to know what are the pros and cons of each approach .

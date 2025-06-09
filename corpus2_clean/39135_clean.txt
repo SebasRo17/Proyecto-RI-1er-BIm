@@ -1,1 +1,0 @@
-part larger program need solve x b x c equiv mod p k prime p right calling reduce x b x c p k x integer parsing find need e usually assigning c ignoring result b c especially p k start get large e g b c approx p k approx quite lag faster way find solution x mod p k thanks

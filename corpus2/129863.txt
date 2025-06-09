@@ -1,0 +1,1 @@
+I want to write Javadoc in DRY way. But the oracle document about Javadoc says write same thing again in overload method comment. Can't I avoid repetition?

@@ -1,0 +1,1 @@
+need algorithm place horizontal text label multiple series point screen basically need show timestamps information history moving object map general multiple point per text label appear close point right side overlap point text label anyone know algorithm heuristic

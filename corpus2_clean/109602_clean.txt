@@ -1,0 +1,1 @@
+possible duplicate interface useful company service oriented architecture asp net application use interface every crap huge overhead service class dataprovider class etc use interface practically could also go without interface use complicated lose lot productivity

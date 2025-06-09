@@ -1,0 +1,1 @@
+How and where can I learn more about financial data feeds? I'm specifically interested in learning how feeds are implemented, i.e. are feeds implemented as SOAP/RESTful Web Services? Or if they are implemented differently, how so and as what?

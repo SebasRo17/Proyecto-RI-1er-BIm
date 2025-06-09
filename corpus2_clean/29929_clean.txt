@@ -1,1 +1,0 @@
-new mathematica stuck simple problem please advise following list list want select subset first element subset list total coresponding second element example example expected result solved using kuba answer added deleteduplicates make work better produce less output large datasets lst deleteduplicates total rest subset list null sequence tableform

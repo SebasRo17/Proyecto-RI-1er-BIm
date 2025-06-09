@@ -1,1 +1,0 @@
-using new mathematica student edition evaluating table integral calling nintegrate repeatedly evaluation stop without error kernel clear variable idea going memory issue

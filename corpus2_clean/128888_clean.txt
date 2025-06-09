@@ -1,0 +1,1 @@
+began use parser combinators first reaction sense liberation felt like artificial distinction parsing lexing sudden everything parsing however recently came across posting codereview stackexchange illustrating someone distinction first thought silly fact function exist parsec support behavior lead question advantage disadvantage parsing already lexed stream parser combinators

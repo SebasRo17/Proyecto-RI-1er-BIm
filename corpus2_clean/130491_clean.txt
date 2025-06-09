@@ -1,0 +1,1 @@
+reading bayesian spam filtering think understand theory see approach needed order calculate likelihood message spam given contains certain word set message already classified user either spam ham receive new message containing chosen word want classify surely need divide number spam message contain word total number message contain word equation

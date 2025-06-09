@@ -1,0 +1,1 @@
+From a client (browser), using javascript I want to send an image to sql server ( and store with user profile) (sql server), along with other data such as user id or name. Which option is better? Send image as img / jpg? Or convert it to base64 and send everything as json format?

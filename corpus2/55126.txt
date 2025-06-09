@@ -1,1 +1,0 @@
-Ideally, I'd like to change the mouse pointer appearance(s) at notebook level, from a styleseet. However, I'd be satisfied only by changing its color. This is the main issue keepeing me away from dark themes: the pointer becomes hard to find. There seems to be an option "MousePointerAppearance" but I don't know how/if it works.

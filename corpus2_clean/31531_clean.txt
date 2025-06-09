@@ -1,1 +1,0 @@
-line code one liner import abaqus dispalcements displacement deletecases importstring stringcases filestr regularexpression n minimum table drop nd column u magnitude line give trouble auto intendation sometimes regularexpression match opening somewhere earlier one solution correct wrong formatting know delete retype anyone else face trouble front end way avoid

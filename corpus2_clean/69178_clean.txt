@@ -1,0 +1,1 @@
+learning git noticed two step commit process num git add file num git commit first step place revision called staging area index interested design decision made benefit also git user use git commit ask come bzr bazaar feature

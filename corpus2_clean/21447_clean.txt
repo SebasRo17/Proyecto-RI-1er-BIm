@@ -1,1 +1,0 @@
-one simple system solvable ndsolve know parametricplot present trajectory space solution x z s ndsolve x x ab x z ab x z z z ab x z x z x z x z parametricplot evaluate x s evaluate s evaluate z s plot evaluate x s plotrange plot evaluate s plotrange plot evaluate z s plotrange

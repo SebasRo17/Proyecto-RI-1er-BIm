@@ -1,0 +1,1 @@
+So I'm new in scala-play world. And just got a look at Anorm and it seemed quite cool. But I was wondering what is the proper way to use it? I guess we shouldn't just put pseudo-SQL everywhere in our code.. I took a look at the website and there is a tutorial explaining some stuff, but it is not said how to actually effectively use it. Can anyone please share their 5cents?

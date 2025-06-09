@@ -1,0 +1,1 @@
+If I wanted to make a mobile version of a website, what are the most common screen resolutions that I should be testing on?

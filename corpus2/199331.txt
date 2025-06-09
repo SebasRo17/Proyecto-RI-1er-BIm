@@ -1,0 +1,1 @@
+A certain failure of OOP is shown with a class Square inheriting from Rectangle, where logically Square is a specialization of Rectangle and should therefore inherit from it, but everything falls apart when you attempt to change a Square's length or width. Is there a specific term for describing what is going wrong with that case?

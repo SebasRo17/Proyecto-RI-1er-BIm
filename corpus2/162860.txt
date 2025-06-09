@@ -1,0 +1,1 @@
+Are there any FTP programs out there that do a file comparison as well, so I can select the local and remote files and see what actually changed? I didnt find any when I googled. But it doesnt seem like a very advanced use case to me. Surely many others would have felt the need for it.. right?

@@ -1,1 +1,0 @@
-two matrix number column different number row want make new matrix st row form second row form third row form fourth row example final matrix please note length matrix thank help

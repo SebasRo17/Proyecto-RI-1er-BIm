@@ -1,1 +1,0 @@
-I am looking at the Java `SimpleFrontEnd` example provided by _Mathematica_. Everything goes well except it always renders graphics twice. ![enter image description here](http://i.stack.imgur.com/ya33f.png) Can anyone help me with this? BTW: I am using version 9 under ubuntu 14.04 (32 bit).

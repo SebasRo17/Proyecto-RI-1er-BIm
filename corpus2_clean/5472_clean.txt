@@ -1,1 +1,0 @@
-trying find way mathematica always represent numerical value self defined variable define using lh rh example execute solve x x x x x like define variable rho execute get something like solve x x x x rho x rho possible basically trying get mathematica always represent n th root unity given symbol clean input output

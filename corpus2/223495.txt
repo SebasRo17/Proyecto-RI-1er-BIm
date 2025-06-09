@@ -1,0 +1,1 @@
+In usability testing, it's common to select a set of users who have never used the software before. I've heard this process described by programmers as the "idiot test", or sometimes "naive user test" or "ignorant user test". Unfortunately all these terms have insulting connotations in English. Is there a term to describe this type of usability test that does not insult?

@@ -1,0 +1,1 @@
+I love the Metro UI (Modern UI/Windows 8 style UI, whatever) and would like to have the "tile" design on my site as well. Something like this or this. Am I allowed to do this or do I have to contact MS first about this? There is already one question but in this one the posted and accepted answer covered more the pivot control than the tileish UI.

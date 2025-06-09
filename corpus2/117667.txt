@@ -1,0 +1,1 @@
+I would probably consider it a code smell or even an anti-pattern to have a class that implements 23 interfaces. If it is indeed an anti-pattern, what would you call it? Or is it simply just not following the Single responsibility principle?

@@ -1,0 +1,1 @@
+I've been thinking about that for quite a while actually. I am not a native english speaker myself but still I have years of programming experience and I always asked me this. Why is it named as Exception but not Error since they are errors. It could be `PageNotFoundError`instead of `PageNotFoundException`.

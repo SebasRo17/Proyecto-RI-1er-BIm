@@ -1,0 +1,1 @@
+As a developer I like Scala and could tell the management about technical benefits of the language. But even if management understands that a superior technology has business impact, I fear that they don't understand what I'd be talking about. What arguments would you present to managers with technical backgrounds (computer scientists not programming for many years)?

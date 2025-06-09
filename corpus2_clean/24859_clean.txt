@@ -1,1 +1,0 @@
-question manipulating sound wav file goal produce something sound like number station broadcast see e g easy generate random string number send linux program espeak v de german w wav saving sound wav file resulting voice clean sound like radio recording challenge distort sound bit make sound like strange radio recording adding little echo white noise maybe

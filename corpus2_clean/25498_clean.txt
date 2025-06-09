@@ -1,1 +1,0 @@
-mathematica linux try save plot pdf tried four different option case error appeared blank space image also tried save eps another problem appeared half letter label image see figure saved well mathematica without error possible solve problem

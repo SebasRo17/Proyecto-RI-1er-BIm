@@ -1,1 +1,0 @@
-would like fit function form log b x set data data input string wolframalpha log fit n n n n n n produce nice logarithmic fit data however using findfit copy mathematica produce nonsensical value b complex function wolframalpha produce fit might find fit using copy mathematica

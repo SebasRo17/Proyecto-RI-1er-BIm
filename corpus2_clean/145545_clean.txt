@@ -1,0 +1,1 @@
+want integrate spring framework project especially server side want put within web inf folder war file put applicationcontext xml layer mean project since divided distinct project service domain dao good practice

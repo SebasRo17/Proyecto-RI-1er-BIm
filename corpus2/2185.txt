@@ -1,1 +1,1 @@
-To programmatically add to menus you can do as described here: How do I add to menus? What can I do to programmatically add to contextual menus? Is something similar to `AddMenuCommands` available?
+When should a project be released to alpha, beta and to the public? Is it a good idea to extend the alpha and beta phases when it is needed? When in a later phase (eg. beta), is it wise to go back to an early phase (eg. alpha) if it didn't work out?

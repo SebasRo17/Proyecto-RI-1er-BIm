@@ -1,1 +1,0 @@
-How may I restrict $i,j$ such that they run over $\mathbb{N}$ excepting the numbers divisible by $2$ or $3$ or $7$?               Sum[1/( i j (i + j + 1)), {i, 1, Infinity}, {j, 1, Infinity}]

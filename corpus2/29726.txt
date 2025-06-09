@@ -1,0 +1,1 @@
+Just when I generated a GUID, I found some hyphens in between the character and also at specified intervals               8b55fec7-c987-4e7b-abad-16e5aaea9b53      Is there any story behind this? **Note:** My intention is to remove those hyphens as I am adding this GUID to a filename and our filename should only be aplhanumeric.

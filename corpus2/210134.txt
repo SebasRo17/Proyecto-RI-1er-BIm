@@ -1,0 +1,1 @@
+I want an element to appear in case the website has not been used for a while and make it disappear after it is being used again. Is there any way to detect on a website if the mouse has not been moved for awhile?

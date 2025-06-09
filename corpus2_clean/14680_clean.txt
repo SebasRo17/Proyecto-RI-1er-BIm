@@ -1,1 +1,0 @@
-would like use dependent slider manipulate first slider k independent varied kmin kmax two others slider k k dependend k k k k always true possible

@@ -1,0 +1,1 @@
+I have mostly seen ASP.NET websites using MSSQL as database. Even I developed one some time ago. Why only MSSQL, when MySQL, a free alternative is available. So, the question is, IS it possible to integrate a MySQL database as easily as MSSQL with ASP.NET application or we need to use some API for doing so ??

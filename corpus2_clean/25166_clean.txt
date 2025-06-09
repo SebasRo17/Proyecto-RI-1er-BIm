@@ -1,1 +1,0 @@
-numerically calculating double integral using nintegrate infinite domain option default mathematica calculates integral comment slow convergence mathematica abort calculating long message start systemexception memoryallocationfailure make calculation mathematica linux

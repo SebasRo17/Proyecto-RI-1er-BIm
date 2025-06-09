@@ -1,0 +1,1 @@
+know computation take linear linearithmic time based size good take quadratic time good however memory usage suppose program take file something file okay memory usage linear size file constant

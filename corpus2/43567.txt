@@ -1,1 +1,0 @@
-How is something like the plot with subplot shown in this image achieved with Mathematica? ![subplot with subplot](http://i.stack.imgur.com/9SCvq.jpg)

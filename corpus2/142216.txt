@@ -1,0 +1,1 @@
+I hear about WPF, Silverlight but then there is also windows RT, metro stuff, windows 8 and so on at the moment - I'm having a hard time nailing what to bet on. How do I, at a given point in time, find the best platform for doing somewhat future-proof GUI?

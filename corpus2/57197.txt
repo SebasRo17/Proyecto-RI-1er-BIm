@@ -1,0 +1,1 @@
+Have a client thinking about estimating the cost of porting a project from language A to language B. What's the best way to put together an request for proposal to do this?

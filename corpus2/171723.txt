@@ -1,0 +1,1 @@
+We have created a web application. We need to demo this application to our senior management. They don't understand the technology. We are creating a power point presentation for this. How much technical details should we include in the presentation? What should be those details (for example, what the front end is used, which db is used, etc.)?

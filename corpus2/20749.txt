@@ -1,1 +1,0 @@
-I solve two equations and have two solutions one by each equation. I want to create list of these roots. Could anyone please help me? Appreciate it. m02R150 = FindRoot[P1 == 0, {E1, 0.07, 0.1}] m01R150 = FindRoot[P1 == 0, {E1, 0.19, 0.2}] {E1 -> 0.0992422} {E1 -> 0.195237} What I want is to create a list: Lm0R150 = {0.0992422, 0.195237}

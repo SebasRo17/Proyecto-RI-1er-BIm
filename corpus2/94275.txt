@@ -1,0 +1,1 @@
+I have been granted permission to reduce the rules from our custom license used in Advanced Electron Forum project. I am not sure what exactly is needed to make the license above an open source license for the product but I think that third term is the one that should be removed/changed. Best regards.

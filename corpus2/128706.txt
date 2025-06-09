@@ -1,0 +1,1 @@
+I've been doing quite a lot of refactoring of C++ and C# code recently, and found that 90% of the patterns I use are:   * Template method   * Factory   * Singleton Are these generally the most commonly used patterns in refactoring or is it just me? Can you share your refactoring experiences?

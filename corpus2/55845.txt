@@ -1,1 +1,0 @@
-I have a spike train. The data shows the time at which the neuron fired a spike. I want to plot them like this picture: ![enter image description here](http://i.stack.imgur.com/QJQvo.jpg) Here is the data for one spike train which corresponds to the one of the neurons in the figure above. Download the spike train data

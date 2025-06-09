@@ -1,0 +1,1 @@
+specifically interested sql server question applies general creating new application way see two option create table called user store user password etc set one database user called application possibly user various component system set application user database user may allow easier single log setup window based system approach generally preferred drawback benefit

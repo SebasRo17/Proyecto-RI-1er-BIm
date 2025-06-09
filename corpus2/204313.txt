@@ -1,0 +1,1 @@
+I want to build a website that will contain a lot of images. I don't want users who visit the website to be able to save the images. I have blocked the right click option, but is there any other way to keep users from saving the images?

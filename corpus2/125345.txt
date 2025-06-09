@@ -1,0 +1,1 @@
+I'm asked to teach to my students Eclipse. The lectures are already done, and I see that the teacher asks the students to **always** start a new project in "Release" mode. ![enter image description here](http://i.stack.imgur.com/p8mqk.jpg) Is that normal? If "yes", or if "no", why?

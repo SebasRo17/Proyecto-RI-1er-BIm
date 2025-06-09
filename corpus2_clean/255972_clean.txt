@@ -1,0 +1,1 @@
+given spa based web site client developed using j mvc framework server providing rest api anyone experience outsourcing development client side parallel development server side problem encountered really beneficial

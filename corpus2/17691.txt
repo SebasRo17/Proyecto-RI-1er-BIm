@@ -1,1 +1,0 @@
-I have several Mathematica expressions in which subscripts are expressed with square brackets. E.g. `x[12]` is meant to represent _x_ 12, etc. If I evaluate `TeXForm` on such an expression, `x[12]`, e.g., gets converted to `x(12)`. Is there a way to get it to produce the `x_{12}` form instead?

@@ -1,1 +1,0 @@
-plot dataset boxwhiskerchart passing box plot mouse pointer show specific dataset min max value quartile however use quartile median calculate value correspond value displayed boxwhiskerchart different anyone explanation simply bug system specific osx data randomvariate normaldistribution boxwhiskerchart data quartile data median data

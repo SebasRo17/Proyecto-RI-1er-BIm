@@ -1,0 +1,1 @@
+I'm curious to how others deal with upgrade lists and feature suggestions for developments (ie popular community driven websites) At the moment, when a user makes a suggestions for an upgrade/feature, we stick it on an 'unscheduled' list to be reviewed in the future when we start setting out the next set of schedule.

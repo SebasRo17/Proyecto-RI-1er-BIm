@@ -1,0 +1,1 @@
+easiest way convert json csv format read api yet seems subclassing default allows remove unnecessary character order closer csv format simpler solution exist

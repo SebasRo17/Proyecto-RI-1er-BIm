@@ -1,0 +1,1 @@
+working asp net webform already provides ready user ajax solution using update panel invest time learning ajax really work

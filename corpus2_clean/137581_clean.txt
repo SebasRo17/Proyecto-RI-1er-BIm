@@ -1,0 +1,1 @@
+know throw exception constructor php example parameter expected defer throwing exception till invoked advantage disadvantage case

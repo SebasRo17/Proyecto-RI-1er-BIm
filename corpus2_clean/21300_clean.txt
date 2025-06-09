@@ -1,1 +1,1 @@
-goal read list dat filter data function f write transformed data list dat following input list dat output map f input output list dat however input output large list format usual anlytical expression memory available always appears deal problem need suggestion memory control export transformed data external file real time
+knowledge modern imperative programming language support recursion sense procedure call always case cannot find hard fact quick google search question language support recursion right start support added

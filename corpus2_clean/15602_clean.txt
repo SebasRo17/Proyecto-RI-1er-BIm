@@ -1,1 +1,0 @@
-following appear work dynamicmodule button press choicedialog ok cancel press button labelled press dialog window appears without button mathematica hang bug attempting something done inside dynamic module either case anyone know workaround real code button initiated process inside dynamic module want get user confirmation

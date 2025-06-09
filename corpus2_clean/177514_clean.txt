@@ -1,0 +1,1 @@
+working asp net trying style imagebutton tried via cs discover reason net writes inline style setting border width num automatically override border width cs set manually codebehind question styling codebehind keep one place border width rest style sheet clarification mean styling whole site

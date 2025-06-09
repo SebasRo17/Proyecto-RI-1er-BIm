@@ -1,0 +1,1 @@
+I wrote a nice little open source CoffeeScript color library called color. I think it's handy, and I believe other people would find it useful. What's the best approach for letting the world know about it?

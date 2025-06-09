@@ -1,0 +1,1 @@
+basically ran intellij idea plug called findbugs idea analyze corrected whatever caught ran tool still complaining even though fixed source file stopped complaining recompiled require compilation step basically look source file detect possible bug tool work general

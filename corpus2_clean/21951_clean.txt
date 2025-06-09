@@ -1,1 +1,0 @@
-would like know plot large number point arround specific format x e e e e e e e e e e e e e e e e e e e e e e need draw line trought point would anoying write point format x x would tedious insert comma brace hand every pair point coordinate totaly new mathematica would appreciate help

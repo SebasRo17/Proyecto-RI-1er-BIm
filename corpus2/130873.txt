@@ -1,0 +1,1 @@
+i'm looking for the best way to test a candidate for a position of flex programmer with a pracitical\interactive test in front of a computer 45-60 minutes test. need to test flex basic knowledge, abillity to solve UI programming challenges and maybe some flex mobile. any ideas?

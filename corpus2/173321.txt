@@ -1,0 +1,1 @@
+The last line of this answer prompted me to ask this question . I know to know at a conceptual level the difference between Git and GitHub .

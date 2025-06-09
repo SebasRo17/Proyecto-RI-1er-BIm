@@ -1,0 +1,1 @@
+think scm based mercurial submodules git dependency management definitely good way managing dependency definitely bad way prefer build system ant phing rake particular example context several web application share across reusable component say jquery plugins

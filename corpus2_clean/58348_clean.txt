@@ -1,1 +1,0 @@
-could someone please explain difference method possibly nicer way get first result toy example real program like use rather table similar imperative global thing going method desired result fsum f total f f appendto f n n n n fsum f method fsum f total f f appendto f n n fsum f n method fsum f total f f n n appendto f n n fsum f

@@ -1,0 +1,1 @@
+I developed an iOS application as a student and I am currently distributing it for free in the app store. I have received a few enquires about adding features to the app including one person who would like the app to be open source so they can add features themselves. What concerns should I have if I open source my iOS application? Which open source license should I use?

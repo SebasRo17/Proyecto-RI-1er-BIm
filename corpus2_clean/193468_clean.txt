@@ -1,0 +1,1 @@
+basic issue mvc architecture aware view usually listens model user request propagated model currently like user click e g update button gui actionlistener call view view call controller controller call model three view must aware controller long call chain seem right way number user action number call chain increase best practises

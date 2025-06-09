@@ -1,0 +1,1 @@
+Every now and then I see "closures" being mentioned, and I tried looking it up but Wiki doesn't give an explanation that I understand. Could someone help me out here?

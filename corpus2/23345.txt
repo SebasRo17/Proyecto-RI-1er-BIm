@@ -1,1 +1,0 @@
-How useful is it to program a user-built function in a package to produce a red warning message `F::argx` if you give the wrong number of arguments to that function? How do I do this?

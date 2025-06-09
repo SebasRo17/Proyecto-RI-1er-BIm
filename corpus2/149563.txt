@@ -1,0 +1,1 @@
+I was told by a colleague that in Java object creation is the most expensive operation you could perform. So I can only conclude to create as few objects as possible. This seems somewhat to defeat the purpose of object oriented programming. If we aren't creating objects then we are just writing one long class C style, for optimization?

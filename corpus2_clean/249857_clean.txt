@@ -1,0 +1,1 @@
+suppose mylist extends observablecollection myobject myobject boolean property enabled let say want number myobject object property enabled equal define property mylist use public count enabled public get count enabled looked property v method msdn design guideline leaning towards since might considered expensive enough

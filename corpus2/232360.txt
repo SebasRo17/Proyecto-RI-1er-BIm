@@ -1,0 +1,1 @@
+I've always used the repository pattern in my applications. But I have seen that many people use facades instead of the repository for naming convention, but the operation is the same, I Think. Why is there this difference? There are a real difference between them or not?

@@ -1,0 +1,1 @@
+Is Java Swing really used for constructing real-world software? I'm taking an introductory course in Java, but nothing more than drawing some shapes, lines & basic tables.

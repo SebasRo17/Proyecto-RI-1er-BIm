@@ -1,0 +1,1 @@
+Which of these styles do people prefer?               string mystring = "defaultvalue";     if (condition)        mystring = "othervalue";      VS               string mystring = null;     if (condtion)        mystring = "othervalue";     else        mystring = "defaultvalue";      VS               mystring = condition? "othervalue" : "defaultvalue";

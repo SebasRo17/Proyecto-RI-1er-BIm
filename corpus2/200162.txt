@@ -1,0 +1,1 @@
+To be specific, I want to know which function/types in libpri and being used in the Asterisk project. I'm not traditionally a C programmer, but I know some basic stuff because I took a class in college.

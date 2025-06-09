@@ -1,0 +1,1 @@
+As I know, FreeType restrict some features by patented font technology from Apple. So, if I develop a program for Apple platform _only_ , can I enable and use the features?

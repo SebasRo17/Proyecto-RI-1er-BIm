@@ -1,0 +1,1 @@
+In order to create a (Lucene) query, an "incomplete" domain object is used. All properties with a value are used for the query, the rest is ignored. In the absence of a better name, we call it "search by example", but as with many other "original" approaches there is probably a (standard/agreed upon) name for this approach, but I could not find one. Thank you.

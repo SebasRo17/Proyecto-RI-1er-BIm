@@ -1,0 +1,1 @@
+I would like if you could explain to me in a simple way how does the disruptor patter work. This concept has been elusive to me as of know. Perhaps with your help I could comprehend it.

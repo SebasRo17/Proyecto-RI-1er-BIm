@@ -1,1 +1,0 @@
-let take following simple funny case parametricplot sin co boxratios axeslabel x long label imagesize give plot see label z ax printed horizontally default thus wasting lot space two dimensional plot however easily fixed option rotatelabel false something similar three dimensional plot rotating printing vertically z label many thanks advance

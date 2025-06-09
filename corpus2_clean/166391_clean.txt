@@ -1,0 +1,1 @@
+mfc store entry long need store oracle sql decided save blob since want make additional table also thought saving local file sql column pointing file would prefer keep blob server clear table every couple week table sequential key id num column time need add blob column order store every row recommend guide approach read write map blob maybe clob thanks

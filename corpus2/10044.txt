@@ -1,1 +1,0 @@
-How to find out available fonts on the system from within Mathematica? When I do               Style["foobar", FontFamily -> "Foobar"]      how do I know which font the displayed output is using/falling back to use?

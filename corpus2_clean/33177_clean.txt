@@ -1,1 +1,0 @@
-tried using ndsolve solve following system equation x x x x x x weird system tell infinity boundary change boundary get message eliminate nonlinear term x function solved analytically know whether equation well posed boundary condition x anyone suggestion

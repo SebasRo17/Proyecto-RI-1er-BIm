@@ -1,1 +1,0 @@
-construct infinite matrix finite sub matrix form b b b b bi rectangular square matrix

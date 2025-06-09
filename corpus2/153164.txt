@@ -1,0 +1,1 @@
+Our shop's size increases dynamically, so we are planning to hire a few new junior developers but we would not like to overwhelm the seniors with too much mentoring and training. How many (usually fresh out of college) junior developers could (and should) a senior developer mentor while the senior is still being able to do his or her tasks effectively?

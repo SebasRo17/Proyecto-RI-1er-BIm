@@ -1,1 +1,0 @@
-Suppose that we have a box or a sphere or an other 3D object and a ponctual light source. How we can generate the cast shadow using mathematic? Is there any tools to render a shadow given the light source position?

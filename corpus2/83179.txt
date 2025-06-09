@@ -1,0 +1,1 @@
+After yet another homework question on SO. It seems like that vast majority of students have no idea what a debugger is or how to use one. I feel that knowing how to use a debugger is almost as important as other fundamental of programming.   * The question is shouldn't debugging and how to use modern debugging tools be taught alongside programming fundamentals? If not why not.

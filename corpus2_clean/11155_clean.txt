@@ -1,1 +1,0 @@
-possible duplicate determine whether expression contains given symbol let say expression sample q f want check symbol question clean fast way checking equation came far stringfreeq tostring sample absolutetiming null sample unique sample unique absolutetiming null solution work feel like might faster functional way

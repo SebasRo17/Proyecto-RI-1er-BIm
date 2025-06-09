@@ -1,0 +1,1 @@
+I wonder how many .NET developers have a working knowledge of CIL and where it has been useful to them. In case you are missing my meaning, here is a simple CIL example to add two locations together:               ldloc.0     ldloc.1     add     stloc.0    // a = a + b or a += b;

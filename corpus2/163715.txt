@@ -1,0 +1,1 @@
+it seems that most of the programming exercises that I am currently doing, are a little bit ambiguous when it comes to specifying what should I do. When programmers work with clients, are the clients ambiguous as well about what they want and I should learn to guess?

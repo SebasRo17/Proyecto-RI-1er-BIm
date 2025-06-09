@@ -1,0 +1,1 @@
+Rhodes claims to be able to build Native apps but I'm not sure or not if this means a native shell + embedded Web Browser like PhoneGap or does it create a true Native app like (I believe) Titanium does.

@@ -1,1 +1,0 @@
-print table first column instead begin array c end array b tableform b enter image description aim would handle following example c table n tableform c

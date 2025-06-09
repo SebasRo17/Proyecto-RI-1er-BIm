@@ -1,0 +1,1 @@
+I am trying to find a standalone way to interface with a Datamax M-Class Mark2 label printer through a Ruby on Rails application. I currently have a solution that is working, which i use javascript to interface with an ActiveX object on the users machine. If at all possible i would like to accomplish this without the need for the ActiveX object.

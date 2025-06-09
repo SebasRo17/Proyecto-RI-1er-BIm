@@ -1,1 +1,0 @@
-need solve large complex matrix sparse symmetry eigenvalue problem e g e e even e e large dimension matrix mathematica support run time one good suggestion

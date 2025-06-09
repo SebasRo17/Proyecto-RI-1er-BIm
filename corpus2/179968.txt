@@ -1,0 +1,1 @@
+Why it is less common to use wiki/markup in enterprise as documentation? They use Word document instead. Wiki/markup are in text format, which is version control friendly.

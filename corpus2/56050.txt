@@ -1,1 +1,0 @@
-I am looking for something like nextpow2 in MATLAB like this: > P = nextpow2(A) returns the exponents for the smallest powers of two that > satisfy $2^P \geq\left|A\right|$.

@@ -1,0 +1,1 @@
+like methoda someparams initialization etc call methodb someparams methodb someparams work blah raise exception blahblah raise exception adding documentation methodb also documenting exception raise documentation methoda consuming methodb may raise exception still document exception methoda well right wrong

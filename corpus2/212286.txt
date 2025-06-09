@@ -1,0 +1,1 @@
+I'm trying use the PSR conventions in all my projects, but today I view some code of my co-worker and I disagree.               if ($cond == 1 AND $cond == 2) {         // to-do     }      For me, the correct is:               if (($cond == 1) AND ($cond == 2)) {         // to-do     }      **What is the correct use of the PSR?**

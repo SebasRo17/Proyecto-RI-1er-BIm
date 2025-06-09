@@ -1,1 +1,0 @@
-Does _Mathematica_ have a graphics option that makes plots intelligible for people with colorblindness?

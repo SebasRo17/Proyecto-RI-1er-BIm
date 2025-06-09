@@ -1,0 +1,1 @@
+idea behind oop unify behavior single entity procedural programming separately algorithm modifying model view controller pattern logic algorithm placed distinct entity model controller respectively equivalent oop approach model controller placed logical entity

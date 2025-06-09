@@ -1,0 +1,1 @@
+I am using `GDataXML` library developed by Google as part of their Objective-C client library. As its Google’s XML processing library and I heard that Apple don't allow to use any third party libraries in app, will they allow this one?. (I am using this library because many iOS geeks suggest to use this one!!). Thanks in advance. :)

@@ -1,1 +1,0 @@
-calculate scaled error function defined f x erfc x exp x calculate f f small think mathematica supposed switch high precision instead machine precision say general unfl underflow occurred computation general ovfl overflow occurred computation calculate f large value x even n f use high precision fails

@@ -1,1 +1,0 @@
-_Mathematica_ looks like an extremely powerful tool. I would love to have it in my toolbox. Unfortunately, I can hardly add two numbers together. I think the application of math through programming is the best way to learn. Is there any book that takes you from _no math skills_ to advanced levels through the lens of _Mathematica_?

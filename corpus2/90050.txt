@@ -1,0 +1,1 @@
+Would you include an XML schema for a new file format in a software specification document or would you consider this too specific? Or would it be already too specific to require XML at this point?

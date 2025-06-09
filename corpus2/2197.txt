@@ -1,1 +1,0 @@
-Is there a built in function to compute the autocorrelation of a signal ?

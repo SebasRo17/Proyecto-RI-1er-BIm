@@ -1,0 +1,1 @@
+When writing a software architecture document, should we present the technology used and how it connects to the system qualities we want achieve? For example, we chose .NET because arg1, arg2 .. My feeling is NO, architecture should be stable in change; but the concrete realization of some modules can change in respect to the technology used.

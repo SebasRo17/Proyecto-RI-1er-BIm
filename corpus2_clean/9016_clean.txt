@@ -1,1 +1,0 @@
-trying make package piece code though needed small actual code little bit different code tried make package button found symbol true protected made package function buttonfun beginpackage package buttonfun g g button g g background g appearance frameless method queued endpackage call buttonfun q orange notebook showing error message symbol true protected

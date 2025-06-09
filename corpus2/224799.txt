@@ -1,0 +1,1 @@
+I'm building free games in javascript, with my code is easily accessible by looking into the html of the webpage. I really don't mind people looking at my code (for curiosity, or to learn something). But I don't want anyone to use my code to make their own games, or steal the art I've done. With this goal in mind, what software licence should I use? Thanks!

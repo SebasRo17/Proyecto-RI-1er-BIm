@@ -1,0 +1,1 @@
+In javascript, what is the difference in applying a toString() method to the primitive datatype, number like this               var myString = myNumber.toString();      and applying the same toString() method by creating a reference datatype equivalent, the Number class like this               var numberObject = new Number(myNumber);     var myString = numberObject.toString();

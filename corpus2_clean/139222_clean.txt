@@ -1,0 +1,1 @@
+deciding store translation description database item could go traditional way keep translation table language table translation linking table thought might better description column contains json like following en translation english ee see serious downside use seen used anywhere else

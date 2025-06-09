@@ -1,0 +1,1 @@
+teaching recently big v little endian battle student asked whether settled realized know looking wikipedia article seems popular current o architecture pair use little endian internet protocol specifies big endian transferring numeric value packet header would good summary current status current network card cpu provide hardware support switching byte order

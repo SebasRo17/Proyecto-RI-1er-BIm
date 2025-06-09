@@ -1,1 +1,0 @@
-f2[x_, mu2_, sigma2_] =  1/Sqrt[2*sigma2^2]*Exp[-Sqrt[2]*Abs[(x - mu2)/sigma2]]          Integrate[x*f2[x, mu, sigma], {x, -Infinity, Infinity},  Assumptions -> sigma > 0]      I am pretty sure that the above should produce `mu`, but it doesn't. What's wrong with it? I did the same thing in Sage, and it worked all right.

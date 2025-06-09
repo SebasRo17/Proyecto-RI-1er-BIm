@@ -1,1 +1,0 @@
-example calculate int left z right frac dz z know answer pi using mathematica

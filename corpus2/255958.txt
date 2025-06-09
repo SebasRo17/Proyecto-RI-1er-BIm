@@ -1,0 +1,1 @@
+So I am working on a solo project that involves **a lot** of strings. In one of my smaller test cases there will be _at least_ 70 million elements. So my question is, what is the largest possible size a TreeSet or a HashSet can reach until it can no longer grow **OR** until it reaches a size that it can no longer be feasible to use in terms of efficiency.

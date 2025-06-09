@@ -1,1 +1,0 @@
-How can I partition a list into partitions whose sizes vary? The length of the $k$'th partition is a function $f(k)$. For example: if $l = \{1, 2, 3, 4, 5, 6\}$ and $f(k) = k$. Then the partitioning $p$ would look like $p = \{\{1\},\{2, 3\},\{4,5,6\}\}$

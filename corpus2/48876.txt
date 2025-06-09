@@ -1,1 +1,0 @@
-In my notebook, I have Open Sans (a free font) as a text font and Consolas (a paid font) as a code font. Those fonts are coded into the stylesheet of my notebook. My question is: if I send someone a copy of my notebook, will it be rendered in those fonts or will they become default Mathematica fonts (IIRC Arial and Courier--yuck!)?

@@ -1,1 +1,0 @@
-I am looking for an add-on that deals seriously with computations inside exceptional Lie algebras (and obviously classical ones ...): I want at least all standard basic data concerning them & their representations to be included. I found some old ones but quite incomplete (no E6 or above). Do you have any recommendations or links to suggest . Thank you very much in advance.

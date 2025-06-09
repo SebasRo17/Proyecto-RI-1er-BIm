@@ -1,0 +1,1 @@
+While writing in C, I have always wondered about when is the best time to use an external variable. I generally prefer to pass a pointer into a method. Is there a correct time to use an external variable and a correct time to use pointers?

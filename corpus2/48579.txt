@@ -1,1 +1,0 @@
-_Mathematica_ trial version does not support `Export[]` command. Is there a command equivalent to `Export[]` in order to export, say, a matrix?

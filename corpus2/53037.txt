@@ -1,0 +1,1 @@
+I think that I conceptually understand C# delegates, however, I am struggling to find a real world example where they would be useful. Can you provide some answers detailing how C# delegates were used in real applications and what problems they enabled you to get around.

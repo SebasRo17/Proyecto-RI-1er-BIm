@@ -1,0 +1,1 @@
+I have a class that will end up having more than ~30 methods. They all make sense to be part of the same class because they require access to the same data. However, does it make any sense to split up a large class into several smaller abstract classes (by functionality, type, use, etc.) and have the main class extend (i.e. multiple inheritance) from all the smaller classes?

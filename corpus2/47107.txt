@@ -1,1 +1,0 @@
-![LogLogPlot does not output legends correctly](http://i.stack.imgur.com/kIhFc.png) When I give lists of functions to `LogPlot` or `LogLogPlot` with the option of `PlotLegends`, the output legends only have its first one, just like on the image below. What should I do to get all legends in the plot?

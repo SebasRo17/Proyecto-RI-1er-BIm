@@ -1,1 +1,0 @@
-Hello stackexchange community! I have a stringlist with a value and his error for eg:               {{"12","1"},{"13","2"}}      Now i want to output this as something like this (for a lab-report):               {"12(1)","13(2)"}      Unfortunately I have no idea how to get this working... Thanks in advance   Cx

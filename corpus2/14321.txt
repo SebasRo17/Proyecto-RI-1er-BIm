@@ -1,1 +1,0 @@
-Whenever I use functions like `FindRoot` or `NDSolve`, it sends `x` through the function and deals with the result. That would be fine if I was sending a simple math function through, but I have something more like a short program. Is there any way to make it solve it by putting specific values through the function and looking at the results?

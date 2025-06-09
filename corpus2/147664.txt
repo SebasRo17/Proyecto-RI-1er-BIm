@@ -1,0 +1,1 @@
+I've heard **swarming** mentioned in the context of Agile or Extreme Programming. It seems to be a complement to pairing. What exactly is it? When should it be applied? How do you do it well?

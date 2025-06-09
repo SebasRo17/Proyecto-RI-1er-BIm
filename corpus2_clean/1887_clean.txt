@@ -1,1 +1,0 @@
-say vector z n want transform another vector using formula x z z problem quite sure get lag see could loop seem like mathematica way

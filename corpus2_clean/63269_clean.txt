@@ -1,0 +1,1 @@
+looking start new application want use dependency injection lot microsoft way go guy shop course unity way wanted go however leaning towards speed module feature found speed result page use autofac unity give solid reason use unity use autofac unity point good direction research bringing back next meeting

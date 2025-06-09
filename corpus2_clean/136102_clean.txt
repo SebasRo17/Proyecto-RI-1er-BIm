@@ -1,0 +1,1 @@
+either conventional acceptable way structure package j2ee app trying follow mvc pattern much possible foo bar user foo bar user servlets foo bar user dao foo bar user entity foo bar order foo bar order servlets foo bar order dao etc foo bar dao foo bar dao user foo bar dao order foo bar servlets foo bar servlets user foo bar servlets order

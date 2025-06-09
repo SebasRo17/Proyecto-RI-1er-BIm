@@ -1,1 +1,0 @@
-context writing function look something like tridiagonalq mat mapindexed ab mat flatten thing like somewhat hard read prefer something like tridiagonalq mat mapindexed ab j mat flatten j somewhere question someway something like destructuring mathematica following link convey mean destructuring nothing mathematica posted mainly demonstrate meant destructuring

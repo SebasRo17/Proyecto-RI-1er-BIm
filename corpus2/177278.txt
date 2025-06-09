@@ -1,0 +1,1 @@
+From your experience are you, or programmers in general, more or less likely to forgive bugs in the software you use? e.g. if you run across a bug in some app (commercial or open source), is your reaction annoyance at incompetence, empathy, or something else (pity)?

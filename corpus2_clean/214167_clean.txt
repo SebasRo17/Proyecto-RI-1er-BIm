@@ -1,0 +1,1 @@
+faced question one interview explained immutable stringbuffer mutable know much mutable immutable also know exact answer key concept able distinguish two idea performance impact chosing one

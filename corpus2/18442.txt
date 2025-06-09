@@ -1,1 +1,0 @@
-Imagine I have an expression like               a*k + (a^2)*b*c + b*e      and I would like to obtain the term containing, for example, some power of a. In that case I would extract the two first terms. If I wanted to obtain the term b*e, I would extract the last. How can I do it? I guess I should use `Cases` or something similar, but I don't understand its syntax.

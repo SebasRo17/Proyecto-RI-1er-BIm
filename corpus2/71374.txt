@@ -1,0 +1,1 @@
+I've been looking for functional language with C-like syntax and static typing. So far my choice would be Nemerle. Is there anything else/better? EDIT: second choice would be Lua or Go. Any pros and cons?

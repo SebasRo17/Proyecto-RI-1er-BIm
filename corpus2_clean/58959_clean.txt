@@ -1,1 +1,0 @@
-thought riffle would generalize riffle b c x z would return x b c z turn case easiest way multi list riffle

@@ -1,0 +1,1 @@
+The other day, a friend told me that in USA, they pronounce SQL like _squel_ , not _es-qu-el_. I was surprised. I was wondering how "SELECT *" is read/pronounced while talking.   * select star?   * select asterisks?   * select all?

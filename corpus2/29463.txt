@@ -1,1 +1,0 @@
-Is there way to make `NotebookWrite`s undooable? For example let's say I open a new notebook and then run.               NotebookWrite[EvaluationNotebook[], Cell["New content", "Subsection"]]      Is there way to make the text above then dissapear when I hit `Ctrl`+`z`.

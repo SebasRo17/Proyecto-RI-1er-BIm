@@ -1,0 +1,1 @@
+I just made a commit that I want to reverse, but I want to keep the bad commit in history. So, I `hg update` to the previous (good) commit. Then I keep working. This leaves me with a new head: the abandoned bad commit. Is this bad practice? What's the best way to keep bad commits in history while not using them?

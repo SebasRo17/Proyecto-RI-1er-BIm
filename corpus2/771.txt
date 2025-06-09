@@ -1,1 +1,0 @@
-The best way I can come up with to say "show me this fraction as a decimal number to M places, don't use scientific notation" is:               NumberForm[N[1/998001,2994],ExponentFunction->(Null&)]      It seems like that's an awful lot of typing for a very simple request. Is it possible say it more concisely?

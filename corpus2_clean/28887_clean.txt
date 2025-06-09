@@ -1,1 +1,0 @@
-list form create function take set highest level list subtract first element set second element set compute average median value either case clear using loop table simpler way proceed make clever use mathematica table based implementation pairlist plmean mean table pairlist u pairlist u u length pairlist

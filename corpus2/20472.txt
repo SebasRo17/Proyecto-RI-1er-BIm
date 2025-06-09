@@ -1,0 +1,1 @@
+I'm considering using Google App Engine for an online matchmaking (and possibly ranking, not sure) of users in a (currently hypothetical) RTS game. However, I just read this bad review, which has made me nervous. Which problems have they solved (or are planning to solve), which might be an issue for me, and are there any alternatives?

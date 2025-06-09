@@ -1,0 +1,1 @@
+Essentially it is a branch of software engineering but SE itself is too large an umbrella. I was curious if there was a title for the knowledge base that encompasses TDD, BDD, mocks/stubs/spys, unit tests vs. integration tests, code coverage, etc.

@@ -1,1 +1,0 @@
-The following code include the system of differential equations:                   Derivative[1][x][t] == -10^12 x[t] - y[t]+2*10^-10,          Derivative[1][y][t] == x[t] - 10^12 y[t] + z[t]-2,          Derivative[1][z][t] == - 2*y[t],          x[0] == y[0] == 0, z[0] == 1      I want to plot z[t] vs t. But, unfortunately Mathematics cannot plot it. How can I plot it?

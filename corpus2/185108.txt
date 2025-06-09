@@ -1,0 +1,1 @@
+In the Java programming language, why does importing of java.awt.* does not automatically import java.awt.event.* too? Now, you guys may say that it's because it's java.awt.* and not something like java.awt. _._ but when any nice, proper java application requiring java.awt.* also requires java.awt.event.* then why not have them as a single entity?

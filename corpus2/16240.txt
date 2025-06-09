@@ -1,1 +1,0 @@
-I have Mathematica 8 and for some reason, the parameter "thickness" doesn't work in Parametric3D, it works in 2D very fine > ParametricPlot3D[{{t, 0, -t}, {0, t, 2 t}}, {t, 0, 100}, PlotStyle -> {Blue, > Orange, Thickness[100]}] Anyone know a remedy for this?

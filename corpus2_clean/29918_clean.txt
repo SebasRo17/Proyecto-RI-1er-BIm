@@ -1,1 +1,0 @@
-following code example cylinder contourplot z x z mesh contourstyle faceform white red opacity axeslabel x z arear contourplot x z x z contourstyle directive white mesh false show cylinder arear enter image description anyone tell get plane arear white

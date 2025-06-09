@@ -1,1 +1,0 @@
-trying find following limit using mathematica lim n infty sum k n left frac k n right n problem taken known converge displaystyle frac e however using limit straightforward manner return unevaluated limit sum k n n k n n limit sum k n n k n n explore problem using mathematica obtain limit

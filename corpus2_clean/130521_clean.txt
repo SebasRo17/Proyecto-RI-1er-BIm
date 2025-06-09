@@ -1,0 +1,1 @@
+example let say need check certain usage c warn user bad pratice multiple usage want detect resource released developer heavy com environment instance created using activator instead new control api analyzing others implementation api language mostly analyzing c vb net suitable language c

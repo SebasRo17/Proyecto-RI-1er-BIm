@@ -1,0 +1,1 @@
+I can write source code in a period of time, but after a while of not touching the project, it takes me time to be familiar with the source code again. Also, other people need some time to study the program... How do you make source code more easy for others to follow?

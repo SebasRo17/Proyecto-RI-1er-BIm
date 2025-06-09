@@ -1,0 +1,1 @@
+Is there any possibility to add a prefix before localhost? My question is that I want to add a prefix before localhost for my project url (ie. "dev.localhost/project/default.htm"). This is for an ASP.NET application running in IIS.

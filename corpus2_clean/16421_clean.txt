@@ -1,1 +1,0 @@
-regionplot awesome unfortunately appears work cartesian coordinate way draw surface spherical cylindrical coordinate find way draw solid way involve translating equation cartesian coordinate thanks

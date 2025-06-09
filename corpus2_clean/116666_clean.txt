@@ -1,0 +1,1 @@
+making p2p android application initial functionality aiming chatting anyone please suggest good open source p2p library using build application upon one found complete application want library use build application

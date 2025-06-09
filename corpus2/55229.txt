@@ -1,0 +1,1 @@
+I'm looking into real-time web applications using websockets and node.js. I'm interested to see what are some technical challenges with scaling such a setup. One such problem I've heard is that each socket requires a Unix file descriptor, and epoll/select takes time linear to the number of open file descriptors. Anyone have other insights into scaling?

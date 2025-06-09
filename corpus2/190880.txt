@@ -1,0 +1,1 @@
+Say you have a situation where you divide and then multiply a float, and you need to guarantee that it survives macheps (ie multiplication output equals division input). What are known strategies for guaranteeing this? Rounding would work, but anything else?

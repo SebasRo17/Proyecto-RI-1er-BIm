@@ -1,0 +1,1 @@
+Suppose you have to develop a medium+ sized software, fully on your own. Like if it was a personal project you want to accomplish. What methodologies/tools would you use to define what needs to be developed, learned and have a global idea of what the system is as well in its details? Basically to keep yourself in track and not get lost on the way.

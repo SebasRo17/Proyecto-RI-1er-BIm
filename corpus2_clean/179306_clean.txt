@@ -1,0 +1,1 @@
+developing standalone application using login screen wherein user enters username password instance application user enter credential usability standpoint thought keeping remember check button question using database persist user detail rough thought storing property file retrieving think may better approach one idea suggestion

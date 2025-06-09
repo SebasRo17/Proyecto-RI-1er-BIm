@@ -1,0 +1,1 @@
+implementing basically event log system larger system used single table inheritance build table problem figuring build class database easy enough figure load database pull create object collection little trickier way know switch statement hope someone implement new update switch seem practical sure getting something wrong thinking factory pattern

@@ -1,0 +1,1 @@
+studying oo programming primarily c c thought good grasp understanding encapsulation inheritance polymorphism well reading lot question site one thing seems popup concept message passing apparently something used whilst oo programming today mainstream language supported smalltalk question message passing someone give practical example support message passing c c

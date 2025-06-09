@@ -1,1 +1,0 @@
-What I need is the equivalent of Maple's zip(`+`, A, B, 0). Sure I can get it with:               Thread[PadRight[A, max = Max[Length[A], Length[B]]] + PadRight[B, max]]      But is there a less verbose way to do this? P.S. Eventually the shortest solution seems to be:                Plus @@ PadRight[{A, B}]

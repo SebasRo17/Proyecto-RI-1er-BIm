@@ -1,0 +1,1 @@
+new web development studying play framework jsp noticed give option place script jsp scriptlet inside html book reading say bad practice give explanation use script writing question framework supply option would ok use script inside html please note talking server side script creating dynamic html e jsp scriptlet

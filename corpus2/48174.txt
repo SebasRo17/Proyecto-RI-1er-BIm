@@ -1,1 +1,1 @@
-If I input $x = a + b$, the $x$, $a$ and $b$ are blue. When I hit `Shif`+`Enter`, the $x$ turns black, indicating the kernel now knows this variable. But when I input $x_r = a + b$, and hit `Shift`+`Enter`, $x_r$ is still blue. What's the difference between variables with and without subscript?
+Jeff Atwood suggests that becoming a great programmer takes serious communication skills. What are the suggested ways for a programmer to develop his communication skills?

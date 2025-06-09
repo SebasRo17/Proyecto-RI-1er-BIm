@@ -1,1 +1,0 @@
-need help parallelizing calculation vector function f inside recursive formula example code iteration function f calculated using value r last iteration time consuming part code calculation f increase rapidly iterator p large example r r r f f f f n sum norm r n r j n j sum norm r n r j n j p p nsteps r n r n f n p n nsteps table r n n nsteps tableform

@@ -1,0 +1,1 @@
+I have many sublcasses of one class. I choose concrete class based on type (simple enum). I like idea of class cluster. Should i use it or just create factory class (but each class in objective-c is actually a factory)? What is the difference between factory pattern and class cluster pattern. When to use it in your code and why?

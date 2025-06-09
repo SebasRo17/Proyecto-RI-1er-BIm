@@ -1,0 +1,1 @@
+I am wondering if one of the key features of a programming language is to have the ability to overload functions via arguments. I think it is essential in- context of the Object oriented programming. Is it intentionally left behind and not allowed? Or is overloading not a good practice?

@@ -1,0 +1,1 @@
+I have some friends telling me that Dropbox can be used as a version control tool. I have always used SVN or Git. I was looking around Dropbox and couldn't find anything that tells me about is characteristics as Merging, Fork and other characteristics for a complete VCS. Can someone point me what I'm missing.

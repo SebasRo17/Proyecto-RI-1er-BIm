@@ -1,1 +1,0 @@
-How Can we use PixelValue with pixel indices?

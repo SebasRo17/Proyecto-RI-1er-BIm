@@ -1,0 +1,1 @@
+I need to develop a Windows application which can be installed on any version of Windows from XP through 7. Which version of Windows should I use for application development. I'll be using Qt-C++/GTK+ for development. How do I decide/determine which Windows version is to be used for development?

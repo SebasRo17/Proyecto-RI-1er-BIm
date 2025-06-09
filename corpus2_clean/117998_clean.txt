@@ -1,0 +1,1 @@
+recently forked git repository locally created project ide compile ide creates variety artifact would like keep saved somewhere obvious place would vcs add file history fork want send pull request merge upstream want file included would recommended workflow managing change would never want go upstream

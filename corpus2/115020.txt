@@ -1,0 +1,1 @@
+The GOF Design Patterns book rarely mentions the test-ability of each pattern. I'm aware that there are patterns such as Singleton that would lead to code for which it is difficult to write unit tests, and some such as Strategy that help with TDD. Which patterns promote TDD, and which hinder TDD?

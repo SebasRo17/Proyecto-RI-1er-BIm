@@ -1,0 +1,1 @@
+sometimes create util class primarily serve hold method value really seem belong elsewhere every time create one class think uh oh gonna regret later read somewhere bad hand seem two compelling least case num implementation secret used multiple class within package num providing useful functionality augment without cluttering interface way destruction say refactor

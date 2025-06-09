@@ -1,0 +1,1 @@
+From that question about differences between Quantum annealing and simulated annealing, we found (in comments to answer) that physical implementation of quantum annealing exists (D-Wave quantum computers). Can anyone explain that algorithm in terms of quantum gates and quantum algorithms, or in physical terms (a part of algorithm that depends on quantum hardware)?

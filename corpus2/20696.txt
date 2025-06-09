@@ -1,1 +1,0 @@
-Any suggestions how to determine Voronoi diagram for sites other than points, as e.g. in the picture below? Input is a raster image. ![enter image description here](http://i.stack.imgur.com/iab6u.png)

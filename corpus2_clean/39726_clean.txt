@@ -1,1 +1,0 @@
-suppose data array form x z x z possible use listplot x specify point position z hue z specify color point

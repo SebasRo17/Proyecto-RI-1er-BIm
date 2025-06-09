@@ -1,1 +1,0 @@
-sorry duplicate variable called h h complicated function want make variable h formal function f tried f h seem work h initially value inputfield type inputfield expression idea turn proper mathematica function

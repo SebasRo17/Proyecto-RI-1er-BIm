@@ -1,0 +1,1 @@
+consider going write simple file based logger used apps ideally singleton call via public public static file public write file public static log getinstance use log log statement problem best time provide file since singleton refactor skip using singleton customize log file path assume need write multiple time p know use library e g log4j consider design question refactor

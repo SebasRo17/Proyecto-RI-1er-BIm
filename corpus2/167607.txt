@@ -1,0 +1,1 @@
+I have a condition               if(exists && !isDirectory || !exists)     {}      how can I modify it, so that it may be more understandable.

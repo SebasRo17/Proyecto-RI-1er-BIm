@@ -1,1 +1,0 @@
-Command `WordData["Word", "Properties"]` seems have an endless list of properties, such as : `"Definitions"`, `"PartsOfSpeech"`, `"Definitions"`, `"Examples"`, `"Synonyms"`, `"Antonyms"`, `"BroaderTerms"`, `"NarrowerTerms"`, `"ConceptWeight"`, `"BritishSpelling"`, `"AmericanSpelling"`... Is it possible obtain a complete list of it?

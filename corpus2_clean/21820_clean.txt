@@ -1,1 +1,0 @@
-big list contains nearly sub list structured like biglist x z x z x z x z picked element biglist random smalllist x z x z x z want find position smalllist element biglist end wrote following code flatten map position biglist smalllist working fine take second evaluate timing flatten map position biglist smalllist reduce evaluation time

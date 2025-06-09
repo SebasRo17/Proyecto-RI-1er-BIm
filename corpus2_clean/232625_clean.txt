@@ -1,0 +1,1 @@
+delete node underlying graph representation elegant way

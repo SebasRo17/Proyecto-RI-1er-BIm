@@ -1,1 +1,0 @@
-I have a graph `g`. I want a set of graphs `c` which holds the community subgraphs of `g`. I tried `c = Subgraph[g, FindGraphCommunities[g]]`, but it only outputs the whole graph `g`. I see in the documentation that `FindGraphCommunities` returns a list of vertices, this may be why. How do I also get the edges?

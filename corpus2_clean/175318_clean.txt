@@ -1,0 +1,1 @@
+understand correctly arc automatically add memory management statement retain autorelease proper place program way see memory management statement arc automatically add program

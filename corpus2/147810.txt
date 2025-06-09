@@ -1,0 +1,1 @@
+I'm a fresh grad, and I just started workingin real world projects. I'm basically using PHP most of the time. I just figured out that most of the solutions I came out with for most of the problems, is involving using an array in somehow. What Am I doing wrong here? How could I unlearn this and always think of something else? Or is it the fault of the language?

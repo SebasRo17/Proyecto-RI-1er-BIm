@@ -1,1 +1,0 @@
-new mathematica unfamiliar notebook interface able delete cell error message example try ask mathematica compute something return message like solve nsmet system cannot solved method available solve fails see instead proceeding next line would like highlight error message along erroneous command delete mathematica let right way

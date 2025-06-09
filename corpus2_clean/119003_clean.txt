@@ -1,0 +1,1 @@
+common situation need implement bulk operation application us orm framework first pas noticed significant performance problem question situation favor solution includes raw sql well known design pattern help mitigate problem commonly associated bulk operation orm framework edit asking remove orm framework entire application asking forgo orm framework small slice application

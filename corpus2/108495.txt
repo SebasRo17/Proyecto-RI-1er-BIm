@@ -1,0 +1,1 @@
+I was coding a function to remove a day from a date value in javascript and i was kind of surprise that javascript's getMonth() starts from 0 for January to 11 for December. Why javascript's getMonth() starts with 0?

@@ -1,0 +1,1 @@
+In Objective C you have the concept of sending messages to other objects, and, well this is very similar to method calling in languages like C# and Java. But what **exactly** are the subtle differences? How should I think of messaging when thinking about my code? Note: Just a bit of background here, I'm a C#/Java developer trying to understand some concepts about Objective C.

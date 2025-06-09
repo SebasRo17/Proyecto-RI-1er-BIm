@@ -1,1 +1,0 @@
-How can I write a mathematica function which will output arbitrary structure constants of SU(4)?

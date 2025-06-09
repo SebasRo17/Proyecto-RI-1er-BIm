@@ -1,0 +1,1 @@
+The most unusual aspect of Python is that whitespace is significant   instead of block delimiters (braces → "{}" in the C family of languages), indentation is used to indicate where blocks begin and end.   how can python interpreter recognize code block ?

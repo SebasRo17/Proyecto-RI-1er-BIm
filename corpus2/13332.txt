@@ -1,1 +1,0 @@
-This doesn't work: ![Mathematica graphics](http://i.stack.imgur.com/8Usik.png) Is there a way to do this? My real goal is to identify the second links in the graph below, which shows the results of a webcrawl (using this code). I'm open to another approach. ![Mathematica graphics](http://i.stack.imgur.com/a7pwM.png)

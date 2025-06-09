@@ -1,0 +1,1 @@
+I am a beginner Java programmer, and have tried searching for a way to set up a login system with my Java application. The application is a game and I do not want people to just upload it to a website so others can down load and play. I want to use something like MySQL to make the user authenticate in order to use the application. Does anyone have a suggestion?

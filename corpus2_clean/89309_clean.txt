@@ -1,0 +1,1 @@
+expending email submission form script client saw something rather strange experience see original programmer sanitised user good practice make sense build message body web form foreach post field field n n server remote addr n server http user agent htmlspecialchars ent make safe thanks everyone

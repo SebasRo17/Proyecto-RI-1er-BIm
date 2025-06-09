@@ -1,0 +1,1 @@
+Suppose that there are two class 'A' and 'B' 'A' has a lot of nested conditions that have all unit test covered. 'B' has a property that will call class 'A' and return value according to the result of class 'A' On class 'B', when i want to write unit test. Should i just mock class A and verify on class B that it has been called a specific class 'A' method.

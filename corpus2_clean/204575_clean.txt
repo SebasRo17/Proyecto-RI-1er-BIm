@@ -1,0 +1,1 @@
+commit access open source project named foo hosted github many committers relevant would like make change via pull request someone else review get committed master branch foo codebase make pull request either make branch official foo repository could fork foo commit branch fork issue consider deciding whether make pull request official repo fork

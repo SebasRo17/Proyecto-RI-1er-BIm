@@ -1,0 +1,1 @@
+I am using the MVC pattern. Lets say I want to create a new object and add it to my database. Where is it better to create the new object: View:               Boo boo = new Boo("awesomness");     Controller.AddDB(boo);      Controller:               public void AddDB(string name)     {        Boo boo = new Boo(name);        addtodb(boo);     }

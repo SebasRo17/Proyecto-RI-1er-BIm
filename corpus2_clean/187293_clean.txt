@@ -1,0 +1,1 @@
+looking build application similar blocky using javafx working prototype atm appears javafx uis generally made using scene builder still sure much flexibility going provide looking dynamically change shape make bigger etc runtime detect collision connect shape etc could someone experienced using technology tell feasible application like using javafx also would easier thanks

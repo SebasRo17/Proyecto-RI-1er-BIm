@@ -1,1 +1,0 @@
-original domain independent variable nanometer mathematica numerical software good idea solve differential equation usual unit scale pfun parametricndsolvevalue x x b x x x x b scale back resulting parametricfunction nanometer note ndsolve used version introduced parametricndsolvevalue result interpolatingfunction easily scaled back using interpolation pfun range

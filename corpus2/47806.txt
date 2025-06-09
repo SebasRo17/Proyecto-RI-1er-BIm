@@ -1,0 +1,1 @@
+I'm looking for good examples of finite state machines, language isn't particularly important, just good examples. Code implementations are useful (generalized pseudo-code), but it's also very useful to gather the various uses of FSM's. Examples don't necessarily need to be computer based, for example Mike Dunlavey's Railroad networks example, is very useful.

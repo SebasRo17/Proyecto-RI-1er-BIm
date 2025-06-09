@@ -1,0 +1,1 @@
+Can we control the changes on a special artifact while our configuration management tool doesn't work properly? Can we do it ourselves?

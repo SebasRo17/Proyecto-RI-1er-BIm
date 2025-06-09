@@ -1,0 +1,1 @@
+small list php mvc framework like zend cakephp yii etc noticed open source tried find proprietary framework research unsuccessful proprietary php mvc framework

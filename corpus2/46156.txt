@@ -1,1 +1,0 @@
-This is simple example:                v = {1.48622576, 1.53444276, 1.42299438}      v/(v + 1)      Out[1]:= {0.597784, 0.605436, 0.587288}      In the above case expression v/(v + 1) is in explicit form. I would like to find k for v = {1.48622576, 1.53444276, 1.42299438} wherein                Log(0.5(1-k))/Log(0.5(1+k))=v (expression in implicit form)

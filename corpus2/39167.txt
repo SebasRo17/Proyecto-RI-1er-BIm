@@ -1,1 +1,0 @@
-Let `S[p]` denote the sum of digits of `p`. A prime `p` is said to be stubborn if none of `S[n] + 1`, `S[n]`, `S[n] - 1`, `S[n] - 2` , or `S[n] - 3` is a prime. Write a mathematica code that finds the smallest stubborn prime and tell which prime is it?

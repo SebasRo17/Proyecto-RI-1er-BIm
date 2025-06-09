@@ -1,0 +1,1 @@
+I'm curious about the birth of the compiler. How did programming begin? Did people first build hardware that recognized a certain set of commands, or did people define a language and then build hardware around it? And on a related note, what was the first programming language?

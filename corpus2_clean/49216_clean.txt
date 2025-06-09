@@ -1,1 +1,0 @@
-shown function f x x x single root interval abierto try solve using newton raphson method demonstration calculation

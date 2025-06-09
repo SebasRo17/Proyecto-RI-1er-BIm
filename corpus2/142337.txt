@@ -1,0 +1,1 @@
+A great feature of Javascript is function statements. You can do this:               (function myFunc(){         doSomething();         doSomethingElse();     })();       Which is a way to declare a function and call it without having to refer to it twice. Can that be mimified on Python?

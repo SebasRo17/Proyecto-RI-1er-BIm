@@ -1,0 +1,1 @@
+developing telecom messaging platform c going need multiple process working mysql db make two process read write mysql db one go get seamlessly take work dead process get back work thinking googling option stuck place know one choose think far table lock best option go stall process table unlocked option use row level lock manual lock find best way

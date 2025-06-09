@@ -1,0 +1,1 @@
+I have been programming in google Golang and have been enjoying it due to its brevity but I find it surprising that almost all its Math standard library methods are for the floating point type. Is there any particular reason why these methods do not exist for ints?

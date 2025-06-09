@@ -1,1 +1,0 @@
-data cube containing picture galaxy across thousand wavelength want take data image slide red blue part spectrum represented appropriate colour could superimpose image somehow show red blue region galaxy together would fantastic currently working raw data slide pixel magnitude plot galaxy given wavelength using list density plot know map range image gradual colour change combine

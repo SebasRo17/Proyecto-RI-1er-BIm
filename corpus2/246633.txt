@@ -1,0 +1,1 @@
+The following is pseudo code, I tried it in Java and PHP and both worked:               class Test {               private int a = 5;              public static function do_test(){             var t = new Test();             t.a = 1;             print t.a // 1         }          }          Test::do_test();      Why can you do this in OOP paradigm and what's the use of it?

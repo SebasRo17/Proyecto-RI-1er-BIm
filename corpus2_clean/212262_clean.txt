@@ -1,0 +1,1 @@
+num solution one solution repository etc moment change made others go get latest nuget version locally nuget server lan pain though would git submodule work enable debugging worry updating nuget package

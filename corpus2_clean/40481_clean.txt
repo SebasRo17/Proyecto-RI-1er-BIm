@@ -1,1 +1,0 @@
-trying make mathematica recognize opencl installation beignet experimental software know probably work even clinfo terminates error displaying info yet would like know exactly openclq return false

@@ -1,0 +1,1 @@
+say acyclic directed graph weighted edge create n worker goal calculate optimal way worker traverse entire graph however edge cost may change along way example num b num c b num c already visited b num c already visited describe lend standard algorithmic approach alternately someone suggest looking inherently flawed way intuition might

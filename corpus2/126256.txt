@@ -1,0 +1,1 @@
+I am refactoring existing set of java test classes for automated UI tests. At times I end up in making massive changes in class file or completely revamping it. This makes me think that when I am rewriting entire class then should I change author name in comment section to mine? Am I being greedy? or is it going to be useful for one to see my name and ask me in case of doubts?

@@ -1,0 +1,1 @@
+database column hashed password salt application allows user change password use salt password generate new one matter security application

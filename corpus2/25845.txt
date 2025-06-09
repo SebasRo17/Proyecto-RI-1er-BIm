@@ -1,1 +1,0 @@
-I have switched from mupad to _Mathematica_ , however the syntax is completely different here. I want to               Minimize [{Sum[(y[[i]]-3)^2,{i,1,c}], Sum[y[[i]],{i,1,c}]==10},y[[i]]]      for parameter `c`. _Mathematica_ shows me > Part::pspec: Part specification i is neither a machine-sized integer nor a > list of machine-sized integers. Would you please help me

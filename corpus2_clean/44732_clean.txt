@@ -1,1 +1,0 @@
-numerically solved plotted solution mathieu equation using ndsolve successfully clearall global b w pi w f f b co ndsolve f plot evaluate plotrange wish normalize period plot get full period hand inside ndsolve function

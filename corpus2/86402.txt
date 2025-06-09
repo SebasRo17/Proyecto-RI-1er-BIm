@@ -1,0 +1,1 @@
+I need to verify what data wasn't downloaded yet. For example, how does Twitter or Facebook verify if a specific client has already dowloaded a piece of information? When a mobile app like twitter make a request to twitter.com will receive only new data but not data that it has already downloaded in old requests.

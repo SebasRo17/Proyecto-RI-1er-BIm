@@ -1,0 +1,1 @@
+Is there any way to ready a file @ the front end itself, which should be supported for IE 8 and IE 9 also. Please provide any suggestions available for this. Looking for code to read an excel file on the front end/javascript code.

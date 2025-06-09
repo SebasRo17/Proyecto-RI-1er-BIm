@@ -1,1 +1,0 @@
-How to create Manipulator with Locator to take part of an image? ![enter image description here](http://i.stack.imgur.com/Db9AG.png)

@@ -1,0 +1,1 @@
+What do you consider a good client web framework to use on interface business application? jQuery? YUI!? Another? Some plugins useful? The application will be use mostly internally replacing a desktop application for data entry and lots of queries/views.

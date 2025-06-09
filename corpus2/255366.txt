@@ -1,0 +1,1 @@
+This question came up in one of my college classes. The professor only gave the answer that it was more descriptive, but it seems as though `<b>` and `<i>` are rather explicit in their meaning and is easier to type than `<strong>` and `<em>`. **What were the official arguments for the deprecation of these tags?**

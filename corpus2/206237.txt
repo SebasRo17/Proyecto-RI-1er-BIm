@@ -1,0 +1,1 @@
+I am not experienced in javascript. I try to use some popular javascript libraries such as jQuery, Angular.js and Meteor.js. I wonder if understanding the logic of functional programming (in javascript of course) will help in understanding and using these libraries better?

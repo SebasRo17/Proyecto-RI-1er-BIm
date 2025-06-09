@@ -1,1 +1,0 @@
-I have estimated the distribution for a set of data as `LogisticDistribution[3.5, 1.037]`. How can I calculate and plot the coefficient of determination (R squared) with the PDF of the distribution? Here is the quantile-quantile plot: ![q-q plot](http://i.stack.imgur.com/esF2V.jpg)

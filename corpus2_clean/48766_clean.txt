@@ -1,1 +1,0 @@
-mathematica solve workaround begin equation int pi frac sin left frac theta right beta mathrm theta end equation code integrate sin

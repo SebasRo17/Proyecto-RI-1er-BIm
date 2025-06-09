@@ -1,1 +1,0 @@
-I want to generate some C code, and the reference here says that Mathematica comes with a `mdefs.h` file, but I cannot find it. Is there a place where I can download it?

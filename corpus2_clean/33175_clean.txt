@@ -1,1 +1,0 @@
-like generate integer vector dot n n parameter fixed n say n instance know use flatten table j k j k get list larger n would add coordinate range manually automatic way similar question sum nsum instance want compute sum x e x x dot n n could write nsum e j z j k automatic way

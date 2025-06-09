@@ -1,1 +1,0 @@
-let say define function f memoization way extract memoized value example f f f way get list similar note fulldefinition close dont know handle output

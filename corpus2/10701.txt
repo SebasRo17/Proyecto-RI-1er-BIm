@@ -1,1 +1,0 @@
-There is InputField in mma but how to make InputTable? In MathCAD it`s possible to insert Excel spreadsheet with input and output variables.Input variables I use for filling of header row and column and output variable for output. How to make the same functionality in mma? Thanks in advance

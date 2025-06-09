@@ -1,0 +1,1 @@
+I've seen a lot of information on best practices for dealing with lost password on websites, but what about usernames? Is there a standard way of dealing with this? My basic idea is to ask for the users email and send the username to that email. I'm wondering if something more secure along the lines of password recovery (hint questions, etc) is in order.

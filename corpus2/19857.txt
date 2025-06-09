@@ -1,1 +1,0 @@
-Does anyone know how to get the total intensity of a certain frequency range in an audio file? Let's say an audio file has a frequency range from 0Hz to 20KHz, and I want to extract the total intensity of every 100Hz, then I can have the intensity of 0 to 100Hz, 100 to 200Hz....etc.

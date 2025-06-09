@@ -1,0 +1,1 @@
+I don't quite understand the consistent bashing of null references by some programming language folks. What's so bad about them? If I request read access to a file that doesn't exist then I'm perfectly happy to get an exception or a null reference and yet exceptions are considered good but null references are considered bad. What's the reasoning behind this?

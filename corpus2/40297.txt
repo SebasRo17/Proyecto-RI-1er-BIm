@@ -1,1 +1,0 @@
-I'm currently trying very hard to assign a variable inside a function.   Therefore I'm using a function like this, which should reassign a predefined variable.               assign[a_] := (HoldForm@a = 2)     a=1;     assign[a]      The problem is that Mathematica uses the value of "a" instead of its name.   Any suggestions?

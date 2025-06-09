@@ -1,0 +1,1 @@
+two type documentation one implementation documentation contains information specific implementation construct eg etc targeted future maintainer debugger usage documentation containing information use provided api contain information specific implementation targeted user api include one file include one file belongs source file special technique using doc best practice

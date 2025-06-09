@@ -1,0 +1,1 @@
+I make web applications, mostly MVC, object oriented and database enabled. I always have trouble going back to project after a few months of release and work again. I don't even remember what I made on that project. How should I overcome this problem? I can't afford too much time consuming documentations and so many diagrams. Any quick way you guys practice to avoid this?

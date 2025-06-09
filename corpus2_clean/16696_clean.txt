@@ -1,1 +1,0 @@
-get incorrect vertical offset plot using graphicsrow mathematica linux ubuntu displayed plot fine example f x exp x showing plot work expected plot f x x gaussian shown however incorrect vertical offset appears showing plot multiple time graphicsrow graphicsrow imagesize large gaussian shown twice anybody also problem idea fix

@@ -1,0 +1,1 @@
+What is the capitalization conventions for protected field names in C#? Is it _myVar (like private field) or MyVar (like properties)?

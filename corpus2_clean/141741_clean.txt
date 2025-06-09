@@ -1,0 +1,1 @@
+site couple million photo get num photo uploaded day kept original file uploaded conserve space however getting point starting see need high re original version wondering better store filesystem actual file better store database ie mysql image would rarely referenced may used someone decides download decide use rare process like making new set thumbnail size etc

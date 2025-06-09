@@ -1,0 +1,1 @@
+I was wondering if php programmers keep error_reporting in php.ini on or off after delivering the website?

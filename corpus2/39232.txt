@@ -1,1 +1,0 @@
-What is the simplest way of plotting across multiple variables? eg: I would like to plot something like this:               Plot[{x^0,x^1,x^2,x^3,x^4,x^5,x^6}, {x, 0, 10}]      using a simple command like this:               Plot[x^n, {x, 0, 10}, {n, 0, 6}]      (I realise this is not syntactically correct, but hopefully it will serve to illustrate the point.)

@@ -1,0 +1,1 @@
+browsing github project found module num thousand line good practice much single module split multiple module maybe one db engine benefit developer get making one huge module like

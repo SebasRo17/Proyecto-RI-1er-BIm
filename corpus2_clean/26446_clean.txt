@@ -1,1 +1,0 @@
-draw histogram smoothhistogram together two data set like show first data set using histogram second using smoothhistogram

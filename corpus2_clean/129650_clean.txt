@@ -1,0 +1,1 @@
+let take codereview page example go see list question vote number comment number wondering number calculated fly e g count total comment db question actual field question table called votecount incremented one whenever someone vote question another question votecount integer user information displayed question hope correct place ask question

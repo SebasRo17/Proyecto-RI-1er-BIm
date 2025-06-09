@@ -1,0 +1,1 @@
+I mean it as it is used in JavaScript. Just curious why this is not supported in more languages? Like Java for example does not have it? Seems to be a very useful operator to have.

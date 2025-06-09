@@ -1,0 +1,1 @@
+list integer also return element non zero return element zero let call function1 define another using function1 give u new list include non empty element example num num num num num num want num num num num

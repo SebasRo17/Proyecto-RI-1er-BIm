@@ -1,1 +1,0 @@
-suppose list want generate new list newlist index sum index neq j numofelts frac lvert oldlist index oldlist j rvert using map total oldlist edit given oldlist b c want newlist ab b ab c ab b ab b c ab c ab b c

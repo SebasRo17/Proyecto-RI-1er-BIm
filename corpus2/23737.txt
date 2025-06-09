@@ -1,1 +1,0 @@
-I have a function of two variables, `f[x_, y_]`, and I would like to restrict the domain to values of `x` and `y` greater than zero. How do I do this? I also want to plot the function for restricted values. I have tried to use `RegionFunction -> Function[{x, y}, ...]`, but this doesn't work.

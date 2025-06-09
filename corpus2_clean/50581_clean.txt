@@ -1,1 +1,0 @@
-parametric plot would like fit line plotmarkers unable parametricplot f x g x x axeslabel x plotmarkers

@@ -1,0 +1,1 @@
+I am reading about requirements analysis as a stage of requirements engineering. I have been having difficulties finding a clear list of the tasks in which the requirements analysis is in charge of. In the whole process of requirements engineering, where does requirements analyst role begin and where it end?

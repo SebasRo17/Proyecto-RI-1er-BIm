@@ -1,0 +1,1 @@
+That is if we were to see how Microsoft wrote this method what would it look like? I'm mainly interested in the use of the StringSplitOptions enumeration with the other parameter and how they probably structured their code to account for each option.

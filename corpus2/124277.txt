@@ -1,0 +1,1 @@
+According to Wikipedia, Malbolge was so difficult to understand when it arrived that it took two years for the first Malbolge program to appear. If this is true, how was the first Malbolge interpreter tested (to check if it did the right thing when a Malbolge program was given)? Was it tested at all?

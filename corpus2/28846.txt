@@ -1,1 +1,0 @@
-consider this simple Input:               Probability[g <= m && m <= -g + 1,       {m, g} \[Distributed] UniformDistribution[{{0, 1}, {0, gg}}]]      which generates a piecewise continuous function: $$\begin{cases} 1-gg & gg\le\frac{1}{2}\\\ \frac{1}{4\,gg} & \text{True} \end{cases}$$ My question is: why does mathematica outputs `True` rather that `gg>1/2`?

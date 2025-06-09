@@ -1,0 +1,1 @@
+running test database use development recall using rail used separate database testing mainly coz tutorial going said made sense though wondering common way thing whether alternative anyone shed little light

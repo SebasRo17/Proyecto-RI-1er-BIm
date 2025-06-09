@@ -1,0 +1,1 @@
+I am thinking about open sourcing my project, but I want to prohibit public hosting, so noone will put up an alternative website with my code on it, and compete with my site. Internal networks, like libraries etc. would be welcome to use it. Are you aware of such a license? I guess this would be even more restrictive than AGPL.

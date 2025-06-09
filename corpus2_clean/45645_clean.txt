@@ -1,1 +1,0 @@
-use max examplelist min examplelist find maximum minimum examplelist however similar standalone function return something like position array maximum value array position array minimum value array e position value maximum minimum element examplelist seems awkward write position examplelist max examplelist position examplelist min examplelist

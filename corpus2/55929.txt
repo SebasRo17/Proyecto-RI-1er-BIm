@@ -1,1 +1,0 @@
-I got confused by `{i_, j_} /;` in the following code. I didn't see an explanation in the `SparseArray` documentation. Can anyone tell me how this part work in the code?               m1 = SparseArray[{{i_, i_} -> -2, {i_, j_} /; Abs[i - j] == 1 -> 1}, {5, 5}];

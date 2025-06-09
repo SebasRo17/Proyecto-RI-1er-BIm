@@ -1,1 +1,0 @@
-function opposite normal example let say sparsematrix let say convenience certain operation like packing convert array normal afterwards want became sparsearray anyway without need define matrix thanks

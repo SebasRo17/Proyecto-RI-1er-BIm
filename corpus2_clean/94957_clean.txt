@@ -1,0 +1,1 @@
+developing database driven restful web service using hibernate mysql testing purpose using h2 memory database h2 nice fast worked really well problem populating db table prior test sort tedious basically create persist bunch object hand wondering maybe going wrong road please tell best practice trying tool could help general strategy tip

@@ -1,0 +1,1 @@
+We need to define our requirements for a REST API. What are tools which aid in creating a document which will fully describe the webservice so it can be created by another entity?

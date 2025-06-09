@@ -1,1 +1,0 @@
-two example rowreduce b evaluates b b rowreduce b c evaluates result independent b c since want know step reduction add b c bookkeeping work second example anything wrong way keep track step reduction

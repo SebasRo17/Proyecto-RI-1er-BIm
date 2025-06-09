@@ -1,0 +1,1 @@
+I'm doing the same. When there is something "to-do" in my code, I write `//TODO ...`. But I'm curious to know when this started and if there is a reason for writing "to-dos" in all capital letters?

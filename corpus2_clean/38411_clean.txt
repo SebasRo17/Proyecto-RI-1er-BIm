@@ -1,1 +1,0 @@
-possible start mathematica kernel unix command line without init loaded simply deleting commenting hand mathematica script possible script run pas initialization running init

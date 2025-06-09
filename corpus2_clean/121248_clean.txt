@@ -1,0 +1,1 @@
+following svn structure project work client project client need different shared shared library created doc document explaining software development flow within company nothing question anyway put external library let say opensource project etc enter image description

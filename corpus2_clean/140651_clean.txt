@@ -1,0 +1,1 @@
+set project mercurial vcs would like automate following task test suite every commit ci make source distribution every commit tag mercurial regarded new release copy distribution special repository jenkins proposal similar question sure handle release management like intended

@@ -1,1 +1,0 @@
-entered following recurrence relation rsolve gave question back n frac n n another way get formula nth term

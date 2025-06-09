@@ -1,1 +1,0 @@
-possible duplicate efficient way round approximate integer integer leaving real untouched please consider following data head data result real real real change number data integer dataconv myfunction data head dataconv result integer integer integer edit also interesting could change real real like integer returning number decimal separator result

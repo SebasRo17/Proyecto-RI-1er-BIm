@@ -1,1 +1,0 @@
-use wolfram mathematica function two variable defines surface z f x second surface defined z const find line intersection two surface projection xy plane

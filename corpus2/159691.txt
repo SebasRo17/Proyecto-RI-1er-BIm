@@ -1,0 +1,1 @@
+We are practicing collective code ownership. To my understanding this means that any developer can change any line of code to add functionality, to refactor, fix bugs or improve designs. But what about a complete rewriting of code from a developer who is still in the team? Should I ask him first? What is the best practice?

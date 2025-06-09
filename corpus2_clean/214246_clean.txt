@@ -1,0 +1,1 @@
+working fairly large open source project drupal next major version begin use uuids lot thing including configuration object put uuids configuration ship various site change configuration many many object wild uuid different property ok better practice ship without uuids generate install

@@ -1,0 +1,1 @@
+According to W3C: > Web service is a software system designed to support interoperable machine- > to-machine interaction over a network. It has an interface described in a > machine-processable format Web application conforms to this definition. Its interface is HTTP. So can web application be called web service?

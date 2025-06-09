@@ -1,1 +1,0 @@
-wondering way tell mathematica use option appearance labeled manipulate command default use option quite often would convenient could set default behaviour

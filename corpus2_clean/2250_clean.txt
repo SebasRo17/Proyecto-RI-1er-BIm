@@ -1,1 +1,0 @@
-define domain plot instance want plot standardized bivariate normal density function r specify domain

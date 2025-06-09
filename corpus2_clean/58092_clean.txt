@@ -1,1 +1,0 @@
-rlc circuit would like find r l using findfit l initial condition problem could help c u data lp listplot data plotrange fit findfit data first ndsolve r l c l u l r l precisiongoal accuracygoal

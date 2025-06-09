@@ -1,1 +1,0 @@
-Does any one use the FeynRules package? If so, how can I implement a vertex of one Gluon and two octet scalars? I tried               LSG := Block[{mu,a},          ExpandIndices[gs S+[a]. G[mu, a1].del[S-,mu]. S-[a2]. f[a,a1,a2], FlavorExpand-> -- ]     ];      but it doesn't work. Also, what should I set in `FlavorExpand ->` ?

@@ -1,1 +1,0 @@
-In Fortran, I can use `include "file"` to insert a piece of code. Is there a similar method in Mathematica?

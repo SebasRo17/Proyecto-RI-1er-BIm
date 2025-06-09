@@ -1,0 +1,1 @@
+"Premature optimization is root of all evil" is something almost all of us have heard/read. What I am curious what kind of optimization not premature, i.e. at every stage of software development (high level design, detailed design, high level implementation, detailed implementation etc) what is extent of optimization we can consider without it crossing over to dark side.

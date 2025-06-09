@@ -1,1 +1,0 @@
-I have mathematica notebook that performs some operation say a=2 b=3 c=5 d=4 how do I set the output file after evaluation to be named using the values 2,3,5,.. like "2_3_5_4_" such that the the naming automatically takes the values assigned to a,b,c d

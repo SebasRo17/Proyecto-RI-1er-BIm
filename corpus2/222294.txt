@@ -1,0 +1,1 @@
+I have my enum like this.               enum Size{PAGE_SIZE=20,               HEADER_SIZE=30     };      I only use them as constants(No enum variable created) in my program.   i.e= `int x = PAGE_SIZE + 20;` So what is the better way to declare the constants in this scenario? (enum or const)

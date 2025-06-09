@@ -1,0 +1,1 @@
+fresh visual c moving forward book programming window mfc came across gdi graphic device interface use paint brush book say brush cannot created gdi low memory want know gdi get low memory important reason cannot create brush gdi low memory

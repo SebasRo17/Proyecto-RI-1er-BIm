@@ -1,0 +1,1 @@
+This article shows that for Android apps, software developers use between 30 and 50 different devices for compatibility tests. I tried to find information about tests of applications on "classic" computers, for example PC games or graphics-oriented business applications: how many different hardware configurations are typically tested in this area?

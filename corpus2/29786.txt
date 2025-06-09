@@ -1,1 +1,0 @@
-I looked at `ColorConvert`, but haven't found a relevant option. Is there a built-in function do this?

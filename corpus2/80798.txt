@@ -1,0 +1,1 @@
+We want to implement a fairly rough outline of test driven development which involves a developer asking themselves the tests at each stage of the development process. I have read here that its impossible to perform TDD without a tool. Is this true?

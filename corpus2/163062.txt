@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Is using build-in sorting considered cheating in practice tests? I'm studying for a Java exam at the university. In your opinion, could I use, during the exam,               Arrays.sort(intArray);      instead of creating my own algorithm? How would you judge it, if you were the professor?

@@ -1,0 +1,1 @@
+mainly use mercurial project decided sit learn git shenanigan discover right side least learning git us namespaces branch would like know experience point namespaces mercurial could set convention naming branch like branch origin branch username branch user branch imagine aside avoiding naming conflict get seemingly complicated necessarily bad model

@@ -1,0 +1,1 @@
+I want to save/serve multilingual data in my CMS application using Mongoose. Is this the correct way?               name: {         global: {             type: String,             default: '',             trim: true,             required: 'Please fill name',         },         en_US: String,         tr_TR: String,         sv_SE: String     }

@@ -1,0 +1,1 @@
+High performance computing means different things to different people. From a pure programming perspective what I gather is that these are loads of individual machines connected by extremely fast interconnect not necessarily based on usual TCP/IP. My question is on the interconnect side of things: How do you make interconnects faster without changing your socket based code much?

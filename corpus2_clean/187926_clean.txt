@@ -1,0 +1,1 @@
+pattern called variant module pattern remember disadvantage pattern related memory usage var module alert alert public alert callable private var inst new module inst alert

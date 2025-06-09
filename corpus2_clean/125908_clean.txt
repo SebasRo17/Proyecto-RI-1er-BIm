@@ -1,0 +1,1 @@
+working small project design would using technology jsp servlets pojos considering workflow jsp page receive submit servlet servlet would lot helper pojos would real work one thing noticed approach early grew huge number else statement better way accomplish trying without resort framework

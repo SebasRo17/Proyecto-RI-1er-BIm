@@ -1,0 +1,1 @@
+I know I can throw exception from constructor in PHP but should I do it? For example, if a parameter's value is not as I expected it. Or should I defer throwing an exception till a method is invoked. What are advantages and disadvantages in both cases?

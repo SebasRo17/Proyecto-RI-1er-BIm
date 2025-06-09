@@ -1,0 +1,1 @@
+suppose need implement persistence think generally limited four option correct wrong please persistant num implement interface num contains persist specialized made used contains num inherit persistent base create gigantic package called database make persistence logic advantage problem come one small 5kloc algorithmically simple app probably best option

@@ -1,1 +1,0 @@
-would like generate plot cpu time v number iteration example calculate solution system differential equation state space form using summation e series expansion matter sol sum matrixpower j j j j tried table timing n sum matrixpower j j j j output solution summation along time require cpu time individual iteration iteration number someone point right direction

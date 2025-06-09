@@ -1,1 +1,0 @@
-want write partial derivative function many argument type f x ctrl turn bad syntax output f x look much like f superscript

@@ -1,1 +1,0 @@
-derivative ab function mathematica look different actual answer correct example entered ab x x got output ab x syntax error input

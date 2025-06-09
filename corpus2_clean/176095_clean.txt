@@ -1,0 +1,1 @@
+currently using google gson library convert object json inside web service converted json returned client converted json using javascript eval character escaping provided gson library enough ensure nothing nasty happen eval json payload need html encode string object passing gson library security concern aware

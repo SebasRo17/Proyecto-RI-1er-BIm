@@ -1,0 +1,1 @@
+like app show location nearby restaurant different category would screen button select category shown depending button pressed map pin come nearby location pin pressed information storing restaurant create list using enum similar apple sample

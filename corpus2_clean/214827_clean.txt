@@ -1,0 +1,1 @@
+simple ping server c suppose server b c connects b asks b ping c check b talk c need read outcome first possible without installing application onto b word perform entire check running program anyone suggest route would take achieve looked socket example seen require client server application

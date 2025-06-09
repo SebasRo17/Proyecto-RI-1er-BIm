@@ -1,1 +1,0 @@
-I have a question regarding linear equation solvers. For a specific 9x9 diagonal matrix, every method I tried in C++ (Gaus, GCC, BICGTAB ) wouldn't work, although these methods would work fine for different matrices. In Mathematica `LinearSolve` gave a solution for this matrix. So my question is: What type of solver does Mathematica use in `LinearSolve`?

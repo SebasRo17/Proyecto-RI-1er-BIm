@@ -1,1 +1,0 @@
-way detect double click event find anything doc page eventhandler use case want implement crop image functionality available form context menu clicking image cropping gui appears much slowly even moderately large image screenshots full screen although could use button crop prefer using double click like original implementation

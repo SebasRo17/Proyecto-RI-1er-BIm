@@ -1,0 +1,1 @@
+I'm looking for a simple licensing software solution that works on Linux - a library that can generate and consume license keys. From what I was able to find were some behemoth license servers, something that is just way above what I require. Are there libraries in particular you can recommend?

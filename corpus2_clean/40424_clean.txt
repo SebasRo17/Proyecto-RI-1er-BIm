@@ -1,1 +1,0 @@
-want create table displaystyle sum n k le k le output want obtain texform output follows begin align sum n frac n n sum n frac n n n vdots end align attempt follows produce want achieve sum k n table factor k tableform

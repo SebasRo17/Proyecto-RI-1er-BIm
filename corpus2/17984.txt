@@ -1,1 +1,1 @@
-I would like to know what an implementation of the function `NextPrime` would look like if it were implemented in _Mathematica_ 's core language.
+Even if it could be bad practices, I would say that there is time that it would fulfill its purpose.

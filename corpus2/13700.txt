@@ -1,0 +1,1 @@
+There are a lot of choices available with respect to revision control (SVN, CVS, GitHub, etc.). What are the major options out there? What are the most popular ones right now (although I'm not sure if new revision control systems would be rolled out in the near future)? Thanks in advance for the feedback, although I'm not sure if this is an appropriate place to ask.

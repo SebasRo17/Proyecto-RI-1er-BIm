@@ -1,0 +1,1 @@
+newer system opencl made graphic processor make sense able utilise much power system possible however new system seems gpus better cpu every way gpus parallel calculation multi core gpus actually seem like much better multi core cpu able many calculation really improve speed still certain case serial processing still better faster efficient parallel

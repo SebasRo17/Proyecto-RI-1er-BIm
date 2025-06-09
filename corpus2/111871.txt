@@ -1,0 +1,1 @@
+Whenever I do `from 'x' import 'y'` I was wondering which one is considered the 'module' and which is the 'package', and why it isn't the other way around?

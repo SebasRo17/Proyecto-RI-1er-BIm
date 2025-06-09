@@ -1,1 +1,0 @@
-I have a lot of data (e.g., 64x8192), to plot and it consumes too much memory (more than 2 GB) causing Mathematica to return "no memory available". For example,               lst = Table[Sin[x^2 + y^2], {x, 2^7}, {y, 2^13}];     ListDensityPlot[lst]      Is there any way to cope with it?

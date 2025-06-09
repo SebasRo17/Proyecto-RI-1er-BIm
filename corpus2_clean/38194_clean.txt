@@ -1,1 +1,0 @@
-integrate u x u x u x u x u x u x u x u x u x u assumption x generateconditions false

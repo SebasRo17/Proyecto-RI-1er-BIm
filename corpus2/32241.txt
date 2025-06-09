@@ -1,1 +1,0 @@
-I want to repeatedly integrated a function and add the result of each iteration. Suppose I start a with a function $f(x) = x$ , I want to integrated it, it will be $x^2/2$, and again integrating, it will be $x^3/6$, and at the end I want to get the result $x^2/2+x^3/6$. Please help me how to do that.

@@ -1,0 +1,1 @@
+I'm modeling an Online Classified System where, naturally, who sells also can buy and vice-versa. The question is: should I have two different Actors, Buyer and Seller or I could have, say, an actor Client capable either buy and sell? How do you approach this Model? Cheers,

@@ -1,1 +1,1 @@
-know notebook option windowopacity used adjust opacity whole notebook want keeping text graphic opacity part window opacity may look like pic roughly produced photoshop enter image description guess effect might achieved capture screen prior set background cell cell even applicable must inefficiency question achieve transparent effect mathematica maybe help external application effectively
+hold singleton pattern always anti pattern think

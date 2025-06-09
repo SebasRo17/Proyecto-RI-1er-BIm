@@ -1,0 +1,1 @@
+understand stack memory hold primitive invocation heap memory used store object suppose b getters setter num primitive stored num heap memory exist cant store everything stack num get garbage collected stack associated objected destroyed

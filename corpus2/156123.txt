@@ -1,0 +1,1 @@
+Why Browsers do not resolve simple known issues such as: (in the context of CSS) Do NOT start a class name with a number! This is only supported in Internet Explorer and Do NOT start an ID name with a number! It will not work in Mozilla/Firefox.

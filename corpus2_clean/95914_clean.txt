@@ -1,0 +1,1 @@
+sometimes want multiple value normally done one option use like snippet return list tuple success read success another option would hash dict like javascript example var result result success alert one would create custom purpose like example result result system println result getvalue course also use global variable store need instead passing thing around let say option

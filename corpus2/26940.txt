@@ -1,1 +1,0 @@
-Sorry for the most basic of questions. How would I find the positions of a list of elements which are empty, for example I have the list               a = {1, 2, {}, {}, 3, 5};      and I want to find the indices of the empty elements.

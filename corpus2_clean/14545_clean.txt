@@ -1,1 +1,0 @@
-get taylor expansion sin x function power series

@@ -1,1 +1,0 @@
-I want to solve:               eqn = D[f[w], {w,2}] + (3/2 c^2 k Exp[c w] - 9/4 c^2  k^2  Exp[2 c w]) f[w] +  m^2 f[w]          sol = DSolve[eqn == 0, f[w], w]      with the assumption that `m`, `c` and `k` are positive. How do I add this assumptions?

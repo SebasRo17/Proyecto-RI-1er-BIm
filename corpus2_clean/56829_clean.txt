@@ -1,1 +1,0 @@
-get legend use option plotlegends expression first argument plot single function work ok give plot list function test case plot sin x x pi plotlegends expression contourplot x x plotlegends expression enter image description enter image description

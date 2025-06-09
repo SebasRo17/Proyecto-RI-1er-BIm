@@ -1,0 +1,1 @@
+Do you need to buy a run time license from Sencha if your application code written is developed in Ext JS and deployed on a web server? http://www.sencha.com

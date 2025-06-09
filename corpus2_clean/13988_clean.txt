@@ -1,1 +1,0 @@
-please consider following list data trying accumulate data result turn positive first time finally found approach maybe useful others maybe efficient approach data accumulate done foldlist rest foldlist plus data rest foldlist data accumulate data true one add constraint foldlist problem write rest foldlist data question improved either term speed elegance

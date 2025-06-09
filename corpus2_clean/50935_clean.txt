@@ -1,1 +1,0 @@
-code built add number list sequentially example let say list b b number like b want produce new list c c add first two number list put new list c next term list c result new list c c help appreciated thanks

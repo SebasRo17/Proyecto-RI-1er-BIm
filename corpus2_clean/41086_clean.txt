@@ -1,1 +1,0 @@
-whether nested within scoping construct like module block never know whether end final expression semicolon know semicolon suppresses output example series nested one need semicolon outermost suppress output better practice semicolon everything unless output needed better semicolon nothing last point output unwanted

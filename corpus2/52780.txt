@@ -1,0 +1,1 @@
+For example, the Objective-C convention is to prefix the symbols with two or three capital letters which are abbreviations of the project: NSString, CABasicAnimation, MGTwitterEngine… In C, many projects also do this (OpenGL and nginx for example). Is this also considered namespacing or am I missing something?

@@ -1,0 +1,1 @@
+I am thinking of purchasing an Infragistics library for a project I'm working on, but I've never used a third-party library in my code before. Is it something you would recommend? Have you ever had any problems with them? What should I watch out for?

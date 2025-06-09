@@ -1,1 +1,0 @@
-A simple but very important (at least for me) question. In some languages for defining a variable, for example, we can do: i=10 "d"&i=30 So I have defined the variable d10, and... d10=30 That is to say... I've named a variable (d10) as as function of an other variable (i). How can I do this in Mathematica? Sorry if the title is bad. Regards!

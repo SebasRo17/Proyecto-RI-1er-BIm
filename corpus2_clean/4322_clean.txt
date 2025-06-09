@@ -1,1 +1,0 @@
-creating large list table see memory footprint increasing memoryinuse data table x x memoryinuse would expect generate command data table memory would increase fact allocates new block memory data table x x memoryinuse even clear data memoryinuse expected behaviour missing something seem find function clear memory using mathematica window

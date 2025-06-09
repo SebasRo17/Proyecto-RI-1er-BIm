@@ -1,0 +1,1 @@
+This may be a very simple question. I'm curious how blocking calls are implemented. Specifically, how do they block? Is this just thread.sleep?

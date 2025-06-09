@@ -1,0 +1,1 @@
+working automation deployment using jenkins different environment dev uat prod svn tagging release placing binary dev uat prod artifact already contains config file w r environment understanding storing binary environment folder scenario deployment might different different environment

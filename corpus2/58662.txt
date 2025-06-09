@@ -1,1 +1,0 @@
-I'm having trouble to solve the following equation for $x$ both manually and in _Mathematica_ : $\quad \quad w = a p x^{p-1} \left(a x^p+b y^p\right)^{\frac{1}{p}-1}$ In _Mathematica_ notation:               w == (((a (x^p) + b (y^p))^((1/p) - 1))*p*a*(x^(p - 1)))

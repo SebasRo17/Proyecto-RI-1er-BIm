@@ -1,1 +1,0 @@
-How can I create a list of random pairs $(x,y)$ where $0<y<x<1$ and $x,y \in \mathbb{R}$ ? I can't seem to place that inequality restriction on the random numbers that are generated.

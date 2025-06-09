@@ -1,0 +1,1 @@
+This probably isnt' a Django specific question, but I'm wondering how those "Server over capacity" messages are displayed. Some examples:   * Twitter's fail whale   * Tumblr's Over capacity slash page   * Drawception's over capacity message when new games are created.

@@ -1,0 +1,1 @@
+question could titled place password hash salt query well less subjective point remains want create kind launcher application web application allow user specify credential auto login web application since plaintext almost always awful thought passing password hash salt querystring application perform auto login something like wonder better secure way instead

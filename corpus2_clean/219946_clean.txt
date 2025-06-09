@@ -1,0 +1,1 @@
+big collection string num n n several million provided need iterate string contain word need find string substring would efficient structure problem need careful memory working big number string

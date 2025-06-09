@@ -1,1 +1,0 @@
-I have this local debug window that is so annoying ![enter image description here](http://i.stack.imgur.com/txOLw.jpg) How can I hide it? What is the purpose of it?

@@ -1,1 +1,0 @@
-"Region" seems to be a very important concept in Mathematica's latest version. Where can one find the more thorough introductory details about the concept of `Region` instead of just the shattering examples in the document?

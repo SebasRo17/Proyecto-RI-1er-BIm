@@ -1,1 +1,0 @@
-This answer notes that `Calendar` package has a function `DateQ` but the documentation suggests that the input is limited to a fixed format `YY,MM,DD` etc. Is there a more robust way to check any String for date-form ? (Self answer, below)

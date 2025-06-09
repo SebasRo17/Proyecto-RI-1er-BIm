@@ -1,0 +1,1 @@
+I make a fair amount of small mistakes when I code (things such as getting an angle bracket to the wrong direction). It adds a fair amount of time to my coding because I have to debug several times and iron out the dinks. Have you got any advice on how to stop these mistakes creeping in?

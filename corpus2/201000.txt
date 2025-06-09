@@ -1,0 +1,1 @@
+Sometimes I run into a situation where I need to equate two new variables with an old one. Which of the following (if any) is a good practice (w.r.t. code readability or any other factor), under what conditions?               a=b;     c=b;      or               a=b;     c=a;      Note, `a`,`b` and `c` are just the names chosen in this example.

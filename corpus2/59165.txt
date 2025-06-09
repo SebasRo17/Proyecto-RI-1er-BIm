@@ -1,1 +1,0 @@
-I have some macros in a tex-file I'm writing and I would like Mathematica to use the same notation in its output from the TeXForm command. For example, if I write the equation: a = b I would like the output when I use TeXForm on this expression to be: a = \bias That is, I want Mathematica to output the variable name b as \bias with the TeXForm command. How can this be achieved?

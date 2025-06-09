@@ -1,0 +1,1 @@
+I found that Windows 8 allows packaging and deploying of Metro applications and it can be installed by clicking on a ".bat" file. How will it technically be ensured that the applications can be installed through Windows Store only? Can't the developers just host the package at a different location from where users can install it?

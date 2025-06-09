@@ -1,1 +1,0 @@
-Is it possible to replace sine and cosine in terms of tangent half-angles and again the tangent half-angles by a variable say `t`?

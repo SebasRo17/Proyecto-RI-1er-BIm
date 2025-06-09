@@ -1,1 +1,0 @@
-In R, one can use `...` to pass arguments down to another function. For example               fun <- function(arg1, ...){       print(arg1)       subfun(...)     }          subfun <- function(mex){       print(mex)     }          fun(1, "passed down")      Is there a similar construct in _Mathematica_? In particular I would like to pass down the attribute `WorkingPrecision`.

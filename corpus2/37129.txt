@@ -1,1 +1,0 @@
-I need to get the quantity of gravitational constant: `QuantityMagnitude[GravitationalConstant]` why this is not work? Already load the `PhysicalConstants` package.

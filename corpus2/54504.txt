@@ -1,1 +1,0 @@
-I just purchased a home edition of Mathematica 10, and there seems to be a toolbar that I can't get rid of. It is kind of annoying and distracting. I couldn't find the option in the preference panel. Can someone kindly help? ![enter image description here](http://i.stack.imgur.com/IM4z2.png)

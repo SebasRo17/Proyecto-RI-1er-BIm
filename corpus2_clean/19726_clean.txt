@@ -1,1 +1,0 @@
-would like transform matrix mathbf begin pmatrix b j c k l e f n g h p end pmatrix matrix mathbf b begin pmatrix p h g n f e l k c j b end pmatrix possible would like generalize n time n n size matrix simple way mathematica thanks advance

@@ -1,1 +1,0 @@
-data id data import id text stringsplit n line position flux light curve length data stringsplit work properly want identify position give line empty expect instead number like example even try id data import id text stringsplit n line stringposition flux light curve length data give single line many empty one

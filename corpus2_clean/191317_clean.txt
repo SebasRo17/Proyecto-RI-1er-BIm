@@ -1,0 +1,1 @@
+know method high cohesion roughly translates method use instance variable directly indirectly know lack cohesion metric useful quantitative figure much cohesive method num considered pretty good say num considered poorly designed probably tell better decomposing original num separate class okay 4 signify metric

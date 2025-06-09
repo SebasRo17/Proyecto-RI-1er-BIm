@@ -1,1 +1,0 @@
-I have a list of points in 3D, and I want to get a smooth interpolation or curve fit (it is more for illustration) of these points such that the first and second derivatives at the start and end points agree. With               ListInterpolation[pts1, {0, 1}, InterpolationOrder -> 4, PeriodicInterpolation -> True]      even the first derivatives do not agree.

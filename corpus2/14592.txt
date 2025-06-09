@@ -1,1 +1,0 @@
-I want to store hourly temperature readings retrieved from Wolfram|Alpha in an array in my notebook. If this is not possible, then tell me how to preserve the retrieved data in my notebook, so when it is reopened, the previously retrieved data need not be reentered. Additional data entry should be limited to just the data required from the user. Thanks in advance.

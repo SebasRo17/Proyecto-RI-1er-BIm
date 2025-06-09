@@ -1,1 +1,0 @@
-I would like to automatically "move nested sums to the left". I mean, just take out of an expression all the summations and go from a nested Sum to a multiple sum. Something like starting with:               Sum[f[y] Sum[g[x],x],y]      And changing it into:               Sum[ f[y] g[x],y,x]      But I can't think of a way to do it. Thanks!

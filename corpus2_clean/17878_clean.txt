@@ -1,1 +1,0 @@
-regionplot like following p r sqrt sqrt w sqrt w expand r sqrt sqrt w sqrt w expand regionplot p w w r p w w r w w boundarystyle blue framelabel w w find minimum maximum w w

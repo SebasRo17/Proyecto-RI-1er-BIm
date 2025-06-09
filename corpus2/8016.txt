@@ -1,1 +1,0 @@
-I'm studying calculus and in some exercises I am asked to find the domain and range of a function. Does _Mathematica_ have already a built-in function for this? I can imagine some ways of doing so, but at the moment I want to know if there's a built-in function or some easy way of doing it.

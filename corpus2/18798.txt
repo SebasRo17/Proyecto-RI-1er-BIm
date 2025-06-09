@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Get a “step by step” evaluation in Mathematica   >  How does Mathematica integrate? I want to display more detailed output from a calculation. The default command for calculation that I know is Shift + Enter. Is there another command to display detailed output. UPDATE ![enter image description here](http://i.stack.imgur.com/NsDbG.png)

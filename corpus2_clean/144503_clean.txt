@@ -1,0 +1,1 @@
+preferred recommended internet medium restful post request example want add new user send url encoded like foo bar rest recommend send whatever format response going sent e g json xml user foo bar user

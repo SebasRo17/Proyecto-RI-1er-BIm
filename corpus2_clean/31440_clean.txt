@@ -1,1 +1,0 @@
-use expression n x sqrt sqrt x sqrt sqrt x sqrt sqrt x sqrt sqrt gernerate highly ill conditioned polynomial use n expand x expand finally want use nsolve x solve however kernel break running thirty minute without indicating memory mathematica bug bug jenkins traub method bug mathematica precision control

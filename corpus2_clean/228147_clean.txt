@@ -1,0 +1,1 @@
+using genymotion test app app basically browser connects website app source development testing website domain like dev mywebsite com app connects mywebsite com genymotion allows use http proxy question software window linux would work proxy redirect request mywebsite com dev mywebsite com

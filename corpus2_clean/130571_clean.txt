@@ -1,0 +1,1 @@
+property foo empty included bcl seems verbose clearer using empty foo

@@ -1,0 +1,1 @@
+When dealing with Azure instances that are under-performing, how do you decide when to scale the instances? Do you scale horizontally by adding more instances or vertically by making the existing instances more powerful?

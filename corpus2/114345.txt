@@ -1,0 +1,1 @@
+Currently we are working on some storage problems for log data from various servers and communication message logs (HTTP(S), XMPP). There will be many write operations and for read operations we will use search queries with filters. Should we stick with the classic relation database schema solution or concentrate on Cassandra with ColumnFamily based indexes?

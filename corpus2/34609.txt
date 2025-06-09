@@ -1,0 +1,1 @@
+Does anyone else have that one thing they always forget to do when programming or developing a website? Personally mine is forgetting to include the Doctype in a website...the amount of time i have spent ages fixing/adding/hacking around with CSS to fix IE problems and it turns out to be the F'in Doctype declaration!!!

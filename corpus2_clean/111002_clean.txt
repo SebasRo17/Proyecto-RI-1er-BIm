@@ -1,0 +1,1 @@
+excerpt project github page gremlin provides graph traversal related syntactic sugar groovy groovy provides dynamic language syntactic sugar realize anything groovy done gremlin documentation keep referring groovy need learn member family likely never still learn gremlin someone point doc article explain gremlin without assuming groovy acquaintance

@@ -1,0 +1,1 @@
+last week wondering compiler getting better better optimizing point need hand written assembly still specialized field compiler smart enough produce rival hand written assembly

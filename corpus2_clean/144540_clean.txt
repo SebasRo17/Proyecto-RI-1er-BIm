@@ -1,0 +1,1 @@
+project need hibernate jar added dependency pom xml maven compiles project well however ide annotation call hibernate api marked unresolved red could get intellij able resolve way use maven click build project ctrl also confused concept facet within intellij need let say jpa facet enable persistence assistant etc option let maven take care

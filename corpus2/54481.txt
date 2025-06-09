@@ -1,1 +1,0 @@
-Having developed a substantial code base in _Mathematica_ 9, leads me to ask these important questions prior to downloading and installing _Mathematica_ 10. Will any _Mathematica_ functions from the previous version either not work in _Mathematica_ 10 or work differently? If so, does anyone know of a reference to such changes? I've looked for one but only find the new features.

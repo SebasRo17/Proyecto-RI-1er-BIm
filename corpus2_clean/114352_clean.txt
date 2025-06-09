@@ -1,0 +1,1 @@
+careful usually enough prevent problem sometimes need double check branch working e g hmm dev branch right checking source control path random file looking easier way thought naming solution file accordingly e g mysolution dev sln different file name branch merge solution file big deal method small trick use quickly ensure correct branch using visual studio num tfs num

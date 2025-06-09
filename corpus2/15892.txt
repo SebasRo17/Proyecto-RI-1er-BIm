@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  How to insert guide-lines in graphics without specifying range? How to plot multiple horizontal lines? For instance, I want to plot 3 horizontal lines: `y=-1`, `y=0` and `y=1`. Seems to be a pretty simple thing, but I couldn't figure out how; although I've searched all over the documentation center.

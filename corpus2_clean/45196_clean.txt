@@ -1,1 +1,0 @@
-want study z transform change sampling rate closed loop system command using inverseztransform z e z e z z z n however take result appears insanely huge impractical substitution etc inverse transform easily found wondering someone could give suggestion whats going really want solve hand also reason apart z z also work z function invert

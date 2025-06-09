@@ -1,0 +1,1 @@
+Kent Beck famously said that > Software features that can't be demonstrated by automated tests simply don't > exist But is this too extreme? I mean, I can't demonstrate that my UI really works, the screen pixel is correct in automated tests. So my features don't exist?

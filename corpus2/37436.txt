@@ -1,1 +1,0 @@
-There is some overlap between Combinatorica and the Graph related framework but there are also various elements missing. As far as I can see there is no 'Dijkstra' method or algorithm in Mathematica or is there a way (combination of other Graph methods) to do it? That is, without accessing Combinatorica by converting Graph to an EdgeList and so on.

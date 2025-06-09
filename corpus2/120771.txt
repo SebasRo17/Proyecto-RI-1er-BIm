@@ -1,0 +1,1 @@
+I've got a mental block as far as desigining the main screen interface for a desktop application that I'm currently upgrading. When I first developed this program the screen resolution was 640 X 480. Today there are multiple screen resolutions out there. Where can I find ideas for a good main screen layout for a desktop application?

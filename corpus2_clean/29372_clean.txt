@@ -1,1 +1,0 @@
-list two dimensional point ordered x coordinate would like calculate slope adjacent point familiar use pure function sort example compare adjacent element way perform function adjacent element list

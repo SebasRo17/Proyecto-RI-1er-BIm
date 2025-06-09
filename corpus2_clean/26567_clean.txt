@@ -1,1 +1,0 @@
-manipulating graphic dynamic module like synchronizing manual rotation multiple graphic output get current graphic export image answer might burried using dynamicmodule variable outside dynamicmodule someplace unable decipher

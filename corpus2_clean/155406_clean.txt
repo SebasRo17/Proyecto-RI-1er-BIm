@@ -1,0 +1,1 @@
+come across programming idiom recently const float zero num used comparison x zero anyone explain really efficient readable maintainable x num note think reason define constant im wondering use context

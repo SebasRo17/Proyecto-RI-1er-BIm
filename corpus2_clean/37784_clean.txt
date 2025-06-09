@@ -1,1 +1,0 @@
-consider code solve equation using dsolve ndsolve give different answer one correct using version mac sol dsolve thread e e join sol ndsolve thread e e join pi plot sol sol pi enter image description

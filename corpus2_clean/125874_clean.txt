@@ -1,0 +1,1 @@
+reading two question see understanding cpu caching behaviour important dealing large amount memory would like understand way caching work add another tool optimisation toolbox learn way cpu cache work write us sensibly relatedly way profile see poor cache use slowing thing

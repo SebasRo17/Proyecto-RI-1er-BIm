@@ -1,0 +1,1 @@
+clearly ajax improves user interface also decrease server load would think entire page served time maybe variable considering

@@ -1,1 +1,0 @@
-function sin theta co phi solve phi sol reduce phi give result turn output nice list result desired value c much like solve would give use plot visualise function

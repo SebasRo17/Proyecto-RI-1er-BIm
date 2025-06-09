@@ -1,0 +1,1 @@
+installed pydev want start gui apps heard qt integrate pydev ide come bundled qt gui framework also visual studio like toolbox add control form want go ironpython

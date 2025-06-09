@@ -1,0 +1,1 @@
+constructing ray tracing algorithm know first step develop camera view plane specification next step performing rasterization algorithm image tree constructed intersection test performed kindly guide

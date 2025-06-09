@@ -1,1 +1,0 @@
-given list data would like count number sublists contain zero count data count data count data better efficient way

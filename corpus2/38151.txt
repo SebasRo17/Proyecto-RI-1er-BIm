@@ -1,1 +1,0 @@
-Why does this:               Solve[a x^4 + b x^3 + c x^2 + d x + e == 0,  x] /.         {2 c^3 - 9 b c d + 27 a d^2 + 27 b^2 e - 72 a c e -> F}      produce a different result from this?               Solve[a x^4 + b x^3 + c x^2 + d x + e == 0,  x] /.         {2 c^3 - 9 b c d + 27 a d^2 + 27 b^2 e - 72 a c e -> F} /.         {2 c^3 - 9 b c d + 27 a d^2 + 27 b^2 e - 72 a c e -> F}

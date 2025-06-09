@@ -1,0 +1,1 @@
+If developing web applications using **ASP.NET MVC** or **Ruby on Rails** make the application use the **MVC design pattern** , then if I build my application using only **HTML5/Javascript + backend webservices** (like WCF rest), then which design pattern will my application follow?

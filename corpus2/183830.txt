@@ -1,0 +1,1 @@
+Although it is a commonly held opinion that planning poker improves the accuracy of project estimations (a small sample of which demonstrated on this question), has any defined research been done on the subject? More specifically, I am looking for non-circumstantial information showing that planning poker would be an improvement over traditional estimation techniques.

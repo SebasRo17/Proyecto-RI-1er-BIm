@@ -1,0 +1,1 @@
+simple search amazon one see modern approach parallel programming use graphic card however still little bit skeptical last computer num core cpu need enough basic parallel need need probably use mpi network using old machine use cuda another us graphic card instead traditional method like pthreads thread boost thread new c num thread using process

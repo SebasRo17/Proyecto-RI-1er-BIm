@@ -1,0 +1,1 @@
+What's the key deference between passing by reference and passing by value in PHP ?               function ( &$var1 ,$var2)     {           var1[$x]...          }      Function that passes an array by reference and value, what would the impact be.

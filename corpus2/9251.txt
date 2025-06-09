@@ -1,1 +1,0 @@
-I'm trying to import a text file with UCS-2 Little Endian codification but I can't read it correctly. There's any hidden option to read this files ?? I'd tried with `Import` (using `ByteOrdering` option) and `ReadList`. And example file can be find here Thanks !!

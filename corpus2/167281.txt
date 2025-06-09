@@ -1,0 +1,1 @@
+For example, if I break a project into n discrete work products (say classes or functions or components) is there a time t such that n*t is a suitable amount of time to spend on estimation?

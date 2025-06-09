@@ -1,1 +1,0 @@
-trying following series series hypergeometricpfq sqrt sqrt z z mathematica say result infinite without telling precisely diverges z tried functionexpand fullsimplify command far success help would welcome best jorge

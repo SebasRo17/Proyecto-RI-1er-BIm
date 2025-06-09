@@ -1,1 +1,0 @@
-Which algorithm is used when we do not use the option Method of `FindMinimum[]` function.               FindMinimum[f,{x,x0}]

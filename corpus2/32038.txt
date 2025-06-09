@@ -1,1 +1,0 @@
-Why doesn't               FullSimplify[ Abs[a*Cos[x]]^2, Assumptions -> {{a, x} ∈ Reals}]      simplify to               (a*Cos[x])^2      but this query               Simplify[ (a*Cos[x])^2 == Abs[a*Cos[x]]^2, Assumptions -> {{a, x} ∈ Reals}]      yields True? I'm using _Mathematica 8.0_.

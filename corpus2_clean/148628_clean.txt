@@ -1,0 +1,1 @@
+storing database password app config plain text also publishing application safe password stored app config use disassembler find

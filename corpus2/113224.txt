@@ -1,0 +1,1 @@
+While I am studying for job interview, I got this kind of OOD questions a lot. But from my TDD perspective, I think it would be reasonable to ask more about use-cases of (or requirements for) the Car. Otherwise, there are tons of way of designing car. Am I missing something here? How would you handle this sort of interview questions?

@@ -1,0 +1,1 @@
+I'm trying to import an existing pdf file to digitaly sign it using TCPDF library > $pdf = new TCPDF_IMPORT; $pdf -> importPDF('example.pdf'); when I do so I get somthing like this ![enter image description here](http://i.stack.imgur.com/Vn0xD.png) So, what is the best way to import a pdf under TCPDF

@@ -1,1 +1,0 @@
-list containing vector coordinate random number r randomreal n randomreal n randomreal n want calculate norm vector another list possible without loop something like norm r dimension column norm calculated

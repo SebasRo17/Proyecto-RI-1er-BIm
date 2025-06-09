@@ -1,0 +1,1 @@
+Smalltalk supports a syntax feature called "message cascades". Cascades are being adopted by the Dart Programming language. As far as I know, C# doesn't support this. Were they ever considered during the design of the language? Is it conceivable that they could appear in a future version of the language?

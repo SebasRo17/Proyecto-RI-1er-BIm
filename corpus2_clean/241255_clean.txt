@@ -1,0 +1,1 @@
+let say system system number operation operation happen batch certain time call activate deactivate operation come time matter many time called operation done batch implement could use flag like seems like would become difficult maintain design pattern something similar address situation

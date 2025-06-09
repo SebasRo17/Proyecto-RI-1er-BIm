@@ -1,1 +1,0 @@
-![enter image description here](http://i.stack.imgur.com/U7KsR.png) How can I create a function F that works like this:                x = 2      f1 = x^2 + 3      f2=x+5           F[f1]      > >     x^2 + 3 = 2^2 + 3 = 7 >                  F[f2]      > >     x + 5 = 2 + 5 = 7 >

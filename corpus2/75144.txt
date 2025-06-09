@@ -1,0 +1,1 @@
+There are a lot of android resources types: layouts, strings, drawables and so on. I understand that readability of it's names is important but can not create a table of rules how to name them in the best way. Are there any best practices on that?

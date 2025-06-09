@@ -1,1 +1,0 @@
-I want to change the color of the progress bar in a `ProgressIndicator`. I want the progress bar to be red instead of green. For this purpose I wrote the following code, but still it doesn't work.               Style[ProgressIndicator[90, {0, 100}], Red]      ![Mathematica graphics](http://i.stack.imgur.com/jd8Af.png) How can I do change the color?

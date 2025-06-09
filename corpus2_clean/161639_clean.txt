@@ -1,0 +1,1 @@
+android app fetch list num item trying get server load built filtering feature everything offline basically instead calling server thus mysql query every call filter however noticed app tends lag change offline filtering processing relatively big list something done offline live load server

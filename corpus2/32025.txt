@@ -1,1 +1,0 @@
-How one can measure the execution time (time that is spent for code to finish) of a program in _Mathematica_? I understand that there are general timing functions (Timing, AbsoluteTiming, TimeUsed, etc.) that can be used for measuring CPU or wall time, but I don't know the pros/contras (and caveats) of the different methods.

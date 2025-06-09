@@ -1,0 +1,1 @@
+Sometimes we change user story scope to complete it during the iteration. For example, Original story (8 points): As a user i want to save my data as PDF. De-Scoped story: As a user i want to save my **text** data as PDF. Now do i need to decrease the size of the de-scoped story as well? **EDIT** What do you do in such cases and why?

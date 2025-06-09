@@ -1,1 +1,0 @@
-Is it possible to presserve my animation and manipulation plots in the pdf?

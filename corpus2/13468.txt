@@ -1,1 +1,0 @@
-_Mathematica_ , through the "legacy" _Scientific Astronomer_ package, used to have the ability to easily determine accurate transit times of astronomical objects simply, with `Culmination[object, neardate]`; but now lacks this feature. Is there a way to use `AstronomicalData` to do this?

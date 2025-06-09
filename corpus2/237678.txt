@@ -1,0 +1,1 @@
+For example I have this code:               $route = 'product/category';          //variable overload     $type  = explode('/',$route);     $type  = $type[1];      My thinking behind this is that I actually don't need unique variable name for exploded variable, so why not to overwrite? Is this really bad concept? Or is there some more elegant way to write this?

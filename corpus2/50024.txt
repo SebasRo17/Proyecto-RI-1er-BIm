@@ -1,0 +1,1 @@
+I'm thinking about writing an application that will have a web-version and an iPhone version (and perhaps later also an android version). Since there is some algorithms that are the same on the iPhone and the web versions, I was wondering if it is possible to write that part in c++, while keeping the rest of the application in objective-c?

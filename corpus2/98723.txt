@@ -1,0 +1,1 @@
+I am wondering if I should rely on Visual Studio in adding HTML and CSS elments by using the viusal toolbars or should I write them by myself? Is it considered bad practice if I relied on Visual Studio to do that?

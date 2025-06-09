@@ -1,0 +1,1 @@
+I was wondering, Does anybody here works in a software development team under the DevOps methodology and applying Kaizen instead Lean for continuous improvement? I read that DevOps is based on Agile methodology and Lean, but I don't know whether it's possible to use Kaizen instead Lean. Thanks.

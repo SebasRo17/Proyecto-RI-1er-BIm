@@ -1,1 +1,0 @@
-reproduce simple example habrat mathematica problem centered approach supposed demonstrate functionality fullsimplify however make work mathematica try fullsimplify cot pi sin pi mathematica return input unchanged cot pi sin pi shown book however would rather expected sqrt trying fullsimplify cot pi sin pi sqrt mathematica return true return sqrt first place

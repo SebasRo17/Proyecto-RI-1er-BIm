@@ -1,1 +1,0 @@
-looking draw graph knowing simple adjacency representation graph like adjacency list thinking could use graph maybe kind pattern matching graph directededge also familiar pattern mathematica get used lot hard understand

@@ -1,0 +1,1 @@
+I was reading about software inspection in Software Engineering by Ian Summerville and I came across the term Software inspection and I started reading about it on Wikipedia. I am unable to understand what is the difference between verification and software inspection?

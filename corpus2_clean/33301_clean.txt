@@ -1,1 +1,0 @@
-want plot surface ax crossing without bounding box also like portion ax hidden surface show instance contourplot x z x z axesorigin boxed false lighting neutral mesh creates sphere mesh tick mark ax etc inside look rather cluttered rather ax disappear inside done

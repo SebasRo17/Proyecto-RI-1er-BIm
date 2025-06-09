@@ -1,0 +1,1 @@
+As we have a wonderful concept called hooking where we can create a reference to a function and connect another function In the same way can we create a reference to DOM objects. For example can we create a function and **hook** it to **document.location** so that whenever document.location is used the other function must be triggered.

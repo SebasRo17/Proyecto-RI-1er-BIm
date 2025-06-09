@@ -1,0 +1,1 @@
+As stated in the question, is there any difference in the meaning of the two as applied to the Controls of .NET. Or are they alias of one another?

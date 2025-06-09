@@ -1,0 +1,1 @@
+How much technical (for future developers) documentation is _enough_? Is there a ratio between hours coding and hours documenting that's appropriate? Papadimoulis argues that you should > produce the least amount of documentation needed to facilitate the most > understanding, Is that a good guideline, or are there specific things I should be creating?

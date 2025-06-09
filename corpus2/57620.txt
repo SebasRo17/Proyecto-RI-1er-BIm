@@ -1,0 +1,1 @@
+I was wondering that, as a developer, you consider a GM release the final release and if you do it for serious development or if you stick to the stable version. With the iOS SDK, you're able to submit apps to Apple for submission to the App Store using a GM version. Do you recommend using the GM version of an SDK or waiting a couple of weeks and use the stable version?

@@ -1,0 +1,1 @@
+What is the difference of delegator and dispatcher? I am not quite sure of either concept.

@@ -1,1 +1,0 @@
-Struggling often with Trigonometry I would like to have some code to generate this Unit Circle Trigonometry. Would be of great help when I need to transform some data : ![enter image description here](http://i.stack.imgur.com/r8uHr.gif)

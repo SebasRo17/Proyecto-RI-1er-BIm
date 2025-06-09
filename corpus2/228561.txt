@@ -1,0 +1,1 @@
+I've been thinking of using a Hyper-V Machine as instead of physical computer for installing my .NET / Azure / Xamarin / ASP.NET / Windows Phone development tools. That way I could easily move from my desktop to my laptop when I need to develop something on the go. Are there any limitations in this scenario that I should be aware of? Thanks, Adrian

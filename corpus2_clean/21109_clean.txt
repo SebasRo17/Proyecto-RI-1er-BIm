@@ -1,1 +1,0 @@
-command line generates list output running loop generates multiple long list list exported txt file automate name generation output file intend use name input file txt extension output course outdata readlist test record recordseparators print outdata automate export

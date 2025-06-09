@@ -1,0 +1,1 @@
+Let's say your team is working on 10 features/fixes for a sprint. At the end of the sprint, there are one or two things that the product owner does not accept. But, they would really like the other 8 or 9 to be released. How do you handle this? Using subversion, what would be the best methodology to manage a sprint with the possibility that this could happen?

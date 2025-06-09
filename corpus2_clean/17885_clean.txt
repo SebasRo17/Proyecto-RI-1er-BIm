@@ -1,1 +1,0 @@
-want use rayleigh criterion find resolution optical system two function f sinc x f sinc x translation want change value first minimum f coincides maximum f rayleigh criterion achieved value x returned pseudocode x translate till first min f coincide peak f print x repeat procedure x upto x would like basically start programm table value x thanks advance everyone nice one

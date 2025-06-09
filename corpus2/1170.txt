@@ -1,1 +1,0 @@
-Is it possible to make a function in Mathematica that expands expressions of the form $$|z + w|^2 = |z|^2 + 2\text{Re} \overline{z}w + |w|^2?$$ Preferably it should also be able to handle things like $$\left |\sum_{i = 1}^n z_i \right |^2.$$ The last thing can obviously be mathematically deduced from the first one by consecutively applying the first equality.

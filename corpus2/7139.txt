@@ -1,1 +1,0 @@
-I would like to be able to manipulate algebraic equations. For example, let's say I enter `3x+5==2` I would next like to be able to manually subtract $2$ from both sides. I tried the obvious thing `%-2`, but this just returns `-2+(3x+5==2)` Is there a way to

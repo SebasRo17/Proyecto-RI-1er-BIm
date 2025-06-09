@@ -1,0 +1,1 @@
+I was reading a paper (PDF) that introduced a term, _internal syntax_ , that I've never heard of. What does this term mean, and how is it different from the _source syntax_? It looks that the _internal syntax_ is used to formally prove some properties about the language (at least in this paper). I'd like to know the exact definition and the background behind this syntax.

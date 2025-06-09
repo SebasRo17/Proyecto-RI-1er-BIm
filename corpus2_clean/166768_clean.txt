@@ -1,0 +1,1 @@
+hello fellow programmer reading book c author comparing abstract class interface claim following abstract abstract public abstract clone cannot public car understand however claim inability multiple inheritance use interface like public interface icloneable clone question somewhat misleading create abstract car clone car inherit inherit car method cloneable car think thanks

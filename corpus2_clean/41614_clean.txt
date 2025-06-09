@@ -1,1 +1,0 @@
-want following two list n b b n would like build shuffle mean union list still keeping individual order parent list example b c b c c b c b c b c b c b easy way

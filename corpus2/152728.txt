@@ -1,0 +1,1 @@
+My team is debating whether to put the specifications on a private wiki or in a google document. Can someone provide me with a summarized list of pros/cons for using a private wiki vs google docs for team specifications? My gut feeling is the google-docs is heavier and slower to use, but easier, while private wikis, like mediawiki, seem to be harder to set-up and run.

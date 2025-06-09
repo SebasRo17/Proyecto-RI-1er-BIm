@@ -1,0 +1,1 @@
+Is it ever justifiable to write production-code without also writing tests for it when doing Test Driven Development?

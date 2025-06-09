@@ -1,0 +1,1 @@
+I have read a lot of computer architecture textbooks, and I wonder why most of them (if not all) used MIPS as the architecture to teach. Why MIPS and not Intel or AMD or something else? What makes the architecture suitable for teaching?

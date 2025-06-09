@@ -1,0 +1,1 @@
+taking martin odersky coursera course functional programming scala learned two thing together make sense num scala support multiple inheritance num nothing subtype every two statement cannot live together exactly done exactly meaning subtype every edit num scala api nothing defined abstract final nothing extends extend class

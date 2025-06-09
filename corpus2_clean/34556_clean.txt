@@ -1,1 +1,0 @@
-two polynomial x sum x quad b x sum b x given x b x want compute c x min x b x c x c min b automatically mathematica

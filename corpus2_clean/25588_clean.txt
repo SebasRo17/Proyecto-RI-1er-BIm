@@ -1,1 +1,0 @@
-say graphic object looking top perspective e g graphic sphere sphere viewpoint top might use manipulate click somewhere image generate x output corresponding position mouse projection plane parallel screen respect coordinate system image example instance clicking center first sphere would output clicking center latter would output

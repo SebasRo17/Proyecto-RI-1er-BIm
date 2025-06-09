@@ -1,1 +1,0 @@
-find range parameter improper integral integrate x x x converges

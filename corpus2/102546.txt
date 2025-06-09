@@ -1,0 +1,1 @@
+Are custom DSLs in JavaScript still viable, Specifically ones written with Antler, Boo, or the former Microsoft Oslo? With the proliferation of open source JavaScript/ECMAScript engines (V8, IronJS, etc.), does it make more sense to write the functionality needed into one of those instead of writing an entirely new language?

@@ -1,0 +1,1 @@
+num num address city region field database new address entered want software automatically detect region address think implemented sort machine learning algorithm every newly inserted address machine learn detect region new address library machine learning algorithm like aforge net neural network

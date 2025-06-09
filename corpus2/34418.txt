@@ -1,0 +1,1 @@
+Does your team rely on code reviews for approval of work? Is it simply QA that signs off your features and fixes? Do you have a lead programmer (or architect) that reviews code design and implementation? Or is it simply a Works on My Machine paradigm? What would you recommend or have seen that works well?

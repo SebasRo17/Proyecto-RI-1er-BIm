@@ -1,0 +1,1 @@
+I am going to develop a software that works with different databases and I'm considering whether to use .NET languages or C++. I've known that .NET features LINQ and ADO.NET but are there features like that in the native C++? Which one works better, faster with databases?

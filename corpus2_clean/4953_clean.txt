@@ -1,1 +1,0 @@
-goal create image like one desired output created using parametricplot epilog disk instead using graphic primitive want use rasterized version disk using command duplicate result bkgd rasterize disk pplot parametricplot important parametricplot remain un rasterized

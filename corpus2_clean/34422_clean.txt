@@ -1,1 +1,0 @@
-anyone use feynrules mathematica package like know could write vertex explicitly sum index md ckm vev dbar projm x x scalar particle like write thing like md indexdelta j ml ckm j vev sr dqbar projm dq j expression give error feynrules think right

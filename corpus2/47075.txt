@@ -1,1 +1,0 @@
-![](http://i.stack.imgur.com/S0wsU.jpg) The small figure in the lower right corner is a magnified version of a part of the large figure. Are there any simple method to obtain the magnified figure from the the original one? Moreover, I want to know how to put the two figures together?

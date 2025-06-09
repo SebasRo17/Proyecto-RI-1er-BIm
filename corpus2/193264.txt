@@ -1,0 +1,1 @@
+For commercial and licensing purposes, what is the correct wording for differentiating JavaScript source code (written by the programmer and including comments) from the minified version used in production?

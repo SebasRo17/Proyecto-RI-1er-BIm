@@ -1,0 +1,1 @@
+I am trying to implement the trapezoidal rule programmatically but am having trouble finding a good way to input the function of x and then have a loop which will iterate through for each sub-interval finding the area of the trapezium and adding the results and returning it. Any help would be awesome.

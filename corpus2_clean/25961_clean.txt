@@ -1,1 +1,0 @@
-way make mathematica visualize multistate square lattice data set simulation x coloumns wide row tall simple dat file cell value n want mathematica draw x square lattice color square lattice corresponding state data set e g red green blue yellow

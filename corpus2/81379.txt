@@ -1,0 +1,1 @@
+Salutations. Dijkstra wrote that even a few lines of seemingly simple code could be hopelessly ambiguous. In at least one work, which I can't find now to save my life, he gave a little example program to demonstrate this ambiguity. Can anybody point me to a paper of his where he includes one of these examples?

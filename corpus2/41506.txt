@@ -1,1 +1,0 @@
-How do you persuade Mathematica to give simple identities involving binomial sums. For example               Sum[Binomial[a,i]*Binomial[b,i],{i,0,n}]      where n is bigger than both a and b.

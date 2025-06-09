@@ -1,1 +1,0 @@
-say loop like evaluate parallel something like split list chunk individual kernel evaluate however would like explicitly specify chunk something paralleldo seem allow paralleldo actually partition value evaluated loop list l need access l th iteration loop might avoid slowdown associated using large global list

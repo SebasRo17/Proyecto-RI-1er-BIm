@@ -1,0 +1,1 @@
+I am confused. I thought I would try and use a new game engine in order to expand my abilities, and found a nice engine called springrts. I was looking through the licensing info and it is licensed under the GPL 2 licence. If I remember correctly, does that mean that anything I make with it, I have to distribute the source code to?

@@ -1,0 +1,1 @@
+noticed since installing visual studio num sp1 huge performance issue randomly freeze quite bit performance issue visual studio num upgrade add running resharper wondering anyone else experiencing performance issue found way fix

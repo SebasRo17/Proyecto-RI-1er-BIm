@@ -1,0 +1,1 @@
+I spoke with a guy who claimed that he's working (programming) on a GPS-system that is going to be accurate to the centimeter.   * Is this even possible?    * What is the limiting factor, the big distance between the satellite and the GPS, or is it the software?    * Can the software be improved to make a GPS accurate to centimeters?

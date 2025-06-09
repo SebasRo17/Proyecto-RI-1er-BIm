@@ -1,1 +1,0 @@
-I have an equation which I want to rearrange so one variable is on the left side by itself. Normally, I would do this with basic algebra and identities. However, is it possible to use Mathematica to do this for me, automatically?

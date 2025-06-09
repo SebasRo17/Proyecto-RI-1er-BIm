@@ -1,0 +1,1 @@
+developed web application using zend framework mysql client side technology like javascript jquery ajax kendo grid completed development done several round testing make sure functional part correct would like check vulnerability application vulnerability sql injection ajax vulnerability others know would like ask guy check make application secure method use secure application

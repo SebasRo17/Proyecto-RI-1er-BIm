@@ -1,0 +1,1 @@
+In my database, I have a column for the hashed password and the salt. My application allows users to change their password. Should I use the same salt for the password, or should I generate a new one? Does it matter to the security of the application?

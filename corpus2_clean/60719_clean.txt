@@ -1,0 +1,1 @@
+iam new net technology need help choosing correct path creating application want create application get web service small part local database mainly problem database access making database access clean net technology choose accomplish good way clean easy maintained

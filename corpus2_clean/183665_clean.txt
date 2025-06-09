@@ -1,0 +1,1 @@
+develop social based application mobile every application consumes restful api web service implement login usually store username password somewhere device send response get access profile also know another way one somehow generates token particular algorithm send instead username password gain access implement send token along every request login

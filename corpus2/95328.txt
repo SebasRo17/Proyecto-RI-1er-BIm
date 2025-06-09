@@ -1,0 +1,1 @@
+When working on open source projects should one time contributor's (I mean like single or minor patchset, nothing that would be considered a major contribution ) be listed as an Author? or should they simply get listed in say an acknowledgement section somewhere? If you contribute a small patch to a project where do you want to get listed?

@@ -1,1 +1,0 @@
-I'm trying to understand the mathematics behind counting the number of representations of a positive integer by $n$ distinct $k$th powers, i.e. I would really like to know how to do the Mathematica function PowersRepresentations by hand. Any explanations, references, even special cases (I'm particularly interested in $k=2$) would be appreciated. Thanks.

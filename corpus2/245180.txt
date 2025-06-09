@@ -1,0 +1,1 @@
+Considering the Wavefront obj file format where this syntax fits in the Chomsky hierarchy and why ? I'm also not sure if PEG grammars are being considered in the kind of classification made by Chomsky and if an obj is a real example of a PEG grammar . to formalize this: what kind of grammar and parser I need in order to read an obj file ?

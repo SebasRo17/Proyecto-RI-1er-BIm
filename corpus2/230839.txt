@@ -1,0 +1,1 @@
+When I run ffmpeg on an mp4 file, it says the duration is:               00:03:57.54      What is the unit that `54` represents ? I am interpreting it as 0.0054 seconds (54 milliseconds).

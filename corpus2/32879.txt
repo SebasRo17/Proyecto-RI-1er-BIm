@@ -1,1 +1,0 @@
-Can anyone please help me solve this system? 9.208x-3*y=0 -3x+3.208y+5*z=0 x^2+y^2+z^2=1 Thanks!

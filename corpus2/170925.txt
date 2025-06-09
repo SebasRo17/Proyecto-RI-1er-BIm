@@ -1,0 +1,1 @@
+LSP states that classes should be substitutable for their base classes, meaning that derived and base classes should be semantically equivalent. But does LSP also apply to classes implementing an interface? In other words, if an _interface method_ implemented by a class is semantically different from what user expects it to be, would this be considered as a violation of LSP?

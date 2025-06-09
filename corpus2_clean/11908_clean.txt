@@ -1,1 +1,0 @@
-operator mathematica right associative default e f g h evaluates f g h possible make operator evaluate involved function left associative order f g h instead

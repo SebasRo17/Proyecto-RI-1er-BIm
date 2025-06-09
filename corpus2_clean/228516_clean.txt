@@ -1,0 +1,1 @@
+developer moving objective c far objective c seen protocol used extensively implement delegate pattern seen add layer abstraction way one would use interface gut instinct use protocol define contract add layer abstraction may later substitute different concrete idiomatic objective c people tend use interface define contract concrete use directly

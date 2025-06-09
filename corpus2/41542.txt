@@ -1,1 +1,0 @@
-What commands should I use such that Mathematica / W|A express $$\psi(1+i)+\psi(1-i)$$ exclusively in terms of trigonometric functions?

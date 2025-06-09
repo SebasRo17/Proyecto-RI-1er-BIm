@@ -1,0 +1,1 @@
+need cover searched many website still idea method cover override anonymous class public static text text final methodname final callee text new keylistener override public keyevent arg0 arg0 keycode r try callee getclass getmethod methodname keyevent invoke callee arg0 catch exception e e printstacktrace override public keyevent arg0

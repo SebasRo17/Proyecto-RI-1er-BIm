@@ -1,0 +1,1 @@
+Suppose my favourite open source application has a bug. Now I want to contribute to the application by fixing its bug and submit the patch to the development team. What's the most effective way to do this? Do you actually read the whole source code of the project (or most of it) to understand the logic before start fixing it?

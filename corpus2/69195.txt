@@ -1,0 +1,1 @@
+I know with changing the variable type, the speed of the program change. I want to understand the other effects of this change in the software performance. I want to know if we use a floating point variable instead of fixed point variable,the amount of memory consumption and speed of program, what will change?

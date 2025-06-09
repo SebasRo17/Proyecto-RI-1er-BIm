@@ -1,0 +1,1 @@
+problem fill cell using distinct number num num set sum two adjacent cell square number enter image description source number num num given already solved problem analytically would like approach using algorithm would like know approach kind problem general solution point start

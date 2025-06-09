@@ -1,1 +1,0 @@
-I'm having trouble with this one plot I'm trying to make. I'm using NDSolve on a system of differential equations and when I plot it with ParametricPlot, the scales or lengths of the graphs axes come out in an unsatisfactory way. How can I set the minimum and maximum ranges for the axes when I'm using ParametricPlot?

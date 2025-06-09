@@ -1,0 +1,1 @@
+good bad practice following public myclass public mytype myproperty get private set public mytype myproperty myproperty myproperty intention prevent myproperty accidentally changed outside however changed needed also mytype reference private set prevent example myproperty somefield num word make myproperty member readonly reference myproperty sorry seems question afraid beginner

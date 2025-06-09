@@ -1,0 +1,1 @@
+considered bad practice throw notimplementedexception written yet possibly todo comment would considered safer

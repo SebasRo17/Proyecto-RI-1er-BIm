@@ -1,1 +1,1 @@
-want mathematica recognize b c b c yet fullsimplify like leaf expression get around
+good reason except gcc better use mingw win32api header libs llvm clang suppose two three year clang matured enough c 0x performance competitor replacement advantage msvc like gcc account earth would one want avoid using m library header implementation win32 api freely available form window sdk

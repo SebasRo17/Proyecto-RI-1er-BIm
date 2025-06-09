@@ -1,0 +1,1 @@
+Many people have said that C++ is a completely different language than C, but Bjarne himself has said that C++ is a language that is extended from C hence that is where the `++` comes from. So why does everybody keep saying that C and C++ are completely different languages? In what way is C different from C++ other than the extended features in C++?

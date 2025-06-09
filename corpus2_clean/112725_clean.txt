@@ -1,0 +1,1 @@
+inherited large codebase need make substantial change wish get pretty complete understanding software starting would diagram tool find suited large codebase ideally want expandable node representing major concept flow could drilled sub concept sub sub concept preferably uml based essential decent automatic source diagramming tool particular php uml

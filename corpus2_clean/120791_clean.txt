@@ -1,0 +1,1 @@
+suppose user want transmit audio video another user whose format audio h num video user transmit audio video packet always separately meaning possible mix audio video within rtp packed correct guess rtp protocol need know audio video able check sync two stream

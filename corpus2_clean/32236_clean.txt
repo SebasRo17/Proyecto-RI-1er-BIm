@@ -1,1 +1,0 @@
-goal export list number file comma value executing following command seems produce file new line entry v setdirectory notebookdirectory export v csv v csv open file notepad see would like see comma separated value like following recommendation thanks

@@ -1,0 +1,1 @@
+If we are updating a field in SQL and ALTER the row also. After giving the COMMIT command, the system is crashed. What will happen to the commands given, whether it will UPDATE and ALTER the table or not?

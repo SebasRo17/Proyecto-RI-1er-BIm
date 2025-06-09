@@ -1,0 +1,1 @@
+using following application working fine wondering better make malloc leave len result len char send result network

@@ -1,0 +1,1 @@
+I'm looking at the job market (as I imagine many are at the moment...) and I wanted to ask what the general consensus is on the skill levels required for "intermediate" or "junior" developers (PHP). For example, what tasks should an "intermediate" developer be able to handle - and what would you expect from a junior?

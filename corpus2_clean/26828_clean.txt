@@ -1,1 +1,0 @@
-maybe hard question maybe whoever know answer help lot starting working ca theory let suppose sequence n table f j n n j n n known function f let make simple f take value way find cellular automaton create table generalize approach demonstrated michael e answer question generate certain type nested array reference code presented following grid cellularautomaton

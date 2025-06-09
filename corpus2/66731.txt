@@ -1,0 +1,1 @@
+Does anyone know the testing activities carried out in an Object-Oriented development project that uses an incremental approach to development and delivery?

@@ -1,1 +1,0 @@
-I did some calculations and as result got a 2D graphic, but at the beginning of the work I used a constant parameter. What I want is to make a 3D graphic with this parameter as an axis, varying from 1 to 100. How to proceed?

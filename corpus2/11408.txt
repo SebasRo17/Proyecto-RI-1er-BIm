@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  How do I clear all user defined symbols? During package development things get messed up quite often. (especially when playing with notations) Is there a simple way to reset MMA from within a notebook (Maple has "Restart")?

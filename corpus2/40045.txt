@@ -1,1 +1,0 @@
-How can I get binomial coefficients in expansion of $(n x+i) (1+i x)^n+(n x-i) (1-i x)^n$, where $i=\sqrt{-1}$ and $n$ is an integer. I have no idea how to coax Mathematica to do something remotely close to this without doing a lot of copying and pasting as if I was doing it by hand. If possible, I like the coefficients given in binomial notation.

@@ -1,0 +1,1 @@
+I read and studied a lot of computer science and engineering and I rarely or never seen a book about debugging or a theory how to debug (though I surely developed some debugging theories of my own). Are there any debugging theories and/or books? Why / why not? I can read how to debug using gdb and some of the most useful info about development I got from reading how to use gdb.

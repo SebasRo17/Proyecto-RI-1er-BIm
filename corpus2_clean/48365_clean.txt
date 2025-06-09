@@ -1,1 +1,0 @@
-trying write function take tuples tuple contains two list first divided result list want take mean column two step divide mean however would like put one line tried couple different thing smilar mean divide problem mean applied entire list rather one level inside give desired output desired put

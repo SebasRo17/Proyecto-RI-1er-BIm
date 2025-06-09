@@ -1,0 +1,1 @@
+There is this question ( which is now closed as _not constructive_ ) that asked about the average productivity per day. My question is, is there any scientific study on the productivity of programmers? I can't help but feel that doing 8 hours of quality programming work from Monday to Friday consistently is very hard. And if yes, is there any literature that investigates this?

@@ -1,0 +1,1 @@
+getting started functional programming wondering correct way comment seems little redundant comment short name signature already tell everything need know commenting larger function also seems little redundant since generally comprised smaller self descriptive function correct way comment functional program use approach iterative programming

@@ -1,1 +1,0 @@
-I have a function `doSomethingComplicated[...]` that takes about 10s on average to evaluate. My list, `listOfArgs` has about 10000 elements. I'd like to monitor the progress of `Map[doSomethingComplicated, listOfArgs]` without having it ever occupying a big area of the screen. What's best way to do that?

@@ -1,0 +1,1 @@
+For instance if I had only ASCII characters and then switched to Unicode now I have to consider special characters, and bigger strings or chars. What else along these lines should I be considering? I'm assuming a Unicode string contains special characters as well, but other than that, what am I missing?

@@ -1,1 +1,0 @@
-When should I use `<<` vs `Needs`? I just always use `Needs` as `<<` seems less safe. I tried to find the answer in the documentation, but all it really seems to say is that `Needs` uses `Get`. My understanding is that `Needs` will only do the import once, whereas `Get` will happily do it again. So is this just a style issue? Or are there reasons to use one or the other?

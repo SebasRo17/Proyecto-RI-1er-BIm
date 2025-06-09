@@ -1,1 +1,0 @@
-What I would like to do is to find a way to test how many ways `m` **distinct** integers from the set `{1,..., n}` where `n ≥ m` can sum to a given integer `K`?

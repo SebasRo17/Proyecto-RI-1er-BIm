@@ -1,0 +1,1 @@
+I am a .NET developer and I just had the chance to play with Ruby on Rails this weekend. In .NET we separate layers of the application by creating separate class library projects. From the design pattern standpoint, do we have to do that in Rails too or is it just one whole project with everything in it?

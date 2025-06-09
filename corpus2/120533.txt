@@ -1,0 +1,1 @@
+Is PHP suitable for downloading large amounts of data, usually via cron? Should I worry about the memory footprint when I am using PHP for downloading multiple zip files?

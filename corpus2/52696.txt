@@ -1,0 +1,1 @@
+I am a an engineering student and I want to learn more about systems programming . I wanted to know the various open source projects that I have as options to learn from about the same. The Linux Kernel Project is very stable and has a very large code base.I wanted to know about projects that would not take much time to get boot strapped and start contributing. Thanks

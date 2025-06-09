@@ -1,1 +1,0 @@
-How do I make the normal line to a plane actually look perpendicular?               cc = Plot3D[2 x + y, {x, -2, 2}, {y, -2, 2}, PlotRange -> {-4, 4}]          bb = ParametricPlot3D[{2 t, t, -t}, {t, -1, 1}, PlotStyle -> Thick]          Show[cc, bb]      ![Mathematica graphics](http://i.stack.imgur.com/jzmwt.png) The line doesn't look even close to perpendicular to the plane.

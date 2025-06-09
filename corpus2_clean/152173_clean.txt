@@ -1,0 +1,1 @@
+recently working j slideshow rotates image using weighted average algorithm thankfully written weighted list script implement exact algorithm needed however documentation noted todos unit test like know one go unit testing algorithm case weighted average would create proof average accurate element randomness sample similar would helpful understanding

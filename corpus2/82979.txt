@@ -1,0 +1,1 @@
+I read an article recently which said that mock objects are often misunderstood and misused. Are there any clear mocking anti-patterns which I can look out for?

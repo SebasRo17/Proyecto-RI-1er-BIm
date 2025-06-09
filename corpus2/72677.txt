@@ -1,0 +1,1 @@
+Scrum's definition says that it should be done one story at a time. But, if the team is big enough (say 6+), there are some times where taking just one story is kind of questionable, and it is even more if there are several small stories. So, sometimes in the team I'm currently working with, we might tackle two stories more often than not. Is this a bad thing?

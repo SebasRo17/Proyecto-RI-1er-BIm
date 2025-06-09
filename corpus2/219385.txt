@@ -1,0 +1,1 @@
+As the question states: When implementing "SOA", is it a concept intended for communication between systems over a network or is it intended as a concept that operates within the language as a pattern?

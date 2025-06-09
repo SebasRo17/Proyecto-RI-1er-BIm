@@ -1,1 +1,0 @@
-I have no idea why, but suddenly all my evaluation with warnings like "sum does not converge" has begun to show up in a message box. Since always they appeared between In[] and Out[]? How do I make it act normally again?

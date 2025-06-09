@@ -1,1 +1,0 @@
-want column textcells button add extra textcell column button new line textcell text fontfamily time fontweight plain editable true editable false want first click make like column button new line textcell however edited text fontfamily time fontweight plain editable true textcell text fontfamily time fontweight plain editable true editable false

@@ -1,1 +1,0 @@
-command autocompletion simply use ctrk k use return tab choose completion want autocomplete local variable input ctrk k work return tab fail input variable name tried change behavior interface panel preference dialog option change know easy make return tab work local variable autocompletion

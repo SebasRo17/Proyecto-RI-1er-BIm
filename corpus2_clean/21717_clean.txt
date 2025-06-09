@@ -1,1 +1,0 @@
-array x z triple array dimension n x make scatterplot x value table sin co pi n pi listplot want color point according z value find creating series disk putting graphic take absolutely formatting yet see leverage listplot option colorfunction achieve goal would suggest

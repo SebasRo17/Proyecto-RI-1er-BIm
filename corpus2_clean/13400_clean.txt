@@ -1,1 +1,0 @@
-equation x cdot log dfrac x x cdot log frac x x cdot log sqrt dfrac x x two solution x namely tried reduce x log x x log x x log sqrt x x x solve x log x x log x x log sqrt x x x could get two solution tell mathematica

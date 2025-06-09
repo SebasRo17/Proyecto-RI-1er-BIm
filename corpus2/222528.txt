@@ -1,0 +1,1 @@
+Which one is considered better:   * having a directive that interacts with services directly or   * having a directive that exposes certain hooks to which controller may bind behaviour (involving services)?

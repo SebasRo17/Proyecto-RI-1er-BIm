@@ -1,0 +1,1 @@
+It seems that NoSQL concept not something very new and innovative, but these days become very popular. Why it become popular recently but not happen in the time when SQL is very popular?

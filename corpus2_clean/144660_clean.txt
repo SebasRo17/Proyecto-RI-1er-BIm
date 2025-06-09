@@ -1,0 +1,1 @@
+many user interface library concept view subviews according mvc pattern every view update model soon change view reference model calculation model also passed part model pertaining passed say take certain action separate controller action handled parent view controller

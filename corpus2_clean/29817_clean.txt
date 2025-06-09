@@ -1,1 +1,0 @@
-documentation string state string preserve internal formatting try perform manipulation string example take word left get shard internal representation instead understandable stringtake nstyl question possible write function strip formatting color font style size etc string return plain text

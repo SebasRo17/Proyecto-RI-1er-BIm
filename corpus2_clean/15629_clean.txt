@@ -1,1 +1,0 @@
-mathematica built function convert iso formatted date string e g date list iso string come variety format date alone combined date time combined date time time zone top individual component omitted see wiki page looking solution cover whole iso standard

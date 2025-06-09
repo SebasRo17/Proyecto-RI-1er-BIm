@@ -1,1 +1,0 @@
-I have a `For` loop (with `i` as a counter), which calculates different values (`y1`, `y2`, `y3`,...) as a function of the variable `x`. How can I create a table/matrix which contains `i` lines, each line containing the variable `x_i` and the values (`y1_i`, `y2_i`, `y3_i`,...)?

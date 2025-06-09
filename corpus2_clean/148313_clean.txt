@@ -1,0 +1,1 @@
+typically implement graph doubly linked list fairly space inefficient experience need k pointer reference k neighbor undirected graph 2k neighbor link within list math right better way saving space know link made singular graph directed way better job

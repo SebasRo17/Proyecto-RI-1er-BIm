@@ -1,0 +1,1 @@
+I am interested in taking this online course on machine learning. As it stands my math is very elementary, and I am basically learning math from scratch on khan academy. Programming-wise I have a decent amount of experience, and a good overall understanding. My question is, what math skills are required for me to be able to effectively understand and utilize machine learning?

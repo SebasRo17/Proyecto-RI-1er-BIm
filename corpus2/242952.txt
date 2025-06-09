@@ -1,0 +1,1 @@
+I'm liking Swift, a lot. But making an iOS or OSX native app isn't totally what I would want to do with it. Is it possible for Swift to be used in other contexts? Like say a web application that runs on a linux server? Or perhaps Arduino micro-controllers? Or is it locked up in the Apple ecosystem?

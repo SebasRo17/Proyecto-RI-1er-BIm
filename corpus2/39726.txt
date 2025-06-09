@@ -1,1 +1,0 @@
-Suppose a data array of the form `{{x1,y1,z1},{x2,y2,z2}...}`, is it possible to use `ListPlot` where x,y specify the point position and z (Hue[z]) specify the color of each point?

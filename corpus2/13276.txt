@@ -1,1 +1,0 @@
-By giving a cell the simple option `CellOpen -> False`, it can be hidden from view. But for inline cells (cell within a cell) this does not work. An option `Visible -> False` only seems to exist for notebooks, not for cells. What to do?

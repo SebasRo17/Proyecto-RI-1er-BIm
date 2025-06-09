@@ -1,1 +1,0 @@
-want use mincut function graphutilities package find minimum cut graph completely new mathematica took look documentation function tutorial need graphutilities g c mincut g second line getting output representing cut set plot output determine figure size cut bigger graph feasible hence question easily count size cut number edge two set e number crossing edge

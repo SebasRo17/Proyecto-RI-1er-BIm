@@ -1,1 +1,0 @@
-I want to combine two plots which are in two regions. For an example, I want to plot following two figures in the same plot.               a = Plot[Cos[x], {x, 0, 60}]     b = Plot[Sin[x], {x, 60, 90}]      Could anyone please tell me how to do this without using Piecewise function?

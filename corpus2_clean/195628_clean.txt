@@ -1,0 +1,1 @@
+assume negative testing approach design test case equivalence partitioning sure nt part et example field accept numeric range num num three partition num num num num another invalid partition would represent letter also negative testing

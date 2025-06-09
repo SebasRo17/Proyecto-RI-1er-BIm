@@ -1,0 +1,1 @@
+It's unclear to me what the format is, if there's systematic/command-line requirements for creating it, etc. Basically, just to need to know the specs, and if there's technical steps for generating the README file.

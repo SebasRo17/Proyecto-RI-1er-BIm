@@ -1,0 +1,1 @@
+So I need to code a simple program, and I need to define 2D coordinates? Is there any coordinate system I can use in Fortran? I was told it might have to be all in arrays? And if so, can anybody push me in the right direction as to how to set up 2d arrays? Many thanks.

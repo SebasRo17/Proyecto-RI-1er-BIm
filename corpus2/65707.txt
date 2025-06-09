@@ -1,0 +1,1 @@
+Several people have suggested Ruby Koans to me over just following a book, and this seems like a much better prospect. As there is no question regarding the entirety of Ruby Koans, what do SO users think about it? Is it mostly just syntax, or can one learn much more from solving them? :)

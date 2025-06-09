@@ -1,1 +1,0 @@
-got picture juliaset image resolution x left pixel x value right pixel x value go value trying load image mathematica get right scale inside graphic environment tried using inset like julia import graphic blue rectangle inset julia center center plotrange ax true axesstyle orange still give little blue border around side giving impression centered properly better way

@@ -1,1 +1,1 @@
-find list l position element satisfying boolean function f example pick first element equal minimized version aswer short code welcome
+newbie programmer recently started learning exception handling know try catch finally block really need understand use well handle something call stack project right involves handling exception lowest possible call stack sure exception handling improved asking guy think exception handling guy get good better wrap head around idea

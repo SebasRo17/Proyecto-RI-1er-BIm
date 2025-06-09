@@ -1,1 +1,0 @@
-Does _Mathematica_ provide any way to compare two symbolic expressions and find which is the greatest? For example, I want to find which is the greatest of `(n - 1) + 2(n - 1) Log[2, n]` or `n(n - 1)/2`, where `n` is a variable.

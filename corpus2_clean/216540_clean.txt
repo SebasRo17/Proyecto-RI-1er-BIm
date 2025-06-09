@@ -1,0 +1,1 @@
+searching definition handler basic understood handler piece called something happens usually take action like generating response num handler trigger callback also specific event handler low level often work polling device waiting hardware response specific role handler make unique trigger callback handler similar role event handler file handler exception handler handler

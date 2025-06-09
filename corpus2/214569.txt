@@ -1,0 +1,1 @@
+I read much about GPL license. But it couldn't clear my doubt. I want to develop a small web application using ExtJs because of its features. I won't use much of it. But some features are very good. Now, as my understanding I think I can give this app to my friend for free for his business needs, right? Or should I take commercial license for ExtJs?

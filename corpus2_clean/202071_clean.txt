@@ -1,0 +1,1 @@
+refactor node public node parent get set avlnode public avlnode parent get set tried use inheritance use casting avlnode node program avlnode new avlnode avlnode b parent avlnode

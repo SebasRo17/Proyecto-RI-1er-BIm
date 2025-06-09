@@ -1,0 +1,1 @@
+review came across something odd never seen developer decided create sub namespace contain assembly exception thought read explicitly good use namespaces exception kept lowest namespace thrown found anything msdn anywhere else matter time seems odd come across framework third party library used guideline exist would push away keeping exception exception sub namespace

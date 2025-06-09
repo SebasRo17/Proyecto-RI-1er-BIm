@@ -1,1 +1,0 @@
-I'm trying to find data on the heliocentric velocities of planets in our solar system and was directed to _Mathematica_ 's `AstronomicalData` in a previous topic. Unfortunately I cannot find any x,y and z velocity components and was hoping someone might be able to point me in the right direction.

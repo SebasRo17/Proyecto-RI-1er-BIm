@@ -1,0 +1,1 @@
+interview asked implement random generator without using existing random number library take argument n return random number num n implementation provided public static random n r num num n r helper r helper return num num private static helper long system nanotime num num num else num said right tell expecting say wrong would done differently

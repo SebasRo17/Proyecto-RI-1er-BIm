@@ -1,1 +1,0 @@
-input following data table randomreal randomreal model linearmodelfit data x x got something weird fittedmodel x anyone know x mean

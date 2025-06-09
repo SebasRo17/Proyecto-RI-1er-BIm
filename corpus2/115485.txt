@@ -1,0 +1,1 @@
+When creating a system like an AI, which can take many different paths very quickly, or really any algorithm that has several different inputs, the possible result set can contain a large number of permutations. What approach should one take to use TDD when creating a system that outputs many, many different permutations of results?

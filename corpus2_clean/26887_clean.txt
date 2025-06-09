@@ -1,1 +1,0 @@
-looking simple mathematica code model hmm state equal number observable signal emission hoping generate sample path keep track posterior probability system given state help would appreciated

@@ -1,0 +1,1 @@
+recently started learning c people according reading struggling pointer traditional sense understand used useful however understand incrementing pointer would useful anyone provide explanation incrementing pointer useful concept idiomatic c question came started reading book tour c bjarne stroustrup recommended book quite familiar guy reddit told would good book

@@ -1,0 +1,1 @@
+I have an array of dimension 5. But, I can't figure out how to visualize that array?               int[][][][][] array = new int[4][4][4][6][2].      Is there a good way to visualize arrays with dimension counts of 3 or more?

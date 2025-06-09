@@ -1,1 +1,0 @@
-I'm constructing a graph using GraphPlot and I want some vertices to have a different size than others, like this:               GraphPlot[{1 -> 2, 2 -> 3}, VertexSize -> {{1, 3} -> Medium}]      However this gives errors. How do I set sizes of individual nodes?

@@ -1,0 +1,1 @@
+learnt column table get result using join query decide max number column table feasible join operation many table involved join operation hurt performance define column one table get rid join operation found many developer telling better extra column needed frequently database operation multiple table

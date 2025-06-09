@@ -1,0 +1,1 @@
+new web app going allow social login twitter maybe facebook google search best way actually using rail devise problem ask user choose password login without social network maybe user able set password want example editing account second way seems best one since twitter provide user email google provide username probably ask user username email log case may also ask password think

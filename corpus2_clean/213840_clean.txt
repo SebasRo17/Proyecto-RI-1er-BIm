@@ -1,0 +1,1 @@
+preparing first technical interview month question implementing common structure like stack linked list plan interview either sure one use yet practicing tried implement stack using already built list however list already stack method still work array used implement stack asked implement stack language choice define node would even asked implement low level structure anyway

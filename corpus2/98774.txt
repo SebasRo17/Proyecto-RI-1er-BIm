@@ -1,0 +1,1 @@
+Suppose someone writes some code, and publishes it as open source under the GPL. Later they decide to close source their application and put it for sale. Is that in violation of the GPL? All code in the closed source app was written by the said author. Since he "owns" the code, I would think he can choose to re-license it however he wishes. Is that right?

@@ -1,0 +1,1 @@
+say creates list object want iterator iter list list motivation returning iterator would keep interface smaller kind container create collect object essentially implementation detail hand would wasteful user may recreate container iterator would bad performance

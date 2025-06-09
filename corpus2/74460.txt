@@ -1,0 +1,1 @@
+Why has Ubuntu committed to a 6-month release cycle? Why should it have a fixed cycle at all? Doesn't that go against the "if it ain't broken don't fix it" saying?

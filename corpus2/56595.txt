@@ -1,1 +1,0 @@
-I want to generate an approximation function that fits a curve to points. My goal is to obtain an actual formula. Is this possible with the BSpline function? Using the following code: `pts = {{1, 1}, {2, 3}, {3, -1}, {4, 1}, {5, 0}}; f = BSplineFunction[pts]`, the PiecewiseExpand command does not work. Is there another way to obtain the formula?

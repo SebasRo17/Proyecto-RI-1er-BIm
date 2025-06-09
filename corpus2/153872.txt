@@ -1,0 +1,1 @@
+How would you call a library which generates a JSON-req to a REST-API so that you just work on object-level for creating a request? Many company wants to define it as an SDK, but is it a suitable definition for this simple task?

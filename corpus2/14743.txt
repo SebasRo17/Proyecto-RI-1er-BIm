@@ -1,1 +1,0 @@
-I am quite new to mathematica and I am searching for a way to create a smooth colormap based on the samples given by http://colorbrewer2.org/ . Is it possible to create a interpolated function from those sample points?!

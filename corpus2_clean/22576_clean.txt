@@ -1,1 +1,0 @@
-dynamic graph change depending current selection drop box selection drop box give fine result except one one selection show axis scientific notation understand due value large want happen also specify axis value manually need use frameticks automatic functionality way stop axis tick displaying scientific notation enter image description

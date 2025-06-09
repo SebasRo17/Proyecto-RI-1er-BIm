@@ -1,1 +1,0 @@
-If a user hits Control-C when a script is running, they get an `Interrupt>` prompt, where they have to type `exit` or `quit` to return to the shell. I'd like to have the interpreter exit immediately when Control-C is hit. To this end, I'd like to catch the interrupt and run `Exit`. Is there a way to do this? Or is there a better option?

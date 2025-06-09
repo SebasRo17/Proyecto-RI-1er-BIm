@@ -1,0 +1,1 @@
+open source project want fork reason currently git mirror svn repository use best technique forking project whilst still maintaining ability merge future change original project forked repository using git please note using github development using feature question project hosted private vps

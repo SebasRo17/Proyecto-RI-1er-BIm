@@ -1,0 +1,1 @@
+due test driven development one end many class one thing quite headache see class would placed inside folder structure first considered bad pattern put related class file suggestion one us actual production environment

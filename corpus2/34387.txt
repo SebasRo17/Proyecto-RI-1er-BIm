@@ -1,1 +1,0 @@
-I can't seem to solve the general quadratic equation:                Solve[ax^2 + bx + c == 0, x]           Out[299]= {}      It just outputs the empty list. How do I solve this equation?

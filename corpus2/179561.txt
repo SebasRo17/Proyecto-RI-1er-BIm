@@ -1,0 +1,1 @@
+I own a .co.uk domain, and I whenever I've dealt with Java-style package naming, I've gone with `uk.co.domainname`. Once I encountered package that did the following: `co.uk.domainname`. Is one of these right, or is it something that's up to the developer's discretion? Is there some sort of convention that deals with this?

@@ -1,1 +1,0 @@
-Is there a way to combine logarithm terms like               9 m Log[m]-9 m Log[M]+16 m M Log[m]-16 m M Log[M]      into               9 m Log[m/M] + 16 m M Log[m/M]      ? I've tried using normal replacement rules (rule=a1_ Log[a2_]-a1_ Log[a3_]->a1_ Log[a2/a3] for example) but this doesn't seem to work when the logarithms are multiplied by an integer. Thanks

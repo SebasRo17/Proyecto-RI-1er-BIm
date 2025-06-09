@@ -1,0 +1,1 @@
+number b num c b num c hex sure assumed numeric base others although assume base num since explicitly state base may may relevant dealing memory address pointer part failing understand num num give 0x4 edit clarity address1 pointer address printf test1 p n address1 printf test2 p n address1 num num printf test3 p n address1 num num test1 test2 test3

@@ -1,0 +1,1 @@
+two tree structure made c give response range query point query program using ubuntu need help understanding way compare performance two structure answering query program external memory searched lot internet find clear idea done know measure disk memory consumption cpu usage etc using ubuntu command need accurate professional way

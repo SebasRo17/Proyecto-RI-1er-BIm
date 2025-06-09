@@ -1,1 +1,0 @@
-I'm using `FindFit[]` to fit a function to some experimental data. I'd like to know what error bars are on the fitted parameters. Scipy's `curve_fit()` returns the optimised parameters along with their covariance matrix - is there anything equivalent for Mathematica? As far as I can tell, there's no mention of it in the documentation.

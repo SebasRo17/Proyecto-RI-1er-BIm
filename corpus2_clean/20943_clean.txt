@@ -1,1 +1,0 @@
-simple way save output regionplot avoid evaluating notebook opened show used display plot evaluation take excess min run time

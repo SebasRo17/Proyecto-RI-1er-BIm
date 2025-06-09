@@ -1,0 +1,1 @@
+consider case of following collisions with plurals: `publisher_tree` instead of `publishers_tree` (genitive) which will be for plural (e.g container/list) the same `publishers_tree`. For me english is foreign language so I will appreciate the hints for good practice in naming.

@@ -1,1 +1,0 @@
-Imagine I have two list:               List1 = {0, 1, 0.6, 0.5, 1.2, 0.4};     List2 = {"a","b","c","d","e","f"};      How can I use Pick to return a third list consisting of items in List2 that have a array position corresponding to an array position with a value $\leq N$ in the first list? Here, for example, for $N = 0.5$ we should have:               List3 = {"a", "d", "f"}

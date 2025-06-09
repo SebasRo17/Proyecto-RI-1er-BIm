@@ -1,0 +1,1 @@
+c objective c c similar oop language use static method var instead going singleton syntax deal various scenario

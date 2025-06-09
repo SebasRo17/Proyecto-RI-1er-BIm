@@ -1,0 +1,1 @@
+I am learning how to make responsive layouts for sites and web applications. It's said we need to use media queries to find out the width(resolution) and then select the layout(wireframe) for that screen. I would like to know how many layouts(wireframe) should I make for?   Please advice as per your experience. For example:   * 960x    * 480x    * 800x

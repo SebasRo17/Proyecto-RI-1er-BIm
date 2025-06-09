@@ -1,0 +1,1 @@
+first started working mainframe assembler programmer showed swap value without using traditional algorithm b temp b b temp used swap two value bit large buffer b xor b b b xor xor b b swapped content num object without need third temp holding space question xor swap algorithm still use still applicable

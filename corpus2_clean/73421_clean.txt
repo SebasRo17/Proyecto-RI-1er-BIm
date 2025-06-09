@@ -1,0 +1,1 @@
+instance ascii character switched unicode consider special character bigger string char else along line considering assuming unicode contains special character well missing

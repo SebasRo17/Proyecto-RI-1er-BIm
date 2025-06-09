@@ -1,1 +1,0 @@
-would like display number like fixed width form xx xxxx seems like perfect job numberform numberpadding return one extra leading zero reducing number digit fix numberform numberpadding least one copy left numberpadding always added even make total number digit exceed n desired total number digit

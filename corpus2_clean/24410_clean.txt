@@ -1,1 +1,0 @@
-want achieve something like manipulate plot sin x x r plotrange r function place sin expensive function since want change plot range need recalculate value every time try p plot sin x x manipulate show p plotrange r r plot ax changing change r possible manipulate plot range plot fixed ax without reevaluate every time

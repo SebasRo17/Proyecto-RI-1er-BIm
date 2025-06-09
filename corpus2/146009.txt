@@ -1,0 +1,1 @@
+Is there a language that is capable of developing apps to cross platform OSs (win,*nix) and mobile apps (IOS, android) .. I'm a pro web developer but want to explore more environment to deploy my code into... Python ? Ruby ?

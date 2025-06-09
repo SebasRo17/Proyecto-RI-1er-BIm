@@ -1,0 +1,1 @@
+consider typical kanban board analysis dev ready development build ready test release ready specify wip limit column formula

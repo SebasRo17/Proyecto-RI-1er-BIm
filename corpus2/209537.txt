@@ -1,0 +1,1 @@
+I 'm just learning to give project versions. I understand writing details about the changes in my project when committing, but where should I put my version number for my project?

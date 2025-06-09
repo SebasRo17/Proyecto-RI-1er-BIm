@@ -1,0 +1,1 @@
+I was wondering what advantages the ontology languages of RDFS/OWL has over using a tagging/markup system (such as http://www.schema.org/) for managing and creating metadata?

@@ -1,1 +1,0 @@
-Is it possible to have two sets of labels for the $x$-axis tick marks using `ListPlot`? For example, could we have tick marks labels: {1,2,3,4,...}, and then right below these labels, the values for the powers of two: {2,4,8,16,...}?

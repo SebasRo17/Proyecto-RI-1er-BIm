@@ -1,1 +1,0 @@
-convert string containing hex number b hex digit mathematica use math tried using toexpression b give another string note java biginteger class construct hex integer string something like mathematica

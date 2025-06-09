@@ -1,0 +1,1 @@
+I want to obfuscate all the webpages of my website. I Googled through some free tools like HTML and Javascript obfuscation but don't know how effective they are. First of all, does it makes sense to obfuscate a webpage that could comprise of variety of codes like Javascript, PHP etc. Secondly, how effective is this method and please recommend some free nice tools.

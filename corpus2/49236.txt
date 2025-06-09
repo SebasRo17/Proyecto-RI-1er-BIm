@@ -1,1 +1,0 @@
-Does anyone know if there is an option or function that can automatically format the output of `ANOVATable` and `ParameterTable`, but without using the `Grid` function ?

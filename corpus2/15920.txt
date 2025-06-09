@@ -1,1 +1,0 @@
-I want $\left\\{\frac{1}{1+\sqrt{2}-\sqrt{3}},\sqrt{5-2 \sqrt{6}},\sqrt{4+\sqrt{15}}\right\\}$ to be simplified to $\left\\{\frac{1}{4} \left(2+\sqrt{2}+\sqrt{6}\right), \sqrt{3}-\sqrt{2}, \frac{1}{2} \left(\sqrt{6}+\sqrt{10}\right)\right\\}$ But I haven't been able to get that result with Mathematica. How could I get it?

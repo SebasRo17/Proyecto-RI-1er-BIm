@@ -1,1 +1,0 @@
-How can one simplify an expression by assuming that one of the variables is equal to zero? For instance, while `Simplify[%,a>0]` gives the desired output, `Simplify[%,a=0]` produces the following error:               $Assumptions::bass: 0 is not a well-formed assumption. >>

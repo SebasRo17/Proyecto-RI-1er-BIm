@@ -1,1 +1,0 @@
-I am looking through a journal and I came across a function that I wanted to convert to its differential version using Mathematica. ![enter image description here](http://i.stack.imgur.com/MoElN.png) Would anyone be able to get the differential version by using mathematica?

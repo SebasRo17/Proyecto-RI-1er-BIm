@@ -1,1 +1,0 @@
-I am making a program in Mathematica that uses the Robot class of Java and some other Mathematica functions. I want the end product to be a standalone executable that can run even if a computer does not have Mathematica. Is this possible, and how so? Would CDFPlayer work, or is there some other way?

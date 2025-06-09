@@ -1,0 +1,1 @@
+Say you don't have a debugger available, what would be an effective approach to debug code which doesn't work (as expected)?

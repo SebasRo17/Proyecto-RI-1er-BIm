@@ -1,0 +1,1 @@
+problem understanding functionality ii per example want know use add application add virtual directory add website currently around num website located wwwroot directory automatically appear site ii best approach

@@ -1,1 +1,0 @@
-working complex question asks determine function map complement region z z le cup z z le onto upper half plane f must map region c backslash onto upper half plane proposed answer f z e pi z z code function region c backslash f function z exp pi z z regionplot x x x someone little time could maybe provide easy way shading image region c backslash function f

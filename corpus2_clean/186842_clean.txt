@@ -1,0 +1,1 @@
+according wikipedia article spurious thread might waiting state even though thread signaled condition know feature never knew actually caused article spurious may sound strange multiprocessor system making condition wakeup completely predictable might substantially slow condition operation sound like bug worth fixing right

@@ -1,1 +1,0 @@
-appears combinatorics book n n n n recurrence equation number rook walk n initial condition following implementation mathematica recurrencetable n n n n n work return function tried entering initial condition changing iterators etc know loop recursive function memoization wondering wrong recurrencetable

@@ -1,1 +1,0 @@
-non numerical data let say data table randomchoice b c e want make histogram data solution far datanew data label sort deleteduplicates data datanew replaceall datanew label length label histogram datanew tick none automatic chartlabels none placed label better way thank

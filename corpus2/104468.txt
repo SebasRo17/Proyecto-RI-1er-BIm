@@ -1,0 +1,1 @@
+The naming convention for a term like `doSomething` is camel case. What would the naming convention of `do-something` be called?

@@ -1,0 +1,1 @@
+seems immediate problem starting develop common lisp choosing implementation one take account much weight bear considering cl implementation conform ansi standard supported slime certain implementation lack good library documentation etc

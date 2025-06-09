@@ -1,0 +1,1 @@
+I've used TestNG and JUnit. What other frameworks are out there? What makes them special and/or different from the rest?

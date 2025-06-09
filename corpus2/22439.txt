@@ -1,1 +1,0 @@
-Plot[Tooltip@{1.` k^2, 1.2` k^2, 1.4` k^2, 1.6` k^2, 1.8` k^2, 2.` k^2}, {k, -2, 2}]      gives ![enter image description here](http://i.stack.imgur.com/J0yJs.jpg) But why does               Plot[Tooltip@Evaluate@Table[a k^2, {a, 1, 2, 0.2}], {k, -2, 2}]      give ![enter image description here](http://i.stack.imgur.com/rt6Lf.jpg) with no color difference?

@@ -1,1 +1,0 @@
-suppose list symbol like b c would like enumerate possible binary association combining symbol sublists pairwise b c b c b c b c b c altogether solution example question enumerate association generic list tried replacelist b c u v w x u v w x work first layer

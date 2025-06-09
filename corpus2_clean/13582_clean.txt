@@ -1,1 +1,0 @@
-trying export data format excel work ok column size get properly adjusted want use complicated solution based example test tried code like data column column data style bold red fontsize data export data xlsx data formatteddata get result enter image description need something like enter image description clue

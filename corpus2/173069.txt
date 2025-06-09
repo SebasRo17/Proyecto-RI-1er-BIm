@@ -1,0 +1,1 @@
+I am looking to understand how recording video (and audio) and playing it back in realtime work (on the same pc or over a network)? I understand for a file stored on the disk. You read it and play it back but in recoding, you don't know how long the file is, when it will end etc. Can someone explain it, preferably using some code (or psudocode)? Thanks

@@ -1,1 +1,0 @@
-Here is the Problem how to find out the Saddle Point inside Matrix.               m = {{9, 3, 1, 8, 0},       {6, 5, 4, 6, 7},       {2, 4, 4, 3, 8},       {5, 6, 2, 2, 1}}

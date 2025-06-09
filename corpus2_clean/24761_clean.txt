@@ -1,1 +1,0 @@
-tried calculate following integral returned unevaluated integrate besselj x besseljzero x x infinity infinity integrate besselj x besseljzero x x infinity infinity idea make mathematica calculate

@@ -1,1 +1,0 @@
-trying plot function piecewise defined found fourier coefficient question define even odd condition piecewise command used n n even odd respectively suffice mwe clear f b f f piecewise sqrt exp sin k piecewise k pi k k pi k b k piecewise k pi k k pi k pi k f sum k co k pi b k sin k pi k plot f f mathematica graphic

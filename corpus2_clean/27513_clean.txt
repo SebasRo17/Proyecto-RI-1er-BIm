@@ -1,1 +1,1 @@
-runnig code building odbc connection access application named wpc need databaselink opensqlconnection jdbc odbc wpc get message jdbc error microsoft odbc driver manager specified dsn contains architecture mismatch driver application using microsoft access bit window bit built odbc odbcad one idea problem solution
+today testing much like yesterday testing service distributed system automation want kind tester self starter constantly work job writing test good interview question modern software tester

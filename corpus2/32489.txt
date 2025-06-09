@@ -1,1 +1,0 @@
-Anyone in possesion of the package develop by Todd Gayley to interact with the AR.Drone? Haven't been able to find it anywhere... Referring to this video: http://www.wolfram.com/broadcast/video.php?channel=104/?fp=left&video=1371&sortBy=title

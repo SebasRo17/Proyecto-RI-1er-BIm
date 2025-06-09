@@ -1,1 +1,0 @@
-function result return point f x max x subscript rp min minimize f x x x x use point x input

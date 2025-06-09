@@ -1,1 +1,0 @@
-define function mathematica act cell mat command matlab example matlab c cell mat c output

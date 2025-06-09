@@ -1,0 +1,1 @@
+One of the projects I work on is measured by number of issues. Management has given arbitrary (as far as I can tell) measurements that we need to have no more than X number of bugs and Y number of features in our issue tracking system. This seems like a misguided approach, but I can't seem to find any writings on the subject.

@@ -1,0 +1,1 @@
+Do Android/iPhone Apps use AJAX to interact with the backend? If yes, is this common? Or do most apps use a different method for fetching database information. And if so, what other methods are there? Are server-side languages ever involved, and if so, is that more common to see with app development?

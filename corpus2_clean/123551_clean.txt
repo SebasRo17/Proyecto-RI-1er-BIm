@@ -1,0 +1,1 @@
+thinking making generator managing subscription option couple different payment processing service something would use existing example thought generator thought might work like scaffold similar authentication nifty generator edit also seems lot security concern implementing payment processing consistent common way generate would let make sure best practice security followed apps

@@ -1,1 +1,0 @@
-In Mathematica 9 If I write:               f[x_] = (x - 1)/(x - 1)      I get               1      And if then I write:               f[1]       I get               1      But if I write:               (1 - 1)/(1 - 1)      I get:               Indeterminate      Why am I not getting **Indeterminate** for f[1] when f[x_] = (x - 1)/(x - 1) ? What am I doing wrong?

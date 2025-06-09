@@ -1,0 +1,1 @@
+best way automatically generate increment version number project github past always manually incremented version number manually via argparse library

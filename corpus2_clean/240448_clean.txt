@@ -1,0 +1,1 @@
+create template like template foo add b multiply b concatenate b template named ideally convention exist looking something similar like name must always start verb

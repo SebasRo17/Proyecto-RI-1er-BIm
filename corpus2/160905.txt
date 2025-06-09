@@ -1,0 +1,1 @@
+Every now and then I get or write some minimal code samples to achieve tasks. What's the usual practice for storing these samples (which could prove useful later on) ? Have a separate source folder or create a separate project ?

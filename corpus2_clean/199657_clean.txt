@@ -1,0 +1,1 @@
+writing specification project struggling separating functional specification technical specification see example trying specify behaviour user request list foo object visibility functional specification describe precisely returned e structure foo system return list put detail foo technical specification design api case make difference find many example api specification written

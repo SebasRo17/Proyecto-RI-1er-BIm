@@ -1,0 +1,1 @@
+I've read an article about Innodb performance optimization an in that post the author was repeatedly mentioning someting named a "battery back up cache". It is not clear for me what he was talking about and google did not help either. My guess is that this is some kind of backup storage in case there is a power outage. Am I right?

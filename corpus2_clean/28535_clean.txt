@@ -1,1 +1,0 @@
-set equation want simplify using list rule eqns transformation rule rule k k k k k k k k k k k k k k k k k k k derivative rule want simplify eqns free variable tried something like work l flatten table toexpression tostring tostring j j trans expr expr rule rule simplify eqns transformationfunctions automatic trans complexityfunction leafcount table freeq x x l

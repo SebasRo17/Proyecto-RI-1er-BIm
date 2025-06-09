@@ -1,0 +1,1 @@
+winrt really calling win32 wrapped com exposed net via proprietary extension c look like lot wrapper layer developer actual functionality anyone trying go stand chance profoundly understanding ecosystem last petzold

@@ -1,1 +1,0 @@
-mathematica introduced lot new geometry related function one ssstriangle creates triangle graphic given three side length possible however label side length achieve something like enter image description

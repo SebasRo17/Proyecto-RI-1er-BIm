@@ -1,0 +1,1 @@
+When I say Free Software I mean it in the FSF terms. Free as in Free Speech, not as in Free Beer. Why is it a good idea for programmers to use _and_ write Free Software?

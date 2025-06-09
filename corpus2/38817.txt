@@ -1,1 +1,0 @@
-I would like to learn Haskell using Mathematica's environment. I know there is the RLink protocol. Is there a similar protocol for Haskell?

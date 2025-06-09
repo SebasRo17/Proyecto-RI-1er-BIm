@@ -1,0 +1,1 @@
+I am looking for suggestion for a project in computer networks using C# as the development tool, as part of a university course I am taking. The project should last about a month, involving two people. I'll be happy to hear any intresting ideas you might have.

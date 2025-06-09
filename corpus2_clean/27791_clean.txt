@@ -1,1 +1,0 @@
-following plot command never terminate w pi vma v sin w v vmb v sin w pi v vmc v sin w pi v ia theta sin w theta ib theta sin w theta pi ic theta sin w theta pi theta v sign vma v vma v ia theta sign vmb v vmb v ib theta sign vmc v vmc v ic theta vc theta numericq v numericq nintegrate theta v plot vc theta v theta pi pi v

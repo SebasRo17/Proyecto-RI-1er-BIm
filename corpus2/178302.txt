@@ -1,0 +1,1 @@
+I tried to evaluate a Clojure expression with nested shorthand functions today, and it wouldn't let me. The expression was:               (#(+ % (#(+ % (* % %)) %)) 5) ; sorry for the eye bleed      The output was:               IllegalStateException Nested #()s are not allowed  clojure.lang.LispReader$FnReader.invoke (LispReader.java:630)     ...and a bunch of other garbage

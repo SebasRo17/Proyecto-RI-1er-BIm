@@ -1,0 +1,1 @@
+could anyone give overview list structure composed head tail reference rest list e linked list represented memory computer computer make use cpu register hold pointer head rest list

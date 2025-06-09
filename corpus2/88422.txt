@@ -1,0 +1,1 @@
+In DDD i struggle to understand whether or not my domain is split correctly into aggregate roots and then those aggregate roots are grouped correctly into bounded contexts. is there a way - like a set of rules/guidance i can use to decide whether or not i am placing things in the right AR/BC

@@ -1,0 +1,1 @@
+In your experiences, what are some effective ways to introduce code kata practice into an organization or company? To be clear, I'm not concerned with the usefulness of code kata. I'm interested in methods to introduce this concept to a development team.

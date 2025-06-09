@@ -1,0 +1,1 @@
+It's happened to all of us. Maybe the original author is no longer with the company, or maybe the boss just doesn't trust him to fix it (Kernighan's Law). Either way, they gave it to you, and you ended up having to fix it. What was it like? What was the problem? How bad was the code, and what did you end up doing with it?

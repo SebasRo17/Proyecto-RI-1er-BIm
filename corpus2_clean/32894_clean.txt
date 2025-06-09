@@ -1,1 +1,0 @@
-way input multiple row text save variable like inputfield multiple row would like make simple text redactor could enter text use variable

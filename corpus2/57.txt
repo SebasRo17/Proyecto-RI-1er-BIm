@@ -1,0 +1,1 @@
+The coding standards for the code hosted in drupal.org suggest to use two spaces to indent the code; other sites suggest to use tabs to indent the code. What is the proper indentation character for everything, and in every situation? Please explain the answer you give.
