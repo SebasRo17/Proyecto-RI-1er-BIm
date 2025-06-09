@@ -1,9 +1,7 @@
 import { SearchResult } from '../types/SearchResult';
 
 /**
- * Consulta la API de búsqueda y devuelve los resultados sin procesar localmente.
- * Se espera que el backend devuelva objetos con al menos `doc_id` y `score`,
- * y opcionalmente `title`, `content` o fragmento si así se ha implementado.
+ * Consulta la API de búsqueda y devuelve los resultados directamente tipados como SearchResult.
  * 
  * @param query Consulta de búsqueda
  * @param topK Número máximo de resultados
@@ -27,11 +25,12 @@ export const buscarDocumentos = async (query: string, topK: number = 10): Promis
     const data = await response.json();
     console.log("Datos recibidos de la API:", data);  
 
-    // Mapear los resultados a la interfaz SearchResult
-    const resultados: SearchResult[] = data.results.map((item: { doc_id: string; score: number }) => ({
-      id: item.doc_id,
-      titulo: `Documento ${item.doc_id}`,
-      fragmento: `Score: ${item.score.toFixed(2)}`
+    // Retornar directamente los resultados si coinciden con la estructura esperada
+    const resultados: SearchResult[] = data.results.map((item: any) => ({
+      doc_id: item.doc_id,
+      score: item.score,
+      snippet: item.snippet || '',        // si no hay snippet, poner cadena vacía
+      full_text: item.full_text || ''     // opcionalmente incluir el texto completo
     }));
 
     return resultados;

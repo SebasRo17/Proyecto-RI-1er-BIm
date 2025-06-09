@@ -1,5 +1,7 @@
 export interface SearchResult {
-  id: string;
+  doc_id: string;
   titulo: string;
-  fragmento: string;
+  score: number;
+  snippet?: string;
+  full_text?: string;
 }

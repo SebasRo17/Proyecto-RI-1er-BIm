@@ -51,11 +51,18 @@ const SearchResults: React.FC<SearchResultsProps> = ({ results, isLoading, hasSe
       <div className="space-y-6">
         {safeResults.map((result) => (
           <div
-            key={result.id}
+            key={result.doc_id}
             className="p-6 bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow"
           >
-            <h3 className="text-lg font-semibold text-blue-700 mb-2">{result.titulo}</h3>
-            <p className="text-gray-700">{result.fragmento}</p>
+            <h3 className="text-lg font-semibold text-blue-700 mb-2">
+              Documento: {result.doc_id}
+            </h3>
+            <p className="text-sm text-gray-500">Score: {result.score.toFixed(2)}</p>
+
+            {/* Muestra el snippet si existe */}
+            {result.snippet && (
+              <p className="text-gray-700 italic mt-2">"...{result.snippet}..."</p>
+            )}
           </div>
         ))}
       </div>

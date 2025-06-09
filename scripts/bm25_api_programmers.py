@@ -52,6 +52,7 @@ class SearchResult(BaseModel):
     doc_id: str
     score: float
     snippet: Optional[str] = None
+    full_text: Optional[str] = None 
 
 class SearchResponse(BaseModel):
     query: str
@@ -195,7 +196,8 @@ def search(
         SearchResult(
             doc_id=document_ids[i],
             score=float(scores[i]),
-            snippet=get_snippet(docs_tokens[i], tokens)
+            snippet=get_snippet(docs_tokens[i], tokens),
+            full_text=docs_raw[i]
         )
         for i in sel
     ]
