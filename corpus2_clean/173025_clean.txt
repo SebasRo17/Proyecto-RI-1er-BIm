@@ -1,1 +1,0 @@
-suppose method convert x vice versa conversion may fail case exception used signal conversion error case would best option defining exception class context num single attribute e g enum specifying direction conversion e g num two derived class num class without common base

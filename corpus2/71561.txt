@@ -1,1 +1,0 @@
-Does Java license allow other companies to create their own versions of Java language or just implement it accurately? Same question about JVM. I heard about Sun suing Microsoft for changing their .NET version of Java implementation and Java for Google Android, but I just can't grasp the whole concept as a totality.

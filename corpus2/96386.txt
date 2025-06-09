@@ -1,1 +1,0 @@
-I sometimes see the term "Bootstrapper". I saw it last when creating some learning exercises for Prism. I stumbled upon `UnityBootstrapper` class. My question is: when would you call a class a "Bootstrapper"? Why? What does it say about the class?

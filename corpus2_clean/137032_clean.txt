@@ -1,1 +1,0 @@
-designing website web application hope achieve high user count general lot use specifically intend using php programming scripting language mysql relational db need start yet figured whether use nosql database related want design scalability mind common scalability pitfall website key area need take consideration system easily scalable

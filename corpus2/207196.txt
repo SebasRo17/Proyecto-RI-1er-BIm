@@ -1,1 +1,0 @@
-I read quite a few resources on the internet and now I am quite confused about the existence of pointers in Java. Some claim that there are pointers and some claim that there is no such concept. So what is the truth?

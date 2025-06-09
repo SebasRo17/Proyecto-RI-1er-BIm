@@ -1,1 +1,0 @@
-I have no time to code in MVC and jQuery, I just want this job to "get done", and honestly I like WebForms after 3 years of MVC programming. So my question is, technically, is it bad practice to choose ASP.NET WebForms over MVC ?

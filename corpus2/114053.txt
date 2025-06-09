@@ -1,1 +1,0 @@
-I'm currently working on my own project for an Android app, but then as time goes it feels like my app is concentrating more on another feature than what I had in mind when I first design the app. So I want to ask how we should know when our application is too complicated (for the user)? What should we do with it? Especially when we strongly think this new feature is important.

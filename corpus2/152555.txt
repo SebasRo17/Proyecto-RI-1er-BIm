@@ -1,1 +1,0 @@
-Our manager has asked for a report on on the number of lines of code in our software. What should we do?

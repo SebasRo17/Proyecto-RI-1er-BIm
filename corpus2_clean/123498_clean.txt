@@ -1,1 +1,0 @@
-reason using session variable besides keeping value longer current request instance advisable use session storing information file file system prevent one user writing file another user understand session sure properly implement

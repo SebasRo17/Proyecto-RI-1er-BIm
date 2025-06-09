@@ -1,0 +1,1 @@
+`ArcTan` really bothers me, so is there a way to make _Mathematica_ write `Logarithm` instead of `ArcTan`? What I'm after is some kind of a `ArcTan` to `Log` converter such as the following list from Wiki

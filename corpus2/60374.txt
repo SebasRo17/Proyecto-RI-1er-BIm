@@ -1,1 +1,0 @@
-Is functional programming so related to mathematics because much of the functional programming is depicted with mathematical notions? Is it a MUST to have a strong base of maths to learn & understand functional programming for a programmer with a imperative background?

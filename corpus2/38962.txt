@@ -1,0 +1,1 @@
+Does anyone knows how exactly `Prime` works ? For example how `Prime[1000000000]` is calculated ? The only information I found was some inequalities in Wolfram's Function site. Thank you.

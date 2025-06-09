@@ -1,1 +1,0 @@
-OO programming literature is full of design patterns. Most books on object oriented programming dedicate a chapter or two to design patterns like factories and decorators. So what are the equivalent patterns in functional languages and why hasn't anyone written a book about them yet? Is there something special about functional languages that obviates the need for design patterns?

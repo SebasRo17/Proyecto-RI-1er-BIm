@@ -1,0 +1,1 @@
+When solving an analytical expression, I need to take the `Log` of something. However, _Mathematica_ seems unable to reduce a simple Log of an exponential:               Log[E^x] // does not output 'x'      Why does this not work? Laurens

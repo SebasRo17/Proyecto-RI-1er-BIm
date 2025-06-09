@@ -1,1 +1,0 @@
-What are the most desired features currently lacking in any Python IDE tools? I'm also interested in what's missing in Komodo 6 but available in other tools (I currently use Komodo 6 for Python 3 under Windows). [I am asking for this to be made community wiki if appropriate.]

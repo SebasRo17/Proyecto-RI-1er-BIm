@@ -1,0 +1,1 @@
+So as to automate/customize plot titles I use `Row` inside e.g. FrameLabel:   `FrameLabel -> {"x", "y", Row[...]}` Now with Mathematica 9, the plot doesn't show the bit referring to Row. Does someone know how to fix this?

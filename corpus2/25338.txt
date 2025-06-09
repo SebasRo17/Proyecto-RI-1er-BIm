@@ -1,0 +1,1 @@
+Is there a command that takes an equation as an input and creates an output with a list of terms in the original equation? Something like:               Input: Foo[ (1+a) x+ (2.5-b) y^2+ 3 c z^{1.3}]          Output: { (1+a) x ,  (2.5-b) y^2 ,  3 c z^{1.3} }

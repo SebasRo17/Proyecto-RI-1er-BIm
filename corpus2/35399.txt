@@ -1,0 +1,1 @@
+I have a function that return a table consisting of a 2D points. These points are either {x,y} or {0,0}               function[]:=Module[{},(            If[condition,{x,y},{0,0}](*to avoid the Null as a return I inserted the default value {0,0}*)          )]      After this I want to delete the {0,0} points from the table and leave just the {x,y}. How can I do that?

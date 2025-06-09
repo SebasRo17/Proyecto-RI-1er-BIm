@@ -1,1 +1,0 @@
-web page num script tag contains minified javascript use net however see people prefer load script parallel using something like requirejs wondering better performance whether combining minifying javascript worth effort

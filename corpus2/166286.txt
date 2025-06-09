@@ -1,1 +1,0 @@
-While in the process of developing GUIs for my Java project, I am wondering if there is something that lets you visually design your GUI for Java and correspondently generates the needed code, just to speedup the task. I am using Eclipse, and I already tried Window Builder, but I'm not keen on the code it produces. Does anyone know some alternatives (possibly non-commercial)?

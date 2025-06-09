@@ -1,1 +1,0 @@
-codeigniter nice feature called profiler display information foot page information get memory post also show database query long took find useful recently taken legacy php application would help lot see table database queried php page library raw php application could produce something similar codeigniter profiler already using xdebug interested profiling database query

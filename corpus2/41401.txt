@@ -1,1 +1,0 @@
-when I develop a RCP application I always ask myself should I do it 'by hand' or should I use the XML configuration? Is it only a matter of taste, what benefits am I missing when I don't use the configuration approach. Is there anything to think of when converting an RCP app to e4 in the future? Thanks for sharing your thoughts! Thomas

@@ -1,1 +1,0 @@
-I'm a student at the University and I'm taking the Data Structures class. When learning linked lists and doubly linked lists, did you guys feel you learned a deeper understanding of pointers, dynamic memory allocation, and memory usage? I just created my first linked list(it was actually a doubly linked list) and it seemed to me like a real eye opener. Your thoughts?

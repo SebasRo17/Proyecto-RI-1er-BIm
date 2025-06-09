@@ -1,1 +1,0 @@
-Given how much simpler jQuery development is, when compared to native JavaScript, what makes people forgo libraries like jQuery altogether? Is this because jQuery has limitations or it is slow? I mean, if jQuery is so easy compared to native javascript, what reasons do people have to still use pure javascript?

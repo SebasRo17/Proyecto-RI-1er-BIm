@@ -1,1 +1,0 @@
-Is it OK if, within a team, developers use different flavors of SVN? Say one using Tortoise SVN and other using Versionsapp.com SVN?

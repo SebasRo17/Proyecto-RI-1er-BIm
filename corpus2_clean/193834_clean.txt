@@ -1,1 +1,0 @@
-suppose form web application user upload profile picture got requirement file size dimension etc user uploads image system suppose would need consistent also unique maybe guid jpg timestamp num jpg hash ex md5 jpg standard recommended way maybe asp net framework use

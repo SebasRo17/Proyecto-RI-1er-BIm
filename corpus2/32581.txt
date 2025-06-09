@@ -1,1 +1,0 @@
-If you had a colleague who didn't understand the benefits of Separation of Concerns, or didn't understand it quite enough to apply consistently in their daily work, how would you explain it to them?

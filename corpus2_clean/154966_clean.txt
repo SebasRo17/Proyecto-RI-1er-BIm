@@ -1,1 +1,0 @@
-entity framework create db schema generate orm class software reverse example create class relationship software generates database schema relevant primary foreign key relationship

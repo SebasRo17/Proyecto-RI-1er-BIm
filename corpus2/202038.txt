@@ -1,1 +1,0 @@
-Are there any benefits to removing unused references in a VS project (such as can be done using Resharper), or will VS automatically take care of that when building/deploying?

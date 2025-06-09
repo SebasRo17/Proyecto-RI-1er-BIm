@@ -1,1 +1,0 @@
-Should code quality metric evaluation tools like Sonar be integrated with IDE for running local analysis or should they be a part of the build process (like integrated with maven) for continuous inspection or should it be a combination of both? How can we leverage the power of such tools to the maximum extent possible?

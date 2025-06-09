@@ -1,1 +1,0 @@
-How is it possible that written a programming language like CoffeeScript in itself like CoffeeScript? Firstly CoffeeScript doesn't exist that read CoffeeScript scripts and interpret them?

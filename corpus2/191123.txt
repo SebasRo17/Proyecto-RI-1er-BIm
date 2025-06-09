@@ -1,1 +1,0 @@
-According to this GNU Project page, regarding Microsoft Public License (Ms- PL): > This is a free software license; it has a copyleft that is not strong, but > incompatible with the GNU GPL. They do not explain _why_ it is incompatible. I cannot find any satisfactory answers nor explanations via Google.

@@ -1,1 +1,0 @@
-What is the math to identify a gesture for the motion made by two fingers turning a knob (tracking two sets for xycoords)? Is there a library/api anyone is familiar with that contains a good library of gestures for multitouch applications?

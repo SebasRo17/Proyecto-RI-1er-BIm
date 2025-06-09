@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Whats the difference between a Software Architect, a Software Engineer, and > a Software Developer (Programmer)? I have had many discussions about the role of a software architect and did not reach a conclusion. So I decided to change the question. What the difference of Skills between a Dev Senior and a Software Architect?

@@ -1,1 +1,0 @@
-let say need add drop shadow behind box old platform support drop shadow fake putting image behind box pseudo currently handling fallback box black else box gaussianblur png right way handle seems amateur better design pattern actual project ton place need style user interface differently different operating system version one else

@@ -1,1 +1,0 @@
-Why is Swing preferred over AWT? Which Swing component could be used for playing a video on it?

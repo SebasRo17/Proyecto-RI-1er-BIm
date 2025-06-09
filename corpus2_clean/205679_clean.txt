@@ -1,1 +1,0 @@
-asn num format used http certificate various critical piece infrastructure need analyze potentially hostile asn num want ensure safe programmer think best way use managed language use unsafe managed implementation c asn num parser well tested safe buffer overflow even better way detect overflow begin

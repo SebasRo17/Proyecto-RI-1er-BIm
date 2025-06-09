@@ -1,1 +1,0 @@
-recently read lot nosql understand cap theorem acid rule base rule basic theory find resource nosql scalable easily rdbms e g case system requires lot db server guess keeping constraint foreign key cost resource dbms distributed lot complicated expect lot someone please explain nosql sql affect scalability

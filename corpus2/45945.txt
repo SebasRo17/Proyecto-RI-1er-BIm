@@ -1,0 +1,1 @@
+There are two basic operators `r={x,y,z}` and `p=-I*h*{D[#,x] , D[#,y], D[#,z]} &`. The angular momentum operator is defined as $\hat{\textbf L}=\hat{\textbf r}\times\hat{\textbf p}$. So how can I get `L` from `p` and `r` in mathematica? The first thing that comes to mind, `l=Cross[r,p]`, won't work. P.S. how could I define `p` in a better, more MMA-styled way?

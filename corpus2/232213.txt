@@ -1,1 +1,0 @@
-Should I always use `is` as prefix for boolean variables? What about booleans that indicate something in past? Should I write `isInitialized` or `wasInitialized`? Should I write for properties `IsManyMembers` or `HasManyMembers`? Is there any best practices? Or I should just write in accordance with English rules?

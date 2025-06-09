@@ -1,1 +1,1 @@
-I have this question since my friend told me that if we have frequent appraisal such as 4 months or 6 months once, people will be turned to a money minded. But I am thinking this in another aspect like, people will be getting feedback and boost quickly than one year appraisal. We do not need to increase the salary much. But the token advancement would help them to get some refreshment.
+Does anybody know if _Mathematica_ has an analogue of MATLAB's `ode45` command? I need to solve a second order coupled ODE system of equations.

@@ -1,1 +1,0 @@
-I have been learning C++ and I am having a hard time understanding null. In particular, the tutorials I have read mention doing a "null check", but I am not sure what that means or why it's necessary.   * What exactly is null?   * What does it mean to "check for null"?   * Do I always need to check for null? Any code examples would be much appreciated.

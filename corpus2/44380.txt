@@ -1,0 +1,1 @@
+I'm new to Mathematica and some of the filling stuff is confusing me. I don't think this should be too hard but I can't seem to get it to work. I have plotted x and -x. I want to fill below BOTH of them and above BOTH of them in two different plots. How can this be done?

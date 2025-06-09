@@ -1,1 +1,0 @@
-I am building a web application and users will be able to upload pics. And I want to store these images into files instead of storing them into the DB. But if I saved these pics into relative paths to the web application, they will be removed with each build. So how I can handle this and the best practices related to this issue.

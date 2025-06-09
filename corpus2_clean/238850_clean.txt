@@ -1,1 +1,0 @@
-lot call nslog need change call added precompiled header import h define nslog va everything work see drawback team continue use nslog revert pretty easily missing anything design issue create later

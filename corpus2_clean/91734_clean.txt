@@ -1,1 +1,0 @@
-interested writing compiler scared complexity finally took plunge started writing first language picked brainf ck think would relatively easy implement could implement full language brings question source language matter using real world language use subset language subset c etc benefit starting non real world language aka esoteric

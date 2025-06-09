@@ -1,1 +1,0 @@
-trying implement phone number based login sure ask user full number e country number number mind far attempt optimistic login using whatever number user give likely come back single user match case collision throw show helpful clue user asking enter full number guess simplistic approach minimum friction complexity opposed ip detection geography based resolution etc

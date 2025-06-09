@@ -1,1 +1,0 @@
-like question asks need add assert writing unit test assertion could see might make obvious without go test however seems might end duplicated asserts seems assert helpful unit testing became prevalent unnecessary thinking use case

@@ -1,1 +1,0 @@
-I have plotted my team burn up chart and its velocity per iteration. To me it looks really bad (velocity fluctuates a lot). What should I be looking for to diagnose the root cause of this behaviour? ![enter image description here](http://i.stack.imgur.com/68Duo.png)

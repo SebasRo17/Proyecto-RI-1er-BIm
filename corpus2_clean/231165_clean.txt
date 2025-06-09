@@ -1,1 +1,0 @@
-first time azure developer taking single tenant cloud system tasked converting system multi tenant correct practice separate tenant sql server collection reporting system tenant want build custom report multi tenant tenant prevented seeing others

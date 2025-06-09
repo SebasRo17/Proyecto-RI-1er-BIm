@@ -1,1 +1,0 @@
-suppose controller bunch property time property changed would like update model also suppose use command pattern perform model update common use command class within property get set controller better way example currently using mycontroller private myint public myint get myint set mycommand cmd new mycommand cmd argument myint cmd execute command update model

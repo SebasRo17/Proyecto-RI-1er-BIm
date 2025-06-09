@@ -1,1 +1,0 @@
-One of my team members, a junior programmer, has impressive programming skills for his level of experience. And during code reviews, I believe in emphasizing learning, not pointing out mistakes. But should junior programmers be involved in code reviews for more senior programmers? Or should code reviews be attended only by programmers with corresponding experience?

@@ -1,1 +1,0 @@
-I wrote a calculator similar to the windows calculator using Java. And now I want to integrate this calculator into other projects as a separate package and use results obtained with the calculator in these projects with a single click (not using copy and pasting). How can I do this. (I'm using Netbeans to code Java)

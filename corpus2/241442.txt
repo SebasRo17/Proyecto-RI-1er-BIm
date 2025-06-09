@@ -1,1 +1,0 @@
-Let's say I have several users and each one has a `user_id` and also `friends` To access their friends, they should be logged in, so a session will be established with the server. Should the REST API for their friends be `user/:user_id/friends` or just `friends`

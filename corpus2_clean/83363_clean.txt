@@ -1,1 +1,0 @@
-always thought largest scale bank use oracle however proof really use oracle instead mysql postgresql nobody know secret idea really use build atm bank system million transaction happen using mysql use postgresql must use oracle

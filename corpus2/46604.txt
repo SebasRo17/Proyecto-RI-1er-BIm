@@ -1,0 +1,1 @@
+F[x1_,x2_,...,x99_]:=expr How to write this Function in mathematica whithout complete write it?

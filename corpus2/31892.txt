@@ -1,0 +1,1 @@
+I have a list of points `{{4,5},{6,7},{9,8},...}` in two-dimensions. I'd like to rotate these points some number of degrees $\theta$ around an arbitrary anchor point in a two-dimensional plane, and recover the transformed point list. Is there a straightforward way to do this? How about for three- dimensional rotations around an arbitrary point?

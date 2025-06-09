@@ -1,1 +1,0 @@
-knuth num memory register section page num state thus x x byte memory thus x byte x x num bit x byte num bit conversely x byte x

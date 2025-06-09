@@ -1,1 +1,0 @@
-Intuitively I understand "elaboration" and have a very mild idea. But I want to know exactly what is elaboration of a declaration? I came across this word in this context: > Stack dynamic storage bindings are created for variables when their > declaration statements are elaborated. The quote is from "Concepts of Programming languages" Robert Sebesta .

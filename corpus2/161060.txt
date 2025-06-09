@@ -1,1 +1,0 @@
-I would like to access in read and write mode to a zip without decompressing it on disk: what options do I have? I need to perform the usual IO actions reserved for a filesystem like reading, writing new file, deleting them. If it's possible I would like to stick with the zlib library.

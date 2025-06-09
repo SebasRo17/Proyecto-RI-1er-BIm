@@ -1,1 +1,0 @@
-put lib sys dll c xampp mysql lib plugin ini config file plugin directory set correctly putting dll file appropriate place restarted mysql server thing seems correct write create sys exec return lib sys dll phpmyadmin confront open shared library lib sys dll errno num anybody help say done incorrectly might done cooperation appreciated

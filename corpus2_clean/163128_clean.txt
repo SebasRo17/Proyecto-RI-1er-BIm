@@ -1,1 +1,0 @@
-test driven development make bound orm testable using micro orm petapoco several method interact database like addcustomer updaterecord etc want know write test method searched youtube video writing test dal find want know testable write test writing

@@ -1,1 +1,0 @@
-WinRT: is it really about calling WIN32 (wrapped in COM (exposed as .NET)) via _a proprietary extension_ of C++? That looks like a lot of wrappers and layers between the developer and the actual functionality. Does anyone trying to go with it stand a chance at profoundly understanding the ecosystem (if his last name isn't "Petzold")?

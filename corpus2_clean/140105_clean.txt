@@ -1,1 +1,0 @@
-possible use non relational database order management system e commerce company large number order everyday like amazon benefit non relational database scalability reliability etc exploited scenario impossible give acid property hence mandate relational db used purpose

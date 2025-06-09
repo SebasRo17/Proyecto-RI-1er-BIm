@@ -1,1 +1,0 @@
-COBOL is still (heavily?) used for financial computing. It is an old language, and AFAIK most programmers hate, or at least dislike, COBOL. This brings a question: is the only reason COBOL is still used that legacy software uses it, or does it have any real advantages over other programming languages? Just curious.

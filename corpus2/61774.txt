@@ -1,1 +1,0 @@
-I'm just learning HTML, but some say XHTML is better. The W3C recommends XHTML, and I know W3C is more credible, right?

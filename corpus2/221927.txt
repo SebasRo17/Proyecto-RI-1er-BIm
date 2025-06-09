@@ -1,1 +1,0 @@
-Single responsibility (from SOLID) is like making me create classes with only one public method. But if it's so, it would be possible use static methods, and go back to procedural programming. What's the difference?

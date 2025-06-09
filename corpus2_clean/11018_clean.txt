@@ -1,0 +1,1 @@
+implementation multi objective genetic algorithm mathematica

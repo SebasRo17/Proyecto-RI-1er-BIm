@@ -1,0 +1,1 @@
+I want to a show simple vector summation but I don't know how to draw a grid behind the vectors. I am pretty sure I can do it with _Mathematica_ but how? It should look like this: ![Vector summation](http://i.stack.imgur.com/vSgO6.png)

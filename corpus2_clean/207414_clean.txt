@@ -1,1 +1,0 @@
-writing user story simple question consider writing login module call internally web service authenticate user return converted user story written user would like login system see resultset leave write validation web service call well well understand user concerned web service write

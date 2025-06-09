@@ -1,1 +1,0 @@
-somebody explain use case consider using amqp like e g rabbitmq pro con

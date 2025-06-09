@@ -1,1 +1,0 @@
-I have the following list of languages:   * C++   * C#   * VB.Net   * D   * Delphi   * Euphoria   * GLUT   * Java   * Power Basic   * Python   * REALbasic   * Visual Basic I would like to know what people think is the:   1. Best ( _most efficient_ ) language to work with OpenGL?   2. Easiest language to work with OpenGL?

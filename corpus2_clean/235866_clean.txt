@@ -1,1 +1,0 @@
-used factory pattern multiple class similar sort work want client worry instantiating type instantiate necessary dynamically depending pas value class similar method slightly different work class inherit common interface correct way improve

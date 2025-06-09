@@ -1,1 +1,0 @@
-Among computer scientists and programmers, there's the common habit of naming people in the context of security protocols e.g. `Alice`, `Bob` or `Eve`. Descriptions of more elaborate attack vector sometimes refer to `Charlie` (as does this XKCD strip), but is there a convention for additional participants?

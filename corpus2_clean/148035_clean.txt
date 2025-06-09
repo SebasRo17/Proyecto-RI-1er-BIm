@@ -1,1 +1,0 @@
-asked provide performance statistic program one memory consumption noticed perfmon net api apparently many related memory usage private bit working set page file etc difference one use measuring performance vendor claim memory consumption program improved version x used validate

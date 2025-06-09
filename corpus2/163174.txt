@@ -1,1 +1,0 @@
-I don't want to get too philosophical here (like did God create God?), but how did Apple create Xcode? Would it have been possible for them to use Xcode to create Xcode? Or would they have to use another code program (and what might that be?). In general, how does that work with code editors?

@@ -1,1 +1,0 @@
-setting gitlab server company adding gitlab ci start task like understand disadvantage running runner server used gitlab gitlab ci read security concern use internally think could problem missing something

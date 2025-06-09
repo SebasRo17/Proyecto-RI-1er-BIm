@@ -1,1 +1,0 @@
-I have 3 years experience in ASP.NET with C# and now I am learning Silverlight with Beginning Silverlight 4 in C# book. As I have completed my first 4 chapters, I am getting the feeling that Silverlight is just about creating RIA which can also be done with Flash. What is a scope of Silverlight for a C# programmer?

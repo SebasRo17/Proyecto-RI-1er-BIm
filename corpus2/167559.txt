@@ -1,1 +1,0 @@
-I am working in Linux Kernel area and my work includes: code study / Understanding Porting (say from one kernel version to another kernel version) Implementation of new kernel module / Device driver How to do estimation in such Linux Kernel assignments? Is there any technique? How the community is doing?

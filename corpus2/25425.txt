@@ -1,1 +1,0 @@
-I'm looking to get a snapshot of Rails 3 at this point in time. We're about to start a new long term project, and I'm wondering if R3 is ready for real use. Or, if there are still a lot of bumps to be worked out. E.g. I saw questions about its compatibility with Passenger. (?) Thanks!

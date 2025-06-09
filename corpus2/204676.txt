@@ -1,1 +1,0 @@
-There is something not clear for me and this is how to prevent other people read my code. The thing is that I want people create their own branches but not to view the other's branches. If someone is responsible for networking, I don't want this guy to view graphics codes. S/He must be forced to work on his branch only.

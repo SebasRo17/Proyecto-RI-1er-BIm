@@ -1,1 +1,0 @@
-Although servlets does the task of sending the HTML code to the client programmers weight JSP over servlets for that. Even a JSP code is compiled into servlet before giving the response to the browser then why is JSP preferred? If servlet is used then a lot of computation work can be saved.

@@ -1,0 +1,1 @@
+I almost remember an example that has a moving red point on a given curve, which will moving time and time again, with no controls... now, here is my question: given a curve by               u[y_] := y^4 - 4 y^2 + 3     v[y_] := 2 y - y^3     curv=ParametricPlot[{u[y], v[y]}, {y, -2, 2}]      then, how to attach a "big red" moving point on it, which are moving again and again?

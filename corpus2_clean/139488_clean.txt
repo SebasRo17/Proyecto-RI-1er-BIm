@@ -1,1 +1,0 @@
-currently web application would like add messaging feature order use jms actually openmq implementation provided glassfish num problem know get message notification background listener foreground using jsf framework importance could please tell notify user received message like chat suggestion welcomed

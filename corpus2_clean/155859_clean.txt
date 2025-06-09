@@ -1,1 +1,0 @@
-learning sql example seen insert text varchar cell write insert nvarchar cell every example prefix string letter n tried following query table nvarchar row work fine prefix n required insert tablename value hello world string prefixed n every example seen pro con using prefix

@@ -1,1 +1,0 @@
-I have an open source project, but I don't want to use my real name in the license file. Legally, can I just use my project hosting username instead? I know programmers Are Not Lawyers™, but I'm looking for advice from people who may have dealt with simlar problems.

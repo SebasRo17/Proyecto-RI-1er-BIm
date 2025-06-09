@@ -1,1 +1,0 @@
-For instance, a class like:               class Dog { } //never mind that there's nothing in it...      and then a property like:               Dog Dog { get; set; }      I've been told that if I can't come up with a more imaginative name for it, then I must use:               Dog DogObject { get; set; }      Any thoughts on how to name these better?

@@ -1,1 +1,0 @@
-The user will fill out information in page 1, and the data will be seen in the other page listed in a listbox. Is it advisable to use data binding? I've been studying/researching about data binding already for about 2 days and still couldn't understand it. Simple example would really help.

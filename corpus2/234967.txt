@@ -1,1 +1,0 @@
-You can use `<<` to multiply and `>>` to divide numbers in python when I time them I find using the binary shift way of doing it is 10x faster than dividing or multiplying the regular way. Why is using `<<` and `>>` a lot faster than `*` and `/`? What are the behind the scene processes going on to make `*` and `/` so slow?

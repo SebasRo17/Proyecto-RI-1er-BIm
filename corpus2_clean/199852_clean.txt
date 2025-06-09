@@ -1,1 +1,0 @@
-domain specific language use language like c standalone

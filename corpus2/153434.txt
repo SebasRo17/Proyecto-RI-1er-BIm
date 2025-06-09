@@ -1,1 +1,0 @@
-How do I configure Ninject so it injects an instance in a view model? PS. It is an abstracted service to help with validation, so I am not trying to burden the model with too much responsibilities.

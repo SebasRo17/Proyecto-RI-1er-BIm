@@ -1,1 +1,0 @@
-What are good resources on how to write a lexer in C++ (books, tutorials, documents), what are some good techniques and practices? I have looked on the internet and everyone says to use a lexer generator like lex. I don't want to do that, I want to write a lexer by hand.

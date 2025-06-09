@@ -1,1 +1,0 @@
-If so, at what stage? or it is also an iterative process? If iterative, how formal? Also, how useful is UML for a solo programmer doing open source? While I like to see a picture of the system, it feel so formal and a bunny trail for TDD. Thanks.

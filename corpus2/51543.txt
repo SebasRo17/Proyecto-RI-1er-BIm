@@ -1,0 +1,1 @@
+I have a list in _Mathematica_ with several items like <<199>> and <<104>>, I would like to get rid of them using `DeleteCases`, but none of the patterns I have tried so far has worked.

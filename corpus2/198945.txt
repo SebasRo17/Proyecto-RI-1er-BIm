@@ -1,1 +1,0 @@
-I'm putting much work in my program and after it's done I want to just setup a small website and sell each copy of the program but I don't want any legal issues. Do I have to look for another library or can I "safely" link to it?

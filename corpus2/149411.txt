@@ -1,1 +1,0 @@
-I'm developing a simple CMS which I'd like to make it open source. For the file structure, do you think it's safe to use names like:               AppData     FileUploads      instead of               app-data     file-uploads      ? Because I heard some servers have problems with the camelCase.

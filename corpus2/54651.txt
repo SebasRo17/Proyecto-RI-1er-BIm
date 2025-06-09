@@ -1,1 +1,0 @@
-In the industry, there are few standard checklists on how to make a web application more :   1. Scalable   2. Easy to understand/maintain   3. Perform better   4. Robust etc. etc. Are there any standard checklists for how to make an app more 'intuitive'? This of course will differ from app to app...but I am sure there will be some generic ones that apply to all.

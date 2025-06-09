@@ -1,0 +1,1 @@
+How can I visualise the standard topological "rubber-sheet" construction of a torus, that is, morphing a square into a torus? How can I start or are there any examples in the _Mathematica_ documentation respectively?

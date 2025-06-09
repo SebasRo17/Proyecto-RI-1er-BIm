@@ -1,1 +1,0 @@
-The object level capabilities that show up in E seem like an interesting addition to the Javascript language, especially considering the security issues that Javascript programs face. Has anyone tried implementing an object- capability type security system in Javascript, or by modifying a javascript VM?

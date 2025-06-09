@@ -1,1 +1,0 @@
-In my opinion, one of the greatest things about Scala is its interoperability with Java and its similar syntax. One thing that I found strange is the use of the `_` operator for package wilcard imports instead of the `*` operator that is used in Java. Is there a technical reason for using `_` instead of `*`? If not, then why was this change done?

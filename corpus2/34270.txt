@@ -1,0 +1,1 @@
+How to write a nice code that removes all elements from given set A, that occur also in set B? I would like to use `DeleteCases[]` for this purpose, but have no good idea how to make it efficient.               SetDifference[A_,B_]:=DeleteCases[A, ??? ]      Or to find out if theres a ready to use function already, as in Lists as Sets there is nothing like that mentioned.

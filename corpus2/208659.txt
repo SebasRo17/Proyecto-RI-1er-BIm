@@ -1,1 +1,0 @@
-I'm asking this question because my creativity can only go so far with console programs in C++. I need to know what program/software the majority of c++ software developers out there use develop GUI in C++. I'm heading into College in a couple weeks and want to major in Computer programming and I really would like that head start. Thanks.

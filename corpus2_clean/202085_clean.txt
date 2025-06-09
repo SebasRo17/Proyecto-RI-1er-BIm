@@ -1,1 +1,0 @@
-folk seems like straightforward drawing blank simplified example consider abstract called number abstract add want create two concrete subclass integer float signature integer add integer float add float float added integer signature abstract add number order enforce constraint compile time

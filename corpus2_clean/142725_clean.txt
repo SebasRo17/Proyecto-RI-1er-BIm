@@ -1,1 +1,0 @@
-service domain driven design implemented c static drawback choice implemented non singleton non static

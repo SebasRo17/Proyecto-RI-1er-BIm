@@ -1,1 +1,0 @@
-In the academic sense, do regular expressions qualify as a programming language? The motivation for my curiosity is an SO question I just looked at which asked "can regex do X?" and it made me wonder what can be said in the generic sense about the possible solutions using them. I am basically asking, "are regular expressions Turing complete"?

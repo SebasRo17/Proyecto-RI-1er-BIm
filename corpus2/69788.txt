@@ -1,1 +1,0 @@
-Why do many code examples, especially tutorials, use the names "Foo" and "Bar" so often? It is almost a standard. For example:               void foo(char* bar) {       printf("%s", bar);     }

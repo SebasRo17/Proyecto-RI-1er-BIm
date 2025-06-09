@@ -1,1 +1,0 @@
-recently started using vim working replace notepad go however running issue keep hitting u instead right hand hjkl instead usual vim user preferred right hand positioning editor get used moving hand back forth normal insert mode

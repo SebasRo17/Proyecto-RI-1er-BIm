@@ -1,1 +1,0 @@
-Is there an exact, but simple and understandable defintion of the distinction between "use case", "User Story" and "Usage Scenario"? there are quite a bunch of explanation, but right now, I see no one that explains the differences in a single sentence, or two... (e.g. http://c2.com/cgi-bin/wiki?UserStoryAndUseCaseComparison very long and hard to get, full of discussion)

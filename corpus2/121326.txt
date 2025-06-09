@@ -1,1 +1,0 @@
-I do not understand the "bridge" design pattern at all. I have gone through various web sites, but they haven't helped. Can anybody help me in understanding this?

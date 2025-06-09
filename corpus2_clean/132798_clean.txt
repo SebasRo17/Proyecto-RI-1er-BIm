@@ -1,1 +1,0 @@
-new working window service although learnt create window service vs2010 would like know practical way window service could used tried googling current context mind find tutorial create window service edit bounty offer answer great looking practical example window service implication help developer know appropriate use case study

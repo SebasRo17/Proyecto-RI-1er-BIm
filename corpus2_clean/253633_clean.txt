@@ -1,1 +1,0 @@
-developed software us mysql month usage database table corrupted need repaired corruption able create backup using navicat generate dump log file indicating following num day yymmdd hh mm s usr sbin mysqld open file ini myi errno num cause corruption fix prevent database table corruption future

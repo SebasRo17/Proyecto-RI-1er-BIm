@@ -1,1 +1,0 @@
-If each player has their own avatar, that can move, jump, and do actions to entities in the world (let's say, boxes). How is it handled? Is clients sending commands to the server and getting the current state of the world in response a viable design?

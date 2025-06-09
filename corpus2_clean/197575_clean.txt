@@ -1,1 +1,0 @@
-trying write system log parser receive message freebsd syslog daemon stdin use message determine ip banned problem x second ban removed get stdin program block waiting mean time anything fixed using thread better way example something like stdin handledata long nothing come stdin want execute handle

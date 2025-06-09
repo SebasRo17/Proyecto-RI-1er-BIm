@@ -1,1 +1,0 @@
-This is a question about the internal workings of Mercurial. I vaguely remember a fellow programmer explaining to me how mercurial works out which changesets differ between two repositories and that it had a speedy solution to the problem. Does anyone know how this works or can point me towards a document describing the details?

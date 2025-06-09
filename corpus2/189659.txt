@@ -1,1 +1,0 @@
-I have to create a program that compares two or three different methods (FEM FVM FDM) for solving an easy pde. Is there a program language in which I could do this easily? (i need to operate with vectors/matrix and perform inversions on matrix)

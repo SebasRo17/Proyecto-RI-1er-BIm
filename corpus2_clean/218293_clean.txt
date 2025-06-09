@@ -1,1 +1,0 @@
-pretty simple question package structure closely resemble hierarchy closely instance let say got b plus afactory bfactory put b package com something element put afactory bfactory com something element factory afactory bfactory would hierarchy package wise wise sort thing good idea bad idea

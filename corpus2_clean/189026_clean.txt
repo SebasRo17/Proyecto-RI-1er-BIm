@@ -1,1 +1,0 @@
-bugging time come storing structure hashtables programmer book article insist indexing element said structure value considered bad practice yet far found single source also explain considered bad practice depend programming language underlying framework implementation take two simple example help sql like table row indexed primary key net dictionary key string

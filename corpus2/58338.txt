@@ -1,1 +1,0 @@
-I'm an iOS developer and I've found myself porting code from several other languages recently for various projects and it got me thinking about code licensing. When porting code, is that considered to be "use" of the existing code, or since I'm not copying and pasting anything, is the code a new entity?

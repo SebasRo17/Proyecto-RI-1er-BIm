@@ -1,1 +1,0 @@
-I have many things to learn: CSS, HTML, C#, **JavaScript** , ASP.NET, SQL Now does the order matter here? For example, is it better to learn C# before HTML or the reverse could be better?

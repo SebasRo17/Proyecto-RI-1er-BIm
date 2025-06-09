@@ -1,0 +1,1 @@
+I am trying to draw a custom BoxWhiskerChart with alternative values determining fences. I have data that has a lot of outliers and I have to compare it to another chart that has 10-90th percentile instead of standard min/max. How would I go about it?

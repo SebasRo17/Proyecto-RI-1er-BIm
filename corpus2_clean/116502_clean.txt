@@ -1,1 +1,0 @@
-thousand xml file size 1mb need parse manipulate xml file generating separate xml file result regex fastest open source xml parsing library c aside parsing library approach use speed xml parsing

@@ -1,1 +1,0 @@
-I need some ideas for projects that will help me improve my skills.   Here is the requirement for the project   1. It has to be in win32   2. I need something harder than just making a calculator

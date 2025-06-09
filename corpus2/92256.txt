@@ -1,1 +1,0 @@
-I'm currently working at a place that may be looking at forcing developers to use an automated code formatter on version control check-in. I'm looking for developers opinions on the advantages and disadvantages of doing this ... how you think it would help or hinder developers. My specific case involves Java/JSPs, but I think the question could apply to any language.

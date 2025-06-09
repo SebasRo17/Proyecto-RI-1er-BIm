@@ -1,1 +1,0 @@
-I thinking about how increase developer's commitment to release and create release cycle as a game for more fun in office. Current suggestions   * Building tower from bricks   * Climbing on some hypothetical everest, where each camp is release stage   * Some badges system, like StackExchange system

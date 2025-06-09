@@ -1,1 +1,0 @@
-Need examples to show management that these are used for source control and effectively backup of projects. They will be concerned about having their source code off-site. If there are good examples I think that it may help in convincing them to consider this as an option.

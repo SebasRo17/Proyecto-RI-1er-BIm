@@ -1,1 +1,0 @@
-know cgi spawn new process every http request serf servlets use one process serve many request technology rail wsgi django mod php asp net etc web server spawn new process new http request

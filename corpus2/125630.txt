@@ -1,1 +1,0 @@
-Can any one share a code review check list for Ext JS in common and specially for Ext JS 3.4 ?

@@ -1,1 +1,0 @@
-I have an embarrassingly simple question, but I need to make sure I understand this correctly. I have a *.c file with the following line:                   CSRConstant = 2*macroParticleCharge*particleCharge/pow(3*rho0*rho0, 1./3.)/(4*PI*epsilon_o*particleMass*sqr(c_mks));      Is this interpreted as: ![enter image description here](http://i.stack.imgur.com/yT3MG.png)

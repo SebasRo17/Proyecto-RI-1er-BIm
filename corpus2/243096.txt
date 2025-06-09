@@ -1,1 +1,0 @@
-When using Akka, CQRS style, is still there a place for Entities? Or does everything now go to Aggregates, implemented as Actors + Value Objects. I notice that most entities are written as mutable objects with side effects - this doesn't seem to jive well with Actor based style.

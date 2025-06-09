@@ -1,1 +1,0 @@
-If someone has created something like a DevExpress library, or Infragistics, Telerik, RavenDb etc., what's the easiest way to start selling it? What are the required steps? Is there some rules for licenses and stuff?

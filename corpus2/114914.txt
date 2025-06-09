@@ -1,1 +1,0 @@
-I found some software a while ago that claimed to execute ASP.NET applications on a Linux server, I remember that the information said that takes the code and converts it to Java. I never downloaded or tested the software. Does anyone know the name of this software? Also, is possible to execute ASP.NET on a Linux server in the first place?

@@ -1,1 +1,0 @@
-A conceptual question, I tried to google but couldn't find any definitive answers, so here it goes: Is it a good practice to write Java methods to return HTML strings that will be returned to the display/presentation layer? Example:               public string getTextField(){         return "<input type=\"text\"/>";     }

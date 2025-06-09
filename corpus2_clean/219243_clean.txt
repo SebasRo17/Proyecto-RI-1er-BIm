@@ -1,1 +1,0 @@
-try follow single responsibility principle srp also omit repetition however often place repetition nothing block invocation resistant extracting least meaningfull named best way extract

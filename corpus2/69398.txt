@@ -1,1 +1,0 @@
-From what I can understand, C# is the defacto language when coding .NET apps. Is it recommendable to program .NET apps [let that be ASP.NET, WinPhone 7, GUI, etc] in C++? What are the pitfalls and the drawbacks if we choose to go down this path? Thanks for sharing.

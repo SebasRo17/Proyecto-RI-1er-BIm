@@ -1,0 +1,1 @@
+I want to define               isGood[___] = False;          isGood[#] = True & /@ list      where `list` is a list of several million integers. What's the fastest way of doing this?

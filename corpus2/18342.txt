@@ -1,0 +1,1 @@
+I have become fascinated with Randolph Diagrams and was wondering how we would create the diagrams from logical sequences using _Mathematica_? It looks like it would be a combination of logic and graphing. I have no idea where to start. I need some suggestions to get me going. **Edit** Randolph's paper on JStor

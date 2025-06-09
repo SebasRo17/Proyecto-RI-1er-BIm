@@ -1,1 +1,0 @@
-keep released binary version control allows track stuff changed release mean separate released binary source repository released binary either built continuous integration software manually compiled

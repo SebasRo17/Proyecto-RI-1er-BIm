@@ -1,1 +1,0 @@
-My company wants to release the code for a Ruby on Rails demo app, which includes our own LGPL'd library code. It it legally kosher for me to state that the contents of the entire repo are released under the LGPL, although it includes "stock" Ruby on Rails files which are generated with every app, like `boot.rb` and `application.rb`?

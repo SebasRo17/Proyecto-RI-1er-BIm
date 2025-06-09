@@ -1,0 +1,1 @@
+Suppose I have this expression                   Sum[F[i, j] KroneckerDelta[j, k], {j, 1, 3}]               (* F[i, 1] KroneckerDelta[1, k] + F[i, 2] KroneckerDelta[2, k] +                 F[i, 3] KroneckerDelta[3, k] *)      Is it possible for _Mathematica_ to present the contracted result               F[i,k]      ?

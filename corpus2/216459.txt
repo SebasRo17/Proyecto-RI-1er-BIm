@@ -1,1 +1,0 @@
-Using `TYPE_LINEAR_ACCELERATION` suppose I found out that the device is moving at 4 m/s².               a(t)=s"(t)=+4     v(t)=∫4tdt     s(t)=2/3t³     s(3)=18m      How much accurate it would be?

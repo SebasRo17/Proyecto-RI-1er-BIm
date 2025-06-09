@@ -1,1 +1,0 @@
-javascript creates canvas image want user able share simply need save image somehow nothing else contemplating using bit piece ruby activerecord perhaps sinatra feel like would kill simple task ideally like javascript feel like including node suggestion

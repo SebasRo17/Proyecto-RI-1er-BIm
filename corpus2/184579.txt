@@ -1,1 +1,0 @@
-I know method overload is not allowed in Scala and I have read some posts regarding the reasons. But still, I see some functions overloaded in Scala library (example: println). I want to know how it is done and if I can use the same mechanism to some of my methods.

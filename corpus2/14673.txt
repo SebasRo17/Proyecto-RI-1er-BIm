@@ -1,1 +1,0 @@
-Since Oracle bought Sun and Apple have decided not to continue developing their JVM, is the "write once and run everywhere" model still relevant or has web services/SOA reduced it to an edge case?

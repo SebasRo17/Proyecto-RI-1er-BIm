@@ -1,1 +1,0 @@
-I hope you can confirm or disprove whether I understand this correctly. I know for certain that Java Applets can have hardware acceleration and I wonder if this is the only known way to have graphics hardware acceleration in web pages or is there another way?

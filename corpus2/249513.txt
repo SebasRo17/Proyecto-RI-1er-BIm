@@ -1,1 +1,0 @@
-I was stumbling through Wikipedia when I came across the entry for FLOPS, specifically the table in this section. The first entry is for a computer from 1961, the comment on the right reads > The 1620's multiplication operation takes 17.7 ms.[46] What is this operation? I assume it means it can do multiplication in 17.7ms?

@@ -1,1 +1,0 @@
-I am more practiced in PHP than in Java, and when I use Java I find myself looking at it from a PHP perspective. This can cause trouble, so I'd like to know, what are the most common programming mistakes PHP programmers make in Java?

@@ -1,1 +1,0 @@
-dropped production database happened used create instead update datasource groovy changing domain model wanted update database empty accidentally changed create instead update could prevent happening future grail wise general

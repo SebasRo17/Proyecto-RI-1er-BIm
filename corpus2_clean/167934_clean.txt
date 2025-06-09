@@ -1,1 +1,0 @@
-supposed application multiple window like logo connecting screen login usercontrols screen logging screen etc design pattern allows effectively manage window hide previous window display new window etc

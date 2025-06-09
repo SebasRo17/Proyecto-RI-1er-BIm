@@ -1,0 +1,1 @@
+package provided wide range function computing astronomical information package appears date near tell many useful function provided replicated astronomicaldata example function use compute sidereal time julian date jd

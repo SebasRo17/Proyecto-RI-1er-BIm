@@ -1,0 +1,1 @@
+How can I change `ExclusionsStyle` for a plot inside `Manipulate`? Here's a sample that (though it shouldn't) seems to produce equivalent result to `ExlusionsStyle->{None}`:               Manipulate[     Plot[{1/(a - x), x/(x - b)}, {x, -10, 10},     Exclusions -> {b, a}, ExclusionsStyle -> {Dashed}], {a, -10, 10}, {b, -10, 10}]

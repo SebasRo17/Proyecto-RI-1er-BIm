@@ -1,0 +1,1 @@
+There are two lists {a, b, c, a, d, a, e} and {a, c, a}. I need to remove those elements from the first list which appears in a second list, to get {b, d, a, e}

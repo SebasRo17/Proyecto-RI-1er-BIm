@@ -1,1 +1,0 @@
-practitioner recently came learn jax r specification apache cxf framework still wrapping head around thing also read question since mvc design pattern jax r specification confused comparison granted nascent understanding jax r make suitable implementing restful api say framework us mvc pattern n b c background

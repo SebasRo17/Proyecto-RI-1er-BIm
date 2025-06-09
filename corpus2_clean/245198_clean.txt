@@ -1,1 +1,0 @@
-order handle several possible error halt execution client check use throw exception anti pattern better way handle example action see php mysqli api assume visibility problem accessors public private scope global handled correctly

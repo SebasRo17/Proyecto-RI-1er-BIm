@@ -1,1 +1,0 @@
-architecture intel cpu interaction l1 cache l2 cache l1 l2 image found isnt clear explanation whether cpu look l1 first go cache whether go l1 cache cache miss l2 cache

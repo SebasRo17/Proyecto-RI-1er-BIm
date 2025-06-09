@@ -1,0 +1,1 @@
+FixedPoint[If[# <= 0, 0, # - 1]&, 2 x]      Causes an infinite loop because of 'x'. How do i automatically prevent evaluation until `2 x` is known? I have a similar function being fed into `Plot[]` and it has control over when `x` is known.

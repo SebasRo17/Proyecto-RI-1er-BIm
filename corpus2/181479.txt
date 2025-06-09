@@ -1,1 +1,0 @@
-Could Ruby on Rails have been created in another language like PHP, or are there some functions in the Ruby language that make the difference?

@@ -1,0 +1,1 @@
+Is it possible to install Mathematica 9.1 on both Ubuntu 12.04.3 LTS and Windows 7 Home Premium on the same machine. I want to be able to use Mathematica on Ubuntu since I wrote some numerical codes there. I would like to know if this is possible and a GUI is present in UNIX operating systems. Thanks

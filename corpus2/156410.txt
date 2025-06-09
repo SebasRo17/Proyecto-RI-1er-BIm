@@ -1,1 +1,0 @@
-I am newly learning C Programming. When we have a C Program with lot of functions, parameter passing, calling and all - It becomes a great problem as to which variable must be declared where. My question is: If I declare all the variables (or atleast the variables that are confusing me) as Global Variables - my problem will be solved - but is that a Good Practice?

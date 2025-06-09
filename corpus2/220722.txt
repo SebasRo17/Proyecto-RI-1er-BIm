@@ -1,1 +1,0 @@
-Since user threads are mapped to kernel threads, why don't we create all threads as kernel threads that is a process with **zero** user thread. Doesn't mapping of user thread to kernel thread create overhead?

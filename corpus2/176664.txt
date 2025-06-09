@@ -1,1 +1,0 @@
-Why do generics in Scala have erased types, and are not reifiable? Is it due to lack of support from the JVM or for compatibility with Java libraries? What are the advantages in general of having generics as reifiable?

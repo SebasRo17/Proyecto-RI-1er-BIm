@@ -1,1 +1,0 @@
-We internally use GitHub Enterprise and Jenkins. If I push on the main repository it is automatically build without and the Commit is marked as correct (just as Travis does this). However, I want to be able to fork a repository and let the Jenkins build run. Is it possible to say Jenkins that he also runs any fork of the project when opening a PR on the main repo?

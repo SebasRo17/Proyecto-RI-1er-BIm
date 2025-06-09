@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Is there a good book to grok C++? I've been looking for a good book to understand the C++ (and the OOP) as well as I can do, and during my searches I found **Thinking in C++** (wrote by Bruce Eckel) and many excited opinions about it. So, my question is: Is this book really good, or there are something better to understand C++ in detail?

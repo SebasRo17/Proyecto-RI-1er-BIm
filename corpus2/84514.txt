@@ -1,1 +1,0 @@
-Almost everyone will now say the blessing: **performance**! Okay, **C** does allow to write athletic code. But there are other languages that can do so, after all! And the optimising power of modern compilers is awesome. Does **C** have some advantages that no other language has? Or there's simply no need for more flexible instruments in the domain?

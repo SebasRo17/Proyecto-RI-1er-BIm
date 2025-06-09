@@ -1,1 +1,0 @@
-working retail application currently using raw sql like insert table value textbox1 text textbox2 text update table set column save update problem need write everywhere save update needed better solution handling crud operation like separate contain access logic would use method access layer perform crud operation

@@ -1,1 +1,0 @@
-I think it would be a great idea if we had a regular expression search engine, but can it be done? It seems impossible since there's no feasible way of indexing such a huge amount of data properly and displaying results in the order of relevance from what I can think of. I'm curious what the answer to this one would be.

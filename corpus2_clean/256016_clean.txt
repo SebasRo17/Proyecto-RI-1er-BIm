@@ -1,1 +1,0 @@
-want make program take screenshot desktop window including overlapping window scan bitmap certain pixel specific location identify read num various method capturing screen sm sm hwnd hdc getdc hdc bitblt num num num num place holder put save captured image disk releasedc dont understand mean placeholder know find anything searching msdn

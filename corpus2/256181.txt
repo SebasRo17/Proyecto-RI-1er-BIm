@@ -1,1 +1,0 @@
-I need practical answer of this question Why wait and notify is declared in Object class instead of Thread ? answer with example will appreciated.

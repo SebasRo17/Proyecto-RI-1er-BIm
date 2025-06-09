@@ -1,1 +1,0 @@
-writing software architecture document present technology used connects system quality want achieve example chose net arg1 arg2 feeling architecture stable change concrete realization module change respect technology used

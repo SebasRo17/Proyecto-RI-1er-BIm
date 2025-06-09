@@ -1,1 +1,0 @@
-essentially writing twice disk cause slowdown factor 2x optimization made minimize cost write thing twice

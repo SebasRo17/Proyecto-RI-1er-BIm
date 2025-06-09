@@ -1,1 +1,0 @@
-manage create circle inside triangle circle inside polygon maximum size var p1 board create point num num var p2 board create point num num var board create p1 p2 num var board create p1 p2 num var board create p1 p2 num board create vertex easiest way draw maximum circle inside square smallest circle around polygon

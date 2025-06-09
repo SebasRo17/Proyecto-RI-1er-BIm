@@ -1,0 +1,1 @@
+I have two lists:               a = {0, 1, 1, 1, 0, 1}     b = {1, 0, 1, 1, 0, 0}      I'd like to calculate the conditional probability of a given b; for example, $p(a=1 | b=0)$. Is there a built in function to do this? The `Probability` function seems to only work with symbolic arguments?

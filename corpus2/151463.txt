@@ -1,1 +1,0 @@
-Related: “sending 'const NSString *' to parameter of type 'NSString *' discards qualifiers” warning Sometimes, I think it's useful though. I may need to pass an a table and want to make sure that the content of the table does not change. However, in most Objective-C program samples, I never see `const`. My question is why?

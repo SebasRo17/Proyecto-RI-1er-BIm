@@ -1,1 +1,0 @@
-I know that it is possible to get into software development without a degree in computer science, but is it possible (or rather, common) to be able to get an embedded programming job without the computer science degree (or any engineering degree as well)?

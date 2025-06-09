@@ -1,0 +1,1 @@
+How can I map a triangle on an sphere? I want to visualize (plot or animate) it for my student in my Non Euclidean geometry. I have no restrictions on the triangle's kind or on the sphere in $\mathbb R^3$. Thanks for any hint.

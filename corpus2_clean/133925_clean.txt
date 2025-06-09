@@ -1,1 +1,0 @@
-best practice manage case two customer add time product whose stock num must check basket avoid one num customer add product check must carried payment phase instance second query confirm concerned product still present stock mean bought yet concurrent customer

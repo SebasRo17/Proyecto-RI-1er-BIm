@@ -1,1 +1,0 @@
-web application running several different server want central place administer everything one web interface best way provide rest interface every web application let admin application make call seems like common problem already solved smarter people update want change application per web application see result per web application

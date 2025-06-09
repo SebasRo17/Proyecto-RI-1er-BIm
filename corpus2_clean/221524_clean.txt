@@ -1,1 +1,0 @@
-recently started using namespaces php first saw thought syntax ugly never use however created autoloader spl autoload register make never write include require statement like namespaces objective benefit include require statement exact accomplish goal

@@ -1,1 +1,0 @@
-I'm designing a financial system that should grant access to data based on roles and privileges. For example, a manager can see the financial transaction of users under his domain but not information regarding other transaction. Although it's possible to implement ad-hoc I was wondering if there are patterns or guidelines for implementing such instrumentation.

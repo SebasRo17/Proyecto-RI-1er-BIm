@@ -1,1 +1,0 @@
-It seems most companies are practicing Agile methodologies these days for software development. I'm curious to know if there are any downsides to using Agile, does it have shortcomings, is it always the right methodology to use? Do you any of you have experiences of using Agile and it didn't really work, maybe it was due to the type of project, or the team?

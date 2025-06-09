@@ -1,1 +1,0 @@
-Recently I have become interested in learning Javascript for web development. I currently know HTML, CSS, and beginner/intermediate C++. I understand polymorphism, inheritance, and all of that fun stuff. Would any of these skills carry over to Javascript? In what key ways does Javascript differ from C++?

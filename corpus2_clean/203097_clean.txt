@@ -1,1 +1,0 @@
-currently shared file cpp h include around num project currently include project get business requirments change shared cpp h file include num project kind tedious way create shared dll library include project change change add reference include dll library contains shared cpp h file help recommendation regarding highly appreciated using vs2012 vc

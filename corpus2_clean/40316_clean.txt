@@ -1,1 +1,0 @@
-project working want implement small prototype try thing demonstrate functionality client learn framework used project suggestion know best practice implementing prototype detail application complex web app implement mechanism server push subscribed client generated event want write prototype implement exactly behaviour nothing

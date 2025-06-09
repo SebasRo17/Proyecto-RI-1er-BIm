@@ -1,1 +1,0 @@
-I am taking over management and development of a website developed in Java using Hibernate and Postgres, running on Apache/Tomcat. I am an experienced Java developer, and have experience in Ruby on Rails, and am expert in Oracle SQL. What is the best documentation for me to read?

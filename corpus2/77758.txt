@@ -1,1 +1,0 @@
-I thought Unicode was designed to get around the whole issue of having lots of different encoding due to a small address space (8 bits) in most of the prior attempts (ASCII, etc.). Why then are there so many Unicode encodings? Even multiple versions of the (essentially) same one, like UTF-8, UTF-16, etc.

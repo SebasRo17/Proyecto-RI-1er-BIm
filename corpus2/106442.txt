@@ -1,1 +1,0 @@
-Functional languages, by definition, should not maintain state variables. Why, then, do Haskell, Clojure, and others provide software transactional memory (STM) implementations? Is there a conflict between two approaches?

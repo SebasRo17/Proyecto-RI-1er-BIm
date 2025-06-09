@@ -1,1 +1,0 @@
-work common practice create separate jpa entity project web application war basically least two project application people started convention longer wondering benefit separation advantage could think eclipse jpa facet provides various tool jpa mistaken facet applied war project well question separation unnecessary

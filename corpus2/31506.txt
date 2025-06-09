@@ -1,0 +1,1 @@
+For example, we have this curve: $$ x^2 + y^2 = 1 $$ Is there a function in _Mathematica_ for finding out that the ranges for $x$ and $y$ are both `[-1, 1]`? What about implicit functions of more than `2` variables? e.g. $$ x^2 + y^2 + z = 1 $$

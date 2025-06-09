@@ -1,1 +1,0 @@
-What buffer size should I choose for read/write files via POSIX fread/fwrite functions?

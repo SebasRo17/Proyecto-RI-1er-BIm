@@ -1,1 +1,0 @@
-Can I license different parts of my code (different classes) under different licenses? E.g. I have downloaded and modified a class which licensed under the BSD 3 point. Can I then say, file AObject.class is BSD, and BObject.class is LGPL (or MIT, or MPL, or PD, etc etc)

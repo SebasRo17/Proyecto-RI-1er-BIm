@@ -1,1 +1,0 @@
-trying make update statement generator using c winforms would like build statement generator statement like update customer set schmidt city customername problem let user paste multiple value set end user likely build list using spreadsheet want paste value multi text box could create num multi text box set column need add

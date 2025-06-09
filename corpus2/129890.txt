@@ -1,1 +1,0 @@
-From my understanding SVN is 'Easy to branch. Difficult to merge'. Why is that? Is there a difference how they merge?

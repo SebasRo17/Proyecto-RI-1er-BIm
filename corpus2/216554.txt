@@ -1,1 +1,0 @@
-As Reactive Programming model is perfectly suited to address the change propagation required for transaction processing, that is, when the server receives change (Insert, Update, or Delete) requests. The key approach borrows heavily from Domain Driven Design to provide declarative Domain Logic. But how does it differ from functional programming approach?

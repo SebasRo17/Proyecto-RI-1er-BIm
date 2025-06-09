@@ -1,0 +1,1 @@
+How to select and delete all Output cells in multiple notebooks **programmatically** without needing to (manually) opening them? How to define a hot key for deleting all Output cells within a notebook from that notebook?

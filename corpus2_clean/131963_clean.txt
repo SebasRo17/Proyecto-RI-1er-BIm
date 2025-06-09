@@ -1,1 +1,0 @@
-anyone know good algorithm drawing ellipse bounding box draw ellipse s1 s2 s3 s4 color c need something optimized unreadable efficiency something good enough use simple drawing api provide algorithm answer programming language even pseudocode would prefer use c c like syntax

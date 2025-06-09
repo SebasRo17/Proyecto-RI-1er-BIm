@@ -1,1 +1,0 @@
-I think every single time I've used `Math.Ceiling` or its language variant, I've _always_ had to cast it to an integer. I mean... that's the whole point, isn't it? To get a whole number. So why doesn't it just return an `int`?

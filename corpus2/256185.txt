@@ -1,1 +1,0 @@
-Which Algorithm does java uses to convert floating point number (Ex:0.15625) into binary(0.00101). Whether java uses normalized form or denormalized format ? If i type "float ab=0.15625" in java source file, which program will convert that floating point number into a format that could be stored in memory ?

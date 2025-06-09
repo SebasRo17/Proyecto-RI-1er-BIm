@@ -1,1 +1,0 @@
-I've been told in previous questions that functional programming languages are unsuited for dynamic systems such as a physics engine, mainly because it's costly to mutate objects. How realistic is this statement, and why?

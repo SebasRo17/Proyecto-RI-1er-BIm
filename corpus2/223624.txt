@@ -1,1 +1,0 @@
-According to code climate, a class is `F`, aka the worst mark you could be granted. I did submit a pull request to rearrange it here Which has been refused because the new code is supposedly too abstract. I'm utterly convinced a `F` has a real meaning and should be fixed, above all when it's one of the main class of a project. What's your point of view?

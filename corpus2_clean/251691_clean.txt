@@ -1,1 +1,0 @@
-assume request going look list item service requires authorisation e g behind basic authentication domain service require authentication would always make request get idempotent credential would end query basically required post alternative

@@ -1,1 +1,0 @@
-I'm using OSGi for some time and I **really** like the ability to swap/replace components while my application is running. I simply have to build my module and push it to the OSGi container. Is there a similar concept/framework for clojure? I know about leiningen's dependency management which really helps modularity but I know of no built-in way to hot swap code.

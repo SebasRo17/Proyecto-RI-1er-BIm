@@ -1,1 +1,0 @@
-I ported a library to Java, but am wondering what to do with the JavaDoc comments. The original library used javadoc comments too, so do I leave the @author tags from the original code? And how do I give myself credit as the person who ported it over?

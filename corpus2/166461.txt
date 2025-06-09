@@ -1,1 +1,0 @@
-I notice that someone in my organization programs comparisons like:               if (100 == myVariable)      rather than:               if (myVariable == 100)      He claims the former is quicker in languages like C++. I can't find any evidence. We program in C#. Is this true for any programming language?

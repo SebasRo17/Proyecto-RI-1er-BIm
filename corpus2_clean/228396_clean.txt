@@ -1,1 +1,0 @@
-c like crunch const size size two buffer overlap may mess buffer well generating general practice always consider overlapping buffer implementing function like assume user pas overlapping buffer always document whether work well overlapping buffer

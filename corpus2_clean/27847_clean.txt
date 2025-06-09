@@ -1,1 +1,0 @@
-coming eclipse developed coding standard got used visual c num however appears coding standard m recommends enforced default configuration e g used write conditional statement like somecondition else brace forced newline visual c recommended use standard

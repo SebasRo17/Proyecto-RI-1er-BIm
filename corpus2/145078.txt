@@ -1,1 +1,0 @@
-If I am developing a Java library, is it good practice to issue log statements from within the library's code? Having logging within the library will make debugging and troubleshooting more transparent. However, on the other hand, I do not like littering my library code with logging statements. Are there any performance implications to consider as well?

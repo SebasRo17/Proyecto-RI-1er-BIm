@@ -1,0 +1,1 @@
+How could I set a Keyboard shortcut for the Quit Kernel -> Local command? I find really disappointing to open the Evaluation menu any time!

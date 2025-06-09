@@ -1,1 +1,0 @@
-using gettext similar framework translation string include like label generating label ui add ui

@@ -1,1 +1,0 @@
-starting check sql file creating maintaining database previously sql file kept totally separate codebase version control like pragmatically store database construction manipulation file make sense subdirectory model separate directory somewhere part sql statement model access stuff maintenance script ect stuff pragmatically fit mvc folder structure

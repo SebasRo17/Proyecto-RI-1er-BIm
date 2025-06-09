@@ -1,1 +1,0 @@
-Imagine a small calculator GUI, with basic operations (`+,-,/,*`), and in the menu we can check for example scientific calculator and a small new view with the extra functions appears beside. I was thinking that the decorator pattern is the solution but after reading some documentation on it, I am confused now. Which pattern would be more suitable for doing such things?

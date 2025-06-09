@@ -1,1 +1,0 @@
-I recently purchased a product (a website template, licensed by GNU GPL 2.0). My product, which is a web software, coded in PHP, uses that web template as its appearance. The question is: How can I sell a software which includes some parts of a GNU GPL 2.0 commercial website template? Do I have to pay a license for the website template each time I sell mine? Thanks.

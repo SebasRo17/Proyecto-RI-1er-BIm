@@ -1,1 +1,0 @@
-know algorithm give exact solution traveling purchaser problem find heuristic probabilistic approach implemented genetic algorithm far nature terminate always yield optimal result thus looking exact solution problem able compare solution exact optimal given test set heard traveling purchaser problem tpp traveling salesman problem tsp generalization thus also np hard

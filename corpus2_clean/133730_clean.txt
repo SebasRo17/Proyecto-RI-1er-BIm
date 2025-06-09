@@ -1,1 +1,0 @@
-need create interface query database table web service new framework building previous spring web application used bean handle result query case need write interface publish method available end user little bit newbie particular aspect wondering better allow end user see use bean jsp hide using generic

@@ -1,0 +1,1 @@
+How could I use BinList to give elements indices in list instead of giving the list elements belonging to each bin ? Thanks.

@@ -1,1 +1,0 @@
-I am a freelancer and I earn my bread and butter by helping others write better java-script code. I have good experience with most of the JavaScript frameworks around. I am wondering if it is worth for me to invest time in learning coffeescript. Who should learn it and who need not ?

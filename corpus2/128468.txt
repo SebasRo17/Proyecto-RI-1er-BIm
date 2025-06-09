@@ -1,1 +1,0 @@
-I hope I'm not confusing the term system architecture with the data model/database. Is there a book out there that's the standard for describing best practices, design methodologies, and other helpful information on designing the architecture and the data model for a web-based application? What about that book makes it special?

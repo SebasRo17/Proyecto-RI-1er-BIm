@@ -1,1 +1,0 @@
-I currently have the following models and am designing search functionality that searches within these 3 models: Locations Users User_friends Should I create a search controller or should I put the action in one of the existing locations, users, or user_friends controllers? If so should it be pluralized - searches_controller or just search_controller?

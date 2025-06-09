@@ -1,1 +1,0 @@
-specific technique thing wouldnt apply c writing low latency often see low latency role ask experience writing low latency sometimes seems little bit oxymoron think could think experience jni outsourcing call native also possibly using disruptor pattern thats actual technology specific tip writing low latency aware real time spec warned real time low latency

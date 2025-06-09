@@ -1,1 +1,0 @@
-I have been trying to find the difference between the RTC clock and the system clock. At last I found that Timer Deamon in windows try to compare time between RTC and OS clock. If it is more than 1 min then the time will be updated in OS clock. But the thing is that I want to know what is time deamon exaclty? how can i access that using c#?

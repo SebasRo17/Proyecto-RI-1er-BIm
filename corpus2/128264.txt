@@ -1,1 +1,0 @@
-We have a web application that we want to start running regression tests on, and have pretty much decided that we will be using Selenium 2. Not all of the testers are programmer savvy. Is Selenium IDE usable for this? Which other recorder alternatives are best for Selenium 2?

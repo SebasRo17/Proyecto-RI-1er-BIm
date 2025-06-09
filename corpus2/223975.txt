@@ -1,1 +1,0 @@
-I am currently learning Scala and I find a mental blog of how to proceed to a degree where I can use Scala daily beyond the normal examples. I just do not have a particular project in mind of what I can do. This is not really Scala specific in mind, just generally how do you get yourself proficient in a language via self learning without doing / having a project in your hand?

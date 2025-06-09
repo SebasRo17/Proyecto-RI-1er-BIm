@@ -1,1 +1,0 @@
-The D Programming Language supports writing unit tests inline with source. There's a Ruby gem called test_inline that lets you write specs in the same file as your code. Why is it generally conventional to keep source code in a completely separate directory from test code?

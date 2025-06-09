@@ -1,1 +1,0 @@
-From Less is Exponentially More > If C++ and Java are about type hierarchies and the taxonomy of types, Go is > about composition.

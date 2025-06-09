@@ -1,0 +1,1 @@
+How can I persuade _Mathematica_ to help me find solutions to the inequality $k\ln(n) - k\ln(k) \leq u$ over the reals, assuming $u \geq n \geq k \geq 1$. When I evaluate               Reduce[{k*Log[n] - k*Log[k] <= u, u > n, k > 1, n > k}, k, Reals]      _Mathematica_ can't find a solution. However, $k=2, n=e^2, u = 8$ is a solution, for example.

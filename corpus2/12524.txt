@@ -1,1 +1,0 @@
-I'm looking forward to delving into the .NET framework but most mobile applications seem to be developed in Java. I'll most probably be targeting the less pricier phones like Nokia and motorolla not android or iphone OS. Can I do these stuffs in C#?

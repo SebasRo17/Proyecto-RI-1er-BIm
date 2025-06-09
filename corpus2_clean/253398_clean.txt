@@ -1,1 +1,0 @@
-wondering following implementation public update observable ob arg want send observer update using passing reference observer use getters subject pull information want arg argument update meant

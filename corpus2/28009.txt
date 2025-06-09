@@ -1,0 +1,1 @@
+I have found a way to show the run time in a specific cell in a notebook (.nb). Now, I want to have the whole run time including all cells in a specific notebook. How is it possible to calculate it ? Is there any special functions or commands or options ?

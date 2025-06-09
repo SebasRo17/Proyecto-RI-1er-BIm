@@ -1,0 +1,1 @@
+This type of answer is what I'm looking for:               In[58]:= ArcTan @ 1     Out[58]=  π/4       This is what mathematica gives me:               In[59]:= ArcTan@2     Out[59]= ArcTan[2]      Is it possible to express `ArcTan` in terms of $\pi$? I understand some fractions would be hairy. I am using `Mathematica 8`.

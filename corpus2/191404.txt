@@ -1,1 +1,0 @@
-I have written an application in Python using Tkinter and want to distribute under the WTFPL license. But I don't understand where to add the copying.txt file that needs to be added in the folder that is distributed. **Please** clarify.

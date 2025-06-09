@@ -1,1 +1,0 @@
-For my A2 Computing project I have created a game using Visual Basic. For the leaderboard section, I have used the My.Settings feature to store the scores when the game closes, but only one or two actually save. My teacher doesn't know and I can't find anything helpful after a google search of the problem

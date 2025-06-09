@@ -1,1 +1,0 @@
-Cleanroom is a software engineering process that's often mentioned in textbooks. There was some documented use of the process in the 90s (I believe it was used at the NASA Software Engineering Lab), but I haven't heard anything about it years. Does anyone have any direct experience using it on a software project?

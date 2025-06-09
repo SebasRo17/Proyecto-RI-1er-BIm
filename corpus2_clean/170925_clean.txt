@@ -1,1 +1,0 @@
-lsp state class substitutable base class meaning derived base class semantically equivalent lsp also apply class implementing interface word interface implemented semantically different user expects would considered violation lsp

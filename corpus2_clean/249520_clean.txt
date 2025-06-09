@@ -1,1 +1,0 @@
-writing pde solver bug show large test case small grid program give correct answer large amount unaccounted accounted roundoff discretization standard type unavoidably occur creep test case get day finish range debugger would take week printing intermediate result particularly useful given manually inspect see wrong find fix emergent bug

@@ -1,1 +1,0 @@
-building big website using normal old mysql query transaction communication database everything going fine including security little bit confused switch new pdo interface cause learnt safer keep using old mysql query mysql fetch assoc method close completing website switch pdo interface cost time start updating code little confused use pro con

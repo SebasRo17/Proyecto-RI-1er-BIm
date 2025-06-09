@@ -1,1 +1,0 @@
-I want to learn (and master) TDD. What are the best:   * books   * websites   * videos    * list of exercises   * personal words of wisdom for learning, appreciating, and using TDD?

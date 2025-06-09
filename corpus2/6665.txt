@@ -1,1 +1,0 @@
-The class diagram is modeled on the system requirements, and it is important to create solutions based on those requirements. If I have said class diagram should I strictly adhere to it? What about refactoring? What if the diagram did not provide some design principle that I feel were left out?

@@ -1,1 +1,0 @@
-say developing desktop application extensively us database one handle database entire app reference open connection need get close connection necessary

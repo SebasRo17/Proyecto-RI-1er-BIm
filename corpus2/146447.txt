@@ -1,1 +1,0 @@
-I read many articles, and saw a lot of images and I can't answer the question whether objects of View classes or DB classes should be contained on the sequence diagram or it should be more generalized?

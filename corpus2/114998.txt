@@ -1,1 +1,0 @@
-I can not see how a software project can make any meaningful progress under a waterfall methodology if the requirements cannot be clearly stated from the outset. Am I missing anything?

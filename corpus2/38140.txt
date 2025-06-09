@@ -1,1 +1,0 @@
-I want to improve the way that I develop software. I want to develop faster and a great code! Today I use the waterfall method as freelancer, writing web stuffs (sites, systems, etc). Is there a way to use agile development (XP, SCRUM, etc) working in this way? I don't know nothing about agile development, where should I start? Thank you very much.

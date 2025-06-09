@@ -1,1 +1,0 @@
-got app us mvc struggling little controller architected example view viewing subset model however unsure exactly arranged normal view model directly call function controller example sort interface totally encapsulated never know controller edit custom app written web framework looking framework specific detail freedom make choice

@@ -1,1 +1,0 @@
-I'm using the BigRational class from bcl.codeplex.com. It will be opensourced when it's finished, and it's modified. However, I don't get legal jargon, so even though it's quite short, could someone explain to me what it does/doesn't allow you to do?

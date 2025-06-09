@@ -1,1 +1,0 @@
-Can I (legally) use a program that is released under GPL from another program that I'm writing and not have to respect the GPL (for the program I'm writing)? For example, I have a GUI that uses a program (which is under GPL), can I hide the code in the GUI and even sell it?

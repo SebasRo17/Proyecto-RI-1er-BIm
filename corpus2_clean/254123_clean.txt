@@ -1,1 +1,0 @@
-noticed many famous library written objective c eg afnetworking use macro guard inside header file im aware import directive work exactly like include includes file need include guard reason still used

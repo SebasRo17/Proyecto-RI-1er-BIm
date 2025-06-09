@@ -1,1 +1,0 @@
-what is a basic block called if it contains a branch instruction? How about a block that does not contain a branch instruction? Thanks,

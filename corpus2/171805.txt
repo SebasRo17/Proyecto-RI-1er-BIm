@@ -1,1 +1,0 @@
-Does 'Me' in VB.NET refer only to an instantiation of the type? Just occurred to me that since I can reference properties in my VB.NET class without using 'Me', that I don't see a reason for using it for this purpose. Will referencing the variable either way always refer to the actual stored value for the property at runtime?

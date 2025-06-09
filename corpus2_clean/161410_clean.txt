@@ -1,1 +1,0 @@
-call malloc new c c application crt translate window api call

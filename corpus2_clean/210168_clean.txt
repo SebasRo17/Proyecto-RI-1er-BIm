@@ -1,1 +1,0 @@
-reading book chapter controlled exception test testing oriented testing testing exception handling running system unit level conclusion hard automatically trigger exception given layer system simulate cause exception usage aspectj aop approach solve problem aop create aspect throw expected exception attach called exception handling

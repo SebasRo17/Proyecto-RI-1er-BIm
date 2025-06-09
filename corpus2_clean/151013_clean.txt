@@ -1,1 +1,0 @@
-trying improve c coding technique reading c source open source project would recommend boost c library good one

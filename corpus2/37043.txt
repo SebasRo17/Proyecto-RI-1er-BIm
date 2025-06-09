@@ -1,0 +1,1 @@
+I have to compute the covariance of 50 very large integer matrices (2500x2000 elements). However, according to my estimation this will take around 10 days. Do you have any ideas how to speed things up?

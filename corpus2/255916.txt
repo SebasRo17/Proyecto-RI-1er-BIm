@@ -1,1 +1,0 @@
-Is there any rule that says the head of any linked list should contain data. Is it because by doing it so we save a space for one node. Why for some implementation of head contains data and for other it doesn't.

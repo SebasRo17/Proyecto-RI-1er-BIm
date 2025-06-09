@@ -1,1 +1,0 @@
-pipe filter architectural pattern defined chain processing element arranged element next every example seems consider inter process inter thread connection performed kind shared buffer seems haskell composition performing task say instance pattern even ordering explicit buffer use pipe yes say thing non lazy language

@@ -1,1 +1,0 @@
-read question answer still understand exactly need dynamically link library us lglp licence sdl library case understand lglp text correctly need somehow provide source library enough else need done

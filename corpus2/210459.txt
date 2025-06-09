@@ -1,1 +1,0 @@
-Should unit tests test passing all cases as well as all failing cases? For example, imagine I have a test `Widget_CannotActiveWidgetIfStateIsCancelled`. And let's say there are 25 possible states. Can I get away with testing only that I cannot activate my widget when State == Cancelled, or do I have to also test that I CAN activate it in each of the other 24 states?

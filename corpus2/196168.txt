@@ -1,1 +1,0 @@
-If I want to make a card game app or android, could I legally borrow parts of the Apache-2.0-licensed Solitaire-for-Android? Would I be able to charge such a project? (I was unable to understand the legal jargon in the license here.)

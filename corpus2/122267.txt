@@ -1,1 +1,0 @@
-look at these calls closely:               printf("hello, world\n");     printf("%d", 2);     printf("%d%g\n", 2, 2.3);      we see that printf can accept any type and any number of args. however we know that functions in c only take fixed length args and should have a compatible prototype to match the arg. what would be the prototype of printf ?

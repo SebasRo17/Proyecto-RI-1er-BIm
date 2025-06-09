@@ -1,1 +1,1 @@
-Why is XSLT used by many web applications?
+How to make a random function $\eta(t)$ to insert in a differential equation for NDSolve? Edit: example: to solve equations like $\frac{dx}{dt}=\eta(t)$

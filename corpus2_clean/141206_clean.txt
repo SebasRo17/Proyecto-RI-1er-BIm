@@ -1,1 +1,0 @@
-possible call constructor using argument var myclass b b b var would work asking way besides eval new myclass apply argument b

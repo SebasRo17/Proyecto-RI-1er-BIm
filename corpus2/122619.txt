@@ -1,1 +1,0 @@
-I was in an interview recently and was asked if I use any tools to ensure a clients expectations for a project are met. I couldn't really think of any actual tools apart from stuff like JIRA to ensure bugs/feature requests are kept track off. Has anyone else been asked this? What would have been a good answer to give? Thanks!

@@ -1,1 +1,0 @@
-We are starting to build a new app and I would like to explore the idea of doing a thick JS client (backbone / angular) with only RESTful API exposed by our application layer. What are some of the best practices and potential pitfalls for doing this kind of web app?

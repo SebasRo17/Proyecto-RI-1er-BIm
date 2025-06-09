@@ -1,1 +1,0 @@
-If I have a websphere MQ topic and 3 listeners have subscribed to the Topic. One listener is down when a message comes in the Topic. Other listeners consume the message. When the listener comes back up, will the message still be there? My gut feel is no, but i cannot say for sure.

@@ -1,0 +1,1 @@
+function know numerically say f x point x take significant time compute stored file f f possible tell nintegrate sample grid x try integrate function best method keep refining grid gathering data file result integration stop changing

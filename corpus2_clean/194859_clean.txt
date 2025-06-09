@@ -1,1 +1,0 @@
-secure performing authentication single paged apps talking specific client side server side framework general guideline best practice communication transfered primarily sockjs also oauth question

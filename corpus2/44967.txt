@@ -1,0 +1,1 @@
+As you can see in the screenshot below, Mathematica is simply not evaluating any quantities. It is simply listing them as I wrote them. Could anybody give me a pointer as to why this may be? ![enter image description here](http://i.stack.imgur.com/KbG0S.png)

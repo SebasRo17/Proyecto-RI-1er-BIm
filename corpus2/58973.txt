@@ -1,0 +1,1 @@
+I have a probability density function. Is there a mechanism to create a `Distribution` object from it, such that normal Mathematica commands that usually work on distributions, such as `Variance`, `RandomVariate`, etc., work on it?

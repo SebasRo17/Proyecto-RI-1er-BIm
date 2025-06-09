@@ -1,1 +1,0 @@
-Are there some statistics out there that show the approx. number of users that popular programming languages have and the rate this number increases over time?

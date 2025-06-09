@@ -1,0 +1,1 @@
+Graphics[Text[Style["Sqrt[a^2-b^2]", FontSize->25], {0,0}]]       yields: ![enter image description here](http://i.stack.imgur.com/paAeU.png) but I want the nicer looking $\sqrt{a^2-b^2}$ instead of the ugly "Sqrt[a^2-b^2]". How?

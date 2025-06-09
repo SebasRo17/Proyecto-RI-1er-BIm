@@ -1,1 +1,0 @@
-In many other languages like C++ and Javascript, OOP is optional. Procedural code is ok. But in languages like Java and C#, OOP is somewhat enforced. Everything is to be a part of a class or an object. What are the benefits?

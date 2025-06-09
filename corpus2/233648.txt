@@ -1,1 +1,0 @@
-I'm currently developing a responsive website with css media queries. It would be much easier if the server returned a different html/css for each viewport.   I was wondering why couldn't the client include its viewport information when requesting an html file. This behavior is already common for returning websites in the correct language using the `Accept-Language` header.

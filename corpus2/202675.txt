@@ -1,1 +1,0 @@
-I have some experience in programming in Java but wondering if someone could explain what is the difference between Enterprise Java vs Core Java? Someone asked me a question on whether I use core-Java or Enterprise Java. Now I have to ask is there such thing as core-java?

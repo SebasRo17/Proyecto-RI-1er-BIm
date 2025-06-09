@@ -1,0 +1,1 @@
+In a fresh _Mathematica_ session evaluating               Names["Global`*"]      doesn't give an empty list. The result is either > >     {rhs, z} >   or contains even more elements. Is this peculiar to Linux or does it happen as well in other platforms?

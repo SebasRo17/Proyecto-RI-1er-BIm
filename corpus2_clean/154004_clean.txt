@@ -1,1 +1,0 @@
-golang package seems discontinued make think concept networked channel good practice let otherwise case

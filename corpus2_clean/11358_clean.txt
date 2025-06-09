@@ -1,0 +1,1 @@
+want delaunay triangulation scattered surface data mathematica command delaunaytriangulation give triangulation point plane also tried mathlink package tetgenlink perform delaunay triangulation three dimensional data problem tetgendelaunay produce triangulation inner region data see manage triangulation done surface like done matlab delaunaytri see question

@@ -1,1 +1,0 @@
-Why is big O most commonly associated with worst and average case complexties of a function

@@ -1,1 +1,0 @@
-read hibernate reference say use constans hql query however always possible example search num criterias jpa criterias column searching bet hacky hql transformed badly performing sql feel best choice know use criterion api powerfull hql people like one application mean like example hql list parameter datefrom hql datefrom parameter add datefrom

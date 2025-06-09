@@ -1,0 +1,1 @@
+the problem is following: my task is to make an animation: tube changes its radius but doesn't change its height. With command               Animate[Graphics3D[{CapForm["Square"], Tube[{{0, 0, 0}, {0.5, 0.5, 0.5}}, r]}],              {r, 10^(-9), 1}, AnimationRunning -> False]`      It changes both radius and length. How to make the fixed length?

@@ -1,1 +1,0 @@
-Both Android and iOS seem to support their application having a binary delta update. But how does it work? I build a binary program, neither of the distribution sites have the source code - how does the update process know what is changed?

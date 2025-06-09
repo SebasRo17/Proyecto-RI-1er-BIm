@@ -1,1 +1,0 @@
-num foo log bar getting var bar num foo log bar working bar snippet log custom log result

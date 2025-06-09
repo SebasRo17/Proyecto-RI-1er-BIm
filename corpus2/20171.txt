@@ -1,0 +1,1 @@
+How can I draw a plot like this one? I want to be able to specify the x-axis, y-axis, and z-axis ticks and the number of bars in the plot. ![enter image description here](http://i.stack.imgur.com/i4fgD.jpg)

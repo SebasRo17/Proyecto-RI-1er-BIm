@@ -1,1 +1,0 @@
-I just read through this question, but I am still confused. How can I know if my app is using undocumented API calls before submitting to it to the app store? Are there any tools I can use?

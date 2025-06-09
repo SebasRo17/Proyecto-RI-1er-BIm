@@ -1,1 +1,0 @@
-During a recent code review I was asked to put `default` cases in all the files wherever `switch` block is used, even if there is nothing to do in `default`. That means I have to put the `default` case and write nothing in it. Is this the right thing to do? What purpose would it serve?

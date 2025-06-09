@@ -1,1 +1,0 @@
-Are there any practical references (with actual examples) for getting started implementing a small, lazy functional programming language with graph reduction? A reference that included the lexing and parsing steps would be especially helpful. So far I've read most of the _Implementation of Functional Programming Languages_ by Simon Peyton Jones and the Wizard book (SICP).

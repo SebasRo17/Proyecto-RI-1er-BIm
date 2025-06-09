@@ -1,1 +1,0 @@
-In an OS book I just read that, "Public APIs are forever: Only one chance to get it right". Is it true? Is it applicable only in APIs of Operating Systems or other APIs too? For example, will this be true for the APIs of Android Applications such as Tasker, Locale and Pushover?

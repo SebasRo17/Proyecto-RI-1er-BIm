@@ -1,1 +1,0 @@
-As the definition "a module consists a single block of code that can be invoked in the way that a procedure, function, or method is invoked", the definition seems very vague and broad. So could anyone explain it in other clear words and show some actual example how to break a requirement into module. Thanks

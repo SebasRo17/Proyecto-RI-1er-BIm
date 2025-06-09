@@ -1,1 +1,0 @@
-Is it necessarily if a software released under both of LGPL3 && GPL3 terms have to include both license header notice top of each file? Or just put GPL header notice? or simply put LGPL3 license text in some file like COPYING.LESSER ? EDITED: I am the copyright holder of the project!

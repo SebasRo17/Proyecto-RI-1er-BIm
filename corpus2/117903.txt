@@ -1,1 +1,0 @@
-I am new to developing Chrome extensions and I used Stack Overflow to ask many questions and got great answers. I finally finished a beta version and uploaded it to Chrome store only for test users. Now I am not sure where to find test users so I decided to ask here. Is there a separate forum where people post their apps or extensions for review?

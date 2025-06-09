@@ -1,1 +1,0 @@
-trying understand purpose making file using command cmake make tried looking online concise explanation purpose could find also necessary use make project folder built order use source c project know may simplistic question fairly new building file information reference would much appreciated

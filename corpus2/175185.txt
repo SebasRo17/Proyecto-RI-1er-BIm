@@ -1,1 +1,0 @@
-In a traditional MVC application, which component (model, view, or controller) is responsible for reading/writing the model to/from disk?

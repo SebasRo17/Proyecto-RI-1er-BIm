@@ -1,1 +1,0 @@
-c book author say longer need long parameter list parameter refactored state variable hand functional programming book say state variable evil cause side effect cause bug prone hard parallelize getting puzzled avoid relying state variable much possible moving state parameter list

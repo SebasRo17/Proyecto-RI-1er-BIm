@@ -1,1 +1,0 @@
-Code needs to be written to file, on way or another. While all programmers should strive to write no more code than necessary, this "small" portion needs to be written nevertheless. What tips do you have for improving the code writing effort? Usage of IDEs? Different keyboards or character layouts? Minimal usage of mouse? Code generation tools? What else can you think of?

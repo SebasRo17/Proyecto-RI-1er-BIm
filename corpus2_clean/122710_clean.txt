@@ -1,1 +1,0 @@
-trying refactor application mvc stuck part database backed app model implemented app right database also model using database simple store db enterprise asset

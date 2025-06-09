@@ -1,1 +1,0 @@
-Why will anyone even attempt to write a programming language? It seems to be a tedious task and the alternative (simply using an existing language) seems to make much more economical sense. Microsoft may hire people to write .NET because they have too much spare money to burn. But why will anyone else write a language if they aren't paid for it?

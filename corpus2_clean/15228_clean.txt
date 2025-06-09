@@ -1,0 +1,1 @@
+mathematica function convert transferfunctionmodels statespacemodels mytf transferfunctionmodel statespacemodel mytf corresponding function convert zero pole gain model

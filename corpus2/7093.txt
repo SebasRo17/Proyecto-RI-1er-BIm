@@ -1,1 +1,0 @@
-I'm searching for an explanation of how MapReduce works with visuals. Specifically, a flow chart of actions and pictures of how it deals with information on the stack/memory in parallel to return. Does anyone have source for this?

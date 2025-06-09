@@ -1,1 +1,0 @@
-currently working web mail client user log fetching mail inbox beginning time expected pretty darn slow planning implement sort filtering caching technique looking idea fetch message number trim sort descending order message last message received first also would preferable store mail intermediate database fetch

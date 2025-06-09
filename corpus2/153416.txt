@@ -1,1 +1,0 @@
-Lets say i have an off the shelf eccomerce cart. I put all the code inside subversion. I start to make changes and check the code changes back in. is it possible to then display each "check in" with the developer messages so that i can make release notes? I would like to use this for actual quoted time.

@@ -1,1 +1,0 @@
-normally tcp ip sequence acknowledge number num bit however need way shorten num bit experiment deep inspection firewall question possible shorten bit resolution seq ack number window without knowledge application case ii want use top num bit store session information

@@ -1,1 +1,0 @@
-I have a client with an existing straight up HTML/JavaScript site. No back end of any kind. He wants to add email functionality to it and I was thinking of using Node to do this for two reasons:   1. It seems like an extremely lightweight way to do it   2. He's talking about adding further functionality in the future. What are the positives and negatives of this approach?

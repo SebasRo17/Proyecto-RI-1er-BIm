@@ -1,1 +1,0 @@
-also: defs, java fields, agents The clojure website has documentation for these concepts:   * Vars   * Atoms   * Refs   * Agents I understand the words, but I don't conceptually get the _purpose / meaning_ of these. When should I / how can I know when to use them?

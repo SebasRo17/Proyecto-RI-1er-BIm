@@ -1,0 +1,1 @@
+I would like to create a button that when I click it it evaluates a cell containing a manipulate code. Also, I would like another button that when I click the output of manipulate disappears. How can I do it ?

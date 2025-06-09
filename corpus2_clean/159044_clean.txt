@@ -1,1 +1,0 @@
-currently learning point book using math library looked website noticed library bit scarce writing useful function example went ahead wrote take coefficient root equation essentially quadratic formula wondering possible add math library save use program write calling

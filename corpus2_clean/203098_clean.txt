@@ -1,1 +1,0 @@
-hey working product live multiple portal product developed gwt hibernate question whether alternative using property file requirement num one property key multiple value live portal different portal num time change property file need make war num loading property time consuming help would

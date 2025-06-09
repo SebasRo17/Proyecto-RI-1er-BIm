@@ -1,0 +1,1 @@
+Basically, I want to move a graphic (such as a circle) along a given path (such as sin(x)). I was thinking that the trick might be making the x and y coordinates of the circle vary based on the equation, but I have not been able to make anything except a circle that just sits there.

@@ -1,1 +1,0 @@
-Just out of curiosity. There are many open standards for data exchange, as well as standards for exchanging code (jsonp, for example). But are there any standards for exchanging formulas/rules, for them to be executed on different platforms?

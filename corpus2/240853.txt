@@ -1,1 +1,0 @@
-I'm a programmer and I'm looking to play around with translating one language to another. Say C# to Lua. I'm curious as to how translating languages like that works? I would think there is some kind of standard methodology that I could perhaps look into for this or is it pretty raw?

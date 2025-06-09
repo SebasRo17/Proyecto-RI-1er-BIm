@@ -1,1 +1,0 @@
-With "cell" I mean the value of a particular column in a particular row. I'm not sure if its called just "cell" or this is a spreadsheet thing.

@@ -1,0 +1,1 @@
+How can one plot a continuous function of the variable $x$, say $f(x)$, but only for integer values of $x=n$ with $n\in\mathbb{N}$ - i.e., as it was a List?

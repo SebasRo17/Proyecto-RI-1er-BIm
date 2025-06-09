@@ -1,1 +1,0 @@
-Lets say you don't use a license for your open source project. And you don't put anything about a license anywhere in the code..is this okay to do?

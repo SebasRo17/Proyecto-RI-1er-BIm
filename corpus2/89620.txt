@@ -1,1 +1,0 @@
-When I write code I always try to make my code as clean and readable as possible. Every now and then there comes a time when you need to cross the line and go from nice clean code to slightly uglier code to make it faster. When is it OK to cross that line?

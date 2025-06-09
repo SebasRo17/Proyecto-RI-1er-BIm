@@ -1,1 +1,0 @@
-using cairo vector graphic library work quite understand part default transformation matrix need transformation matrix anyway suppose want rotate text still need set still set

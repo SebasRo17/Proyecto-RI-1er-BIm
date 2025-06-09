@@ -1,1 +1,0 @@
-Imagine I have the following code:               class A:         pass          class B(A):         pass          class C(A):         def __init__(self):             self.b = B()      Is the above code correct in terms of correct inheritance? I mean is it a good practice to reference another subclass in a subclass?

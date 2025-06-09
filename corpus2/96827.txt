@@ -1,1 +1,0 @@
-On my webpage, i have to generate some excel and pdf files but the user has to wait until the file is generated. the scenario is this: user press a link and waits until the files are generated and displayed as a links on the raports page. how can i 'tell' to the user to wait?

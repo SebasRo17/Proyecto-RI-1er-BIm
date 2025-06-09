@@ -1,1 +1,0 @@
-I've realized that I refer to `<%@` as 'angle bracket percent at' and `<%$` as 'angle bracket percent dollar', But this is very clumsy. I think `<%$` should be referred to as some sort of bind, I'm not 100% sure what `<%@` does, and Google doesn't like that as a search term. How do programmers normal label these terms?

@@ -1,1 +1,0 @@
-One of my colleagues has suggested timing how much time each team member spends on each user story. This seems to me likely confusing for the dev team during the iteration, and misleading as a metric for story estimation in future planning meetings. Do any of you have experience with such a system and any thoughts on how useful or disruptive it might be?

@@ -1,1 +1,0 @@
-I need a simple pathfinding algorithmn to go from point A to point B. A* seems like an overkill because It doesn't matter wheather I hit walls or not and there's no terrain. I was wondering if there was a simpler one which would find a direct path(a straight line) from point A to B.

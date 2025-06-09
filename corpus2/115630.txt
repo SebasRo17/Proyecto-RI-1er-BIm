@@ -1,1 +1,0 @@
-In minecraft, before creating a world you have an option to input a seed. The algorithm takes the seed and creates a completely unique world. How does this work?

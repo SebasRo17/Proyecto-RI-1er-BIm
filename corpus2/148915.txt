@@ -1,1 +1,0 @@
-I just finished a redesign for a website that is currently using Google Analytics. I want to continue to use Google Analytics, but I'm not sure if I should create a new profile for the new site or simply use the old UA number. The new website has a completely different URL structure and much of the content has been updated/deleted/added.

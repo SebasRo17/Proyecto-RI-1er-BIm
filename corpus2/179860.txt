@@ -1,1 +1,0 @@
-The 'continue' keyword in Java (and probably in many other programming languages) is used to skip further execution of the current iteration. Why was the name 'continue' chosen? Why not something more straightforward like 'skip' ?

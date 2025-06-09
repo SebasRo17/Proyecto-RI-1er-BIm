@@ -1,0 +1,1 @@
+I will appreciate if anyone can give me an hint about freepascal and mathematica mathlink communication. I'd like to build a Form using Lazarus/freepascal that call mathkernel. I'm trying to move away from ExcelLink-component to a home made Form.

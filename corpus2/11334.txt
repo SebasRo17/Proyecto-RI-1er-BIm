@@ -1,1 +1,0 @@
-Does your company have a written policy about contributing to open-source projects? We've been contributing "don't ask don't tell" style, but it's time to write something down. I'd appreciate both full written policy text and bits and pieces. **Update** : we've made some progress since I asked this question and now have such a policy - read this.

@@ -1,0 +1,1 @@
+In the Wolfram Demonstration Fermat Point for Many Points, it appears that the geometric median is being calculated for an arbitrary set of five manipulable points. How might one extend this demonstration to computing the median of an arbitrary list of points?

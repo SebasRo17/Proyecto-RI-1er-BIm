@@ -1,1 +1,0 @@
-many popular programming languges c etc concept hiding shadowing variable function encountered hiding shadowing cause hard find bug never seen case found necessary use feature language would seem better disallow hiding shadowing anybody know good use concept update refering encapsulation member private protected member

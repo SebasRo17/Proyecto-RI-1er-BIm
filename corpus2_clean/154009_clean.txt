@@ -1,1 +1,0 @@
-random question regarding switch case efficiency case case following assume pseudo bool isvalid mystring switch mystring case case case default efficient bool isvalid mystring switch mystring case case case default performance equal thinking specific language needed let assume c case would needed use char instead string

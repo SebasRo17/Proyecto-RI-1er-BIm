@@ -1,1 +1,0 @@
-I have a member class which stores the IP, and ports used on that member. Another class P2P stores a list of all the members currently in the network and provides join,leave functionality. What kind of relationship will exist between them in a class diagram?

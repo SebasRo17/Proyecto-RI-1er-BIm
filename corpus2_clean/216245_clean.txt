@@ -1,1 +1,0 @@
-recently clustered application came light ssl offloading via load balancer production work right mimic functionality local machine ssl offloading apache proxy still num num comparison similar issue arise dealing stateful application sticky session would industry standard testing kind production black box scenario local environment especially relates clustering

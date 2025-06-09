@@ -1,1 +1,0 @@
-See top answer here: _Obfuscation at source-code level more effective than obfuscators?_, specifically "Code it in a language so not easy to decompile such as C/C++" I'm looking to write a new application that will be sold for $500 per license, so I'd like to prevent decompilers. Should C# be avoided, or is using an obfuscator sufficient to prevent this sort of thing?

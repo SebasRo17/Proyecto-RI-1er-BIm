@@ -1,1 +1,0 @@
-want write shell script connect remote server execute command linux command using linux want prepare shell script login virtual directory server execute given command e want execute command

@@ -1,1 +1,0 @@
-I have a rest webservice with an endpoint `www.foobar.com/service.svc/MAC` (migration authorisation code). Posting and getting to that adds and gets one MAC respectively. I now need to impliment a new enpoint for all MACs. What would that be? `www.foobar.com/service.svc/MAC/All` seems wrong. What would be correct and why?

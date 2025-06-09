@@ -1,0 +1,1 @@
+Is there a possibility to suppress the Mathematica Kernel taskbar tab when accessing it through .NETLink on Windows?

@@ -1,1 +1,0 @@
-two developer previous experience sharing one php project particular cakephp use netbeans set project php application remote server project also use git bitbucket version control well problem whenever one u make change save get updated server developer environment right path taking sharing project make update avoid overriding

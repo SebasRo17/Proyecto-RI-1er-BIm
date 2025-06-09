@@ -1,1 +1,0 @@
-question naming writing update structure database according specification somewhere something like table tbl index idx table idx idx index idx see well named quite create index creates index already exist come variety name etc however exists recurring idiom programming wondering kind standard plural form like could considered standard singular form even grammatically correct

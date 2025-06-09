@@ -1,1 +1,0 @@
-I'm creating a music player using C++ and QT, everyone says use FMOD. But QT has all the components, I can play audio, create playlist, and everything i need, so what does FMOD offer me, that can't be done with QT? I did some research, here and here and here, and so many other results; in fact if you just google _"create music player"_ you get _"use fmod and qt as GUI"_.

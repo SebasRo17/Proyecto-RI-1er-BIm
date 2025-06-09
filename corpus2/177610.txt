@@ -1,1 +1,0 @@
-I would like to know whether the information in an interface such as the variables which are final and the methods which are abstract and static would all live in method area ??? And what would be there order in case of initialization? Would they be initialized before any of the non static variables or methods?

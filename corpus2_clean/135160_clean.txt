@@ -1,1 +1,0 @@
-recently studying dynamic type c example understood compiled need recompiled executed directly feel flexibility provided keyword actually able change great advantage question specific shortcoming apart wrong dynamic call throw time exception developer must know starting implementation

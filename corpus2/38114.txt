@@ -1,0 +1,1 @@
+I want to increase the precision globally to `50` at least, but `$MinPrecision` does not work.               $MinPrecision = 50;     x = Sin[2.]     (* -> 0.909297 *)          Precision[x]     (* -> MachinePrecision *)      How to set the working precision globally, i.e., make all the calculations in the notebook use the new precision?

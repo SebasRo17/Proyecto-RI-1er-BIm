@@ -1,1 +1,0 @@
-I did my homework, and it says that dynamic data structures are "data structures that change in size as a program needs it to by allocating and de- allocating memory from the heap". So I was wondering, are PHP arrays examples of dynamic data structures, or are they limited to binary trees and double-linked lists? Thanks.

@@ -1,1 +1,0 @@
-storing wcf endpoint registry using whenever app start instantiate wcf derived user change endpoint location another server registry get updated worried security let say malicious user update registry key set cause client app make connection know best practice involved

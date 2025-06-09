@@ -1,1 +1,0 @@
-I am involved with the development of a Windows application that has various screens. One of them takes ten seconds to appear with no spinner or other indication that the screen is loading. I consider this a serious performance issue but I seem to be the only one who is concerned. Am I being overzealous? What is an acceptable amount of time to wait for a screen to appear?

@@ -1,1 +1,0 @@
-Let's imagine I have an abstract class named `ProtocolA` that represents the basic operations to work with the protocol **A**. Such protocol is in version 1, but new revisions are expected in the future. Version 2 is coming. How should I name the classes that implements that abstract class for each version? `ProtocolA1` and `ProtocolA2`? Cheers.

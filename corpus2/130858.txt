@@ -1,1 +1,0 @@
-Software developers don't typically use date as version number, though YYYYMMDD format (or its variances) looks solid enough to use. Is there anything wrong with that scheme? Or does it apply to limited 'types' of software only (like in-house productions)?

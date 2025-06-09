@@ -1,1 +1,0 @@
-This all is with respect to Microsoft project CodeBook: CodeBook There is huge amount of code in the repository, many classes , a call hierarchy of functions, testcases etc. I am interested in knowing how this crawling process takes place, and how this data is sorted?

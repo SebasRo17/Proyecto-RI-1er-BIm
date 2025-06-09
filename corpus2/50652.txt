@@ -1,1 +1,0 @@
-Some seem to say that one should avoid C99 features in C code as compilers don't really support those features. C99 is a standard from 1999, shouldn't these features be quite widespread now? Should one avoid using C99 features in new code? In legacy code? I happen to use some C99 features quite often, should I stop doing that or be more careful with the use of those features?

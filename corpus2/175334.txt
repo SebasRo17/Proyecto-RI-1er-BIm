@@ -1,1 +1,0 @@
-Looking for non-conceptual/non-contrived reasons of when one would need to use an object with both a `private` copy constructor and a `private` assignment operator? _As in what problem does this technique/practice solve, that some other technique couldn't solve?_

@@ -1,1 +1,0 @@
-came across snippet like find engineering good practice public extends arraylist school public school extends arraylist studentlist public studentlist extends arraylist student public student actually prefer straightforward option list list list student

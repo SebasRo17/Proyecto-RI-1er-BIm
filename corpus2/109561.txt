@@ -1,1 +1,0 @@
-I'm currently working on a project that uses a Webserver running in Windows CE 6.0. Since this server only supports classic ASP (i.e, no PHP, ASP.NET, etc.)/ I plan to use XML as the database. Is this the best approach, or there is an easier way to do this, taking in consideration that I'm used to work in C and not high level languages?

@@ -1,1 +1,0 @@
-developing web application allow user schedule appointment based timezone storing user scheduled datetime server datetime database field showing schedule information retrieved database converted user processing base converting datetime based user timezone please suggest best practice easy way exist

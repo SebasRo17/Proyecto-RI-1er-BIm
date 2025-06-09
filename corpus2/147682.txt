@@ -1,1 +1,0 @@
-Often when configuring settings, applications have both an "Apply" and an "Ok" button. Should the "Ok" button always perform the "Apply" before closing the window out? Are there pros and cons to doing this?

@@ -1,1 +1,0 @@
-In which respects "Just In Time" compilation is better than "Ahead Of Time" compilation? And vice versa. Is AOT same as direct native compilation?

@@ -1,1 +1,0 @@
-I'm a self taught iOS (iPhone/iPad) programmer but didn't study CS in school. Are there any books or site I can study that will teach more about CS, in general. For example some common practices and how different languages work together etc. I don't need full details but simply just an overview of common CS stuff. I know this is a broad question but any info would be good.

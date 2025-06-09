@@ -1,1 +1,0 @@
-assignment create tic tac toe game people like complicate wrote complex game included menu end game option play quit program used noticed classmate using bools efficient difference storing answer store two value rather storing bool exact purpose variable

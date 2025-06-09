@@ -1,1 +1,0 @@
-I don't like ms diff that integrated into Visual Studio 2008 TFS Edition. Is it possible to change this file comparer to external one (Beyond Compare, for example)?

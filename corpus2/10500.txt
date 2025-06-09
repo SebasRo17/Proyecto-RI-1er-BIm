@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Integro-differential equation I have to solve an Integro-differential equation with Mathematica or Matlab, in the following form:               Dy/Dt = Integral[K(x,u)(D2y/Du2) du] + Sin(y)      The function `K(x,u)` is known, as well as the initial conditions. I have no clue how to solve this; can anyone give me some pointers?

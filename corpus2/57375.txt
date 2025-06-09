@@ -1,0 +1,1 @@
+I was messing around with different styles and tried the MUnit style. I converted back to Standard Report but I still see the toolbar for testing notebook. Is there a way to get rid of it? ![Want to get rid of this "toolbar"](http://i.stack.imgur.com/m8W1p.png)

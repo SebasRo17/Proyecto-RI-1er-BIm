@@ -1,1 +1,0 @@
-I'm working in a company and in my job contract there are confidential clauses concerning code, documents, etc... In the company we are working on an open source project (GPL V3). The project is not shared yet to the public. Do I have the right to share the code of the project with people (out from the company)?

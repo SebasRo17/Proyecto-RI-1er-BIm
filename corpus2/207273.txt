@@ -1,1 +1,0 @@
-I am developing a cryptographic program and i am planing on distributing it using GitHub, But there are some regulations on the export of cryptographic software, how do make myself not liable if someone takes it out of the county? what disclaimer should i include with my software when i distribute it?

@@ -1,1 +1,0 @@
-What is a good way to define "state", as in state variable or state machine, to a new (previously non) programmer? What are some good ways to explain why this concept is useful for writing software? Is the concept of state explicitly taught in beginning programming courses or books commonly?

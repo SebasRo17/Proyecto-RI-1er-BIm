@@ -1,1 +1,0 @@
-understand ideal way prepare build using visual studio use single build machine mean developer go development process using respective machine build prepared machine build pc used instead condition necessary check using tfs example setup project version controlling particular project required change would done build machine concern others

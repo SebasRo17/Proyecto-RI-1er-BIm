@@ -1,0 +1,1 @@
+I am doing a large Matrix calculation in which I need to generate symbols first like $F^{\mu\nu}$ I would like to get $\mu\nu = 00, 11, 22, 33$ and so on. I need to have the symbols before I can assign anything. Is there way to achieve this?

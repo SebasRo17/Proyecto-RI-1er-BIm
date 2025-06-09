@@ -1,1 +1,0 @@
-folk two separate class one make http request receives response server second one convert received json object model separate class thinking would idea include converting inner first first extra big need leave everything good common practice behave like

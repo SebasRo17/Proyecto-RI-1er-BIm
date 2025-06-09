@@ -1,1 +1,0 @@
-Our project is fully open source - it is a web service, we are using the AGPL3 license. Using this license, does that mean we can never offer it as a paid service?

@@ -1,1 +1,0 @@
-logic webservice involves talking supplier webservices checking availability ordering ect dont test environment majority call cant arbitrarily example cease would would actually stop service feasable unit test environment could typical response im worried hardcoding supplier response would undermine point unit test

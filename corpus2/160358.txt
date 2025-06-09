@@ -1,1 +1,0 @@
-Is it possible to use hash function but with File instead of Array, and it's gonna be saving the record in a file position and then search will fseek to that position, but I'm not sure how to open a file with let's say 1000 line, do you think that method could work?

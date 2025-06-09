@@ -1,1 +1,0 @@
-As far as I know, the Squeak environment is quite isolated from the rest of the operating system. However, I'm looking for a way to execute external code, which will be written in a different language, from within it. We need this to connect to an old code base. Is this possible? Which options do I have?

@@ -1,1 +1,0 @@
-finished coding basic ray tracer c fun learning experience want learning experience seems ray tracing prime candidate parallel processing something little experience question know optimum number concurrent process first instinct tell depends many core processor like said new may neglecting something

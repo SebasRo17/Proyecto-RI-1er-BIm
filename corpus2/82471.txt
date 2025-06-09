@@ -1,1 +1,0 @@
-I'm writing a paper about the C# (and Go) type system with focus on the dynamic aspect. Does anybody have suggestions for papers/literature? The things I found don't go much into detail. I would like to add some paragraphs on how it's implemented, comparisons with other languages, speed, memory allocation etc.

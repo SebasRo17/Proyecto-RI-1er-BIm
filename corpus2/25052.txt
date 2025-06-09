@@ -1,1 +1,0 @@
-The idea of recursion is not very common in real world. So, it seems a bit confusing to the novice programmers. Though, I guess, they become used to the concept gradually. So, what can be a nice explanation for them to grasp the idea easily?

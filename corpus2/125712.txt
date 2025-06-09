@@ -1,1 +1,0 @@
-C# seems to be popular these days. I heard that syntactically it is almost the same as Java. Java and C++ have existed for a longer time. For what reasons should I choose C# over Java and C++?

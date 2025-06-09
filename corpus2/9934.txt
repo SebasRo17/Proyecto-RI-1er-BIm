@@ -1,0 +1,1 @@
+I have been given some code with the following line               PeriodicExtension[g_, x_] := If[Abs[x] < Pi, g[x], PeriodicExtension[g, x - 2 Sign[x] Pi]]      I do not understand the syntax. I would appreciate if someone can explain what this code does for different values of `x`.

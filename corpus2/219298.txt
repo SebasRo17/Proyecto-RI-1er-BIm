@@ -1,1 +1,0 @@
-I would like to understand how a spreadsheet (a group of named or otherwise identified cells containing values or formulas referencing other cells) is solved. I have tried looking at existing projects, but there was so much going on with the GUI, serialization, events, etc. that I couldn't find the spreadsheet. At its simplest how does it work?

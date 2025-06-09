@@ -1,0 +1,1 @@
+I've got a program that's fairly long. Occasionally I ClearAll some lists that I created. That works fine, but those lists continue to show up in the autocomplete. Is there anyway to remove them from the autocomplete?

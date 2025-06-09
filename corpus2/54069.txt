@@ -1,1 +1,0 @@
-Anecdotally, I've visited many .aspx website that require a significant amount of load time for each page. Is my experience unique? If not, why might an ASP.Net website load slowly?

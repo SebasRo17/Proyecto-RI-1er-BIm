@@ -1,1 +1,0 @@
-according visualizer string allocated stack heap thought would similar string allocated heap

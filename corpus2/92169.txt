@@ -1,1 +1,0 @@
-I was looking for an Intel alternative to MASS IBM libraries (Mathematical Acceleration Subsystem). I know Intel implements MKL libraries, but I d'nt know if there is a specific Math acceleration library in it.

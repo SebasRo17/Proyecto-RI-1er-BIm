@@ -1,1 +1,0 @@
-I am a just a little script kiddy, but I want to make the jump from just doing standrard console games in C++ to full graphic video games. I am just wondering if there are any good Directx 11 tutorials that I could start with.

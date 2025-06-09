@@ -1,1 +1,0 @@
-Does working with good code make you a better developer or does it make you soft and reluctant to work with anything _less_ than quality code?

@@ -1,1 +1,0 @@
-In D I can create templates like this:               template Foo(A) {         A add(A a, A b) { ... }         A multiply(A a, A b) { ... }         A concatenate(A a, A b) { ... }     }      What should a template be named ideally? What conventions exist out there? I'm looking to something similar like 'function names must always start with a verb'.

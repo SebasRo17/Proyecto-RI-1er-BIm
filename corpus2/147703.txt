@@ -1,1 +1,0 @@
-The Ecma-334 (ISO/IEC 23270:2006) standard corresponds to the version 2.0 of the language. Specification of version 4.0 is freely available from Microsoft, but Microsoft's open specifications list only lists the Ecma (version 2.0) version. So what about all the good features added in the later versions (LINQ, lambda functions, etc)? Can one implement them in his compiler?

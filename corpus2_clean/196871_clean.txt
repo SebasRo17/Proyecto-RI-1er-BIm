@@ -1,1 +1,0 @@
-browser support issue aside http hateoas stickler verb request log site delete would seem like obvious choice sure resource deleting would

@@ -1,1 +1,0 @@
-question whether use different access layer different database provider like sql server mysql server oracle etc better use single access layer orm like mapping database specific activity taken care less coding complete duplication across different access layer give suggestion along reference use case c programming language net platform

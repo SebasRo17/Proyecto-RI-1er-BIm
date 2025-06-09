@@ -1,0 +1,1 @@
+What's a way to sum over the first n items in a sequence, for example the sequence defined by $2^{k-1}\cdot k$ for $k\in\mathbb{Z},k>0$? I do these by hand all the time but am a bit tired of doing this, so I'm looking for a way in mathematica. Sorry if someone already asked this before, couldn't find any similar questions.

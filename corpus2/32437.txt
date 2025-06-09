@@ -1,0 +1,1 @@
+I've searched the documentation, this forum and with google, but I was not able to find how to ask _Mathematica_ to give back the name of the current notebook file one is working on. Perhaps something with `EvaluationNotebook[]`, but that gives a `NotebookObject`. How is it possible to use this information to retain just the filename?

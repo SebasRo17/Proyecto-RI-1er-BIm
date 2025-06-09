@@ -1,1 +1,0 @@
-net clr interpreter since get compiled native jit find usual description running clr confusing native interact clr insert call clr method beginning end method example idea

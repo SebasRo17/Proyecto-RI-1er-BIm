@@ -1,0 +1,1 @@
+I imported excel data to Mathematica using this command.               kuruzD = Import[     "C:\\Users\\TMH\\Documents\\Problem Set 4\\kuruzData.xlsx"][[1]] //TableForm       I want to extract the 5th column. So, I used the command,               kuruzD[[All, 5]]      but, it results the data in 5th row? Could anyone please tell me what is my mistake?

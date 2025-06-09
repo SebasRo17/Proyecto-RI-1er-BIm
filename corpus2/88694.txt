@@ -1,1 +1,0 @@
-I need an editor where I can edit my code client side, then highlight part of it and run the highlighted code on the connected server. An Example of this would be SQL management studio, but I need it for shell scripts and other languages. UltraEdit does something close with a copy-paste mechanic, are there any others?

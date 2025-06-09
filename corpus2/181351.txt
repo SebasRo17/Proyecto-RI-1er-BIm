@@ -1,1 +1,0 @@
-I've been reading about Developer (or Programmer) Anarchy, which seems to be billed as a post-Agile development methodology. I found a few resources on it (1, 2) but it doesn't seem to be a lot out there. I was wondering if anyone had any good resources where I could find out more about it _ how to implement it, pros and cons, comparison with other methodologies etc.

@@ -1,1 +1,0 @@
-Is there are any standards or conventions on naming methods which add something if it not exist into another something. For example: **Store.instance().addItemIfNotExist(item)** IfNotExist is really ugly part. What workaround may be?

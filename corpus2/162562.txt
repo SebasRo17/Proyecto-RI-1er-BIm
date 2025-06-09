@@ -1,1 +1,0 @@
-I see lots of SOA books surrounding Java and have always had the subliminal notion that Java is the "right" language for robust/enterprisey SOA, even though I know what SOA involves and that it is perfectly possible using other languages & frameworks. What _exclusive_ traits Java has that other languages/platforms don't, that makes it so popular for SOAs?

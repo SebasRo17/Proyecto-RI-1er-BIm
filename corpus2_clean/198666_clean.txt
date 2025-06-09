@@ -1,1 +1,0 @@
-currently develop website application codeigniter like something php codeigniter make common template separate section website thinking would keep header footer separate php file include separately thing sure content beneath header footer website application contain lot different page hard time figuring best way

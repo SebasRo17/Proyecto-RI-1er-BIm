@@ -1,1 +1,0 @@
-As per my knowledge daemon thread is a thread that runs in background(low priority thread) and also a child thread runs in the background when the parent thread runs foreground so where does the difference lie between a child and a daemon thread? It's in case of java and can you explain referring to other languages too.

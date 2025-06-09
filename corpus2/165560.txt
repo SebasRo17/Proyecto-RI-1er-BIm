@@ -1,1 +1,0 @@
-I have a hard time learning algorithms (Particularly graphing algorithms). Do you know of any good free resources that make some of the more harrowing algorithm concepts such NP-Complete, Traveling salesman, and other algorithms, A* heuristics, particularly graphing algorithms, simpler to learn?

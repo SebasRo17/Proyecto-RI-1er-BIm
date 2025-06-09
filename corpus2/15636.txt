@@ -1,1 +1,0 @@
-What should be in a good (read:useful) coding standard?   * Things the code should have.   * Things the code shouldn't have.   * Should the coding standard include definitions of things the language, compiler, or code formatter enforces?   * What about metrics like cyclomatic complexity, lines per file, etc?

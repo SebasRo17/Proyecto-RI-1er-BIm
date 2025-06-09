@@ -1,1 +1,0 @@
-trying understand javabeans good example encapsulation view usually internal state exposed getters setter simple example public test private list name new arraylist public list name public list name name name follows javabeans standard leak implementation example user could call test clear missing something

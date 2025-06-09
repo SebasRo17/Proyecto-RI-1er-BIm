@@ -1,1 +1,0 @@
-using xcode building iphone apps two month finding really hard grasp good application design always face problem like put tabbarcontroller another custom viewcontroller example sometimes course would work creation view viewcontrollers programmatically know start writing creation object use interface builder experience

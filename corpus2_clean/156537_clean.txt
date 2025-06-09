@@ -1,1 +1,0 @@
-little knowledge application security often seen protect application csrf attack developer use token pas token request validate want know validate request coming server reject request coming server unsafe

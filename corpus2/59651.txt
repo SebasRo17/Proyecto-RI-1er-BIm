@@ -1,0 +1,1 @@
+I would like to accurately distort this plot of $\sin(x^{1/2})$ (and others like it) so that the wavelengths are evened out (ie - "inverse-square root" it). ![enter image description here](http://i.stack.imgur.com/d7oRl.gif) I should like to do the same to "de-log" plots too. I have no idea where to start though.

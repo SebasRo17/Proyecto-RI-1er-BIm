@@ -1,1 +1,0 @@
-x num x x x printf compiled using turbo c got num gcc got num vary

@@ -1,1 +1,0 @@
-scenario multiple wcf service hosted server connecting database currently separate web config file time change new deployment another server every web config need changed way single configuration file memory db shared among service given server would go approach currently hierarchy folder structure service service1 service2

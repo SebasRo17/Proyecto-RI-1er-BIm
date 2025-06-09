@@ -1,1 +1,0 @@
-open picture file let say png extension see bunch let say want get information picture mechanically question first step need parse picture get grammar picture file png jpeg etc update found issue thinking parser text based language however picture binary file dont think need parse need go opposite direction turn abstract syntax tree wondering without knowing grammar

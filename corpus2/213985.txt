@@ -1,1 +1,0 @@
-Should a developer close a ticket in a bug tracking tool? Or should only the scrum master or testers should do it? What are the best practices?

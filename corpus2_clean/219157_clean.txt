@@ -1,1 +1,0 @@
-working people used making associative array javascript like var arr new arr prop 1 asdf arr prop num num work like loop used accessing property fine using dot square brace lack native method seems find sort semantically irritating however maybe picky want good argument use syntax understand start suggestion

@@ -1,1 +1,0 @@
-I've noticed that in JavaScript, when creating a `Date`, months are zero based, and days aren't. For example:               var foo = new Date(2012, 1, 1)      produces February 1st 2012 Why is this?

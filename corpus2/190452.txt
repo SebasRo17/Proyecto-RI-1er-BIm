@@ -1,1 +1,0 @@
-The PHP engine interprets the PHP code and is perfectly capable of working with sockets, forming HTTP packets, etc. Why then do we need a separate Apache server, when the http serving duties could be embedded into the php application along with the page creation code?

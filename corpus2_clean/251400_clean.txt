@@ -1,1 +1,0 @@
-general understanding thread safety mean know much thread context webapplication curious know need concern thread safety working web application chance web application cause problem written code without concerning thread safety need think whether using thread safe collection

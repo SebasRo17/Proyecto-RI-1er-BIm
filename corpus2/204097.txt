@@ -1,1 +1,0 @@
-Say your users can create their own web-based forms (textboxes, selects, etc) and publish them on the web for their users to fill out. Does anyone have a resource or any advice on how to architect the database to tie into the dynamic forms? For example, would you create a child table for each form, or different versions of a given form?

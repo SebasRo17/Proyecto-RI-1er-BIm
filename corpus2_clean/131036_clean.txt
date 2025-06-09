@@ -1,1 +1,0 @@
-design decision argued favour allowed generic special empty struct would avoided total pita distinct func action delegate c allows explicit return allows template parameter

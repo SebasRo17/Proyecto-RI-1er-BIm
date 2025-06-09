@@ -1,1 +1,0 @@
-often time good idea abstract base isolate interface problem copy construction imho pretty much broken default c copy constructor generated default gotchas abstract base raw pointer derived class num derived public a1 new derived a2 a1 cleanly disable copy construction whole hierarchy declare copy construction private rule three abstract base class

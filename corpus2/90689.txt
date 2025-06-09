@@ -1,1 +1,0 @@
-After being hacked companies often give numbers and details on how much of their data was compromised e.g "13K user and passwords". After a possible intrusion how do you know what the hacker did in your server?

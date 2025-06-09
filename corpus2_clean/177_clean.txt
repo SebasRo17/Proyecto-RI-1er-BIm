@@ -1,1 +1,0 @@
-actor model used erlang seems different way concurrent programming thought actor model popular solution concurrency

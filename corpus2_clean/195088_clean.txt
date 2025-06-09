@@ -1,1 +1,0 @@
-sometimes notice typo article blog post book source appears body article may indication manually copied pasted e g missing brace something nasty happened text may write article inside source project targetting wordpress basically looking parser would recognize two kind region article source would format whatever want stackoverflow question latex wordpress article

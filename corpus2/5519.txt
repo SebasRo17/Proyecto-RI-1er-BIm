@@ -1,0 +1,1 @@
+My problem is to find all solutions to an equation with 2 variables between two values that define the range of my search. e.g., $(x+y-y²)/(1-y-x²)=0$ with solutions ${x,y} \in \mathbb{Z}$.

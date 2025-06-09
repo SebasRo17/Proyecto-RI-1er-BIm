@@ -1,1 +1,0 @@
-Due to test-driven development, one ends up with many classes doing just one thing. It is quite a headache just to see **where** such classes would be placed inside the folder structure. First of all, is it considered a bad-pattern, to put related classes in the same file? Any suggestion on what one uses in actual-production environments?

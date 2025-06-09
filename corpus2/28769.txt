@@ -1,0 +1,1 @@
+DSolve[{-x^2 + y[x]^2 - 2 x*y[x]*y'[x] + 2*x^2 *y'[x]^2 == a^2}, y[x], x]      `DSolve` is returning the input statement unevaluated. Any kind of help will be most appreciated.

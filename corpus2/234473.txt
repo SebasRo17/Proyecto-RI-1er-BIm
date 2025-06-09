@@ -1,1 +1,0 @@
-I was reading the that virtual calls make the code slower than calling non- virtual call in C#. However the IL instruction for both are the same `callvirt` except in cases where `base.somemethod()` is called. So how does virtual method hurt performance ?

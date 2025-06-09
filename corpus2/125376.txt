@@ -1,1 +1,0 @@
-Looking for a systematic method for estimating and comparing the success factors of sprint configurations based on:   * Team Size   * Sprint Duration   * Number of Stories

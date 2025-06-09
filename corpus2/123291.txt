@@ -1,1 +1,0 @@
-I have been given the task of producing a compilation of pros, cons and key points on the issue of mobile native applications versus mobile web applications. It will be input for a discussion on top management level. What are some valid and maybe overlooked topics here?

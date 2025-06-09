@@ -1,1 +1,0 @@
-wondering performance issue parsing source file edited user example need give syntax highlight think simplest approach parse every time change get result replace current highlighted one large file may problem though better way suppose solution may parse area last edit good idea

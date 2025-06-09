@@ -1,1 +1,0 @@
-If so how, and what value would this rating have in understanding the code? For example, I would guess that programs using genetic or neutral algorithms would be less predictable than one calculating the sum of pi.

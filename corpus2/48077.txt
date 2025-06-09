@@ -1,0 +1,1 @@
+First, I'm a beginner. I can compute the sum of roots with the follwing:               Roots[x^7 + 5 x^6 + x^5 + x + 1 == 0, x]     Plus @@ (x /. {ToRules[%]}) // Simplify      Of course I get, except the sign, the coefficient of x^6. Now, is there a way to compute more elaborate symmetric functions, for example the sum of xi/xj for all i,j ?

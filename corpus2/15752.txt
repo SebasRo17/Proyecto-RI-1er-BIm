@@ -1,0 +1,1 @@
+I'm having some difficulty plotting a phase space of a function `f` that exhibits time delay. i.e.               s = NDSolve[{x'[t] == f[x[t - \[Tau]]], x[0] == 1 }, {x}, {t, 100}];     ParametricPlot[{x[t] /. s, x[t-\[Tau]] /. s}, PlotRange -> All]      i.e. how do I plot `x(t-\[Tau])` vs `x(t)` ?

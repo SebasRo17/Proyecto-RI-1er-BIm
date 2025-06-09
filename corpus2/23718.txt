@@ -1,1 +1,1 @@
-I believe a lot of Fortran is used in HPC, but not sure if that's only for legacy reasons. Features of modern programming languages like garbage collection or run-time polymorphism are not suitable for HPC since speed matters so not sure where C# or Java or C++ come in. Any thoughts?
+I want to solve the equation $$x^y + y = y^x + x$$ with $x$, $y$ are integer numbers. I tried               Solve[x^y + y == y^x + x, {x, y}, Integers]      How to solve the above equation?

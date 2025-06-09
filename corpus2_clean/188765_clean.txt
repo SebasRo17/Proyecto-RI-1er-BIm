@@ -1,1 +1,0 @@
-c knowledge know pointer commonly used started look php open source never see using reference method instead always us instead passing reference change return read using reference us less memory used php

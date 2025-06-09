@@ -1,1 +1,0 @@
-thinking current key storage implement expire date item currently num variant mind num anything keep expired check example get key problem limited memory expired item deleted num keep additional structure able get earliest expire see done something like storage dict key expire timestamp expire tree expire timestamp key

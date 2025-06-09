@@ -1,1 +1,0 @@
-Last week I was wondering, with compilers getting better and better at optimizing, will there be a point when there is no need for hand written assembly? Are there still specialized fields where the compilers aren't smart enough to produce code that rivals hand-written assembly?

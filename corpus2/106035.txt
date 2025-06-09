@@ -1,1 +1,0 @@
-This question might be a little vague. I have seen an acronym referring to a business object in a software system. It's usually mentioned when discussing such design patterns as Java EE's DAO pattern.

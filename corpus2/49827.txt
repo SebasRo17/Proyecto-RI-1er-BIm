@@ -1,1 +1,0 @@
-I have first experience of parallel programming of code which actively works with relational database. I find it interesting to combine .NET parallel programming primitives with database locks/transactions and I'm interested in articles on this topic. Could you please advice some (.NET is optional)?

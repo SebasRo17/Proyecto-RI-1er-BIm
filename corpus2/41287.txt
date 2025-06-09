@@ -1,0 +1,1 @@
+I would like to know what is the full command details of wanting to test if a specific expression is a solution for ordinary differential equation (without using DSolve). Thanking you in advance for your assistance.

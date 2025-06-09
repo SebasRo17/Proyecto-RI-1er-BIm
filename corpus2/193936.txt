@@ -1,1 +1,0 @@
-Is it a good idea to use somebody else's library as a base and build your own library over that. I want to make a JavaScript Canvas framework for a animation player on top of KineticJS. Should I do it? Do I need permission from the author of KineticJS? Do I just say to users to donwload KineticJS before my library, or do I just copy paste the kineticJS code in my library?

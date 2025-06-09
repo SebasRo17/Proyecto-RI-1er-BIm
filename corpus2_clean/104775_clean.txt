@@ -1,1 +1,0 @@
-writing application use many table told must use stored procedure project slow suggested use tsql used stored procedure using tsql different way go faster access method

@@ -1,1 +1,0 @@
-different database per customer need share apply customer multiple store believe easier query statistic require num num table join single schema rather multiple schema everyone done anything yet team belief cross schema query way go claim postgres support well way go

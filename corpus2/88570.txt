@@ -1,1 +1,0 @@
-Is it possible to take a binary compiled for ARMv7 architecture and convert it to ARMv6 ? Are there any tools that can do this?

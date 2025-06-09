@@ -1,1 +1,0 @@
-develop file management system web application need sync file server client find whether client server latest version file file pdf doc xl format change every required thinking using md5 checksum find hashcode file server store database would client server database comparing record database would come know whether client server synced please suggest better way

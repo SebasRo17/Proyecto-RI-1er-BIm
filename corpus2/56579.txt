@@ -1,0 +1,1 @@
+I am wondering if it's possible to extend the Finite Element capabilities of Mathematica so as to include other types of elements such as edge vector elements (Nedelec) which can be used in electromagnetic problems. If possible, how would one proceed?

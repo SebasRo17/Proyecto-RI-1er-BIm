@@ -1,1 +1,0 @@
-Is there any license meeting the following criteria:   * source code available (users allowed to browse the source)   * users are allowed to modify the code with credits to the original author   * not allowed to sell the software itself or any other program using code from it   * can be sold by original author

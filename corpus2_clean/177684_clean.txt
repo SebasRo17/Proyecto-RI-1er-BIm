@@ -1,1 +1,0 @@
-started working symfony2 across comment annotation although comment annotation inherent part php symfony2 add support feature understanding commenting make intelligible human computer care comment benefit come annotation versus putting command normal php ie route id get post post template post html twig var post cache num public post post

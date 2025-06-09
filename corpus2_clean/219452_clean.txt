@@ -1,1 +1,0 @@
-trying compare haskell class c interface suppose functor haskell functor f fmap b f f b implement interface c tried interface functor b f b fmap func b f f x invalid implementation actually stucked generic f returned fmap defined impossible implement functor c maybe another approach

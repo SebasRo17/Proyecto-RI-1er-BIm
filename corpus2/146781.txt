@@ -1,1 +1,0 @@
-I am looking for a software that can simulate simple economics behaviour. For example, I would like to create 100 households, with different utility functions, then run the simulation and see how demands, supplies and prices develop over time. This can be an interesting way to see the formulas in action.

@@ -1,0 +1,1 @@
+would like import multiple file array know get list file myfiles filename txt alldata import myfiles possible get data file array example file look like myfiles file txt file txt file txt file txt number filename correspond x index done using loop functional way

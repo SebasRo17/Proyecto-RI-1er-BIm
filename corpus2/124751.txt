@@ -1,1 +1,0 @@
-I'm creating an application which will programmatically sent HTTP GET and POST requests to a site and processing the data received. If I want to release that application, do I have to get permission from the site's owners?

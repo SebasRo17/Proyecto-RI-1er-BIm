@@ -1,1 +1,0 @@
-num rest always use link relation value convey semantics role linked resource num assume link relation always specified using rel attribute num rel attribute specified within hypermedia control num assume element considered hypermedia control must provide linking functionality must also contain rel attribute

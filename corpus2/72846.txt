@@ -1,1 +1,0 @@
-If I take GPL code and modify it, does it have to still be under GPL?

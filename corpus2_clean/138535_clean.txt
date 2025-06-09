@@ -1,1 +1,0 @@
-writing useful include ability dump abstract syntax tree human readable format debugging purpose might also useful tool like ides analyzer might well provide documented feature given format would useful make much difference long eyeball might well provide e g whatever tool would find easiest read

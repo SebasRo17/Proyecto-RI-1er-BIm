@@ -1,0 +1,1 @@
+My code is:               nonine[x_] := If[StringMatchQ[IntegerString[x], "*9*"], False, True];     SetAttribute[nonine, Listable];          tbl = Select[Range[10^2, 888], nonine[#] &];          Total[1.0/tbl]      got out of memory problem.

@@ -1,1 +1,0 @@
-This is a newbie question, but I couldn't find a newbie-proof enough answer on Google. What do people mean when they say 'state' - in programming in general, and in OO programming specifically? Also, what is mutable and immutable state - again, generally in programming and also specifically in OOP?

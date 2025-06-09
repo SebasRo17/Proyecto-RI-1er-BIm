@@ -1,1 +1,0 @@
-say started open source project posting public repository like using codeplex one key file make connection database contains login password included source file need database connection best way share project without giving password far specifically removed committing change thinking better way

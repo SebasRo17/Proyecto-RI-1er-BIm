@@ -1,0 +1,1 @@
+write small piece functional way ie without state variable test oldj list newj list total ab oldj newj relax j list x numericq mean nearest j x j range numeric list j j initial value test return true test j j j j j relax j j range length j

@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  What is the most convenient way to read definitions of in-memory symbols > when we don’t have the source files? I would like to look at the code that implements `FillingTransform`. Does _Mathematica_ provide any way to do this?

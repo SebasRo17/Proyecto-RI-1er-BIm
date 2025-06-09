@@ -1,1 +1,0 @@
-Does the Pareto Principle, that being 20% of the causes are link to 80% of the problems, apply to software bugs, and if so, are there any common patterns of note on average within the 20% of cause?

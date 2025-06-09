@@ -1,1 +1,0 @@
-I have a application which requires me to save data to a database not located on the users computer. Which approach is the best to save and access data for this scenario? Normally I would use Entity Framework and MS Sql Server but this seems not to a options for me with windows store apps.

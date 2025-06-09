@@ -1,1 +1,0 @@
-**Question 1** What's the computational complexity of the Groovy `unique()` method? **Question 2** How could I have figured it out by myself? The `unique()` method is defined in the class `DefaultGroovyMethods`. The source code can be found here: org.codehaus.groovy.runtime.DefaultGroovyMethods. Can you point me to the piece of code which illustrates the answer to question 1?

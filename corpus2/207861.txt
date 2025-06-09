@@ -1,1 +1,0 @@
-I want to develop an iPhone application, I do not have Xcode nor the iPhone SDK (nor a macbook but I plan to buy one). What could be done without those products? Edit: I intend to release it on AppStore (I know I need a mac for it)

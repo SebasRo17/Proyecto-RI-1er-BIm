@@ -1,1 +1,0 @@
-learning ruby rail new project mine referring book agile web development rail show build shopping cart use scaffolding pretty familiar mvc architecture used several framework php build application never used scaffolding sure best way start building application experienced user please suggest using scaffolding manually

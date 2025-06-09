@@ -1,0 +1,1 @@
+How can I estimate parameters of Ito process in _Mathematica_? I have some time-process data (for example assets) and want it to be described Heston model - vector Ito process.

@@ -1,0 +1,1 @@
+I started with **File > New > FreeCDF** so I can save my work in a format compatible with the CDF Player. I can use Mathematica to make new cells, evaluate input and so in the CDF file. What are the differences between using **File > New > FreeCDF** and **File > New > Notebook**? I suppose there are cases when you want to use `file.nb` instead of `file.cdf` but what are they?

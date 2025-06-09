@@ -1,1 +1,0 @@
-Basically in both cases you have:   * a well defined vocabulary   * a syntax to respect   * they both can express a business logic   * they can define semantics I don't think that will be fair to say "A programming language is only useful for a PC" or something like that. I just can't find a real answer, but we can feel the difference, it's strange.

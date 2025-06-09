@@ -1,1 +1,0 @@
-FWIK Java can run on 64-bit system, no problem. I'd like to know how Java support 64-bit features, e.g., `System.identityHashCode()` returns a 32-bit int, it's common to see the object pointer (memory address) is returned. Should 64-bit Java returns long instead? If not, how would Java scale to 64-bit systems?

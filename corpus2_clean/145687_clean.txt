@@ -1,1 +1,0 @@
-live server running lamp setup script working eclipse via ssh server whenever want release new live server copy paste via window explorer think environment really suck good alternative

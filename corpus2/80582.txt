@@ -1,1 +1,0 @@
-Being the creator of a program, you are probably in a better position than anyone to be aware of security vulnerabilities and potential hacks. If you know of a vulnerability in a system you wrote, is that a sign that increased security MUST be added before release, or should this be evaluated on a case by case basis to determine the severity of the security gap?

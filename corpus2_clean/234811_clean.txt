@@ -1,1 +1,0 @@
-many people recommend offloading email transactional service mandrill postmark sendgrid sending email via smtp really much slower sending request said service imagine something rendering actual message like informed reason

@@ -1,1 +1,0 @@
-My research-based company's name is already taken on github (mailed the owner without any luck), what is the most recognized naming conventions for company github accounts besides the name directly? the only ones I found was `ibm-dojo` and `ibm-research`

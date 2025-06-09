@@ -1,1 +1,0 @@
-javascript functional strict sense rely immutable side effect free function libs provide immutable structure believe possible write strictly functional program using javascript know clojurescript exists interested open source project use javascript strictly functional sense nothing immutable interested whether practical language built mind

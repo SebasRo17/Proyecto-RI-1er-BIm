@@ -1,1 +1,0 @@
-I'm a Rails developer and I prefer Mercurial over Git. However, I know that the Rails community is very pro-Git. So my question is it possible that my choice of version control system would turn back some developers?

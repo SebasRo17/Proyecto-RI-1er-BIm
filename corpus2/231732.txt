@@ -1,1 +1,0 @@
-I have read that Obj-C class clusters are an implementation of the abstract factory. Can anyone explain if there are any differences between the 2 as design patterns. I read somewhere that there are certain restrictions on class clusters that don't apply to traditional abstract factory but it did not give more details.

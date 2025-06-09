@@ -1,0 +1,1 @@
+I am wondering if someone can use CUDA and (or) OpenCL on a Raspberry Pi as in any normal PC equipped with a GPU. The main processor runs at 700 MHz and maybe will be slow for some imaging applications unless it can exploit the embedded GPU! I will try to answer my question as soon as I get the hardware but in the meantime I couldn't resist asking.

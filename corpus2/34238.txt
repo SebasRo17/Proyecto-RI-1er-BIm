@@ -1,0 +1,1 @@
+Is it possible in _Mathematica_ to take the `LCM` of an algebraic expression? For example, I want to take the `LCM` of $9$, $9y$, $12y^2$ and $27y^4$. If I type in               LCM [9, 9y, 12y^2, 27^4]       it returns the same value. I'm running _Mathematica_ version 9. Could you help me out?

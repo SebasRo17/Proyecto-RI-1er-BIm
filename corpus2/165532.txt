@@ -1,1 +1,0 @@
-I accidentally discovered this `a=b=c=d=e=f=2` in python(2.7)(and JavaScript a few minutes later) interpreter . Is this a feature or just the way the interpreter works, if is a feature how it is called ? Do other languages have this feature ?

@@ -1,1 +1,0 @@
-I have services on 10 machines that stores data in database on these machines. And I have main server that needs to pull that data from these ten machines. What is better for this. Implement some rpc or use replication?

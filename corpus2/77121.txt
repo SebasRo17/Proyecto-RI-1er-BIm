@@ -1,1 +1,0 @@
-What is the name of book that offers guidance on when to use each verb for a method call? For example, I might use GetApples() to return a list of Apple instances; or I might use BindApples(IControl control) if I want to bind these apples to a dropdown list. What book would suggest when you use Get or Bind as part of a method name?

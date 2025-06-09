@@ -1,0 +1,1 @@
+The following command               Plot[Exp[-(x^2)], {x, -5, 5}]      draws ![enter image description here](http://i.stack.imgur.com/4VzsY.jpg) while the following command               Plot[Exp[-2 (x^2)], {x, -5, 5}]      draws ![enter image description here](http://i.stack.imgur.com/stPKp.jpg) I.e. the scale is changing which seems unexpected.

@@ -1,1 +1,0 @@
-behaviour like use different class class unrelated inheritance using as3 multiple inheritance possible could use interface rewrite implementation every time basically without interface en example many situation icon text label button sign etc like centralise alignment behaviour icon label best oop pattern

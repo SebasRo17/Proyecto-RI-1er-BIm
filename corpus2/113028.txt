@@ -1,1 +1,0 @@
-OK, I've learned what a static function is, but I still don't see why they are more useful than private member functions. This might be kind of a newb-ish question here, but why not just replace all private member functions with static functions instead?

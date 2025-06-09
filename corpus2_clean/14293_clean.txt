@@ -1,1 +1,0 @@
-many people praise sinatra ability create simple project single file great want use sinatra slightly larger project fairly new ruby whole already found couple way create sinatra application separate model file partitioning different group url individual file etc best practice

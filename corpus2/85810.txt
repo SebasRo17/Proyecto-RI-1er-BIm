@@ -1,1 +1,0 @@
-I would like to release some code and some documentation to be distributed freely, but not if it has been modified in any way. Basically, needs to be shared "as-is". The reason is I would like to retain control of all modifications without making it it closed source. Is there a commonly available license that allows for this? Thanks

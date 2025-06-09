@@ -1,0 +1,1 @@
+I have a problem in plotting a function. The example code is as following:               d = 0.1;     M[x_] := ((x/d) - 0.4);     Plot[p[x], {x, 0, 10}, Ticks -> {{0, d, 2d, 3d}, {1, 1}}]       I would like to have $d,\ 2d,\ 3d$ and so on the x-axis label at right positions, i.e. at $0.1,\ 0.2$ and so on. How can I achieve this?

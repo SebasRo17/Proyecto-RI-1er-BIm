@@ -1,0 +1,1 @@
+So I've noticed that some stylesheets (for instance Slideshow stylesheets) load a toolbar using the assignment `WindowToolbars -> {"ToolbarName"}` and I've been wondering whether it's possible to prepare and load a custom one using this mechanism. I've searched Mathematica directories but I couldn't find the toolbars source directory.

@@ -1,1 +1,0 @@
-A db index is analogous to a table of contents. This helps me understand db index in an easy way. My question is are tehre any real world analogies for a clustered index?

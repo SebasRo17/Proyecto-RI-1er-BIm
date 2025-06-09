@@ -1,1 +1,0 @@
-base several child say b c testing purpose like mock derived class deriving derives derives b problem inherit protected member base set way mock look like init x num inherited base abc inherited base z num inherited base init x num inherited base abc inherited base z num inherited base question avoid cut paste initialization achieve without touching base b c

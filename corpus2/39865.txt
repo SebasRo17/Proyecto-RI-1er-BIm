@@ -1,1 +1,0 @@
-I love prototyping as a fast effective way to put a UI in front of a user. Many times though, management get their beaks in the way, and the prototype is dragged kicking and screaming into main stream development. How do you manage management into not doing this?

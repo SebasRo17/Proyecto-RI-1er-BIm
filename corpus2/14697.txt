@@ -1,0 +1,1 @@
+I can't see a way to get _Mathematica_ to check my spelling as I type. Is this feature not supported? I've done everything I can think of with my options: ![enter image description here](http://i.stack.imgur.com/ChpSc.png) Is there a setting I'm missing?

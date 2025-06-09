@@ -1,1 +1,0 @@
-global interpreter lock gil seems often cited major reason threading like touch tricky raise question done first place programmer got clue might logic behind putting gil

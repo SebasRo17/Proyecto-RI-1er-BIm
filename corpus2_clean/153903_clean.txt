@@ -1,1 +1,0 @@
-rest webservices serve xml json wcf toying idea implementing protobufs pro num less load server num smaller message size less traffic num easier switch later con num need implemented num going harder troubleshoot sniff message debugging num enable gzip server json consume much traffic suggestion experience

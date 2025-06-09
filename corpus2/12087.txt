@@ -1,1 +1,0 @@
-I would like to start new Open Source project, and I believe all check-ins should be reviewed before merged into trunk. What are some great **online** code review tools for Open Source projects that have this functionality, and what makes them great?

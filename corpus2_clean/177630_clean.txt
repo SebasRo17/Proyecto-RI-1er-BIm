@@ -1,1 +1,0 @@
-capitalization convention protected field name c myvar like private field myvar like property

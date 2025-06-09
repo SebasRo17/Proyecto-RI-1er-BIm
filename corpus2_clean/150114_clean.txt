@@ -1,1 +1,0 @@
-building app using igniter based ci pulling dev branch ci using git want entire project git controlled well want able pull latest change dev branch ci push entire app different repository change make file come config change pull able merge automatically possible

@@ -1,1 +1,0 @@
-working small project production needing store enough something like csv would inefficient process sql mysql server would much net way efficiently store several entry ability query without manage connect server rather loading processing single file

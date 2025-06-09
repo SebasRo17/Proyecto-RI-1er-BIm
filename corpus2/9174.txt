@@ -1,0 +1,1 @@
+I need to estimate a Pearson distribution from a batch of tables `tab`: `EstimatedDistribution[tab, PearsonDistribution[a1,a0,b2,b1,b0], ParameterEstimator -> "MethodOfMoments"]` I don't want to specify the type, but rather have it automatically picked. Mathematica does this in the order: 4, 1, 6, 3, 5, 2, and 7. Is it possible to change this default order?

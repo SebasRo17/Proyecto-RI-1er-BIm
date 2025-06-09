@@ -1,0 +1,1 @@
+I have an ODE equation which is sort of               y''[x] + 2 y'[x]/x + .0001 (y[x])^3 ==0       subject to the boundary conditions               y'[0]==0  and y[Infinity]==0      Can anyone please suggest what would be a reliable process for solving this numerically in Mathematica? `y[Infinity]` can obviously be truncated down to , say, `y[20]`.

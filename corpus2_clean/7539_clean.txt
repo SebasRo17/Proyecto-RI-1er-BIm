@@ -1,1 +1,0 @@
-writing small database centric application swing used internally small company much experience developing production level application use orm simple method sql query jdbc every access database use try catch statement sqlexception ioexception logging case much log please give example good practice case

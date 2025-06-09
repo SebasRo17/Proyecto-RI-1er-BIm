@@ -1,1 +1,0 @@
-I've been searching for good presentations (slides+audio or video preferred) on Unit Testing but all I seem to find are books and blog posts. The presentation should not be longer than 50 minutes since it will be shown at a brown-bag lunch. General concepts or how to do it on the .NET-platform is what I'm looking for. Can you recommend a presentation that fits that description?

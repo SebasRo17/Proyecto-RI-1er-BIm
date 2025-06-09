@@ -1,0 +1,1 @@
+I have many `DumpSave`-d `.mx` files under a directory. They are generated under Linux. The `.mx` files are platform dependent, but I want to use the data stored in these `.mx` files under Windows. **So I want a method to transform a batch of`.mx` files into platform independent `.m` files conveniently.**

@@ -1,1 +1,0 @@
-query large set num mb using sqldatareader save three different format instead querying database num time thinking saving memory table save practical limit table size memory idea better approach thanks

@@ -1,1 +1,0 @@
-Our team is developing a project using an Agile development process. All of our requirements are converted into product backlog items and task are broken down based on that. One of my team member suggested to maintain the High Level Document (HLD) and Low Level Document (LLD) for the requirement. Do we need to have these documents to follow the Agile process?

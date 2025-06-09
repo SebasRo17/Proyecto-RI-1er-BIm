@@ -1,1 +1,0 @@
-creating application sits background record key press currently done working event fired every keydown keyup want offer feature user show wpm entire session program running would easy added start end button activate timer need detect user typing continuously ignoring one time keyboard shortcut break user take typing world approach even realistically accurately possible

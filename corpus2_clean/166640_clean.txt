@@ -1,1 +1,0 @@
-possible duplicate programming language lisp like syntax extension mechanism making programming language spent time lisp scheme feel language malleable use macro something else might use malleable syntax even good idea perhaps powerful concept research found fexprs really understand help answer please possible language macro something similar nature without expression

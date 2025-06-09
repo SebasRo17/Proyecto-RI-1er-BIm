@@ -1,1 +1,0 @@
-I am developing an Android application for Gujarat's farmers. So this app should be in Gujarati also. Is there any way so that I can store my data in Gujarati in SQLite?

@@ -1,1 +1,0 @@
-feel uncomfortable using query parameter num country uk uniqueid would rather use something make sense anyone trying make sense url num b uk c query sting info use firstly good thing mean hide logic query way internally developer use carid country uniqueid externally url us b c respectively someone go num b uk c request querystring carid get num done

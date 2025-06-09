@@ -1,1 +1,0 @@
-I am expert in PHP. There are some JavaScript related bugs in my assignment given by my supervisor. I tried to fix them using Firebug. It is time consuming. Is there any other ways?   1. Are there any good IDE's to tackle this issue?   2. Are there any other developer tools except Firebug?

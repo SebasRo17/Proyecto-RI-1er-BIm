@@ -1,1 +1,0 @@
-I am using HMAC to hash some data before inserting it in a database and currently I have my key as a static field. Just wondering what the best practice regarding storing the key would be. Is having it in code good enough, or should it be in a configuration file. Thanks!

@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Why would you use MVC over Web Forms? What is the difference between ASP.Net MVC and Web Forms? Is either preferable? I want to use ASP.Net development as a springboard to teach myself C#. What is the best way to go about this?

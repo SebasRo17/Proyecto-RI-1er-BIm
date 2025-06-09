@@ -1,1 +1,0 @@
-I started working in a company not much time ago, and what I see a lot inside a project is a high amount of low quality code and some custom ideas instead of industry standards and selected best practices. But when I trying to talk with manager about that, I often see the answers, that guys who doing that make things quick and they are good etc, etc, etc

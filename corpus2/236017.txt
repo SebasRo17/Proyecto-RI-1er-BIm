@@ -1,1 +1,0 @@
-When do you use subquery in SQL, and what type of request is subquery useful for? I am practicing SQL and need to know how to spot a subquery problem immediately

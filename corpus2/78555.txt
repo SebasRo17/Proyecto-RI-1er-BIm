@@ -1,1 +1,0 @@
-What are some DOs and DONTs for improving database performance using index? A DO would be a case in which an index should be created, or another indexes related tip that will improve performance. A DONT will be a case when an index shouldn't be created, or another index related action that can hurt the performance.

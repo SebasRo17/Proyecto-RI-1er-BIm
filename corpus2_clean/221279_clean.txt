@@ -1,1 +1,0 @@
-sorted list block l want put num container c container size limit want similar container height similar mean size variance small possible eg num l num num num num num num num result c num num num num num num num note always possible put every block inside num container change block order way efficiently find algorithm name really know search

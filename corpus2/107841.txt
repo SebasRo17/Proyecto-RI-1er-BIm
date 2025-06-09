@@ -1,1 +1,0 @@
-Almost every article I can find about recursion includes the examples of factorial or Fibonacci Numbers, which are:   1. Math   2. Useless in real life Are there some interesting non-math _code_ examples to teach recursion? I'm thinking divide-and-conquer algorithms but they usually involve complex data structures.

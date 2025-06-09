@@ -1,1 +1,0 @@
-If I declare in a header file, for example, `extern unsigned long * Ptr;` and the value of this pointer Ptr in the linker file. Will this adrress be 'constant'? Can I change its value ?

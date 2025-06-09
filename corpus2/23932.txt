@@ -1,0 +1,1 @@
+I am looking for a generalised Hough Transform function or a least a function to locate circles (position of center and radius) in a image. There is the standard Hough line search function (ImageLines), which only implements the basic Hough transform to detect lines.

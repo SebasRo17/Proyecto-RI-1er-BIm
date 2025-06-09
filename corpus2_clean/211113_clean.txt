@@ -1,1 +1,0 @@
-need insert form using datagridview connected sql server num r2 database ok write single insert stored procedure query form c

@@ -1,1 +1,0 @@
-recently asked exercise design scalable graph first intuition seperate graph distribute sharding consistent hashing etc turn thinking wrong know scalability seems bit hard think pragmatically pragmatic way thinking scalability know need high availability replication fault tolerance common pattern paradigm needed implement key point

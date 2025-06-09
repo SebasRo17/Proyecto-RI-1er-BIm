@@ -1,0 +1,1 @@
+Over on StackOverflow I asked a similar question for the n=3 case, but the answer given doesn't easily generalize. How can I make a diagram such as this: ![Finite Topological Spaces](http://i.stack.imgur.com/dBIAg.png) But for a general n-element space instead?

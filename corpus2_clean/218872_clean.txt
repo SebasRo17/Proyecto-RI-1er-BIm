@@ -1,1 +1,0 @@
-application rather non trivial yet standard log configuration includes appender rolling size based file appender running test thru ide maven least surprising place save log file

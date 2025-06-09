@@ -1,1 +1,0 @@
-Just a quick question. I see that Azure have an offering where you can host 10 websites for free? Is it possible to use this to host some WebAPI projects instead of a conventional website? Considering WebAPI projects are very similar to an ASP.NET MVC site, i'm going to assume the answer to be yes. But, just checking anyway. Thank you.

@@ -1,1 +1,0 @@
-I wanted to gives a good name for a variable date_in_(number of seconds since epoch format) I googled it and couldnt find anywhere the term to use. Any ideas?

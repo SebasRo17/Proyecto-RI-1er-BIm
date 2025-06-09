@@ -1,0 +1,1 @@
+Index the binary strings in lexicographic order, so that the empty string " " corresponds to 0, the string "0" corresponds to 1, the string "1" to 2, and so on. I want a function that, given a natural number $n\geq0$, returns the binary string with lexicographic index $n$.

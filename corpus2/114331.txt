@@ -1,1 +1,0 @@
-I have seen a lot of exceptions - custom or integrated in the language (PHP) itself that have no differences but their class name. When extending default exceptions to use within your own code, are there any other things you could implement that are useful besides the more specific exception name that do not violate things like single responsibility?

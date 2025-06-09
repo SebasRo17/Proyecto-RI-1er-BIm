@@ -1,0 +1,1 @@
+How to use the dots in the 2 series, with diferent color?. I know use symbols "O" instead of Automatic... but... tu use de dot?               a3={2,3,4,5};     a4={6,2,3,6};     ListPlot[{a3, a4}, PlotMarkers -> {Automatic, Medium}]

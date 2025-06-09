@@ -1,1 +1,0 @@
-using c wpf situation organized hierarchically using treeview represent group 01 01 material 01 texture material 02 texture 02 group 02 02 material 03 texture 03 would like able switch order hierarchy example able create starting material know object use particular material material 02 01 group 01 02 group 02 recommended structure organize could switch easily visualization

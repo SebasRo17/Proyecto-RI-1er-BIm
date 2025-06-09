@@ -1,1 +1,0 @@
-antipattern acceptable practice try something catch exception e try something less ambitious catch exception ex try minimum acceptable catch exception e1 try catch

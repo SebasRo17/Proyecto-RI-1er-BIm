@@ -1,1 +1,0 @@
-embedded device initializing memory location convention practiced mean say setting every byte zero 0xff

@@ -1,1 +1,0 @@
-Periodically, I wonder about this: The short-circuit OR would always return the same value that the unshort- circuited OR operator would? I expect that the short-circuit OR would always evaluate more quickly. So, was the unshort-circuited OR operator included in the C# language for consistency? What have I missed?

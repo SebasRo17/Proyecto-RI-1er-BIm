@@ -1,1 +1,0 @@
-idea c version sqrt system math sqrt num time slower c version c version seems one extra digit precision test used double call system math sqrt bench order force jit

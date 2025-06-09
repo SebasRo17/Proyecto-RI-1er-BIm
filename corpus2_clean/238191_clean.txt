@@ -1,1 +1,0 @@
-suppose two b lot nested condition unit test covered b property call according result b want write unit test mock verify b called specific

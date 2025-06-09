@@ -1,0 +1,1 @@
+I was in doubt if this question should be asked in Mathematics.SE or _Mathematica.SE_ , but I've decided this site would be more appropriate, because I think those who read my question here will know about both mathematics and _Mathematica_. I tried to plot $n(-1)^n$ with `Plot`, but it showed nothing. When I tried to plot it with `DiscretePlot`, it worked. Why did that happen?

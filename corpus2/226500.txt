@@ -1,1 +1,0 @@
-Currently I'm trying to port one tool fron Java to .NET and original Java tool is licensed under Mozilla Public License v2. Shall my port have the same license or can I apply different open source license? Most of code of the tool's was converted automatically using Java to .NET code converter.

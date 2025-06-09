@@ -1,1 +1,0 @@
-What is a situation while coding in C# where using pointers is a good or necessary option? I'm talking about _unsafe_ pointers.

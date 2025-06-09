@@ -1,1 +1,0 @@
-I am a C++ programmer. I would like to use DSP algorithms in C++. Is understanding the science behind Digital Signal Processing a prerequisite to implementing DSP algorithms?

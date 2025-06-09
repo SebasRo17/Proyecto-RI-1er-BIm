@@ -1,1 +1,0 @@
-For a small start-up with only one or two programmers, is it possible to implement agile methods like Scrum? If NO, what is the minimum team size required? I guess Scrum needs few programmers to be onsite as well? _**_Edited **** I think the Agile methods are meant for team collaboration and improve workflow so a single man may not benefit much.

@@ -1,1 +1,0 @@
-writing library link modified lgpl library two question num make lgpl case static linking lgpl library num case dynamic linking

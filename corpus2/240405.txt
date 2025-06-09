@@ -1,1 +1,0 @@
-I am currently in the process of packing my first c# wpf app. The app will be paid so it requires the user to agree to some terms and conditions. Is it best to have these built into the installer? Or can I get away with having the user accept them on the website they buy them from during the purchase and before download the app?

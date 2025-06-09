@@ -1,1 +1,0 @@
-This test would call a web service over and over for about a minute to confirm that a particular response code is returned, notifying us of our rate limit being reached. Not only is it a very slow test, it doesn't confirm much of anything, and wastes resources. I feel that this is like confirming that chugging a bottle of vodka will kill a human. Do we really need a test for it?

@@ -1,1 +1,0 @@
-unit testing first time large scale find writing lot repetitive unit test business logic sure create complete test suite need test possibility readability feel compromised shown psuedocode would well written readable test suit look like describe valid validates invalid doesnt validate valid list follower validate

@@ -1,1 +1,0 @@
-ok know using singleton generally bad practice db connection logging et al allowed go respect clean design module defined initialized startup eg datasources database db db db declared top level module db none db def init self path could reasonable compromise passing db us oo way global

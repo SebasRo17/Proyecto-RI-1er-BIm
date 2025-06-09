@@ -1,1 +1,0 @@
-Simply put: is there a best practice for whether developers should write automated tests to check that data is correct (the contents of config files, databases, etc.)? If so, what is it? Assume that the data is static for a given release, and specified as part of requirements.

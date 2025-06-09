@@ -1,0 +1,1 @@
+Is there a way to Defer only parts of the expression? For example, I have               a=1;      and then I want the expression to be shown as`a = 1;`by using`Defer[a = Evaluate[a]]`,But the actual output is just               a = Evaluate[a]]      Is there away to only Defer part of an expression?

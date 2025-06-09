@@ -1,1 +1,0 @@
-looking real time web application using websockets node j interested see technical challenge scaling setup one problem heard socket requires unix file descriptor epoll select take time linear number open file descriptor anyone insight scaling

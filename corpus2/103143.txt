@@ -1,1 +1,0 @@
-How is Visual Studio Lightswitch different from regular Visual Studio? In what sort of situations would you use this IDE over regular Visual Studio? I'm trying to decide if this is something that would be worthwhile for me to take the time learning since I am currently doing WPF/Silverlight development.

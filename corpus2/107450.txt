@@ -1,1 +1,0 @@
-Well, I basically understand how to use pointers, but not how best to use them in order to do better programming. What are good projects or problems to resolve involving the use of pointers so I can understand them better?

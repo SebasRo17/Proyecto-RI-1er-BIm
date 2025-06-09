@@ -1,1 +1,0 @@
-given integer num n num n length construct b b min num k num k given b n k num element solve problem using min heap construct min heap k element k every next element delete first element insert new element heapify hence worst case time n k num k k space k better

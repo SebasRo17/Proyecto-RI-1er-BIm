@@ -1,1 +1,0 @@
-I am using eclipse for android programming, and every here and there i see the statement, "TODO Auto-generated method stub." I understand that these methods were generated automatically by eclipse upon creation of classes and other trigger activities but I do not understand the need to have it mentioned everywhere. What's the need to have it mentioned everywhere repeatedly?

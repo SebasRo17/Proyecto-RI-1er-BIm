@@ -1,1 +1,0 @@
-line clr via c managed module standard num bit microsoft window portable executable file standard num bit window portable executable file requires clr execute way managed assembly always take advantage execution prevention dep address space layout randomization aslr window two feature improve security whole system que want know security context dep aslr

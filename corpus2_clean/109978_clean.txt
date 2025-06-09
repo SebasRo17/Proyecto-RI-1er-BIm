@@ -1,1 +1,0 @@
-testing related methodology except tdd bdd see lot people practice testing approach e g see ayende post see formalization naming approach

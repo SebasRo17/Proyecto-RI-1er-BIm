@@ -1,1 +1,0 @@
-num user silverlight application us wcf entity framework everyone database come problem make sure user get access database via wcf send connectionstring every time make call service

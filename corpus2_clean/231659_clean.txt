@@ -1,1 +1,0 @@
-struck recently virtual machine high level programming language much like o manages resource e g stack heap etc similar operating system manages resource programming language support thread virtual machine also time sharing context switching similar operating system far analogy taken bare metal implementation jvm seems like piece exactly reason thing prevalent

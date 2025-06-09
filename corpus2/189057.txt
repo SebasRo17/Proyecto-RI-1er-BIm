@@ -1,1 +1,0 @@
-In C++ I was told that my classes shouldn't have getters and setters: Doing it wrong... blog post. On the other hand, in Objective-C, the direct use of ivar is discouraged, because the getters allow to do lazy instantiation, and setters make KVO easy. Why is that difference?

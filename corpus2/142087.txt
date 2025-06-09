@@ -1,1 +1,0 @@
-Most of configuration files in ruby such as Gemfile, gemspec, are just ruby code itself. Why database configuration file in rails is the exception?

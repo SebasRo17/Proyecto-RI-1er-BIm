@@ -1,1 +1,0 @@
-I'm reading about ColdBox, and I came across this word. So what is meant by convention based framework?

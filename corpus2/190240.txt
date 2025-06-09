@@ -1,1 +1,0 @@
-I heard that the context analysis diagram has different levels. I couldn't find this in .Net, but I have seen that a DFD has different levels. Do context diagrams have any levels (`level0`, `level1`, `level2`)? If yes, please suggest some examples.

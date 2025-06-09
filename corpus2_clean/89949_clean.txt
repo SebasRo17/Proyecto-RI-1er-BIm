@@ -1,1 +1,0 @@
-tempted create final implement charsequence would allow u define variable field instead using regular also e g map set etc pro con approach

@@ -1,1 +1,0 @@
-The following C# code defines an enumeration.               enum MyEnum             {                 alpha,                 beta,                 gamma,                 delta             }      As a whole it is called an enumeration. What do you call each item? For example, what do you call the object that is beta?

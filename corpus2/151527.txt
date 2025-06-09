@@ -1,1 +1,0 @@
-I'm developing a Java 6 EE application and I'm testing my jsp code with another one with a testing version of the function calls and code used in the original one but it seems loose and impractical. Is there a good way to accomplish this kind of testing?

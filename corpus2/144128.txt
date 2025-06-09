@@ -1,1 +1,0 @@
-I need to design a database that will contains information about personal disease of users. What can be the approach in order to implement the columns of the DB's tables: encrypt the information, separate data within two differents DB, one for sensitive data and another for not sensitive data, or both or another approach?

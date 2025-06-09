@@ -1,1 +1,0 @@
-When programming in C, I often get the advice to turn on many or all warnings and not ignore warnings. Does the same hold in PHP, should I enable all warnings in the PHP log?

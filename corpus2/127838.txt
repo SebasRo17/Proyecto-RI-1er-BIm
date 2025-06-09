@@ -1,1 +1,0 @@
-Why do I hear that it is not good to share instance variables between controllers and views. I kind of like it because I can see immediately via the @ that something is coming from the controller. I see a nice way to use helpers in controllers here: http://www.stephencelis.com/2008/09/06/rails- controllers-views-and-variables.html. But I am using cancan for that portion.

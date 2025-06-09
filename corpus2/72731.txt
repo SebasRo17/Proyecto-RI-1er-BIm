@@ -1,1 +1,0 @@
-I did some research on developers in my area. I was mainly interested in their products and the kind of tools they used in building them. I want to make this information public, but I was just wondering if it is a good idea. What I mean is, if the developer used Apache, MySQL and PHP and I made this public, does it make it easier for people to hack their product?

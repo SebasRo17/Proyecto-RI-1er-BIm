@@ -1,1 +1,0 @@
-I'm developing a Java desktop application. I'm planning to use MVC architecture described at Oracle site: Java SE Application Design With MVC. I need to store data in database so I decide to use Hibernate as it is very simple but there is any tutorial that use Swing+MVC+Hibernate. It is possible to use them together?

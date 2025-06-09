@@ -1,1 +1,0 @@
-dynamic library export address global defined within library access translated dynamic linking running application interact

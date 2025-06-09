@@ -1,1 +1,0 @@
-android activity contains multiple button need onclicklistener seen lot different way implementing interface activity creating separate implement interface defining anonymous inner button seen many example approach however clear one approach would used instead another difference approach stylistic reason make one approach better

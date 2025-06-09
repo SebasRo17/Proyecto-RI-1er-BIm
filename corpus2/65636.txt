@@ -1,1 +1,0 @@
-I spotted a "Google Summer of Code" announcement recently, and though eager to join, I see my chances are plainly poor. I'm short on time to shape my ideas and study the source code. I just wonder - Are there any similar events that provide an opportunity for students to develop real working projects? Especially ones that are worth mentioning in one's CV?

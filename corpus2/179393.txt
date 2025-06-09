@@ -1,1 +1,0 @@
-I am going to adopt TDD in our team and one of the ideas I have is to review tests first. So one would write interfaces, mocks, and tests first, submit them for a code review and once interfaces and tests (think specification) are approved an actual implementation can be written (theoretically, can be done by another developer). I wonder how viable this idea is?

@@ -1,0 +1,1 @@
+I am finding Pythagorean_triple, it worked slowly. I tried to compile, but it gives some warnings. I also use "Case" or "Do" ,both of them failed.I'm sure my CCompiler has been set correctly. How can I compile the following code?               With[{m = 200},      Select[Flatten[Table[{x, y, z}, {x, m}, {y, x, m}, {z, y, m}],         2], (#1^2 + #2^2 == #3^2 &) @@ # &]      ]

@@ -1,0 +1,1 @@
+The Function ListContourPlot generates by default an output which has a square size. I would like to produce a rectangular output for example {1000,100}. ImageSize doesn't work because it shapes only the frame (the plot still has size {100,100}). Thx, rainer

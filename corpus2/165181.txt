@@ -1,1 +1,0 @@
-I was looking to upgrade my project from EF4.1/Framework 4.0 to EF5/Framework 4.5. After reading up on migrating the t4 templates for STE's (Self-Tracking Entities), I came across this link that indicates that STE's are no longer recommended. Why is Microsoft no longer recommending the use of STE's?

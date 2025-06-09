@@ -1,0 +1,1 @@
+The question is simple. In Mathematica 9, there used to be "The Mathematica Book" integrated with the software in the help system. I can't find it anymore in version 10. Do you know if it is still there ? Best regards, F.

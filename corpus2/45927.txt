@@ -1,1 +1,0 @@
-If running a project using BDD with 100% coverage of user stories with automated acceptance tests, what would be the role of a tester / quality assurance person? I guess I am imagining that developers would write the acceptance tests in conjunction with the product owner, let me know if that seems like a foolish assumption.

@@ -1,0 +1,1 @@
+I have a system of ODEs with 10 eqns. I can solve the first 5 independently. How can I use those results to solve for the remaining 5? An easy example would be $\dot{x}=f(x), \quad \dot{y}=g(x,y)$ I can solve for x and now I want to use the interpolating function to solve for y. Thanks

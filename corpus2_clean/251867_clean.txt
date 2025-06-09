@@ -1,1 +1,0 @@
-basically expanding literate program haskell two thing need look expand example file program c lit comment source file ignore comment source file ignore file need look var substitute matching definition defined var line indented num space defn included chunk end file consisting line approach problem term file processing good approach comfortable recursion less comfortable monad

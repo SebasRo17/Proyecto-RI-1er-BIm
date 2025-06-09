@@ -1,1 +1,0 @@
-This page it has the following: _If we want to stop the event (e.g., prevent its default action and stop it bubbling), we can do so with the extended event object's Event#stop method:_               $('foo').observe('click', function(event) {       event.stop();     });

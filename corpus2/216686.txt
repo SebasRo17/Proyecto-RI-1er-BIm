@@ -1,1 +1,0 @@
-Why do we say "Object-oriented programming" and not simply "Object programming"? Why do we speak of orientation in just this case, and not "Functionally-oriented programming" and so?

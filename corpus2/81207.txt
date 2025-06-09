@@ -1,1 +1,0 @@
-These days is it required to test a desktop website for IE6 and IE7? Or is IE8 and IE9 enough? I heard that IE8 has replaced IE7.

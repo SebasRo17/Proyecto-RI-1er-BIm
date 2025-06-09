@@ -1,1 +1,0 @@
-At the moment in college I'm studying dynamic programming and I'm really interested in it. I want to go deeper and fully understand the topic so I can write good dynamic code. Is there a book out there that's the de-facto standard for describing best practices, design methodologies, and other helpful information about dynamic programming? What about that book makes it special?

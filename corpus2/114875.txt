@@ -1,1 +1,0 @@
-Just came through XPath. I got curious about this. Why is there a different way to select tags in XPath and CSS(selectors). Why cant there be a common way in both XPath and CSS?

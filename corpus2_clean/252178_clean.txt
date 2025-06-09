@@ -1,1 +1,0 @@
-many vms execute language binary form know bytecode assembled human readable assembly language example assembly instruction push num push num add translated think series one zero executed vm vms jvm example execute assembly instruction directly limitation physical computer handle one zero jvm well take textual instruction push num push num execute additional step compilation

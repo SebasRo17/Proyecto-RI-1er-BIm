@@ -1,1 +1,0 @@
-Is there any difference between naming a class "Handler", "Manager" or "Controller"? IE: `PurchaseManager`, `PurchaseHandler`, `PurchaseController`. Do these suffices convey the same meaning or is there a clear difference between them? If there isn't a language-agnostic answer, consider Java as the language.

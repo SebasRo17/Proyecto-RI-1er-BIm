@@ -1,1 +1,0 @@
-read kruskal algorithm presented wikipedia say algorithm graph theory find minimum spanning tree connected weighted graph going example illustrate algorithm unable understand loop avoided marking edge red reason

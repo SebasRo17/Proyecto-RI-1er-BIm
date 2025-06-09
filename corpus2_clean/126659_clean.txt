@@ -1,1 +1,0 @@
-pro con generating dynamic page javascript v php example want display certain record database table considering following approach num use javascript get response json php page dynamically build table javascript num write php page make query iterate result set echoing table markup pro con approach

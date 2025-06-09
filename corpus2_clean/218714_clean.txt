@@ -1,1 +1,0 @@
-built flatfile db system work like mini nosql system split db smaller file wrapper searching usage built preg grep everything working good till became billion index handle searching iterate small file get match put temporary found large match nosql dbms note wonder without real nosql solution say want know

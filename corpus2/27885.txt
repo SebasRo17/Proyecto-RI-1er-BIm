@@ -1,0 +1,1 @@
+One of the options in ComponentMeasurements is to compute a centroid based on the pixel values of some underlying image. We can write:               ComponentMeasurements[{MorphologicalComponents[image], image}, "IntensityCentroid"][[All, 2]];      Is it possible, however, to have something like an intensity squared or cubed centroid?

@@ -1,1 +1,0 @@
-What's the first _(oldest)_ language that had the 'Unless' conditional/loop built into itself? Where an example could be               unless (myVar) == if (!myVar)          until (myVar) == while (!myVar)

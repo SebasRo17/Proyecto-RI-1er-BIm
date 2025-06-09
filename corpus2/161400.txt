@@ -1,1 +1,0 @@
-Who is responsible for bumping version number in commercial software development? How to setup policies for that? 1) for small team 2) for medium team It is important not to forget to change the version number that self-describes that output file. Such as AssemblyInfo.cs / resource.rc / AndroidManifest.xml

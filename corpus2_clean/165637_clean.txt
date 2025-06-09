@@ -1,1 +1,0 @@
-read big xml file lot information afterwards extract needed information num point column num relevant row write excel file question handle extraction unused part copy whole file delete unused part write excel good approach create object column write whole xml excel start delete row excel would performant acceptable solution

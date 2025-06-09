@@ -1,1 +1,0 @@
-developing small open source javascript library wondering proper compiling source one javascript file easier develop split multiple file library included one large file used another application current compilation involves using makefile copy file minify proper way

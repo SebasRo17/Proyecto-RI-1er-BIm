@@ -1,1 +1,0 @@
-What are the consequences of allowing multiple inheritance in a programming language? Why does multiple inheritance tend to violate the very essence of OOP? Is that what differentiates a pure OOP language like Java from an OOP language like C++? Explain and illustrate.

@@ -1,1 +1,0 @@
-I'm learning Aspect Oriented Programming and have isues understanding concepts. I'm not a bad programmer but my english is bad and can't understand fully the definitions. Can someone explain AOP concepts for dummies: join point, pointcut, weaving etc. For example: **Aspect: a modularization of a concern that cuts across multiple classes.** What that means? Thank you!

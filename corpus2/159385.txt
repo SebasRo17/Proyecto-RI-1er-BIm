@@ -1,1 +1,0 @@
-I'm working on an application which requires user credentials and so on. So a database is required on the backend. What is the best practice to connect to a database without hardcoding your password into it? The program could be reverse engineered and one might get the password which is something we obviously don't want.

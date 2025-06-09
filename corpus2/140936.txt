@@ -1,1 +1,0 @@
-I'm looking for tests that are suitable for a graduate software developer role, mainly tests that are about reviewing code and finding faults and etc, multiple choice or otherwise.preferably code written in c#. I have a test coming up soon and want to prepare before hand.

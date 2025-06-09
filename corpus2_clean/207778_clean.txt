@@ -1,1 +1,0 @@
-thought doctrine num dbal prepared statement safe found confusing bit doc default doctrine dbal escaping escaping tricky business automatically therefore none default use doctrine dbal standalone take care mean exactly someone try inject malicious query fail opposed insert escaped rdbms protects protected using postgresql rdbms

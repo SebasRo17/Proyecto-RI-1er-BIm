@@ -1,1 +1,0 @@
-currently writing project using separate virtual machine database api front end website currently num writing php virtual machine running within virtual network best practice accessing local api like front end would still use something like curl alternative

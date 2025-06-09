@@ -1,1 +1,0 @@
-Can I distribute the MS SQL 2005 Express edition along with my application to the customer?

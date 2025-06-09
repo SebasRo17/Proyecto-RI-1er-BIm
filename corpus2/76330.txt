@@ -1,1 +1,0 @@
-In open source jargon, is a "committer" someone who creates a commit that gets accepted into a project, or is a "committer" a gatekeeper who decides what commits/patches are or aren't accepted into the "blessed" repository?

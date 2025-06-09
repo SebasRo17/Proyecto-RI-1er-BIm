@@ -1,0 +1,1 @@
+After manipulating the graphics in a dynamic module like this: Synchronizing manual rotations for multiple Graphics3D outputs? How do I get at the current graphic so that I can Export the image? The answer might be burried in here Using DynamicModule variables outside the DynamicModule someplace but i am unable to decipher it..

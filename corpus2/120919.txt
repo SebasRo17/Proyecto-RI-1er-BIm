@@ -1,1 +1,0 @@
-I'm not sure I understand the role of jQuery/JavaScript in MVC. I've found an article about it on _A List Apart_ , but it doesn't clear anything up for me. Does it bridge the communication between the View and the Controller, or does it do something else?

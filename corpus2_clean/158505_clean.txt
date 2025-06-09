@@ -1,1 +1,0 @@
-extract around num million record two different database processing currently execute query via sql plus result plain text file query take around num minute faster one database im looking improve time found tool supposed exactly need know open source tool use help improve extraction time maybe better technique text file

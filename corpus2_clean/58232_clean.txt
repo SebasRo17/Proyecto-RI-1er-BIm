@@ -1,1 +1,0 @@
-reading git apress pro git book mention sha num used detect change commits also verify corruption pull server aware message digest detecting change checking presumably correcting corruption wikipedia page sha num mention feature like crc thanks scott

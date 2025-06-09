@@ -1,1 +1,0 @@
-Having seen a few mentions about Resharper on this site and on SO, I thought I would take a look. There seems to be a hell of a lot of documentation on their website, so I was just wondering, in a snapshot, what benefits it brings and what are the main reasons people use it?

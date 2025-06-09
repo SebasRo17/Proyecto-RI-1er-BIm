@@ -1,1 +1,0 @@
-using reverse lookup table create lookup table consisting password hash user account use another table consists hash guessed password compare two see hashed password compromised user account match hashed password lookup table using rainbow table appears technique except lookup table smaller search quicker real difference reverse lookup table rainbow table

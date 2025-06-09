@@ -1,0 +1,1 @@
+Some controls do not appear to work with `Manipulate` inside a `DialogInput`. For example:               DialogInput[{Manipulate[x, {x, {1, 2, 3}}], DefaultButton[]}]      does not work, but the slider version:               DialogInput[{Manipulate[x, {x, 1, 3, 1}], DefaultButton[]}]      does work. Is this a bug or am I missing a vital option setting?

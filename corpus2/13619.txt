@@ -1,0 +1,1 @@
+Basically I want to reduce something like:               Subscript[P, 4] - Subscript[P, 5] == Subscript[R, 4, 5]* Subscript[i, 4, 5]      when only one of them is known (`Subscript[R, 4, 5] == 1`), so that _Mathematica_ expresses the simplified form as:               Subscript[i, 4, 5] + Subscript[P, 5] - Subscript[P, 4] == 0

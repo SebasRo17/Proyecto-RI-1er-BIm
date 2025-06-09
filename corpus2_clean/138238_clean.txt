@@ -1,1 +1,0 @@
-would best approach unit testing model integrates application tightly coupled database specific scenario shopping cart like able test adding removing retrieving item cart well pricing logic etc mind requires database access though read several time database access avoided

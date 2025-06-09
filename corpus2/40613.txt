@@ -1,0 +1,1 @@
+I'm wondering how I can take a .KML (Keyhole Markup Language) file and convert/express it as a graph for use in Mathematica. Even just in general, is it possible to convert a KML file to a graph? I'm hoping to express the US railroad system in the 19th century as a graph using this data: http://railroads.unl.edu/resources/

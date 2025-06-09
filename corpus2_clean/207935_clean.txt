@@ -1,1 +1,0 @@
-need execute line php every single page website php require 4mb memory want allocate 4mb memory page using following ini set memory limit 4m give following area num website speed num bandwidth optimization num optimizing server memory usage

@@ -1,1 +1,0 @@
-I'm in a statistic course at Uni currently. We have to present reports on the findings along with the code we used. I'm wondering what is the best way to present this code in the reports. A separate page with a reference to the report or inline. Or something else? Thanks

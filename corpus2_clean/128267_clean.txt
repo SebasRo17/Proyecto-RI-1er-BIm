@@ -1,1 +1,0 @@
-web application want start running regression test one thing supposed look choosing alternative tool recorder however get general feeling frowned upon writing test preferred eventual disadvantage advantage using record playback tool regression testing

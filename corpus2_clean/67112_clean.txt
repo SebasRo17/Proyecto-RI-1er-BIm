@@ -1,1 +1,0 @@
-currently process developing rest service consumed iphone app basically service wrap existing business logic business logic written c writing service c purely curious point view project question language framework exist build rest service technology choice open one would choose wrap c assembly using non microsoft language would ever development team able support

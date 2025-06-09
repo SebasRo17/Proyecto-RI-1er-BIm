@@ -1,1 +1,0 @@
-I'm considering using SignalR to send data to a mobile app, but need to have a way to synchronize data while it's closed or pending updates. Is it a good idea to use Backbone.js <\--> SignalR to manage queued CRUD updates to the server? If not, what is?

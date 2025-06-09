@@ -1,0 +1,1 @@
+Sometimes I create a number of plots together, e.g. by `GraphicsGrid[]`. If it happens that I have to print the notebook, very often the cell is broken, half on one page and the remaining part on the next -- while I'd like _Mathematica_ to print it all in the next page if there is not enough space available. This also happens if I save the notebook as a PDF.

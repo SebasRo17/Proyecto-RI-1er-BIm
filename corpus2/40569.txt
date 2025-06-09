@@ -1,0 +1,1 @@
+If I want to label the $x$-axis of a `ListLinePlot` , how do I do that? There are two types of label:   * a **units label** which would go to the **right of the axis** ,  and then potentially you could have an   * **axis label below it**.  What would be the way to enter both types of text?

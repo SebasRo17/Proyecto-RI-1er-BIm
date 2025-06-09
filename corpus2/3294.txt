@@ -1,0 +1,1 @@
+I need to evaluate               Needs["GraphUtilities`"]      before I can use functions such as `GraphPath[]`. When I do so, some functions get colored red, but still work. Why does this happen and can I change this?

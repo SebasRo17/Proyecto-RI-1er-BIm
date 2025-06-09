@@ -1,1 +1,0 @@
-Is there a way to find errors caused by crafted input in php, such as naming POST-fields like `variable[]` instead of `variable`, causing PHP to implicitly convert it into an array, by using some form of automated testing?

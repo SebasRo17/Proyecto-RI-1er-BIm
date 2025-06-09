@@ -1,0 +1,1 @@
+Sorry for not posting it in the first attempt properly. Consider the simple problem of a first-oder difference equation:               RSolve[{s[t + 1] == e[t] + b*s[t], s[0] == s0}, s[t], t][[1, 1]]           where I like to use the solution in the FitModelenvironment to calibrate the paramter b for a sequence of exogenous variables e[t] and an initial value s0.

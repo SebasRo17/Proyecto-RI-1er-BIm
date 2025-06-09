@@ -1,1 +1,0 @@
-I'm wondering what the best data structure (for storing data on disk) is for storing immutable **time-series** data (99% of the data is truly immutable, the 1% is metadata that is separate from the immutable data). I've been looking at log-structured merge-trees in particular because of it's heavy use by Cassandra and the like.

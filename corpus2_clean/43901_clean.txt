@@ -1,1 +1,0 @@
-reading good practice database application frequently come across advocate called business logic layer trying decide best project use one small personal project issue lie fact think anything bll dal already handle executing query mapping result object bll call dal without anything maybe wrong exactly dal regardless sort functionality expected bll database management application

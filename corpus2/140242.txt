@@ -1,1 +1,0 @@
-I'm fairly new to Azure but I noticed that Visual Studio auto-creates the following folders (among others)               ...     /<nameOfAzureProject>/bin     /<nameOfAzureProject>/obj     /<nameOfAzureProject>/csx <==     ...      Now the bin and obj folders are fairly standard. But I'm not clear about the purpose of the **csx** folder. Any ideas?

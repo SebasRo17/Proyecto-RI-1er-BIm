@@ -1,1 +1,0 @@
-Hello   What's a good methodology for a small 2-person project? Ranges from 20-40hr.   It's mostly small websites. I want to approach it as a developer, but Agile and other methodologies seems too large scale for what I'm after.   Thanks

@@ -1,1 +1,0 @@
-stack different thread different heap heap different different thread share object

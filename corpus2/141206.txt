@@ -1,1 +1,0 @@
-Is it possible to call the constructor using an arguments object?               var MyClass = function(a, b){       this.a = a;       this.b = b;     };     var myClassInstance = function(){       //This line would not work, but is what I'm asking. Is there a way besides eval?       return new MyClass.apply(?, arguments);     }('an A value', 'a B value');

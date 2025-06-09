@@ -1,1 +1,0 @@
-The only way I could figure how to do it was create the schema on the localDB with code first and then manually change the database string to Azure and then run the code on Azure.. But that only gives me the schema and not the data.. Is there a better way like ? bacpac? Create a script instead? Or some other concept I am missing ?

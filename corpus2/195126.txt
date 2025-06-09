@@ -1,1 +1,0 @@
-What is it called when you aren't using an MVC framework and each URL has it's own file associated with it. I want to say it's model 0 or class 0 but I haven't been able to find anything useful via Google. :-)

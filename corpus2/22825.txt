@@ -1,0 +1,1 @@
+I am trying to calculate limit for a subsequence <${ a }_{ {n }^{ 2} }$> because I was trying to see that limits of sequences and subsequences are both same. I was able to generate the sum for square values as,               N[ Sum[ 1/(n (n + 1)), {n, Table[n^2, {n, 1, 1000}]}]]      But I want to know how I shall find limit to a subsequence of square integers.

@@ -1,1 +1,0 @@
-Take from wikipedia, aliasing is defined as accessing a data location through different names. Also taken from wikipedia, indirection is defined as referencing something "using a name, reference, or container instead of the value itself". Am I missing something here - Are these two one and the same? If not, how are they different?

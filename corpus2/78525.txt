@@ -1,1 +1,0 @@
-A large list of "harmful stuff" related to software development is presented on cat -v. Is Qt harmful? What would be the rationale for considering to Qt harmful? Why would Tcl/Tk be presented as a superior alternative?

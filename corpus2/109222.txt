@@ -1,1 +1,0 @@
-I am trying to develop an application much like a search engine and I will like to use Google search results and refactor them in my application. Can I re-issue Google search results my own way and should I expect some legal troubles doing that ?

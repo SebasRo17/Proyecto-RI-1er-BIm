@@ -1,1 +1,0 @@
-This is for a site that relies on shipping items via UPS or FedEx. I know there is software out there that does it (http://en.wikipedia.org/wiki/Coding_Accuracy_Support_System), but if you are trying to build your own solution for a simple website.

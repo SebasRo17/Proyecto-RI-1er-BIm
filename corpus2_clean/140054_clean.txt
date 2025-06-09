@@ -1,1 +1,0 @@
-complex non binary graph model tree node multiple child parent node also connection brother node represented square screen line connected node want use gef library problem facing graph layout need nice algorithm reposition square node connection minimum intersection also make symmetric possible

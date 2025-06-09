@@ -1,1 +1,0 @@
-I'm a web developer, but lately I have been learning Clojure and now I'm interested in creating a p2p application. And since Clojure is a general purpose language, I guess I can just use that. Any suggestions?

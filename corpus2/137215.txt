@@ -1,1 +1,0 @@
-This might be a little open ended, but I heard an explanation of this talk on how GP could be used to fix bugs, and I wonder: How does this differ from the infinite monkey theorem?

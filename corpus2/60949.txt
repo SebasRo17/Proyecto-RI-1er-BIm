@@ -1,1 +1,0 @@
-I just tried integrating my website with facebook. I got a lot of copy-paste code from the facebook developers site. I just put the code and it works fine. Do you call this kind of programmers "code monkeys"? If you say I am a code monkey, in the same case what would you expect me to do?

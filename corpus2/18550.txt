@@ -1,0 +1,1 @@
+I am trying to plot a simple vortex in cylindrical coordinates give by $v_{\phi} = \frac{\Gamma}{2 \pi r}$ Is there an alternative method to plot this than, for example, using streamplot and converting r and the cylindrical unit vector $\vec{\phi}$ to cartesian rectangular coordinates?

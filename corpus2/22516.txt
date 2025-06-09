@@ -1,1 +1,0 @@
-I know this is a very very basic question. For some software applications there are a large almost infinitely high number of test cases for an application. It is not practical to test all those test cases. How do we decide when to stop testing? (other than "when money runs out").

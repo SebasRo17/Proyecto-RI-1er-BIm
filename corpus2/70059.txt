@@ -1,1 +1,0 @@
-Since Visual Studio 2010 does not come with a VB6 conversion tool, the boss wants to use a 3rd party tool (i.e VBUC) that Microsoft is suggesting. Has anyone used one of these 3rd party tools/services? If so, have you found them to be worth the money?

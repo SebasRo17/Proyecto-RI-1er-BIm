@@ -1,1 +1,0 @@
-draft quick easy testing plan lite medium sized web project 70k line num developer seen many tutorial article method testing seem cumbersome u goal able able divide delegate testing instruction friend different project segment browser etc quick easy way write test plan web apps num num num rule thanks

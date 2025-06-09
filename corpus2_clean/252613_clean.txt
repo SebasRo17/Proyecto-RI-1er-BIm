@@ -1,1 +1,0 @@
-one way optimize minimize access array use variable instead way use register instead loading cache memory example going use num time say radius better declare tmp give radius every time need call radius use tmp instead problem number register limited num case depends architecture variable number register usage variable case slow program access cache memory coding c language

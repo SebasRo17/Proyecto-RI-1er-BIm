@@ -1,0 +1,1 @@
+The mathematica stackexchange site is a treasure trove of great functions that the user community has shared to make the use of mathematica easier. Many of those functions are very useful for daily use. What do you consider, the best practice to collect these functions, and make them available at the startup of a new document?

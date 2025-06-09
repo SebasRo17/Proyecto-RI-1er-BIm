@@ -1,1 +1,0 @@
-I'm currently teaching myself C++. I'm very proficient at C#, and was wondering which common practices in C# can lead to difficulties in C++, and what a C++ programmer should do instead.

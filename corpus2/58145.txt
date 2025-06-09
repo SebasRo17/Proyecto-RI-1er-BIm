@@ -1,1 +1,0 @@
-How are Scala programmers being interviewed? What are the aspects that the interviewer looks for when interviewing a Scala developer?

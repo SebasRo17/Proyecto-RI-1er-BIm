@@ -1,1 +1,0 @@
-I'm writing a paper right now, and I need a quotable source for the popularity of programming languages. One source I know is the TIOBE index, however, there are several others if you search google, and the ranking is different on every index. Which one would you suggest to be quoteable?

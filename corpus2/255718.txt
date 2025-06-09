@@ -1,1 +1,0 @@
-I have been trying to program a game lately, wherein I drew a rectangle onto the screen using ImageIcon. Later I realised, anything drawn on the screen there after rotates along with the image drawn previously along with it in the same axis. Can anyone tell me why? And what am i missing? Thank you.

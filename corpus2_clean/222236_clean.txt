@@ -1,1 +1,0 @@
-ieee num standard provide num bit exponent put range maximum num largest acceptable exponent seems kind ridiculous storage allow actually used wanted pack exponent encoding use bit pack exponent larger num hoping pack value num using bit num num

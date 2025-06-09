@@ -1,1 +1,0 @@
-let say developing web application first choice use php fat free framework f3 mvc pattern next year might decide want switch zend framework maybe even asp net mvc make sense try design application way loosely coupled framework framework integral make realistic reason ask came conversation peer recently criticized pie sky idea loosely coupling application f3

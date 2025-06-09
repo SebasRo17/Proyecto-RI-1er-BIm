@@ -1,1 +1,0 @@
-Reusability is a feature of good software design. Is reusability an acceptable gloss ("brief notation of the meaning") for good software design? Why?

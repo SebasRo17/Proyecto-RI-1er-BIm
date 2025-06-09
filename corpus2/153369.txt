@@ -1,1 +1,0 @@
-I know a bit of C++, Java and Ruby. I want to be proficient in one of these now and I don't know how to pick. I was wondering if picking one over the other would be advantageous in any way for competitive programming?

@@ -1,1 +1,0 @@
-reading concurrency practice said fortunately oriented technique help write well organized maintainable class encapsulation hiding also help create thread safe class problem num never heard hiding know problem num always thought encapsulation using private v public actually hiding please explain hiding differs encapsulation

@@ -1,1 +1,0 @@
-Is it possible to programmatically trigger the Windows's Hibernate without actually Hibernating, just to take snapshot of the OS at regular intervals? So that the system can return to the previously saved state in case of any failure. This is much like System Restore, which backups system files; but the idea is to backup the complete OS's active state.

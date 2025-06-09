@@ -1,1 +1,0 @@
-decided call kill command kill mean yes utility often used terminate process actually used send signal slightly confusing maybe historical reason know man kill command appeared version num unix

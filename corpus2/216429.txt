@@ -1,1 +1,0 @@
-Is it better to have constructors with or without parameters and why?               public NewClass( String a,  String b, int c) throws IOException     {         //something     }      _OR_               public NewClass()      {         //something     }

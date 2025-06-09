@@ -1,1 +1,0 @@
-As far as I know, it generally refers to _late_ or _dynamic bindng_. So why a word like _late_ or _dynamic_ wasn't used?

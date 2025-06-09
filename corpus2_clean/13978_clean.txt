@@ -1,0 +1,1 @@
+select delete output cell multiple notebook programmatically without needing manually opening define hot key deleting output cell within notebook notebook

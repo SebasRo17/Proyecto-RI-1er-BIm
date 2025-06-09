@@ -1,1 +1,0 @@
-client requirement need expose web service take xml client consume web service send xml web service need async could please suggest good proven approach advantage disadvantage

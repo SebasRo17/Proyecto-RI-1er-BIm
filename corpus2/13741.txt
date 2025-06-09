@@ -1,0 +1,1 @@
+I can do               Symbol["foobar"]      to create a symbol `foobar`. How to create a symbol $\theta_1$?               Symbol[Subscript[\[Theta], 1]]      doesn't work.

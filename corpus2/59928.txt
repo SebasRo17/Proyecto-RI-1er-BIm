@@ -1,1 +1,0 @@
-From reading the descriptions, I understand that in TDD tests are done prior to writing the function and in Unit Testing, its done afterwards. Is this the main difference, or the two terms can't even be compared as such. Perhaps, Unit Testing is an integrated part of TDD.

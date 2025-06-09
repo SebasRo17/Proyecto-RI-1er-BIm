@@ -1,1 +1,0 @@
-Is there a metric analogous to the McCabe Complexity measure to measure how cohesive a routine is and also how loosely (or tightly) coupled the routine is to other code in the same code base?

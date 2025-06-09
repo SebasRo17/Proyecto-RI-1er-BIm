@@ -1,1 +1,0 @@
-looking way share application created file whatsapp found chat using custom url scheme provided whatsapp share file app read use sample available also read apple doc say create instance file want interact necessary create instance file want share file receive service app

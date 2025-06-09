@@ -1,1 +1,0 @@
-I want to configure each IDEs/editor I use to have exactly the same key shortcuts. By default each IDE/editor has slightly different set of key bindings - even simple "close current tab" is bound either to CTRL+W or CTRL+F4. Is there already a set of config files (one for each IDE, editor, etc) with the same key binding configured?

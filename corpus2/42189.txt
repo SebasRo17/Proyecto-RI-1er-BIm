@@ -1,0 +1,1 @@
+When using the template blocks from the Pallets to enter equations, the mouse cursor disappears. It also becomes difficult to set the focus to a block in a template by clicking it. This was also an issue in earlier versions of Mathematica for Windows. Is there an alternative way to enter formulas or is it possible to use a third- party equation editor?

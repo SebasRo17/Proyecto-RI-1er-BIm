@@ -1,1 +1,0 @@
-So far I haven't been testing or learning how to test my java web applications. If you do, what are the tools you need, and is it really necessary to test a web application if doesn't need scaling or it won't be handling big traffics and multi transactions? What things should I test and what approaches should I take to ensure my application works correctly?

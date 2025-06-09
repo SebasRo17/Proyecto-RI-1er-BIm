@@ -1,1 +1,0 @@
-multiple set containing integer integer maybe present one set multiple set would like find match set common integer example s1 num num num num s2 num num num num s3 num num num num s4 num num num num case would like efficiently group s1 s2 overlapping element num followed s3 s4 num s1 s4 num brute force way match possibility sort looking efficient way

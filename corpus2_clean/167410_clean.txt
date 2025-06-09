@@ -1,1 +1,0 @@
-working application creates html log file tired manually reload scroll bottom browser see latest entry solution really satisfy using firefox plugins many situation reloading frequency scrolling speed slow course could actually use tail would prefer rendered html page suggestion firefox extension preferred tip appreciated

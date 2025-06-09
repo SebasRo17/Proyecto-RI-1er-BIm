@@ -1,1 +1,0 @@
-I think I am at a point where I can truly contribute to a Ruby open source project, can you suggest one or more that would be open to having a true beginner contribute. This would be my first group project where I would like to be 'mentored' or something similar by a more experienced coder. I would be able to work in my free-time and for free.

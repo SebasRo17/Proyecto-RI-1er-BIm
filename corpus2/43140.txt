@@ -1,1 +1,0 @@
-Can JSTestDriver be used to test DOM behaviors and interactions? I see I can write tests to exercise pure JS but how do I go about testing against HTML or DOM? Can I deliver with each test HTML for browsers to render and the tests to run against?

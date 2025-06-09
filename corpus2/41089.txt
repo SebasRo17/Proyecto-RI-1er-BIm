@@ -1,1 +1,0 @@
-Are developers are in the US, our testers are in India. How do we measure their ability, quality, success? Some possibilities: \- Coverage at the UI level \- Total time needed to run regression tests

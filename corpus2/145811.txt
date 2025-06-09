@@ -1,1 +1,0 @@
-Generally GC is not a good choice to get a soft real-time attribute. But Erlang is GC based language can be soft real-time. Does it mean Erlang have almost no GC latency? How does it work?

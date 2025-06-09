@@ -1,1 +1,0 @@
-According to blog post by RetroDreamer Android developers have to pay sales taxes for their App sales in countries with have sales taxes while Apple developers don't as Apple pays the taxes directly. Is this an accurate description? Is so, how do the various people who publish Android apps handle it?

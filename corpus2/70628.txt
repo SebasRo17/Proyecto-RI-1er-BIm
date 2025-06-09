@@ -1,1 +1,0 @@
-I have worked with many languages that do not generate a method signature based on the return type. I have also worked with one(maybe some?) that do. The ones that don't have given me problems in the past (like here). Why do programming languages generate method signatures without regard to the return type? Update: I'm referring specifically to compiled statically typed languages

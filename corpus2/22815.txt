@@ -1,0 +1,1 @@
+I'm a beginner at Mathematica. I would like to plot the following function: $${n\over2} \sum_{j\ge1} 2^{-j}(1-2^{-j})^{n-1}$$ However the following code is just too slow:               Plot[n/2 NSum[2^(-j) (1 - 2^(-j))^(n - 1), {j, 1, Infinity}], {n, 1, 100}]      I think it may be trying to expand the $(n-1)$th power symbolically instead of numerically. How can I fix that?

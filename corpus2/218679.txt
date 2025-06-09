@@ -1,1 +1,0 @@
-I'm writing a C++ library, and according to this site here: http://semver.org/,   I should increment the MAJOR version when I make incompatible API changes. Is changing the name of a namespace considered an incompatible change in the API? I'm not quite sure. I don't know whether I should increment the MAJOR or MINOR version number.

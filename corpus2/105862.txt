@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Website for code review Where can I post my code online so people can comment, make suggestions, and/or criticism? I tried 4chan but people lose interest fast if you don't say something really stupid. Ideas? My language can be located at http://github.com/tekknolagi/gecho/tree/testing

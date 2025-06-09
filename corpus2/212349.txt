@@ -1,1 +1,0 @@
-One minimal Kanban-like system has three places for cards: "To do", "In progress", "Done". As I've seen Scrum and Kanban on the web, it is maybe five or six categories. What are some of the common options for categories for Kanban and Scrum JIRA boards?

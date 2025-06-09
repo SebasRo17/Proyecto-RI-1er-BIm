@@ -1,1 +1,0 @@
-What open source Java code would you suggest for me to study? EDIT: I'm interested in the design, simplicity(?), their programming style, logic. EDIT2: The first thing that came to my mind is JUnit source code. I started looking into it and I was impressed by how 'Money' is designed/represented. Similarly are there any suggestible open-source projects.

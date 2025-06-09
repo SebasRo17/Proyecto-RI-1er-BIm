@@ -1,1 +1,0 @@
-software technology behind real time web apps like twitter trello even gmail know webserver probably database backend software piece make rich web interaction seeing today

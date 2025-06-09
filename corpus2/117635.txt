@@ -1,1 +1,0 @@
-For example, if the code generates a random int from 0-10, and takes a different branch on each outcome, how can one design a test suite to guarantee 100% statement coverage in such code? In Java, the code might be something like:               int i = new Random().nextInt(10);     switch(i)     {         //11 case statements     }

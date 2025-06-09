@@ -1,1 +1,0 @@
-This includes architecture decisions, platform choices or any situation where a such a bad choice led to negative consequences.

@@ -1,1 +1,0 @@
-I'm only passingly familiar with either, but it seems like most of what ZeroMQ offers is already built into Erlang, yet there's an Erlang-ZeroMQ binding that's fairly active according to its github page. What am I missing?

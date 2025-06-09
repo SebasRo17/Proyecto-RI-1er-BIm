@@ -1,1 +1,0 @@
-basically new network programming went tutorial online find using taught tutorial creating socket connecting port etc modified made program two computer send message one another apply job show interviewer would technically mine fair say modify much however example modified something like tic tac toe game two user play different pc would mine want look like hence ask

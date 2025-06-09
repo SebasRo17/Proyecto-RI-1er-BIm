@@ -1,1 +1,0 @@
-Often open-source software projects have a folder called "contrib". For example, Django has one. What is it for?

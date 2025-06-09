@@ -1,1 +1,0 @@
-The more SQL fields I add to my tables and the more primary/foreign keys I add the more I lose the overview for specific fields for certain scenarios like Get/Add/Delete/Update data. I use SQL Management Studio (SQL Server) to design my database in the database diagram designer. Maybe there is a better tool or good approach how to keep track of the meaning of all those fields?

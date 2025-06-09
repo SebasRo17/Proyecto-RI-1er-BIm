@@ -1,1 +1,0 @@
-So I've started developing web sites and have learned HTML and CSS fundamentals. However, I often run in to WTF-moments concerning layout; what looks good in one browser may look strange in another and I can't figure out why. Do I need to learn CSS beyond the fundamentals or are there any frameworks that can make life simpler for me?

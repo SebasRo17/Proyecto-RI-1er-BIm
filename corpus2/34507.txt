@@ -1,1 +1,0 @@
-**Has anyone had experience** with out-sourced testing? Is it worth the fairly high premium you have to pay? Can you simply hire some _off-shore_ 'mechanical turks' (who offer the same services, but a lot cheaper) with a testing script as a cheaper alternative to professional software testing services?

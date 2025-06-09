@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  What does SVN do better than git? In an effort to push coworkers toward a distributed VCS, I'd like to first understand why it is **not** a good change from a practical perspective. Why might a centralized VCS be preferred over a distributed one in a corporate setting?

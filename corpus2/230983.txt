@@ -1,1 +1,0 @@
-I have a service that needs information implemented by another service in the same layer. Is it good practice for one service to take a dependency on another service in the same layer?

@@ -1,1 +1,0 @@
-We have been developing a web application in ASP.NET MVC. We have scenarios where many actions on web page are dependent upon role of a specific user. For example a memo page has actions of edit, forward, approve, flag etc. These actions are granted to different roles and may be revoked at some later stage. What is the best approach to implement such scenarios?

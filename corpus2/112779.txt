@@ -1,1 +1,0 @@
-I know that JRuby can access COM APIs, but can it interface with .NET?

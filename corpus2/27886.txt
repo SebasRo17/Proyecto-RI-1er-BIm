@@ -1,1 +1,0 @@
-What features is Windows missing that can improve the productivity of a programmer. I know a lot of people would want some features from Linux and OSX ported or being created for Windows as well. What is missing for you ? An example would be the option to have multiple workspaces. When not having the possibility to use dual monitors that can come in handy.

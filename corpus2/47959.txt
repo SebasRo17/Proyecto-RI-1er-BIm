@@ -1,0 +1,1 @@
+Is there a way to insert a closed section? I know in .m files if you do `(* ::Section::Closed:: *)` and open the .m file using system editor, a closed section will be displayed. Is there a way to create a closed section in the notebook while using `CreateDocument[]`?

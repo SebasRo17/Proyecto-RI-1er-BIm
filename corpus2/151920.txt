@@ -1,1 +1,0 @@
-Since Java 1.6 the JVM can run a myriad of programming languages on top of instead of just Java. I conceptually understand how Java is run on the Java VM, but not how other languages can run on it as well. To me, it all looks like black magic. Do you have any articles to point me to so I can better understand how this all fits together?

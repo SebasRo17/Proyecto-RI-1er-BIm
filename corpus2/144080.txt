@@ -1,1 +1,0 @@
-I need to generate debug output in a java appliation that cannot be debugged by placing break points and traces. I've thus far been placing the debug flag as a static variable in one of the classes and then accessing it from all other classes. But this I suspect will eventually cause massive issues later on. What's the best way to do this?

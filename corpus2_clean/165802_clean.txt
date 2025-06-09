@@ -1,1 +1,0 @@
-enumeration command play stop pause medium player two class switch case received command player run different thread deliver command command queue thread generate diagram enumeration dependency place nicer way deal command would change extend enumeration would change several class super important keep player extensible try write nice software

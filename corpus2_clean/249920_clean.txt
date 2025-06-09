@@ -1,1 +1,0 @@
-polyline clojure program represented vector point really anything polyline length geometric sense something often needed computation also fairly slow calculate every time needed oo length property polyline functional lost duplicate oo pattern make polyline map point point length length point make length memoize depend cache result

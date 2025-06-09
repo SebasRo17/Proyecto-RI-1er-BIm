@@ -1,0 +1,1 @@
+For those who use _Mathematica_ with databases in companies, a common way to securely connect to those is using Windows Authentication (detailed here). _Mathematica_ doesn't seem to support this authentication method. How can you connect to a database securely using Windows authentication?

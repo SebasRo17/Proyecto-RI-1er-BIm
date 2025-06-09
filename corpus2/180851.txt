@@ -1,1 +1,0 @@
-During a job interview, I was asked to explain why the repository pattern isn't a good pattern to work with ORMs like Entity Framework. Why is this the case?

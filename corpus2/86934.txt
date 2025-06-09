@@ -1,1 +1,0 @@
-Recently, I just finished Michael Hartl's rails tutorial. Throughout the book he recommended The Rails 3 Way after you finished his book. From your experience do you think it would be better to read another book or start building an app and figuring out things on my own?

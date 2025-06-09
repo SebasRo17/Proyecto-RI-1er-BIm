@@ -1,1 +1,0 @@
-How do certain services, just like google plus and facebook, check for new content without reloading the page? Whenever you are on any of those websites a new notification of a post related content just pops up without the need to refresh the page. Can someone give me some tips on how this works? :)

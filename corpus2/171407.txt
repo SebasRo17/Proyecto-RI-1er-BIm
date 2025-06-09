@@ -1,1 +1,0 @@
-I've been browsing the net and found theses two slides on site of XOM (XML object model):   * slide1   * slide2 Where they refer to SAX(push) and StAX(pull) parsers. So I'm wondering, what does it mean that a StAX parser isn't complete or correct in practice?

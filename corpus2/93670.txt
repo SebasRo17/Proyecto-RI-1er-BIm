@@ -1,1 +1,0 @@
-While Sun's Java code convention suggests to put line break before the operator many other guidelines disagree with it. I do not see any obvious pros and cons, so are there advantages of using one of these styles over another?               String longVarName = a + b + c + d +               e + f;      vs               String longVarName = a + b + c + d               + e + f;

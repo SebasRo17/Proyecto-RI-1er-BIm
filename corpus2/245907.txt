@@ -1,1 +1,0 @@
-I am starting out in Java API design and in reading existing code bases, I have found that most APIs consist of interfaces only with their implementations bundled in a different package. Having read that interfaces are generally more problematic to use/maintain than abstract classes, why aren't abstract classes used instead of interfaces?

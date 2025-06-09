@@ -1,1 +1,0 @@
-Most organizations restrict access to the source code to engineers, and even at places like Google, the Android source code is kept off-limits to most engineers within the company. Why? Note: I am not talking about write access for everyone in the company, I'm talking about read access.

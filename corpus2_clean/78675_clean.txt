@@ -1,1 +1,0 @@
-software engineering course recently briefly covered testing course discussion topic came made wonder math underlying software testing finer v coarser test set using equivalence class partition infinite space testable set etc resource available exploring math behind software testing

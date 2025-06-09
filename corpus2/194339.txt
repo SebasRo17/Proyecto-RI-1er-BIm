@@ -1,1 +1,0 @@
-In MIPS assembly, there is a register for the stack pointer, and another register for the frame pointer. What is the frame ponter and what is its purpose. How does it differ from the stack pointer?

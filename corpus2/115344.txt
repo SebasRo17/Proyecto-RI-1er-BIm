@@ -1,1 +1,0 @@
-I recently found out about the idea of code katas at Dave Thomas's blog and was really interested in it. I'd like to hear the opinions of people who have experience with code katas; is it assumed that I should practice one kata until I find a solution to the problem, or there is another explanation?

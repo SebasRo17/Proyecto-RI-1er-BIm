@@ -1,0 +1,1 @@
+I have a function that creates a monochrome grayscale image that must be export as a 16-bit and 32-bit TIFF file. The _Mathematica_ documentation mentions that these bit depths are supported during `Export`, but makes no reference as to how to specify them under TIFF or `Export`. How is the bit depth specified for this type of export?

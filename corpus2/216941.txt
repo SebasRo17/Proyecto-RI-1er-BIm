@@ -1,1 +1,0 @@
-Running the build can take a long time. Why run all the tests when a given change probably only has the potential to break some of them? You should be able to build a dependency graph of all the code that each test could possibly run, and then avoid running tests that couldn't possibly be affected. Is there anything that does this?

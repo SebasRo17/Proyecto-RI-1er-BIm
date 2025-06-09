@@ -1,1 +1,0 @@
-To learn dependency injection in a current side-project, I am writing my own dependency injection container. But this has lead me to wonder, at what point is it worthwhile to use a third party product vs "roll my own"? What would be the kind of questions you would ask to figure this out?

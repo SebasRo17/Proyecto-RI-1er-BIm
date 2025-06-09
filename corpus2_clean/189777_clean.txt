@@ -1,1 +1,0 @@
-developing restful http api servicestack net api client subset action demand service could easily added entity like add service reference visual studio thinking creating simple asmx web service thought divide two num asmx w call servicestack service http client num asmx w reference bl service reference call directly preffered way way would recommend

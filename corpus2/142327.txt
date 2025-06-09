@@ -1,1 +1,0 @@
-Alan Kay claims that "I made up the term "object-oriented", and I can tell you I did not have C++ in mind." What he had in mind, of course, was Smalltalk. But he did not make up object-oriented programming itself; he got the basic ideas from Simula. So if the term hadn't been invented yet, what did they originally call object-oriented programming in Simula?

@@ -1,1 +1,0 @@
-Is it accurate to say that dependency injection manually using java (without spring) is nothing but implementing the strategy pattern (as per this example)? Furthermore, is it correct to say that Spring just provides a declarative way of specifying the dependency as opposed to manual method whereby the dependency need to be created and 'set' using java code?

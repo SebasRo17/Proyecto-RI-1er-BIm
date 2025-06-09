@@ -1,1 +1,0 @@
-About to embark on the initial phases of a project to rewrite a legacy application from the ground up (existing business rules will change somewhat, and be extended to incorporate a large number of new requirements that the existing infrastructure cannot handle). I am looking for items that are important to remember when working to reengineer an existing application.

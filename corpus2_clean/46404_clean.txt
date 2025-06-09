@@ -1,1 +1,0 @@
-public foo x defaultvalue num foo x defaultvalue public foo x x

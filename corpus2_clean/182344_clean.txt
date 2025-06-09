@@ -1,1 +1,0 @@
-call combined getter setter jquery var foo div html div mytext mytext foo text equal html getter foo text new text equal new logic separate theoretical method var foo div html div mytext mytext foo gettext equal html getter foo settext new text equal new question designing library like jquery would decide go first route second second approach clearer easier understand glance

@@ -1,1 +1,0 @@
-common practice tdd write test fix avoid regression simplify fixing wonder test fix written different people total spent time almost three people think possible failure tester increase probability fix cover possible failure scenario practice make sense waste additional time needed one person familiarize bug

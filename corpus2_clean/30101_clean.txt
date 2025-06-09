@@ -1,1 +1,0 @@
-everybody know php problem unicode version num effectively abandoned unicode implementation difficulty wonder anyone know exact reason architecture design problem performance concern community problem bet something

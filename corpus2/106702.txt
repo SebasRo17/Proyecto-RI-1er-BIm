@@ -1,1 +1,0 @@
-I'm creating a pretty simple database driven application. Whenever I create a db app, I create classes that mimic the data in the db. Is this good practice? Am I better off making one big call to the database and populating my objects and working with these objects, or should I retrieve data from the db only when needed?

@@ -1,1 +1,0 @@
-How come in C++ when you put:               while (expression);      the while loop doesn't run no matter if the expression is true or not. However if you put:               if (expression);      the statement runs no matter if the expression is true or not. It seems like they should both behave the same way.

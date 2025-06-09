@@ -1,1 +1,0 @@
-For example, company that uses our software suddenly has found a serious bug and can't continue to work. The bug has exposed a big problem in software design and fixing it will take few days. What is the best approach to solve such problems? What developers should do: start to rewrite code to fix the bug, writing a quick hotfix first, etc?

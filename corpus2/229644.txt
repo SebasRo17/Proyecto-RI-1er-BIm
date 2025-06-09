@@ -1,1 +1,0 @@
-I'm developing a mini framework and I want to perform changes to existing methods. I know in order to deprecate a method I can use the `@deprecated` annotation. However, what annotation should I use to let the users know that I'm going to change the amount of parameters a method will receive or maybe the returned result? I'd like to know what annotations to use in PHP.

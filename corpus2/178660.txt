@@ -1,1 +1,0 @@
-Given a garbage-collected framework, when using an IOC container to inject purely stateless services, is it generally better to use the container's single-instance lifespan or to recreate the object each time it is used and throw it, and all its dependencies, away as soon as you're done with them?

@@ -1,1 +1,0 @@
-wondering anyone good solution working team single file used throughout project like style cs file everyone need use throughout day inevitably someone make change save without grabbing recent version first sort group editing program window web currently access cs file via ftp edit usual editor probably editor load save change fly

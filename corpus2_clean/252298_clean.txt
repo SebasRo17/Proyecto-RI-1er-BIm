@@ -1,1 +1,0 @@
-making android app structured simple multi activity app want add navigation drawer look like need completely restructure app load everything fragment drawer html begin performing movement completely copy paste variable function giant file definitely feel like would prone bug error perhaps separating file still one navigation drawer

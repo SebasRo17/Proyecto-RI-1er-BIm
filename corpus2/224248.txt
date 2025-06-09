@@ -1,1 +1,0 @@
-For prevent email conflicts for authentication system we can surely choose email and password combination as unique identifier. What can prevent me to built authentication system by treating unique identifier as combination of email and password ? What is wrong with this design ?

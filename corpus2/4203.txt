@@ -1,0 +1,1 @@
+I'd like to start learning Lisp as it sometimes leads to interesting answers on this site with concepts borrowed from this language, so I'm curious. As I already spend most of my programming time in Mathematica, is there a way to execute Lisp programs from the Mathematica frontend? Same question for related languages, like Haskell or OCaml.

@@ -1,1 +1,0 @@
-In the Use case you need to make all the activities the user can do. And then in the Activity diagram I need to explain the Use cases, show the steps that it handles. But if this is all correct, where do I need to show the enemies? Like: Generate path, walk, etc... Because it isn't controlled by the player, the player has almost no influence on the enemy.

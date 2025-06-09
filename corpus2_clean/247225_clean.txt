@@ -1,1 +1,0 @@
-curious use case make sense use oauth2 protected resource authorization server case password already example protecting resource seems pretty heavy handed common practice would make sense look simpler solution

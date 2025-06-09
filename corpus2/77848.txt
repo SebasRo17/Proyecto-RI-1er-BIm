@@ -1,1 +1,0 @@
-I am working for a client and the platform we are using is vBulletin. I'm so frustrated with its almost zero documentation and non-existence in Google. We don't have resources and all we have is the source. I almost want to give up now and get a job which I am familiar and uses tools that are open source.

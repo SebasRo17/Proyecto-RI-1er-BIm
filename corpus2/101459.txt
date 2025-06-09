@@ -1,1 +1,0 @@
-Do you know if the size of the database (number of tables used) is a factor when choosing between Hibernate and JDBC? Why or why not? In my particular case, I am evaluating Hibernate and JDBC for interacting with Oracle database for a small web app.

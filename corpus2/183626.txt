@@ -1,1 +1,0 @@
-I am new to web development and just started exploring the things. I read about how web page is processed and sent to client by a web server but I got confused with application server. what is the difference between them ? why app. server is needed ? and few examples of both of them .

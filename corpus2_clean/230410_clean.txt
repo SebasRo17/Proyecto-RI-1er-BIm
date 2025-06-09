@@ -1,1 +1,0 @@
-debate team member declaration constant moving constant variable separate like public public const st public const countryid ci team member suggested declare sealed avoid overriding option suggested mark static avoid instance creation constant however preferred sealed static constructor since help u initialize read variable future need please advice

@@ -1,0 +1,1 @@
+Could you let me know if _Mathematica_ (newer versions) is able to correctly compute this one?               Sum[(-1)^(n + 1) Cos[3^n x]^3/3^n, {n, 1, Infinity}]

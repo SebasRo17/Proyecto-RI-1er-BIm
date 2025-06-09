@@ -1,1 +1,0 @@
-I wrote a number of NodeJS modules (some of which are actually good, in my modest opinion). I basically forgot to set a license for them. I would like to pick the AGPL (Affero GPL). How do I do that? Can I just get away with a LICENSE file in the project? Or do I need a license disclaimer in every single file in the project? What about CSS?

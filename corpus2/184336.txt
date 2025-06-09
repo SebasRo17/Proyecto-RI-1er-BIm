@@ -1,1 +1,0 @@
-Im reading a log file in Java on a Linux box on a continual schedule of 2 minutes looking for certain messages. I store the last offset (RandomAccessFile getFilePointer) and read from it onwards when I detect LastModified has changed; is this best practice or even right?

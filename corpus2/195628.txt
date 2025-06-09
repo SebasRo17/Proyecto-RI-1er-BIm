@@ -1,1 +1,0 @@
-I assume that negative testing is an approach to design the test cases and so is equivalence partitioning. But I am not sure if NT is a part of ET. An example:   A field can accept a numeric value from the range 0-10. So I have three partitions: to 0, from 0-10 and more than 10. Another invalid partitions would represent letters which is also negative testing, isn't it?

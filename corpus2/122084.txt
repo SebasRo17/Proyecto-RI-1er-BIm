@@ -1,1 +1,0 @@
-DR-DOS, Plan, BSD, Sun Solaris, HP/UX, OpenServer.....and so on. Why high-tech OSs (like UNIX family) are mostly command based (rather than GUI based)?

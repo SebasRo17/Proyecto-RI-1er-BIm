@@ -1,1 +1,0 @@
-After 15 years of C++, I've still haven't learn to love using const. I understand it's use, but I've never actually been in situation where being const correct would have avoided the problem I was facing. So how did you come to love benefits of consts?

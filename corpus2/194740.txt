@@ -1,1 +1,0 @@
-I recently started using the Object aid UML generator plugin for Eclipse and noticed that by default adding of dependency relationships is switched off. This made me wonder if in most cases they should not be shown or rather that most people don't want to show them, seeming as this is the default setting. How do I decide whether to show dependency relationships or not?

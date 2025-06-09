@@ -1,1 +1,0 @@
-using resharper since version num always used idea resharper num x keymap schema recently learned visual studio keymap advantage keymap use prefer resharper

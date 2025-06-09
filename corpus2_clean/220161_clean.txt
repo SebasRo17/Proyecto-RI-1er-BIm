@@ -1,1 +1,0 @@
-reading sedgewick book algorithm c looking algorithm evaluate postfix expression addition multiplication without using stack tried implement one always get nowhere simple c implementation prefix evaluation eval x num eval eval eval eval num num x num x num x wondering possible something elegant postfix evaluation

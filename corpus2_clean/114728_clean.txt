@@ -1,1 +1,0 @@
-sql teacher told u naming pk column id considered bad practice without explanation naming table pk column id considered bad practice

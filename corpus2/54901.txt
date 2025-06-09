@@ -1,1 +1,0 @@
-I want the people who are using my iphone app to be able to download the Mac version(From the Mac app store) for free? and others pay for it! possible? any Ideas how to implement this?

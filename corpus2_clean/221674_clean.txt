@@ -1,1 +1,0 @@
-building program would wcf support using mvc pattern controller wcf service e g ctrl wcf wcf controller total num wcf endpoint good approach keep method provide one single e g wcf wcfservice considering count would num num

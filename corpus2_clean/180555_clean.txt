@@ -1,1 +1,0 @@
-functional programming since almost structure immutable state change new structure created mean lot memory usage know oriented programming paradigm well trying learn functional programming paradigm concept everything immutable confuses would seem like program using immutable structure would require much memory program mutable structure even looking right way

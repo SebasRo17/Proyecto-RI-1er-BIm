@@ -1,1 +1,0 @@
-visual studio num format cs ctrl k f sometimes indent cs property hierarchy example color red b color blue becomes color red b color blue would prefer color red b color blue way modifying visual studio prevent indentation

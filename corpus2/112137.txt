@@ -1,1 +1,0 @@
-Consider a Python class with a number of `@staticmethod` methods and few instance methods. The static methods don't accept an instance of the defining class as parameters.   * Do you think that all these static methods don't belong to the class and should be factored out?   * If yes, which approach would you take to clean up such code?

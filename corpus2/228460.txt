@@ -1,1 +1,0 @@
-Is that a common practice to have a single product owner for more than one Scrum team, or usually you have a product owner for each team (even if multiple teams work on the same product). Thanks

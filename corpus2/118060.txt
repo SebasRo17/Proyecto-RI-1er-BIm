@@ -1,1 +1,0 @@
-Is it possible to develop one application that can be be run in both: metro and classic style in Windows 8? I mean, application with the same core and two separate UIs, adjusted to currently used mode.

@@ -1,1 +1,0 @@
-Is it a good idea to return nHibernate Entity from WebApi? For simple entity I tried to use this but what about complex entities. How will lazy loading be handled in that case?

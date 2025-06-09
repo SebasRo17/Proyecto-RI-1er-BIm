@@ -1,1 +1,0 @@
-process building net mvc website requirement admin user able lock account prevent future log in also immediately revoke access site given authenticated user locking account easy established preventing access immediately scenario case checking request whether requester account locked db clearing authentication cookie required appreciate pointer anyone

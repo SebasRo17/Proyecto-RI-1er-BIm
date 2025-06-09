@@ -1,1 +1,0 @@
-I am a Programmer out of Oregon, I currently work as a web developer for a local company, and am starting college this winter for Computer Science. I was just pondering about php `rand()` function, and thinking about how I could remake it, and I came up completely stupified. How the heck do random number generators work?

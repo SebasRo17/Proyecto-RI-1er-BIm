@@ -1,1 +1,0 @@
-thinking scientific application mostly processor bound heavy heap usage least several gigabyte time year would happily go c case wonder fragmentation natural c memory manager serious issue versus advantage collector anybody point real world example related

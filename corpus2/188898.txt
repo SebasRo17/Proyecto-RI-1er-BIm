@@ -1,1 +1,0 @@
-If we have a class main and the constructor of main constructs our setupclass and we put this class in a try catch in main. Theoratically Will all errors go into catch? If they will how will it effect the performance and mantainability? Will the application be crash free?

@@ -1,1 +1,0 @@
-Can I use the new Xcode 4.2 to make apps for older version of the iOS? Will they work?   I like the new features like the Storyboard and Automatic Reference Counting.

@@ -1,1 +1,0 @@
-Is there any way to start programming for Windows 8 mobile on Mac OS X platform. I'm already programming for iOS and want to developing for Windows 8 mobile but don't want to install Windows.

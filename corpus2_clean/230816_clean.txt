@@ -1,1 +1,0 @@
-kind cannot compressed using huffman code tried looking answer came across loss less lossy compression really understand type cannot compressed huffman compressed using

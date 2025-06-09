@@ -1,1 +1,0 @@
-I understand that compiling into Javascript is sometimes necessary and even in some cases results in a faster application. However I'm wondering if compiling into Javascript, for building web applications, from a language like ruby, is considered bad practice. Specifically for the purpose of language preference and for the task of doing typical front-end functions.

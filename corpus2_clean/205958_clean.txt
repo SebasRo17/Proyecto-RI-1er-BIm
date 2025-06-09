@@ -1,1 +1,0 @@
-say like public myobject public list mycollection get set like public dosomething myobject mycollection mycollection must mycollection new list b throw new argumentexception mycollection control myobject normally instantiate collection constructor done instantiate collection throw exception

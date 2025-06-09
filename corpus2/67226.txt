@@ -1,1 +1,0 @@
-I haven't been able to find a reasonable justification of Mono team not working on WPF. What could be the possible reason? Especially when they've already implemented Silverlight.

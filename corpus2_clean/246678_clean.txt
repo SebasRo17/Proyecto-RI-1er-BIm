@@ -1,1 +1,0 @@
-let say checking directory existence file depending whether file exists act accordingly example see two snippet o path isfile file task else task b o path isfile file task b else task difference two semantics example gave us would rule apply language

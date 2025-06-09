@@ -1,1 +1,0 @@
-sometimes programmer come brilliant idea protect webservice created window communication foundation would like hear guy technique use protect wcf service avoid unauthorized user consume example would avoid impersonate use necessary publish metadata information prevent tampering avoid memory enforcing maximum size quota create security context token control number session

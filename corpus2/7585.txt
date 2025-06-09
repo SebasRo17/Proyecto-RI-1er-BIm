@@ -1,0 +1,1 @@
+I used to be able to make a `Table` of `ListWaveform` objects, and `Export` them; `Export` would automatically concatenate the sounds. This no longer works. Is there a way to concatenate sound objects?

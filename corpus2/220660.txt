@@ -1,1 +1,0 @@
-What's the OO principle that states (in sum): > A base object should have no knowledge of its subtypes. I _thought_ it was Liskov Substitution but after reading that wikipedia article I don't believe I'm correct. Thanks in advance!

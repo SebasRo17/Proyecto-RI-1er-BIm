@@ -1,1 +1,0 @@
-x f fx lambda calculus corresponding standard functional programming language like haskell oriented programming usual foo take argument x foo f return f x

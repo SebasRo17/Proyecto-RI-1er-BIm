@@ -1,1 +1,0 @@
-wonder weakly typed language still actively developed example benefit one draw able write somevar num piece somevar sometext instead using much different typed version someint num somestring sometext need declare aditional second example really hurt language strive strongly typed since enforces safety compile time thus avoiding pitfall casting

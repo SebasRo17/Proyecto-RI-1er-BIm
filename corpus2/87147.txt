@@ -1,1 +1,0 @@
-What is the recommended acquisition strategy for having multi-platform, service-connected devices for mobile developers? Is it necessary to have separate phone numbers and service plans for each platform? My guess is that having a Droid, iPhone and Windows 7 phones all on the same plan and same phone number is out.

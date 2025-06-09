@@ -1,1 +1,0 @@
-exactly c version rmi want invoke method client server ping client server etc server client communication done c

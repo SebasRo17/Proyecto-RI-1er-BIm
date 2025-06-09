@@ -1,1 +1,0 @@
-working business application c wpf ef mvvm need load bunch item database create view model put window way create view model another thread something similar speed ui num approximate average time needed fetch item database 1 num approximate average time needed instantiate view model 3 first part loaded event item second part bottleneck insight would appreciated

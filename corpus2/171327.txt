@@ -1,1 +1,0 @@
-We have several users running on old hardware and old browsers. What would be the best way to get them to upgrade to a newer web browser, without nagging users with a newer web browser.

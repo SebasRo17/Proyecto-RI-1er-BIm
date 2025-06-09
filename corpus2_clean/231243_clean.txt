@@ -1,1 +1,0 @@
-making mvc program work intern feel like pretty good job abstraction single responsibility etc feeling keep making object property object sure bad thing example user username int32 userid variable2 class property others one massive hierarchy kind business logic call help wonder trying prevent something like end effectively one control child class separate something common bad bad

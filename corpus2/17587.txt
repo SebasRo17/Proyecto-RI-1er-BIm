@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Is it possible to prerender animation in Wolfram Mathematica?   >  Does Mathematica support variable frame rate for any video format, in > analogue of GIF-style “DisplayDurations”? I would like to make a movie that shows a series of `Plot`/`ListPlot` outputs as frames for `s` seconds of time each. Is there a simple way to do this?

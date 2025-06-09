@@ -1,1 +1,0 @@
-I'm trying some machine learning with Twitter, and I was wondering if there were any pre-collected just massive tweet data that anyone knew about before I went and just used the API (which has a request limit anyway)?

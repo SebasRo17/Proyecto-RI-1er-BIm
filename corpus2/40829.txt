@@ -1,1 +1,0 @@
-What is the platform independence really mean? What are the criterion to call a language platform independent ? Are cross-platform and 'platform independence' same? (This may be a question for self study, but i would like to hear from experts from Stack overflow. There are lots of definitions and views regarding it on interenet and some of them are confusing)

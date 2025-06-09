@@ -1,1 +1,0 @@
-I develop personal projects on two machines without use of a shared server or a network connection between the two. Do any common version control systems reliably support use of portable storage (such as a USB flash device) as the shared repository?

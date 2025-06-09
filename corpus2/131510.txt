@@ -1,1 +1,0 @@
-I am currently using RDLC reports. But when interviewing for .NET jobs, they frequently ask "Have you worked with Crystal Reports?". Why do they like Crystal Reports when Visual Studio already has RDLC reports integrated?

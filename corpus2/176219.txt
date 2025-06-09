@@ -1,1 +1,0 @@
-Why don't we have a lot of good web-based IDEs? Which aspects of the system make it difficult for IDE to be implemented as a web application?

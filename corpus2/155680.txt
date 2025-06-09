@@ -1,1 +1,0 @@
-I would like to know about high end graphics library in C and Fortran. I have heard about OpenGl and Direct X. But I find that OpenGL is practically low end library. Is Direct X is in C too? I really need to have a very high end graphical library in C. Thanks in advance. Regards, hena

@@ -1,1 +1,0 @@
-considering using dynamic c linq sample included sample directory visual studio num webapi project allow client query interface would something like addition normal get method public httpresponsemessage list filter plan use dynamic library parse filter execute query agains db thought good idea security problem

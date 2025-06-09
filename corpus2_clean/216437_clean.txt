@@ -1,1 +1,0 @@
-creating question see understanding mvc separation correct able find clear answer anywhere online right way implement would num file one model controller view would put class related model model like model public model field public model public public public consider belonging model correct class within model read nested class avoided possible

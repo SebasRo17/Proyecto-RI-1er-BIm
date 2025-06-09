@@ -1,1 +1,0 @@
-I'm interested in whether ActiveRecord pattern, made famous from Ruby on Rails, encourages or discourages the use of SOLID design principles. For example, it seems to me that ActiveRecord objects both contain domain logic, and persistence logic, which is a violation of Single Responsibility.

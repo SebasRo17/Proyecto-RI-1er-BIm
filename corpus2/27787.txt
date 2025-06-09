@@ -1,1 +1,0 @@
-We have recently replaced binary based communication protocol with XML one (between browser based client and server). The implementation is almost complete, however I am looking for ways to improve its performance both for faster transmission and parsing. Any ideas ? Please post link along with the answer.

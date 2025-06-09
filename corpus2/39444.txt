@@ -1,0 +1,1 @@
+I have a sequence $\\{(x_k, y_k, z_k)\\}_{k=1}^n \subset \mathbb{R}^3$, all points along a path represented by the function $\gamma \colon \mathbb{R} \to \mathbb{R}^3$, which maps the distance along the path to a location in 3D space. Is there any way for _Mathematica_ to output an interpolation parametrized like $\gamma$, and has the sequence as a subset of its range?

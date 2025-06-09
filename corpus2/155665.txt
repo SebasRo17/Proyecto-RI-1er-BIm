@@ -1,1 +1,0 @@
-Many of the times my compiler shows errors like Lvalue or Rvalue Required. What are the **Lvalues** and **Rvalues** in **C or any programming languages**? Is a pointer constant a rvalue?

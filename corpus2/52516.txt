@@ -1,1 +1,0 @@
-Do I learn objective C? Is using Cocoa the easiest and best way to make a UI?

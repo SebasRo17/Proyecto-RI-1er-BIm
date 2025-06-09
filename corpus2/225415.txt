@@ -1,1 +1,0 @@
-I see many examples of libraries that use a 'chunker' and also people asking how to write chunkers, but what is this for and why do we need it? Isn't it enough to split a text by whitespace or other characters that delimit boundaries between words?

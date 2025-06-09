@@ -1,1 +1,0 @@
-I'ld like to create a very basic directory where user can enter their social network profiles and pick a username. From that data a little website gets generated. The sign in process should be managed via Twitter or Facebook. Where do I start with this? Are there any frameworks, api's or something like that available? Thanks, Bob

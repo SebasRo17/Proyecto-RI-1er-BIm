@@ -1,1 +1,0 @@
-All the pthread semaphore examples I have seen protect the sem_post call with a pthread_mutex_lock, but the sem_wait is left unprotected! It seems to me that sem_wait also should be protected in some fashion, though being a blocking call, it would lock the mutex permanently! What am I missing?

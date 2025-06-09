@@ -1,1 +1,0 @@
-example straightforward index php controller procedural script like php include class function get database process form submission render html using template system navigate procedural script essentially acting simple controller controller mechanism basic procedural script make controller class instead procedural script must controller always tied routing mechanism

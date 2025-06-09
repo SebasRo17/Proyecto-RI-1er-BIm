@@ -1,1 +1,0 @@
-build application requirement client send android device save database done part coding insert android emulator xampp database localhost implement real thing connect device application installed xampp database created send inserted

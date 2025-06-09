@@ -1,0 +1,1 @@
+Do you know of any work being done on the idea of bringing in code from languages like PERL, PHP, Python, etc.? That is import the code in some way and then convert it to _Mathematica_ code?

@@ -1,1 +1,0 @@
-Sometimes it seems to me that people ask for code-reviews just so they would be able to say "Xyz reviewed my code!"(1) when something broke. Question, is that ever the case? (Or is it just my imagination) If it is, how do I handle this? (1): What s/he really meant: It's Xyz's fault or something along those lines.

@@ -1,1 +1,0 @@
-Why are some data types or functions made Obsolete in a newer version of an API and others are marked as Deprecated? Why not make them all Obsolete or why not make them all Deprecated?

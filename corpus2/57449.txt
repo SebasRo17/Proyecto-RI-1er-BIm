@@ -1,0 +1,1 @@
+Suppose I have 4 matrices: A, B, C, D, and I want to form a block diagonal matrix from these sub-matrices, i.e. it would look like               MatrixForm[{{A, B}, {C, D}}]      How can I do that? (If I use my above code, A,B,C,D will be perceived as entries and not matrices.)

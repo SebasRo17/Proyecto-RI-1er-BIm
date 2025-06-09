@@ -1,1 +1,0 @@
-I want to look at how my code base has grown over time. GitHub has a nice `+/-` display along the list of checkins which gives a sense of this. Is there something similar I can use with my Google Code hosted repo or offline?

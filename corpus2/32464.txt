@@ -1,0 +1,1 @@
+![enter image description here](http://i.stack.imgur.com/clTjo.jpg) I am not really familiar with _Mathematica_. I wonder if some one can help me draw any of the following surfaces. I will be appreciative if you tell me how to use equations and `PlotRange` to draw those.

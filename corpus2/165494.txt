@@ -1,1 +1,0 @@
-I am working with a MFC application for the first time and I have lots of doubts the biggest at the moment is What is .ini file and why is it there? What exactly is the role it plays? Can some tell me the required? Edit : What if I make an application and do not have .ini file, what do I loose on?

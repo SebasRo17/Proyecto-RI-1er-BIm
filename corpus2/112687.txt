@@ -1,1 +1,0 @@
-In a class diagram, each class contains methods and attributes. What's the correct word for describing both of them besides something generic such as contents or items? Context: > The Orange class extends the Fruit class and inherits its **stuff**. where _stuff_ = a single word for both methods and attributes

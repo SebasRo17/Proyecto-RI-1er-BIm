@@ -1,1 +1,0 @@
-So I think I know the main use case for F# 3.0's Type Providers, i. e. better Intellisense when working with data stores that use them. Are there other use cases for Type Providers or is that pretty much it?

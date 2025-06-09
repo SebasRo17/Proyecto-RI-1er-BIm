@@ -1,1 +1,0 @@
-Is it possible to develop _private apps_ for iOS (iPhone/iPad) and Android? With "private apps" I mean apps that do _not_ appear on the public app store, but can be downloaded and used only by selected clients.

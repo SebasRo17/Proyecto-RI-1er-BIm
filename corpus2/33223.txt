@@ -1,0 +1,1 @@
+I want to write and evaluate an expression something like               Sum[x[i] Product[y[j], {j(!=i), 1, n}], {i, 1, n}]      but with correct syntax, where n is a any number (say 4 as a concrete example).

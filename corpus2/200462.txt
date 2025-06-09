@@ -1,1 +1,0 @@
-When you are reading jQuery code aloud and you get to anything that uses `$`, do you pronounce that as "dollar sign", "jQuery", "jQuery selector". Is there some other pronunciational shorthand for the `$.` syntax (as in `$.each`)? Or is it just as simple as saying "dollar sign dot ... "?. I ask because since `$` is an alias of `jQuery`, I wonder if its pronunciation carries over.

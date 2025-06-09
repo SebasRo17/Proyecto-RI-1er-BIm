@@ -1,1 +1,0 @@
-confused read regarding singleton design pattern ensure one instance instance easily accessible global make accessible keep instantiating multiple object use singleton pattern create multiple instance source design pattern element reusable oriented software num gamma helm johnson

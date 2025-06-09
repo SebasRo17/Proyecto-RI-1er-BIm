@@ -1,1 +1,0 @@
-Or at least the "next version". There are some very interesting, grand ideas out there, threatening to revolutionise the way we code. Equally, there is likely a whole flurry of little improvements that might make the whole experience better. I do love Visual Studio 2010, it is a luxury environment for developers (in my opinion). What can be done next?

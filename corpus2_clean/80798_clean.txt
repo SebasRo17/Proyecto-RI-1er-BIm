@@ -1,1 +1,0 @@
-want implement fairly rough outline test driven development involves developer asking test stage development process read impossible perform tdd without tool

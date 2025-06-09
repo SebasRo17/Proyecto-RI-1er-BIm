@@ -1,1 +1,0 @@
-What datastructure would work for the triangular peg board game? It's a 5x5x5 triangle with 15 holes.

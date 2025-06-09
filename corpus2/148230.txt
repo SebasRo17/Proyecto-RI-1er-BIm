@@ -1,1 +1,0 @@
-I asked myself why we didn't import a package while we use String functions such as `toUpperCase()`? How they get in there without importing packages?

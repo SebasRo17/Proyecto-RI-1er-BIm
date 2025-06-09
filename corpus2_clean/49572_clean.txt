@@ -1,1 +1,0 @@
-writing set junit test class several constant example string need different test class thinking interface defines every test would implement benefit see easy access constant constant instead constant constant defined approach rather good bad practice feel like abusing concept interface little bit answer generally interface constant also unit test something special

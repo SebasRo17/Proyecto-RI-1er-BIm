@@ -1,1 +1,0 @@
-What's the best way to create an audio editing software? (edit, copy, paste audio - somehing like sound forge or audacity) My programming language is Delphi. Are there any good component or controls available so that i can buy it use it in project.

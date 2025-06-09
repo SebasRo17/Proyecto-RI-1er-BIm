@@ -1,1 +1,0 @@
-problem following interface requires implementation implement static namely load however num seems get static method interface trust user still implement correctly problem write proper doc num implementation interface able inherit javadoc bother best way proceed case document random implementation add see annotation others seems dirty suggestion welcome

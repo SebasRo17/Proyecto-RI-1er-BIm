@@ -1,1 +1,0 @@
-What are the best practices for exception handling in n-tier applications? The application is a fat client based on MVVM pattern with .NET framework.

@@ -1,1 +1,0 @@
-Following on from a previous thread, it has got me interested in learning a little about Assembly programming. Not so much for wanting to program useful apps in, just to get a feel for low level programming to better understand what is happening. Can anybody recommend any books or online resources for beginners? Thanks.

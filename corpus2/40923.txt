@@ -1,0 +1,1 @@
+The Smith normal form is a matrix that can be calculated for any matrix (not necessarily square) with integer entries. See Wikipedia for a more elaborate description. **Has Mathematica a function to compute the Smith Normal Form ?** If not, is there an easy way to compute it in Mathematica?

@@ -1,1 +1,0 @@
-written close num num test hard coded little reuse methodology began bite u as system change find spending time fixing broken test unit integration functional test looking definitive way write manageable maintainable test framework nunit

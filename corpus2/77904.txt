@@ -1,1 +1,0 @@
-I have read and used many good Linq to . I have also read that some of the Linq to ___ _ are not worth learning as there are better techniques. I was just wondering which of the bunch should I concentrate on and which have more suitable alternatives. Thanks

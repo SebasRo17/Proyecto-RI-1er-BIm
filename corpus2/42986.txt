@@ -1,1 +1,0 @@
-Using generators and lambda, we can do functional programming with Python. You can also achieve the same thing with Ruby. So the question is: why do we need specific functional programming languages such as Erlang, Haskell, and Scheme? Is there anything different that these specific functional programming languages provide? Why can't we just use Python for functional programming?

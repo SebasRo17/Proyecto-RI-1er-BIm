@@ -1,0 +1,1 @@
+How can I use `"MinTemperature"`, `"MaxTemperature"`, and `"Temperature"` properties of `WeatherData` for one or more cities in one line of code?

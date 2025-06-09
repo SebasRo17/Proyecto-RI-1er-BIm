@@ -1,1 +1,0 @@
-I have a popular web-based app, and now suddenly my main developer has disappeared. Although I've found other great developers but I don't want to distribute the source code to everyone. Is there any way I can have them work on it while keeping the source code safe? Thanks

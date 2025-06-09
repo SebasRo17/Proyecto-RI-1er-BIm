@@ -1,1 +1,0 @@
-Is there a reason that a semi-colon was chosen as a line terminator instead of a different symbol? I want to know the history behind this decision, and hope the answers will lead to insights that may influence future decisions.

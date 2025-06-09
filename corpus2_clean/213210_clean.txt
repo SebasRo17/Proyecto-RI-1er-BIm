@@ -1,1 +1,0 @@
-often general purpose imperative language semicolon statement delimiters either required completely disallowed e g c however language like javascript allow opt statement semicolon favor delimiters newline design decision behind understand semicolon essential writing multiple statement another reason make mandatory except following c

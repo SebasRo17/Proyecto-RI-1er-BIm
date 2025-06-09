@@ -1,1 +1,0 @@
-told colleague performance may worse create method stacking many method calling jvm specially ee environment seems somewhat defeat concept oriented programming like write long method good readability achieve performance due less method jvm stack correct affirmation

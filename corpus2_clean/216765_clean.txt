@@ -1,1 +1,0 @@
-step needed taken group related class package case number file like group num package according mvc pattern one package model class one package view class one package controller class identified belong package sure next step want know seperate package make num folder place file folder represents package belong

@@ -1,1 +1,0 @@
-consider following javascript foo existing preference preference calling var foo new foo var prefs foo prefs something prefs pattern returning exists otherwise seen good bad practice alternative see empty pattern

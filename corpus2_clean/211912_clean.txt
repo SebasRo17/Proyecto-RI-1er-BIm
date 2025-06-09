@@ -1,1 +1,0 @@
-could either net mono compiler know certain condition inline function e g small single call site etc optimization however public need external entry point case duplicated generated public entry point used internal since internal us inlined version marking public prevent optimization

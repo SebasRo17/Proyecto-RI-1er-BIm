@@ -1,1 +1,0 @@
-I was wondering why C++ is a good choice to write a compiler. Of course C is good for this purpose too, because many compilers are written either in C or C++ but I am more interested in C++ this time. Any good reasons ? I was looking for that in the Internet, but I cannot find any good reasons.

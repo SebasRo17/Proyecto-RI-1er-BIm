@@ -1,1 +1,0 @@
-In C#, the following code is valid               interface I{         int property{get;set;}     }      Which doesn't make any sense to me. This seems to break one of the most important principles of interfaces: lack of state (in other words, no fields). Doesn't the property create an implicit private field? Wouldn't that be really bad for interfaces?

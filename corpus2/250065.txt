@@ -1,1 +1,0 @@
-I would like to develop a hybrid app to transfer data/meta data between an iPhone and an Android mobile device using Bluetooth. I could find BTStack and PhoneGap useful. But, is it possible to support meatadata using these? Ref :   https://code.google.com/p/btstack/w/list   http://www.randdusing.com/2014/02/19/bluetooth-low-energy-plugin-for-phonegap/

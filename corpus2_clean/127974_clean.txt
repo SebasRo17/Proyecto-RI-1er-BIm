@@ -1,1 +1,0 @@
-recently came across number undefined feature c one following num behaviour non const pointer const could someone tell answer question asked online exam none undefined option available also could point document specifying commonly encountered undefined behaviour c thanks

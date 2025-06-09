@@ -1,1 +1,0 @@
-writing javascript bit seen using idiom var var self used gain access closure scope point var self seems somewhat common question two idiom truly convention since exactly thing advantage disadvantage either

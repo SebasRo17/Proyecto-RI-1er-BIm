@@ -1,1 +1,0 @@
-keeping track php script version change pertains single script one file separate changelog num named num content log formatted num log associated php script file include change comment top php file currently following comment top file author john doe contact john doe com version num copyright copyright c num john doe thanks advance response

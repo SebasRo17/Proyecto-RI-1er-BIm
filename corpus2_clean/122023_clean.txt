@@ -1,1 +1,0 @@
-stay backward compatible event sourcing let say release version one kind event let call x know handle event system extract event event source later release make change event x delete stay backward compatible fully functional system need able handle old event time need handle updated version delete event stuck handle legacy event head little bit messy long

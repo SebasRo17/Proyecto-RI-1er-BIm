@@ -1,1 +1,0 @@
-Sorry this is not a programming questions. My company is looking to do some work on ofbiz. I read the license of apache and I am not sure if its legal to change the logo to our company logo. http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN

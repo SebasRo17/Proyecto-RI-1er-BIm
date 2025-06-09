@@ -1,1 +1,0 @@
-relatively new world software development used ruby rail framework develop relatively simple application know framework extremely useful term getting application running quite quickly however also know well documented problem rail term scalability wondering factor wary deciding use web framework general aside scalability particularly designing non trivial business application

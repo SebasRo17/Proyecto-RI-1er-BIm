@@ -1,1 +1,0 @@
-Developers key in lots of code, write bogs, write software designs and stuff. Do we need formal typing training? I have seen many developers struggling with keyboard thus slowing down development momentum. At least we can play around with a software typing emulator to begin with.

@@ -1,1 +1,0 @@
-site work almost entirely javascript go back via ajax server authentication database access thing like bos would like add blogging forum commenting capability want implement scratch certainly want integrate html generating php ideal looking package backend work offer rest interface write javascript based ui integrates nicely existing site thing exist

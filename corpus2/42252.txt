@@ -1,0 +1,1 @@
+Can I do something like this: $$\partial_t = D[f, t]$$ i.e. create a symbol instead of a function so that each time I call it, it executes the operation as defined?

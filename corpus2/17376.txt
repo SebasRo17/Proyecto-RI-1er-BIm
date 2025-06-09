@@ -1,0 +1,1 @@
+I have typed in some text input by using Alt-7 to convert everything into text, but why is text still evaluated? Or is there better way to make comments other than (* text here *), because in my text there are numbers and it is also evaluating them too?

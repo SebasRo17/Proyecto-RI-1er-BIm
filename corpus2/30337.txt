@@ -1,0 +1,1 @@
+I am trying to solve the finite Hilbert transformation like the following form $ f(x)= \frac{1}{π} \int_{-1}^{1} \frac{g(y)}{(y-x)}dy $ the given function f(x)=1 and I want to solve the g(x) I know there is no direct way to solve the integral equation in Mathematica. Moreover, I found some boundary problems when solving it. Does anyone provide some useful tips?

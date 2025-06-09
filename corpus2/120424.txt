@@ -1,1 +1,0 @@
-Every primary expression is a postfix expression but a postfix expression is not primary expression. But in mathematics, equality seems to be symmetrical. That is: > If _A_ is _B_ , then _B_ is _A_ Why isn't this the case for postfix and primary expressions?

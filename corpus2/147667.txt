@@ -1,1 +1,0 @@
-I'm fairly familiar with where to use Stacks, Queues, and Trees in software applications but I've never used a Deque (Double Ended Queue) before. Where would I typically encounter them in the wild? Would it be in the same places as a Queue but with extra gribbilies?

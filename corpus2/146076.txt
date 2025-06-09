@@ -1,1 +1,0 @@
-Say you have a traditional dev > test > production process say on a monthly release cycle. What are some of the steps you need to take and put into place to move towards a model of continuous delivery with frequent releases per day. Please make one suggestion per response. I would be interested in using voting to indicate which steps the community feel are most important.

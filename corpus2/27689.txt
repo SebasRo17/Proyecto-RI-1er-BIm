@@ -1,1 +1,0 @@
-I'm currently working on a webscraper that is going to be processing about 2 million pages in total. But I'm not entirely sure how to benchmark it. Currently it processes about 100,000 pages in an hour at about 2mb/s. It isn't saturating the the bandwidth of the server but I've tried a lot of ways to make it quicker but to no avail. CPU is running 50% or so on average.

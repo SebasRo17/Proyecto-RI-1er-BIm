@@ -1,1 +1,0 @@
-When is it useful to use a captcha? When is it an unnecessary hindrance? Is a captcha just a quick fix for the lazy/unexperienced programmer, or are they really the best way to prevent spam and bots?

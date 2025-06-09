@@ -1,1 +1,0 @@
-remember reading existing structure allow random access length encoding like utf num without requiring additional lookup table question even useful property mean look replace random single codepoints num time

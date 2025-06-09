@@ -1,1 +1,0 @@
-user installs application app install directory place information regarding 3rd party software e g foss license append eula sort convention standard following make easily scan able license detection script

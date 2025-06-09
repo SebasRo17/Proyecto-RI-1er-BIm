@@ -1,1 +1,0 @@
-I recently started learning to write code, and in my book I came across this question. "Why is a Boolean value stored as a byte inside of a computer when it only requires one bit?" can someone shed more light on this question?

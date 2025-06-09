@@ -1,1 +1,0 @@
-I'm looking for a generic algorithm to calculate a red/cyan anaglyph starting from the original image and its black/white depth map, as in this example? That algorithm is used, for example, in Photoshop but I can't find a readable explanation to reproduce it.

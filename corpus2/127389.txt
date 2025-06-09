@@ -1,1 +1,0 @@
-In our team all task's steps are always done by the same developer. I.e for task 1, person A does design, development, and testing; for task 2, person B does does design, development, and testing, etc. Does it make sense to use Kanban in this case?

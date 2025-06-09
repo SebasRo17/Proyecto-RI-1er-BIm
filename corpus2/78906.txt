@@ -1,1 +1,0 @@
-I learned of Compete.com and I am interested in how they track web traffic from other websites. I am most interested in doing this with Python but when I Google I can't find snap. Probably my English. Could someone tell me of existing modules that I may look at, and in general how to track web traffic from other sites (what do they look at when tracking)?

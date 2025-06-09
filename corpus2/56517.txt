@@ -1,0 +1,1 @@
+Is here some way to expand a fraction to an infinite sum in mathematica, i.e., a series? I want the general term of the series. For example, $\frac{2}{3(x-1)^3}$

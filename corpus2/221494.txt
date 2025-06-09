@@ -1,1 +1,0 @@
-We currently have a SOAP based web service which is being used by various teams as the primary data source. We eventually want to transition to REST based services. We are reluctant to do this now as the clients would have to do changes. What can we do to make this transition smooth?

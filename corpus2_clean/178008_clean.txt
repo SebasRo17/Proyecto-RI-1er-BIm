@@ -1,1 +1,0 @@
-delegate pattern one directly listen another event observer pattern number object listen particular event designing need notify event would ever use delegate pattern observer pattern see observer pattern flexible may one observer future design may require multiple observer

@@ -1,1 +1,0 @@
-If you do, do you discuss coverage, continuous integration, quality control, or anything related to the difference between unit testing, functional testing and TDD in general? If clients ask, do you simply state that you will unit test, but leave out specifics?

@@ -1,1 +1,0 @@
-mvvm getting kind traction outside microsoft community within silverlight non issue technology like javascript surely instance knockout j great framework rest world seems backbone path concern mvvm framework like knockout going suffer lack network effect constrained microsoft ecosystem thus fall behind compared rest

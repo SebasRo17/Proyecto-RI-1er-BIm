@@ -1,1 +1,0 @@
-recently read three separate book algorithm structure tcp ip socket programming programming memory book memory briefly discussed topic serializing structure purpose storing disk sending across network help wonder two book discus serialization unsuccessful web book search left wondering find good book paper tutorial serializing structure c learn

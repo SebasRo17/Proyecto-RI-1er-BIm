@@ -1,1 +1,0 @@
-I was tasked to document our stored procedures.   * Target audience: Technical    * Purpose: To have a good documentation in preparation for migration. I'm assuming someone has already done it.

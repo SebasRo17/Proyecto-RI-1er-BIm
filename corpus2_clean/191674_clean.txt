@@ -1,1 +1,0 @@
-reading design pattern know principle high level low level class depend abstraction say inversion

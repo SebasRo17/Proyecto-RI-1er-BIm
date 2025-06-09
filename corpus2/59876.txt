@@ -1,1 +1,0 @@
-I just started reading about spring , and a book mentioned "Spring AOP is a Proxy based framework" . What is meant by "Proxy based" framework.

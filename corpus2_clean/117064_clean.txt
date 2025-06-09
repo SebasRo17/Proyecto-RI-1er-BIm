@@ -1,1 +1,0 @@
-wondering reason behind pagination used lessens burden server since would technically limit amount row returned per page wanted something without pagination given new amateur started wondering ok technically

@@ -1,1 +1,0 @@
-possible use somehow webgl fasten 1d range searching need find overlapping date interval thought 3d game usually similar problem rendering frame read tree alternative idea work open suggestion btw stackoverflow would better place question pls let know

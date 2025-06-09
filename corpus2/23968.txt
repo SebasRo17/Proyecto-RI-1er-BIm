@@ -1,0 +1,1 @@
+`Series` expands a function, and also gives an idea of the asymptotic bounds of the function: Series[$\frac{1-x^3}{1-x}$] returns: $1 + x + x^2 + O(x)^5$ I'd like to eliminate the big-Oh notation, to get, for example: $1 + x + x^2$ How can we eliminate/suppress the asymptotic bounds that `Series` returns?

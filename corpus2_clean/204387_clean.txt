@@ -1,1 +1,0 @@
-designing application interacts restful api returning message like unable sign user message generated app api looking best practice

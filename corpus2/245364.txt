@@ -1,1 +1,0 @@
-I'm building a unittest system. At some point I want to bind two users together in order to make an assignment for those two. So when the admin chooses to link two students together the system should figure out how to, maybe using the ID numbers of the both users. I have an idea on how implement this, but not very clear.

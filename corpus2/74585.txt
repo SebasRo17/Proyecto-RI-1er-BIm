@@ -1,1 +1,0 @@
-I am looking for a job and I often come across "Real time experience needed", What does a real time application from a c# prospective entail? Arent we just talking about multithreading? if not is there a difference between multithreading and real time? is this stuff hard to master if you have not done multithreading? thanks for your time

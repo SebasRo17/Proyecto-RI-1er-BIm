@@ -1,1 +1,0 @@
-I am interested in developing a program that generates an endgame table-base for the chess. I have gone through the technical papers of the greats like Shannon and Ken Thompson. I have found that retrograde analysis is used for the generation. How can I generate all positions in a `KBBK` chess endgame which are mates in 0?

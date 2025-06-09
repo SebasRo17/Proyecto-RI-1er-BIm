@@ -1,1 +1,0 @@
-justified create model subclass creation appropriate viewmodel based missing something pas model viewmodel

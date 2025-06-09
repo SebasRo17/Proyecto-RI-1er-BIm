@@ -1,1 +1,0 @@
-What is the relation of BDD and TDD? From what I understood BDD adds two main things over TDD: tests naming (ensure/should) and acceptance tests. Should I follow TDD during development by BDD? If yes, should my TDD unit tests be named in the same ensure/should style?

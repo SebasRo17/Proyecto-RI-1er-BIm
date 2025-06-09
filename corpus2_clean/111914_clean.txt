@@ -1,1 +1,0 @@
-little curious reason behind window header file declaration style read see multi declaration following handle winapi dword primary reason written something like handle winapi dword e single

@@ -1,0 +1,1 @@
+How can one find the range in which a number falls, from given list of numbers?               f[x_, list_List] := ???     (*     Return {a,b} where     a & b belongs to list     {a,b} forms shortest possible interval which match condition     if a<=x<=b {a,b}     if x <= a {-∞,a}     if x >= b {b,∞}     *)      `f` Should also consider outer ranges $-\infty$ and $\infty $

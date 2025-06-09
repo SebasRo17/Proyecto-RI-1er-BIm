@@ -1,1 +1,0 @@
-working c project bunch math function initially wrote use part writing though realized need math function everywhere best place put let say public math function1 write another leat know use math function1 plus realized function truly related seemed beginning see math function good practice situation right copy pasting new class sure worst practice

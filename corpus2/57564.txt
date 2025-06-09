@@ -1,1 +1,0 @@
-Since there is a pure Java implementation of basic Git features called JGit, which also has a couple of heavy-duty users (Gerrit), I can't help to wonder: why hasn't someone implemented a basic Git client for Android yet? Anyone know any reason which would make this impossible (apart from time)?

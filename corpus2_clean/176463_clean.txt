@@ -1,1 +1,0 @@
-wondering whether performance difference using different cs property translate element property fit different situation differently translate element following property transform top left right bottom margin top left right bottom case utilize transition cs property translation use form timer settimeout requestanimationframe raw event performant going make higher fps rate

@@ -1,1 +1,0 @@
-As a result of the comment discussion here, I wonder whether you can learn Functional Programming in C?

@@ -1,0 +1,1 @@
+I have a very simple question but I am new with _Mathematica_. I made a circle on a parametric plot and I made the line black. I want to make the inside of the circle on the parametric plot red. So the result: A red-filled circle with a black outline on an x and y axis (Parametric Plot) Code:               ParametricPlot[{Cos[u], Sin[u]}, {u, 0, 2 Pi}, PlotStyle -> Black]

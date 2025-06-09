@@ -1,0 +1,1 @@
+When I change the background color of a cell like in ![enter image description here](http://i.stack.imgur.com/QnYDL.png) the colored cells become slightly indented and their line spacing is increased. How can I change the cell background color while keeping the other cell layout elements fixed?

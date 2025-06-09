@@ -1,1 +1,0 @@
-How useful are infix operators in a programming language? Are they worth the extra complexity they provide? Can you provide any examples where infix operators are better suited to the problem that can't be handled by just overloading the normal operators?

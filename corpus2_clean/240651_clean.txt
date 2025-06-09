@@ -1,1 +1,0 @@
-whenever implement frontend framework like backbone angularjs etc integration process involved backend technology like nodejs rail yii etc like setting route generating view adding libs etc varies depending upon select front end take backend question completely de couple process front end html cs j etc completely independent backend apis return u desired like mobile development

@@ -1,1 +1,0 @@
-As I have been taught - one controller = one use case. But I have:   * OutsiderController   * SupplierController (which extends OutsiderController)   * SubContractorController (which also extentds OutsiderController) And I want to do the SSD for `SupplierController` and `SubContractorController`. What do I do? Do I write in both SSDs the methods from `OutsiderController`?

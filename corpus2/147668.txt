@@ -1,1 +1,0 @@
-Is there a Cormen-like reference on Hashes and Hashing? This particular structure has seen little attention in my CS education for some reason but I'd like to learn more as they seem to be everywhere. I know Cormen covers it but I'm looking for something more specialized and in-depth.

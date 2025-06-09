@@ -1,1 +1,0 @@
-I'm involved in an embedded software project where we also need to specify the target hardware. I come from a mostly software-only background, and would like to learn more about the simultaneous design of software and hardware. Are there any books/resources/courses out there that you would recommend?

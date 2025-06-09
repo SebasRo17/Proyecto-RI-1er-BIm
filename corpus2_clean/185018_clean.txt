@@ -1,1 +1,0 @@
-going mvc tutorial notice convention seems expose table primary key detail page url ie movie detail num example tutorial obviously problem thing like movie record post might bit different invoice transaction confidential information key sequential tutorial mvc apps typically expose table primary key common library pattern hiding key want expose

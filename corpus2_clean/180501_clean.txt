@@ -1,1 +1,0 @@
-look php echo hello world br php echo welcome look php echo hello world echo br echo welcome one example considered better least performance point view know example trivial want follow good practice habit beginning line would affect performance whatever negative way

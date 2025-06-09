@@ -1,1 +1,0 @@
-**CAN Driver** means application program that interacts with CAN hardware and helps in initializing setup and communication. **CANopen Stack** provides various APIs to deal with CAN communication. Now this is confusing me so please let me know: **Is CANopen Stack and CAN driver one and the same?**

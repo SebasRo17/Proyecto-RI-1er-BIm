@@ -1,1 +1,0 @@
-So I am thinking about buying the Ruby version of the IDEA that JEtBrain is offering. If I buy a personal license for it, does it allow me to also use the license for IntelliJ also so I can develop Java applications too. Or is it required to buy a separate key for each of them? Was not able to find that kind of information on their homepage, so I turned here with my question.

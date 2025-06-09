@@ -1,1 +1,0 @@
-How can I convert this requirement into one requirement: For columns where there are just numbers, numeric sorting will be used. For columns that have numbers and letters, alpha-numeric sorting will be used. For Date columns, time sorting will be used. All sorting will have ascending and descending properties.

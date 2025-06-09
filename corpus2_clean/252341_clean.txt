@@ -1,1 +1,0 @@
-bloom filter look really great consider determine set num certainty constant time hash difference hash time accessing memory bloom filter need access num time per request completely distant place several cache miss per request missing something

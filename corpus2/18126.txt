@@ -1,0 +1,1 @@
+The function                s12 = 1/(Log[2^x]*((7.537/(x^2)) + (30.148/((2 + x)^3))))      returns expected function values for `0 < x < 10,000` but the graph drops to 0 at `x = 1024`. I am using the home version 9.0. Am assuming operator error unless told otherwise, but an older version plots without problems. Any advice welcome.

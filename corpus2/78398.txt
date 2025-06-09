@@ -1,1 +1,0 @@
-I want to know how much does it cost to develop a free phone app (which means i price it at $0) on:   1. WP7   2. iPhone   3. Android What if now I want to price the app at $0.99? How much do I have to pay if its:   1. WP7   2. iPhone   3. Android Also, do I need additional hardware (I'm using Windows Vista Home Premium 32-bit) And do I need to pay for any software?

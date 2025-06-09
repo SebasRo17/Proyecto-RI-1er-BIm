@@ -1,0 +1,1 @@
+I'm trying to perform a basic plot to show that two equations align, but I'm not getting any results. Plot[{[Pi]*Cos (3 x - [Pi]), [Pi] * Sin (3*[Pi] - 3 x)}, {x, -3 [Pi], 3 [Pi]}] To me this seems fairly straightforward, but I'm getting a graph without the functions.

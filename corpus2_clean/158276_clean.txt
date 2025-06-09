@@ -1,1 +1,0 @@
-using scons build large project containing mix c would like scons unit test either using nose currently long list test file test builder one cause test file separate script feel inelegant inefficient better way

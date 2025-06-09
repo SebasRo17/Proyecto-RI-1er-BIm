@@ -1,1 +1,0 @@
-How many bits of address is required (for the program counter for example) in a byte-addressed computer with 512 Mbyte RAM? What does the formula look like? How is this connected with the fact that 32 bits can address no more than 4 GB RAM?

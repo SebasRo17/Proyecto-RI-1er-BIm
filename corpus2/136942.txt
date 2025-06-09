@@ -1,1 +1,0 @@
-Just wondering (now that I've started with C++ which needs a compiler) why Python doesn't need a compiler? I just enter the code, save it as an exec, and run it. In C++ I have to make builds and all of that other fun stuff.

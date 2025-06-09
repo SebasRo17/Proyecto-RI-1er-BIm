@@ -1,1 +1,0 @@
-I've written some code that has some fairly deep nests (one time, I wrote something that was a conditional check inside a forloop inside a conditional check inside a forloop inside a forloop). Is there a general guideline on limits to the number of nested for loops/conditionals you have?

@@ -1,1 +1,0 @@
-I have an Array with `1,000,000` unsorted elements. I need to calculate expected number of operations that needs to be performed to sort array using `Quicksort` algorithm in common situations (not the n^2 worst case). I am not sure how `(n log n)` is calculated - does it even makes sense to calculate this? If `(n log n)` = `(n*log(some base)n)` what base would be for `Quicksort`?

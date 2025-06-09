@@ -1,1 +1,0 @@
-I want to implement the Cover Flow effect in my commercial application on Windows. Are there any license issues about it? Because I think it has been patented by Apple.

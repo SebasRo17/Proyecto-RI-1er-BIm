@@ -1,0 +1,1 @@
+I have an external program that calls Mathematica scripts upon certain events. Each script requires a large Mathematica library to load (takes a while). Is there some way to run an initial script that loads the library, then each following script call uses the same Kernel?

@@ -1,1 +1,0 @@
-I am new to ASP.NET MVC and EF. I read about open source implementations of MVC pattern like Spring, FubuMVC, Castle etc. I want to know how flexible these alternatives are when compared with ASP.NET MVC. Which one is widely used and whose help is easily available on the NET?

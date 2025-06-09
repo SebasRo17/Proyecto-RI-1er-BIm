@@ -1,0 +1,1 @@
+How can I plot the hyperbola represented by the following complex equation: $$\left|z-a\right|-\left|z-b\right|=2t\tag{1}$$ Should I convert (1) into the following form?               ContourPlot[x^2 - y^2 == 1, {x, -2, 2}, {y, -2, 2}]      ![contour plot of hyperbola](http://i.stack.imgur.com/L7Wbz.png)

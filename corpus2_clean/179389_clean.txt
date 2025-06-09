@@ -1,1 +1,0 @@
-okay say point coordinate var coordinate x num num also distance angle var distance num var angle num problem trying solve want travel num point direction angle starting coordinate find new coordinate know answer involves thing like sine cosine used know since forgotten formula anyone help

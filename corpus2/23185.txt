@@ -1,0 +1,1 @@
+How do I apply a list of functions in a nested way? Example:               functionList = {f1,f2,f3}          RequiredCommand[functionList,Pi]      such that the required command returns               f3[f2[f1[Pi]]]      or f1[f2[f3[Pi]]] (reversing the order is easy) I'm searching for an efficient way.

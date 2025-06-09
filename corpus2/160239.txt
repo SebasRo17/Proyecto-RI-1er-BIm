@@ -1,1 +1,0 @@
-When setting up a continous integration environment, does it always entail having the build server pull code and merge between branches? Or is it something you NEVER want to do because you are depending on an automatic merge would usually ends up having issues (and requires manual intervention).

@@ -1,1 +1,0 @@
-character ascii encoded using utf num without increase storage requires byte storage utf num added benefit character support beyond ascii character case ever choose ascii encoding utf num use case choose ascii instead utf num

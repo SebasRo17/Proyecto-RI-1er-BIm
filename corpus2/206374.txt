@@ -1,1 +1,0 @@
-Everyone says that I should make my code modular, but isn't it less efficient if I use more method calls rather than fewer, but larger, methods? What is the difference in Java, C, or C++ for that matter? I get that it is easier to edit, read and understand, especially in a group. So is the computation time loss insignificant compared to the code tidiness benefits?

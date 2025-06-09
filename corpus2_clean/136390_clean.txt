@@ -1,1 +1,0 @@
-trying make unit test book possible becomes troublesome testing simple add delete method add basically create dummy add test successful delete dummy delete test obviously create dummy delete see one test fails fail kinda needed system would need write test cancel order well dummy order would needed cancel first go guideline unit testing case like meant handled

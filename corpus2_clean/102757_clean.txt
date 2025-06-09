@@ -1,1 +1,0 @@
-application tool take truth table turn block instance let say truth table b condition x z possible action b x z num num num num num num num num num num num num num num num num num num num num application could produce block b x else else z easy sample frequently several condition combined different way produce different output get hard figure elegant way represent logic block

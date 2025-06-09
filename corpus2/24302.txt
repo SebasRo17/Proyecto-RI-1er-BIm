@@ -1,1 +1,0 @@
-I am looking for open source projects being done in C# that are actively looking for developers and does not mind the person coming in from a C++ background. Any pointers appreciated.

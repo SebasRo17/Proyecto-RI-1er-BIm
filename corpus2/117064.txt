@@ -1,1 +1,0 @@
-I was wondering what is the reason behind pagination? Is it used because it lessens the burden on the servers since we would technically limit the amount of rows returned per page? I wanted to do something without pagination but given that I am new to this (I am an amateur) started wondering if its OK technically or not.

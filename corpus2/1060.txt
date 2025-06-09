@@ -1,1 +1,0 @@
-Aspect oriented programming promises to deal with cross cutting concerns, but I'm not completely sold on it yet. Have there been any other attempts to deal with this problem?

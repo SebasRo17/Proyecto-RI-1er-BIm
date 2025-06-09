@@ -1,1 +1,0 @@
-currently working base many class implement start seems like two phase construction always considered bad practice tell difference constructor appropriate use start instead normal construction prefer use constructor edit think relevant programming language c could equally apply c

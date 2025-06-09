@@ -1,1 +1,0 @@
-read well written check make sure correct format also catch thing possibly could go wrong find difficult understand core program seems protection non normal case obscures normal case includes beginning ending special case try catch using handling num strange thing write clear cluttered non normal event make little concrete c

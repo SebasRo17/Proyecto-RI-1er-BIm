@@ -1,1 +1,0 @@
-reading various source see different way binding icommand relaycommand constructor foocommand new relaycommand x bar x directly command property private icommand foocommand public icommand get foocommand foocommand new relaycommand way better point view

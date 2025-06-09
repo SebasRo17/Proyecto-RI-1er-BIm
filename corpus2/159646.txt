@@ -1,1 +1,0 @@
-I am using `MPMoviePlayerController` in a project. The `loadState` of the `MPMoviePlayerController` object is observed using `NSNotificationCenter`. Why did Apple choose `NSNotificationCenter` in this situation instead of using delegation?

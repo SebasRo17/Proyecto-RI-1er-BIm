@@ -1,1 +1,0 @@
-cocos2d x game engine framework based cocos2d iphone consists expanding supported platform multiple choice programming language thats share api structure better project resource organization structure cocos2d x development

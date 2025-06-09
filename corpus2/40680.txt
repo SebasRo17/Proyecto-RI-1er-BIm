@@ -1,0 +1,1 @@
+Assuming the following list {1,2,3,3,5,6,3} I would like to get the position of values that are next to each other and are duplicates. That is, the output should be {3,4}. Thank you for any help. Cheers, Vaclav

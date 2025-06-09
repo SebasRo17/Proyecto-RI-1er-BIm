@@ -1,1 +1,0 @@
-assume following declaration public ilist location write least following test num check see return empty collection location found num check see return correct number location num check see location correct however test fail return feel like single result one unit test failure time see avoid scenario like way work sometimes multiple test fail reason

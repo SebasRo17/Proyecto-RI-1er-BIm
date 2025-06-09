@@ -1,1 +1,0 @@
-looking good graph library thread safe concurrent access jung jts good concurrent access synchronize externally becoming pain pain say thread access num vertex thread b another num intersection vertex num vertex writing need know num synchronize accordingly pl suggest exists framework graph inbuilt support concurrency

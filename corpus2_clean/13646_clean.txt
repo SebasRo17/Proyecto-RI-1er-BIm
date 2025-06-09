@@ -1,0 +1,1 @@
+possible duplicate applying list booleans two list filled logicals demondata true true false true numerdata true false true true would like find corresponding cell position true code could come toinclude mapthread demondata numerdata way something like demondata numerdata something wrong mapthread seems complicated thought would matlab list list list etc

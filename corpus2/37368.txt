@@ -1,0 +1,1 @@
+How can I want to switch off **all** messages in a _Mathematica_ session? `Quiet[expr]` allows me to evaluate `expr` without messages. `Off[msg]` switches off the particular message `msg`. Is there a command that, once evaluated, guarantees that all further evaluations will run quietly? (Unless some messages are turned back `On`)

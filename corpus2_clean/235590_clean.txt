@@ -1,1 +1,0 @@
-reading description infamous heartbleed bug openssl team relatively small lightly funded wondering would bug uncovered coverity valgrind tool

@@ -1,0 +1,1 @@
+I have two polynomials: $\;A(x) = \sum a_i\;x^i$, $\quad B(x) = \sum b_i\;x^i$.   Given $A(x)$, $B(x)$, I want to compute $\;C(x) = $MIN$(A(x), B(x)) = c_i\;x^i$ where $c_i = $MIN$(a_i, b_i)$. How can I do it automatically in _Mathematica_?

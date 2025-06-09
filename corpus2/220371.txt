@@ -1,1 +1,0 @@
-I am looking for a simple explanation of the **Paxos algorithm** that can be used for reaching consensus in a distributed environment (possibly peer to peer network). Every explanation I have encountered so far was a tough reading of multiple pages. I am looking for a simplified explanation that still preserves the core principles.

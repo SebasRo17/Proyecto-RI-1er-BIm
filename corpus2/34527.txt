@@ -1,0 +1,1 @@
+I'm trying to find the palindromes in the dictionary, but my output isn't giving me all of them. I have this so far               Palindrome[] := DictionaryLookup[y_ /; (y == StringReverse[y])]     Palindrome[]      And my the output just it gives me `{a,I}`. What's wrong with my input? I don't see it. * * * Thanks.

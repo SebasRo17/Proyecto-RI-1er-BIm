@@ -1,1 +1,0 @@
-What T4MVC does makes complete sense to us. It converts the simple string input into strongly typed input, which eases things for the developer. Like this -               return View("foo");       to               return View(Views.foo);  // better (T4MVC)      What could be a reason as to why the MS people are NOT doing it this way?

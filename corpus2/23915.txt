@@ -1,1 +1,0 @@
-Is there a specific format for a feasibility study in SDLC? If so, do you know any sources where I can find more information about this? or can you show me at least an outline of what it should contain?

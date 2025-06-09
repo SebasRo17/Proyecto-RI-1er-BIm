@@ -1,1 +1,0 @@
-A group of us were wondering whether or not to go with CC0 or WTFPL because the CC0 explicitly states lack of liability. Does the WTFPL, if used properly, also free the author(s) from liability of usage?

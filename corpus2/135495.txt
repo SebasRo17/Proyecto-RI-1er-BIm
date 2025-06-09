@@ -1,1 +1,0 @@
-Do they mean the same thing (attaching URLs to actions, or actions to URLs) or is there any difference I'm missing? Example: http://github.com/dannyvankooten/PHP-Router vs. http://konstrukt.dk

@@ -1,1 +1,0 @@
-I have seen numerous projects have a file named `commons` for example:               commomns.go      I was wondering, why was this convention adopted and what did the meaning of naming a file or a package or something as commons?

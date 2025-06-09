@@ -1,0 +1,1 @@
+`AffineMap` was present in _Mathematica_ version 4. What is the equivalent command in the current version of _Mathematica_?

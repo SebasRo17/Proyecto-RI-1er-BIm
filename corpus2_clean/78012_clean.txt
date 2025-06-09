@@ -1,1 +1,0 @@
-currently asked propose automated release management solution large oracle soa project stored svn repository would nice could suggest something would build deploy test case produced report project trunk know could creating ant maven script would like know open source alternative handle complex stuff without need much coding

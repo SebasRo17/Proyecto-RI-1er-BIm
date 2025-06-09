@@ -1,1 +1,0 @@
-Working on my own I tought I need to learn that css3 shorthand properties, because - as I know now, it affects website's loading time, so I need to optimize it a little bit. I was thinking - is there any order how to write property values, when using shorthand prop's? For example: `font: 1em/1.5em bold italic serif`

@@ -1,0 +1,1 @@
+How are `FindShortestTour` and the algorithms therewithin implemented internally? Also: Can I access some form of incremental, in-progress result during evaluation? _(e.g.: PCB autorouting)_ ![enter image description here](http://i.stack.imgur.com/74boo.png)

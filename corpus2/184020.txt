@@ -1,1 +1,0 @@
-I have recently began studying Makefiles in Linux. I have ample experience developing applications with advanced IDEs, such as Visual Studio. My first impression and query after reading a few tutorials: is there any need to study Makefiles? Perhaps the IDEs are using it internally, but is this something everyone should learn eventually?

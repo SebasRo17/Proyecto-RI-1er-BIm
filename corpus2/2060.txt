@@ -1,0 +1,1 @@
+I am trying to do multiple integrations recursively. For instance, I would like to do the following equation for arbitrary integer $n$: $\displaystyle R_n(t) = \int_0^t \mathrm dt' R_0(t-t') R_{n-1}(t')$ where $R_0(t) = e^{-k t}\cos\omega_0 t$. I can do it by brute force, but I would like to be able to do it automatically for any $n$.

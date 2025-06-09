@@ -1,1 +1,0 @@
-Can you explain to me why the `friend` keyword is preferred for giving access rights to private data of class?

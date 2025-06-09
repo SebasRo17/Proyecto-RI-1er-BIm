@@ -1,1 +1,0 @@
-ran across statement martin fowler circa num unit testing xp often unlike classical unit testing xp usually testing unit isolation testing immediate connection neighbor still correct

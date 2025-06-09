@@ -1,1 +1,0 @@
-debate trailing slash restful api let say resource called dog subordinate resource individual dog therefore following get put post delete get put post delete following special case get put post delete personal view saying send request individual dog resource id think api num case others say request accessing dog resource e trailing slash ignored anyone know definitive answer

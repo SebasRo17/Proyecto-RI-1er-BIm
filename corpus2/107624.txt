@@ -1,1 +1,0 @@
-I am working on a mobile application and I would like to ask you a question. Is there an API or a method to get/calculate the average speed that a car should have in a road. I am working on a GPS like application and I want to calculate the average time that it will take a user to cover a certain path. Thanks.

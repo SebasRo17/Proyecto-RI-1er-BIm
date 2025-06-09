@@ -1,1 +1,0 @@
-I am currently using Visual Studio Express 2012 Desktop (the free version). I now have received source code with NUnit tests included. I can not bring them to run with Visual Studio (not seeing them in the Test Explorer) and I seem not able to install the official NUnit Plugin. **Can someone confirm that the Express version does not support nUnit or tell me how to do it?**

@@ -1,1 +1,0 @@
-Is it possible to rename a portion of code extracted from a Apache 2.0 licensed software, releasing it as a new repository under a new name?

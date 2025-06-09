@@ -1,1 +1,0 @@
-agplv3 gplv3 allow people contribute without specifying author contributed allow people fork gpl project without specifying author forked

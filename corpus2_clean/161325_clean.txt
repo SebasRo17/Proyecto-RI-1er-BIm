@@ -1,1 +1,0 @@
-text would like display webpage printed possible display printing page preview using php way basically want page without header would like include page url within page content printed

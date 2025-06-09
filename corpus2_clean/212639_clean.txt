@@ -1,1 +1,0 @@
-number large test file need maintained mean access history requirement benefit new developer get entire test suite git pull history file backed file backed drawback huge increase size repository huge increase download size new developer copying repository best practice maintaining test file store file source control alternative

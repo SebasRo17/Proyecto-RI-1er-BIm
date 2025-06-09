@@ -1,0 +1,1 @@
+Simple scenario is to see the Bezier function, but how to know which polynomial approximate it?               pts = {{0, -1}, {1, 0}, {2, -1}};     Graphics[{BezierCurve[pts], Green, Line[pts], Red, Point[pts]}]

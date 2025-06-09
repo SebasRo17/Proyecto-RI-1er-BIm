@@ -1,0 +1,1 @@
+I'd like to overlay a glass jar onto an image with realistic light bending. Can anyone think of a way to automate this effect (perhaps this can be done with the raytracing package rayica)? ![enter image description here](http://i.stack.imgur.com/LH11n.png) ![enter image description here](http://i.stack.imgur.com/2KISh.jpg)

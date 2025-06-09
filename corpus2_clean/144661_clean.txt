@@ -1,1 +1,0 @@
-using css3 first time using specific style prefix browser look strange need using moz webkit another prefix turn cs bigger harder maintain want know browser implementing standardization avoid usage prefix style

@@ -1,1 +1,0 @@
-number business logic method store retrieve filtering object list object cache consider ilist tobject tobject fetchbyid guid id ilist tobject property fetch filter would call would populate cache generally shy away unit testing best practice unit testing structure considered populating cache testinitialize removing testcleanup feel right tho could well

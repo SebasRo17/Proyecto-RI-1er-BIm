@@ -1,1 +1,0 @@
-ext num num filesystem log file open appended another process try read e g cat happens num reading process read part incomplete write num reading writing safe disrupt writing process chance log corrupted one read

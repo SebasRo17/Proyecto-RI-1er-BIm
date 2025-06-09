@@ -1,1 +1,0 @@
-What are the advantages of recursion? Some programming languages can optimize tail recursion, but, still in general terms, recursion consume more resources than regular loops. Is it possible to have an iterative version of some recursive function?

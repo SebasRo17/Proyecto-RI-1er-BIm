@@ -1,1 +1,0 @@
-Almost every advanced programmer says that it's very useful to read the code of other professionals. Usually they advice open source. Do you read it or not? If you do, how often and what's the procedure of reading the code? Also, it's a bit difficult for newbies to deal with SVN - a bunches of files. What's the solution?

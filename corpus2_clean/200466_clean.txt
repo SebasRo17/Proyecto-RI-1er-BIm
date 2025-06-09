@@ -1,1 +1,0 @@
-since javascript interpreted language entire function changed runtime recently contemplating framework would allow dynamic change ui plugins take effect without reload page still providing enough information undo change desired begun test concept small example success chance test idea anything useful common adverse side effect changing runtime considered bad practice

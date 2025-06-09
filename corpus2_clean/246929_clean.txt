@@ -1,1 +1,0 @@
-referring documenting typical lock free circular structure used communicate arbitrarily long asynchronous thread processor queue fifo fifo commonly used technical reason one term might accurate better communicative usage situation term

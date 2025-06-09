@@ -1,1 +1,0 @@
-var id enumerable range num num select ienumerable id enumerable range num num select foreach var v id writeline v tostring foreach var x id writeline x tostring job difference

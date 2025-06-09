@@ -1,1 +1,0 @@
-c11 standard say array sized length shall greater zero justification allowing length num especially length array make perfect sense size zero every also useful static array size macro build configuration option interestingly gcc clang provide extension allow zero length array also allows array length zero

@@ -1,0 +1,1 @@
+My notation is not recursing enough. For example,               Notation[W[a_ | b_] ⟹ foo[a_, b_]/foo[b_]]     Notation[W[a__, b_ | c_] ⟹ W[a__ | c_]W[b_ | c_]]      Then               W[a, b, c, d | e]      will give               foo[d, e]W[a, b, c | e]/foo[e]      My question is why does the `W[a, b, c | e]` in the above not expand further until it gets to the `foo` level?

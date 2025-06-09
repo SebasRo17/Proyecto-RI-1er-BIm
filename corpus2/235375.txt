@@ -1,1 +1,0 @@
-I want to find out if   1. WinRt does or not support .Net Framework?   2. WinRt does or not support WPF? Our company has developed applications using WinForms and they want to have them also running on WinRt. So is it possible to use classes developed under .Net Framework 4.5 in WinRt?

@@ -1,1 +1,0 @@
-I have a table with username and passwords that I want to input in Hotmail's username and password box. Is there a way to actually program this? Are you allowed to manipulate text boxes of someone else's webpage? Not for illegal purposes, just to make my job easier and to not have to input values manually one by one. Hotmail is just an example.

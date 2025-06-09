@@ -1,1 +1,0 @@
-There are different stages of compilation Such as   * Preprocessing stage   * Syntax analysis   * Semantic analysis   * Intermediate Code generation   * Machine Code generation   * Optimization   * Linking My question here is in which stage of compilation _"typedef"_ is resolved.

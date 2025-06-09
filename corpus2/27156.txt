@@ -1,0 +1,1 @@
+I have this code               NSolve[1-(b/r)^2-g^-2*(2/15 * Σ^9 (1/(r-1)^9-1/(r+1)^9-9/(8r) (1/(r-1)^8-1              /(r+1)^8)) - Σ^3 (1/(r-1)^3-1/(r+1)^3-3/(2r) (1/(r-1)^2-1              /(r+1)^2))) == 0, r, Reals]      I want to prove that for any values of g, b, Σ, I will find, for r, only 4 real roots. The others will be complex. Any ideas?

@@ -1,1 +1,0 @@
-general concept wpf call dependency property imagine wpf ism fact library framework employed similar approach instance similarity difference compared microsoft dependency property junction considering adding dependency property system model unrelated wpf construction seems appropriate design requirement however want consider others created well wpf particular implementation

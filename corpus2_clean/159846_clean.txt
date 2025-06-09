@@ -1,1 +1,0 @@
-reading standard c library really interesting book explains use library also implemented finished reading ctype h section header function declared macro function example also define c ctype c di understand used also try recreate custom ctype header implementation compile successfully remove macro comment define aspect really explained book someone please explain

@@ -1,1 +1,0 @@
-write high level documentation algorithm use term refer structure algorithm operates even though actual structure std vector feel using term vector context best convey meaning sequence element constant time random access perhaps generally dynamic convention common documentation standard distinction similar term

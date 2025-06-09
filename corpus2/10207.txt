@@ -1,0 +1,1 @@
+I have some kind of output like this: {{1, 5}, {1, 13}, {1, 5, 25}}. I would like to be able to enter in each sublist and make sums of every two elements in sublists, for example my desired output would be {{6}, {14}, {6, 30, 26}}. I can export these sublists in txt file, but I don't know if this is even necessary. Is this possible? Thank you very much on your help!

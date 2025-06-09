@@ -1,1 +1,0 @@
-programming quite number year one thing find using setter getters number blog seem think using dot notation access pythonic way would like know using dot access method violate abstraction principle example implement attribute single use dot notation access wanted change later attribute represented list object would require quite heavy lifting violates abstraction principle

@@ -1,1 +1,0 @@
-Many web sites ask users to enter their email address twice, sometimes taking the trouble to disable copy-pasting. What is the logic behind this? Is this e.g. a security measure?

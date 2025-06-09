@@ -1,1 +1,0 @@
-When switching to a functional style of programming after coming from procedural and OOP, what things do I need to know upfront about "this new way of thinking"? How do you prepare yourself for diving in the FP world and get it first time around? What are the basics to learn and set straight first?

@@ -1,1 +1,0 @@
-need track permission access request file server database given full path folder considering parsing path splitting character creating self referential link table addition column intended store full file path ideal approach dealing system tree folder database schema suited purpose self referential column overkill

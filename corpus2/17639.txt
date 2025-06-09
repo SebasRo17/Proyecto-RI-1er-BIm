@@ -1,1 +1,0 @@
-Theres talk about what syntax and feature you like in a programming language; i'll now ask what core principles or feature would you like in a library in your favorite (or any) language? An example is having adding list += anotherList valid as oppose to only allowing list += listElement (although some may see this as a bad idea)

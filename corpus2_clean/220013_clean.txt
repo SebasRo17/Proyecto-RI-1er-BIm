@@ -1,1 +1,0 @@
-need expose many different client iphone android pc unix etc need make available http brings json make wonder endian machine work json need worry reconstructed platform initially utf8 string want support type example num image num audio file etc json right way send across http gotchas concerned

@@ -1,1 +1,0 @@
-What is a : > **Key-Event Dispatcher ?** in keyboard-interactive apps. What does it really do ?

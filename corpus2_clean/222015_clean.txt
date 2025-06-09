@@ -1,1 +1,0 @@
-unit testing often find debating much feed expect back unit test include actual test file tradeoff constantly struggling large portion test volume consists seems difficult actually read test easily see actual output load test file easily test bunch variation possible easily reuse test multiple test leave source look another file see exactly input either one anti pattern

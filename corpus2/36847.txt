@@ -1,0 +1,1 @@
+I want to form the function $h=f-\lambda_{1}g_{1}-\lambda_{2}g_{2}$ where $f$ is the function to optimize subject to the constraints $g_{1}=0$ and $g_{2}=0$ so that I can solve the first partial derivatives with respect to $\lambda_{1}$ and $\lambda_{2}$. Can someone get me started using $f(x,y,z)=xy+yz$ subject to the constraints $x^2+y^2-2=0$ and $x^2+z^2-2=0$?

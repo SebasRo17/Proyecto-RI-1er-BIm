@@ -1,1 +1,0 @@
-Ever since my very first programming class in high school, I've been hearing that string operations are slower -- i.e. more costly -- than the mythical "average operation." Why makes them so slow? (This question left intentionally broad.)

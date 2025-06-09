@@ -1,1 +1,0 @@
-understanding access surrounding area memory put l1 cache wrong please tell question say pointer want iterate performing operation x first access pointer get address actual mean memory near pointer put cache memory near back pointer etc e cache thrashing case might one go keep cache

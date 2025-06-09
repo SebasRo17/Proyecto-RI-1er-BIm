@@ -1,1 +1,0 @@
-My web service will send me a PDF and I have to store it locally on my iphone app and share it through whatsapp later. So how can I save this file received in my app for later sharing?   How can I again clear that from local db so that app is not heavy. Thanks

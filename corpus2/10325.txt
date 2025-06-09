@@ -1,0 +1,1 @@
+I'd like to 'parent' Locators to one another, ideally organized in any arbitrary tree. The simplest case: If I have two Locators, A and B, then moving A will move both together, but moving B will only move that one. Any simple suggestions?

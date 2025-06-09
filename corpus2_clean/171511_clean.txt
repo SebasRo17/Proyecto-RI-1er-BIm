@@ -1,1 +1,0 @@
-writing script using modern scripting language e g powershell javascript define constant make constant global readability ease use make sense define constant close scope possible instance needed elsewhere thinking mostly message id path resource configuration option

@@ -1,1 +1,0 @@
-include stdio h include stdlib h include h n strcmp hello help printf n n num result num program machine different compiler word take different value program different compiler different machine

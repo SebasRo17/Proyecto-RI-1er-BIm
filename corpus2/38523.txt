@@ -1,0 +1,1 @@
+I have found an `html` page clearly created using the `Save as HTML` option of `Mathematica`. Is there a way to reverse this operation? That is open the `html` file with `Mathematica` and render it as a `nb` file again?

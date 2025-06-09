@@ -1,1 +1,0 @@
-jsp web application want redirect sample user different page real user currently something like user getname equalsignorecase sample hardcoded b executed normal user well better way handle logic loathe redirect user via javascript validation one suggestion given internally

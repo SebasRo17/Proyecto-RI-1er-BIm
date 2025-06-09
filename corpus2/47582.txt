@@ -1,0 +1,1 @@
+I am having the following problem. I am playing with `Manipulate` and I would like to draw a vector overlapping an axis (x-component of a vector), and I would like the vector to be blue. But the axis is in the foreground, therefore I don't see the color. How can I bring the arrow in foreground? Anyone have encountered this? I can post code if it helps.

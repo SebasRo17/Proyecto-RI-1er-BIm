@@ -1,1 +1,0 @@
-Kinda have the impression library development is either done by big companies like Microsoft that give them away for free, or the open-source community. Is there an existing market to _sell_ software libraries?

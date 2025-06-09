@@ -1,1 +1,0 @@
-What features are vital for good bug tracking software and why are they important? What in particular is necessary for you to consider these features done right?

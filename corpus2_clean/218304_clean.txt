@@ -1,1 +1,0 @@
-asked create web service communicates auth net api web service used multiple application one desktop another web application confused whether build wcf asmx web service auth net api asmx web service would calling newly created web service wcf right approach stay asmx

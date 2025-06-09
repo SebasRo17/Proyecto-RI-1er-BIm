@@ -1,1 +1,0 @@
-writing framework manipulate large amount memory many cell near looking algorithm technique specially designed eliminate duplication maintaining fast memory read access speed technique keep num read access speed store immutable object allow fast multi threading anything num bit per cell double array bean etc

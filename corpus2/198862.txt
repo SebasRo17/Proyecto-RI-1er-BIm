@@ -1,1 +1,0 @@
-We are working on scrum framework. Now a situation arise that we have to shuffle 2-3 scrum team members in between sprints. Is it possible to shuffle sprint team members in between a sprint? What are the potential drawbacks of doing this?

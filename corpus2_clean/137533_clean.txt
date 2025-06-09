@@ -1,1 +1,0 @@
-many people recommend interface avoid static testability interface testability sometimes requirement sometimes introduce new interface application testability mocking framework help u isolate dependent type use interface sake testability also avoid static member

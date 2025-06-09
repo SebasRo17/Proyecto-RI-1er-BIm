@@ -1,1 +1,0 @@
-I've heard a lot of talk about using functional languages such as Haskell as of late. What are some of the big differences, pros and cons of functional programming vs. object-oriented programming?

@@ -1,1 +1,0 @@
-Why does the compiler store constant values in the assembly metadata? Are they directly embedded to Intermediate Language code from the assembly metadata?

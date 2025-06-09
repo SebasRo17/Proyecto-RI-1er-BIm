@@ -1,1 +1,0 @@
-I am creating a web app. I was testing it on a mobile browser and noticed that `:active` pseudo class doesn't really work. How should I simulate clicks for a mobile browser? I'm specifically interested for Android and iPhone. I am using css sprites. I stumbled upon `ontouchstart` but don't know how to use that. Can anyone help me over it?

@@ -1,1 +1,0 @@
-working one first project c microcontroller split multiple c file noticed inconsistency coding variable declared extern global variable would access directly isr place others declared static global variable would access different file using call best way always keep scope small possible even mean adding extra function set read value make global across file access directly

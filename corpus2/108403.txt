@@ -1,1 +1,0 @@
-Is the time spent refactoring a code base worth it in the long run, in terms of developer productivity? It seems pretty clear to me that modifying a clean, well designed system is much simpler and faster than working on a poorly designed one, but I'm after some solid evidence. Are there any studies around this topic?

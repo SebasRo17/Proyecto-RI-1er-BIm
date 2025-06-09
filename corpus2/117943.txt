@@ -1,1 +1,0 @@
-A lot of scripting languages like Perl, Awk, Bash, PHP, etc. use a $ sign before identifier names. I've tried to look up why but never had a satisfactory answer.

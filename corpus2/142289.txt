@@ -1,1 +1,0 @@
-How are authors able to write a book on a framework that is just released? A framework like spring is updated, and a book is released in the next day. Is this typically by people who are direct contributors? Are they basing it off of beta/alpha versions? I find this rather difficult to understand as that documentation is rarely up to snuff by the time the framework is updated.

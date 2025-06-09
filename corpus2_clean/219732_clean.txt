@@ -1,1 +1,0 @@
-maintaining legacy physical simulation calculation build singleton ensure one instance co worker told singleton completely date instantiate smartpointer think initialization smartpointer one instance right wanna one single instance way preferable use singleton pattern initialize one auto ptr unique ptr

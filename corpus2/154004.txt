@@ -1,1 +1,0 @@
-The Golang "netchan" package seems to have been discontinued. That makes me think that the concept of "networked channels" were not a good practice after all. (Why wouldn't them just "let it be" otherwise?) Is this the case? And if it is, why is that?

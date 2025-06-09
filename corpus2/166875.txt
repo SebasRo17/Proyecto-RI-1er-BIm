@@ -1,1 +1,0 @@
-I'm looking for approaches to estimate the resource utilization of an (web-)application in a JEE environment. The overall target is to get a forecast for hardware/software requirements while the application is still under development or even in planning stage.   Is this task too complex (many different factors) to get a fairly reliable proposition without spending too much time?

@@ -1,1 +1,0 @@
-wikipedia list num cache replacement algorithm assuming know almost nothing application going develop use default cache replacement algorithm recall correctly o course lru best general cache replacement algorithm maybe mistaken also bit academic question since generally memory cheap abundant really need worry cache size much

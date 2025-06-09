@@ -1,1 +1,0 @@
-little background problem implemented singleton logger called several project want log well asked logging far thought two way get either reflection manually writing advantage using reflection whenever renamed often updated automatically disadvantage reflection performance consuming suggested use whenever avoid seen documentation reflection various thread online would best way

@@ -1,0 +1,1 @@
+I made a polygon with the following vertexes :               p = {{0, 0, 0}, {0, 0, 300}, {0, 300, 300}, {0, 300, 0}};(*Vertices of the polygon*)     myGraphics=Graphics3D[{Polygon[p]}, Boxed -> False, Lighting -> {Gray}];      How can I find the vertexes of `myGraphics`?

@@ -1,0 +1,1 @@
+digit number want get integerdigits decimal point way need strip decimal point get list digit

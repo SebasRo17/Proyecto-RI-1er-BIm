@@ -1,1 +1,0 @@
-task consider n element count number pair satisfy condition x sum two element arbitrary number k basic approach could think would n num evaluate n n num num pair solve problem better time frame e n log n less best approach far sort find b smaller k add solution process still go n num b check better still improve worst case also homework came across preparing competition

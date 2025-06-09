@@ -1,1 +1,0 @@
-What approach could You suggest, If I don't have mysql or other database support on webhost, but I need to store data ( textual information ) for website somewhere. It's informative site for school - approx 20 to 50 visitors per day, 6 to 7 categories with 3 to 5 subcategories. Would xml files be normal ?

@@ -1,1 +1,0 @@
-I want to know are there any design patterns for web besides MVC? I know there are design patterns as: Registry, Observer, Factory, ActiveRecord ,... and MVC a set of other design patterns and folder structure. Is there design pattern like MVC is a set of other design patterns? Edit : my programming language is PHP.

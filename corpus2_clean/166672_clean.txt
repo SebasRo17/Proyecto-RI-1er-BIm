@@ -1,1 +1,0 @@
-recently came across series article walking make scheme interpreter browsing realized agpl part teaching tool basically need however want understand fit together well realized though copy paste single project would become agpl possibly even trivial action anyway standard practice paranoid also benefit licensing scheme

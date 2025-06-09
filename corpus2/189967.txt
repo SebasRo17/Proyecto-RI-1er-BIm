@@ -1,1 +1,0 @@
-In a given execution context, the Variable object is the Activation object of that execution context. From my research online, I am able to find the previous sentence rephrased in different ways but no one is able to tell what it is. What is an Activation object?

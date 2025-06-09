@@ -1,1 +1,0 @@
-Is it possible to use the Windows 8 Store controls in a Windows 8 desktop app? Controls like the FlipView and SemanticZoom would be useful. I haven't found any information about this and would presume the answer is no, but thought someone would have a more definitive answer.

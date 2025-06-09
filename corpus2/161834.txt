@@ -1,1 +1,0 @@
-Is there a common name for the practice of keeping a version number on your data, so that different versions of your program can identify, for example, "current", "legacy", and "too-old-to-deal-with" versions of the same type of object? As discussed here: Strategy for backwards compatibility of persistent storage.

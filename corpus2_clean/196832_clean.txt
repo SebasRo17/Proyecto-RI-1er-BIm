@@ -1,1 +1,0 @@
-opinion best way handle runtime situation one parameter incorrect see two way first one simply first raising exception via way supported programming language telling first incorrect parameter wrong alternatively check parameter combine message one one might approach would preference thank

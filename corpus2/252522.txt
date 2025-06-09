@@ -1,1 +1,0 @@
-I have generally read that having many (>4) arguments to a function/constructor is a bad practice.   1. Is this still considered a bad practice? And is there a non-obvious reason?   2. In something like a Scala Case Class where there may be many fields what can be done to avoid such a construction? (Not sure if this is best fit for here, SO, or CodeReview)

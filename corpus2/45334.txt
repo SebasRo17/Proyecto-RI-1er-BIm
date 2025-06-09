@@ -1,0 +1,1 @@
+I have a bezier polygon aa=Table[{i^2.5, 2*Sqrt[i]}, {i, 1, 5}],is anyone can give me a example in Mathematica code that how to create another iso parametric curve on this bezier surface?Display the control polygon of this iso curve and the iso curve on the surface.

@@ -1,0 +1,1 @@
+Why does               Block[{$Pre = ( 1 + #) &}, 1]      produce `1` while               Block[{$PreRead = Print["hi"]}, 1]      produces               "hi"     1      ? In the `Block` block, shouldn't the expression have it's `Pre` evaluation as well?

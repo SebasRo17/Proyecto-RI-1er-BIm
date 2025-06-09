@@ -1,1 +1,0 @@
-The C function for seeking in a file is called lseek(). Why ins't it called just seek()?

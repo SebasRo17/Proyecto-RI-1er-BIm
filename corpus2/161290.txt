@@ -1,1 +1,0 @@
-I am building a site and idealy I would like to record the users interaction via their webcam. How do I intergrate webcam recording into my site. I have seen It done with flash. But Im trying to avoid using this. My site is being built using c#, javascript and designed for IE 7 and older. * * * I want to record the videos for later. They are not going to be used for chat e.t.c.

@@ -1,1 +1,0 @@
-After having learning the basics of C programming from several books (variables, arrays, linked lists, etc.), what comes next? Any suggestions of areas to extend my C programming skills to, and any helpful sources? Because I was wondering what experienced programmers did after learning the basics.

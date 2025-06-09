@@ -1,1 +1,0 @@
-Reading the Go language specs, I read in the intro: "The grammar is compact and regular, allowing for easy analysis by automatic tools such as integrated development environments." Is the word "regular" here a technical term, or should it be interpreted just as a vague English word?

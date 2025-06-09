@@ -1,1 +1,0 @@
-written application using tkinter want distribute wtfpl license understand add copying txt file need added folder distributed please clarify

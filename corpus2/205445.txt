@@ -1,1 +1,0 @@
-There has been a story in the news about a man whose Paypal account was accidentally credited with $92,233,720,368,547,800. Where does this number come from? What sort of programming bug is likely to give rise to this number?

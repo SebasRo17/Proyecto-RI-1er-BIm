@@ -1,0 +1,1 @@
+I went to a Wolfram Technologies workshop a few weeks ago and the presenter showed us a keyboard shortcut that when a block of input is selected, the shortcut puts the block of selected input in `(* comment *)` brackets. I've forgotten what the shortcut is though. Does anyone know what it is?

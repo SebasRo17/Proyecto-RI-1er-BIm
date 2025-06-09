@@ -1,0 +1,1 @@
+**How do you insert more columns into Table cells as shown below?** To get to this table, go to _File -> New -> Styled Notebook -> Textbook -> New -> Scroll down to the Table Cells_. ![http://img145.imageshack.us/img145/9009/db931ede98ce459db69ca94.png](http://i.stack.imgur.com/KBgPf.png)

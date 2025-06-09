@@ -1,1 +1,0 @@
-There are many resources on general project management, but are there any specifically for non-technical people for software project management, covering topics such as requirements gathering, use cases and general architecture?

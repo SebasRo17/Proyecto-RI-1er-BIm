@@ -1,1 +1,0 @@
-In this question I asked whether being a bad writer hinders you from writing good code. Many of the answers started of with "it depends on what you mean by good code". It appears that the term "good code" and "bad code" are very subjective. Since I have one view, it may be very different from others' view of them. So what does it mean to write "good code"? What is "good code"?

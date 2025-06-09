@@ -1,1 +1,0 @@
-I'm drawing a class diagram and noticed that sometimes I got a relationship (composition or aggregation) where the item uses the container, and sometimes not. **What is the visual difference in a composition where the item class uses the container class vs where the item class doesn't know about the container class?**

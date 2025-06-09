@@ -1,1 +1,0 @@
-working cross platform c project consider unicode need change support unicode following two choice need decide one choose using utf num std make easy support posix system using utf num std wstring make easy call window api item num utf8 benefit change many concern basic rule broken utf8 example size equal character length search path hard implement num sure experience one choose

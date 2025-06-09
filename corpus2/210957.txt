@@ -1,1 +1,0 @@
-When building an application one considers the appropriate technology of choice for best long term impact and scalability. If building a media streaming application for mobile and desktop should one still use flash or silverlight, or html5 and javascript? How does one select the right technology?

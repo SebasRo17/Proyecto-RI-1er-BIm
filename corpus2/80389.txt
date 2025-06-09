@@ -1,1 +1,0 @@
-According to Wikipedia, CSS is a style sheet language. However, it's pretty much the only such type of language in use (at least from a web developer's perspective). When trying to categorize CSS as a language or technology (e.g. for a résumé), would it be acceptable to simply call it a domain-specific language? If you don't think it can, why not?

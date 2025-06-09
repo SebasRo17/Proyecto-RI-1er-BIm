@@ -1,1 +1,0 @@
-Any idea on how to build an application that provides unique keys each time it get called by another process.   Calling process isn't my problem here, my problem is how to sync between two(or more) processes and preventing it from providing the same key to both of them. I'd really appreciate your help in this issue, please only outline the solution and I'll try to implement it.

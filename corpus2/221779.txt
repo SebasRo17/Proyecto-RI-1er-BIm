@@ -1,1 +1,0 @@
-I have a 3 layered application.   * Presentation Layer (PL): ASP.NET MVC app   * Business Logic Layer (BLL) project   * Data Access Layer (DAL) project I need to add a Web Reference to a service for a payment gateway. Where does it go? `PL` or `BLL`? P.S. Before using the Web service I need to retrieve some data from database and send that data to web service.

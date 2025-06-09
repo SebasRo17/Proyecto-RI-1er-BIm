@@ -1,1 +1,0 @@
-I have a project that uses GNU autotools to build itself. I am trying to modify so that autotools generates all the non-versioned control files in a separate directory so that I can keep the source tree clean of temporary files. Anyone has any ideas how to do this ?

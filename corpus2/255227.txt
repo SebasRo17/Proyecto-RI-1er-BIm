@@ -1,1 +1,0 @@
-Suppose I use this ActionScript API released under MIT license to build a software: http://www.cove.org/ape/docs/api/   1. Can I sell that software?   2. Do I need to give the source code of my software away?   3. Is anyone receiving my software permitted to resell the software?

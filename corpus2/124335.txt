@@ -1,1 +1,0 @@
-I'm wondering if there are any laws related to software development... Like, what if you're writing code for a digital pacemaker, or you're designing some other system that might have a profound effect on someone's life, or well- being... Are there specific laws for that kind of thing?

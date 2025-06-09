@@ -1,1 +1,0 @@
-The idea of java3d is very interesting, but I don't see any desktop or web applications built using java3d. Where is it used and what perspectives does it have?

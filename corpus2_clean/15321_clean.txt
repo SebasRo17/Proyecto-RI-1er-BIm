@@ -1,1 +1,1 @@
-introduced new project first thing look get idea work look design first design look diagram deployment diagram sequence diagram something else go straight understand different layer interact
+documentation simplify expr say performs sequence algebraic transformation expr return simplest form find see transformation applies

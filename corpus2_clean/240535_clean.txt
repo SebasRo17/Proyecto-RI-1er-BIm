@@ -1,1 +1,0 @@
-recently learned team moved database manipulation actual database use stored procedure thought pretty clever since database becomes black box change stored manipulated affect application accurate conclude manipulating database application anti pattern since unnecessarily couple application storage circumstance would make decoupling sql query application disadvantage

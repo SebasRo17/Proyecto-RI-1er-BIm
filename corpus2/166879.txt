@@ -1,1 +1,0 @@
-In .NET there are two "culture" values, UICulture and Culture. The first one is for localized texts on the UI, while the latter sets the culture for date and number formats. I can't come up with any reason or scenario for those two values to be different. Is there some reason to do so?

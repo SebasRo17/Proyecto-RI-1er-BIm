@@ -1,0 +1,1 @@
+I've noticed different behaviour in Mathematica between matrix representation: The matrix               a={{1,2},{3,4}}     is different from      b=a // MatrixForm      Why i obtain different results using the same matrix in command like Eigensystem? What kind of definition should i use in my programs?

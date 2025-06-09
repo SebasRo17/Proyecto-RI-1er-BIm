@@ -1,1 +1,0 @@
-trying program discrete transform matlab understand various library available project requires must implement scratch taking vector length n provide vector low pas high pas filter first question must cut two filter done passing signal two filter lowpass sample vector sampled vector size vector reduced use matlab toolbox size remain level second question size remaining

@@ -1,1 +1,0 @@
-scenario push production push broke multiple thing build break qa dev developer prod access lot pressure get thing working specific php mvc application api driven zend deployed server question investigating let say hunch something wrong know sure course test thing production suggested fix based hunch would wise try apply see work understanding problem

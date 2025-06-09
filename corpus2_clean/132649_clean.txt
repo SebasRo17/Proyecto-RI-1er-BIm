@@ -1,1 +1,0 @@
-design problem returning hashtable public want multiple item instead creating returning problem circumstance make sense answer question change depending upon whether language dynamic edit clarify key would constant part something typically create question would wrong use hashtable instead creating indeed seem right choice

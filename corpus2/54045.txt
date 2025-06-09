@@ -1,1 +1,0 @@
-I have been working on learning as much as I can before starting college to change my career, and I noticed on the w3schools site that there is now html and html 5, css and css 3. Do I need to go back and learn those newer languages before moving onto PHP and MySQL?

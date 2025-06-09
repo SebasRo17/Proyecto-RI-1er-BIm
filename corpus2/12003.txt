@@ -1,0 +1,1 @@
+This is probably fairly straightforward, but I wasn't able to find it right away. I'd like for Mathematica to display on startup the latest notebook I was working on, and nothing else. No additional old notebooks and no new blank notebook. There is probably an option hiding somewhere to do that, but I wasn't able to find it. Apologies if this is too simple.

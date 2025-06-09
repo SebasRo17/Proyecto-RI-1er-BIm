@@ -1,1 +1,0 @@
-How many of you actually work out the exercises when learning from a book (any programming related book), I'm currently working my way through a C++ book and find that some of the exercises I feel I can complete rather easily I skip. Do most people do this? Or do they read the whole book and come back to exercises that looked difficult?

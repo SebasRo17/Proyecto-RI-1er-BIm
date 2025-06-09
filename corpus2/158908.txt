@@ -1,1 +1,0 @@
-In Java:               int count = (Integer) null;      throws a java.lang.NullPointerException. Why doesn't this throw a Class Cast Exception for ease in programmer understanding? Why was this exception chosen over any other exception?

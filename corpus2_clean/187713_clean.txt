@@ -1,1 +1,0 @@
-developing application taking dynamic gesture mapping keyboard control dynamic gesture mean example hand moving left right hand moving right left four gesture hand moving bottom top top bottom left right right left able recognize gesture problem decide start ending gesture continuous video efficient effective algorithm detecting video

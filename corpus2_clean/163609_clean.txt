@@ -1,1 +1,0 @@
-development process completely manual unit test interface test manual merging integration well could go state implementing continuous integration full least close full automation build test pretty intense development cycle currently using agile switching agile ci one move would complicated expensive investment take slowly still moving constantly towards ci environment

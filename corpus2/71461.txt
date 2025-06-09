@@ -1,1 +1,0 @@
-Are there any A.I. resources that explain the concepts and present source code, similarly to AI Horizon? I've read books and research papers but they generally present a conceptual approach, without really delving into the source code of it.

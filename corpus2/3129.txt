@@ -1,1 +1,0 @@
-I'm planning to learn F#. I'm not a very beginner since I know Standard ML, C# and Erlang. Is there a book out there that's the de-facto standard for describing best practices, design methodologies, and other helpful information on F# (preferably with examples using WPF since I would like to use it for GUI- programming) ? What about that book makes it special?

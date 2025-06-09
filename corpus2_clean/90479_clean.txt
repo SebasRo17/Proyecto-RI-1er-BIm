@@ -1,1 +1,0 @@
-huge legacy c project run vc num hope ported later version visual studio think huge work actually tried recompile project vs2005 got many error experience porting recommendation

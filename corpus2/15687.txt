@@ -1,0 +1,1 @@
+I'm trying to get the name of a symbol passed to a function with this:               f[x_] := {SymbolName[x], x}     SetAttributes[f, HoldFirst]     x = 5;     f[x]      But `x` is being evaluated anyway:               SymbolName::sym: Argument 5 at position 1 is expected to be a symbol. >>     {SymbolName[5], 5}      What am I missing here?

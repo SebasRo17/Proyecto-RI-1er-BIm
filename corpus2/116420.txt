@@ -1,1 +1,0 @@
-Are there any domain models already created for education industry? For example we have Prima IBCS for insurance. I was looking for something along similar lines.

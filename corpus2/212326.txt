@@ -1,1 +1,0 @@
-A `HashMap` allows only one `null` key. Is it because it allows only unique keys? Or is there another reason?

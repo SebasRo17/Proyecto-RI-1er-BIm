@@ -1,1 +1,0 @@
-I checked Google App Engine and Heroku but both don't support .NET/C# applications. Even though Google App Engine shows support for Windows Azure, but in the supported languages it doesn't show C# or VB. Is .NET not supported on Cloud Platform?

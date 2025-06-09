@@ -1,0 +1,1 @@
+according documentation mathematica chooses branch cut log z lie along negative real axis possible change lie along positive axis elsewhere complex plane

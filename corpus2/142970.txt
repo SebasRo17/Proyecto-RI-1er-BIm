@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  best way to handle a many to many relationship? The relationship between product and supplier is many to many with a new class to be created? Or is it many to 1?

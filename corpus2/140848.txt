@@ -1,1 +1,0 @@
-Why was Java chosen for Android, instead of something like C++? While I certainly am no expert, I have heard that Java uses quite a lot of memory and I would presume that low memory usage would be quite important on mobile devices. Is there any real advantage to using Java instead of a language like C++ on a mobile device?

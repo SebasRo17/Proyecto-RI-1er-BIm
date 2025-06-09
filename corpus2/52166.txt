@@ -1,0 +1,1 @@
+Is there a way to force AdjacencyGraph to hide single unconnected or self connected elements?               AdjacencyGraph[{{0, 1, 0, 0, 0}, {0, 0, 1, 1, 0}, {0, 1, 0, 0, 0}, {1,         1, 1, 0, 0}, {0, 0, 0, 0, 1}}]      ![enter image description here](http://i.stack.imgur.com/1RggU.png)

@@ -1,1 +1,0 @@
-sometimes write constructor like x public x const private c x public x private think reason come suitable member see reason use different one argument initializing since also fan using underscore easiest pick suitable considered bad practice however drawback apart shooting foot forgetting c

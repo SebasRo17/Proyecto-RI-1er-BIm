@@ -1,0 +1,1 @@
+From the documentation:               Manipulate[Plot[f[x], {x, 0, 2 Pi}], {f, {Sin, Cos, Tan, Cot}}]      How do I include a function like $1/x$ or $x^2$, etc. in that list? I (unsuccessfully) tried `1/#` and `#^2`.

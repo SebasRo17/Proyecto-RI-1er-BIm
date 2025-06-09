@@ -1,0 +1,1 @@
+For a long time i've evaluated `D[f[t],{t,3}]` to get this power-like derivative thing: $$f^{(3)}(x)$$ Is it possible to obtain same through an easier keyboard shortcut?

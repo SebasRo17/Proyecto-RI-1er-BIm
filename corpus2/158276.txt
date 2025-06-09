@@ -1,1 +1,0 @@
-I am using scons to build a large project containing a mix of C++ and Python. I would like scons to run Python unit tests either using nose or not. Currently, we have a long list of tests files and run a test builder on each one. This causes each test file to be run as a separate script which feel inelegant and inefficient. Is there a better way of doing this?

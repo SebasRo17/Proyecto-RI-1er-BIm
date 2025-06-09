@@ -1,1 +1,0 @@
-c net two possibility serialize num implementing iserializable interface num using datacontract datamember serialization attribute wcf difference two possibility better term execution time

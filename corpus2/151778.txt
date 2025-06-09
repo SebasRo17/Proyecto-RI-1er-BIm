@@ -1,1 +1,0 @@
-I work in a PHP development shop and several new developers have joined the team. One of the new members insists on declaring class properties at the bottom of the class declaration rather than the at the top, as one would normally expect. In all my 5 years of working in web development, I have never seen this done. Is it a common coding style?

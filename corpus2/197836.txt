@@ -1,1 +1,0 @@
-In C# if i declare a constant variable is any memory allocated to it as it acts as a compile time replacement? How long is the variable's life?

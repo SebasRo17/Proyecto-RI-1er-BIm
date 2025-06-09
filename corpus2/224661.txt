@@ -1,1 +1,0 @@
-I want to create a changelog for my application to display the set of recent changes to the user. But I'm not sure where I put it. Do I create a text file and write in it? Where do I put this text file then?   Or do I use an action in the menubar and display the changelog in a new window when clicking on the action?

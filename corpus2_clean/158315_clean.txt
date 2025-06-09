@@ -1,1 +1,0 @@
-may stupid question working algorithm calculates interval variable given constraint example called description propagate range given constraint exactly meant propagation algorithm working basically trying simplify set constraint range interval analysis querying solver feasible solution make solving constraint set efficient

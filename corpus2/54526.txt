@@ -1,0 +1,1 @@
+Users of version 9 might be surprised by this outcome:               Plot[{Sin[x], Cos[x]}, {x, 0, 5}, BaseStyle -> AbsoluteThickness[5]]      ![enter image description here](http://i.stack.imgur.com/0GheD.png) It seems that `BaseStyle->AbsoluteThickness[whatever]` doesn't work anymore. How can one fix this?

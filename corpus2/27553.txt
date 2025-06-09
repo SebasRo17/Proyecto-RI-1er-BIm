@@ -1,0 +1,1 @@
+Let's say I have a list of arguments, of any length. How would I add them all together?               f = Evaluate[Plus @@ Array[Slot, 3]] &     f[1, 2, 3]      This would add together 3 numbers, but how would I add together any amount of numbers?

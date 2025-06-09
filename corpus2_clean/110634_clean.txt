@@ -1,1 +1,0 @@
-sometimes outperforms c benchmark course sometimes c outperforms see following link num num performance comparison c ruby jython jruby groovy num num c v performance even possible boggles mind interpreted bytecode could ever faster compiled language someone please explain thanks

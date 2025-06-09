@@ -1,0 +1,1 @@
+I have the following function:               f[0, 0] = 0     f[x_, y_] := Exp[-(x^2 + y^2)^(-1)]      How do I find its partial derivatives at any given point, including $(0,0)$? This doesn't work (obviously, I guess):               point={0,0}     D[f[x, y], x] /. x -> point[[1]] /. y -> point[[2]]

@@ -1,1 +1,0 @@
-When I open up the some of the often used header files like vector.h or cstdlib.h it just seems like a mess of #ifndefine #define #endif statements. Can anyone decode that mess and give me a glimpse into whats going on in there?

@@ -1,1 +1,0 @@
-I know the 32 bit registers were named like the 16 bit registers with an 'E' prefix to mean extended. I've always assumed that meant extended from 16 to 32 bits although I've never seen that explicitly stated. I was trying to find out what the 'R' stands for but my google skills have failed me. Anyone know?

@@ -1,0 +1,1 @@
+I want to make a plot in which unit interval on both axes to have equal lengths visually. i.e. I want (1,1) and (0,0) to make a square rather than an elongated rectangle. ![enter image description here](http://i.stack.imgur.com/gj7EO.png)

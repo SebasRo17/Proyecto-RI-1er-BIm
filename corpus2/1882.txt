@@ -1,0 +1,1 @@
+Inspired from : Fit an image within a Rectangle [] in Graphics I would like now to fit an image within a Rectangle[] with **rounded edges** as shown in the example below : ![enter image description here](http://i.stack.imgur.com/tqIrf.png) Is it possible ?

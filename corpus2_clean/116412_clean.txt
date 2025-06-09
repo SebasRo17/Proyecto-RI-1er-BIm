@@ -1,1 +1,0 @@
-gc take care memory management issue memory leak case want gc take control part

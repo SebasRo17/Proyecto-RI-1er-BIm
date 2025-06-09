@@ -1,1 +1,0 @@
-Is it fine to code PHP on Windows and host it later on a server running Linux? Can there be any problems in the migration of such a project? I would think that there really can't be any problems, especially since I am a beginner in PHP and I won't use any of the advanced functions that may be OS- specific. However, I would like to make sure since I really don't like Linux at all.

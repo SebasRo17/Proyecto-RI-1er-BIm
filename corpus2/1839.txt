@@ -1,0 +1,1 @@
+I am looking to compute the value of $\sum^{3249}_{n=58} 2^{n \choose 2}$, but when I try to execute `ScientificForm[Sum[2^Binomial[n, 2], {n, 58, 3249}]]`, I get a very large output. Why is `ScientificForm` not being applied?

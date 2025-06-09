@@ -1,1 +1,0 @@
-c language allows intermixing c c one source file example extern c struct bar c ever supported linkage language c e g extern pascal extern haskell

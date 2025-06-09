@@ -1,1 +1,0 @@
-What does backslash really escape? It's used as escaping character. But I always wonder what's escaping? I know "\n" is a new line character. But what in it is escaping? Why is it called like that?

@@ -1,0 +1,1 @@
+How can I dynamically change the appearance of b? Strangely it works for the Enabled state but not for the Appearance. Thanks.               Manipulate[       bAppearance = If[a > 1, "Open", "Closed"];        bEnabled = If[a > 2, False, True];       Plot[Sin[a x + b],        {x, 0, 6}], {a, 1, 4}, {b, 0, 10, Appearance -> Dynamic@bAppearance}]

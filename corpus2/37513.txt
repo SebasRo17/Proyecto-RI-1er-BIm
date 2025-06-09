@@ -1,0 +1,1 @@
+When I create a `Hyperlink` to a _Youtube_ video in a text cell the link is colored blue like it would be in a browser. However, the mouse cursor does not change when it hovers over a link. This causes my students to think that the link doesn't work or isn't really a link. To them it just looks like I have blue colored text.

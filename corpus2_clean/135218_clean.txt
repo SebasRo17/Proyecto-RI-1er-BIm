@@ -1,1 +1,0 @@
-learning writing test case bdd using specflow write comprehensive test bdd necessary write tdd test separately necessary write test case tdd bdd separately seems difference bdd understood non developer tester

@@ -1,1 +1,0 @@
-I'm wondering how the "evented-io" in node.js any different from the windows async IO model? Is the callback from node.js executed on a thread, if not, where is it run? I don't mean to question the productivity or awesomeness of node, but specifically to understand if the architectural design differs from what is commonly done in the windows space, say with WCF or ASP.Net.

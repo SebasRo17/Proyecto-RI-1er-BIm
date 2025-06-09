@@ -1,1 +1,0 @@
-given two sorted ascending order length n calculate kth min b j time complexity n another variant question go like given matrix sorted row sorted column find kth smallest easily formulate klogk solution challenge n time paper formulates solution could understand somebody explain alternative idea hint

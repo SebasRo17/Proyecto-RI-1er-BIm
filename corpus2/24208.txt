@@ -1,0 +1,1 @@
+Sometimes I make a calculation in Mathematica that produces a big number, which Mathematica shows like so:               -1.52522*10^7      This is annoying to me, because I want to see the number normally, without exponential notation, something like this:               -15,252,264.7448716      How can I make Mathematica show the number normally?

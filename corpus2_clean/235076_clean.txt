@@ -1,1 +1,0 @@
-program several variable whose access specifier known private package default accessor specifier known private package accessible within package belongs uml diagram label variable public private decide concept private package

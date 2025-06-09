@@ -1,1 +1,0 @@
-I have a question how to design a stack without using list or array? This is one question that I want to think about as I want to better understand stack.

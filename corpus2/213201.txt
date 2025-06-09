@@ -1,1 +1,0 @@
-* Say someone puts their code on GitHub, under the MIT license.   * Then I forked it and use it in my project.   * Then they change the license so that it has a strict license that does not give permission to modify, sell, etc... Would the new license apply to my code, since the code I have was from before they changed the license?

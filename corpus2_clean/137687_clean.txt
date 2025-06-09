@@ -1,1 +1,0 @@
-reading design pattern read prototype design pattern away excessive subclassing subclassing bad advantage would using prototype bring subclassing

@@ -1,1 +1,0 @@
-Hi I am learning design patterns from a book . How to figure out the actual production code where it is implemented . For example , if I am learning strategy pattern , it might be implemented in Spring framework . But how to go and search there and see it . Do you guys have any easy ways of finding such stuff ?

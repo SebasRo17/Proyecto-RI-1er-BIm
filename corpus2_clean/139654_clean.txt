@@ -1,1 +1,0 @@
-working designing restful api know want json xml given resource thinking would something like get api something param1 value1 accept application xml application json however someone tossed using extension like get api something xml value1 api something json param1 value1 tradeoff approach best rely accept header extension specified honor extension specified drawback approach

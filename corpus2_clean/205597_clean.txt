@@ -1,1 +1,0 @@
-gui program want list several item programming side subclass add one item list want hard subclass would best way allow gui know subclass base refer

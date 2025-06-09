@@ -1,0 +1,1 @@
+What I am trying to do is to get the value of $\chi^2$ for given probability (let us say $\alpha$=0.01) and degrees of freedom (for example df=3). How do I get that? Inverse...Distribution functions return something quite different from expected. Thanks in advance.

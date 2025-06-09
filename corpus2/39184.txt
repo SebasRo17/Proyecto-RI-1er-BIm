@@ -1,0 +1,1 @@
+If you type               ?Region`*      you'll get: ![Mathematica graphics](http://i.stack.imgur.com/5a67H.png) which seems a bunch of interesting and not documented symbols. Any idea (or experience) on how to use them? **Edit** By using our "collective spelunking" **I was able to work outthis answer** \- Great! :) And Silvia used it to write another one!

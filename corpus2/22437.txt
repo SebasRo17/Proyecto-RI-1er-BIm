@@ -1,0 +1,1 @@
+Given lists of unequal lengths, I want to add them together element-wise, treating missing elements as zero. For example, `{1, 2, 3} + {a, b} + {x}` should give `{1 + a + x, 2 + b, 3}`. How do I write a function to do this?

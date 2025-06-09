@@ -1,1 +1,0 @@
-I'm looking to write a server side service, which will be accessed from a Javascript/HTML5 client. The client will likely be sending a bunch of restful messages over HTTPS. All other things being equal, which is better designed to support this kind of scheme on the serverside - WCF or MVC3 (ie., a controller with only restful messages, no real view or model)?

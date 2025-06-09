@@ -1,1 +1,0 @@
-done work looking file system provide snapshot file versioning seems bit strange file system go part way version control though fundamental reason keeping two separate challenging would example build version ext3 file system includes git like interface managing file version

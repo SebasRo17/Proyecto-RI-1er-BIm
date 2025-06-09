@@ -1,1 +1,0 @@
-implementing inheritance something called context context hold link parent context context root context parent order walk inheritance tree get context want pseudocode private hashtable hashtable map parent parent new hashtable add map recursion calling different still count would call

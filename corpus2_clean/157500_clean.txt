@@ -1,1 +1,0 @@
-php take infinite number argument like abc since num param mixed arg1 arg description result abc arg1 func get smth illustrate docblock

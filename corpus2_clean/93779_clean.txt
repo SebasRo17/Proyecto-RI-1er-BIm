@@ -1,1 +1,0 @@
-software engineering development process like waterfall model cycle something like exist case developed part application separately went step waterfall model requirement analysis design implementation testing end put everything together wrong call waterfall process num cycle

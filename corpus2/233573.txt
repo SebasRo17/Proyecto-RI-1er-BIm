@@ -1,1 +1,0 @@
-Is that possible to create exchange and queue in client environment by the client? Below is the quote from http://blog.dtzq.com/2012/07/amqp-exchanges-and- rabbitmq.html > AMQP clients are free to create their own exchanges or use the predefined > defaults. Or exchange and queue can be only at the server where the broker is?

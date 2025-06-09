@@ -1,0 +1,1 @@
+What can cause this error to show up?               Clear[lambda, a, b, x, y];     ode = lambda y[x] + a b y'[x] + a (-1 + b x) y''[x] + y''''[x] == 0;     DSolve[ode, y[x], x]      ![Mathematica graphics](http://i.stack.imgur.com/C3R3A.png) Verion 10, windows 7.

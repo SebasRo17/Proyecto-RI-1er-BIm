@@ -1,0 +1,1 @@
+simple Example: maximize $u(x), x$ solution would show constraints: $\frac{\partial u(x)}{\partial x} = 0$ $\frac{\partial^2 u(x)}{\partial x} < 0$ etc... or do I always have to explicitly define functions?

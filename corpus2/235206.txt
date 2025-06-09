@@ -1,1 +1,0 @@
-I was wondering how do http://try.redis.io/, http://try.mongodb.org/ etc. work? Do they have one live (dedicated) user session on the server per user session in the web?

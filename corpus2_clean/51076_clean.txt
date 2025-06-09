@@ -1,1 +1,0 @@
-failing nullpointerexception called exist however led think best way fix always defensively null future proof pointer exception fix cause occur downstream thought

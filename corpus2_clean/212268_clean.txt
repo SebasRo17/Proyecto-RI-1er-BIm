@@ -1,1 +1,0 @@
-given constructor never ever use different implementation several object initializes still practical use di might still want unit test question initializes class constructor class us pretty specific never use another implementation justified avoiding trying program interface

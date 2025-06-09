@@ -1,1 +1,0 @@
-Consider a typical Kanban board: Input, Analysis, Dev Ready, Development, Build Ready, Test, Release Ready How to specify WIP limits for each column? any formula?

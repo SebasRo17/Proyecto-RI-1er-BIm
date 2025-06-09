@@ -1,1 +1,0 @@
-When I google about Java, the companies most mentioned are Sun, Oracle and IBM. I know that Oracle bought Sun, and the Java official website is Oracle domain, so I can assume that Oracle is the official Java developer. But after a little research, IBM also provides many tutorials and documents about Java. Why is this? Is IBM also involved in some development of Java?

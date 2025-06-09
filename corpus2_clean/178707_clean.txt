@@ -1,1 +1,0 @@
-current project need store long ascii instance given receive num appends per minute retrieved frequently worst case scenario num 10mb thousand instance worried storing string filesystem would optimal think better solution anyone suggest alternative maybe key store case one thought

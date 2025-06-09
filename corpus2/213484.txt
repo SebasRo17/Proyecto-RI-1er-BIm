@@ -1,1 +1,0 @@
-What are the pros and cons of exposing an SQL API instead of a REST API? Let's assume that this would be a private API – the API developer and user are on the same team. Probably the biggest problem would be security and validation. I can see two possible approaches:   1. Defining a set of allowed SQL query templates.   2. Doing some clever analysis of every incoming SQL query.

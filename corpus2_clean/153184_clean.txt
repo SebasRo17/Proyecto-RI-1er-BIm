@@ -1,1 +1,0 @@
-let say num num num num num num num num num set number need split number sum equal sum num num num num num num num num num first identify whether split number one way might num without remainder write algorithm two create s1 s2 proceed approach read partition problem wiki even article able get anything someone help find right algorithm explanation simple english

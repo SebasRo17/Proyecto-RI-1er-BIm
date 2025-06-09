@@ -1,1 +1,0 @@
-What is the best strategy to go about understanding some one else's code for a medium sized project, if the code is not well documented and does not adhere to many coding standards?

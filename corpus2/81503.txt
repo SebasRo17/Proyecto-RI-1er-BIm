@@ -1,1 +1,0 @@
-There are many vcs available. Which of them are typically used in JavaEE world?

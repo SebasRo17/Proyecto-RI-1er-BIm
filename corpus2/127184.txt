@@ -1,1 +1,0 @@
-I am looking for examples of general purpose algorithms (meaning non-graphics related) that have been proven to run an order of magnitude faster on a GPU than on a CPU. I will use these examples to think creatively about other algorithms that I could implement on a GPU.

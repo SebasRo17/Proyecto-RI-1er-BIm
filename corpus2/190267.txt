@@ -1,1 +1,0 @@
-In java.util.PriorityQueue we have the methods `add(E e)` and `offer(E e)`. Both methods are documented as: > Inserts the specified element into this priority queue. What are the differences between these two methods?

@@ -1,1 +1,0 @@
-In a condition statement (IF) everyone use `(position < size)`, but why? Only convention or there is a good reason for that? Example:               if (pos < array.lengh) {        // do some with array[pos];     }      why not               if (array.lengh > pos) {        // do some with array[pos];     }      ?

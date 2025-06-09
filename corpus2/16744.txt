@@ -1,0 +1,1 @@
+I simply want to add labels to the axes without using the Drawing Tools menu, I tried this without success: `RegionPlot[x^2 + y < 3, {x, 0, 3}, {y, 1, 3}, AxesLabel -> Automatic]` This does not work either: `RegionPlot[x^2 + y < 3, {x, 0, 3}, {y, 1, 3}, AxesLabel -> {x, y}]` Is there any convenient way of labelling axes in a region plot? Thanks for your help!

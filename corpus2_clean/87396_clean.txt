@@ -1,1 +1,0 @@
-webservices one possible implementation soa come service called web service use web technology protocol http xml implementation

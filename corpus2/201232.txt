@@ -1,1 +1,0 @@
-I just saw a demonstration of Zen Coding. I think it's a great investment on productivity, however my work is 99% backend data processing via Java. So far I only know templates in Eclipse like sysout and foreach (then hit CTRL+SPACE in MS). Is there more Zen Coding for Java?

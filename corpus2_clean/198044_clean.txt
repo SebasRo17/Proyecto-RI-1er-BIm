@@ -1,1 +1,0 @@
-suppose web app seller add product set available sale show list product mobile app get product via rest api problem suppose two client view product num item available seller make simultaneous order resolve collision technology stack ror postgresql heroku

@@ -1,1 +1,0 @@
-I have a big side project that I do now for 3 years. It has a lot of extra small tools to help me do tasks. Most of those tools are so old that I forgot what I have there. How to create a feature map to have easy reminder of what is possible ? Is there some special UML diagram notation for it? How to do it? I think graphic version would be better than a readme text file.

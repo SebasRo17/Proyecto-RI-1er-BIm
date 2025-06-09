@@ -1,0 +1,1 @@
+I'm setting up a package that defines a custom Notation. I'd like to inquire about best practices and possible issues of:   1. using the Notation Package   2. using `$Pre` and `$PreRead`   3. overloading `MakeExpression`

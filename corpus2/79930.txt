@@ -1,1 +1,0 @@
-I'm building a site with PHP and a MySQL backend. But, I am currently not using any type of framework. Should I be using Model View Controller?

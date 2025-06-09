@@ -1,1 +1,0 @@
-I'm currently taking course on introduction to algorithm and I came across the parallel mergesort algorithm. My question is: Is there any differences in the algorithm plan if it runs on a 2d mesh instead of infinite linear proccessors ? Thank you,

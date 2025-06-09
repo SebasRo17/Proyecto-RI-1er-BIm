@@ -1,1 +1,0 @@
-The Boost Software Library is licensed under the BOOST License Now, if you only use C++11, does this mean you're bound by the BOOST license terms if you use those parts of C++?

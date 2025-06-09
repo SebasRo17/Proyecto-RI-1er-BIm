@@ -1,1 +1,0 @@
-I don’t think that I’m the only one that thinks that Visual Studio exception window is very poor. Trace information lacking formatting and is hardly readable.   * **Is there any plugin or external tool that shows exception information better?**

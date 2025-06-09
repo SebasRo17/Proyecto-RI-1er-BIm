@@ -1,1 +1,0 @@
-started writing framework c may heard someone contacted ask whether could license would useful embedded product clause 4d clause say paraphrasing must allow modified version library linked executable would make difficult like lgpl prevents people making modification keeping secret want prevent people using embedded product suggest

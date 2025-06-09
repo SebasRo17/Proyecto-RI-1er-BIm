@@ -1,1 +1,0 @@
-I'm working on an application that uses Inversion of Control to achieve loose coupling between the Data Access and Business Layers. Having an ILoanApplicationRepository and a LoanApplicationRepository, where should I store the XML Comments that document the class members? on the interface or on the concrete class? should I do it on both?

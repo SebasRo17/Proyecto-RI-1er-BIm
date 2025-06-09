@@ -1,1 +1,0 @@
-Just curious, because many developers use Flash to do many things that HTML 4 (correct me if I'm wrong) or below cannot or had a hard time doing, like for example the rounded corners (Canvass) and that Video Thing and many more. I have not actually explored all of HTML5, so might as well learn it from you. thanks.

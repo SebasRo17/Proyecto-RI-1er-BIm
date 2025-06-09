@@ -1,1 +1,0 @@
-What is the best framework for start: rails or sinatra? I heard that sinatra is more flexible but rails has a lot of documentation and tutorials. What's your choice?

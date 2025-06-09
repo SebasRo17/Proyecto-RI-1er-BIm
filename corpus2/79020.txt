@@ -1,1 +1,0 @@
-We already have:   * Visual Basic   * Visual C++   * Visual C# Why there is no Visual Assembly? Is it worth making it?

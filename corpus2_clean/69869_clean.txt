@@ -1,1 +1,0 @@
-proper way convey algorithm complexity big notation speech dose total number operation big oh n log n sound strange generally accepted order log n space complexity guaranteed n log n time

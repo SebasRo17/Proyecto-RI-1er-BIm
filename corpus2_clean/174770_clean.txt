@@ -1,1 +1,0 @@
-possible duplicate inherited 200k line spaghetti recently handled giant multithreaded program comment asked understand improve possible technique followed need understand someone else straightaway start first call go tracking next call c multi threading linux

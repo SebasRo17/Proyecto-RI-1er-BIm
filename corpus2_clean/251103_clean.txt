@@ -1,1 +1,0 @@
-user notification table want make sure every user see new notification less intuitive idea n relation table userid little much overhead create new table nosql database would good idea add notification id individual user user table

@@ -1,0 +1,1 @@
+I'm relatively new to _Mathematica_. I tried looking for a solution online but couldn't find anything. I want to fill a plotted line both above the line (one color) and below (another color). For example, the line might be given by `y = 1 - x` over domain (0, 1) and with range (0, 1). Any suggestions?

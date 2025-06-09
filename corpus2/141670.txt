@@ -1,1 +1,0 @@
-There are lots of JavaScript libraries. Why people create them, if it's not for money? If it is, how do they make money on something anybody can copy, since the code source is available publicly?

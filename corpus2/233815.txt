@@ -1,1 +1,0 @@
-How to ignore bracketing styles when doing code comparisons or diffs? We have several formats of bracketing and I would like:               function foo(){     }      to be considered the same as               function foo()     {     }      Right now I use Araxis merge which does a direct line-by-line comparison and we are getting a lot of "false positive" changes.

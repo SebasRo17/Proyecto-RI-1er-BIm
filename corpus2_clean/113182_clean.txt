@@ -1,1 +1,0 @@
-seems everything done stack done heap everything done heap done stack correct simplicity sake even lose little amount performance certain workload better go one standard ie heap think trade modularity performance know best way describe scenario general seems simplicity understanding design could better option even potential better performance

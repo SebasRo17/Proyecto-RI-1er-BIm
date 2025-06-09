@@ -1,1 +1,0 @@
-I have a program where one thread creates a work queue and a bunch of workers that pull from it, and occasionally does some cleanup work for the workers. If the workers are all instances of `FooWorker`, what would I name the other class? One idea I've had so far is a `FooManager`, but maybe there's a better one?

@@ -1,0 +1,1 @@
+When I use               Position[somelist,0]      I get the position where values are 0. But what would be the command to get the positions which are unequal to 0               Position[somelist,Unequal[0]]      doesn't work.

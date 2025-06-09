@@ -1,1 +1,0 @@
-We have outsourced the html and css design to an external company. We want to make sure the quality of code is good. What benchmarks can we set to achieve this.

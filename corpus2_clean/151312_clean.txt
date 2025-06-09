@@ -1,1 +1,0 @@
-started c lecture teacher given u following assignment write program determines whether number even odd logic would use program num get num store num b num b num even else odd catch though write program without use else statement thinking approach problem past hour clue hint suggestion

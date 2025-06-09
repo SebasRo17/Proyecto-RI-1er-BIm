@@ -1,0 +1,1 @@
+![enter image description here](http://i.stack.imgur.com/9rU6Z.png) How can I generate such an image and fill every annular sector with a random colour?

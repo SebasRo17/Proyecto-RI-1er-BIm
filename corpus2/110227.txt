@@ -1,1 +1,0 @@
-How do you guys know that you are writing the most robust code possible without overengineering? I find myself thinking too much about every possible path that my code can take, and it feels like a waste of time sometimes. I guess it depends on the kind of program you are writing, but I don't want to use too much of my time taking situations into account that will never happen.

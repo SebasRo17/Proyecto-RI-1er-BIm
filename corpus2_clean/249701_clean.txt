@@ -1,1 +1,0 @@
-watching c tutorial video talking variable inside class assert variable marked private explains want use publicly indirectly function difference look like result except instead one like num num loc thing someone explain converting private public within rather making public right simple way different efficient

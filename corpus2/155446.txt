@@ -1,1 +1,0 @@
-Usually the problem of having possible multiple inclusions is solved with a series of `#ifdef` `#ifndef` but the pragmas just solves this with a single line, apparently they are really useful and can make the code better in terms of readability. Why they are not part of the C++ and C standards? there is a better way to avoid multiple inclusions?

@@ -1,1 +1,1 @@
-What are the usual career paths from a Systems Architecture role? Do people ever move from architecture roles into management and work towards CIO/CTO or do they generally just head towards Enterprise Architecture? What would you suggest to learn/do to aid in positioning to move into management and eventually CIO/CTO roles? Experiences?
+I am aware of the command `AstronomicalData["Jupiter", "Distance"]` from which I can get the distance between the earth and Jupiter. Is there any way to use `AstronomicalData` to get the distance between the sun and Jupiter?

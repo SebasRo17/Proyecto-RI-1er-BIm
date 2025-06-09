@@ -1,1 +1,0 @@
-I'm a .NET developer comfortable with C# and web application development. I need to improve my knowledge of Winforms. What is a good book or online resource that particularly covers the Winforms life cycle. Which events to use for what? How does OnLoad compare to Form_load etc.

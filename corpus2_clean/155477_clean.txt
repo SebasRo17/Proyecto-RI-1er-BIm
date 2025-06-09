@@ -1,1 +1,0 @@
-bunch function used across multiple aspx file want condense one file used aspx file idea want know accepted would idea create put however wondering could put ascx page look like solution looking accepted situation

@@ -1,1 +1,0 @@
-I think everyone has their own program or set of features beyond "Hello World!", that they use when trying out a new language. Mine is a guessing game:               I'm thinking of a number 1-10, guess what it is!     Guess: 3     Nope, too low!     Guess: 7     Nope, too high!     Guess: 5     Yes, You win!     Play again (Y/N)? N      What do _you_ write?

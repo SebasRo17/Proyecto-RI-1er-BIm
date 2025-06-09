@@ -1,0 +1,1 @@
+How I can calculate following integrals for large values $\alpha$ in Mathematica: $$ I_1 =\int_{0}^{y} \exp\left(\, -\alpha \sqrt{x(1-x)}\,\right)\, {\rm d}x $$ $$ I_2 =\int_{0}^{y} \exp\left(\, -\alpha \sqrt{x}\,\right)\, {\rm d}x $$

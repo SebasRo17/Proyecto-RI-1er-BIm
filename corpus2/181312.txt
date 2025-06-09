@@ -1,1 +1,0 @@
-Is there a more common name for a "Blittable" data type? In my software there is a distinction between a variable sized structure and a fixed size structure that has a similar behavior to "blittable" but I have only seen the name used in Microsoft software.

@@ -1,1 +1,0 @@
-according microsoft documentation wikipedia solid article architect must ensure one responsibility would like know everybody seems agree rule nobody seems agree reason rule cite better maintenance say provides easy testing make robust security correct actually mean make maintenance better testing easier robust

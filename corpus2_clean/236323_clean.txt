@@ -1,1 +1,0 @@
-maybe understand closure fully take example c would use closure use class missing something note read one already question specific closure introducing functional programming construct non functional programming language

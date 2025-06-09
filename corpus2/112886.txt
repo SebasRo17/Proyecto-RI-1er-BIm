@@ -1,1 +1,0 @@
-I'm aware of a few cases where coders used a pseudonym for attribution instead of their real names. **Examples include:**   * Satoshi Nakamoto (Bitcoin)   * Why (Ruby) One thing I've wondered is if attribution is done via a pseudonym, who owns the rights to the code?

@@ -1,1 +1,0 @@
-possible programmatically trigger window hibernate without actually hibernating take snapshot o regular interval system previously saved state case failure much like system restore backup system file idea backup complete o active state

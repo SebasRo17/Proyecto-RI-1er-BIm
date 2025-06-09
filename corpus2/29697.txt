@@ -1,1 +1,0 @@
-I find myself reluctant to read code without syntax highlighting. On an almost daily basis, I end up downloading or copy-pasting large blocks of code from a browser window into vim just for the sake of seeing it in color. Is there a more elegant solution? is there a plugin for firefox or chrome that allows me to apply syntax highlighting to any page?

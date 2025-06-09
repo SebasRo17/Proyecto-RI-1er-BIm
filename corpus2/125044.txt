@@ -1,1 +1,0 @@
-Despite saying that graphs are very important, none of my friends have got any graph related questions in interviews in Google and Amazon. I am preparing for these companies right now. Should I worry about graph related questions?   What are the must-know things in Graph theory before going to interviews?

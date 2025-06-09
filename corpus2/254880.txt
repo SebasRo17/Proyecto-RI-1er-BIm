@@ -1,1 +1,0 @@
-Are there any software licenses that explicitly allow somebody (a developer or otherwise) to have full access to source and/or assets of a project as long as it is for completely non-profit and/or personal use and otherwise needs to pay a commercial licensing fee?

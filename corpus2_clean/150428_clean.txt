@@ -1,1 +1,0 @@
-relatively new visual studio development wondering seems everytime make change j cs project build project way simply refresh browser opposed building everytime understanding file copied temporary directory hoping quickly write j cs within solution refresh browser see change

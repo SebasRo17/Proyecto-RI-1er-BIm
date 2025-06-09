@@ -1,1 +1,0 @@
-recently converted old application using xml file store use sql instead avoid lot change basically created activerecord style class inherited original business object example someclass id property save used new place one polymorphism need change method took someclass parameter would considered bad would better alternative

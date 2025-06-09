@@ -1,1 +1,0 @@
-What are the legal obligations to put into evidence that my application (I am the author) is open-source (especially when it is derivate), if I want to sell copies of it? I mean, could my open-source application be sold, with all the licensing stuff and source code inside and not hidden, but without saying so in the advertising for the app in the app-store?

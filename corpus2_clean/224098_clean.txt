@@ -1,1 +1,0 @@
-typical sequence event someone navigates page application user navigates application including url parameter query string server receives request generates html client angularjs grab parameter make ajax call resulting bound personally find bit wasteful requires two hit server lead delay html returned input populated missing something way avoid going back forth first time

@@ -1,1 +1,0 @@
-How would one go about to use tdd/bdd on a mostly data driven webapp? For example a blog or a forum?

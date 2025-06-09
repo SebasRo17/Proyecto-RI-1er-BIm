@@ -1,1 +1,0 @@
-I have a line of text I would like to display only when a webpage is being printed. Is it possible to only display this line when printing the page or doing a print preview using PHP in some way? Basically, I want to print a page without the print headers, but would like to include the page's URL within the page's content when it is printed.

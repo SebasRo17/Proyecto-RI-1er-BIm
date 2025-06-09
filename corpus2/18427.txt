@@ -1,1 +1,0 @@
-I'm creating a CMS and have lots of legacy code from other applications. I'm wondering should I bother providing other syndication formats except rss 2? I'm inclined to say no but was wondering what other peoples opinions were.

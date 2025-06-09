@@ -1,1 +1,0 @@
-say insert record database need know newly inserted id anything else two option num public insert num public insert first insert successful calling continue fails exception detail returned calling handle catch second calling interrogate specific word see whether successful option better

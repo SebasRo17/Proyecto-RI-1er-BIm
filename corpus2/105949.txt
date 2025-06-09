@@ -1,1 +1,0 @@
-I would like to know the best way to add a comment to identify a deprecated class in Java. Should I remove the previous comment added to the top of the class that helps another programmer to know what was that class for, or should I add it below the comment?

@@ -1,0 +1,1 @@
+I saw this example wherein the `CityData` gives the map of a city. But this is available for a relatively small set of curated regions. Is it possible to extract such map, say the topologically connected roadmap (with edges representing edgelengths) of an arbitrary city?

@@ -1,1 +1,0 @@
-I hear this term around the office, and know it's relevant to software development lifecycle. What does "promote" mean? Context: e.g. to promote a file.

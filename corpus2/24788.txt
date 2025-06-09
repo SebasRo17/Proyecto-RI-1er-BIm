@@ -1,0 +1,1 @@
+I want to use perpendicular offsets in the built-in `FindFit` function. Are there any possible ways or do I have to code everything by myself?

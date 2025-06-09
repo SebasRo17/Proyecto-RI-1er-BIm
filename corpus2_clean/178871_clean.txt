@@ -1,1 +1,0 @@
-say person instance variable age weight height another fruit instance variable texture person method save setter getters fruit setter getters logic method like fruit better practice person mean person seems like much purpose exists solely organize fruit organizes actually contains method logic

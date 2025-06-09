@@ -1,1 +1,0 @@
-need queue mirrored two distributed server wan rabbitmq suit situation start another amqp solution non amqp redis detail script server sends x command locally script server b receives x command locally vice versa another queue problem availability server b still receives x command bit later becomes available program need watch queue broker must control cross machine delivery

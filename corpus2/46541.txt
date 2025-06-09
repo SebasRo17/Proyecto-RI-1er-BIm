@@ -1,0 +1,1 @@
+How do I browse very large numbers in mathematica, say $10^{{10}^{{10}^{1.414\ldots}}}$? By browse I mean finding the $k$th decimal place before or after the decimal point. Everything I have tried has given me `overflow[]` or something equally useless.

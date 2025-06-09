@@ -1,1 +1,0 @@
-Reading about various techie sites, there is often a feeling that Microsoft Languages / Oracle etc. are considered "enterprise ready", while there seems to be more doubt about languages such as Python or Ruby. Why is this? Do Microsoft languages actually have less security holes or not?

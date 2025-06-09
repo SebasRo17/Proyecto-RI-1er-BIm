@@ -1,0 +1,1 @@
+I know that I can select individual evaluatable cells and disable their `Open` property (through `Cell > Cell Properties`), but is there a simple way to toggle the `Open` status of all evaluatable cells?

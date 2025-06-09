@@ -1,1 +1,0 @@
-want use orm mvc system correct num use orm replace model num encapsulate orm inside model num use orm outside model use orm access db use one instance store one record num better practise please give example

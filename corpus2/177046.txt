@@ -1,1 +1,0 @@
-For a non-OOP language like google Go, is it idiomatic to go about implementing new container types using datatypes like arrays or lists so as to implement convenient functionality like `contains` method which is absent from all in built container types?

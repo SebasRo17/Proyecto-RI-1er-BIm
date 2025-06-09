@@ -1,1 +1,0 @@
-Can I develop a BSD-licensed software that extends an Apache-licensed software (and vice-versa)?

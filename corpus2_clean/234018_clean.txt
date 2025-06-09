@@ -1,1 +1,0 @@
-internally use github enterprise jenkins push repository automatically build without commit marked correct travis however want able fork repository let jenkins build possible say jenkins also run fork project opening pr repo

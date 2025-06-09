@@ -1,1 +1,0 @@
-situation need write observer subscriber would choose following approach declaring event simply notifies client something happens requires client make query e g get event eventhandler eventargs b declaring event specific containing event e g event eventhandler eventargs get c using callback rather event e g public action

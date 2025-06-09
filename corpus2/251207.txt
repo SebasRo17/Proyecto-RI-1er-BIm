@@ -1,1 +1,0 @@
-I've noticed that when I load/store large data files in a binary format, the program runs much faster than if I load data from an ASCII encoded file. Why is this the case? The data in my case is plain, with limited parsing involved other than `read()` or `fscanf()`.

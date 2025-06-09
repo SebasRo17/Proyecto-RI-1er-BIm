@@ -1,0 +1,1 @@
+I have solved a PDE numerically using `NDSolve`, and I now need to be able to use that solution as an initial condition for another `NDSolve`. Is there a way of doing this?

@@ -1,1 +1,0 @@
-originally learning sql always told use trigger really need opt use stored procedure instead possible unfortunately time good year ago curious caring fundamental never ask reason community opinion someone personal preference trigger avoided like cursor unless good reason

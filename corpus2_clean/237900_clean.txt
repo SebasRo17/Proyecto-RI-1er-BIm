@@ -1,1 +1,0 @@
-using sqlite3 simple take second execute know much database guessing using query correctly surely sqlite faster entire db 5k row column matter con lite connect db con cur con cursor cur execute select processed limit num range num num cur

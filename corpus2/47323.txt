@@ -1,1 +1,0 @@
-I want to use an LGPL-licensed library in my app for Microsoft's app marketplace. Is that OK?

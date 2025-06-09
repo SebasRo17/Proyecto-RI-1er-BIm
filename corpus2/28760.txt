@@ -1,0 +1,1 @@
+Consider the equation $$ 1 - (1 - (A x)^2)^\frac{3}{2} - B(1 - \cos(x)) = 0 $$ where $A,B \in \mathbb{R}$ are constants. What is the analytic solution?

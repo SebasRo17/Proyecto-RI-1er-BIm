@@ -1,1 +1,0 @@
-philosophy question angularjs directive correct implementation next problem solves num need angularjs directive num load via several one request num show num update show every second num view unchanged loading reloading correct way need controller directive difference controller resolve option directive p need concrete scheme know component q etc use know right way

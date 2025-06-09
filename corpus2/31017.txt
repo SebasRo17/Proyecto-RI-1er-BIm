@@ -1,0 +1,1 @@
+For example, how can I calculate $$\int_{\left | z \right |=1}\frac{dz}{z}$$ I know that the answer is $2\pi i$ but how do I do it using _Mathematica_?

@@ -1,1 +1,0 @@
-SSL certificates often advertise varying amounts of warranties or guarantees, for example $500,000 or $1m. My question is, in the history of SSL, has anyone ever actually successfully claimed one of these warranties? Has there ever been a case? If not, is it fair to assume they are just marketing gimmicks?

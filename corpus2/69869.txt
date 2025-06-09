@@ -1,1 +1,0 @@
-What is the proper way to convey an algorithm complexity in Big-O notation in speech? Dose "the total number of operations is big oh of N log N" sounds strange? What's generally accepted: "It have "order log n" space complexity"? "It is guaranteed to run in n log n time"?

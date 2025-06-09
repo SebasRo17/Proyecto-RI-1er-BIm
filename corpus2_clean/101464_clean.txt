@@ -1,1 +1,0 @@
-finishing project thesis explaining used mvc pattern build website stated advantage designing way however used mvc built website scratch function processing display page would called term architecture example would one php file function need would called standard website architecture

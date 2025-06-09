@@ -1,1 +1,0 @@
-Am I within my rights to write and distribute software in compiled and source form using, in part, Microsoft's Visual Basic 2010 Express Edition? I have only the free, express version. If it has anything to do with this, the license I am using is the CC BY-NC-SA 3.0 license.

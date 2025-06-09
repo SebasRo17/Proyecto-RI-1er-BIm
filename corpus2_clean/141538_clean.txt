@@ -1,1 +1,0 @@
-moment every file project includes closure wrapper deploying file concatenated minimized asking really need closure one closure added concatenation job see one reason sharing file get global namespace conflict see problem real question con may generally approach better one closure many

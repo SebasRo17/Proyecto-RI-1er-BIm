@@ -1,1 +1,0 @@
-I am creating an "Alarm Clock" app in Android. I learned that we can implement `OnReciever()` method and write those things which we want the alarm to do after an intent is fired. But I have now come across the "Services" of android which is (might) be useful in the app. Which one should I prefer, keeping in mind the simplicity of using either of them.

@@ -1,1 +1,0 @@
-In an ideal world it is preferrable to meet the deadline with less bugs. But from your experience which is more preferrable/acceptable:   1. Meet the deadline but has a number of bugs because developer rush into things   2. Less bugs but not quite meet the deadline because the developer is very rigorous in writing the code

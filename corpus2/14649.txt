@@ -1,0 +1,1 @@
+Say I have matrix ![original](http://i.stack.imgur.com/A0mVQ.png) how to sort on row by row basis to get: ![sorted](http://i.stack.imgur.com/HNE7P.png)

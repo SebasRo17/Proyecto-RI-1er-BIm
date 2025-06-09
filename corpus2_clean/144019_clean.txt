@@ -1,1 +1,0 @@
-language syntax c weird character denotes pointer kind memory address content php pretty much thing php c without pointer guess php handle internally c add unneeded complexity c example understand

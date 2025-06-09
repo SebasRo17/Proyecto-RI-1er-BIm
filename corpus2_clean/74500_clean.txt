@@ -1,1 +1,0 @@
-think good practice implement possibilty allow administrator user login another user passing password could implemented master password inside user administration login user administrator asking able try reproduce reported problem check grant ok example

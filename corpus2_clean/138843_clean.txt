@@ -1,1 +1,0 @@
-recommended way lower level software component module communicate gui using c service layer condition occur need notify user still continue processing case unrecoverable understand use exception bubble gui case simple message need communicated user lower level component continues executing update clarify service layer aka business logic compute layer etc know gui want

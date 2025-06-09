@@ -1,1 +1,0 @@
-break sql query different line example project working query taking num column num tab char wrote query like select bla bla bla bla num bla num order demanded put one said style bad formatting bad practice

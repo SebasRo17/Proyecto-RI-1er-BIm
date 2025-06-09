@@ -1,1 +1,0 @@
-Consider a basic js object:               var obj={x:1,y:'2'};      Is this stored internally as a hashtable or does js use a different mechanism for key value pairs? If they are hash tables does anyone know how they handle collisions?

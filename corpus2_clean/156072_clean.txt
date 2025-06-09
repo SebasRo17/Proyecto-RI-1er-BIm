@@ -1,1 +1,0 @@
-read database design num type user separate one table decided put admin normal user one table since attribute similar fullname address phone email gender want draw erd suddenly mind pop question draw customer make appointment admin approve appointment two table admin customer table help

@@ -1,1 +1,0 @@
-request based entity domain currently property definition like add checking duplicate request call controller add called request would violating srp need access database context check already existing request thinking creating another altogether logic accepts datacontext part constructor creating whole new one seems like waste advice

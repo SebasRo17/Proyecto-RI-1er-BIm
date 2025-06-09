@@ -1,1 +1,0 @@
-Do you do any performance testing in any repeatable and automated way? Do you trigger it as a part of CI builds? What tools do you use? How do you spot changes in trends? I'm looking for how-tos and description of working set-ups for end-to-end automated performance testing approaches.

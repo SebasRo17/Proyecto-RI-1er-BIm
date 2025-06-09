@@ -1,1 +1,0 @@
-started using codeigniter wondering anyone know download pre made view example right looking admin interface could write feeling lazy place get pre made template like cm thanks

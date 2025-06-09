@@ -1,1 +1,0 @@
-i want to establish Android in our company. Since our company doesn't want our future internal Android Apps distributet to the Google Android Market i would need to setup an internal market. But i can't find any resources. Maybe someone here knows more!

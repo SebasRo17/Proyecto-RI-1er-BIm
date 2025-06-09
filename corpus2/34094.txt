@@ -1,0 +1,1 @@
+Integrate[1, {z, 0, 5}, {x, -Sqrt[ 9 - y^2], Sqrt[ 9 - y^2]} , {y, -3, 3}]       > 60 Sqrt[9 - y^2] How comes I am not getting a number for my final answer? This triple integral should evaluate to an exact number.

@@ -1,1 +1,0 @@
-I have a bit of experience with loop invariants but I'm not really clear on them. I'm trying to learn them through an example in Python. Can someone point one out or help me understand? I've searched both on programmers.SX and on the web but the only things I could find were invariants and design by contract -- nothing on loop invariants.

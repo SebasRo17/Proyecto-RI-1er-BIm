@@ -1,1 +1,0 @@
-The C standard states that if an attempt is made to change a const type,the result is implementation defined.This gives error on my system,but what does it depend on(compiler,os)? What are the possible results(implementation defined) on various machines?

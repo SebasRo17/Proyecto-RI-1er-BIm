@@ -1,1 +1,0 @@
-![enter image description here](http://i.stack.imgur.com/GtimL.jpg) Given X number of leaves (the ringed leaves in the picture) in an unbalanced tree with depth aroun 100-1000 and total number of nodes around 15 000 000. I'm looking for the first common ancestor for those leaves. What is the most efficient way to achieve this?

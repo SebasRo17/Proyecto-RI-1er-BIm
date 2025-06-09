@@ -1,1 +1,0 @@
-In a Web API 2 project, in the project properties, I have enabled the output of an XML documentation file. By default, Visual Studio 2013 wants to check this into TFS. I'm pretty sure that I'm going to exclude it, but wondered what the general opinion is on this?

@@ -1,1 +1,0 @@
-Since the methods of the class will only work if the user is logged in, is it right or is there some problem that might make my code slow/inneficient?

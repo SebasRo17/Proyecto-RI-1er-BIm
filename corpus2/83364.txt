@@ -1,1 +1,0 @@
-How does Facebook calculate mutual friends? Does it cache all mutual friends for each user? Does it use MySQL to calculate mutual friends with a query?

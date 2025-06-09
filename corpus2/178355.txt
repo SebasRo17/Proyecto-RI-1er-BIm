@@ -1,1 +1,0 @@
-Are there any common practises for commenting the regular expressions: inline comments referring different part of RegEx or general comment for all expression?

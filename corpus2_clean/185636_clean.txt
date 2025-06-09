@@ -1,1 +1,0 @@
-good idea bad idea create interface transfer object presuming usually mutable though example applicable language similar concept interface getname setname implement getname setname course simplified example real life may field

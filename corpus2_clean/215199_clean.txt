@@ -1,1 +1,0 @@
-working winforms net recording app bll listen new event captured another want display event ui stuck best way think scenario handle seem sub optimal num listen handle recorded event ui num receiving event raise ui pick num create e g ui bind update event received num ditch put event recording logic ui best approach something something else

@@ -1,1 +1,0 @@
-I have the following:               html {     overflow-y: scroll;     }          body {     font-family: Georgia, "Times New Roman", serif;     font-size: 1.125em;     line-height: 1.5em;     margin: 0 auto;     max-width: 41em;     }      Which attributes should be with the HTML section, and which within the BODY section?

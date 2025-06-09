@@ -1,1 +1,0 @@
-I've done quite a lot of javascript over the years and I'm using a more object-oriented approach, specifically with the module pattern. Which kind of approach do you do use to avoid a bigger code-base to becoming spaghetti. Are there any "best approach"?

@@ -1,1 +1,0 @@
-loginuser email password remember application layer model layer remember need create persistent user login cookie client browser since responsibility view good way reaching view controller let know create cookie

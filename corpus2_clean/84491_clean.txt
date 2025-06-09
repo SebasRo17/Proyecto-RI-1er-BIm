@@ -1,1 +1,0 @@
-implement new feature fix bug usually try recreate situation test sometime spend around num hour coming fixture writing test actual feature implementation bug fixing take less num hour anyone else spend least num time longer write test compared actually implementing feature fixing bug acceptable ratio time spent writing test writing

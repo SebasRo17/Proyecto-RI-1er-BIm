@@ -1,1 +1,0 @@
-practicing behaviour driven development bdd understand write test test behaviour allow design evolve take shape bdd find need refactor better design refactor happens involve extracting new start writing test new test needed since implementation detail behaviour already tested existing test coverage

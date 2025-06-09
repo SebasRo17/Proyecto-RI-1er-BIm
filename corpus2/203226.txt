@@ -1,1 +1,0 @@
-I want to log every function call and parameter value in my C++ app. Is there a generic approach for this task ? (3rd part library, **VAR_ARGS** etc.)

@@ -1,1 +1,0 @@
-I solve many problems, mostly from Top Coder. I will get answers for many, but most times I end up with an inefficient solution. In real-world implementations - does it really matter that a solution to the problem is efficient? If so how I can improve it?

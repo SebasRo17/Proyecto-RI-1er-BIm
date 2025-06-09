@@ -1,1 +1,0 @@
-I'm a undergraduate in my 3rd year of a Software Engineering degree. From this year on, my university has introduced a new course called 'Compiler Constructions', which teaches you the basics of the theory of building a compiler. What would be the real world advantage for a Software Engineer of learning about compiler construction?

@@ -1,1 +1,0 @@
-similar question asks whether computer learn play optimally chess analyzing thousand game machine look state board game chess game checker beginning move programmed learn rule game extent e g would able account castling promotion would work machine learning algorithm would make possible

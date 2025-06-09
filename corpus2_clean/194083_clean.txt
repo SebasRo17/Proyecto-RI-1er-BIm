@@ -1,1 +1,0 @@
-asp net mvc4 web application use ienumerables trying follow mantra program interface implementation ienumerable student v new list student people telling use list ienumerable list force query executed really best practice alternative feel strange using concrete object interface could used strange feeling justified

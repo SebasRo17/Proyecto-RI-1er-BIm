@@ -1,1 +1,0 @@
-id field always needed database table case user firstname lastname email field email unique could used id right case could try remove id also want another table extends one let say called patient field would like link relationship email user mentioned relationship num num right need id somehow mysql workbench want use id guy think suggestion topic

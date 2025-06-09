@@ -1,1 +1,0 @@
-anyone know create algorithm capable making figure like picture given set specific point 3d enter image description

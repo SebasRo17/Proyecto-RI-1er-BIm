@@ -1,0 +1,1 @@
+Given the function `f[x_] := x^2`, how can I plot `f[x]` over the region where `f[x] >= 10` and `x ∈ [-5 to 5]` without solving the inequality `f[x] >= 10`?

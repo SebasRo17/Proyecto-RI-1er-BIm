@@ -1,0 +1,1 @@
+Working on a CDF for report creation, I miss having a nice grid interface, where I would have basic operations like being able to sort a columns by clicking on the columns head (ascending and descending), or maybe group and ungroup data. This is a great example of what can be done in _Mathematica_ , but the code is not avaliable.

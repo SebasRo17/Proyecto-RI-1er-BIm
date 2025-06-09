@@ -1,1 +1,0 @@
-I have seen the Carnegie Mellon site covering TSP. I am looking for a practical, non-academic guide to application of TSP in the real world. I would really like to know, how does TSP reduce bugs?

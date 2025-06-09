@@ -1,1 +1,0 @@
-Do you write your code differently when you need to hand it over to a customer?   How does one balance the delivery of good code while at the same time not handing over too much "intellectual property"?

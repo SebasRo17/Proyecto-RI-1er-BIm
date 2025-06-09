@@ -1,1 +1,0 @@
-I'm have been doing some research into making code more testable and modular, but after reading alot about AMD based JavaScript, it doesn't appear to fit the needs of a static website. Is this assumption correct? Is AMD based development geared more toward highly interactive web applications that simple websites?

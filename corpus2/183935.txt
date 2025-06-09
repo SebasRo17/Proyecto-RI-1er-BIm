@@ -1,1 +1,0 @@
-If I wanted to make a suggestion to a change to how the `UPDATE` statement works in `SQL`, how would I go about it? Is there a website for the next standard? I googled, but just kept getting the Wikipedia page.

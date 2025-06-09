@@ -1,1 +1,0 @@
-given device basically keyboard report keyup keydown may efficiently store retrieve information key currently depressed first thought dynamic maintaining searching dynamic seems like serious drain resource many thanks advance help joe

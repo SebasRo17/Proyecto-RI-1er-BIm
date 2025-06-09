@@ -1,1 +1,0 @@
-In the .NET Framework, at least in the C# language, we have two "versions" of the string type:   * "string"   * "String" It appears that they are interchangeable, but are they really? If they are not interchangeable, is it generally better to use one instead of the other, and under what circumstances?

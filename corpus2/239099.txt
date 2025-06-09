@@ -1,1 +1,0 @@
-Sometimes I see people writing variable names like this: > int _variable; IMO That's really ugly. What's that about?

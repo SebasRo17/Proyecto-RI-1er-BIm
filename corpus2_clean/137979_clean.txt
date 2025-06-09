@@ -1,1 +1,0 @@
-working mvc ish app experienced mvc hence ish model access layer hard test tightly coupled trying uncouple nature relationship model know dal dal know model model dal listener specific case web application model client side javascript accessed back end using ajax persistence back end currently php mysql may switch gae

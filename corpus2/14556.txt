@@ -1,0 +1,1 @@
+I would like to know whether there is a way to insert a plot into another plot. I would like to do some plot from a function an then, inside this plot, in the right down corner add a smaller plot of the same function covering a smaller region. I tried with Epilog but it's not possible that way, it gives me a fail Thanks in advance!

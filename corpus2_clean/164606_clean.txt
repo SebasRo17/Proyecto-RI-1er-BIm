@@ -1,1 +1,0 @@
-noticing long time stack overflow user recommend use pdo instead mysql pdo secure mysql question website already running mysql stop working exactly deprecating mean never used mysql php version deprecated

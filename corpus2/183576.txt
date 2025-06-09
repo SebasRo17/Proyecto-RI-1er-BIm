@@ -1,1 +1,0 @@
-Stumbled upon this post that talks about making async web requests. Now simplicity aside, if in real world, all you do is make an async request and wait for it in the very next line, isn't that the same as making a sync call in the first place?

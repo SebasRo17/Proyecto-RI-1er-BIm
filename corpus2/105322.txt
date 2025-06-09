@@ -1,1 +1,0 @@
-I'm looking for a free (or if there is none, then paid too) software that could aid estimating the effort to create a software using object points. If anyone knows any other software that is able to aid cost estimation (and it's quite fast and reliable) then I would also be happy to hear about it. :)

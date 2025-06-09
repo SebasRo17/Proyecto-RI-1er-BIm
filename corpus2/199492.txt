@@ -1,1 +1,0 @@
-Instead of programming the way we do, why don't we make specifications of common tasks such as "sorting", and then let the environment compile it to make best use of it's hardware? This way, we could ship computer with new specialized hardware such as sorting networks, and it would automatically work with existing code.

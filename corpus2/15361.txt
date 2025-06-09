@@ -1,0 +1,1 @@
+The following input               Assuming[        (n ∈ Integers) && (n > 0) && (k ∈ Integers) && (k >= 0) && (k <= n),         FullSimplify[Binomial[n, k]/Binomial[n, k + 1]]     ]      returns               Binomial[n,k]/Binomial[n,k+1]      Why does it not give               (k+1)/(n-k)      and how do I make it do this?

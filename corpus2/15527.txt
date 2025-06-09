@@ -1,1 +1,0 @@
-How often do you or have you seen meta-programming be used in projects? In uni I've never seen this be applied, but I've seen this on my previous job (when I saw it I was blown away of how effective it was). But how common is it? Is it used all the time, or just occasionally?

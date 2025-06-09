@@ -1,1 +1,0 @@
-As we all know, there is 'alpha', and 'beta' release status. Mozilla Firefox, however, labels its releases differently: 'nightly', 'aurora', 'beta'. Is this an example to follow? Is aurora the new alpha? Does it create confusion, since it is basically public beta testing with a cool name and cool icon?

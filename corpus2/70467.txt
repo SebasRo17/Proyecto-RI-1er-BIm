@@ -1,1 +1,0 @@
-What is the best book for beginning Perl? Where to learn Perl from the basics? I only know bash/Linux at an intermediate level. I would like to learn Perl because it has the same syntax on every operating system unlike some shell scripting languages.

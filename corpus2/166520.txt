@@ -1,1 +1,0 @@
-I have one question in my mind that in case of circular doubly linked list the head pointer of the doubly linked list also logically point to the next pointer of the tail node of the linked list and tail's next pointer also point to the previous pointer of head. Please Answer me this question I am a bit confused.

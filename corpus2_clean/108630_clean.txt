@@ -1,1 +1,0 @@
-studying design pattern came accross fly weight pattern trying see opportunity use pattern application trouble seeing use also sign fly weight pattern used read people according definition say use sharing support large number fine grained object efficiently read right dictionary hashtables could instance fly weight correct thanks advance

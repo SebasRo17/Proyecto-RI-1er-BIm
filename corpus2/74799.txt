@@ -1,1 +1,0 @@
-I just stumbled upon a question at SO about PAC and got interested in the pattern. I'm wondering why it's not as widely used as MVC? What is the MVC benefits compared to PAC?

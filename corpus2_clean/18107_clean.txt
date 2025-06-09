@@ -1,1 +1,0 @@
-looking something along line kind uml diagram type use case diagram particular example service would accept plain text user actor admin actor register usecase user post usecase user admin post poll usecase user admin extend post get corresponding image without worry laying result

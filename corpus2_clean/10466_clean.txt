@@ -1,0 +1,1 @@
+trying find function fit almost linear data high order polynomial model much residual hoping use mathematica fit spline curve would like see example findfit spline function get model stats like linearmodelfit provides dump spline term control point implement c use cubic spline embedded platform get symbolic representation function implement get sample data

@@ -1,1 +1,0 @@
-maybe simple think every time build new application current user application orm user table usually something like currentuser logged user stored session info last activity etc user orm c ef codefirst matter yes could different namespaces really like

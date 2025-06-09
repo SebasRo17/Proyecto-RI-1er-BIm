@@ -1,1 +1,0 @@
-I've seen code merges being used as an argument for bracing even single statement ifs. For example:               if (condition) {         do something;     }      Unfortunately I can't think of a change that would break a non-braced version during an automatic code merge. Could someone post an example?

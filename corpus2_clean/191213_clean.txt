@@ -1,1 +1,0 @@
-design pattern practice recommended business layer dealing multiple api version example something like num call business count get information num call business v2 since parameter changed created another business version num one example could breaking change requires create another support version design pattern best practice business access layer follow supporting api versioning

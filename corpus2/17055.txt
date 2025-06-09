@@ -1,0 +1,1 @@
+In reading Michael Trott's Visualization of Riemann Surfaces of Algebraic Functions, he has:               ParametricPlot3D[{r Cos[φ], r Sin[φ], Sqrt[r] Sin[φ/2],        SurfaceColor[Hue[φ/(4 π)]]}, {r, 0, 1}, {φ, 0, 4 π},       PlotPoints -> {20, 60}, Boxed -> False, Axes -> False]      How would you do this coloring now in _Mathematica 9_ ?

@@ -1,1 +1,0 @@
-Whenever the question comes up on which Agile tool to use use there always some people that answer "don't use an electronic tool because you will lose the big-visible-board advantage which better generate team conversation". Is this always the case or are there any contexts where an electronic tool is a better choice? What are some of the pros and cons of each approach?

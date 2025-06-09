@@ -1,0 +1,1 @@
+I know how to type a fraction as you would write a fraction in Mathematica (9). How do you type `Binomial[n,k]` as $\binom{n}{k}$ in Mathematica? Is there a single reference page that contains all the Mathematica operations like this, that you can type in math notation?

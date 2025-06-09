@@ -1,1 +1,0 @@
-coding low level language like c find casting sometimes mean reinterpret byte always time convert intelligently original meaning word consistency expect conversion expect raw

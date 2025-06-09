@@ -1,1 +1,0 @@
-I'm looking at entering the Infobright Coding Competition. They ask for public machine-generated data. I don't want to create my own. Anyone know where some exists? Here's what I'm looking at: http://www.infobright.org/contest/2011q1.

@@ -1,1 +1,0 @@
-Simple question, what's more common / standard / won't make future developers look at me cross-eyed for unit testing: Displaying just the errors, or reporting every passed test?

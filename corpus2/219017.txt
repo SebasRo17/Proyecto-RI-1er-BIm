@@ -1,1 +1,0 @@
-Stack for different thread is different.but what about Heap. If Heap is different for different threads, then how they share objects?

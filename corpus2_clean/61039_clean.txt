@@ -1,1 +1,0 @@
-regarding pointer member class smart pointer enough simply deal destructor contained

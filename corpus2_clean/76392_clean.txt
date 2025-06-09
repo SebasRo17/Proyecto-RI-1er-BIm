@@ -1,1 +1,0 @@
-read following msdn use pascal casing public member namespace name consisting multiple word note rule apply instance field reason detailed member design guideline use public instance field use camel casing parameter name well say apply instance field applies instance field know use correct convention guess would pascal sure

@@ -1,1 +1,0 @@
-resizing image based non integral conversion factor bmp image fact understand resizing work non decimal number instance factor num would simply write individual pixel twice file really write num pixel factor say num conceptually might play

@@ -1,1 +1,0 @@
-best php handling way php convert php error warning notice etc exception best way practise handling overuse exception e try catch many situation think application halted unnecessary simple checking use may cluttering coding many else condition guy suggest

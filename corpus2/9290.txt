@@ -1,1 +1,0 @@
-A quality what I would like to develop is to write more concise code. With writing more concise, at least in my opinion, the opportunity to add bugs to the code is smaller. It is easier to read the code for other. My question is if it is something that just comes with experience or is it something you can do explicitly for developing that quality?

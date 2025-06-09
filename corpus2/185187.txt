@@ -1,1 +1,0 @@
-I wish to simulate a projector screen in OpenGL, where an image is truly being projected onto the wall in real time. By this I mean if an object were to get in between the projector and the wall, that portion of the image will appear on the obstructing object. Is this functionality possible in OpenGL? And what technolgies/libraries can I implement to facilitate this development?

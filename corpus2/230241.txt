@@ -1,1 +1,0 @@
-Is there any situation in industrial object-oriented programming when the dependency inversion principle should not be used?

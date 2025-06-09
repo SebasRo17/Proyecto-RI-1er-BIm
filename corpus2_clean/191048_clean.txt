@@ -1,1 +1,0 @@
-building api want count hit user http api implemented could keep count database using postgresql busy api want overhead db looking redis writing plain text log better approach map tile service burst hundred hit per sec want report usage per month user keep total count hit

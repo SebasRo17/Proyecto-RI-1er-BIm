@@ -1,1 +1,0 @@
-I am confused about this: what type of data can we store in register variables? I guess logically we can store any kind of data as register variables because they are variables, but really I am confused. I have tried to search on internet and in my book. I couldn't find the answer. By book I am referring to ANSI C's programming book.

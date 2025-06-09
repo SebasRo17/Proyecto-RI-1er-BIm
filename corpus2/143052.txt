@@ -1,1 +1,0 @@
-I have a Swing application with a custom TreeModel that can refer to domain instances. I'm wondering what changes I could make if I consider moving to a web interface later on. Would a pluggable model be considered as good design? What would you do?

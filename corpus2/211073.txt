@@ -1,1 +1,0 @@
-In C and C++, the main method holds the filename in the first position of the array at argv[0]. In Java, however, the filename is not included in the args string array. Is there a practical reason for this? I understand that this makes iterating through command line arguments 0-based instead of 1-based, but is there a benefit? Was the filename just deemed to be useless?

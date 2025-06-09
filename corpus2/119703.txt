@@ -1,1 +1,0 @@
-When should I used interpolation search instead of binary search? For example, I have a sorted dataset, in what situations would I use binary search to find an item in this dataset or in which situation should I used interpolation search? What properties of the dataset would be the determining factor?

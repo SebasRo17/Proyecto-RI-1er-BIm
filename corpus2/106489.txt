@@ -1,1 +1,0 @@
-Are there any design patterns to compose views within a parent view during runtime? Say we are composing the views in a workflow tab and views in the tabcontrol depend on the country, store type and/or other conditions. This is a MVP, WPF, PRISM application.

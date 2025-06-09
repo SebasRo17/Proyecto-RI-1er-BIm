@@ -1,1 +1,0 @@
-large file function function responsible drawing particular part application app x parameter use setup move whole app around order try different placement naturally need use x value anchor component rendering everything move global x value ever change question bad practice architecture x value global namespace directly access like var x app x var app drawing better way missing

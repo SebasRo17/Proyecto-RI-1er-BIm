@@ -1,1 +1,0 @@
-Do you know any good example of Python unit testing code for testing an API? Thanks! **Update** :   * Found this very interesting question: http://stackoverflow.com/questions/7336101/testing-rest-api-with-database-backend   * I am especially looking for examples to test a CRUD API

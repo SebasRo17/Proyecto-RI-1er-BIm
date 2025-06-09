@@ -1,1 +1,0 @@
-I do not understand how BTP differs from BP? Yes I understand BP evaluates whether a conditional is true/false, but surely implicitly this also determines the "target" instruction? If I predict the first branch of an IF to be true, then surely I have just determined the branch target too (the code within the predicted IF branch)??

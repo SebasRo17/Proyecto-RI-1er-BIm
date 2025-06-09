@@ -1,1 +1,0 @@
-simple mvc project current package gui controller db domain want put extra class use e g md5 hashing email validator method use one put probably use one package two three model sure create extra package put domain static

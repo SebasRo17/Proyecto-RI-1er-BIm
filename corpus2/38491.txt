@@ -1,0 +1,1 @@
+I want to plot the overlapping regions of several inequalities. For example, `RegionPlot[{x + y > 0, x - y > 0, x^2 + y^2 < 1, x y < 1}, {x, -2, 2}, {y, -2, 2}]` The regions for the inequalities can overlap twice, three times, and so on. I want to make a plot in grayscale, such that the more times they overlap, the darker the region is. Is there a way to do that?

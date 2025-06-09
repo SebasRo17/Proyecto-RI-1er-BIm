@@ -1,1 +1,0 @@
-I know this is common question, but why should a programmer be aware of software licenses as well as extensions and plugins licenses? I'm working in a company which focuses on the business process (Ruby on Rails) and I'm curious as to why they are strict on such licenses in the project development. What licenses should I be aware of and why?

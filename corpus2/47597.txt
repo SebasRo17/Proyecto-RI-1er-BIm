@@ -1,0 +1,1 @@
+Surfing on the web, I came upon this cool gif: ![enter image description here](http://s6.pikabu.ru/post_img/2014/05/10/7/1399712484_969112766.gif) Does any one know how to reproduce this in Mathematica? I have some ideas myself, so I will try to answer this question as well.

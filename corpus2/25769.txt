@@ -1,0 +1,1 @@
+What does the function `Internal`InheritedBlock` do? How is it different from the regular `Block`?

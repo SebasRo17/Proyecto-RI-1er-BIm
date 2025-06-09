@@ -1,0 +1,1 @@
+The expression $\sqrt{L^2 M+\sqrt{L^2 (-J^2 + L^2 M^2)}}/\sqrt{2}$，can be simplified into $\sqrt{L}(\sqrt{LM + J}+\sqrt{LM - J})/2$, but how can I obtain this result with _Mathematica_? That is, how can I simplify               Sqrt[L^2 M + Sqrt[L^2 (-J^2 + L^2 M^2)]]/Sqrt[2]      into               Sqrt[L]/2 (Sqrt[L M + J] + Sqrt[L M - J])

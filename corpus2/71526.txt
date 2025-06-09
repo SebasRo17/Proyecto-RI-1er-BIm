@@ -1,1 +1,0 @@
-I have personally never done this. I don't understand why so many sites do, if you do your development on a development server why would you ever need to shut down your production site? I have always wondered about this. What are they doing during this time, what requires doing this?

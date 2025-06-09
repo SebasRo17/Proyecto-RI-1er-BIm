@@ -1,1 +1,0 @@
-I know what recursion is in programming. I do understand the basics of version control systems (have used svn that is). But I have often wondered what the meaning of "recursion" or "recursive" is with respect to version control systems. What does a function calling itself have to do with working with files and directories in a version control system?

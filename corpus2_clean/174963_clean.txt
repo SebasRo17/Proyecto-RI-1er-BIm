@@ -1,1 +1,0 @@
-know operating system facilitate inter process inter thread sharing want know mechanism used facilitate sharing read pipe way

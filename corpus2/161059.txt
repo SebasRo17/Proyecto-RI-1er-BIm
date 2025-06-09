@@ -1,1 +1,0 @@
-I know in some areas (game industry, for example), STL is not recommended. So my question is: is it really a good practice not to use STL in some cases? If so, what's the biggest reasons of not using the modern C++'s STL?

@@ -1,1 +1,0 @@
-I was reading about memcache and one of the questions that I have for this moment is about 'measuring database load'. In this tutorial they are talking about a 'database load of 20'. How can I measure the database load of a web application?

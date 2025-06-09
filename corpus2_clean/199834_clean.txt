@@ -1,1 +1,0 @@
-want understand architecture web apps use subdomains think phrasing well let explain many web apps like tumblr shopify create user site subdomain say example tumblr account johndoe could find tumblr blog johndoe tumblr com someone explain implemented

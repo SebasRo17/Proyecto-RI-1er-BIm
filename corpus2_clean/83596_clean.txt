@@ -1,1 +1,0 @@
-starting think lot table could replaced graph db example num table account vote post relationship represent graph table different edge node1 relation node2 account vote num post account wrote post account friend difference performance

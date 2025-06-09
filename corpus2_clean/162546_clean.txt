@@ -1,1 +1,0 @@
-many byte occupies assume 64bit machine also assume n element element would take num n num n num n byte different type lecture coursera say would occupy num n num num n num num n num byte n element num byte called overhead explain overhead needed also object overhead num byte exactly overhead num num byte composed also overhead exist c c

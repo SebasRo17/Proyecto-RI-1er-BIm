@@ -1,1 +1,0 @@
-I was reading a question on stackoverflow where the code was interspaced with Russian comments and I came to wonder; how do programmers who use non-latin keyboards work? Do they keeping switching keyboard layouts in the OS or use separate keyboards? And why do they really bother switching just to write one- liner comments?

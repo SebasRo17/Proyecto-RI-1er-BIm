@@ -1,1 +1,0 @@
-I've never written programs which make significant use of logging. The most I've done is to capture stack traces when exceptions happen. I was wondering, how much do other people log? Does it depend what kind of application you are writing? Do you find the logs actually helpful?

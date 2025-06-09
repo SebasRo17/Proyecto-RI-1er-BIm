@@ -1,1 +1,0 @@
-use case pipeline independent stand alone program want execute certain order specific piece previous pipeline stage pipeline entirely linear anything term alternate path pipe currently using work ok however occasionally job memory bound fail job require fail pipe need restarted case seems whatever providing fault tolerance akka might solve

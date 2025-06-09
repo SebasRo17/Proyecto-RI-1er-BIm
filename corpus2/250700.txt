@@ -1,1 +1,0 @@
-We recently had to re-invent a high-availability queueing engine like RabbitMQ (for various reasons). Naturally this turned out to be more time consuming and expensive than expected. What type of things would you avoid rebuilding at all costs? Which types of components should rather be reused?

@@ -1,1 +1,0 @@
-I don't know if it's just with me, but when I start refactoring some code I waste a lot time doing that and it never ends. Every time I read the code again, I find something that can be improved, code refactoring is like my brain into a infinite loop and the end conditional is reached randomly with no satisfaction. So, how much time should I dedicate to refactoring my code?

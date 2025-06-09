@@ -1,1 +1,0 @@
-How does the web app http://20q.net work? Can I write a similar program, in a smaller scale, and if yes how?

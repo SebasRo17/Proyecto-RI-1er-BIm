@@ -1,1 +1,0 @@
-I'm asking because approach in my company looks as follows:   * stories in the backlog are not estimated   * team that picks the story estimates it in story points during sprint planning part two

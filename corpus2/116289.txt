@@ -1,1 +1,0 @@
-I am trying to solve programming challenges on www.interviewstreet.com using PHP. Are there certain techniques I should keep in mind that will optimize the efficiency of the algorithm? For example, I read that using PHP's language constructs versus function calls are faster. Is this true? Any other tips?

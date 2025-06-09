@@ -1,1 +1,0 @@
-I have developed a library at my former employer. After my employment ended, I got to take the library with me. Does the Apache v2 prohibit renaming packages as long as I keep the license header intact?

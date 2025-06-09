@@ -1,1 +1,0 @@
-working git workflow implement small team core idea workflow shared project master team member write development done exclusively feature branch feature branch reviewed team member branch author feature branch eventually merged shared master cycle start article explains step cycle detail workflow md make sense missing something

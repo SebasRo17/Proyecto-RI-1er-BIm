@@ -1,1 +1,0 @@
-found freetype gl library want use new bsd license like use closed source commercial project

@@ -1,1 +1,0 @@
-If I create a game in C++ on a mac using a library which is the same for both windows and osx, will the game be playable on both windows and os x or it will only work in os x because I done it in Xcode? Is SDL a great library to do your first game after learning the basics and syntax of C++ (I found syntax to be close to Java)?

@@ -1,0 +1,1 @@
+In geospace, how do I find coordinates of the vertices of an equilateral triangle whose vertices have integral coordinates? How do I tell _Mathematica_ to do that?

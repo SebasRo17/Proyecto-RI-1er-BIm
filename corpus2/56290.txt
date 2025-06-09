@@ -1,0 +1,1 @@
+I have outputs like "expression/(1+3*c^2) +anotherexpression/(1+3*c^2)" and so on. Is there any way to set 1/(1+3*c^2)=A where A is a new variable so that the output reads like "A*expression+A*anotherexpression"? Thanks

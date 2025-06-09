@@ -1,0 +1,1 @@
+Is it possible to use the widget created by `Manipulate` within `GUIRunModal`? I intend to run the file using `MathematicaScript -script <filename>`.

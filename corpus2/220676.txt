@@ -1,1 +1,0 @@
-Why does Mono for Android cost money if the mono project is opensource and therefore everything based on it must be opensource?

@@ -1,0 +1,1 @@
+How do I go from `{C,4,G,5,S,7}` to `C4G5S7`

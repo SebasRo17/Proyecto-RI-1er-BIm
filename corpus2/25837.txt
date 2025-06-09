@@ -1,0 +1,1 @@
+Consider               AbsoluteTiming[Range[10^7];][[1]]      > 0.035000 and               AbsoluteTiming[HoldComplete @@ Range[10^7];][[1]]      > 0.725000 Why it takes twenty times longer to change head than to create a list? Since `HoldComplete` doesn't evaluate arguments one would think that head changing should be fast.

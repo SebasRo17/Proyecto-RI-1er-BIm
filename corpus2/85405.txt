@@ -1,1 +1,0 @@
-For testing and running some very intensive C++ number crunching applications, we need to apply for supercomputing time. I would like to get feedback and opinions from you; which calls do you follow, which supercomputing centers do you apply to, etc. As of now I only know DEISA in Europe.

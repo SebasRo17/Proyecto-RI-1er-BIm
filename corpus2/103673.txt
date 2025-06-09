@@ -1,1 +1,0 @@
-I am trying to understand things like linkers and loaders better. What area of computer science do they belong to? Compiler, Operating System, Computer Architecture? Where do linkers and loaders come into play during development?

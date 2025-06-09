@@ -1,1 +1,0 @@
-I'm a little bit confused about these two terms "Linq to SQL" and "Entity Framework". I have the general idea that both of them somehow allow you to refer to database tables as .net objects or something of the sort, but please explain to me the difference between these two terms.

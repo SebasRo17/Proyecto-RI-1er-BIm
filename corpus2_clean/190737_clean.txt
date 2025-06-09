@@ -1,1 +1,0 @@
-web application backed database hosted amazon ec2 internet need allow internal user able continue work somehow update hosted service internet available possible would design solution

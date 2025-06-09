@@ -1,1 +1,0 @@
-working networking site need reload notification div every second wanted know good bad load every second divs also loading every num num second cause problem like hanging slowing etc reloading done ajax var auto refresh setinterval load php load header php num

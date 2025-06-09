@@ -1,0 +1,1 @@
+Just as a simple example, say I wanted to solve Sin[x] == a for x with the constraints -1<=a<=1 and 0 < x < Pi. Is there any way to do this?

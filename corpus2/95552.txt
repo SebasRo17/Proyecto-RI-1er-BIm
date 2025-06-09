@@ -1,1 +1,0 @@
-I've read that Facebook uses this technique DB sharding to manage its data volume and that the idea of cloud computing is elastic resources. So I'm wondering does the cloud instance take care of sharding for you automatically? Or do you still have to do that part manually? And if you do have to do it manually - then the DB doesn't seem very elastic to me.

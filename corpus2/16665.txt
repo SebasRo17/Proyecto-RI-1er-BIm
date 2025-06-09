@@ -1,0 +1,1 @@
+I try to edit `InputField` while using `EventHandler`'s `MouseClicked`, but the `InputField` is not editable. I tried like this `EventHandler[InputField[Dynamic[s]], {"MouseClicked" :> (Print[1])}]` When i Click on `InputField` it print 1 but the `InputField` is not editable.

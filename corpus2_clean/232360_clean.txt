@@ -1,1 +1,0 @@
-always used repository pattern application seen many people use facade instead repository naming convention operation think difference real difference

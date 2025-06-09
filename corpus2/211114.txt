@@ -1,1 +1,0 @@
-let's say you have a class diagram http://i.stack.imgur.com/gpb55.png and you would like to start a class library project in visual studio to act as BLL to convert this diagram into actual code files. how would you structure your BLL project (in the solution explorer), how would you organize classes files and thier hierarchy?

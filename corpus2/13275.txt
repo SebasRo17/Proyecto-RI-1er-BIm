@@ -1,0 +1,1 @@
+Consider for example this strange behavior:               Integrate[1/x, {x, 0, Infinity}, GenerateConditions -> False]     (*0*)      I'd also like to know the difference between `GenerateConditions -> Automatic` and `GenerateConditions -> True`.

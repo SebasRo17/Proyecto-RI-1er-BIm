@@ -1,1 +1,0 @@
-I have a database table with many columns, that I want to display over several pages, similar to a turbo tax style information collection form. With only 1 or 2 items per page. Is it right to create 1 model, then a viewModel with only certain properties per ViewModel for each section I want to create in this workflow?

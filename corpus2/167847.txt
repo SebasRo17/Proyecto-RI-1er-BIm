@@ -1,1 +1,0 @@
-I have been reading about the MIPS architecture and learned that it has been used a multiprocessor architecture in the past. Is anyone presently using it in a multicore SoC?

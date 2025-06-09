@@ -1,1 +1,0 @@
-I'm trying to solve a complex bug in our codebase , but the problem seems to be coming from a lot of places to the point that i dont know what to change first . do you have any procedure or guidelines todo in such a situation ?

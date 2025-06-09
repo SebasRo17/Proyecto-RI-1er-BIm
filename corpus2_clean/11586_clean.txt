@@ -1,0 +1,1 @@
+somewhat large number dimensional unit vector unit vector trying visualize distribution first thing tried listplot look good would like make density plot surface unit sphere using data example sphere would bluish region little point reddish region many point use color want mathematica

@@ -1,0 +1,1 @@
+I try to export two grid in a same xls file, naming the sheets. This is an exemplification of my issue, and it doesn't work.               m = Grid[Table[i - j, {i, 3}, {j, 4}]];     Export["m.xls", m]      it works correctly, but if I try this code, naming the sheet, it doesn't work               Export["m.xls", {"MySheet" -> m}]      Thanks

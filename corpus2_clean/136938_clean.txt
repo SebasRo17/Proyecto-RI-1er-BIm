@@ -1,1 +1,0 @@
-model defined first controller fired based user request generate view c v right

@@ -1,1 +1,0 @@
-clojure doc regarding reduce f val coll state val supplied return result applying f val first item coll applying f result 2nd item etc tried reduce str s1 s2 s3 lead s1 s2 s3 however try apply str s1 s2 get vector get converted representation

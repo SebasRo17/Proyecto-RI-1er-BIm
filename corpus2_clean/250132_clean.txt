@@ -1,1 +1,0 @@
-say following type num based index start end frequency character start end num entry list letter using store regarding frequency character position word want save file safe guaranteed corrupt written without convert structure using show read using something like readdata readfile filepath let reconstructed read readdata asking seems easy typically done

@@ -1,1 +1,0 @@
-object represent hierarchy relationship example person spouse spouse contact spouse address person contact person address item listed database table related table id parent id spouse id spouse address record base id person example given hierarchy arbitrarily deep wide would design object access layer

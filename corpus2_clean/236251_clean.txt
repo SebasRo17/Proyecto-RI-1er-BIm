@@ -1,1 +1,0 @@
-mark sweep compact garbage collection algorithm stop world relocating object reference graph becomes inconsistent replace value reference pointing hash table id key pointer reference would point said id instead address fixing reference would require changing one pause would needed tried written copying mistake thought

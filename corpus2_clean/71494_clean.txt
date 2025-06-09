@@ -1,1 +1,0 @@
-understanding partial keyword nothing allow split several source file reason organization seen used generated ui class seems poor reason create whole keyword big enough require multiple file probably much thought perhaps could use partially define another programmer somewhere complete would better make abstract

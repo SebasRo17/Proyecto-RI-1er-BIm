@@ -1,1 +1,0 @@
-Publish-subscribe and Reactor patterns looking very similar to me. How they are different? In both patterns a message is getting passed to subscribers indirectly (listeners in reactor pattern). I feel observer pattern is very similar to two other patterns too. What are key differences between those patterns?

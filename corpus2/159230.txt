@@ -1,1 +1,0 @@
-I'd like to find a way to call Javascript functions from C. Are there any language bindings available for this purpose? I'm trying to make a library of Javascript functions accessible from C. (Something like a C -> Javascript foreign function interface would be suitable for this purpose, but I haven't been able to find one so far.)

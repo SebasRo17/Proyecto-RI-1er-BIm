@@ -1,1 +1,0 @@
-php engine interprets php perfectly capable working socket forming http packet etc need separate apache server http serving duty could embedded php application along page creation

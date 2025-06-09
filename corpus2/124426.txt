@@ -1,1 +1,0 @@
-So I need to make the interface of a Java-database application a GUI. We coded the project in Eclipse, and I am going to import it into Netbeans. In Netbeans there's a great GUI builder, but I'm unsure about how to go about this.

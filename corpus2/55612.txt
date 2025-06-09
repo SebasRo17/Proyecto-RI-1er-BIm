@@ -1,0 +1,1 @@
+Is there a way to add elements to a list at positions outside the current list's length? Something equivalent to the following MATLAB code snippet:               x = [1,2,3];     x(5) = 5      which returns:               x =               1     2     3     0     5

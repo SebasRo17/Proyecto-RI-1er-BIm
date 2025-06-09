@@ -1,1 +1,0 @@
-After googling for a couple hours, I came to a conclusion that all sorting algorithms are inherently sequential which can be data distributed but not task distributable. Is there any algorithm which is not inherently sequential and is task distributable?

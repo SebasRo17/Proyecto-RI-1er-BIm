@@ -1,1 +1,0 @@
-trying create localized application c wpf visual studio num created two resource file changed one xaml window use resource file instead hardcoded see english text resource file correct however want check resource file fr fr also work cannot find setting procedure change project french thanks advance

@@ -1,0 +1,1 @@
+I have a list of two dimensional points that are ordered by their x-coordinate. I would like to calculate the slope between all adjacent points. I'm familiar with the use of pure functions in Sort for example that can compare adjacent elements. Is there a way to perform a function on all adjacent elements in a list?

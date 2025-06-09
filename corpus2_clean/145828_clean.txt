@@ -1,1 +1,0 @@
-new opengl c wanted know pre existing opengl library would allow import 3d 2d model example make 3d image using photoshop 3d model using 3d max could use library opengl example real 3dmodel would importing image difficult would make really good programmer wanted see difficult would another question difficult would easier using opengl another language example opentk c

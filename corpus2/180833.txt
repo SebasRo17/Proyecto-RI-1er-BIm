@@ -1,1 +1,0 @@
-I was using this feature in earlier Windows release like XP and NT. I was able to run a GUI from a Windows service. But it is not possible in the later versions. What is the reason behind the removal of this feature? Why can't Windows services have a GUI?

@@ -1,1 +1,0 @@
-Does anybody know what application is used in some presentations in TechEd, PluralSight, etc? It looks like the following: ![enter image description here](http://i.stack.imgur.com/qGtHe.jpg) but it also allows drawing arrows to emphasize on something, rectangles, etc?

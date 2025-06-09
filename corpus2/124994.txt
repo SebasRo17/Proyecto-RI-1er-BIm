@@ -1,1 +1,0 @@
-I understand that all PHP variables need to be preceded by a dollar sign (e.g. `$someValue = 1`), but why is this the case? Why was this design choice made? The reason I ask is my girlfriend asked why when I mentioned that PHP variables need to begin with a dollar sign, and I realized I had no idea why this syntactic choice was made. Any ideas?

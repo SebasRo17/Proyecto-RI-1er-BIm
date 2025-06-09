@@ -1,1 +1,0 @@
-What is preferable when you program an API? And I have to add that in my case there will be two events exposed in spite of everything.

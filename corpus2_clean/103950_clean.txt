@@ -1,1 +1,0 @@
-project want develop web application window azure platform using c language idea host website university cloud whenever announces online spike cloud handle peak usage scalabilty load balancing property deploy necessary resource however since handled azure internally way demonstrating project way specifically implement something demonstrate evaluator virtual way perhaps

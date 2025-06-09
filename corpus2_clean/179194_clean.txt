@@ -1,1 +1,0 @@
-let say web service poorly written inefficient cached bottleneck leave would go far take deliberate shortcut knowing performance problem masked

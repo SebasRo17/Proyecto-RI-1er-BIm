@@ -1,1 +1,0 @@
-I'm fairly new to Visio, and was wondering if there's a way I could auto- generate the code from Visio diagrams. I was looking to generate either C# classes, SQL statements for building the database layer, or EntityFramework objects. I am using MS Visio Professional 2010

@@ -1,1 +1,0 @@
-I find git hard to understand as I could not find the meaning of the words used for the actions. I have checked the dictionary for the meaning of 'stage' and none of the meanings were related to source control concepts. What does 'stage' mean in the context of git?

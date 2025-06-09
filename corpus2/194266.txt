@@ -1,1 +1,0 @@
-Right now we have our administrative features located at www.mysite.com/admin. It is locked down by UN/PW but it still seems like an insecure place to have it. Is there a better place to put it? Perhaps at another domain?

@@ -1,0 +1,1 @@
+Does anyone have codes for using only numbers to make this kind of random- number visualization and not requiring a number generator? http://demonstrations.wolfram.com/PoorStatisticalQualitiesForTheRANDURandomNumberGenerator/ http://en.wikipedia.org/wiki/Spectral_test

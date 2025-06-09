@@ -1,1 +1,0 @@
-functional language definition maintain state variable haskell clojure others provide software transactional memory stm implementation conflict two approach

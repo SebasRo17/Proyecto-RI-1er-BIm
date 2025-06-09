@@ -1,1 +1,0 @@
-reading database testing phpunit exactly sure purpose use test schema e g unique email column ensure allow duplicate email address put test anything else reading documentation blog post etc trying get head round also 2am perhaps need sleep would appreciate someone could explain simple term testing set

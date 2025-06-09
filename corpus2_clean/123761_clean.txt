@@ -1,1 +1,0 @@
-algorithm search directed graph tree neighbor neighbor current brute force solution work follows node n child c n parent p c p n insert edge p n dealing ca num node num num edge currently facing long running time mainly due reason executing algorithm graph database since would require much memory

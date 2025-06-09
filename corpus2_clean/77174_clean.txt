@@ -1,1 +1,0 @@
-thinking quite time memoization really primitive currently piece public shared structure tresult byval f system func tresult system func tresult dim map new system collection generic dictionary tresult arg1 map containskey arg1 map item arg1 dim result f arg1 map add arg1 result result end end wondering upgrade could accept arbitrary

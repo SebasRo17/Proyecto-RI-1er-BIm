@@ -1,0 +1,1 @@
+There is one `auto-adjust` item in the right-click menu of image in cell. And other related items are `actual size` and `magnification`. Can we set some values for the `auto-adjust`? (the effect like `ImageResize[image,100]` by hand) The image was interted/paste in the cell. ![enter image description here](http://i.stack.imgur.com/XfkkB.png)

@@ -1,0 +1,1 @@
+I am new to _Mathematica_. So I just run a basic procedure but _Mathematica_ didn't calculate this integral. Maybe it is too complicated to be done.               Integrate[(a E^(I g x - 1/2 (d + a ArcSinh[(-c + x)/b])^2))/(b Sqrt[ 2 π]                Sqrt[1 + (-c + x)^2/b^2]), {x, -∞, ∞}]      $a,b,c,d$ and $g$ are constants. Could you suggest what I should do?

@@ -1,0 +1,1 @@
+Is there a way to store the numerical values from a manipulate function in the form of a table? For example, if the function is               f[x_] := x^2 - 2x      Can one store all the values for each value of `x` in `(0,1)` from `Manipulate[]` other than taking a snapshot?

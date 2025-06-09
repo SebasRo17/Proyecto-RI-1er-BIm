@@ -1,0 +1,1 @@
+I want to define a function f with an argument that matches only when an argument Head is NOT of a given value. I know I can define a pattern that matches the Head for an argument:               f[a_Integer] := 2 a      Now, how do I define a version that matches only when argument a is NOT an Integer?               f[a_NotAnInteger] := <something else>

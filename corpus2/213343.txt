@@ -1,1 +1,0 @@
-Is it bad coding practice/design to make a class which will only be instantiated once? I have some variables and functions that can be grouped together under a class to "look good" (for a lack of a better description) since they are somewhat related, but they can just be global variables and global functions. (Btw, I am using JavaScript, AngularJS, Express, MongoDB.)

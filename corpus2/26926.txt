@@ -1,0 +1,1 @@
+Integrate[ ArcTan[x]/(1 + x) Log[(1 + x^2)/2], {x, -1, 1}]      I used _Mathematica 9.0.1_ on _Windows7 32bit_ , _Mathematica 9_ cannot compute this, but Mathematica 8 gives `Pi^3/96`, is this a bug?

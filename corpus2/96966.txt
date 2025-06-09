@@ -1,1 +1,0 @@
-When did people start writing Readme files? It seems that pretty much all programs have this file, regardless of the format. Is there any documented first use of this document?

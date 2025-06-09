@@ -1,0 +1,1 @@
+I am new to Mathematica and have a general question: Working with matrices I have the impression that Compile can only be used if the elements of a matrix are ONLY Integers or ONLY Reals. No mixed types are allowed. But my matrices generally include some missing elements like               m = {{1., 2.}, {Null, 3.}}      Is there a way to compile m*m ?

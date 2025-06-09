@@ -1,0 +1,1 @@
+Assume that I know a package's (Context?) name that is loaded. Now I want to list the functions defined in this package. How can I do it? I remember that I found a way once, but I cannot re-find it. I tried some combinations with `?` but for vain.

@@ -1,1 +1,0 @@
-I'm very tempted to use it purely because of its neat Binding APIs, and now that you're able to use it in conjunction with Swing it feels like a natural progression. The only thing that I can seem its lacking off the bat is a GUI builder (But then according to who you speak to, this isn't necessarily a bad thing!) Does anybody have any experience with using JavaFX 2.0?

@@ -1,1 +1,0 @@
-Is the singleton pattern prone to thread safety problems? If so, what are the best methods to work around them?

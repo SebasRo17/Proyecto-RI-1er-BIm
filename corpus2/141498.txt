@@ -1,1 +1,0 @@
-About your own project, in which way does it give you more improvement?   1. Read high quality code in the same domain, implement your own.   2. Write one project from scratch with your imagination. My point is that it is not practical to write something like networking lib or graphic engine without knowing what other people did in the same domain.

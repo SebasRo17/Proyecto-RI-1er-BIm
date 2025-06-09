@@ -1,1 +1,0 @@
-I have a project licensed under the GPL. However, it includes a bit of code from animate.css, which uses the MIT license. How would I include the appropriate licensing information for that CSS? I've included that bit of css (maybe 25 or so lines) in my main stylesheet, so I'd rather not have a huge stamp like what's on this page, if I can avoid it.

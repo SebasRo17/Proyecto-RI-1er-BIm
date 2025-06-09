@@ -1,1 +1,0 @@
-let say going num num shortest route num num num num total num km graph use dijkstra algorithm problem shortest route always fastest one traffic factor example num num known frequent traffic avoided suddenly car accident happens along num num avoided etc probably speed route num num num traffic accident arrive num faster well general idea think detail yet algorithm solve problem

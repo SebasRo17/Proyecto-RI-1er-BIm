@@ -1,1 +1,0 @@
-As opposed to influence on the C# language, did Delphi influence the .NET Framework too? At first glance .NET is Microsoft's version of Java, but .NET has properties similar to Delphi. Are there other influences?

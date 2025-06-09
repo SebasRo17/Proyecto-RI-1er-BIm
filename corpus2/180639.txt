@@ -1,1 +1,0 @@
-I do not have the access to the IEEE standard and information on the net are contradictory. Can I capture user requirements in SRS using use cases? Or I should keep use cases separate as they are more like scenarios than separate requirements?

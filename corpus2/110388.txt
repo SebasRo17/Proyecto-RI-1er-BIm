@@ -1,1 +1,0 @@
-I am having a memory leak when running a test suite due to singleton objects are created and not cleared after each test case. And these singleton objects are holding references to heavy objects. So I don't know if there is a better solution than clearing the singleton objects in the `tearDown()` methods in each test class! What do you think?

@@ -1,1 +1,0 @@
-go one language supposed close metal e compiled statically typed executes natively without vm give speed advantage c like seems however behind see programming language shootout assuming less mature compiler hugely responsible reason anything inherent go design would prevent running faster say view runtime model seems least principle able faster thanks native execution

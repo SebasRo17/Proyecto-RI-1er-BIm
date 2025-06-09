@@ -1,0 +1,1 @@
+I have a stylesheet that has inherited some base definitions from another, but would like to "prune" the list of available styles, by removing or disabling1 some. Is there a way to do this? * * * 1\. This is not a question about how to _delete_ I style I've defined from my stylesheet, but how to _disable_ a style that my stylesheet has inherited.

@@ -1,0 +1,1 @@
+How to find the limit               Limit[n*Sin[2*Pi*Exp[1]*n!], n -> Infinity]    ?      Mathematica 10 outputs                Interval[{-\[Infinity], \[Infinity]}]      which is not correct since the one equals $2\pi$, being a known limit.

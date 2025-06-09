@@ -1,0 +1,1 @@
+I have an expression that I want Mathematica to fully expand without any simplification afterwards. I want the output to look like the following example. > >     (x+y)^2 ⇒ x^2+xy+yx+y^2 >   Could you help me to solve this problem?

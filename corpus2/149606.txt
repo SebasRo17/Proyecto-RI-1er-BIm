@@ -1,1 +1,0 @@
-Suppose I am including a feature in my image-viewing software, which opens an image in Photoshop ('Send to Photoshop'), using Photoshop's OLE automation framework. Am I allowed to use the icon of Photoshop.exe as the image of this 'Send to' button?

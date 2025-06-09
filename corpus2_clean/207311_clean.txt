@@ -1,1 +1,0 @@
-usually careful keep model view controller separate thing javafx property convenient bind together issue make entire design dependent javafx feel able change view without changing much model controller ignore convenience javafx property embrace fact reduces code flexibility

@@ -1,1 +1,0 @@
-If assembly language is only a readable way to represent machine code, then why are HLLs converted to assembly first and then to machine code? Shouldn't HLLs be directly converted to machine code?

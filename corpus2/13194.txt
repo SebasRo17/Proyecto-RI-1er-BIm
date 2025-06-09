@@ -1,0 +1,1 @@
+I apologize if this is a RTFM question, but I couldn't find this in the docs. **How can I set the timeout of the preemptive link?** For example:               Button["TestShort", Pause[1]; Print["Result"], Method -> "Preemptive"]     Button["TestLong", Pause[10]; Print["Result"], Method -> "Preemptive"]      Clicking on `TestLong` times out on my system.

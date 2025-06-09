@@ -1,1 +1,0 @@
-implementing server c course project server serve one client simultaneously description project state fork used serve one client child write something common file handle synchronously mechanism like one thread use time

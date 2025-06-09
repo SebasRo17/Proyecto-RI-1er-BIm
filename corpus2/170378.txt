@@ -1,1 +1,0 @@
-I think "why PHP over Java" has been already discussed in other questions, the question I have is: What makes LAMP/WAMP stacks so cheap and abundant vs a Glassfish one? What are the prime factors behind this trend? Also, Why has no java based light weight stack come up as a competitor?

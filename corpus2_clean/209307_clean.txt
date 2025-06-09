@@ -1,1 +1,0 @@
-finishing decently sized shell project wondering best practice list thing finishing development far done pylint grep ed todo fixme find orphan documentation install script client server make sure comment match reality forget finer point thing generally specific

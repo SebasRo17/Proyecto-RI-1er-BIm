@@ -1,1 +1,0 @@
-What are some _good_ examples for illustrating the concepts of object-oriented programming? I'm talking about sample classes, classes that would have inheritance, overriding, etc. The only one I can ever think of is of animals. A base `Animal` class, with `Cow` that have a different `makeCry` method or something like that. It sucks. What do you guys use?

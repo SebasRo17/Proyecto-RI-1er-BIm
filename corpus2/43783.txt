@@ -1,0 +1,1 @@
+Let's start from the simplest case: say I have a function $f(x)=x$, and let's say I want to define a new function (of $x$) to be its $n$-th power $(f(x))^n$. How should I write the code? I tried:               f[n_, x_] := f[n - 1, x]*f[n - 1, x]     f[1, x] = x      But the result is much different from what I wanted.

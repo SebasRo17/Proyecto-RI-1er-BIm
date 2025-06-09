@@ -1,1 +1,0 @@
-num character long id guaranteed unique would like shorten num num even shorter character long generate short id randomly would check every time available one way hash algorithm could back num num character hash passing num character id way guarantee generated short id unique without checking

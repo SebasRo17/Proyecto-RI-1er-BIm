@@ -1,1 +1,0 @@
-I'm trying to document a piece of software I wrote in detail. An SAS is too high level and doesn't cover the API. I found several examples of an SDS online, but I don't see a trend in their format. I'm wondering if there are some general guidelines to writing a Software Design Specification or what the best approach is?

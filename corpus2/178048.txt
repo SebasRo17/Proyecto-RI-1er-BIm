@@ -1,1 +1,0 @@
-There are several options that are available like C, C++, Matlab and some more. But is there a language that naturally feels like Event programming? For example: If I see a red ball (Event) ---> Do this (Action)

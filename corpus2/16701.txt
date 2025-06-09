@@ -1,1 +1,0 @@
-I work in the web development industry and we implement a time tracking system to log our time (Project/time/comment). In the beginning of a project, we create a contract, and decide upon a price based on our hourly rate _x_ estimated hours. We log out times to see if we go "over budget". Is time tracking in this industry the norm? Is it required? What are the pros and cons?

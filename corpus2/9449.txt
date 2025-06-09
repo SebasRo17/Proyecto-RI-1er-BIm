@@ -1,0 +1,1 @@
+For example, using `ExampleData[{"TestImage", "Girl2"}]`: ![Mathematica graphics](http://i.stack.imgur.com/wstxf.png) what's a general way to make the background transparent? I've tried various combinations of `EdgeDetect` and `Threshold` and ImageAdd but can't figure it out. Thank you.

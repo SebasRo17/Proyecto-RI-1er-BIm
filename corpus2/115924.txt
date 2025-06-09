@@ -1,1 +1,0 @@
-I'm creating an object whose sole purpose is to read in a file of one format and create another of a different format. Is it best to create the output file implicitly during object initialization or to have a public method that gives the user the choice when this file will be created?

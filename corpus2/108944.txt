@@ -1,1 +1,0 @@
-I am not sure whether it is a personal perspective or just a common feeling. I think in most cases, python's API is much more intuitive than C++ STL library APIs. If it is not a subjective judgement, could anyone explain why?

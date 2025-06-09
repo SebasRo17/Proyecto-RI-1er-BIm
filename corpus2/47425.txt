@@ -1,1 +1,0 @@
-For an open source project, is it legal and acceptable to link to commercial libraries? For example, an open source application I'm involved in would benefit from using commercial 3rd party user interface library.

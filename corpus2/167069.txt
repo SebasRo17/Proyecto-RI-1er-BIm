@@ -1,1 +1,0 @@
-Suppose I have an already existing codebase which does not have any license headers in any of the source files, nor does it have `COPYING` file. So when I add all the neccessary GPL "cruft" to, say, revision 1000, will all previous revisions be GPLed as well or do I need to rewrite my repository history to include GPL license from the revision 0?

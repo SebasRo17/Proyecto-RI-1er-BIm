@@ -1,1 +1,0 @@
-I don't have any serious experience in SQL and I even hate to write SQL instead of LINQ. I am happy enough with ORMs. From the employers and sector view point, is it important to know SQL? Do I have to master on it? Are companies that prefer pure SQL over ORM frameworks a "dinosaur" in the programming world?

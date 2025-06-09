@@ -1,1 +1,0 @@
-Is there a model that describes the different strategies that a company may use where the organisation is split into an engineering division and a professional services division? This is the sort of model that is followed by companies like Microsoft, whereby Engineering (or R&D) produce the core software, and professional services can then help clients implement that software.

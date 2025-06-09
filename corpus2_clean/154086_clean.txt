@@ -1,1 +1,0 @@
-trying determine legal obligation use mit licensed library jar file program need include library source distribute program need include readme explaining licensing packaged jar simply including jar file even need include anything additional

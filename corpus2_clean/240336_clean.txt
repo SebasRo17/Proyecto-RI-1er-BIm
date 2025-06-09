@@ -1,1 +1,0 @@
-going project working came across cpp file function static variable wondering put everything whenever inside function called cpp file included good design pro con design ex independent cpp include someclass h static var1 static someclass hello static bool var2 foo const dir const filename somefile cpp include independent cpp sample public caller foo c file txt

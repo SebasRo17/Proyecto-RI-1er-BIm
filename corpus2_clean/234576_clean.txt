@@ -1,1 +1,0 @@
-solved problem using simple nested loop comparison wondering well known selection algorithm solve problem let say num num num num num num num num num num num num num num num num num need find subarrays num num num num num num num num num num num num subarrays min num length size dont want solution similar algorithm would help refactor currently nested loop using buffer collection

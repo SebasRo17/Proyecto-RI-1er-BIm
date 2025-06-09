@@ -1,1 +1,0 @@
-whenever find writing logic usually stick one place application maintain logic side effect sometimes end one two function x condition callback callback callback lazy bad practice ask result greater number call tiny piece logic

@@ -1,1 +1,0 @@
-We are starting a push for code coverage here at my work, and it has got me to thinking.... How much code coverage is enough? When do you get to the point of diminishing returns on code coverage? What is the sweet spot between good coverage and not enough? Does it vary by the type of project your are making (ie WPF, WCF, Mobile, ASP.NET) (These are C# classes we are writing.)

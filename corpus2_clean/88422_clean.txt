@@ -1,1 +1,0 @@
-ddd struggle understand whether domain split correctly aggregate root aggregate root grouped correctly bounded context way like set rule guidance use decide whether placing thing right ar bc

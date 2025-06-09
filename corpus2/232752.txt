@@ -1,1 +1,0 @@
-In my project, on a security system, I was using a socket to get the details of the client and then store it in a database (his IP and port he connected from and service he accessed). I was wondering if the fetching of the details and storing them in a database should be done in separate threads or a single thread. Which is the more advantageous approach?

@@ -1,1 +1,0 @@
-If "Anything can go wrong will go wrong" is true, we need to test all the conditionals and exceptional cases in my code. But sometimes it's hard to find all of them since many of them are corner cases, which are hard to test. How can I go about finding corner cases better or avoiding the issue?

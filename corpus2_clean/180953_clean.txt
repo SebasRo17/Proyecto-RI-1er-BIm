@@ -1,1 +1,0 @@
-written several unit test already existing covered creation scenario migration old schema new one unfortunately feel test good example db creation check sqlitedatabase execsql called three time three table far check query set specified sql string issue far someone change order column test fail probably ok way sql schema unit testing unit test rely integration one

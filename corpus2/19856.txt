@@ -1,1 +1,0 @@
-The Joel Test includes the question: > Can you make a build in one step? Which is important, but I'm wondering, how streamlined have some of the _deployment_ processes been? All software from shrink-wrap to web applies: what's the best deployment environment you've worked with, and what steps were involved?

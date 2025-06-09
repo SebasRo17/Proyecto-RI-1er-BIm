@@ -1,1 +1,0 @@
-It would be great if some IDE offered the way to right mouse click when a function is called and have the immediate option to jump to the function when it is defined. Is this possible in Javascript? Maybe I've just been oblivious - is there a name for this technique?

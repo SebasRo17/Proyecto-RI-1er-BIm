@@ -1,1 +1,0 @@
-correct say factory essentially particular case abstract factory produce one group know classic realization assumes architectural difference point pattern concrete realization conceptual abstraction

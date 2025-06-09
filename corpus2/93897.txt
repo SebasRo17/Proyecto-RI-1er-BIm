@@ -1,1 +1,0 @@
-I am asking in the context of the licenses on code that one sees all over the place. Typically, they say something along the lines of "if you release a product containing this in binary form, it must contain X, Y, and Z." Does that mean that if I use the code in an app, the app has to have a screen somewhere that contains X, Y, and Z in human-readable form?

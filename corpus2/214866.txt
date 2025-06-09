@@ -1,1 +1,0 @@
-I developed an offensive content checker for my website and want to publish it on GitHub. However, the source code contains many offensive, racist and otherwise nasty content. The source is fully documented, but I wanted your opinion on whether it's acceptable to publish such work on GitHub or whether to leave the array of strings up to the imagination of the reader?!

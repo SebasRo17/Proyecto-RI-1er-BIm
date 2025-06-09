@@ -1,0 +1,1 @@
+I want to select all elements that repeat 4 times in the list. I propose this code               list = {a, a, a, b, c, a, b, b, b, e};          elementsplus4 = Select[list, Count[list, #] == 4 &];      I obtain:               {a, a, a, b, a, b, b, b}      How can I obtain just `{a,b}`

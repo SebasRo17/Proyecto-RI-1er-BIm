@@ -1,1 +1,0 @@
-I just read that there will be two versions of Windows available: **Windows RT** and **Windows 8**. Could someone please describe what the differences between **Windows RT** and **Windows 8** are? And how these differences may affect developers creating apps for one or the other? Also, what is **WinRT**?

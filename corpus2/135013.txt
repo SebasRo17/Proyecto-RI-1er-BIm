@@ -1,1 +1,0 @@
-I seem to recall that there is a specific term for an accessor method that returns a Boolean value but it escapes me. For example: typical methods such as:               class Example {         bool isDirty();         bool hasChildren();         bool isValid(SomeType obj);     };      I will also settle for such a term as applied to a non-member functions.

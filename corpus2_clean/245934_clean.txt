@@ -1,1 +1,0 @@
-using osgi time really like ability swap replace component application running simply build module push osgi container similar concept framework clojure know leiningen dependency management really help modularity know built way hot swap

@@ -1,1 +1,0 @@
-It seems there is a lot of discussion on the web about the differences between these two paradigms, and how OOP is somewhat better than structured programming. But aren't they complementary? From my point of view one could organize his application following OOP principles and implement its logic using structured programming, couldn't he?

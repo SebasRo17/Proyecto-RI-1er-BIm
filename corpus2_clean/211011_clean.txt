@@ -1,1 +1,0 @@
-wondering best structure storing disk storing immutable time series num truly immutable num metadata separate immutable looking log structured merge tree particular heavy use cassandra like

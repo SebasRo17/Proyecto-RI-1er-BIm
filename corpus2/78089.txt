@@ -1,1 +1,0 @@
-I had a chance to have an interesting conversation with my co-workers. Most of them are flash action script or Java developers. We talked about how well php handles OOP. I said that PHP can handle almost every OOP stuff as of PHP 5.2 or 5.3. Am I wrong? I'm not trying to get yes/no answer, but I would like to hear more opinions from developers.

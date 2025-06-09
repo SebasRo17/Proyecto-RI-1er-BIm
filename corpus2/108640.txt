@@ -1,1 +1,0 @@
-Is the execution time of a unit test useful for anything? Is a unit test an appropriate place for any sort of code profiling? Why or why not? **Sample Use Case** :   * Every unit test lists name, pass/fail, and execution time.   * Time is also calculated per unit test class and total test suite execution time. How could I use this info?

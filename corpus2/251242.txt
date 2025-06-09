@@ -1,1 +1,0 @@
-For example I have a server [c#] and 4 clients. When the first client sends a request to the server I want to push a notification to the other 3 clients that they should send a request to the server with some required data. After I receive requests from all clients I want to send the same response to all of them. What is the best way/pattern to implement something like this?

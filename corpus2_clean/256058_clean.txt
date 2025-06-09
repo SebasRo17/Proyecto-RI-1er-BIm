@@ -1,1 +1,0 @@
-delphi application connects wordpress installation v4 num php v5 num retrieves hashed password would like application able verify whether password match stored hashed password far understand hash blowfish using randomly generated salt concatenated hash pas hash p playing around yet make real progress sure trying achieve possible thank

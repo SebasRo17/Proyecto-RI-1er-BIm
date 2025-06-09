@@ -1,1 +1,0 @@
-I have an MIT-licensed project that used to include a GPL JavaScript library which has since been removed. Is there any legal necessity to rewrite the revision history to completely remove this code?

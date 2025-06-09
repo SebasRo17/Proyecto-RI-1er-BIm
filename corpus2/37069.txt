@@ -1,0 +1,1 @@
+For example, I have:               CharacteristicPolynomial[m, x]      > >     0.5 + 0.1 x + x^2 >   But               Plot[CharacteristicPolynomial[m,x], {x,-1, 1}]       gives errors.

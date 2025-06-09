@@ -1,1 +1,0 @@
-visitor pattern useful language supporting extension bother implementing open class subclass want new functionality could subclass unless missing something still useful language supporting extension

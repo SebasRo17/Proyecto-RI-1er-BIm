@@ -1,1 +1,0 @@
-I want to write my first Java program, for example Phonebook, and I wonder what to do first. My question is should I write GUI classes first or util classes first? I am database developer and want to know best practice in building program.

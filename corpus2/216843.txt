@@ -1,1 +1,0 @@
-is it good Coding Practice to add style to the `<html>` tag of a web document? why should you not style the `<html>` tag of a web document? I ask this because of this answer on a StackOverflow question.   Personally I don't think this is good coding practice. is there a WC3 standard that says this is good/bad?

@@ -1,1 +1,0 @@
-given rest api throw exception handling request client whenever rest api throw exception logged application case application close prevent damage send response client whose request resulted exception indicating occured let client hang deal timeout

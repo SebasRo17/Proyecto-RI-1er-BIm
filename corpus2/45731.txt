@@ -1,0 +1,1 @@
+Why does this               RSolve[{y[t] == a*y[t - 1]}, {y[t]}, t]      work, while this               RSolve[{y[t] == a[t - 1]*y[t - 1], a[t] == a[t - 1]}, {y[t], a[t]}, t]      does not given any interesting result? * * * My goal is to solve something of the kind:               RSolve[{y[t] == function[y[t - 1],a[t-1]], a[t] == b*a[t - 1]}, {y[t], a[t]}, t]

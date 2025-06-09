@@ -1,1 +1,0 @@
-I want to pass a parameter to a function as below for clarity. It doesn't give any error. But is this a bad practice. Do I have to avoid this.               test('','','',$d='text','');          function test($a, $b, $c, $d, $e){          }

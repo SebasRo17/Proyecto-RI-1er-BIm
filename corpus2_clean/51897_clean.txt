@@ -1,1 +1,0 @@
-need way implement fast lookup algorithm system find user quickly multi level department multi level employee manager relation organization structure department level department user directly connected department user connected department user time would best approach implement system approximately num user num department good way hold information memory

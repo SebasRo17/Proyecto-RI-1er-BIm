@@ -1,1 +1,0 @@
-writing web app requires usage drag drop well jquery html5 feature two option saving user change database implicit database save end event drop hover ect explicit save change local submit submit button click event currently difference two implicit save hooked user event result many post get request compared explicit save major distinction two reason choosing either option

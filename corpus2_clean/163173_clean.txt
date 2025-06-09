@@ -1,1 +1,0 @@
-according istqb source wiki defect bug actual cause software e g incorrect statement logical semantic actual flaw system component could lead failure specification bug cannot relate specification bug quite common programmer implement software according spec bug fault imho could apply sure must addressed somehow could help understand

@@ -1,0 +1,1 @@
+I like to use Mathematica text cells for creating draft technical documents. When entering equations in a text cell, the ^ (hat accent) does not dynamically adjust its size to fit. It looks good if you enter x^, but if you wanted abc^, the ^ covers only the b. Anyone know how to make the ^ (and other accents) adjust to the size of the text?

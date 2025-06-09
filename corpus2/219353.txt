@@ -1,1 +1,0 @@
-Most code samples I see that demonstrate shell code preface each command with `$`. Having a prefix makes sense, but I'm confused as to why `$` is used in particular. Some other symbol, like `!`, that can be copied and pasted into a prompt without affecting the command's execution makes far more sense to me. So where does this notation come from?

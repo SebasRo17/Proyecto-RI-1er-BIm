@@ -1,1 +1,0 @@
-**What is an Enterprise/Automated Deployment tool, and how would it be used?** Examples would be a plus, but please don't turn this into a list. What are the key factors that should be evaluated when looking at such a tool?

@@ -1,1 +1,0 @@
-We all use if ..else if.. else. But still I'm confused as to why we use **else if**. Where **if** does the same thing as **else if**. So why are we using **else if**? Any specific reasons behind this? Is there any algorithm where it's mandatory to use **else if**?

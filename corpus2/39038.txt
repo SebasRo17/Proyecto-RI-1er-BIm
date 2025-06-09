@@ -1,0 +1,1 @@
+I would like to find the asymptotics of               Sum[Binomial[n,i]*1/i^((n+1)/2),{i,1,n}]      I saw Find asymptotics of Sum[2^i*Binomial[n-i-1,2*n/3-1],{i,0,n/3}] but I can't get anything similar to work in my example. What is the right way to do this?

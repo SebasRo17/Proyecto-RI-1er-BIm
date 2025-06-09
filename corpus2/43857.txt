@@ -1,0 +1,1 @@
+What is exactly the domain of validity of the identity:               Sum[1/(k + j - 1), {j, 1, i}] == HarmonicNumber[k - 1 + i] - HarmonicNumber[k - 1]        when `k` is a real number? More generally, could I have a reference about the way `HarmonicNumber[x]` is calculated when `x` is not an `Integer`?

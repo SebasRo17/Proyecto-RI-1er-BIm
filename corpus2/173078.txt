@@ -1,1 +1,0 @@
-In certain functions in GSL (GNU Scientific Library), some functions take a "workspace" environment as an argument. For example, `gsl_poly_dd_taylor` from this page. Why? Wouldn't it be easier for the function to allocate its own memory, or at least the same difficulty? I suppose that this allows the caller to specify _where_ the function works, but I don't see how it helps.

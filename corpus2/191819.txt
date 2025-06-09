@@ -1,1 +1,0 @@
-I'm creating an application which needs to have a key file based product activation. If a user purchases the application, the key file may have to be attached to the application EXE file dynamically (may be online) and package it to an MSI installer. The user downloads the application from a server or repository. How can I do this?

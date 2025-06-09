@@ -1,1 +1,0 @@
-trying deploy redis server linux redis official site provides source download use make install make work problem use rpm file install policy must obey policy software installation specific environment policy also bother install software making source opinion thanks

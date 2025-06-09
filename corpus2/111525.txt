@@ -1,1 +1,0 @@
-Why is the length of the some characters e.g. the following 'ᨒ' 3 when it should be 2 ᨒ U+1a12 1a12 means 6674 2^16 is 65536 so 6674 should take only 2 bytes and not three

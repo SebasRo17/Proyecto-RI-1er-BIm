@@ -1,0 +1,1 @@
+I am trying to import data from Excel. It is located in a single column of the Excel file but each cell contains a comma separated pair of two values as a,b. When I am importing them I have this format {{"a,b"},{"c,d"},...,{"x,y"}, which means just one element not a pair of numbers. How can I have {{a,b},{c,d},...,{x,y}} instead?

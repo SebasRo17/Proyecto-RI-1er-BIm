@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  What are the boundaries between the responsibilities of a web designer and > a web developer? Web designers and developers work in the same project, I've been searcing for an hour and can't find what's the difference? I found some slides on Slideshare that discuss the difference, but I'd like more explanation on the topic.

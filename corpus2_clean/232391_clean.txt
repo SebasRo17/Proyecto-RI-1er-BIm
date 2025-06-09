@@ -1,1 +1,0 @@
-working company developing series product year little unit testing place want move tdd unit test new going forward however concerned lack testability old draw old new anyone experience layering unit testing onto brownfield software like could recommend effective approach

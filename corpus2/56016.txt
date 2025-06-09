@@ -1,0 +1,1 @@
+Consider this example:               Level[a + f[x, y^n], {0, Infinity}]          (*{a, x, y, n, y^n, f[x, y^n], a + f[x, y^n]}*)      Why the output is sorted in this way. why not following their levels? I was expecting to get:               (*{a + f[x, y^n], a, f[x, y^n], x, y^n, y, n}*)

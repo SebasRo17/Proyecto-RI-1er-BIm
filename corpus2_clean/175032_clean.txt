@@ -1,1 +1,0 @@
-tried design datastore schema small application schema would simple trivial using relational database foreign key many many relation join etc problem application targeted google app engine design database relational end gave book article describes design principle application meant database book found programming app engine spend many word database design principle

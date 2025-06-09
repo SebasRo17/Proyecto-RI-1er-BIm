@@ -1,1 +1,0 @@
-There's a quotation by Bjarne Stroustrup that says: > C makes it easy to shoot yourself in the foot; C++ makes it harder, but when > you do, it blows away your whole leg. I've often come across this quotation when reading library documentation and tutorials; particularly ones that wrap C functions in C++ classes, or are wrappers to C libraries. But what did he mean by this?

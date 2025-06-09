@@ -1,1 +1,0 @@
-sane let read file const example size read buffer size length const read change content file update file pointer invisible behind handle

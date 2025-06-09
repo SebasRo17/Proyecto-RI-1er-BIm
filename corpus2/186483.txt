@@ -1,1 +1,0 @@
-I have across a thread mentioning that Erlang would not be suited for a web application serving files. I was curious whether anyone had any experience building such webservice with erlang? Would Haskell be more suited for this, if so how ?

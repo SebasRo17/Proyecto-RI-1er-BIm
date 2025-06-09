@@ -1,1 +1,0 @@
-Is it a must to study Object Oriented Programming before going into Data Structures in the C++ language or can I begin with lists, stacks ,queues,sorting ......etc and does Object Oriented Programming have a relation with data structures?

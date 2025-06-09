@@ -1,1 +1,0 @@
-Currently I have a WCF method which brings back all the data from the db and binds it to a grid, but I would like to call this method regularly to get the updated data back each time, to show the user real time data, what is the best way to go about this? Thanks in advance.

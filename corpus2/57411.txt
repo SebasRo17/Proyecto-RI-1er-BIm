@@ -1,0 +1,1 @@
+how write Stokes equation in mathematica? the Stokes equation is in in this link http://en.wikipedia.org/wiki/Navier- Stokes_Equations

@@ -1,1 +1,0 @@
-today encountered little php gem called variable literal hello vv literal echo vv print hello actually real use case language feature

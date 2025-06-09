@@ -1,0 +1,1 @@
+`Simplify[b - a]` results in `-a + b`. I prefer `b - a`, which is a bit simpler (3 symbols instead of 4). Can I make _Mathematica_ to think the same way? I believe one needs to redefine the `ComplexityFunction`.

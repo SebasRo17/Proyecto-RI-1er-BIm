@@ -1,1 +1,0 @@
-running program supposed solve problem brute force approach computer quad core cpu program clearly us one core program use one thread way split program thread core used improve calculation speed mean one program natural solution us one thread possible force use thread without completely changing

@@ -1,1 +1,0 @@
-Of the three   * BufferedReader/Writer  * Binary Streams  * Channels     which is more preferred **in real life** for file I/O in Java and why?   I prefer channels for binary data to be put into file or read from and BufferedReader/Writer for String data

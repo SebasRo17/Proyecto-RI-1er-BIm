@@ -1,1 +1,0 @@
-Is it considered a good practice to have a remote branch for each individual developer in the project? We're using Git with the following branches:   * master   * release   * develop If each developer had their own branch, they could push code into their branches and others could merge these changes into their own branches.

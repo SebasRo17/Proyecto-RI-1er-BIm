@@ -1,1 +1,0 @@
-Is there any software that will allow me to generate trouble tickets (for Trac, Team Foundation Server, etc.) from TODO or otherwise annotated comments in the source code?

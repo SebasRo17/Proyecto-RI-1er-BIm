@@ -1,1 +1,0 @@
-I haven't looked at Java Garbage Collection for a while and feel the need for a refresher on it. Anyone recommend a resource or two?

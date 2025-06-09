@@ -1,1 +1,0 @@
-Is there a difference between MPL 2.0 and LGPL 2.1 ( **+static linking exception** )? If yes, what is it? As long as i understand the only difference between them is you can't use trademarks of contributors under MPL[1].

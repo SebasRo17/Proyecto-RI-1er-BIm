@@ -1,1 +1,0 @@
-Lots of programmers that I've met always says that "He is not a UI guy." The fact is that development nowadays, whether web, Windows, Linux, OSX, or any other type of development now comprises software with a good-looking UI. Why do so many developers seem to not like UI work?

@@ -1,1 +1,1 @@
-I read from somewhere that when using C++ it is recommended not to use pointers. Why is pointers such a bad idea when you are using C++. For C programmers that are used to using pointers, what is the better alternative and approach in C++?
+I am newer using Mathematica to plot with the Function: CountryData, I am trying to plot "OilReserves" in "UnitedKingdom" from 1985 until 2014. I don't know how to do it, please help me!

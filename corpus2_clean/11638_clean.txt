@@ -1,0 +1,1 @@
+issue mix string variable specifically context plotlabel put string plot title also put variable plot title put string variable plot title example testplot plot x x plotlabel style testplot test plot really want plot label tried testplot plot x x plotlabel text testplot test plot obviously work intended thanks advance

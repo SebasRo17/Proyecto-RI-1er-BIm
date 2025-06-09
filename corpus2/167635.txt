@@ -1,1 +1,0 @@
-I know that if a computation takes linear or linearithmic time based on the size of the input, that's good, and if it takes quadratic time, then that's not so good. However, what about memory usage? Suppose a program takes a file as input and does something with that file. Is it okay for the memory usage to be linear in the size of the file or should it be constant?

@@ -1,1 +1,0 @@
-How are Microsoft's MVPs selected? I read somewhere that most of the professionals are selected on the basis of the usenet(other communities) performance. Is is true for SO as well. Can someone be elected as MS MVP on the basis of his/her stackoverflow performance?

@@ -1,1 +1,0 @@
-While architecting the system, often you have to choose the appropriate technologies to be used for every module. What are the different parameters to be considered while choosing the technologies/frameworks? How those parameters can affect the project quality, schedule, expense? Can anybody please explain in detail.

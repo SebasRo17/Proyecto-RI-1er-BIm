@@ -1,1 +1,0 @@
-Sorry, it is **NOT** duplicated question, just read it please, I'm totally new to Java world, I'm a .NET developer, and I have a good exprience in ASP.NET. Now I have a task to make a demo for JasperReport, I need **QUICK** start to Java and Java web application on Apache and then I will figure out how to use _JasperReport_. Thank you very much people,

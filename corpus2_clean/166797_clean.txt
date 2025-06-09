@@ -1,1 +1,0 @@
-wrote two program server client connect one program server another client ip address socket programming want modify client server example wrote something textbox user notify program window form application purpose use wcf

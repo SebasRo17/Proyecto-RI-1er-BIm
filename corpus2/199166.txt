@@ -1,1 +1,0 @@
-The motivation for the content editable div would be to allow user input inside a normal div element. Why does it then behave so differently to input element? Mainly I am referring to the addition of a `div` or a `br` on line break. Additionally it does not have a placeholder item. So my question is what is the point of content-editable div? Why would I want to use it at all?

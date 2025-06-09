@@ -1,1 +1,0 @@
-So say we have an app (server) that somehow attaches to itself plugins (services) in form of .dll or .so libraries. Is there any nice short name for such server behaviour model?

@@ -1,0 +1,1 @@
+I am looking for a way to manage frequently used formulas in my research, in a organized way in Mathematica. It appears to me that using `FormulaData` would be a standard way to use formulas in Mathematica. Is there a way to define formulas ourselves in `FormulaData`?

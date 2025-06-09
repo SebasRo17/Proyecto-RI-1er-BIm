@@ -1,0 +1,1 @@
+I'm trying to graph the revolution of the area between two functions about an axis, but I'm new to Mathematica, and not sure how to proceed. My area is defined by               Plot[{x^2,x},{x,-5,5}, Filling -> {1->{2}}]      Just to clarify, the figure I'm looking is 3-dimensional, and could loosely be called a toroid. How could I model this in 3D?

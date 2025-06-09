@@ -1,1 +1,0 @@
-I am trying to make an algorithm that counts the days between two dates, e.g. between 3/1/2012 and 3/2/2012. What is the correct answer, or the most popular choice? Should be the one I use? In this case, if I don't include both dates I am comparing, the days are 0; if I include one of them, the days are 1; if I include both, the days are 2.

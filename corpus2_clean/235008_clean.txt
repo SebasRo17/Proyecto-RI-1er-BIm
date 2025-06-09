@@ -1,1 +1,0 @@
-currently looking google caja user supplied j browser node far understand browser context disallows reading messing window state running unsafe full blown parser get rid kind attack vector safely executing iframe origin however currently working solution using html5 worker see seems effect caja offer worker ability customize security policy additional safety feature

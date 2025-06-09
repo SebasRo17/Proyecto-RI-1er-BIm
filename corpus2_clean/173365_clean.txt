@@ -1,1 +1,0 @@
-make simple assume gate two input one two input used next gate example b e c f e f g assuming arbitrary number gate want check circuit ever connects back earlier state example e f illegal since creates endless cycle design pattern would best able check cycle

@@ -1,1 +1,0 @@
-For example I have a utility Class which contains a few constants (GCMConstants), this class is used in one method in the application. However as it is not a member of the Class it should not be modeled via an association link. Should I continue as is and not include a link or should I include one? I've checked my UML books but none of them seem to cover stuff like this.

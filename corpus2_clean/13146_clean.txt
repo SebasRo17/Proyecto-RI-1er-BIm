@@ -1,0 +1,1 @@
+situation needing analytical solution family equation form ax b nxn matrix written function want currently using bit hack generate arbitrary dummy variable name n vector x map clear table x tostring j j n x toexpression table x tostring j j n anyone suggest elegant way accomplishing task

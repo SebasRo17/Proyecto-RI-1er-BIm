@@ -1,1 +1,0 @@
-I have a class, but every method in it should be private (apart form `__init__` and `__str__`). Should I denote every method with a double underscore, or is that deemed bad practice?

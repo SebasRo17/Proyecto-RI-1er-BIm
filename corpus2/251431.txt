@@ -1,1 +1,0 @@
-The first compiler was written by Grace Hopper in 1952 while the Lisp interpreter was written in 1958 by John McCarthy's student Steve Russell. Writing a compiler seems like a much harder problem than an interpreter. If that is so, why was the first compiler written six-years before the first interpreter?

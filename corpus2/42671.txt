@@ -1,0 +1,1 @@
+Is there a simple way for making `SmoothDensityHistogram` plots have logarithmic scaling for the density? With `DensityHistogram` it's a simple matter of `{"Log","PDF"}` for the _hspec_ argument, but `SmoothDensityHistogram` doesn't have a native option.

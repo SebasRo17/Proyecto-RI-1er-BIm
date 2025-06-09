@@ -1,1 +1,0 @@
-given much simpler jquery development compared native javascript make people forgo library like jquery altogether jquery limitation slow mean jquery easy compared native javascript reason people still use pure javascript

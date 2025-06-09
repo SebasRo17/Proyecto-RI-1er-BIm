@@ -1,1 +1,0 @@
-program packed exe using cx freeze trying understand licensing implication reproduce cx freeze license agreement reproduce license standard module incorporated might yet another license attach cx freeze pack probably even use hint would appreciated

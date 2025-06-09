@@ -1,1 +1,0 @@
-Up until now I don't know the **KEY** differences between these three. When someone asks me about this, I only tell them that C# is a programming language, HTML and XML are Markup Languages, and JavaScript and VBScript are scripting languages. But what are the key differences that distinguish them from one another?

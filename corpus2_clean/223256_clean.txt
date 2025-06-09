@@ -1,1 +1,0 @@
-using spring xml mapping handle request coming sm gateway want send response sm scenario like num user sends sm mobile format xxxxx num sm gateway generate request send registered url using format url num timestamp num num num num num num message xxxxxxx want handle request spring controller right created controller handle reference better solution

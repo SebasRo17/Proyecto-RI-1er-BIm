@@ -1,1 +1,0 @@
-I'm working on a small project (not production) where I'm needing to store enough data that something like a CSV would be inefficient to process and an SQL/MySQL server would be too much. Does .Net have any way to efficiently store several entries of data with the ability to query without having to manage and connect to a server rather loading and processing a single file.

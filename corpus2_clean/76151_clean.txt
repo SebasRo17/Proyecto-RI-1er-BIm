@@ -1,1 +1,0 @@
-recently discussing functional programming co worker two u agreed fp obvious benefit simpler easier reason mathematically etc wondered whether ever used commerical software know number open source academic project written functionally e g seen question stack overflow wondering anyone list commercial software written least part functional language language

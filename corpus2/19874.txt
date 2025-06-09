@@ -1,0 +1,1 @@
+Is my input below correct? I've received no response from Mathematica.               N[Limit[Integrate[Sin[x]^n/(Sin[x]^n + Cos[x]^n), {x, 0, Pi/2}], n -> Infinity]]      Thank you in advance for your feedback!

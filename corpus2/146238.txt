@@ -1,1 +1,0 @@
-Is there currently a way of developing android apps on an android phone? In other words, write, compile, install and run regular android java on the phone without using a pc? If not, what would make it possible, if at all? (would rooting be necessary? Or an android emulator compiled for android?)

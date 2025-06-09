@@ -1,1 +1,0 @@
-good book learn distributed computing work large scale application recently colleague started talking thing like distributed cache load balancing thing parallel processing etc good book give introduction concept

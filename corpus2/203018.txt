@@ -1,1 +1,0 @@
-Long running switch cases or if-else-if constructs are avoided in OOP using polymorphism wherever it is applicable. instead of branching by matching a value, branching is done at class-level itself. How can similar approach be applied in Functional Programming paradigm, Clojure specifically ?

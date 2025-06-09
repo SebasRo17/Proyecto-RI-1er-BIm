@@ -1,1 +1,0 @@
-happens concurrent request call static running application server say take num second receives num call given second read write outer state could better let instance instead

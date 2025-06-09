@@ -1,1 +1,0 @@
-Is there any advantage / is it a bad practice in Java to do the below               x = x = 5      I saw it in one of my peers code and I was surprised why he would do double assignment? Is this something that is same as `x = 5` or if `x = x= 5` makes a difference?

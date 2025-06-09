@@ -1,1 +1,0 @@
-First off, is there any difference between a license and a EULA? Second, can a developer write his own license or is there some special legal crap you have to do. Finally is there some kind of lawyer that specializes in writing licenses for software? What kind of legal professional would you hire to do something like this?

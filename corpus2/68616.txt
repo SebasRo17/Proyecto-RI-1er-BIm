@@ -1,1 +1,0 @@
-This question arises from seeing code where I feel like something is wrong but I can't put my finger on it while developing Android. What are some red flags in Android development that says your application just may not be organized/programmed in the best way? What are some ways to fix these instances of code smell?

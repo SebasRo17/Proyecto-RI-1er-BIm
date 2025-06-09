@@ -1,1 +1,0 @@
-How could I draw the database transaction commit in the sequence diagram? EDIT I want to draw in sequence diagram database transaction commit/rollback process

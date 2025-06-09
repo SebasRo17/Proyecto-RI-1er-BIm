@@ -1,1 +1,0 @@
-seen like several place var var noop noop var method assert clear count dir exception group info log profile table time timestamp trace warn var length method length var window window length method length stub undefined method noop specifically interested var window window creating new window window defined setting window

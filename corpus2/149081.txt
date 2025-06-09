@@ -1,1 +1,0 @@
-I recently started using `<vector.h>` library and I was wondering, since all the operations are already implemented, **IF** the method of the sorting algorithm is the most efficient one. Everything runs perfect, there is no doubt, but should I worry about its performance? If I want to sort up to 6-7 million numbers, should I implement my own sorting method using quick sort?

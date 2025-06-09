@@ -1,1 +1,0 @@
-sometimes come biggest challenge engineer find application getting worse performance lack enough information imagine go weekly performance report application access log find get much lower response time july pray get worse next time

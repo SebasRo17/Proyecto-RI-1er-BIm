@@ -1,1 +1,0 @@
-stackoverflow someone posted link paper written linux kernel engineer use computer ram started explaining ram work right flip flop went discus performance problem associated operation matrix column v row access offered solution dealt stuff mmx instruction sorry bit vague find anywhere think guy possibly anders

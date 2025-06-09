@@ -1,1 +1,0 @@
-binary file e executables saved usually format e g elf header containing pointer stored inside file store binary file directly form sequence machine instruction need store separately secondly assembler creates binary file file among format

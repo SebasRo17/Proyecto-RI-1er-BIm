@@ -1,0 +1,1 @@
+I am working on a problem to find the Feigenbaum constant. In this problem I have to get $f^{2^n}(1/2)$ with $f(x) = kx(1-x)$. I use `Nest` to get $f^{2^n}(1/2)$ but it takes Mathematica forever to run with $n>5$ but my goal is to get to $n=14$. Does any body know any function or trick to get $f^{2^n}(1/2)$ with large value of $n$? Thank you very much.

@@ -1,1 +1,0 @@
-reading ralph book currently exploring following warehouse schema adventureworks num warehouse schema dimension fact table populated warehouse creation update often dimdate table populate possible date date used fact table standard process generating warehouse

@@ -1,1 +1,0 @@
-restful point view appropriate http action forum post like stackexchange would say post voting delete canceling vote since user allowed cast one vote per message voting considered idempotent operation put also possible

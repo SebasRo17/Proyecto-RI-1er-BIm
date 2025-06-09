@@ -1,1 +1,0 @@
-semver org software using semantic versioning must declare public api api could declared exist strictly documentation however done precise comprehensive forced declare public api use website api perhaps wrong definition part site developer e api example com allow query website get result structured json xml

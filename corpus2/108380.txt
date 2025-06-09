@@ -1,1 +1,0 @@
-In programming, various terms like abstraction are mentioned quite heavily. What, however, is composition? What is a basic but effective example of composition at play to result in good quality code (good quality meaning easy to understand, short and concise, etc).

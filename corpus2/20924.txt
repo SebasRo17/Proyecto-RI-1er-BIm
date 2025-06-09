@@ -1,0 +1,1 @@
+I'm want to generate a 2D spiral pattern like the the one shown in the following figure. I can generate the spirals one by one, but I think there ought to be a more efficient method for generating such a scattered point pattern. Could anybody give me a hint? ![sunflower pattern](http://i.stack.imgur.com/QtlCU.png)

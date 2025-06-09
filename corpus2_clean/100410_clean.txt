@@ -1,1 +1,0 @@
-good example illustrating concept oriented programming talking sample class class would inheritance overriding etc one ever think animal base animal cow different something like suck guy use

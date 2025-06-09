@@ -1,1 +1,0 @@
-While developing a library using C, what are your recommendations about variable and function scoping? In C++, OOP and namespaces made the whole thing a lot easier. But how to do that with plain C? Specially how to use the keywords `static` and `extern` in headers and code files to manage scoping?

@@ -1,1 +1,0 @@
-This is a weird question but here is why: If I write some JavaScript application, or Perl/Python/PHP cli script, anyone can see the source code. I can even host my code on a public hosting site, like github for example. It will be the same: Anyone can see the code. But will that make my code open source?

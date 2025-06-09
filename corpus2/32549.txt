@@ -1,0 +1,1 @@
+Could someone point me in the direction of creating an autoregressive distributed lag model in mathematica?

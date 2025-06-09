@@ -1,1 +1,1 @@
-I'm planning to give the Zend PHP 5.3 certification. Any suggestions on how to prepare for it? Also, what kind of questions can I expect? Can anyone remember what they were asked?
+my function is defined as f[x_] = x^1.1 - 2.5 x^.5 I need to find the equation of the tangent line to the curve using the point slope form which would be something like f'[a][x+a]+f[a] a=1 and x=1 in the instance how would i type this?

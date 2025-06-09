@@ -1,0 +1,1 @@
+How do I create a table like this? I find it very hard to create the zero-row and zero-column. ![The table](http://i.stack.imgur.com/ySDiv.png) Edit: I am looking for a solution where a formula eg. Table or something else is being used. I can already create the table manually.

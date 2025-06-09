@@ -1,1 +1,0 @@
-In Canada, everyone is familiar with the date format `YYYY-MM-DD`. In Europe or South Africa, they prefer `DD-MM-YYYY`. There are users from South Africa who get confused with the `YYYY-MM-DD` date format. Is there a way to handle this situation? I was thinking of using the following method format for all: `Feb 02, 2011`

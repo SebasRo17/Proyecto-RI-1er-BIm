@@ -1,0 +1,1 @@
+Can `Import` be forced to follow a file symbolic link (a.k.a. _alias_ (Mac) or _shortcut_ (Windows)) to the true file?

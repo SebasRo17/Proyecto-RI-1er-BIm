@@ -1,1 +1,0 @@
-Does anybody know how secure are my private repositories on bitbucket.org? Can I rely on that? I have some repositories and I only want them to be reachable only by me and two others.

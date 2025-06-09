@@ -1,1 +1,0 @@
-I was trying to find a relevant source of information for the above, but I failed. What is the output of software testing? Some say its "list of bugs", others say "answer whether or not the software conforms to what customer wanted". I know testing is a part of QA but not sure what is its aim and output in this context.

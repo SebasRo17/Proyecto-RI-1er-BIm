@@ -1,1 +1,0 @@
-recommendation book largely agnostic example mq implementation fine vendor go great detail architecture management nomenclature atomicity durability pattern logical deployment message queue system surely enough shared concept mq series msmq sysv ipc ok might stretching rabbitmq c c

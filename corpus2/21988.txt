@@ -1,0 +1,1 @@
+I have several notebooks that make use of the `Units` package and would like to be able to work simultaneously with the older units and `Quantity` objects introduced in version 9. What is my lowest-overhead method for updating units to `Quantity` objects?

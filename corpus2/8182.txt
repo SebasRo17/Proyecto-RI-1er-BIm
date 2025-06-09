@@ -1,0 +1,1 @@
+## Context               Norm[{1, Sin[t], Cos[t]}]     Norm[{1, Sin[t], Cos[t]}] // Simplify     (*     Sqrt[1 + Abs[Cos[t]]^2 + Abs[Sin[t]]^2]         Sqrt[1 + Abs[Cos[t]]^2 + Abs[Sin[t]]^2]     *)      ## Question: How do I coax _Mathematica_ to output `Sqrt[2]`?

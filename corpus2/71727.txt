@@ -1,1 +1,0 @@
-I know websites are hacked because of loose ends but how are they hacked via a form? Is it because the website owners didn't validate the form and the way they structured?

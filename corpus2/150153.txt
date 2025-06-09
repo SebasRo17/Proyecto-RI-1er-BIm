@@ -1,1 +1,0 @@
-On EF4 actions on entities are actually done via the Business Element layer (BE). Why do I need the Data Access (DAL) on another layer?

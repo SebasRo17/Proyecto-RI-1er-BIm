@@ -1,1 +1,0 @@
-assuming history stack grow downward seems like buffer overflow would lot harder exploit stack grew upward

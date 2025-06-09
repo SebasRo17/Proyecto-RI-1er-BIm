@@ -1,1 +1,0 @@
-I am curious if any open source project actually tracked effort by a measure like self-reported hours put by unpaid voluntary coders. Do they? How? Why? I don't care for cost estimations functions of SLOC or any other nonsense variable. I suggest as answer an example with multiple contributors with a explanation of how and why they do that.

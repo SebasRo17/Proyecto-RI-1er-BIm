@@ -1,1 +1,0 @@
-page advised use space instead tab cause issue diff patch excerpt page use indent num space tab help avoid problem diffs patch svn history annotation question using tab everywhere going affect command

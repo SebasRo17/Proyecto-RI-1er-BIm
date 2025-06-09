@@ -1,1 +1,0 @@
-I have never really done a large amount of C programming but am in the middle of teaching myself low latency C++. Would it do more harm than good to read the K&R C programming book? I am a bit worried I will be reading about C conventions which may no longer hold in C++ (especially with C's fondness of global variables).

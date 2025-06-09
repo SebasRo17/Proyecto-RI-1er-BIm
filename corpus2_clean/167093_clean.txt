@@ -1,1 +1,0 @@
-working handling application try fairly good automated test coverage one big problem though really know way test handling instance need test whenever uncaught exception message sent server exception information big problem strive never uncaught exception instead descriptive message test something never want actually happen

@@ -1,1 +1,0 @@
-unix want modify enviroment variable size new larger old one room new allocated malloc however memory enviroment variable stack heap memory allocate room new

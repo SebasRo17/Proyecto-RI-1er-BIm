@@ -1,1 +1,0 @@
-requirement application must allow administrator edit create delete user heard action must go functional requirement question following statement would appropriate num application must allow administrator edit create delete user num application must allow administrator edit user application must allow administrator create user application must allow administrator delete user

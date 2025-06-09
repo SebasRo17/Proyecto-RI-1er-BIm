@@ -1,1 +1,0 @@
-currently try design engine core level however cannot decide thread mixed rendering thread thread would making extra thread lock require slower faster would least marginally faster consider example concept

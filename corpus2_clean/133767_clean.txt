@@ -1,1 +1,0 @@
-going build window communication foundation wcf service using microsoft enterprise library caching wondering whether put cache service layer use single work better alternative prefer using could put cache

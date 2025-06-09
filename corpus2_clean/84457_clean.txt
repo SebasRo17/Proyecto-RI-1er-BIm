@@ -1,1 +1,0 @@
-given separation concern coupled view viewmodel example want visibility control view databound flag viewmodel first hunch would use boolean return however view visibility set enum choice change property enum use converter convert bool visibility enum proper approach trying follow idiomatic mvvm

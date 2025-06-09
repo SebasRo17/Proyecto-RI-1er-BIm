@@ -1,0 +1,1 @@
+Is there a way to label an array by a variable instead of an integer? For example calling the array `I[i,j]` with `{i,j} = {x,y,z}` instead of `{i,j} = {1,2,3}`? For example, I might want to label the components of the Inertia tensor by `I[x,x]`, `I[x,y]`.. instead of `I[1,1]`, `I[1,2]`..

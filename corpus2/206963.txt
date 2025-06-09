@@ -1,1 +1,0 @@
-What happens when one process have child threads and child process , will child process inherit all child threads of parent process.? Assume OS is Linux . Let it be Java Threading model.

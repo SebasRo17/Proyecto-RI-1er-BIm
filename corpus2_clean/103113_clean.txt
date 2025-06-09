@@ -1,1 +1,0 @@
-anyone tell css3 transition transformation get hardware accelerated word actually happens browser see css3 pipeline process involved

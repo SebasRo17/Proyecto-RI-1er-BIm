@@ -1,1 +1,0 @@
-I have a web application that I expect to go viral pretty quickly. How can I control traffic to it so that it doesn't crash under too much load? This application doesn't require user login. It will be properly load tested, but I am not really sure what kind of traffic to expect until I make it live.

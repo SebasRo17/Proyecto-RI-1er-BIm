@@ -1,0 +1,1 @@
+Is there a way to set the tab key to simply insert the tab character in a notebook? I often find the sometimes mysterious "features" bound to that key detrimental.

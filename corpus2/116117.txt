@@ -1,1 +1,0 @@
-How widely used is `alloca` in the real world? Should I teach my students to use `alloca` when it makes sense? Or should I teach them never to use it? Coming from a C++ RAII background, the idea of not having to call `free` manually sounds promising, especially in functions with multiple exit points.

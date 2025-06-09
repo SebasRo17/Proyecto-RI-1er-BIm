@@ -1,1 +1,0 @@
-I am a developer who has windows 7 installed as the host operating system with vmware. I have linux installed using vmware. Therefore I am able to test java and c++ apps on windows 7 and Linux. I also want to test them on windows 8 and I want to familiarise myself with windows 8. I am debating whether to upgrade my host operating system to windows 8 or install it on vmware?

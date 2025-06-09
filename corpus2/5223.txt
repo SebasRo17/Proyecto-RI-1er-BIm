@@ -1,0 +1,1 @@
+How do I alter the height of any function plot using the `Plot` function? Mathematica seems to limit the height of the plot up to the range of a function and distort the ratio of the Plot ![](http://i.stack.imgur.com/UWYIZ.png) Here in the above example the plot has a distorted axes ratio. How do I correct it?

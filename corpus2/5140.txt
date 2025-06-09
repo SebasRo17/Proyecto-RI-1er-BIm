@@ -1,0 +1,1 @@
+Is there a way to tell where a Mathematica file came from, meaning some type of machine ID (yes, I know about `$MachineID`). I want to be able to identify students who are sharing files, i.e. one student creating the file and giving it to others. Anti-cheating is what I'm trying to accomplish.

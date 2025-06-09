@@ -1,1 +1,0 @@
-I have a lot worked on the Java Standard Edition; and now I am new comer on the Java Enterprise Edition. Currently I am working on Offline chat module of Enterprise level Application using Spring MVC. Now I have confused in the selection of RabbitMQ or ActiveMQ?Can any one suggest me which one is better for the offline chat. Thanks In Advance

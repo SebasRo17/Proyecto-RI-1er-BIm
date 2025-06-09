@@ -1,1 +1,0 @@
-asp net web form want use jquery call directly either implement web service use page method also use generic handler ashx file however asp net mvc controller action nature called directly jquery web service offer asp net mvc world word seems fulfill requirement via mvc clean url controller action bother using web service

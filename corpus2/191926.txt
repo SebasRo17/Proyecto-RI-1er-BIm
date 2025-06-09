@@ -1,1 +1,0 @@
-To me, it seems as though "mainframe" is a somewhat dated term; is it simply an older synonym of "server," or does it server a purpose more similar to a cluster/supercomputer?

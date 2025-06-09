@@ -1,1 +1,0 @@
-software developer need know software testing apart tdd unit testing stuff make software work example case tdd applicable therefore need simple smoke testing every time deployed changed order prevent silly mistake probably simple test case check manually everything work properly better avoid bug fix right time basic software testing skill might come handy basic need know

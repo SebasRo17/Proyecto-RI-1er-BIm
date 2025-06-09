@@ -1,1 +1,0 @@
-fairly new oop programming general find event need pas one another call centralized within form c file example public methoda methodc methodd methoda stuff call methodb directly pass however methodb done control reverts back methodc called etc see nightmare large project habit one get relatively small project necessarily design found make logical sense include call within method

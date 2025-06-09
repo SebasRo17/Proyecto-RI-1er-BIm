@@ -1,1 +1,0 @@
-As far as I know, Apache Solr Lucene project is a web-app which is used for rich text searching. I just wanted to know:   * Why can't I use MySQL for that and just for rich text searching, why we use Solr?    * When all the other things can be performed using any DB ?

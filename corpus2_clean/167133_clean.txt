@@ -1,1 +1,0 @@
-sync program like dropbox typically track file change byte byte comparison using hash using diff keeping local commit log like version control

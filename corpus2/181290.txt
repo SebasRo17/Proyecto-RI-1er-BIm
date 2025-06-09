@@ -1,1 +1,0 @@
-I am eager to know what information is checked by the online companies to confirm that the card is yours? If a programmer has to implement this functionality, how can he access information like address of the client which is not written on the debit card? Thanks

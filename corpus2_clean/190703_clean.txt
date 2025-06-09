@@ -1,1 +1,0 @@
-student would like read list student file one elegant num reading constructing list creating student new list passed constructor num passing filereader constructor reading num something else

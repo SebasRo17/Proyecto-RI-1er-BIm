@@ -1,0 +1,1 @@
+How would I numerically find where a function has derivative jumps? In particular, I'm working with this function:               f[k_?IntegerQ,y_?NumberQ] :=         x /. FindRoot[Nest[y/4 Sin[\[Pi] #] &, x, k] == x, {x, 1}]      ![k=1](http://i.stack.imgur.com/PgU5R.png) ![k=2](http://i.stack.imgur.com/CULAx.png)

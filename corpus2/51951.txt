@@ -1,0 +1,1 @@
+I have a number of matrices `{2*2}` containing element in series ....so by what method I solve that ...               mat.{A (i), B (i)} == {A (i + 1), B (i + 1)}     Solve[%, {A (i + 1), B (i + 1)}, {i, 0, 20}]

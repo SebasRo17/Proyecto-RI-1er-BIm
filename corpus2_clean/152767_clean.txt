@@ -1,1 +1,0 @@
-working implement service solution num request function respond one num transmission type num x12 edi num http mime multipart num soap xml wsdl would also need include logging username password authentication service early learning stage wcf wcf good fit

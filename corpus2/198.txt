@@ -1,0 +1,1 @@
+Is it possible? Is it platform specific? Does it rely on the graphics hardware? Why does the antialiasing slider under **Preferences** > **Appearance** > **Graphics** do nothing? I remember seeing some post-plotting solutions years before in MathGroup, but could not find it. **Edit** System is: HP EliteBook 8440p, integrated Intel HD Graphics, running Windows 7, 64bit

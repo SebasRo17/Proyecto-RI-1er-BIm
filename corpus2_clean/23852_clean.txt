@@ -1,1 +1,0 @@
-seen others use bitwise combine flag define 0x01 define jump 0x02 define shoot 0x04 const byte jump shoot also way also seen many combine flag using addition define 0x01 define jump 0x02 define shoot 0x04 const byte jump shoot one readable one think people recognize standard way one prefer

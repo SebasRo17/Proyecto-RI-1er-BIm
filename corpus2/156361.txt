@@ -1,1 +1,0 @@
-I was just wondering if there are any major advantages or disadvantages to using either XAML/C# or HTML5/JavaScript for Metro Apps.

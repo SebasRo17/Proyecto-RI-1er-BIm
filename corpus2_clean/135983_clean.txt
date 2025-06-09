@@ -1,1 +1,0 @@
-working medium sized web application make heavy use javascript tend introduce common error per num line either unknown another module namespace forgetting common error noticing getting quite lot feedback fixing error side effect qunit testing unit testing typical way make dynamic language

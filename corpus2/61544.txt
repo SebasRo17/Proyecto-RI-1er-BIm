@@ -1,1 +1,0 @@
-I am building software in PHP right now which will be released with a free version and several premium versions. I'd like a license which allows people to freely modify the code, but not to redistribute it, or include it in proprietary software or any other software without a license. Would the MIT license be best?

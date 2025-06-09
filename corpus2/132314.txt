@@ -1,1 +1,0 @@
-I'm developing a web application with a strong focus on security. What measures can be taken to prevent those who work on the application (programmers, DBAs, quality assurance staff) from capturing user entered values that should be well-protected, such as passwords, social security numbers, and so forth?

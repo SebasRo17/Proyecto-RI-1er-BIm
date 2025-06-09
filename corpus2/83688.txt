@@ -1,1 +1,0 @@
-I often see people express a preference for vi or vim for text editing or even for programming. I've tried it and I can't see how it could possibly be any faster or easier. If you use one of them, why?

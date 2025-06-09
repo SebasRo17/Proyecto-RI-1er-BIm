@@ -1,1 +1,0 @@
-There are many estimation techniques, such as counting lines of code, Function Points, Object Points, etc. However, my next project is using Aspect Oriented Programming. Are there any special estimation methods or techniques that can be applied to software developed using this paradigm? Is there something like function points or object points for AOP?

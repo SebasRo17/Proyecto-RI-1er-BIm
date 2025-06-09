@@ -1,1 +1,0 @@
-i would like to begin tinkering with Node.js but i am unsure of some "Real- World" situations where node.js would be considered the proper thing to be used. The last thing a developer wants is to learn a new technology and use it in-properly.. Can you provide real-world examples of where node.js would be used properly

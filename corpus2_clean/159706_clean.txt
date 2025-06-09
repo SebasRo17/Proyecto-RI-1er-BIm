@@ -1,1 +1,0 @@
-jvms would compile byte native machine know lot optimization could apply recently also learn branch operation may block cpu affect performance significantly cpu make wrong prediction anyone know jvm would generate machine code easier cpu making right prediction based runtime statistic collected

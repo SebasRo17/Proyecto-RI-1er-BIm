@@ -1,1 +1,0 @@
-using event source like button gui know call interface example listening mouse event implemented mouse listener interface would event source know whether call abstract interface aware using provides way event source call interface

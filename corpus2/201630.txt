@@ -1,1 +1,0 @@
-I was wondering whether all programs run in a Loop, checking for variable changes then acting upon said changes followed by another Loop. Or do they run in a While statement, waiting for a variable to change before they execute a routine? Or am I just completely wrong?

@@ -1,0 +1,1 @@
+Why mathematica doesnt produce any answer to the following integral?               Integrate[0.040608386793220284*DiracDelta[w]*DiracDelta[-w + x], {w, -2, 2}]      and how can I get a solution? Thank you very much.

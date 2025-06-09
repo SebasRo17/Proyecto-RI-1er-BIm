@@ -1,0 +1,1 @@
+I am aware that we can find the expectation under the assumption that x follows some probability distribution, something like this:               Expectation[((1 - x)/x), x \[Distributed] BetaDistribution[alpha, beta]]      However, is it possible to find the variance of the above equation (1-x)/x under the same assumption that x follows a beta distribution?

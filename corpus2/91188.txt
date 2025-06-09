@@ -1,1 +1,0 @@
-I have come across the expression software/feature bloat, but is this a real thing or should we rather be talking about things like performance problems, memory and disk footprint, user experience and on-demand installation? What am I missing here?

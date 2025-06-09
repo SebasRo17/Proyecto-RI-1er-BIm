@@ -1,1 +1,0 @@
-How is programming a quantum algorithm different? What would a C like language look like if it was designed for qubits? Would types change?

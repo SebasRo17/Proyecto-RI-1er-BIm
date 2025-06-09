@@ -1,1 +1,0 @@
-Second of all, I was wondering if anyone knew what the difference was between exceptions (in the realm of exception control flow) and Exceptions (such as used in Java). But are they there to basically protect the system from crashing by terminating the user program?

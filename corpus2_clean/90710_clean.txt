@@ -1,1 +1,0 @@
-asked create pseudo random number generator using following algorithm generator generate every integer num n num exactly algorithm n num n initialize integer r equal num every time tabling routine called successive call random number set r r num mask low order n num bit product place result r set p r num algorithm mean say mask low order n num bit product

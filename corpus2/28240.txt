@@ -1,0 +1,1 @@
+I am trying to take averages of a large two dimensional array at certain intervals. For example, for the first row, I want to take K averages of 500 values. Here is what I am trying               Do[Data[[i, k]] =      Mean[Data[[i]][[j + 1 ;; j + 500, 2 ]] ], {i,      8}, {j, 0,      100*5*200, 500}, {k, 1,     200} ]*)

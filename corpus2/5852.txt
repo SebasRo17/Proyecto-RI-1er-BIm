@@ -1,0 +1,1 @@
+Is there a function to find the period of an arbitrary (possibly complex) function in _Mathematica_?

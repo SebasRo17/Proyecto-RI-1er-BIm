@@ -1,0 +1,1 @@
+I always assumed that distributing a computation is faster, but it isn't necessarily true. When I do `Sum[i,{i,10^4}]` I retrieve an answer much faster then if I do `ParallelSum[i,{i,10^4}]`. Why is this the case? Is there a certain rule on when I should compute in parallel and when I should stick to a single core?

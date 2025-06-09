@@ -1,1 +1,0 @@
-trying write joomla system php improve coding programming skill need guideline rule thumb basically want create index php file act front controller redirect request transparently extension plugins need follow mvc hence flexible recommendation edit meant trying create using core php framework existing library acceptable

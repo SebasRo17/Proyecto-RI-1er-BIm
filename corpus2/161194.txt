@@ -1,1 +1,0 @@
-Of course, it is very good use to use a logging framework for the error messages or warnings. But sometimes I use System.out.println() if I want to try something new in a short time. Is it really so bad using System.out.println() for some quick test?

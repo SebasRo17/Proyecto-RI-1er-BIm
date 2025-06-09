@@ -1,1 +1,0 @@
-working android query accepts num parameter uri projection selection sortorder selection projection parameter little bit confused selection projection part query example selection project part query select person zeus

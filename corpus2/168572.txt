@@ -1,1 +1,0 @@
-The solution for the 3-d case can be found here; I would like to get the generalized version. There's no simple generalization of the Mathworld algorithm since the cross product is defined only for 3 and 7 dimensions, so I understand.

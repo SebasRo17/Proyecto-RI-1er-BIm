@@ -1,1 +1,0 @@
-currently working system generate product recommendation like amazon people bought also bought plan process using apache generate recommendation stored mysql currently item based apply clustering algorithm make cluster user apply association rule subjective cluster question provide enough flexibility tweak existing algorithm according need yes better alternative like r

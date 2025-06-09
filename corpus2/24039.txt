@@ -1,0 +1,1 @@
+Below, is it possible to print `No` and have x be 2. That is, I'm looking for an `And`-like function that looks at all arguments before returning.               x := 1     If[And[True, False, True, False, (x := 2; True)], Print["Yes"], Print["No"]]; x

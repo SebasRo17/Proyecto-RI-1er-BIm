@@ -1,1 +1,0 @@
-Is there a generally agreed upon definition for what a **programming abstraction** is, as used by programmers? [Note, programming abstraction is not to be confused with dictionary definitions for the word "abstraction."] Is there an unambiguous, or even mathematical definition? What are some clear examples of abstractions?

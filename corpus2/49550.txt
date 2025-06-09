@@ -1,1 +1,0 @@
-Which hashing algorithm is best for uniqueness and speed? Example (good) uses include hash dictionaries. I know there are things like SHA-256 and such, but these algorithms are **designed** to be **secure** , which usually means they are slower than algorithms that are less _unique_. I want a hash algorithm designed to be fast, yet remain fairly unique to avoid collisions.

@@ -1,1 +1,0 @@
-ok title might little misleading window draw widget inside constructor widget pas list dictionary contain parameter widget work quite nicely worried interface caller obfuscated order use window one study construct correct list dictionary call constructor one parameter widget params good bad design alternative syntax provide

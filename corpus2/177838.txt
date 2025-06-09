@@ -1,1 +1,0 @@
-From a RESTful point of view, what is the most appropriate HTTP method for the action of upvoting a forum post (like on StackExchange)? I would say POST for voting and DELETE for canceling vote, but since users are only allowed to cast one vote per message, voting can be considered an idempotent operation so PUT can also be possible.

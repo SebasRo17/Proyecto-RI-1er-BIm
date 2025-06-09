@@ -1,1 +1,0 @@
-debate regarding variable member team prefer result directly caller whereas others prefer declare returned caller see example argument latter allows developer debugging find return caller thereby making easier understand especially call daisy chained guideline efficient reason adopt one style another thanks private bool num private bool var result num result

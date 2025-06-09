@@ -1,1 +1,0 @@
-reading event sourcing question regarding persistence still db entity right event replayed every time application started get latest version entity memory seems like waste larger system large amount point event sourcing replay event populate store required analyze

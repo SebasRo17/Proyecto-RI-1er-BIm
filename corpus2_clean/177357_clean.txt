@@ -1,1 +1,0 @@
-sql statement executed program best practice store statement text often read source file executed think better approach would separate text file containing sql statement read dictionary key purpose statement statement executed using key decoupling database implementation program allowing reuse statement program object efficient better way thank

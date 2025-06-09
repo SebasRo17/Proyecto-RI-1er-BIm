@@ -1,1 +1,0 @@
-I was under a tight deadline to finish a project in C#, and as a result I feel I didn't code things in the most efficient way. Now that I have time to go back and optimize the code, I was wondering if there was a Visual Studio extension or other program/service to highlight blocks of code similar to each other. This way I can break them off into functions as I need to.

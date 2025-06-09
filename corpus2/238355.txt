@@ -1,1 +1,0 @@
-For each database table, I create an entity (object) which contains all columns of the database as Class fields. Now, how do we call these entities in Java? I could not find an official term so I read on forums that people refer to them as `entities`, `models`, etc. I'd like to know either Java standardized term or Java community accepted term.

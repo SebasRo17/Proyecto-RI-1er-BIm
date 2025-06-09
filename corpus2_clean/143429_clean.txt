@@ -1,1 +1,0 @@
-service num machine store database machine server need pull ten machine better implement rpc use replication

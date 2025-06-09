@@ -1,0 +1,1 @@
+I have a list of vectors vecs={vec1,vec2,...,vecN} where veci is a list with length N. Now I have a matrix N*N called mat. I would like to efficiently get all the numbers veci.mat.veci for i=1 to N in a list. How do I do it?

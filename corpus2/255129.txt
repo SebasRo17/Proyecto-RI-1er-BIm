@@ -1,1 +1,0 @@
-I'm reading a paper describing a NLP work, and I hardly catch the concept of a term, "latent parsing". Original paper: http://web.stanford.edu/~angeli/papers/2013-acl-temporal.pdf The figure in the page 6 seems to be helpful (I can't upload the figure because of my reputation)

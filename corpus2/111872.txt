@@ -1,1 +1,0 @@
-I am interested in learning how to program microcontrollers. It seems to be quite interesting, but I don't know, where to start. I am particularly interested in:   * What platform is worth learning?   * Are there any cheap systems that make it easy to write own programs for them?   * Pointers to good books / tutorials

@@ -1,1 +1,0 @@
-Is it possible to use only Java (without C++ /NDK) for building good, fast, beautiful Android apps (including 3D development)? When I look for Android developer position requirements (vacancies), I see that knowledge of C/C++/NDK is very important. Some companies even require to build their test tasks using only C++ (OpenGL).

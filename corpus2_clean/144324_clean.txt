@@ -1,1 +1,0 @@
-prolog interpreter functionally decompose program order improve efficiency know research prolog interpreter reach near c speed parallelism kind typical c programmer see anyone know topic

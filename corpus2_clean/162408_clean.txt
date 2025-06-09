@@ -1,1 +1,0 @@
-could older c compiler e g vs2008 num link external library written c num thought c num lib file byte stage bother older compiler generated long somehow resolvable callable developing small library whose api still support c num user looking forward wondering whether ok implement library using helpful feature like std unique ptr stick boost

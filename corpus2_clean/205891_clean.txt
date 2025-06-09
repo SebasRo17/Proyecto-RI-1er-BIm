@@ -1,1 +1,0 @@
-could please help understand ternary operator public static e replace list e list e val e newval listiterator e list listiterator hasnext val next val equal next set newval thought part regular statement used

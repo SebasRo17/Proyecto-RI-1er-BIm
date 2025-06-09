@@ -1,1 +1,0 @@
-Some possibilities are JSON, XML, HTML and/or Javascript fragments. The democratic answer to this question is "it depends on the situation," but I am looking for why one may be better than the others.

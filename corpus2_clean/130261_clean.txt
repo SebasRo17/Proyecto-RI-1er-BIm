@@ -1,1 +1,0 @@
-anybody done real research probability uuid collision especially version num random uuids given random number generator use truly random might dozen hundred identical machine running generating uuids co worker consider testing uuid collision complete waste time always put catch duplicate key exception database try new uuid going solve problem uuid come another process refers real

@@ -1,1 +1,0 @@
-I will be adding a feature to the software and have to update or modify some of public API of the present open source software. What are steps which could be taken to ensure the compatibility of the software. what are the testing methods which are used in open source world to test the newly added features?? Open Source program is: Xapian

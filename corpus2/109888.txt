@@ -1,1 +1,0 @@
-How should I document my designing of the app better so that I avoid programming by coincidence? How can I structure notes so that it is clear how an app works so that when I refer to it a year later I'm not lost for the first 3 days?

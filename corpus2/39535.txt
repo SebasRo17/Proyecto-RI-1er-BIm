@@ -1,1 +1,0 @@
-I read the Python documentation a lot and sometimes I am baffled by this notation: > os.path.join( **path1[, path2[, ...]]** ) I somehow make that **[, path[,...]]** is a list but I would like to know if I am reading it correctly. Bear with me, this is coming from a Java developer who is trying out Python. X)

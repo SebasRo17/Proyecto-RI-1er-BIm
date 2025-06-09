@@ -1,1 +1,0 @@
-How can the lack of Unicode support in PHP affect a PHP web app?

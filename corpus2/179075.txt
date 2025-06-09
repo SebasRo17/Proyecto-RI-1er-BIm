@@ -1,1 +1,0 @@
-I'm in the process of writing a library in PHP, based on a Java package that comes with a BSD license. The code will obviously not be the same as the original, but most class/method names, and the in-line documentation, will be the same. Is a link the original Java library in the code documentation enough? Can I then release my code with an MIT license?

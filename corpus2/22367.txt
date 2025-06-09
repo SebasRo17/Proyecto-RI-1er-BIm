@@ -1,0 +1,1 @@
+I just realized that the output of `CUDAVolumetricRender[]` uses (quite marked) perspective, which I do not want (for scientific data representation, it can be very misleading). How do I turn it off? (i.e. make it use an isometric projection)

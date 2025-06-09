@@ -1,1 +1,0 @@
-work iphone app developer know bit c c objective c also fiddled many high level application game development final goal make handheld game like home made ne snes handheld even atari found arduino need information approach num learn pick best board cpu controller gpu lcd screen lcd controller etc num learning make ne emulator first help understand field tutorial

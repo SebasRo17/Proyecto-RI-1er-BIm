@@ -1,1 +1,0 @@
-saving sql statement mysql table executing later bad idea sql statement ready execution e parameter swap anything example delete user id num guess lazy thought idea working project require quite cron job execute sql statement periodically

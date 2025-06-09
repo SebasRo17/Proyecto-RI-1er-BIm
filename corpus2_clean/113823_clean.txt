@@ -1,1 +1,0 @@
-cassandra hbase efficiently support storage blob like image storing directly hdfs stress namenode huge number file facebook us haystack image attachment storage open source good choice distributed blob storage read amazon s3 used many would cost money personally would like rely third party system suggestion

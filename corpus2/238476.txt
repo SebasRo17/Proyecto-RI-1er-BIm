@@ -1,1 +1,0 @@
-What is the best way to track any change made to the SQL Server database before moving to production in case of a large team ? We have used excel sheets but quite often things get missed which come out with SQL compare only during moving changes to production?

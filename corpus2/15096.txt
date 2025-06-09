@@ -1,1 +1,0 @@
-They both can be seen as centralized processing, but from a developer's perspective is it returning us to the days when access to computers you could program yourself were limited and expensive? To me that was the problem the PC solved. Heard this on http://thisdeveloperslife.com/ 1.0.6 Abstraction.

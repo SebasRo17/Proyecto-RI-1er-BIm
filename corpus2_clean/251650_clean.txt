@@ -1,1 +1,0 @@
-currently following along youtube tutorial understand starting creating engine game able implement without outside help future make sure understanding everything going would professional game developer know implement everything take make game would copy paste certain part like creating buffer fps cap edit taste

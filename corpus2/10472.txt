@@ -1,0 +1,1 @@
+I'm trying to illustrate the solutions numerically and graphically for an equation such as `Tan[x] == x`. I think I did everything ok except I wanted to mark each intersection between `Tan[x]` and `x`. Does anyone know how such a thing can be done?

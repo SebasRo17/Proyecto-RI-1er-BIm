@@ -1,0 +1,1 @@
+I need to convert binary float to decimal float in Mathematica, ideally between any two bases. `FromDigits["1.111111", 2]` does not work.

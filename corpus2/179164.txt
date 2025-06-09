@@ -1,1 +1,0 @@
-I am using MVC3 and Enitty Framework 4 with the Database first approach. It created the context template with its own validation for the fields based on the database. My question is where should I put the other validation based on the buisness logic. Should I put it in the Context.tt file, should it go in the controller or should it go in a seperate model?

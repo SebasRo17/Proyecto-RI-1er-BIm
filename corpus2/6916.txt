@@ -1,0 +1,1 @@
+This is an example given in Help:               Plot3D[Sin[x y], {x, 0, 3}, {y, 0, 3}, MeshStyle -> Gray]      Could this be changed to something like               Plot3D[Sin[x y], {x, 0, 3}, {y, 0, 3}, MeshStyle -> "SunsetColors"]      The above obviously does not work, but is there a way to modify syntax so that it can be done?

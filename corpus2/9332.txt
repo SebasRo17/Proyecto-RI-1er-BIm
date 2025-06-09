@@ -1,0 +1,1 @@
+Is it possible to set/move the mouse pointer's location directly from _Mathematica_ without using external tools like `Run["xdotool mousemove x y"]`?

@@ -1,1 +1,0 @@
-I am looking for a "test bed" application which will help me to learn Linq by writing queries and immediately executing them against the AdventureWorks database. Why AdventureWorks? Because it is a sample database Microsoft uses in their documentation?

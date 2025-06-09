@@ -1,0 +1,1 @@
+![Mathematica graphics](http://i.stack.imgur.com/ZNXEw.png) `Alt`+`+` could adjust the size, but how to store the satisfactory size? For example: Each time I type `|`, its size is (I assume) 12. How to make its effect like adding `StyleBox["|", FontSize->18]`?

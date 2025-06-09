@@ -1,0 +1,1 @@
+if I have a plot let us say               Plot[x^2 - 5 x - 10, {x, 0, 8}]      I want o check if there is a way to know the automatic plot range and to add or subtract from that range as I need. I will assume something fictitious like this:               Plot[x^2 - 5 x - 10, {x, 0, 8}, PlotRange -> (Automatic + {0, 10})]      is there a way to do something like this?

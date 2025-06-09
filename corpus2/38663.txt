@@ -1,1 +1,0 @@
-I have heard Google uses Python, Java and C++. But what I don't know is how is each of those programming language is used. I mean what is Python, Java and C++ is used for at Google. Why would they used upto 3 programming languages when 1 language is enough. Does anybody know?

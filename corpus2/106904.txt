@@ -1,1 +1,0 @@
-I need to take backup of calendar on my phone. We have requirement that we need to take backup of entire calendar data. Now, phone always supports recurring events. So, event may exist from 01-01-1601 to 31-12-3000. Logically, there is no point of taking backup from 01-01-1601 to 31-12-3000. I just want to know your views on the ideal range for the same.

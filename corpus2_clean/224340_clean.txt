@@ -1,1 +1,0 @@
-say running website generates large number task particular time e g reminder email could cron selects database table unprocessed event current time even long running process poll table seems messy hand far know producer consumer messaging system support arbitrary priority approach

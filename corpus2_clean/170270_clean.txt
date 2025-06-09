@@ -1,1 +1,0 @@
-type function made obsolete newer version api others marked deprecated make obsolete make deprecated

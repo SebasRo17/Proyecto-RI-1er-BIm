@@ -1,1 +1,0 @@
-include stdio h p hello printf c p understand concept indirection us three time compiled program j actually hear p pointer pointer pointer character getting j understand logic behind please help understand actual logic behind confusion increase use one indirection get complied program mean p hello printf c p give difference two program

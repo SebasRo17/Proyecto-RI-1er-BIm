@@ -1,1 +1,0 @@
-group num developer scientist end engineer write c would like make available developer easily first step process set svn server worked fine facing another need would like system base class mathematical library algorithm public accessible every developer something like wiki like root documentation sort site upload describe point use suggestion

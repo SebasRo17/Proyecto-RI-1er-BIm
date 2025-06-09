@@ -1,1 +1,0 @@
-I have two questions to ask.   1. If I want to code in ARB, what are the prerequisites I need to write the code?   2. I have been using OpenGL and DirectX lately. I want to compile and run the ARB code. What compiler should I use to compile and run the code?

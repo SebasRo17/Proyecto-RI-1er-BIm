@@ -1,1 +1,0 @@
-application mine analyze sentiment article using nltk display sentiment trend right article weigh amount show accurate picture article higher impact internet others example blog post unknown blog weigh amount article new york time determine impact

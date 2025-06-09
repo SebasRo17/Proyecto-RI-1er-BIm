@@ -1,0 +1,1 @@
+Sometimes you need to check for the type of an expression. You use Head[data] to get answers. Some data:               data = {7, 1.4, Red, "hp", hps};     Head /@ data     (*{Integer, Real, RGBColor, String, Symbol}*)      Is there summary of what kind of answers `Head[]` can give?

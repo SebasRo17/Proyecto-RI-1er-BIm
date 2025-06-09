@@ -1,1 +1,0 @@
-Ok, Python doesn't have tail call optimization. But for those who think better recursively than "looply", whats the best practices to write code?? 1000 stack calls are enough for many cases, but what are the tips to conceal recursion with efficiency in Python?

@@ -1,1 +1,0 @@
-Is it possible to use the find feauture in NetBeans or other Java IDE excluding commented code from the results? How?? Given a project I'd like to find all the occurrences of a word without getting back possible matches that come from code that is commented. Am I the only one that needs something like this?

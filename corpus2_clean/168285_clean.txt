@@ -1,1 +1,0 @@
-noob question quite able tell difference repl interactive shell reading definition wikipedia wiki note repl particular kind interactive language shell proper subset though wiki definition seems restrict terminology repl lisp like language whereas stated property really contain distinguishing feature particular would correct call ipython repl

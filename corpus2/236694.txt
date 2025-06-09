@@ -1,1 +1,0 @@
-Is there any specific reason driving Python files to often be so large? Python files may contain several classes within one file, and some files go up over 10k lines in length. This seems to go against the idea of modularity and encapsulation. Also it doesn't seem "Pythonic" in the first place, considering IMO it can be harder to read and follow.

@@ -1,1 +1,0 @@
-application feature like user want add new address database adding address need perform search using parameter like country city street etc list come manually check address want add present present add address way make process better maybe somehow eliminate step avoid need manual verification etc

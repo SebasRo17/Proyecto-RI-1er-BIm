@@ -1,0 +1,1 @@
+my laptop has 2 cores, can I assign a core to evaluate one code, and the other core for another code in parallel instead of evaluating in sequence? thanks

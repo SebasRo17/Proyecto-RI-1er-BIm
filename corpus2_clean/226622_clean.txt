@@ -1,1 +1,0 @@
-considering using bitbucket rather hosting git repository internally anyone know break rule pci compliance able find much information

@@ -1,1 +1,0 @@
-using android internal storage hold application trying find good way handle reading older schema example let say serialized written several instance file public private text public text text text later read stringified back cast say change look like public private public property named differently read saved original schema easily cast new solution version read old cast new

@@ -1,1 +1,0 @@
-Is Django a good solution for creating applications that won't use any database and communicate only through an internal API?

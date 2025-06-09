@@ -1,1 +1,0 @@
-number external method call smaller set internal method something like obj one c obj two c obj one call obj internal c obj two call obj internal c z nearly identical one argument end differs internal call constant could copy paste time wondering there way dynamically create external method

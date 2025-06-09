@@ -1,1 +1,0 @@
-Does anybody know the status of this C++ Inversion of Control Container? Any alternative?

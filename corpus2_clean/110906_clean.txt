@@ -1,1 +1,0 @@
-following question mine wanted know general principle implementing event dispatching system allows event bubble capturing come learn implementation make sense non gui related object asking want try build general purpose event dispatching framework php practice real use figure whether event bubbling capturing anyway useful environment talking php gtk similar environment

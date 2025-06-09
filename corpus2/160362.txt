@@ -1,1 +1,0 @@
-They both seem to take about the same amount of effort to use: Singleton: needs a .h and .m file, has to be imported into any class you want to call it from and then has to be instantiated How is that any different than a class?

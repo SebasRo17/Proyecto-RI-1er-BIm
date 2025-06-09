@@ -1,1 +1,0 @@
-I'm using WebStorm on a Node.js project and want to edit the files in the node_modules folder but WebStorm won't allow this. I found the padlock at the bottom right on the IDE but switching that between lock/unlock makes no difference. Any ideas?

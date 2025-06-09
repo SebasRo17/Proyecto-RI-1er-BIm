@@ -1,1 +1,0 @@
-instance non vertically aligned version num num cabal version num license author jason baker vertically aligned version num num cabal version num license author jason baker prefer

@@ -1,1 +1,0 @@
-Should a software engineer also act as technical support? That is, should a company allow their engineers to wear both the software engineer and technical support hats. It seems that it would remove the ability to write software if much of an engineer's time is taken up by technical support.

@@ -1,0 +1,1 @@
+At some point I noticed that I was using `Riffle` and `Partition` together a lot. I would do things like               Partition[Riffle[{1,2,3},{4,5,6}],2]      or               Partition[Riffle[{1,2,3}, 6 , {2, -1, 2}], 2]      The question is: are better alternatives, in terms of memory and speed?

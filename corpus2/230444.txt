@@ -1,1 +1,0 @@
-Why is `~0` a sequence of `1` bits and not just a single bit? Where do the extra `1` bits come from? Does this mean `~1` a sequence of `0` bits or just a single `0` bit? My understanding was that the `~` operator is applied on the specific bits mentioned.

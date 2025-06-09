@@ -1,1 +1,0 @@
-Writing documentation is part of programming, and writing _well_ is part of what makes the documentation useful. So, what are some hints or guidelines for good writing in the technical realm? What are some resources (on-line or on dead trees) which might help me to improve my documentation?

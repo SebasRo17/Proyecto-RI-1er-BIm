@@ -1,1 +1,0 @@
-starting current project wondering terminology planning basically want map every layer controller called method exist controller purpose including model method interacting view displayed based certain action way created detailed list catch duplicate make one call heard something called doctrine sure im looking since dont know use heard documentation

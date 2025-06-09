@@ -1,1 +1,0 @@
-usually lot system software inside pc like operating system contains different interrupt handler etc assembler compiler driver question store information computer software stored machine instruction format inside computer specific location inside pc rom stored high level language like c written compiled every time program called

@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  How should I test randomness? Are their some techniques described for testing applications that have as a requirement some statistical or probabilistic features? They may for example use some random number generators and the customer may wish certain distribution etc. How would software companies test that the statistical requirements are satisfied?

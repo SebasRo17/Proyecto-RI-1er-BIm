@@ -1,0 +1,1 @@
+I want to create a ListLinePlot with `InterpolationOrder->0`. However, when using plot markers like in               ListLinePlot[{{1, 2, 3, 5, 8}, {2, 3, 6, 9, 10}, {4, 5, 7, 10, 12}},       PlotMarkers -> Automatic, InterpolationOrder -> 0]      the plot markers become mixed up. How can this be avoided?

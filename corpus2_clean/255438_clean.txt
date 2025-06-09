@@ -1,1 +1,0 @@
-interested building browser like rendering engine understand bit opengl gui toolkits work browser actually put pixel screen like software scan every paint whatever render tree act like gui toolkits call function display element certain coordinate library focus specifically painting portion browser critical rendering path

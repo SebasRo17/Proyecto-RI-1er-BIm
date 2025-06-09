@@ -1,1 +1,0 @@
-asp net mvc project razor get request load two property model dependent property passed action parameter group property supplied group collection property supplied post action process repopulate view provide similar logic could returning action param get response caller question based experience good practice get see downside add lack redundancy better alternative

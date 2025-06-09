@@ -1,1 +1,0 @@
-given structure want provide api size return number item num approach num maintain count increment decrement response add delete call respectively num perform traversal calculate count size called approach num take n v num approach num performance benefit num num

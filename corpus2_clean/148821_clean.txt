@@ -1,1 +1,0 @@
-developing application containing various method problem need call method form submission reason create new file form submission every file create instance call appropriate better way call method situation create multiple file similar functionality php surely want use framework

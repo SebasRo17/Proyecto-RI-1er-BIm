@@ -1,1 +1,0 @@
-Is there a term for performance issues caused by someone creates a loop that performs hundreds or thousands of actions that could have been done in bulk? My example is that I keep running into loops that loop through a group of IDs and then perform a single query for each ID to retrieve the associated row instead of creating a single query.

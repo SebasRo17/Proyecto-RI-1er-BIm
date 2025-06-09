@@ -1,1 +1,0 @@
-come small project devs effective distributed version control system e g git compared system central repository like idea central repository seems much elegant organized however watching linus torvalds google talk doubt benefit really noticeable small project though

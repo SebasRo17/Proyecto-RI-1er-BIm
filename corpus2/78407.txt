@@ -1,1 +1,0 @@
-Right now, I'm trying to learn a well documented software engineering. I knew that if we code using Object Oriented concept, we can do software design concept using UML. But what if we code using procedural programming, how we do software design? as my understanding, UML is for OOP. And do you have any references in internet? Please advices and correct me if I'm wrong about UML.

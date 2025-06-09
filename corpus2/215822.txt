@@ -1,1 +1,0 @@
-As we do design & analysis before development, wouldn't be convenient to be able to generate Java classes from a class diagram?   This would promote more exhaustive design and better codes, right? It's strange that why Google returns tons of tools to generate class diagram from Java classes but not the other way around.

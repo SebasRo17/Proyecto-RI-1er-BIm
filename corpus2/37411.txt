@@ -1,1 +1,0 @@
-I currently try to design an engine at the core level. However, I cannot decide if input thread should be mixed with a rendering thread or any other thread. Would making it an extra thread with all the locks it will require be slower? If it's same or faster, would at least be marginally faster? [Consider the above only an example to the concept.]

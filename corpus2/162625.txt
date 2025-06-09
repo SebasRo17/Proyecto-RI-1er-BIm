@@ -1,1 +1,0 @@
-The log files in question are metrics log files. One of them is a project file produced by SourceMonitor, to which I regularly add checkpoints to chart the progress of projects.

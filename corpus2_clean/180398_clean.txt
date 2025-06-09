@@ -1,1 +1,0 @@
-sicp 2nd edition section num num author following define even fib n accumulate con nil filter even map fib enumerate interval num n question use accumulate case got answer filter without using accumulate

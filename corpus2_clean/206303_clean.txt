@@ -1,1 +1,0 @@
-day password hashing algorithm designed slow prevents black hat guessing password least partially also give additional work server imagine someone wanted make server extremely slowly could simply send many log request would lead many password hash calculation therefore dramatically increasing cpu usage common practice preventing attack called

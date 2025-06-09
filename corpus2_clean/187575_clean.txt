@@ -1,1 +1,0 @@
-started implementing caching mvc project derived net store sql database right want cache like public var cache new mykey cache cache var statusrepository cache setdata datetime num far caching go work concern seems like multiple responsibility longer calculating count getting cache exist saving cache returning cleaner way

@@ -1,1 +1,0 @@
-I am building a system where the staff have to sent confirmation text messages to our mobile phone. Is there an easy way so that our company immediately pays for the text message? Sort of a collect-sms instead of collect-call.

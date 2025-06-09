@@ -1,1 +1,0 @@
-trying create interface external server know start would need take audio computer send remote server http request api trying connect described p1 num never worked audio programmatically know would straightforward way go solution exist already come across reference vlc ffmpeg know appropriate trying accomplish

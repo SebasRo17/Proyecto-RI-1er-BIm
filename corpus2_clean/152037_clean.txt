@@ -1,1 +1,0 @@
-started use connect little script postgresql database day ago research found lot database connector like psycopg work using cursor know cursor use still wonder safe use cursor along script life safe would preferable use different cursor query

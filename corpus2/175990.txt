@@ -1,1 +1,0 @@
-I was recently grabbing an auto generated TreeViewItem from a nested TreeView node in WPF, and I was using ItemContainerGenerator to get it in code behind. Then I thought to myself I'm certainly violating MVVM right now. What are some other signs that someone is violating MVVM ?

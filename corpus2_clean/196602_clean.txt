@@ -1,1 +1,0 @@
-reading article designing flag enumeration msdn say combining flag enumeration value intermediate skill required developer implementing common scenario think flag enumeration awesome something learned experience c seem like article cautioning developer away consider useful complex skill

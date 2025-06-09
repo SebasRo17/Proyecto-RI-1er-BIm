@@ -1,1 +1,0 @@
-Why is there so much buzz about closures among developers? In my career I never intentionally used them, though don't clearly understand what they are. UPD: just to clarify. The question is about why the closure concept became so talky these days.

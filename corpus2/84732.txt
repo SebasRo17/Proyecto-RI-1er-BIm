@@ -1,1 +1,0 @@
-In blackberry we can override keyChar() method and capture the keypress event or we can register onKeyPressListener. i know, onKeyListener is observer pattern. In android also there is a KeyEvent.callback and onKeyListener Both are events why we no need to register for keyChar event. what is the difference between both pattern?

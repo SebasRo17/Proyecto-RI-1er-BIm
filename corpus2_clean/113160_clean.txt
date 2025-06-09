@@ -1,1 +1,0 @@
-know use c f together project however sure good idea seems mixing two different coding style functional v oo could cause lack cohesion design correct

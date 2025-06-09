@@ -1,1 +1,0 @@
-would like know message broker choose case communication among apps within single pc considering speed among apache activemq msmq rabbitmq one fastest case communication among multiple apps single pc

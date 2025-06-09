@@ -1,1 +1,0 @@
-In my current team there is a practice of putting Epics under User Stories and sometimes even User Stories or Epics under Tasks! When questioned, the usual reply is: **"if it is not a good practice then the project management tool would not have allowed doing so!"** (IBM Rational Team Concert, for one does not prevent such practice.) What do the experts here think about this?

@@ -1,1 +1,0 @@
-let say friend need write incredibly math heavy application thought using c want write slow compared c application need solve something like num num per frame performance important tell make c really really want use application going snail speed going extremely disappointed

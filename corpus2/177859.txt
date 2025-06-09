@@ -1,1 +1,0 @@
-I know that it is possible to sell GPL code, but I wanted to know if it was possible to sell GPL code that has been forked and modified. The forked and modified code will still be available to use, modify, and redistribute.

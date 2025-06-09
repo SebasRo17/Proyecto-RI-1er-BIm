@@ -1,1 +1,0 @@
-goal include module source file war file read explanation maven official site plugin example module source inclusion simple html wonder way include source file contained within module simple maven plugin war

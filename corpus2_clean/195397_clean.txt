@@ -1,1 +1,0 @@
-performance issue want logging send new thread program work new thread write message file without effect program could send stdout new thread work done create new thread ok open file ok create pipe inside thread ok send stdout new thread dup every time buffer get full every num second log file get new mpi program fork whole program posix thread

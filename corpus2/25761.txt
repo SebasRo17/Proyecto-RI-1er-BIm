@@ -1,1 +1,0 @@
-We're using Pivotal Tracker for our project, which lets us choose from these three point scales:               0,1,2,3     0,2,4,8     0,1,3,5,8      And I'm looking for a resource to help guide our decision. (After using 0,1,2,3 for two iterations, we can see where one of the others would be a lot more useful or meaningful.)

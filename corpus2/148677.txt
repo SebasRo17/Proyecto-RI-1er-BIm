@@ -1,1 +1,0 @@
-Why is 80 characters the "standard" limit for code width? Why 80 and not 79, 81 or 100? What is the origin of this particular value?

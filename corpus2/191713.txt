@@ -1,1 +1,0 @@
-What is wrong with using database tables with phpmyadmin or mysql? What are the benefits, if I'll use 'migration'?

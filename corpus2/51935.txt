@@ -1,0 +1,1 @@
+If I type into Mathematica               TensorProduct[IdentityMatrix[2],IdentityMatrix[2]]      It gives me a result that has nested matrices. How do I turn that into a normal matrix without any nesting? Thanks

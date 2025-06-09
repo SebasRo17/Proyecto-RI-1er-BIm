@@ -1,1 +1,0 @@
-How can I explain C# interfaces and constructors to a 8 years old genius kid?

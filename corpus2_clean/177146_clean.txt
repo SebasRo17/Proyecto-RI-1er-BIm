@@ -1,1 +1,0 @@
-currently working wp8 application current design view bind specific view model directly looking sample though seems another way view model accessed view model view view model mvm correct way cause flexibility issue future

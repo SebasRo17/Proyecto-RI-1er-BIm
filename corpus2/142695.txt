@@ -1,1 +1,0 @@
-I found my self often paused to check a certain usage of one core API when writing either `javascript` or `Ruby`. I am wondering how the other guys doing? Is it necessary to remember every Core API usages? It the answer is **yes** , how did you guy do it **efficiently**?

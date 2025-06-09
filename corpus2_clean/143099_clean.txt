@@ -1,1 +1,0 @@
-ever since notch minecraft fame announced next project include programmable num bit cpu everybody seems want write vm specification notch written seen written c c go javascript coffeescript etc special specification notch wrote first game actually contains cpu whatever want sparked curiosity fail grasp thing make special suddenly everybody need write

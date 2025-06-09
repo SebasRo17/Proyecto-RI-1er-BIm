@@ -1,1 +1,0 @@
-Is it legal to put `FSharp.Core.dll` from FSharp Redist Package into my application package and redistribute it with my application? I couldn't find any information about this.

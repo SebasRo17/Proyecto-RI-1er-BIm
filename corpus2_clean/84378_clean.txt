@@ -1,1 +1,0 @@
-slightly confused ajax work mostly understand php mysql model retrieving database information user ajax understand ajax engine sends http request backend magic return xml ajax engine translates html cs user see happens sends first http request backend server side language acting middleman get database rest process also html5 put extra spin usage ajax

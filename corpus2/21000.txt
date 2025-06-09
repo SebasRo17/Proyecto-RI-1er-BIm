@@ -1,0 +1,1 @@
+I would like Mathematica to print error messages in current notebook together with output. This is default option in Mathematica, but recently I turned it off somehow. Now, I am getting output in the notebook, and all cells with style Message go to this other window called Messages. How to set this option back?

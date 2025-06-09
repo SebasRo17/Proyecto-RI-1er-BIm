@@ -1,0 +1,1 @@
+How to convert the expression '{a->a0, b->b0}' to the expression 'a=a0; b=b0'? I think this is a common question and do not know if someone has asked it before. Any help or suggestion will be appreiated!

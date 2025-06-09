@@ -1,1 +1,0 @@
-reading hadoop multi node setup say documentation must jvm hadoop software already running node question people install software computer individually software solution automates process also read kvm switch sure whether people usually use situation

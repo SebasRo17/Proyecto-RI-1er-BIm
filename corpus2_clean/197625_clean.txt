@@ -1,1 +1,0 @@
-read dennis ritchie c programming language book must used hold eof make sufficiently large hold eof following work fine include stdio h c c getchar c eof putchar c c getchar getchar return eof program c able hold successfully work per explanation book mentioned work

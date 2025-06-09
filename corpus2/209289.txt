@@ -1,1 +1,0 @@
-Is state another name for field or is it something different? For example:               private int telNumber;      can I say about telNumber that it is a state or it is a field?

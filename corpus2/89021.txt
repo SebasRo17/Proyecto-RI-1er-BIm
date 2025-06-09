@@ -1,1 +1,0 @@
-I am using Ruby on Rails 3.0.7 and I would like to learn to write "advanced" plugins for the current versione of the framework. In order to do that I would like to buy some books but what I have seen on the Amazon website are two or three year old... Do you know and\or advice some books for this matter? P.S.: Also link to good on-line guides are welcome in answers.

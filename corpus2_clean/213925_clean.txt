@@ -1,1 +1,0 @@
-suppose writing program c several parameter asked beginning execution user remain end need pas parameter since unchanged program temptation would declare global variable visible function however see good practice dimension program get big asked answered however neither see point creating function say num argument one num elegant way without compromising much

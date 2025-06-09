@@ -1,1 +1,0 @@
-Can having too many senior programmers in one team turn out to be a bad thing? Having like say, 4-5 senior programmers in a team of 6-7 people. What is the optimal number/ratio in these kind of situations? Can this lead to too much philosophy and arguments about ideas? Has anyone had such an experience, that can share it with me?

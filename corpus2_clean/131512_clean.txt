@@ -1,1 +1,0 @@
-creating web app testing mobile browser noticed active pseudo really work simulate click mobile browser specifically interested android iphone using cs sprite stumbled upon ontouchstart know use anyone help

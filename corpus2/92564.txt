@@ -1,1 +1,0 @@
-Does anyone knows the differences between these ones?   1. http://www.microsoft.com/sqlserver/en/us/editions/express.aspx (Look for CTP3 LocalDB in the page)   2. http://www.microsoft.com/sqlserver/en/us/editions/compact.aspx I wonder why microsoft started Denali project (now in CTP).

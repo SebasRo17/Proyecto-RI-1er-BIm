@@ -1,1 +1,0 @@
-trying understand programming language design built theoretical model came across link describing programming language theory lambda calculus formal language turing machine got lost theory understood programming language built lambda calculus boil language construct num understanding correct num model lambda calculus num language share model use convert source one language

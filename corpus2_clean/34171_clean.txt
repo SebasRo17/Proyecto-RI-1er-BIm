@@ -1,1 +1,0 @@
-used clearcase question determine file corresponding checkins given snapshot view

@@ -1,1 +1,0 @@
-The title basically says it all. I keep hearing about Hadoop, and from the wikipedia entry, it certainly _sounds_ interesting, but I'm curious if there are some good examples where it makes sense to pursue a solution using that technology? Put another way, if I pick up a new toy, I like to at least know how I'm supposed to play with it!

@@ -1,1 +1,0 @@
-working project need heavy numerical calculation real time visualized something flexible like d3 j framework would let painlessly achieve need use sort glue written say

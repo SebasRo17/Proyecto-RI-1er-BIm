@@ -1,1 +1,0 @@
-I'm coming back to C++ after a month. I still didn't start practicing but seeing my old code gives me nauseous feeling like I'm seeing something new even with simple small code. Is this normal? Will I retain everything as I'll start writing code back?

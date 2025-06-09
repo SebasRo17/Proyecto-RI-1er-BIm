@@ -1,1 +1,0 @@
-I'll keep it simple, I want to make C#'s methods work like javascript's functions. Mainly so I can convert this -               function makeVariable(terp) {         var me = {value: 0};         return function () { terp.stack.push(me); };     }      into C#. Is there ANY way, no matter how complex or time consuming, to do this?

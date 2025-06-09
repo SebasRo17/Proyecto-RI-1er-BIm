@@ -1,1 +1,0 @@
-I'd like to create an application based around Apache Wave. Where can I learn more about working with Apache Wave and/or the API for a locally running instance? At the moment, the extent of what I can find seems to be APIs for _Google Wave_ (running off Google's servers) and that it's written in Java.

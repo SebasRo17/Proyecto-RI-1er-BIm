@@ -1,1 +1,0 @@
-want find oldest newest element added heap size k given point time find say oldest element heap approach num space num time thinking approach queue size heap add element queue added heap yield constant time solution requires extra k space would like know problem solved constant space

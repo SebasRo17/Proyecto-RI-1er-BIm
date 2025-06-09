@@ -1,1 +1,0 @@
-I was reading a paper that makes a comparison between ASP.NET Web Forms and ASP.NET MVC. While reading it, such as data-driven, event-driven, test-driven are the terms that I see a lot. So what are they used for? when we can call them for a programming language or framework? What do they need to have?

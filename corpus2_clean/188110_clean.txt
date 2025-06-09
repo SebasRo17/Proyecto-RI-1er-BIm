@@ -1,1 +1,0 @@
-noda time user guide rationale section state public api largely rewritten provide api idiomatic net also rectify joda time decision noda time team view unfortunate simply due different goal others argue really mistake decision different better would count difference language syntax would include anything done make user less likely make programming library usability

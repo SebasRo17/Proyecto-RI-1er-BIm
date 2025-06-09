@@ -1,1 +1,0 @@
-Why does the following code output **y>x** when clearly 1>-1?               unsigned x=1;     signed char y=-1;          if(x>y){         printf("x>y");     }     else {         printf("y>x");     }      Please explain this result.

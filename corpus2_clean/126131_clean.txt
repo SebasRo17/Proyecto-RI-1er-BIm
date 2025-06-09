@@ -1,1 +1,0 @@
-planning creating generate assembly far really want go project want create file machine since linux would like use gas assembler sure best way package application require people gas system already linux distros default mistaken could better package source application even package actual application packaging mean form distribution would include putting github well

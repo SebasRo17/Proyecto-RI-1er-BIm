@@ -1,1 +1,0 @@
-need generate distribution project already implemented generating algorithm given donald knuth find algorithm generating hyper exponential random provided mean variance required distribution need algorithm generate random distribution execute

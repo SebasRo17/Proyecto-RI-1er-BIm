@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Which problems domains are more suited to functional programming solutions I've been reading about functional programming. I've been using mostly C#.net recently, and I would like to know of a good real-world example of where a functional language such as Lisp or F# would be a clearly superior tool for getting a job done.

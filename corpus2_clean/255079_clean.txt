@@ -1,1 +1,0 @@
-winapi focused primarily c family new programming language use feature without creating runtime interpreter thing hook directly dll file kernel32 dll contains function right thanks

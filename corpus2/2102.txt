@@ -1,0 +1,1 @@
+If possible, How could I generate a chaotic Time series using `CellularAutomaton[]`. I am especially interested in Rule 30. A friend told me it was possible but I have yet not found the way to do so.

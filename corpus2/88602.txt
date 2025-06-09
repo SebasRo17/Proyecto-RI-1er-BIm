@@ -1,1 +1,0 @@
-When releasing a software update, how detailed should the notes be? Specifically, how detailed should bug fixes be?

@@ -1,1 +1,0 @@
-pretty new tdd approach first experiment say writing num functional mean writing num num line testing case going write num loc whole codebase including test going something like num loc considered normal ratio write

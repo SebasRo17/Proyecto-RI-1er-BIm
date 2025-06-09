@@ -1,1 +1,0 @@
-I am doing some personal research on Byzantine Faults. I am trying out algorithms from various research papers which present algorithms for consensus in distributed systems like this one. For this i need a small scale simulation environment of a distributed system. How do i approach this problem ?

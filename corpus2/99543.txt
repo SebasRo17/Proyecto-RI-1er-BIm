@@ -1,1 +1,0 @@
-I have read the Wikipedia article on Indent Styles, but I still don't understand. What is the difference between K&R and 1TBS?

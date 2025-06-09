@@ -1,1 +1,0 @@
-single responsibility solid like making create class one public would possible use static method go back procedural programming difference

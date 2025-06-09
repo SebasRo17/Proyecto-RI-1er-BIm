@@ -1,1 +1,0 @@
-When I hear low-level programming, such as for drivers, embedded systems, operating systems, etc., I immediately think about C and perhaps C++. But mainly C. But what other languages are also used for these kind of tasks? Today, I mean, not what _has been_ used.

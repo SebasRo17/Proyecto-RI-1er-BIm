@@ -1,1 +1,0 @@
-I knew double or float value can be not only normal value(-1.3, 0, 1.0, 2.3) but also NAN and INFINITY in Objective-C.   Is there other special values except for NAN and INFINITY for double/float value in Objective-C?

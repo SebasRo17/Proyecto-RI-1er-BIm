@@ -1,1 +1,0 @@
-sort set num integer part programming q time limit pretty restrictive use time efficient approach possible current include cstdio include algorithm using namespace std n num num n scanf sort n would approach n num num n scanf sort num efficient way sort large dataset note homework

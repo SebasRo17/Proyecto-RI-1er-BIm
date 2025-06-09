@@ -1,1 +1,0 @@
-Currently I'm using something like a master-cron server, which starts the tasks on the slave-worker servers. But there are so many tasks, that the timing gets lost entirely. Is there a an algorithm, which eliminates the single master?

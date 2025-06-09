@@ -1,1 +1,0 @@
-We are currently migrating our Visual Basic 6.0 program to .NET. The target audience are just normal desktop users at home. Discussing this, we realized that we cannot come up with mainstream programs that seem to be written in .NET. Are we mistaken? Is there a good reason for this?

@@ -1,1 +1,0 @@
-messing around trying figure stuff work right couple question html j cs engine know two major javascript engine v8 javascriptcore webkit j engine far know correct html cs renderers let say want build web browser using v8 saw documentation stuff like way work best option partially another question bare browser us v8 run ubuntu least p ubuntu user prefer c

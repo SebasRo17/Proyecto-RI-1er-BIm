@@ -1,0 +1,1 @@
+If I have a list like               list1={2334.,342.,0.,0.,2322.,0.,0.,0.,0.,,,,,,};      it's easy to remove to trailing blanks with `Select[list1,NumberQ[#]&]`, and it's easy to remove all the zeroes, but how do I remove only the _trailing_ zeros? I want to leave the mid-list zeroes in place.

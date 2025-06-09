@@ -1,1 +1,0 @@
-In every example I have seen yet almost all of the GUI code is written in the `start(Stage stage)` method of the main class. Is this the best approach, or is it OK to subclass the Stage class and make your own thing? If the latter is OK, wouldn't the performance suffer because of lot of Stages?

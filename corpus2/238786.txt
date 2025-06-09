@@ -1,1 +1,0 @@
-Will the code               int a = ((1 + 2) + 3); // Easy to read      run slower than               int a = 1 + 2 + 3; // (Barely) Not quite so easy to read      or are modern compilers clever enough to remove/optimize "useless" parentheses. It might seems like a very tiny optimization concern, but choosing C++ over C#/Java/... is all about optimizations (IMHO).

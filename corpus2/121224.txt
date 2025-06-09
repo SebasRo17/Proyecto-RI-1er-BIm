@@ -1,1 +1,0 @@
-I see very often people using term **binaries** in different context. What are binaries? Collection on binary files, installation files, .dll files or what? Or is it just an general term for some collection of files on disk?

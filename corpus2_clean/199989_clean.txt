@@ -1,1 +1,0 @@
-semantic versioning common sense declares major version incremented case non backward compatible change introduced let assume project called project current version num num library lib depends num num version moment mean following semver ideology constraint dependency project depends lib num experience one find semantically correct self descriptive think

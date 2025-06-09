@@ -1,1 +1,0 @@
-I am wondering what is the default graphics engine used in Photoshop? It's great tool. And I don't know how they make it? I mean, if I want to create a simple tool like it, I will use MFC/GDI+. So, what is core to make Photoshop being great tools?

@@ -1,0 +1,1 @@
+How does one PROGRAMATICALLY generate enhanced CDFs under an Enterprise license? Undocumented options to CDFDeploy[] perhaps?. Wizard works fine for me, but attempts to do this programatically (from script) have defeated me - I just get standard CDFs labeled under the FreeCDF terms (this result with no code changes.) Can't find this in documentation.

@@ -1,1 +1,0 @@
-public interface provide interface need provide dynamically load dlls bound implementation however upon reading seems like anti pattern num num num confused one way

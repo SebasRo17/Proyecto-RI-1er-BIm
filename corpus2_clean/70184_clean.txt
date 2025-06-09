@@ -1,1 +1,0 @@
-working project everything driven dll server ui business rule dll make pretty difficult question would like present alternative allowing user ability still create customized screen without ui rule tightly intertwined anyone offer suggestion reference way splitting ui still allowing ultimate customization ability let know need add information

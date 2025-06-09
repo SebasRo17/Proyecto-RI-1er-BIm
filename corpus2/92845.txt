@@ -1,1 +1,0 @@
-Is there any algo that can help splitting irregular shape into regular shapes, and eventually calculate the area of the main object by summing the areas of those regular objects?

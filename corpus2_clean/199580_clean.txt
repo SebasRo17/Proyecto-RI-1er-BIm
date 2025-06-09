@@ -1,1 +1,0 @@
-using rest api php bit confused curl behavior implies must send querystring seeking send json text api using thing field send get interpreted query without use file

@@ -1,1 +1,0 @@
-scenario clustered environment running n identical application node interacting single relational database problem possible upgrade node new application version requires new database schema maintain integrity database without downtime application without losing ending inconsistent state

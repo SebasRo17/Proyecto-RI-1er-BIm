@@ -1,1 +1,0 @@
-I was faced with this question by my team leader. Statement 1 (written by me):               lnkbtn1.visible = lnkbtn2.visible = lnkbtn.visible = false;       Statement 2 (written by my team leader):               lnkbtn1.visible = false;     lnkbtn2.visible = false;     lnkbtn3.visible = false;      Which statement is better and why?

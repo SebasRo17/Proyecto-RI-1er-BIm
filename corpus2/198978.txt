@@ -1,1 +1,0 @@
-Why is it that diff programs work on a line-by-line basis instead of a hierarchal one? All code can be expressed in a hierarchy, even though it's not immediately apparent. Most of the data we work with is hierarchal as well. What are the potential issues with building a piece of software that can diff based on hierarchy?

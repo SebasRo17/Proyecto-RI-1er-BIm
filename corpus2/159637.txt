@@ -1,1 +1,0 @@
-The Mars Curiosity rover has landed successfully, and one of the promo videos "7 minutes of terror" brags about there being 500,000 lines of code. It's a complicated problem, no doubt. But that is a lot of code, surely there was a pretty big programming effort behind it. Does anyone know anything about this project? I can only imagine it's some kind of embedded C.

@@ -1,0 +1,1 @@
+I'm interested in finding a way (if possible) of expressing this specific value of the regularized hypergeometric function in terms of known constants. How might I use _Mathematica_ to check   this possibility?   Here is the value               Derivative[{0, 0, 0, 0}, {0, 0, 1}, 0][HypergeometricPFQRegularized][{1, 1, 1, 1}, {2, 2, 2}, -1]

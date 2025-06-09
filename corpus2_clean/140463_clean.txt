@@ -1,1 +1,0 @@
-tool allows query file based following criterion change creation date filename e g yyyymmdd data2 blah file content example workflow could following one get file created date x date filename contains z file contains x column zzz update different another column

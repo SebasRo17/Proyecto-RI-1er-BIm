@@ -1,0 +1,1 @@
+This image comes from Michael Trott's Mathematica Guidebook for Programming. It's just a chapter image though, and he doesn't show the code. I was wondering what would be the best approach to reproduce it. ![enter image description here](http://i.stack.imgur.com/WiGct.jpg)

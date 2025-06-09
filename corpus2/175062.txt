@@ -1,1 +1,0 @@
-Should I put unit testing stuffs in a separate repository, not in the same repository as the programming library? So I reference the programming library as submodule. But most open source projects that I have seen do not organize the projects like what I mention above. Can anyone explain which approach is better?

@@ -1,1 +1,0 @@
-noticed work people keen storing information file name parsing file name seem especially good practice already see occasional issue script globbing file getting wrong one another file match first also discussing get around problem separator field considered bad practice accepted solution retrieving file file system based metadata

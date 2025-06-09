@@ -1,1 +1,0 @@
-What is the "Find-Fix-Verify" pattern, as related to the process of doing editing/spellchecking/debugging, etc.? Where is this pattern best described? What are some advantages and disadvantages of this pattern?

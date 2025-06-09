@@ -1,1 +1,0 @@
-start array case different length order demonstrate technique num num num num num num num num num num num num num num num end transformation array first contains first element original array second contains second element original array num num num num num num num num num num num num num num num mathematical c term operation

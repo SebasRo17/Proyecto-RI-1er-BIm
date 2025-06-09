@@ -1,1 +1,0 @@
-Implicit parallelism^ can take a big burden away from many programmers, placing it on the computer. So... why is it is not more widespread at present? * * * ^ Implicit parallelism is to make a computer be able to figure out itself how to do more than one thing at a time, instead of a programmer needing to do this job using threads and the like

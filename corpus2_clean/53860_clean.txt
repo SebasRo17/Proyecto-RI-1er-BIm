@@ -1,1 +1,0 @@
-wondering anyone need possible problem create model ef using two table different db without weird workarounds scope much necessary ever needed like think m add feature thank

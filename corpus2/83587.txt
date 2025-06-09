@@ -1,1 +1,0 @@
-In most languages, there is standard libraries. And this is foundation, common denominator of them. Applications can be written with guarantee of the denominator. What's the core of Smalltalk?

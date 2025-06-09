@@ -1,1 +1,0 @@
-I am working on a project at the moment that generates a table (among other things) based on the contents of a file-system, and and in turn does some meta-data modifications on the things it finds. The question is: how should tests be written around this, or set up? Is there a easy way to mock this out? Or should I setup a "sandbox"?

@@ -1,0 +1,1 @@
+I've done my best to search the help and google White's test (http://en.wikipedia.org/wiki/White_test) in Mathematica. Can anyone point me to a function or Mathematica reference for this or do you have to code it up yourself if you want it? Thanks, Peter

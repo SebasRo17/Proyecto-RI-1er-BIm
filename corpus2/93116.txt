@@ -1,1 +1,0 @@
-I have a project folder that has multiple duplicate files that are named slightly differently to create "backups". So I have "file1.txt" and "file1 backup.txt". Is there a preferred method to capture the old history when I make the folder into a git repository?

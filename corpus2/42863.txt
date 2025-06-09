@@ -1,1 +1,0 @@
-In C#, am I encouraged to use the all-purpose var keyword for every variable declaration? If yes, do I have to mention those special characters for literal values within the variable declaration like the M for decimal in the following statement:               var myDecimal = 14.5M;      If it makes a difference, I'm trying to do some web development with C#. Thanks for sharing.

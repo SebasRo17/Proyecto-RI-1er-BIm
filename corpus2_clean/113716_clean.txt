@@ -1,1 +1,0 @@
-right trying create heap requires num byte alignment looking around online good method would minimize amount fragmentation less fragmentation ideal even one slow lot consideration speed also sub goal anyone experience heap could let know watch going appreciated

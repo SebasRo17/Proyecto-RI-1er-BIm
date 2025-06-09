@@ -1,1 +1,0 @@
-math identify gesture motion made two finger turning knob tracking two set xycoords library api anyone familiar contains good library gesture multitouch application

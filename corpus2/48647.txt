@@ -1,0 +1,1 @@
+I have a list of functions                 {G[x_, y_], F[x_, y_], C[x_, y_]}       how I can create the list of new functions such as                 {dG[x_, y_], dF[x_, y_], dC[x_, y_]}

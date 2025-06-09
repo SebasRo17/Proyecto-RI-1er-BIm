@@ -1,0 +1,1 @@
+The title says it all. I assume it provides some way of automatically applying a certain style, or a list of options, to certain words written, just like other options of the sort like AutoItalicWords. But I haven't been able to make it work... Thanks!

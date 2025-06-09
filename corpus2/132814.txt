@@ -1,1 +1,0 @@
-Following the formal user story style: > As `<user>`, I want `<goal>` so that `<benefit>`. How can stories be written when there isn't an obvious user-interaction taking place, as in the case of automated processes like nightly invoicing?

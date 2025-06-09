@@ -1,1 +1,0 @@
-As you know Google, Microsoft and jQuery.com offer JS files on their CDN. To do this, they must need to operate significant servers which must come at a cost to them. Why do they do this and what do they get from it?

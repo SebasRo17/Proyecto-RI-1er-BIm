@@ -1,0 +1,1 @@
+Is there a simple way to export all open notebooks to pdfs? Also, when I export notebooks the font looks too big / the margins are too big. Can I change these settings when exporting?

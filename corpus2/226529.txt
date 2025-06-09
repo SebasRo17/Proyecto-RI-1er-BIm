@@ -1,1 +1,0 @@
-In iOS, the coordinate (0, 0) means the top left corner. In OSX it is the bottom left corner. What is the Apple's rationale or technical advantage of this coordinate system?

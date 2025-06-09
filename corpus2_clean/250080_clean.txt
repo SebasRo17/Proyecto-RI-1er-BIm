@@ -1,1 +1,0 @@
-need simple pathfinding go point point b seems like overkill matter hit wall terrain wondering simpler one would find direct path straight point b

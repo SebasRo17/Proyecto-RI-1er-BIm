@@ -1,1 +1,0 @@
-I need to convert Powerpoint files to PNG in PHP. I can do the conversion with using COM in PHP but COM is only supported on Windows. I need to do this for both Windows and Linux. I am wondering if someone give me hints about that conversion.

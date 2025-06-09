@@ -1,1 +1,0 @@
-When working on a requirements document, how do I capture system roles and responsibilities? E.g. "I'm a manager and I will only use the system to generate reports on xyz". I was looking for an example online but couldn't find one.

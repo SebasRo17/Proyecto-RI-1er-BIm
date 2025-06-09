@@ -1,1 +1,0 @@
-preferable link href attribute implementing click event via jquery ok leave href empty e id href v id href click ajaxy stuff although understand click event could span element interested case particular best practice using tag

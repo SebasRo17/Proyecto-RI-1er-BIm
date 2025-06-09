@@ -1,1 +1,0 @@
-I have some hidden divs that I show via JavaScript when a button is clicked. Right now, I'm hiding them with by using inline styling (i.e. `style="display:none;"`). This works, but are there general rules or guidelines to follow to determine if I should use inline styles or styling via stylesheets and class selectors?

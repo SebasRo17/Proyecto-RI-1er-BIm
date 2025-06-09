@@ -1,1 +1,0 @@
-I have heard of the term "short-circuiting" being used in C. What does this mean and in what scenario would it be used?

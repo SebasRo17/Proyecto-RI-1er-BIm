@@ -1,1 +1,0 @@
-We say that we indent code. I'm writing a string builder which can add/remove tabs to indent code. Sample:               builder.Add("<ul>");     builder.Indent();     builder.Add("<li></li>");     builder.Dedent(); // <-- what should this be named.     builder.Add("</ul>");         What should I name the method?

@@ -1,1 +1,0 @@
-Is it ok to suggest pre-built scripts from a place like codecanyon to a programmer who is building a startup web app? Or is it more likely to offend? I don't expect that a whole web app could be built from bits and bobs purchased from a site but I'm unsure of whether its the right thing to ask someone to do. Also, I am not a programmer.

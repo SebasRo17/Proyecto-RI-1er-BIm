@@ -1,1 +1,0 @@
-All products seem to be released with a license, I'm curious to know how one would go about finding out the license of technologies like HTML, CSS and JavaScript?

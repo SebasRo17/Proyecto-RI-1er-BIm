@@ -1,1 +1,0 @@
-I'm trying to refactor my application into MVC, but I'm stuck on the M part. In a database-backed app, the model is implemented in the app code, right? But then, **what is in the database -- is that not also the model?** _(I'm not using the database as a simple object store -- the data in the DB is an enterprise asset)._

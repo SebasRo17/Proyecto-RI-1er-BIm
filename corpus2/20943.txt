@@ -1,0 +1,1 @@
+Is there a simple way to save the output from `RegionPlot3D` so as to avoid re-evaluating when the notebook is re-opened and `Show` is used to re-display the plot? The re-evaluation takes in excess of 30 mins of run time.

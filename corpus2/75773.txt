@@ -1,1 +1,0 @@
-Looking to switch to Win7 as machines are cheaper, easier to repair and as a web developer, I wouldn't have to emulate IE anymore. I want as smooth a transition as possible, so what would be the closest match to my current stack of apps. MAMP TextMate Transmit Filemerge (for use with GIT DIFF's)

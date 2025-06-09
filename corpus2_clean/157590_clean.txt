@@ -1,1 +1,0 @@
-often read good commit message written present tense use imperative mood describing change eg fix xyz instead fixed xyz advantage difference various vcs mostly read git maybe mainly work git

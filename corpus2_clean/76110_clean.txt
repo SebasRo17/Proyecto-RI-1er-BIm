@@ -1,1 +1,0 @@
-see following pattern place company codebase net num application bool foo barid baz try stuff catch exception ex log calling baz new fooobject foo barid baz baz stuff baz trying wrap head around would instead foo simply take id baz instead returning used actual ref parameter hidden benefit coding style missing

@@ -1,1 +1,0 @@
-The term will be used as a method name. The method is called when a part of the user interface is hidden (or removed), and it is used to reset values to default and dispose objects that will not be used any more. Possible names are: release, remove, dispose, clear etc. Which do you think is the most appropriate?

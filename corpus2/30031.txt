@@ -1,1 +1,0 @@
-we are about to start on a Web Development project (the planning starts early 2011). Do we choose HTML5/JS over Silverlight? Are there any applications which now run on HTML5? Samples? A simple Google Search led me here. Those look great (especially the Star Wars one!), but they are not what you call proper applications as such.

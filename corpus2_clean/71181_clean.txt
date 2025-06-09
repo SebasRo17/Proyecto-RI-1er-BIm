@@ -1,1 +1,0 @@
-consider good use wrapper function useful abstraction case harmful unnecessary complexity

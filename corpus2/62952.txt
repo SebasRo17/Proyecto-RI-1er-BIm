@@ -1,1 +1,0 @@
-I am interested in the architecture, methods and software used by your company to capture and store knowledge. Is the information easily searchable (especially by non-techies) ? Is it stored in a central repository or in several places ? Do you find the current implementation adequate ? What could be improved ?

@@ -1,1 +1,0 @@
-I've read that Go doesn't actually have true type inference in the sense that functional languages such as ML or Haskell have, but I haven't been able to find a simple to understand comparison of the two versions. Could someone explain in basic terms how type inference in Go differs from type inference in Haskell, and the pros/cons of each?

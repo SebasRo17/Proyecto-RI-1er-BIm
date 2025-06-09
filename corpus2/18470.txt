@@ -1,0 +1,1 @@
+Is there a way to automatically run a manipulate command when you move to a slide ? I am trying to create a presentation and i have a number of slides which have use manipulate and i want these to run/loop when this slide is showing ? Thanks David.

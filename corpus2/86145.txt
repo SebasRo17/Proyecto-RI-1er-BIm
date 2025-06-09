@@ -1,1 +1,0 @@
-I am not talking about stealing code, or reusing someone's for profit. But I am assuming that if a program or plugin is distributed in a format where I can't readily view the source, that is a deliberate action on the part of the programmer. Is it acceptable to look anyway, for the purpose of learning? And if so, are there limitations to that freedom?

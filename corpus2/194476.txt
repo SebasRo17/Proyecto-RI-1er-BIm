@@ -1,1 +1,0 @@
-I was wonder what people do in this situation. You have an admin area of a system where you let users define a list of values they want to see in a dropdowns across the system. What do you do in your application is a user wants to delete this option? What do you do with data records which already use this value?

@@ -1,1 +1,0 @@
-While it takes a turing complete language to create any imaginable program, is it possible to compute most "useful" programs with a non-turing complete dynamically typed language? For example, is there a non-turing complete language capable of solving the Project Euler problems?

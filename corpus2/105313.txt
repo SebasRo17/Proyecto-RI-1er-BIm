@@ -1,1 +1,0 @@
-Stroustrup claims that Cfront, the first C++ compiler, was written in C++ (Stroustrup FAQ). However, how is it even possible that the first C++ compiler be written in C++? The code that makes up the compiler needs to be compiled too, and thus the first C++ compiler couldn't have been written in C++, could it?

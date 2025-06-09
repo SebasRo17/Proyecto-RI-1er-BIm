@@ -1,1 +1,0 @@
-In my work the language used to write applications is Visual Basic .NET. I read on internet and almost all the examples and questions are about C#. Is there any comercial application written in Visual Basic .NET? Is there any field for a VB Net developer?

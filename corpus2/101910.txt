@@ -1,1 +1,0 @@
-I'm interested in statistical computing. **R** is a leader platform obviously but what about Incanter?   Incanter is at the top of my list since I'm a Clojure and JVM guy. Do you have any real world projects with Incanter? Is it a proven platform or I have to fall back to **R**?   What are the advantages of **R** over Incanter? What I'm going to miss?

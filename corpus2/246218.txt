@@ -1,1 +1,0 @@
-Is there a known standard data structure which is a hash table that resolves collisions using a binary tree? If so what is the name of this data structure? I imagine such a structure would be useful as it should reduce the worst case search time down to O(log(n)) compared to O(n) in a hash table, and the best case would still be O(1).

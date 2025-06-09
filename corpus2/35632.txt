@@ -1,0 +1,1 @@
+I am new to Mathematica and am trying to work out how to use Maximize.               Maximize[Log[n]^(1/Log[n]),n]      Should give a solution at $e^e$. However in Mathematica you don't get anything. What's the right way to do this?

@@ -1,1 +1,0 @@
-Which one of these is of more importance? Skilled team or good process practice? When I say skilled, I mean logical, creative members with good coding and testing skills. Good process would be the development methodology, like agile, scrum, etc

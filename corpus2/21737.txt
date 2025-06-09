@@ -1,0 +1,1 @@
+I need ANY combination of 8 variables which satisfy:               a+b+c+d+e+f+g+h=0     a^2+b^2+c^2+d^2+e^2+f^2+g^2+h^2=1     a*b+b*c+c*d+d*e+e*f+f*g+g*h+a*h>2/3      Ideally these would be numbers having simple closed forms... If I exchange third restriction with               a*b+b*c+c*d+d*e+e*f+f*g+g*h+a*h=2/3      I get a solution a=b=c=6^(-0.5); e=f=g=-6^(-0.5); d=h=0;

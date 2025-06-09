@@ -1,1 +1,0 @@
-use interface tagging system better way remember keep mind complex system use abstraction

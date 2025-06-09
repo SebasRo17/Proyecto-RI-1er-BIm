@@ -1,1 +1,0 @@
-since learning loving automated testing found using dependency injection pattern almost every project always appropriate use pattern working automated testing situation avoid using dependency injection

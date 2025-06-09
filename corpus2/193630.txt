@@ -1,1 +1,0 @@
-What are the major differences in between Java version in terms of software development? Where can one find a summary of the most important changes related to programming? The Release Notes such as http://www.oracle.com/technetwork/java/javase/releasenotes-136954.html can be hard to read. For example there is new code structure "for each" in Java 1.5.

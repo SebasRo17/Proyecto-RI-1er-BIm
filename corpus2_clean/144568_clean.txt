@@ -1,1 +1,0 @@
-project webapp depending project b b jar one depending project c c jar would like create maven goal named rebuild war clean compiled num project rebuild whole order obtain fresh war file tried mvn clean package project noticed b c recompiled indeed b jar c jar contained local repository changing creation date adapted maven command requirement

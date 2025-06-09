@@ -1,1 +1,0 @@
-Basically, I've learned so far that garbage collection erases forever any data structure that is not currently being pointed to. But this only checks the heap for such conditions. Why doesn't it also check the data section (globals, constants, etc etc) or the stack as well? What is it about the heap that it's the only thing that we want to be garbage collected?

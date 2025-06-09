@@ -1,0 +1,1 @@
+moment trying construct bifurcation diagram iterative function f x ax x scoured internet pre made bifurcation diagram found many mostly logistic map however code quite complicated sure edit code deal function instead logistic one would anyone general template code create bifurcation diagram function ideally would like x axis equilibrium value axis

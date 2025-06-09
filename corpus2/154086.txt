@@ -1,1 +1,0 @@
-I'm trying to determine what my legal obligations are if I use an MIT-licensed library (JAR file) in my program. Do I need to include the library's source code when I distribute my program? Do I need to include a README explaining the licensing of the packaged JAR? If I'm simply including the unedited JAR file, do I even need to include anything additional?

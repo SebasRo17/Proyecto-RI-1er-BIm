@@ -1,1 +1,0 @@
-currently trying write library connection database looking several different type query select update insert etc question best practice writing query c application separate e update insert generic query would able handle thanks help

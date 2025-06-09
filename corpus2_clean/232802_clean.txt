@@ -1,1 +1,0 @@
-simple question understand serialization c requires default constructor would eliminate possibility using constructor injected di generally favored style di reading citation needed really either situation missing something side question ioc container side step tradeoff somehow

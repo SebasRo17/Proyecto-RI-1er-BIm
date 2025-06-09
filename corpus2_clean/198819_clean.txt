@@ -1,1 +1,0 @@
-web developer lately learning clojure interested creating p2p application since clojure general purpose language guess use suggestion

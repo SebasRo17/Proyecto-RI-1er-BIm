@@ -1,0 +1,1 @@
+A (k) =the closed interval [-10+Sin [k], 10+Sin [k]] How do I can create a list of the first 20 of such interval The find the intersection of the first 14 of them

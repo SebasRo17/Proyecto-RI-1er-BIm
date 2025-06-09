@@ -1,1 +1,0 @@
-Can you please explain neural networks in _simple words_ with an example?

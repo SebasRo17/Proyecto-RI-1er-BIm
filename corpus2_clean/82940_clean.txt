@@ -1,1 +1,0 @@
-encoding work encoding used xml avoid error xml encoding using php heard character encoding source encoding target encoding may know difference

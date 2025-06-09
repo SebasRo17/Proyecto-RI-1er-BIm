@@ -1,1 +1,0 @@
-I'm considering whether I should start using VIM again instead of an IDE. What are the most useful features of VIM that aren't standard in an IDE?

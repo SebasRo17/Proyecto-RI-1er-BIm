@@ -1,1 +1,0 @@
-asio buffer size n overload want write ugly c style x sizeof x wrote packet num pod read socket asio buffer packet foo packet foo packet look kinda weird packet packet num look better think good idea write maybe stick unsafe c style sizeof upd another example writing packet packet num pod packet id id packet foo foo write socket asio buffer packet

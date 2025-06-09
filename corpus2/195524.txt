@@ -1,1 +1,0 @@
-How should we load balance listeners to a 3rd party service? e.g. We need to read gtalk messages via XMPP Listener and build an application using the interactions of the user with a chatbot. In such a case, how would we ensure that we can have XMPP listeners on multiple servers and we load balance the messages between the listeners? Thanks in advance.

@@ -1,1 +1,0 @@
-trying implement recursively defined stack efficient apart copying element stack sorting pushing stack know c c stack definition stack e element stack

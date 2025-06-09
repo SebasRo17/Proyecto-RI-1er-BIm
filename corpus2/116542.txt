@@ -1,1 +1,0 @@
-Is there a duration limit for FDD Project when those projects are likely to fail due external and internal factors? For example XP projects should kept short due the openess of the concept and dependents on the individuals in the team and lack of documentation which is vulnerable to disturbances like losing team members and so forth.

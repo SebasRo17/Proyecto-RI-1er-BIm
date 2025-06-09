@@ -1,1 +1,0 @@
-going write library net provide implementation arbitrary precision arithmetic integer rational maybe complex number best known approach become familiar tried start knuth taocp vol num algorithm chapter num arithmetic complicated least get idea relatively short period time

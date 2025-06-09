@@ -1,1 +1,0 @@
-There are several rules I must keep asking programmers to follow very often. They write code and, if it works, job is just done, for them. Most basic rules might be:   * Commiting changes   * Not writing Model issues in View or Controllers   * Avoid hardcoding Can you tell me about your experience? How do you manage this?

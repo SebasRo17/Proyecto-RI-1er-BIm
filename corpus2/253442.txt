@@ -1,1 +1,0 @@
-For methods that **never access instance variable or static variable** and they act just like a function (name-spaced) and they are deterministic base on only the input arguments , I want to ask, are there any consideration if I change all of them to static method? I keep hearing people saying it static method is poor, but I am looking for some real code example on my above case.

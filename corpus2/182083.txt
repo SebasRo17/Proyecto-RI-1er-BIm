@@ -1,1 +1,0 @@
-Is the concept of OOP intimately tied to allocating objects on the heap? Is it possible to write normal OOP without creating excessive objects on the heap?

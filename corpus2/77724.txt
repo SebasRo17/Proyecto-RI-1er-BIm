@@ -1,1 +1,0 @@
-Recently I found one of my Maven project have 100+ jar dependencies. FWIK a zip archive doesn't have index at all, so it should scan the whole zip to determine if it contains a specific path. But I found Java resolve class names against so many jars rather fast, why?

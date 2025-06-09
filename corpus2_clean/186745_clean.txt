@@ -1,1 +1,0 @@
-working trading application reading exchange generates bucket load per second basis different log level even minimal log level generates much process log creation quite intensive since write assembly using asm wondering operation writing file coded assembly speedup rest c also caveat thing

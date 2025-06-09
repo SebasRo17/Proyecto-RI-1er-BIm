@@ -1,1 +1,0 @@
-noted ide support nowhere near good language support functional programming idiom much cleanly

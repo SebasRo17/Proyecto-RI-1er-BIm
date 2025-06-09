@@ -1,1 +1,0 @@
-Being a relatively new web-developer I am surprised that these libraries didn't exist before. Is there a particular technical or historical reason that at around Sep 2010, a sudden development and interest in client-side javascript RIA applications and libraries? http://www.google.com/insights/search/#q=backbonejs%2Cangularjs%2Cknockoutjs%2Cjquery%20tmpl&cmpt=q

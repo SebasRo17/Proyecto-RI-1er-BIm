@@ -1,1 +1,0 @@
-Given a two dimensional matrix of alphabets, search the given word in all directions. Below is an example to search for the word `"TEAM"`: No of occurrences is 4 in matrix below. ![enter image description here](http://i.stack.imgur.com/vj6us.png) What is the best approach to solve this? Its not a dictionary word. Its simply sequence searching in all the directions.

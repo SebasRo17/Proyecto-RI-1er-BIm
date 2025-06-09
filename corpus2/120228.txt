@@ -1,1 +1,0 @@
-Is there a **name for a family of bugs** , that are caused by assumption, that user would generate only 1 event during the execution of the handler ? Simplest example is: animation triggered by click, which can run several copies of itself, if user rapidly clicks several times.

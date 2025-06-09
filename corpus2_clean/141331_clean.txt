@@ -1,1 +1,0 @@
-trying make positive change company one change implementing continuous integration mobile development io android need ci support type project tell know lot ci googled little bit think jenkins hudson two popular two part question num thought jenkins num way ci check project compiling coding standard like loose coupling

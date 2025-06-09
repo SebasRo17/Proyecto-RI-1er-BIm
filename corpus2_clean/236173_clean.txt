@@ -1,1 +1,0 @@
-suppose one would like use io app one gplv3 library contains large number one cannot simply link whole library beacuse otherwise resulting software gplv3 would incompatible app store one take inspiration source library write would perform task understand fine wonder rule thumb

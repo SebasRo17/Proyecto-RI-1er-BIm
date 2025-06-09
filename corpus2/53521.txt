@@ -1,1 +1,0 @@
-And why is it often talked about? Like I know what OO programming is obviously... but people always say "Oh OO reuse is the biggest programming myth ever". What exactly does this mean?

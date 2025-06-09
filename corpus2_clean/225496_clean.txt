@@ -1,1 +1,0 @@
-take example following public interface imanager additem item removeitem item public interface system usually preferable create collection allow consumer operate directly collection

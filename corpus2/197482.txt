@@ -1,1 +1,0 @@
-I'm working on a VB.Net WinForms project and found myself writing code like this:               this.Fizz.Enabled = this.Buzz.Enabled = someCondition;      I couldn't decide whether that was bad code or not. Are there any .NET guidelines for when/when-not to do assignment chaining?

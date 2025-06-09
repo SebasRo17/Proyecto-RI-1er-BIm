@@ -1,1 +1,0 @@
-learning sql server num along c past took database college good grasp sql language write query however looking sql server documentation oracle appears db engine along technology come highly complex requiring significant time effort learn besides writing sql query deeply programmer know internals database engine

@@ -1,0 +1,1 @@
+For example, write a function `add`: add[3] return 3 add[4] return 7 add[10] return 17

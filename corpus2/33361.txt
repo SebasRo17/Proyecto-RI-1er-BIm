@@ -1,0 +1,1 @@
+I have a function like this $f(x,y)=c\,y\,(y-x),\ \text{for}\ 0<x<2,\;-x<y<x$ and I need to find the value of $c$ such that $f(x,y)$ is a PDF. How can I do that? I know that the condition is double integral $f(x,y)=1$, but how can I impose that condition with _Mathematica_?

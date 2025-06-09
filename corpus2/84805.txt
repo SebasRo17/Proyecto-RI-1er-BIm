@@ -1,1 +1,0 @@
-Everything is in the question. I just discover this new feature and I don't really understand what it stands for. I know that it can represent loop, alternative in the sequence diagram. Can someone explain me what it is?

@@ -1,1 +1,0 @@
-let say resource normal put post get operation represents blob method retrieve representation metadata blob blob resource something processed server request instance file parsed multiple time initiate processing bit rpc like best practice around read restful state changing action really answer question first time programmer right place sort question right

@@ -1,1 +1,0 @@
-In quite a lot of modern scripting languages (e.g. Perl, Python, Ruby, PHP, Lua, JavaScript), associative arrays are supported as a primitive or first- class data type (with various names like map, dictionary, hash, etc.) in a very convenient syntax, making convenient data-driven paradigms possible. Which language first adopted such a design? And how has this design evolved?

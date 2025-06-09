@@ -1,1 +1,0 @@
-For our company needs, we need to sell one of our software on *nix-like system. How can we distribute and protect our software ? I know that almost every program on linux is open-source, so how can we protect source code ? Do we need distribute part of source code in object files ? Software written in C.

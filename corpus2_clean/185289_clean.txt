@@ -1,1 +1,0 @@
-quite familiar tcp udp understand process tcp establishes connection theoretical fact tcp reading tcp hole punching nat transversal become stumped connect accept listen done tcp single multiple socket used tcp done way udp

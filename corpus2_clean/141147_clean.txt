@@ -1,1 +1,0 @@
-possible duplicate difference static method applying singleton pattern need make decision project working whether use static singleton reading article like inclined use singleton better use static singleton edit num client server desktop application please provide oriented solution

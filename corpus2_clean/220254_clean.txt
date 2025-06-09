@@ -1,1 +1,0 @@
-making hybrid android app first decided use localstorage spending num day realized strange dropped picked indexeddb spending today whole day actually getting google chrome running inside webview android app never used web sql database deprecated anyhow come notice phonegap still us web sql android browser support web sql deprecated first place good idea go web sql

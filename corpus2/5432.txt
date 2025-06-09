@@ -1,0 +1,1 @@
+Is it possible to use the @ symbol with multiple arguments? The `Prefix` command suggested not. If so, why?

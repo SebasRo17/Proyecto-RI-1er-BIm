@@ -1,1 +1,0 @@
-I want to use the MorphAdorner library available free for commercial use. But it uses several other libraries that restrict commercial use (like Gate etc). Can I use this library in my application?

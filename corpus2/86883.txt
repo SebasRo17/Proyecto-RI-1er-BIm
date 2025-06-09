@@ -1,1 +1,0 @@
-Hello Everyone, There are so many Questions on Stackoverflow about Agile tools, but I haven't seen a tool which can be installed on a PHP Server. I'm just looking for an _**Open Source Scrum Tool**_ or just an _**Open Source Scrum Dashboard**_ for my Team, which can be installed on my webspace( **php** ). Thank you for Help!

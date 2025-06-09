@@ -1,1 +1,0 @@
-What proportion of programming is done for embedded systems? More generally, please share any interesting statistics on programmers by domain, e.g. real- time/business/UI/gaming/… How you define the domain boundaries (e.g. what is an embedded system) is up to you, but please give a few words to explain your definition.

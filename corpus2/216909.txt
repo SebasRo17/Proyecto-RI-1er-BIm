@@ -1,1 +1,0 @@
-I'm using a CRON on AppEngine and the cron calls my web app at a specific app. I only want to execute functionality when called by my AppEngine app. What's is/are recommended approach to confirming that the caller is legitimate? I don't wish to rely on no one else knowing the specific URL.

@@ -1,1 +1,0 @@
-I am using Postgres 9.3. I have to store range data like `<$250K, $250K-$4M,` etc which we will display in a dropdown. now I am making a table for all possible options that can be configured from an admin interface. Should I take separate column for min,max,currency_type(dollar,euro) and a column to store K,M etc or there is a better way to do that ?

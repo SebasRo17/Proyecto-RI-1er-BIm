@@ -1,1 +1,0 @@
-Today I read about this news: http://www.karthikk.net/2013/04/google-glass-has-an-easter-egg-has-pictures- of-the-glass-team/ People found a hidden easter egg in the Google Glass... But how can they find that? If there are not Google employee or know this hidden feature or have the source code, how they can `active` this feature?

@@ -1,1 +1,0 @@
-I use interfaces rarely and find them common in others code. Also I create sub and super classes (while creating my own classes) rarely in my code.   * Is it a bad thing?   * Would you suggest changing this style?   * Does this style have any side-effects?   * Is this because I have not worked on any large projects?

@@ -1,1 +1,0 @@
-This is for ordered collections e.g. java.util.List. Why did the language designers not include a last method? The only reasons I can think of are:   * ambiguity when the collection is empty (return null or throw exception)   * API bloat Any other reasons?

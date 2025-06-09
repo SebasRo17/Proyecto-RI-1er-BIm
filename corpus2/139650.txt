@@ -1,1 +1,0 @@
-I've been using CoffeeScript for a while now. On Wikipedia, it is said that CoffeeScript is influenced by Haskell. But after I check out the syntax of Haskell, I have found little resemblance from CoffeeScript. Which aspect of CoffeeScript is influenced by Haskell?

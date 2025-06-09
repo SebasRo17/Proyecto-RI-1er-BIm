@@ -1,0 +1,1 @@
+I am running a pretty large optimization problem which actually consists of an outer an inner optmization problem. I use ParametricNDSolve for solving a ODE system. When the optimization is done, Mathematica uses almost all of my RAM memory. If I try Remove["Global`*"] the memory used is still the same. Is there an easy way to check where the RAM in used?

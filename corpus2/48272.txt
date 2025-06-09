@@ -1,1 +1,0 @@
-We typically used Perforce and SmartBear's Code Collaborator at `Big Corp` and now we're also going to be using Mercurial for certain projects. Code Collaborator support Mercurial (we are using version 5) and I'm trying to determine when the best time (during the commit/push to server) process is the best/efficient time for a code review thanks

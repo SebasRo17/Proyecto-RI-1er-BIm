@@ -1,1 +1,0 @@
-using web application framework spring cakephp django etc mean need plugin system application build essentially framework framework framework serve entry point application use thing like dependency injection better testing framework provide environment need application application need build additional plugin system edit better stackoverflow

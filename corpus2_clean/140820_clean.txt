@@ -1,1 +1,0 @@
-day many project whose aim bring new language browser compiling javascript among others one mention clojurescript coffescript dart haxe emscripten smalltalk like try sure looking evaluating language see suitable production evaluate new browser language pitfall looking

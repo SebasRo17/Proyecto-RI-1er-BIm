@@ -1,1 +1,0 @@
-login needed system perfom action express use case diagram system allow employee perform sell must logged necesary log session end typical login know express login compulsory

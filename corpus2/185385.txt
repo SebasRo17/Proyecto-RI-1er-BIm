@@ -1,1 +1,0 @@
-Is it a good idea to communicate between 2 threads using sockets in Java? What I am trying to achieve is Inter-process communication using socket programming/RPC mechanism.

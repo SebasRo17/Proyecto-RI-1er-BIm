@@ -1,1 +1,0 @@
-way time add current separate set list also check current element already list set idea work though know find common element find first common element think counter example trouble convincing definitely correct also even correct better way finding first common element

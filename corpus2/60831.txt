@@ -1,1 +1,0 @@
-What are some good (or must have) ASP.NET development/debugging tools in addition to Visual Studio IDE? So far the only trick in my pocket is .NET Reflector, that has come in handy before. (I would limit browsers add-ons to IE if possible, since I'm working on a corporate intranet and using FF is not always an option).

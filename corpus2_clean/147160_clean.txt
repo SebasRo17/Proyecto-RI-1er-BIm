@@ -1,1 +1,0 @@
-net developer comfortable c web application development need improve knowledge winforms good book online resource particularly cover winforms life cycle event use onload compare form load etc

@@ -1,1 +1,0 @@
-A lot of software updates follow the scheme of v0.1 to v0.2 to v2.6.5.6. What do these "updates" to software really mean? Is there an industry standard always followed or do programmers pretty much keep raising the update # or adding more decimals?

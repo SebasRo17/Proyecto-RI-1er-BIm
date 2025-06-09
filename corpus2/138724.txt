@@ -1,1 +1,0 @@
-MyDbEntities context = new MyDbEntities();     var result = context.StoredProcedureName(userId);      In the situation above, is it considered best practice to use `var` or `ObjectResult<ComplexType>`?

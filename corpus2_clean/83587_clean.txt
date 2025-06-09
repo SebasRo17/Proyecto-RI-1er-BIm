@@ -1,1 +1,0 @@
-language standard library foundation common denominator application written guarantee denominator core smalltalk

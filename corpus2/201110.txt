@@ -1,1 +1,0 @@
-For example, let's say I want to build a game, and I have a limited knowledge of programming(some but definitely not enough). Should my first move be to design the game and then learn how to implement each separate part? Or should you learn a language really well before you design a game?

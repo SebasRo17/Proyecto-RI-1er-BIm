@@ -1,1 +1,0 @@
-I have an HTML5/Javascript web site. There is a form which updates JSON data. There are other pages which I would like to load that JSON data dynamically. I know how to do this via Tomcat/JSP but I'd like to keep this site solely apache2. Is there a way to persist and read the JSON data? It is ok if the data is temporal and is lost upon an apache2 bounce.

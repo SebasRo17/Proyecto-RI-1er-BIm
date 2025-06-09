@@ -1,1 +1,0 @@
-I have a question for you guys. Say, you're given a task as an item in a product backlog. Say, you have a deliverable that's due the following day. If you're behind on the task compared to when you made your estimates, what do you do about it? Does it make you anxious knowing your behind schedule? How do you deal with this? Do you tell the scrum master or the product owner?

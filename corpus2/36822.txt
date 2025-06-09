@@ -1,0 +1,1 @@
+Is it possible to get a callback from J/Link into java when the (remote) link closes or the Mathematica process is terminated (killed) altogether?

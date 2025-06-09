@@ -1,1 +1,0 @@
-consider following c take argument stored inside struct struct mystruct struct mystruct struct struct malloc sizeof struct mystruct struct struct understanding passed stored inside struct proper etiquette situation make copy store struct expect caller modify later

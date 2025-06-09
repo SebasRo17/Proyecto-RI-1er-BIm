@@ -1,1 +1,0 @@
-word argument programming sense come e actual parameter called argument meaning seem related found explanation anywhere note terminology formal parameter also known simply parameter placeholder name say x declared parameter actual parameter also known argument actual value passed say num hence used term prevent confusion

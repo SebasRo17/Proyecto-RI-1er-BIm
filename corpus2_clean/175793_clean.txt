@@ -1,1 +1,0 @@
-current project setup build could mix scala would like use scala base make readable concise process also learn language handing real feature plan use scala class showcase benefit convince devs look using scala rest based web server program general kind structure lend scala functional programming style

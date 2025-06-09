@@ -1,1 +1,0 @@
-trying understand linux kernel one thing puzzling quite linux used across variety platform like smartphones desktop supercomputer etc also various architecture kernel used different one also since includes assembly code must architecture specific developer linux community apply patch single kernel multiple version kernel different architecture platform

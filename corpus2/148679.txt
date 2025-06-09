@@ -1,1 +1,0 @@
-Do you use interface as a tagging system for the code, or you have a better way to remember which object does what? how do you keep in mind a complex system, after the use of the abstraction.

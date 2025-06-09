@@ -1,0 +1,1 @@
+I have a `Panel` with 4 `Inputfields` and a `Button`. When a `Button` is clicked, it shifts itself and adds two `Inputfields` in its place. Before clicking `Button`, ![enter image description here](http://i.stack.imgur.com/ANanA.png) and after clicking `Button`. ![enter image description here](http://i.stack.imgur.com/VF7ei.png) I want to know how can I shift Button ?

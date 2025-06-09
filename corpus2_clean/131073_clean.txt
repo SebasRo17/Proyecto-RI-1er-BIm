@@ -1,1 +1,0 @@
-according relevant django documentation request context offer normal context merges request context hence necessary view perform form submission django however wondering one cannot always pas request context every view request context offer normal context create helper called say render automatically pass request context performance disadvantage

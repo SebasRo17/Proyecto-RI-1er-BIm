@@ -1,1 +1,0 @@
-reading following computer system paper num pdf trying understand claim need locality perform well basically abstract say fds application large scale across available throughput latency budget every disk closer fds therefore make many optimization around locality unnecessary sure multiplexing application across server datacenter make unnecessary optimize term locality

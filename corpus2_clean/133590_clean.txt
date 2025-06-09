@@ -1,1 +1,0 @@
-pointer one go implementing oauth2 protocol server side provider facet oauth2 tried implement part please share issue solution note completely technology programming language agnostic except course de facto standard technology might involved ietf draft oauth2 located

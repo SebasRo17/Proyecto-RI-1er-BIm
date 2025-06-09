@@ -1,1 +1,0 @@
-I've always wondered why one _calls_ a function as opposed to, for example, _executing_ it. A Google search for `function call etymology` and similar terms turns up nothing useful, Wikipedia doesn't mention it, online dictionaries have either no entry at all or no etymology section. Where did the notion of 'calling' a function come from?

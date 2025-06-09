@@ -1,1 +1,0 @@
-look call closely printf hello world n printf num printf g n num num see printf accept number however know function c take fixed length compatible prototype match arg would prototype printf

@@ -1,0 +1,1 @@
+I'm writing an article, and I really like this style that you get when you type `?AnyFunction`. ![I want to achieve style like this](http://i.stack.imgur.com/4JCyR.png) Is it possible to achieve this?

@@ -1,0 +1,1 @@
+How do I have an `InputField` adjust to fill the remaining size of the window automatically? For example: ![enter image description here](http://i.stack.imgur.com/wZaPK.png) Using the `ImageSize` option often either freezes or takes 5 seconds or longer to run in Mathematica 8.0 in Windows 7. **No longer an issue.**

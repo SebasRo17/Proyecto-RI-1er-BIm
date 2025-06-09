@@ -1,0 +1,1 @@
+dollarWon := 100     "(" <> Style["$" <> ToString[dollarWon], If[dollarWon >= 0, Darker[Green], Red]] <> ")"      I am getting an error: String expected at position 2. Isn't it possible to use Style in the above expression? Thanks.

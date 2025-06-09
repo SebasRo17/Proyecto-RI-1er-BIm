@@ -1,1 +1,0 @@
-We are a small team working on a web application using MVVM design pattern using technologies like .NET, Knockout and HTML. I am trying to come up with a code review checklist for this, so that my team can make use of it while coding as well as while reviewing. I tried to find in google, but no help there. Can you guys suggest me what I have to look for code review checklist?

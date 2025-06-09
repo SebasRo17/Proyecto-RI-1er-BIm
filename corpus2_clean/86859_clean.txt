@@ -1,1 +1,0 @@
-recently read blog google integrating clang parser analysis tool something c least decade behind language like llvm clang almost c iso ready think possible c analysis tool begin using c parser effectively since designed ground precisely wondering existing open source known commercial project taking path integrating clang provide higher level analysis tool

@@ -1,1 +1,0 @@
-looking pattern solution allows call runtime exception group different method without using reflection recently become aware abstract factory pattern look much like polymorphism thought could case polymorphism without super see example link correct assumption

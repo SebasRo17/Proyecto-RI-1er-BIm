@@ -1,1 +1,0 @@
-I'm learning Python, and I wanted to advance my skills a bit further so I decided to learn django, then moved on to Flask before realizing that I was having difficulties understanding the very concept of web-frameworks. I don't have any ideas for a website yet so do you still advise me to continue learning a web framework?

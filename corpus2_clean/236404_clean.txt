@@ -1,1 +1,0 @@
-looking google coding guide recommend one use using namespace namespace misinterpret apply std well cout work without book recommends go using cout without using namespace std std cout recommended way std cout c text book teach beginner using namespace std propagating poor coding practice

@@ -1,1 +1,0 @@
-one feature project implement comparison algorithm two version text provide change two version researching came across google diff utils project anyone used comparing text using diff utils using utility get list delta assume use difference two version text correct way done text comparison algorithm using could give pointer

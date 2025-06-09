@@ -1,1 +1,0 @@
-functional programming language scheme haskell use list structure queue identical list except fact appending end begin constant time every algorithm written elegantly using list head tail written elegantly using queue init last considering appending end common opposite guess queue natural list reason list always preferred

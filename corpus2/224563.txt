@@ -1,1 +1,0 @@
-I would like to know if CTRL+C (copy) keyboard shortcut works on all Windows versions above '98, all Non-English Windows and on all keyboards (English, German, Chinese...)?

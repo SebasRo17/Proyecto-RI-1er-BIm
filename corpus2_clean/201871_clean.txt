@@ -1,1 +1,0 @@
-relating question another question regarding unit testing function utility class assume signature like public dosomething obj element class source available hidden api additionally dosomething operates obj element thought mocking class away option possible due fact implement interface could use mocking class however need fill obj defined test dosomething problem solved

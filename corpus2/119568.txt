@@ -1,1 +1,0 @@
-Why can't we put them in the same page, like each action paired up with its view? Not using code island, but controller code at top then view code at bottom? What are the problems with this approach? By MVC, I am referring to frameworks such as ASP.NET MVC and Ruby on Rails, and I am under the impression that the V and C are actually the UI layer.

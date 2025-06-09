@@ -1,1 +1,0 @@
-design website drag drop feature creating e card select item tool box drag drop item card area completed design publish e card web clicking save publish button possible technology implementing feature requirement application degrade performance website take much time publishing user click save publish button

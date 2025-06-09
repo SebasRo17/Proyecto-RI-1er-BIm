@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  When to use abstract classes instead of interfaces and extension methods in > C#? What is the difference between abstract classes and interfaces in java? And under what circumstances should I choose to create an abstract class or an interface. What are the points that I must have in my mind before choosing one of the above?

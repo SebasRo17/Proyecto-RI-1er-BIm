@@ -1,1 +1,0 @@
-Do software developers write SQL or database developers provide the SQL and the software developers use it? I am a novice to software development. I am just trying to understand the software development process because I have to do an internship this summer. I apologize in advance if this is a basic question.

@@ -1,1 +1,0 @@
-I know the fundamental algorithms and it's complexities. for e.g if Binary Search has Complexity O(log n), then how I can mathematically prove this?

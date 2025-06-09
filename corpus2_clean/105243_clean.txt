@@ -1,1 +1,0 @@
-work orm implement unitofwork pattern nhibernate session entity framework objectcontext etc two type service method save commit change modify model property time becomes difficult support mess call sure whether save change need outer method solve problem idea special naming example addcustomer saving non saving idea

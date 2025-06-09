@@ -1,0 +1,1 @@
+Is there any reason why `DiracDelta` isn't a `NumericFunction` but `DiracComb` is? I just ate a bug because of that inconsistency

@@ -1,1 +1,0 @@
-I inherited a code base where there is a lot of code that goes something like this:               SomeDataAdapter sda = new SomeDataAdapter();     sda.UpdateData(DataTable updateData);      And then sda is never used again. Is that a code smell that indicates that those methods should actually be static class methods instead?

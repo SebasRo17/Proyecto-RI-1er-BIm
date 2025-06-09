@@ -1,1 +1,0 @@
-I understand that when naming RESTful URI's it is commonly accepted to use plurals to represent collections of resources. I am curious as to the argument for using singular nouns instead.

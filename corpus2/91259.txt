@@ -1,1 +1,0 @@
-I was wondering what the standard/best practice is with regard to managing user-uploaded images. Obviously there needs to be a way to limit file sizes, but what's the best and most common practice here -- limit the size of the image that can be uploaded by the user, or reduce the size once it's uploaded on the back-end? Thanks for any guidance! Ken

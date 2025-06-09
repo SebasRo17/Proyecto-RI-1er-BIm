@@ -1,1 +1,0 @@
-What's the difference between model for test and model for development? Is it that the model for test contains only what we should test? Do we use the same diagrams in model for test and model for development? For example, if we use sequence diagrams for generating test cases, these diagrams will not be used for coding? I speak in the context of Model Based Testing (MBT).

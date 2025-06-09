@@ -1,1 +1,0 @@
-In the making of a programming language, is it wrong to copy features and ideas from other programming languages? If it is not a problem, why not? Is it possible to license and copyright these things?

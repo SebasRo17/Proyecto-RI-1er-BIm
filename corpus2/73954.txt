@@ -1,1 +1,0 @@
-I'm not _too,_ too far (I hope) from finishing a site. I want to have it reviewed with an eye to its accessibility. The site's job is to display streaming, up-to-the-10-second-period stock- option data. Does anyone know of a group or forum where I can post a request for a review of the site's accessibility? Thanks!

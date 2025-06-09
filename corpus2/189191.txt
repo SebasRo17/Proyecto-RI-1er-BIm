@@ -1,1 +1,0 @@
-I was reading this blog by Joel Spolsky about 12 steps to better code. The absence of _Test Driven Development_ really surprised me. So I want to throw the question to the Gurus. Is TDD not really worth the effort?

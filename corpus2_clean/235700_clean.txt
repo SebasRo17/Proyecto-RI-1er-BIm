@@ -1,1 +1,0 @@
-use repository pattern along ef work wondering way make addon somehow tap ef generation table class model saved automatically generate repository stub well also like check already exists regenerate stub might custom ef

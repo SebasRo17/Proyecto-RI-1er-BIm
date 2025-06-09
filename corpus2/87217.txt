@@ -1,1 +1,0 @@
-When looking at comparisons, it seems to me that there could be a 1:1 mapping between their feature sets. Yet, an often cited statement is that "Mercurial is easier". What is the basis of this statement? (if any)

@@ -1,1 +1,0 @@
-application development scenario c dynamic expandoobject used consider using c dynamic expandoobject

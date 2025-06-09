@@ -1,1 +1,0 @@
-80x24 characters seems to be a very common default for terminal windows. This answer provides a very good historical reason as to why the width is 80 characters. But why is the height commonly 24 (or 25) lines?

@@ -1,0 +1,1 @@
+function using setdelayed currently return value list later use result list along use value way give value name sort return one value way value accessed name coming object oriented programming perspective want return single object field accessors

@@ -1,0 +1,1 @@
+Sorry if I'm still a noob, but is there a way to check inequalities in mathematica given some restrictions? For example how could one go about checking whether: > Given $a,b,c\in\mathbb{R}$ and $a,b,c>0.5+\sqrt{5/4}$, is > $abc(a+b+c)>3abc+ab+bc+ca$ true in Mathematica

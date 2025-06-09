@@ -1,1 +1,0 @@
-I want to get into Cloud Computing. Before I choose a particular vendor platform I want to learn: What are the underlying technologies, tools and paradigms that I should be aware off to make myself comfortable at working in a cloud platform? Are there any recommended books or other resources to get my feet wet with Cloud Computing?

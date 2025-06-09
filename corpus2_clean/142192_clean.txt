@@ -1,1 +1,0 @@
-bridge design pattern separate implementation interface program advantageous

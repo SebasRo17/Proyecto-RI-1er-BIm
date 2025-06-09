@@ -1,0 +1,1 @@
+I need to plot the cube root of x in mathematica, but the plot shows me only the real part. I want it to look like wolframalpha plot with both real and imaginary parts of the function. Is it possible to do it? EDIT: This is what I want the plot to look like

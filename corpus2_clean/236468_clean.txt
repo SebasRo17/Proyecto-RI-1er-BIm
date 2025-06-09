@@ -1,1 +1,0 @@
-consider basic j var obj x num num stored internally hashtable j use different mechanism key pair hash table anyone know handle collision

@@ -1,1 +1,0 @@
-new android going tutorial saving activity state bundle noticed instead accepting generic list interface bundle put method expecting arraylists example bundle key bundle key bundle key bundle key u familiar item num effective suggesting object must refered interface wondering reason behind api decision arraylist perhaps preferred list implementation android

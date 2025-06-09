@@ -1,1 +1,0 @@
-taught since high school defining variable like consider bad practice would eventually puzzle compiler use variable starting underscore temporary variable far know reason people like move underscore end like however see lot around make use underscore starting variable build fairly well visual studio num g num x wonder non issue nowadays modern compiler smarter naming convention

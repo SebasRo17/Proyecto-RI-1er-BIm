@@ -1,1 +1,0 @@
-test automation team writes ton automation test web application seems becoming way complex warrant someone test well best practice writing automation test appreciate answer concrete input someone experienced problem matter using automating web application test framework simplify life like hear

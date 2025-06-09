@@ -1,1 +1,0 @@
-What is better and why? (From interface-design point of view) : a) To have two `Show()` and `Hide()` functions b) To have one `SetVisible(bool visible)` function EDIT: For example some object have visibility state and this functions is used to change it. c) To have all three `Show()`, `Hide()`, `SetVisible(bool visible)` functions

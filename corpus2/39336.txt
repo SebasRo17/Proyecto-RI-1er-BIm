@@ -1,0 +1,1 @@
+I have an image similar to the one shown below, and I need to find all the red circles and count them. How could I possibly extract them? I am trying to do this in _Mathematica_ for now, but eventually I have to implement the code in MATLAB R2011a with Image Processing Toolkit. ![enter image description here](http://i.stack.imgur.com/UwKVV.jpg)

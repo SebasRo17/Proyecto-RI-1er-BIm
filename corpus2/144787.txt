@@ -1,1 +1,0 @@
-I have been reading about MapReduce for a while -- but what I can't understand is how someone would make a decision to use (or not use) MapReduce. I mean, what are the problem patterns that signal that MapReduce could be used.

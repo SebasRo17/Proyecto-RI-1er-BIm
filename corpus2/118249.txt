@@ -1,1 +1,0 @@
-When dealing with an enterprise application, I often heard the requirement of "reporting function" "run reports", "generate reports", etc. What is it referring to?

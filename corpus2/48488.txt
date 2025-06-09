@@ -1,0 +1,1 @@
+How is done in Mathematica to generate the curve? Exists in the fractal geometry Koch curve, consisting of partitioning a line segment of lngitud 1 in three equal parts, by removing the central part and replaced by an isosceles triangle whose sides are the same length as the length of the extracted segment.

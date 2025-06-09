@@ -1,1 +1,0 @@
-What should we include in a SSAS cube design documentation? This is the initial phase of the document. I have included:   * data models,   * facts,    * dimensions,   * surrogate keys,   * hierarchies and levels within hierarchies,   * reports that we can pull from the cube,   * proactive caching. What else can we include?

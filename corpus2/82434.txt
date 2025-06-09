@@ -1,1 +1,0 @@
-I've heard of Silverlight 5 from Microsoft. But what about WPF? Is Microsoft planning to discontinue WPF or will there be a new version? We just switched from winforms to WPF and now another transition is going to be tough. Please point me with any links with information on the next version of WPF. Thank you.

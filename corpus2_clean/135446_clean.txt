@@ -1,1 +1,0 @@
-possible construct parser combinator library read like bnf grammar know started wondering reason impossible undesirable seems would best world functional language f allow operator overloading matter providing right syntax

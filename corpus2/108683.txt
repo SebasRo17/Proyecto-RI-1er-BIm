@@ -1,1 +1,0 @@
-I have seen this question but does not answer me. It have a brand new project. I have almost always used Log4J but now I am seeing SLF4J making some waves. What is it that Log4J could not do and we needed SLF4J? Is it really an upgrade. Should I use it in a project which will also have an API for other to extend upon?

@@ -1,1 +1,0 @@
-When do repetitive operations become a code smell? I read this article by Charles Petzold where he suggested this and was wondering what people thought.

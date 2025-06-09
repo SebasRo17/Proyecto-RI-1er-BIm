@@ -1,0 +1,1 @@
+I have to solve about 30 symbolic equations simultaneously. _Mathematica_ is taking more than 24 hours to solve it on a 6 core system and now I have to run that on a cluster. In order to do so I need to convert GUI based code into text user interface code. Any suggestions how to proceed ?

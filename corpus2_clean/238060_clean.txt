@@ -1,1 +1,0 @@
-theoretical question jvm implemented go garbage collected language jvm need separate garbage collector implemented operation

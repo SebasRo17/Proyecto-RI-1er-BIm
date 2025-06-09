@@ -1,1 +1,0 @@
-look like def foobar mock kwargs snipped foobar actually make several call amazon s3 return composed result order make testable introduced mock parameter turn making live network connection feel like smell testability also important else want away parameter

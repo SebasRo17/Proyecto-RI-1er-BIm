@@ -1,0 +1,1 @@
+Is wavelet a Nonlinear transform, or Not?   specifically, continuous wavelet transform with morlet function. I am studying behavior of a dynamic system, and it has nonlinear behaviour. can I employ wavelet transform?

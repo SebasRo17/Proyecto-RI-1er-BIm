@@ -1,1 +1,0 @@
-question title little confusing better way put put jlabel new jlabel settext ho ho ho jlabel new jlabel ho ho ho case give label ho ho ho question possible mean jlabel class one parameter one without

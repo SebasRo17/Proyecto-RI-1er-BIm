@@ -1,1 +1,0 @@
-developing application method kind etc initialization application n player something like player1 player2 player2 player4 player3 player1 player4 player3 etc know configure jtable allow set equivalent block others word need simply way create jtable num column n row set column num num player central column one available method player column num must invoke player column num

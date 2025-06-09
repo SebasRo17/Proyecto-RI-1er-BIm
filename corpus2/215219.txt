@@ -1,1 +1,0 @@
-Is there any reason anyone would use GPL v2 over GPL v3 when starting a new project, or is GPL v2 still around only because older projects can't or haven't updated their license yet?

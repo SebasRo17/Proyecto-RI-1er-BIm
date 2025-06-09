@@ -1,1 +1,0 @@
-In my less experienced days I added a lot of business logic in the code behind of my .aspx. Now I'm revisiting it I would like to refactor the mess and get it all sorted out. How do I go about this? If I am to move my logic, where do I put it? Do I have a seperate class for each page?

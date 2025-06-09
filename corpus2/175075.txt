@@ -1,1 +1,0 @@
-I saw that Java 1.2 is also known as Java 2. Do "Java 1.x" and "Java x" (for example "Java 1.6" and "Java 6") refer to the same version of Java? And if yes, why the need for this duality?

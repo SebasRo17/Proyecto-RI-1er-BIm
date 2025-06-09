@@ -1,1 +1,0 @@
-recently taken project another developer certain way initializing reference player private armor debugger debugger sf window sf event event public player armor perfectly fine add new stuff constructor massive messy would like know better way initializing reference large project keep eventually constructor line actually

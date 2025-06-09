@@ -1,1 +1,0 @@
-Do you think is good to start developing Android Applications even though I'm a beginner? So should I just concentrate on learning java, c++, html, css, javascript, php, msql, c#, c, objective-c, etc?

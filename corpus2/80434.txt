@@ -1,1 +1,0 @@
-I am done with HTML and CSS. Now I want to know whether I should study PHP and SQL together or individually. Basically, I have this book, `O'Reily Head First PHP and MySQL`. Should I take this book or start with a book for PHP only? And is there any difference?

@@ -1,1 +1,0 @@
-I'm in my first real job as programmer and what I see is just the "Big Ball of Mud" code (without useful comments too), but I like to do clean code, and it's really hard for me to code in a worse way. I'm searching for some study case where the usage of clean code (I see various definitions here of what is clean code) improved the development and maintainability.

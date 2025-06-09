@@ -1,0 +1,1 @@
+I have this code:               DynamicModule[{r = 1},     Grid[{{Slider[Dynamic[r]], SpanFromLeft},     {f[Dynamic[r]], g[Dynamic[r]]}}]]      While I move the slider, $f$ ang $g$ are evaluated continually, but only $f$ should be. I want $g$ to be evaluated only with the final value of $r$. (When I release left click) How to do this?

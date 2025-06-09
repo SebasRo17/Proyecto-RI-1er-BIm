@@ -1,0 +1,1 @@
+How to find the solution of differential equation with complex roots For example of   [{y^2 n[t]+ 2 k y n'[t] + n''[t]= M p sin(o t), n[0]==0, n'[0]==0}, n,t]   given k lies between 0 to 1 which makes the roots complex.

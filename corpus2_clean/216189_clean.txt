@@ -1,1 +1,0 @@
-way add callback given javascript without changing definition done without using library like deferred

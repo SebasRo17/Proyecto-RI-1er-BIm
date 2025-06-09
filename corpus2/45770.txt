@@ -1,0 +1,1 @@
+Is it possible to evaluate `Erf[200]` with arbitrary precision? I only get `1.` as result but I would like to know if a arbitrary precision is possible because I need to compare a gaussian approximation to the hypergeometric distribution that for the values I'm using results in $\approx 10^{-6100}$. Should I instead rely on `NIntegrate` and specify directly there my precision?

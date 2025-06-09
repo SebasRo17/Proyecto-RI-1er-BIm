@@ -1,1 +1,0 @@
-recently started working team version control team member used kind version control using mercurial privately track work would like encourage others adopt least start version develop change anyone give advice encourage adoption distributed version control mercurial advice win people including manager dvcs would much appreciated

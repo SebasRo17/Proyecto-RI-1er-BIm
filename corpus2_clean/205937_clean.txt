@@ -1,1 +1,0 @@
-learning rest chance build basic rest api material read internalized better understanding however see real difference yet tangible benefit using rest old way thing simple url query string seems exact thing rest cleaner standardized thought rest additional technical benefit rest simply agreed way implement api

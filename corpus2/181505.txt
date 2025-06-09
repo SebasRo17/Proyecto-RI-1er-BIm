@@ -1,1 +1,0 @@
-I have just started reading C++, and I came across a term "Null Terminated String", I read about it but couldn't understand what it actually stands for. I also want to know what is the difference between a c-string(also referred as "Null terminated String") and a c++ string.

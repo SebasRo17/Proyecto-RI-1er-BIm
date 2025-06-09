@@ -1,1 +1,0 @@
-since user thread mapped kernel thread create thread kernel thread process zero user thread mapping user thread kernel thread create overhead

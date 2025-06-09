@@ -1,1 +1,0 @@
-I've seen this now in a number of places and a number of contexts, for example in SQL. I cannot define the meaning of a "Hint" which it seems clear has some application as or part of a larger design pattern/technique. What exactly is a Hint when used in software engineering?

@@ -1,0 +1,1 @@
+I want to make drawings like these in _Mathematica_ : ![sc](http://i.stack.imgur.com/aj7y0.jpg) ![enter image description here](http://i.stack.imgur.com/5lxoz.jpg) I don't know if _Mathematica_ is a gppd solution for drawing such images. If it is, please tell me how to do it; if not, please suggest another solution.

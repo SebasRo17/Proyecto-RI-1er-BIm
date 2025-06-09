@@ -1,1 +1,0 @@
-I was at an interview recently and although they knew that I was a beginner in javascript they asked me what selectors I used before? I didn't know what to say. I came back home and searched for it but can't find a clear definition. Isn't a selector something like a .class or #id?

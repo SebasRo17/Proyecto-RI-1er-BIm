@@ -1,0 +1,1 @@
+_**How to plot periodic function's graphic?_** For example, `f(t) = t` when `-5<t<5 && f(t+10) = f(t)`               f[t] := If[-5 <= t <= 5, t, f[t + 10] = f[t]];     Plot[f[t], {t, -20, 20}]      ![Output](http://i.stack.imgur.com/ylq0s.png)

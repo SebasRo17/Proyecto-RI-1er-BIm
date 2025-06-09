@@ -1,1 +1,0 @@
-normal form submission use pattern post redirect get processing form database application built django want allow user select number item database launch computationally intensive task based item expect task take num minute num hour complete standard approach dealing request like e immediately ideally would way display progress

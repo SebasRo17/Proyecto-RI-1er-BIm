@@ -1,1 +1,0 @@
-I need to compare a picture and decide whether or not it is similar to another one. In this case, I would like to use a simple perceptron that compares pixelmaps of both pictures. But I have only very basic understanding of neural networks and I am not sure whether this approach will work if there is only one source picture (to train it with). Anything I could do in this case?

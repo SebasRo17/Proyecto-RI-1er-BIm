@@ -1,1 +1,0 @@
-What is the point of using DTO and is it an out dated concept? I use POJOs in the view layer to transfer and persist data. Can these POJOs be considered as an alternative to DTOs?

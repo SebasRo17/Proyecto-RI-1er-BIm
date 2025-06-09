@@ -1,1 +1,0 @@
-model mvc application get kind hard test validation persistence baked together model would like test separately prevent integration testing instead actual unit testing pattern available keep validation persistence separated

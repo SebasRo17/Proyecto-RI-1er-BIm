@@ -1,1 +1,0 @@
-final str change str result compile time saying final field assigned created e reference cannot changed str1 hello world system println str1 replaceall h q str1 str1 replaceall h q system println str1 immutable hand mean way change content changing reference understanding definition final immutable correct

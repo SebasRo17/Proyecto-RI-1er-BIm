@@ -1,1 +1,0 @@
-sense num ten factorial represents approximate dividing thing practical compute thing knuth taocp fundamental algorithm book num still valid statement computing power rendered obsolete

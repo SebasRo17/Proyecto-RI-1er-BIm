@@ -1,1 +1,0 @@
-understand basic race lock mutexes semaphore help prevent happens race condition lock example two different thread perhaps application running different processor try acquire lock exact time happens done prevent impossible plain unlikely real race condition waiting happen

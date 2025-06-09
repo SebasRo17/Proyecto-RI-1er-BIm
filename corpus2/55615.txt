@@ -1,1 +1,0 @@
-What is the best way of managing minutes of meeting on daily bases ? Do we have to manage the documents in a repository like VSS or it can be maintained in a excel sheet itself. Kindly share your experience for the same and guide. Thanks in advance

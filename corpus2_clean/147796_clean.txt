@@ -1,1 +1,0 @@
-site like webpagetest allow user enter website url test location speed test site multiple location using real browser anyone give basic idea site like work also plugin like latency simulator charles web debugging proxy app simulate delay accessing site different location assuming since plugin different way plugin work

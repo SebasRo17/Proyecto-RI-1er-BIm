@@ -1,1 +1,0 @@
-I need to draw a sequence diagram and I am not sure exactly if it is correct to show interaction between user and user interface in this diagram. For example I want to make a panel visible or invisible based on choosing a check box by user. Is it correct to have it on a sequence diagram? and how can I draw it? thanks

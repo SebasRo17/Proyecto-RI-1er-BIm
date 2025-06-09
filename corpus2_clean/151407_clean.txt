@@ -1,1 +1,0 @@
-general coding standard question bad practice initialize create multiple method depending outcome user choice example user quits poker game create poker hand card user received even num user played till end create show completed hand show outcome game key created actuality different path parameter receive depending user folded played showdown

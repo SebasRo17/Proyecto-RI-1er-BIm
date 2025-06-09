@@ -1,0 +1,1 @@
+What is a good way to test the first row of a Matrix to check if one of the values equal a value. For instance, In this example, I want to get vector in the second row that has the bigger value in the first row, 10. I can quickly do it with a lop, but don't think it's the best way... ![enter image description here](http://i.stack.imgur.com/1pQOB.png)

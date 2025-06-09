@@ -1,1 +1,0 @@
-Need a a toolset / framework that I can use to build GUI apps on both Mac and Windows, without too much stuffing around. Any obvious candidates?

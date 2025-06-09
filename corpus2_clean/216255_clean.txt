@@ -1,1 +1,0 @@
-collection line segment represented ex num num num num num num segment num num num num num num num num num num num num num num num num enter image description want find line segment intersection including common point better way rather brute force checking option n num

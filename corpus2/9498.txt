@@ -1,1 +1,0 @@
-I'm looking at evaluating ORMs. I've used SubSonic, Linq-to-SQL and Entity Framework. I've got a team of developers ranging from juniors to seniors. What are the criterias for evaluating an ORM for.NET?

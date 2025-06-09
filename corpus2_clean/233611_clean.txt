@@ -1,1 +1,0 @@
-writing simple webmail want obviously display email wondering take precaution displaying html email dumping email content div security risk guessing yes since email could contain anything could contain javascript proceed thinking stripping dangerous html tag would bad solution since impossible think case

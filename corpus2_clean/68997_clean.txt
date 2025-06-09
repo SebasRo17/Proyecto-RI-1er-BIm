@@ -1,1 +1,0 @@
-escaping function e g mysql real moved database layer would parameter passed query escape string would good design

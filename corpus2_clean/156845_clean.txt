@@ -1,1 +1,0 @@
-building wp7 app need communicate wcf service made make change sql database little concerned security user password accessing sql database app config read place encrypt user password config file username password never exposed client connected wcf service would security situation much problem case anyone suggests security ssl web server

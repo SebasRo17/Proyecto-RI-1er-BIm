@@ -1,1 +1,0 @@
-updating field sql alter row also giving commit command system crashed happen command given whether update alter table

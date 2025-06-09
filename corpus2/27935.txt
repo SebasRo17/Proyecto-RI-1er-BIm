@@ -1,1 +1,0 @@
-So i just finished my first semester of college. In my intro to programming class we made a bunch of super interesting ( _sarcasm_ ) console applications. Any suggestions on ways other than just messing around with console applications for a beginner C++ student to improve?

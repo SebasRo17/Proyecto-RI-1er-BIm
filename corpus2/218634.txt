@@ -1,1 +1,0 @@
-I was thinking of creating a text adventure game and after a small google search, I found out that quite a few (simple) text adventure games are created in Prolog. Why is that?

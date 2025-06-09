@@ -1,1 +1,0 @@
-I would like to practice specific technologies/frameworks like Hibernate, Spring, GWT and so on. How can I find an open-source project that uses specific frameworks technologies so I can contribute to it?

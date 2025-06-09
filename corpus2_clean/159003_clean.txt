@@ -1,1 +1,0 @@
-possible duplicate singleton appropriate ok people probably know singleton use know drawback including race condition never really figured people still use popular implementation actually usually prone complex double locked constructor seems even large project really often created seem easier way achieve anyone actually situation singleton cruft made life easier rest project

@@ -1,1 +1,0 @@
-I just can't understand, no matter how good and scalable of Cloudant (data as a service), how one can overcome network latency issue? Even the data center is located within the same country, 100ms is way too slow compare to a local network. Any thoughts?

@@ -1,0 +1,1 @@
+Is there a way to get _Mathematica_ V9 or Wolfram|Alpha, given a city as input (e.g., `"Urbana Champaign, IL"`), to return a list of cities that fall in a time zone within a certain maximum absolute value difference from the time zone of the given city? Generally, is there a way to get a list of cities by absolute value difference from the time zone a given city falls in?

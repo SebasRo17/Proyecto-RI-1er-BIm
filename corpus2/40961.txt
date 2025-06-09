@@ -1,0 +1,1 @@
+How can we find the mean of the following type of data?               {{β -> 0.516819}, {β -> 0.499907},       {β -> 0.494064}, {β -> 0.472742},       {β -> 0.537485}, {β -> 0.478291},       {β -> 0.523855}, {β -> 0.483624},       {β -> 0.50126},  {β -> 0.527267}}      Which command could be used to find the mean of this data?

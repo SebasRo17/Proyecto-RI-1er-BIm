@@ -1,1 +1,0 @@
-many key binding brain personally use intellij idea primary ide development sometimes switch eclipse netbeans bit sometimes use jedit notepad emacs vim always trying find perfect key binding use crossing editor idea solve problem

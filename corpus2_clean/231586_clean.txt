@@ -1,1 +1,0 @@
-understand interpreter could one following thing probably num execute programming language source directly num first translate source intermediate less human readable efficient easier interpreter execute execute question num assumption understanding correctly general interpreter something wrote wrong num assumption one two possible function common please show example

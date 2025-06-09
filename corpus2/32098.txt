@@ -1,0 +1,1 @@
+I tried this code, but not working               Clear[f];     f[x_] := x^3 - 3 x + 2;     ForAll[{x1, x2}, x1 < x2, f[x1] < f[x2]]     Reduce[%, {x1, x2}, Reals]      I expected the result is `x<=-1 || x>=1`

@@ -1,1 +1,0 @@
-Can anyone give an example of instances in which the AF_UNIX i.e unix domain sockets are used for process communication in a unix-based system

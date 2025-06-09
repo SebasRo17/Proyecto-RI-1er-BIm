@@ -1,1 +1,0 @@
-tdd proponent claim result better design decoupled object understand writing test first enforces use thing like dependency injection resulting loosely coupled object however tdd based unit test test individual method integration object yet tdd expects design evolve test tdd possibly result better design integration e inter level granularity address finer individual method

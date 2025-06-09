@@ -1,1 +1,0 @@
-I've found freetype-gl library I want to use. It has new BSD license and I'd like to use it in my closed source commercial project. Can I do it?

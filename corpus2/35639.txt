@@ -1,1 +1,0 @@
-Just out of curiosity, I started wondering whether a language which doesn't allow comments would yield more readable code as you would have be forced to write self-commenting code. Then again, you could write just as bad code as before because you just don't care. But what's your opinion?

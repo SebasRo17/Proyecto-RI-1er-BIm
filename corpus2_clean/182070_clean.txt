@@ -1,1 +1,0 @@
-work new application developed use relational database must database model conceptual physical reviewed dba thing looked normalization antipatterns table column naming standard etc really dba responsability greater extend responsability app designer architect

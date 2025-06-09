@@ -1,1 +1,0 @@
-I want to know if PHP programmers are validated with their Zend Certified Engineer certification. Around me some of them are saying it is very useful, some of them say no. Please clear my mind. Thanks in advance.

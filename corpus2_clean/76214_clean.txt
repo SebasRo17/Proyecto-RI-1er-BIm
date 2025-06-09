@@ -1,1 +1,0 @@
-turbogears app bringing live us postgresql db back end performance issue better db app separate server server server better db separate physical drive

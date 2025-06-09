@@ -1,1 +1,0 @@
-How popular are **stored procedures** today, compared to 5 years ago? I ask this question because the book that I'm reading (an ASP.NET 4 book) has no stored procedures in it. Is it the ASP.NET 4 way now?

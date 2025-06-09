@@ -1,1 +1,0 @@
-software application managed using git released new version num x plan maintain long term bug fix mostly meantime would like start working version num x recommended way manage create branch version num x num x development master way

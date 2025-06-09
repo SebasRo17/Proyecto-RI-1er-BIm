@@ -1,0 +1,1 @@
+I have some problems with importing a .txt file as a table. This is the file. I tried importing it with               data = Import["data.txt", "Data"]       I want to access single values, but it doesn't work with my import. I can't access `data[[2, 1]]` for example to get the first value in `data[[2]]` and so on. Any ideas?

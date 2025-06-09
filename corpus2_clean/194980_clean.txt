@@ -1,1 +1,0 @@
-possible host long running worker inside asp net application worker window service reading queue sending message wcf service would possible light long running worker inside asp net application read setting pool start mode always running using start worker would like get rid window service deployment debugging problem embed work inside ii suggestion

@@ -1,1 +1,0 @@
-preferred way document content logic behind dynamically generated structure e g dict contains mapping list list string find hard transport meaning algorithmic working element alone unsatisfying sometimes counterproductive try shape dict form tell another programmer easily structure dict entry similarly placing comment example entry anything optimal eye

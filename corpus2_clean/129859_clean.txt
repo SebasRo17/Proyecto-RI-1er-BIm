@@ -1,1 +1,0 @@
-looking get job programmer know basic language created game using pygame also started experiment django however looking job market seem many job web related desktop side thing seem like many company use popular gui library like pyqt wxpython company actually using area one focus land job programmer

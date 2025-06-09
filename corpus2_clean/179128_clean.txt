@@ -1,1 +1,0 @@
-architecturally speaking preferable approach validation date user repository getuser user id validation date seems violate law demeter accessing member returned call seems violate encapsulation accessing member directly validation date user repository user id seems violate single responsibility principle user repository longer return user object

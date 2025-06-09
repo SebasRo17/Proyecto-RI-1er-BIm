@@ -1,1 +1,0 @@
-I have heard several times that every programmer should learn one of each type of language. Now, this is not necessarily true, but I believe it is a good idea. I've learned a Procedural Language (Perl), but what **are** the other types? What are the differences between them and what are some examples of each?

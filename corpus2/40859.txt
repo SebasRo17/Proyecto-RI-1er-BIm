@@ -1,0 +1,1 @@
+I have a variable A = g / (1 + g R) Actually, if the quantity (g R) >> 1 it is possible to write A as A ≈ 1/R. How can I do this in Mathematica? I tried with Assumptions, Refine, Simplify, but i can get the simplified form. Thanks

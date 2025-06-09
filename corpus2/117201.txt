@@ -1,1 +1,0 @@
-as a programmer I live with Trac, how do you go about accessing trac projects via a mobile phone, nokia/android/iphone/windows mobile, the mobile platform is not important, I can get a new phone but trac is there to stay.

@@ -1,0 +1,1 @@
+I have a very large matrix of numbers. I want to check if all its entries are real. At the moment I am using               realQ = And @@ Thread[Flatten[Im @ #] == 0] &      Is there any faster/safer/better way to do it?

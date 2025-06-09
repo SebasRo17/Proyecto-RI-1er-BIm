@@ -1,1 +1,0 @@
-This is the algorithm (pseudocode) I have right now for finding all subsets for a given set with length k:               void allSubsets(set[]) {         for (i = 0; i<k; i++) {             for (j = i + 1; j<k; j++) {                 print(set[i...j]);             }         }     }         But it's run-time is O(n^2). Can anybody improve this?

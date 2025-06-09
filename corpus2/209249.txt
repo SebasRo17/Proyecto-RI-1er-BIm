@@ -1,1 +1,0 @@
-As pointers in C require 2 bytes of memory size irrespective of the size of the data type they are pointing. So does the same thing applies to java references also ?

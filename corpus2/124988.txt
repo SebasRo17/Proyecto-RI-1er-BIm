@@ -1,1 +1,0 @@
-I am looking for a lightweight way to notate changes made to a file. The obvious answer to this is a version control system. But this is more robust than necessary for what I would like to do. All I want is the functionality to compare an edited file to its original in a lightweight manner.

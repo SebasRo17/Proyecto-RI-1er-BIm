@@ -1,0 +1,1 @@
+I thought that I remembered a way to write a function definition using "|", but can't find documentation for it. So for example, I'd want to define:               f[1, x_] := x^2;     f[2, x_] := x*12;      I thought there was a syntax, kind of like a "select case" or "switch" statement that used "|". Is there?

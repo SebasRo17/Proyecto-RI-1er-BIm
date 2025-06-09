@@ -1,0 +1,1 @@
+I would like to plot a real-valued function $f$ of two real variables $x,y$ but only over the region of the $x$-$y$ plane satisfying \begin{align} x>0, \qquad -x^{3/2} < y < x^{3/2}. \end{align} Is there a straightforward way to do this using Plot3D?

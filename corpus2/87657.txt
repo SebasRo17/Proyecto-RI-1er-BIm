@@ -1,1 +1,0 @@
-Is anyone else out there sick of the state of current build systems in the Java space? Why shouldn't I just write my next project's build scripts in Python, Ruby or another fully feature scripting language and get back some of that control? Does anyone have any experience in putting something like this together? If so did it work out well or was it a disaster?

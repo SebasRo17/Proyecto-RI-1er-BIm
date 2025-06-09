@@ -1,1 +1,0 @@
-A bug was opened, fixed, verified and closed. A month later, it showed up again in a subsequent version after several iterations without any regression. Provided the bug characteristics are the same, would you **reopen** the existing bug ID or open a **new** one with a link to the closed bug?

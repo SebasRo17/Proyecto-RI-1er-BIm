@@ -1,1 +1,0 @@
-resource site illustrates building application desktop web using several different contrasting architecture mvp versus mvvm versus mvc etc would helpful see look side side using real world instead comparing written theory written theory often found something described well book go implement subtlety weakness theory become readily apparent

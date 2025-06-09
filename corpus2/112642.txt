@@ -1,1 +1,0 @@
-It's possible to publish daily updates for your application on Google's Android Market, but I have an assumption that users don't like to get frequent updates. How can I determine when I should publish updates? Is there an optimum interval to balance between delivering new features and bug fixes while not upsetting my user base?

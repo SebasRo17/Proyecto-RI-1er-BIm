@@ -1,1 +1,0 @@
-is polymorphism only possible when there is a scenario of inheritance or is the implementation of polymorphism not dependent on inheritance. Or is polymorphism mainly usefull when there is inheritance ?

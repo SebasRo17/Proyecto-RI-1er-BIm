@@ -1,1 +1,0 @@
-I am doing a bit of research for my paper, and I have a general question to you guys. Consider a design pattern or any **commonly accepted, reusable solution** for a particular problem. It doesn't have to have a name or be classified as an actual design pattern. **Why** would you use it? What does it help you to accomplish? Give your reasons and argument them.

@@ -1,1 +1,0 @@
-I'm working on a project where I need heavy numerical calculations to be real- time visualized with something flexible like D3.js. Are there frameworks out there that would let me painlessly achieve this? Or do I need to use some sort of "glue" code written in, say, Python?

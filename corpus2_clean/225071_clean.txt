@@ -1,1 +1,0 @@
-developing jquery mobile app app often use mustache j template separate html file actually every template needed user app load template via get needed template small used client runtime obviously case long case add extension needed user could load every template afraid could become blocking point future based experience best thing load template load one one needed

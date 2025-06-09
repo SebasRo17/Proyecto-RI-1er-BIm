@@ -1,1 +1,0 @@
-find loading several model throughout application instead typing load model find would reasonable put call controller example instead public view foo foo find list could use public view componentname

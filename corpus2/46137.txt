@@ -1,1 +1,0 @@
-Say difference between Python and C++?

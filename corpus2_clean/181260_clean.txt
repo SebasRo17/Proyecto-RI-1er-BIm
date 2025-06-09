@@ -1,1 +1,0 @@
-mit licensed project used include gpl javascript library since removed legal necessity rewrite revision history completely remove

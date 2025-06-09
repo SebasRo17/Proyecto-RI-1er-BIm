@@ -1,1 +1,0 @@
-Non-Turing complete languages offer a great advantage over Turing-complete languages as they are much more analyzable and, thus, offer much broader optimization possibilities. Yet they are barely used and Turing-completeness is actually sold as a good feature. Are there any mainstream non-Turing-complete languages available today that are made for general-purpose programming?

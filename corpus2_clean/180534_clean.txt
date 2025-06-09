@@ -1,1 +1,0 @@
-problem statement problem statement task find profitable contiguous segment test given sequence test score allowed drop k test chosen range problem appears dp problem outset complexity arises test drop condition come picture modification made classic dp approach problem completely different approach test range n num source inoi num q paper

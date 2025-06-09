@@ -1,1 +1,0 @@
-I want to make a website for uploading my slides for students but i don't want to use public sites that every one can see my slides, I want only my students to see and download them. what is the best things can I do? Is it to use WordPress for example (I am not sure if I can upload my slides in WordPress or not)? Or is there any easy to install and use script for this purpose?

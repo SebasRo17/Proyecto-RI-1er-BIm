@@ -1,1 +1,0 @@
-When using gettext or a similar framework, should the translation strings include `':'` (like `"Label:"`) for generating labels for UI or should I add `':'` in UI code itself?

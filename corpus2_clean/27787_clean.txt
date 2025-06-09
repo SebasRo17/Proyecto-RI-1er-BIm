@@ -1,1 +1,0 @@
-recently replaced binary based communication protocol xml one browser based client server implementation almost complete however looking way improve performance faster transmission parsing idea please post link along answer

@@ -1,1 +1,0 @@
-security something table record user information like username password postcode one record per person also table called post record post user posted easy set relation identify user posted post think situation store post read user use many many relation table increase huge size lot thing record take one example call personal information problem store properly

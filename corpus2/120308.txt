@@ -1,1 +1,0 @@
-My company has given permission for me to open source some internal tools I've built. The first step is to choose an open source license. How do I do this? I know about the GPL, the Apache license, and others. Are there any resources out there that compare and contrast the different licenses? I'd rather not have to read every single candidate until I've narrowed the field.

@@ -1,1 +1,0 @@
-designing simple logic analyzer know best way decode protocol like i2c spi uart whit something like fpga want software running arm would like know special way decoding protocol like i2c spi uart simply flag normal way

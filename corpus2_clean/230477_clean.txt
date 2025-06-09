@@ -1,1 +1,0 @@
-best way list xsd schema x element employee minoccurs num maxoccurs unbounded currently list current employee specified schema class generated access list employee list employee req give wrong impression retrieving single employee make schema would look good look xml row displayed decide v suggestion getting naming convention correct

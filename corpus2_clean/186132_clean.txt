@@ -1,1 +1,0 @@
-somebody explained since agile development policy application logic important detail persistence persistence decision taken end might good idea start simpler persistence flat file reach point weakness become apparent change persistence e g using relational database misunderstood concept agile team usually build application rationale take approach

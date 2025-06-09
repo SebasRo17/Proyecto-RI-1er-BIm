@@ -1,1 +1,0 @@
-When Aiken devised the Mark I, why did he decided to separate data and instructions? It was not mentioned in Wikipedia (or in any other searches I've looked) on how or why Aiken separated data and instructions.

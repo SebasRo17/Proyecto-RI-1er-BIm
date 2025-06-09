@@ -1,1 +1,0 @@
-assume project decoupled enough allow unit testing big exactly term clases function project need make unit testing worthwhile make mistake one perfect consider decent programmer handle small project error stepping unit testing hard necessity matter size project

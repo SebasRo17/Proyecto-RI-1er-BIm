@@ -1,1 +1,0 @@
-My development team just grew by 100% (from 1 developer to 2). My new cohort want to invest in bug tracking software. Is there benefits to such software for such a small team?

@@ -1,1 +1,1 @@
-hope getting coworkers adopt automated unit testing method future project would like see proper example done simple lesson unit testing cover basic example seem convince anyone benefit unit testing offer open source project written php come extensive unit test done properly used example testing done
+pretty new mathematica need figure create n time n tridiagonal matrix n slightest clue begin edit got far sure set nxn sparsearray band x band band z matrixform

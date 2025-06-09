@@ -1,1 +1,0 @@
-Right now I am developing web applications with ruby-on-rails. Sometimes I am having a hard time deciding which language to chose to solve my problems. The difference between HTML,CSS and the programming languages is pretty clear. But when do I have to take JavaScript instead of Ruby (besides client-server difference)? Thanks!

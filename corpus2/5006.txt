@@ -1,0 +1,1 @@
+How to plot the following in Mathematica: $$P = \sum_{k=C+1}^{\infty}\frac{e^{-C^\gamma} (C^\gamma)^k}{k!}$$ I want to plot $P$ versus $C \log{C}$ for a given $\gamma$ with logarithmic scale on Y-axis. In Matlab, I'd calculate it as follows:               gamma = 0.75;     C = 1:1:20;     lambda = C .^ gamma;     p = 1 - poisscdf(C,lambda);     semilogy(C .* log(C), p);

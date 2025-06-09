@@ -1,1 +1,0 @@
-I'm writing the Software Requirement Specification document for a piece of software that I am developing. A part of the SRS is the identification of the user class. Can somebody please give or refer me to definition of a user class as it relates to a software product?

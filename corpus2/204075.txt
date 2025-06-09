@@ -1,1 +1,0 @@
-If a compiler's work is essentially translating source code into machine level code, can there be any glitch in a compiler, i.e. a faulty "translation?" The same goes for an interpreter: can it fail to output the required content sometimes? I have not heard of any bugs in compilers/interpreters, but do they exist?

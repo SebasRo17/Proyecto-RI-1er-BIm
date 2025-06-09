@@ -1,1 +1,0 @@
-reading make jni call slow wondering c interface better jni heard want make certain part program faster certain part program really hurting program performance write c make call c interface incur cost jni

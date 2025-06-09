@@ -1,1 +1,0 @@
-To call yourself a competent Java programmer, what should you expect of yourself and what should others expect from you? Does anyone have ideas for a project or problem that would help measure someones "java-smarts"?

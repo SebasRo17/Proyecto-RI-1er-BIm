@@ -1,1 +1,0 @@
-What's a better word for an optional requirement in software engineering? The phrase is contradictory. I've used "Non-Core Requirements" in previous projects.

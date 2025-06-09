@@ -1,1 +1,0 @@
-looking good ci solution haskell project ideally something work git really basic need far build test check basic reporting would great need anything real fancy also support running javascript test browser via selenium like people using

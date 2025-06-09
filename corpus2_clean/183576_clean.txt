@@ -1,1 +1,0 @@
-stumbled upon post talk making async web request simplicity aside real world make async request wait next making sync call first place

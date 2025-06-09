@@ -1,1 +1,0 @@
-anyone know difference seems kernel thread correspond run kernel intuitively sure two also would pthreads standard considered user level kernel supported since accessing library kernel thread scheduling switching

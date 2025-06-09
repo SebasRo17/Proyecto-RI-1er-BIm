@@ -1,0 +1,1 @@
+How do I expand a function $f(z)$ in a particular region? For example, how would I expand $f(z)=(z^2-3z+2)^{-1}$ in the region $0<|z-1|<1.$? I believe this can be done by the binomial theorem. But how to arrange things to make the binomial expansion valid? Please give me an idea for doing this.

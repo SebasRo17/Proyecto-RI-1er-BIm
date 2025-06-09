@@ -1,1 +1,0 @@
-I built a web application using PHP. Now, I want to sell this web application online for customers but I want to guarantee that only one customer (only one website) use this. Is there a way to make the script under a license (which I provide)?

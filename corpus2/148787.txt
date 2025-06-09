@@ -1,1 +1,0 @@
-I would like to know if it is possible to use DBUS on Android using Java. From what I have been searching till now it appears like there is no DBUS programming support on Android. But then bluetooth on Android uses DBUS. I would like to confirm if it is actually the case. If so, is there a possibility that DBUS would be supported in the future.

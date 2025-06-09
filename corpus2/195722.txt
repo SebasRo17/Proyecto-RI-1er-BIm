@@ -1,1 +1,0 @@
-I am trying to measure the running time of different crypto algorithm. e.g. how long it takes to encrypt/decrypt a block of plaintext. May I ask if `C` with `OpenSSL` is the best PL to do this?

@@ -1,1 +1,0 @@
-I am working on creating a REST ws exposing few API's. A token is required for each API call. I am confused about the expiry time to be set for the token. Security+Performance wise what is the ideal expiry time for token (if there is one)?

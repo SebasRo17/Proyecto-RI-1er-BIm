@@ -1,1 +1,0 @@
-I've seen it stated several times that AOT can run some more expensive optimizations that take too long to be used by a JIT. But I've never seen it stated what exactly these optimizations are. So I'm wondering, what are these optimizations?

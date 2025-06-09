@@ -1,0 +1,1 @@
+I am trying to solve an ODE with `NDSolve` using the `"ExplicitRungeKutta"` method. I need to know exactly which time steps `NDSolve` chooses, i.e., which points in the interval $[tmin, tmax]$ it chooses when it implements the Runge- Kutta method before the interpolation is made). What should I do?

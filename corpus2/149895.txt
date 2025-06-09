@@ -1,1 +1,0 @@
-With an encoding such as EBCDIC being in existence already (and being 8 bit to boot), what was the need to invent yet another encoding and a 7 bit one at that? Why was ASCII invented and what problems with EBCDIC did supposed to solve?

@@ -1,0 +1,1 @@
+I would like to assign each vertex a random number with the minimum bound equal to the smallest vertex and the maximum equal to the value of the largest without repeats. ie in a 20x20 grid, the vertices would be labeled from 1-400 without repeats but each randomly

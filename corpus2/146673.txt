@@ -1,1 +1,0 @@
-Is it considered bad practice to pass items in a PHP array by reference instead of by value? Relevant documentation: http://php.net/manual/en/control- structures.foreach.php

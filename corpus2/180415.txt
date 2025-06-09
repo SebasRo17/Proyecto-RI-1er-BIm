@@ -1,1 +1,0 @@
-It seems like FILEHANDLER is more commonly used as a handler naming convention than $filehandler. But it can give a bareword error if one forgets to use *FILEHANDLER in some constructions. What are advantages and disadvantages of HANDLERS and $handlers? Which naming convention is a better practise, and why?

@@ -1,1 +1,0 @@
-What are ways to allow the versioning of database entries (data)? Think of the content-managment-systems abilities to revert back changes of articles. What are their pros/cons?

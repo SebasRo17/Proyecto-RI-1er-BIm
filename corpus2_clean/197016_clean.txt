@@ -1,1 +1,0 @@
-unsorted query give range maximum range returned example num num num num num num num num num num query inclusive num num answer num algorithm structure construct quickly retrieve maximum range lot query edit indeed simple version actual problem size large num number query upto num definitely require preprocessing facilitate fast query response

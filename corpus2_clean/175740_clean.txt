@@ -1,1 +1,0 @@
-compiled stuff going version control specially come compiled binary however principle question adding doxygen support project hundred file generated doxygen go version control recommended practice think ideal would automating process server publishes documentation time however server time

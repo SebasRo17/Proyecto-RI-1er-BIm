@@ -1,0 +1,1 @@
+Is it possible to typeset systems of equations in _Mathematica_ , and if so, how can I do it using a big left bracket as one could in LaTeX with `\left\{ ... \.`? I know this is possible using the `Piecewise`, but is there a special command for this?

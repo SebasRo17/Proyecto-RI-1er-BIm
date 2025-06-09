@@ -1,0 +1,1 @@
+I have generated the following plot: ![enter image description here](http://i.stack.imgur.com/vrDYA.png) Code:               RegionPlot3D[  x^2 + z^2 < 1 &&   x^2 + y^2 < 1, {x, -2, 2}, {y, -2, 2}, {z, -2, 2}, Axes -> False]      However, the resolution is a bit poor in the plot above. How can I increase the polygon count or increase the resolution some other way?

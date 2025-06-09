@@ -1,1 +1,0 @@
-We all get them. What do you do when you are supposed to write a functional spec from a woolly proposal? You can write a ton of questions about the proposal but answers are not always forthcoming. Sometimes for political reasons you cannot make someone firm them up. How do you deal with a vague software proposal, when experience and intuition only go so far?

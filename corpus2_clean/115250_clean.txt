@@ -1,1 +1,0 @@
-sure right place ask wrote app show movie one computer appropriate info genre director rating etc wondering make user filter based criterion genre rating etc enums thinking using combobox able specify num genre use listbox control harder present option listboxes seen example apps similar thing sure idea enter image description

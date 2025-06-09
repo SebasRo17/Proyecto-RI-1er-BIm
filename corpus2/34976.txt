@@ -1,0 +1,1 @@
+The following is my Stochastic D.E.:               proc = ItoProcess[{\[DifferentialD]n[t] ==          sigma*Sqrt[(2*Um)/(Pi*L)]*\[DifferentialD]w[             t] - (\[DifferentialD]t*(Um*n[t]))/L}, n[t], {n, 1}, t,           Distributed[w, WienerProcess[]]]      I would like to find the value of `n[0.1]`. Can someone kindly guide me as to how I can do so? Thanks!

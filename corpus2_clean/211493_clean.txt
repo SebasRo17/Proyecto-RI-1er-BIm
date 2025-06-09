@@ -1,1 +1,0 @@
-assume front end developer html cs one got website built using asp net came asked new design know asp net change design website without affecting learn little bit server side language able change look site without affecting original server

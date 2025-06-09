@@ -1,1 +1,0 @@
-Could anybody help me to find a good tutorial about how can I implement DAO pattern and also tools that help me to create this classes in automated way.

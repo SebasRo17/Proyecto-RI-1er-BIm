@@ -1,1 +1,0 @@
-Why does Aptana Studio need Git installed on Windows?

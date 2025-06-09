@@ -1,1 +1,0 @@
-consider usb device receiving wireless network application running pc reading many language consider c event handling mechanism detect arrived question event detecting mechanism implemented like running timer periodically check inspect arrival something hardware support general change hardware state event implemented

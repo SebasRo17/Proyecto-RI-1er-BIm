@@ -1,1 +1,0 @@
-Suppose we have estimated 5 user stories to complete in a sprint and completed all of them with testing, buffer time and for expected bugs. Still we have 2-3 days left for one of the developer. Can we pull a future user story in current sprint knowing that only development or part of development can be completed in current sprint?

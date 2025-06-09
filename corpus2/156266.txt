@@ -1,1 +1,0 @@
-If I come across a non-critical typo in code (say, an errant apostrophe in a print(error) statement), is it worth making a commit to resolve that error, or should it simply be left alone? Specifically, I'm curious about weighing the gumming-up of the commit log against the value of resolving these non-critical typos. I'm leaning toward resolving them. Am I being pedantic?

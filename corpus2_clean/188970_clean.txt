@@ -1,1 +1,0 @@
-far know following prototype argc argv c support overloading multiple prototype supported

@@ -1,0 +1,1 @@
+How do I solve this:approximate the largest and the smallest values of the integral ![enter image description here](http://i.stack.imgur.com/AWPK8.png) for ![enter image description here](http://i.stack.imgur.com/r8FuV.png)

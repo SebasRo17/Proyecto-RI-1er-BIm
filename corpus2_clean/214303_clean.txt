@@ -1,1 +1,0 @@
-title git daemon start service background since daemon background process know start background using git daemon wondering philosophical reason decision

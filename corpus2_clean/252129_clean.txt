@@ -1,1 +1,0 @@
-reading mvc doubt example model view controller individual class whose object created used deploy application another gui designed treat model view controller separate class part change made without breaking however separate class referenced within controller ui 4th call creates object model view controller setup still follow mvc design methodology thanks

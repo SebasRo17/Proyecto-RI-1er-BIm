@@ -1,1 +1,0 @@
-according research done xcode conversion pngs proprietary apple format create noticeable performance improvement claim conversion reduces png loading speed num nanosecond apple bother format anyone else benchmarked loading image v regular png image io device see perform differently

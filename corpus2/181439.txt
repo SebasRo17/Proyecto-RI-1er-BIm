@@ -1,1 +1,0 @@
-Why is it that when I try to make an array of ArrayLists: `ArrayList<Integer>[] arr=new ArrayList<Integer>[40];` there is an error and java does not allow this? Is there a reason related to java's implementation of generics, generics in any language, or something arbitrary?

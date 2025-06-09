@@ -1,1 +1,0 @@
-I was doing a small list of PHP MVC framework (like Zend, CakePHP, Yii etc...) and I noticed that all of them are open source. Then I tried to find some proprietary framework, but my research was unsuccessful. **Is there any proprietary PHP MVC framework? Why they are so few(if there is any)?**

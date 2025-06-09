@@ -1,0 +1,1 @@
+How do I differentiate both sides of the equation shown below with respect to r? ![enter image description here](http://i.stack.imgur.com/NYvo9.png)

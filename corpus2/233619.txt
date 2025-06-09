@@ -1,1 +1,0 @@
-Should an API be aware of a client version? The idea of that really goes against the grain for me, but it seems like it is being pushed for in my current project. Am I wrong? Can I get some reasons for or against this that I can present or understand why it might be good. The API is a RESTful API.

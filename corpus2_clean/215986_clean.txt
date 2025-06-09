@@ -1,1 +1,0 @@
-table user edit simply choose field edit want fire update automatically save mysql database however think would inefficient fire literally every change e g every single keypress long wait save

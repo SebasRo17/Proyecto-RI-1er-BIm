@@ -1,0 +1,1 @@
+I want to select elements with the true value (Indices list) in the corresponding point to the value list (MCS). Is there anything like Matlab- style Find to get the indices of true values in the boolean list and then use it like `MCS[[indicesNumbers]]`? ![enter image description here](http://i.stack.imgur.com/7cWna.png)

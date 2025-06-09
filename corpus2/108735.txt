@@ -1,1 +1,0 @@
-I am interested in research that detects and recover from deadlocks. In other words the system is able to recover from deadlock faults. I'm interested in shared memory multicore processors. Uptill now I have only seen research for distributed systems. Can anyone guide me on this.

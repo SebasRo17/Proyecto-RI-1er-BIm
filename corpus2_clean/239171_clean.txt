@@ -1,1 +1,0 @@
-answer put private member variable c header size must known point instance declared generate appropriately move stack need put private member header reason declare private function definition alternative would essentially pimpl idiom without superfluous indirection language feature historical

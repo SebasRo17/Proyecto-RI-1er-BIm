@@ -1,1 +1,0 @@
-long ago worked client software use centralized table codified element far remember table look like table pk field pk pk sort order description instead creating table every time need codified field adding row table new table field sometime tempted use pattern database design resisted think something wrong cannot put finger land structure logic within something else

@@ -1,1 +1,0 @@
-see preferred logging framework like log4j log4net etc use trace etc method use instead method take something like enum level

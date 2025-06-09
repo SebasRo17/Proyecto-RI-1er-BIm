@@ -1,1 +1,0 @@
-I have a destination repo that is remote and I have a source repo that is also remote. I would like my local machine to act as a proxy to allow me to push to the destination from the source without ever download the repo to my machine. Is this possible?

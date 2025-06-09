@@ -1,1 +1,0 @@
-We've all seen (and most of us have written) plenty of poorly written code. Why? What makes us adopt poor practices rather than good ones? The most obvious answer (to me) is "ignorance", but I'm sure that isn't the only reason. What others are there? What can we do to overcome the temptation to write bad code?

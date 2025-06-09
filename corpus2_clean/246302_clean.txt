@@ -1,1 +1,0 @@
-designing library bind html element page particular case checkbox checked property return unchecked property return best practice naming property check checked would also apply thing like enable enabled disable disabled etc

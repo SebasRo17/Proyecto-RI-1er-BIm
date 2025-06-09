@@ -1,0 +1,1 @@
+I have a txt file with 3 columns of data: x y1 y2 How do I import the file then create 2 functions, one interpolated with {x,y1} values and the other interpolated with {x,y2} values? This is the sort of thing I want to achieve (in pseudocode):               Import "data.txt" into A     f1 = Interpolation(A,{x,y1})     f2 = Interpolation(A,{x,y2})

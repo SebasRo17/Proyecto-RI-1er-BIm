@@ -1,1 +1,0 @@
-want know architecture commonly used developing php web application used mvc earlier j2ee j2ee everything separated part language pojo servlet jsp know utilise mvc php separation concern use mvc php well architecture aware

@@ -1,1 +1,0 @@
-using combination spring spring security strut ibatis application looking migrate strut ui gwt new combination must spring spring security gwt ibatis applied layered approach develop application controller ui layer using strut want replace strut use gwt controller ui layer possible use gwt without affecting another layer dao bl sl

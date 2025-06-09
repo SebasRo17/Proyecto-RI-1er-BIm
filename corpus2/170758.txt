@@ -1,1 +1,0 @@
-I have a Silverlight application with WCF and entity framework. Is it possible to have one database per user. So when the the user log in, the user will use his own database?

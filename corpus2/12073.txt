@@ -1,1 +1,0 @@
-This is my first question here, so i'll make it short and to the point. When Writing unit tests, should you write them before or after you have made the underlying framework for them? This came up in a discussion between my CEO and President, and I wanted your opinion on this. Personally, I have always wrote the code first, then wrote the unit tests, but what about you?

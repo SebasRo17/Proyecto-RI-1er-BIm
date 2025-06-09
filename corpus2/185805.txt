@@ -1,1 +1,0 @@
-Pretty much my only question is the title. Other then that I want to see the code behind small EXEs but I know it's hard to get it to convert to something like c or c++ so why not get assembly.

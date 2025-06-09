@@ -1,1 +1,0 @@
-scenario whenever accessing using namespaces php launch standard constructor magic wrong fixed hierarchy test php foo php test php php spl autoload register spl autoload extension php new foo foo php namespace foo added construct called public construct echo called magic constructor public foo echo called standard constructor launching test php foo constructor construct present

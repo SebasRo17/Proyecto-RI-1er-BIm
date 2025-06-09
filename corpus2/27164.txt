@@ -1,1 +1,0 @@
-If you were hired into a new company as a team lead (say a team of 10) one of the important things to do is to earn the respect of the members of the team. In the early days the new team lead may know nothing of the team culture, code base and business domain: in other words, is a complete neophyte. How does one go about this? What are the do's and don'ts?

@@ -1,1 +1,0 @@
-I have an already existing application in Silverlight 4.0 with WCF services. Now what I want is a workflow to be integrated along with the above application. The workflow will be a simple approval workflow i.e sequential workflow. Can any one suggest some links or a solution?

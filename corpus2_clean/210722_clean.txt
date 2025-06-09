@@ -1,1 +1,0 @@
-android source many android open source apps libs use prefix member field prefix static member field private static boolean private long personally dislike look ugly redundant ide already us different color formatting local member static member variable closest truth num good practice num bad practice use anyway order consistent majority android num bad practice use

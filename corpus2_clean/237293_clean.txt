@@ -1,1 +1,0 @@
-know 32bit machine cpu read memory 32bits time since register case 32bit size understand work understand cpu implement load instruction num byte load whole word single byte located register perform kind byte shifting cpu load single byte case byte masking happen byte got loaded register happen byte send bus p cpu im using mips instruction im talking lb

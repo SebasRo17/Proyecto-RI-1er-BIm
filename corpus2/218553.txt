@@ -1,1 +1,0 @@
-Why does the modifier access for the properties need to be public with Unity? I'm very interested in a detailed explanation for my question. I read about tips to do it in other ways, but not a detailed explanation about why this can't be declared explicitly in my code.

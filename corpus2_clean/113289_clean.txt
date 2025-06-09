@@ -1,1 +1,0 @@
-actually somewhat related question asked yesterday stack heap necessary application use today go heap instead order simple singular standard go however many response indicated stack due fact many hundred thousand time faster trying allocate reference heap know problem dynamic storage allocation away heap way around perhaps way improve stack handle dynamic memory allocation

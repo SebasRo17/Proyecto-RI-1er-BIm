@@ -1,1 +1,0 @@
-I am developing a web app. I have already used jQuery and jQuery Mobile as plug-ins for the app. Now, I want to include bootstrap. I wanted to ask if there is any possibility that Bootstrap will conflict with jQuery or jQuery Mobile - so that I can be better prepared. Do they conflict?

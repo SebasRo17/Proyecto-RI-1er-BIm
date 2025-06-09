@@ -1,1 +1,0 @@
-question concern deployment script process continuous delivery continuous delivery recommends deployment script versioned scm normal best practice avoid issue checking e g git script right permission executable also scm repository deployment script located

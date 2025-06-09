@@ -1,1 +1,0 @@
-If I was working on a web application designing and writing an API how does that differ from a general web application development? What things would I need to consider and take into account? Are there any standard processes to follow when creating an API that could be used by thousands of clients?

@@ -1,1 +1,0 @@
-Since I am developing iOS apps I'm trying to find stats on how many iOS devices there are out there. Preferably broken down into versions: Iphone 3G, Iphone 3Gs, Iphone 4 etc. Also I'd like to know the stats on different iOS versions. After an hour of googling I found out that it is not the easiest thing to find. Anyone got some nice bookmarked links to share?

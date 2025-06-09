@@ -1,1 +1,0 @@
-reworded question make specific consider programming language program may inside specific program serf interpreter interpreter scan source executes would interpreter considered virtual machine conceptually vm program program use platform inside thus interpreter suit definition interpreter interprets plain text source execution bytecode

@@ -1,1 +1,0 @@
-perl us pack unpack transform way understand unpacked pack b join unpack b7 packed packed byte say num byte perl statement unpacks num byte someone explain statement term c far know b bit ascending bit order inside byte like vec repeat count offset relative start packed

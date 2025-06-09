@@ -1,1 +1,0 @@
-While studying IOS, i generally come across viewcontroller. That gives me, confusion, if this "ViewController" has to do something with controller ( in MVC ) ? But how come both "view" and "controller" are combined in this terminology. What does it actually mean ?

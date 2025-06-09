@@ -1,1 +1,0 @@
-I'd like to insert grammatical mistakes (not typo) in a correct sentence, to make a small game. For instance:               My name is John     -> My name are John     He leaves the room     -> He leave the room      I only found some tools to detect languages but nothing about verb/noun/adjective detection/transformation. Is there a tool that could help me ?

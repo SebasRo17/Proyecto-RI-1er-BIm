@@ -1,1 +1,0 @@
-Sometimes we have _huge_ code listings to deal with, and I'm curious as to how the advanced, highly skilled programmers read code. And I'll say with an emphasis on debugging and finding issues.

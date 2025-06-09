@@ -1,1 +1,0 @@
-placed internal style sheet body tag instead head single page application considering style applicable page alone rather separate cs file scenario downside putting head section html start like keep style unique html right file div style body background color red mytext color white style span id mytext hello span div html end

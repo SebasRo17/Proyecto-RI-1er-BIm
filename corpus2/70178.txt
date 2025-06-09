@@ -1,1 +1,0 @@
-Are Chrome Developer Tools an adequate substitute for Firebug? I'm learning how to develop simple web apps using Django. The book I have recommends installing Firefox/Firebug. I'm used to Chrome and wanted to know if I need to switch or if Chrome Developer Tools contain all the essential functionality of Firebug.

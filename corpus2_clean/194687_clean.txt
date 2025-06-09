@@ -1,1 +1,0 @@
-remote connect work pc ie10 remote client service basically plugin executed browser need turn compatibility view see question exactly happening behind scene compatibility view large number compatibility problem fixed make list deprecated apis running ok ie8 deprecated ie10 clicking compatibility view apis supported

@@ -1,1 +1,0 @@
-If I understand correctly, all ARC does is automatically add memory-management statements such as `retain` and `autorelease` in the proper places in a program. Is there any way to see all the memory-management statements that ARC automatically adds to a program?

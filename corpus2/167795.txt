@@ -1,1 +1,0 @@
-A variable refers to a value. A variable is also stored in a memory address. People say that it's good to have this memory model in mind. Is that true? What is some sample code that shows this as beneficial in practice? You dont have to use programming, you can use a real-world analogy if you like. edit: they keep removing the helpful answer i summed up here -- no idea why

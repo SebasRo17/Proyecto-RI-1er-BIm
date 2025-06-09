@@ -1,1 +1,0 @@
-given ddd application hexagonal architecture layer jbehave acceptance test target want write feature scenario specification overall system behavior introducing atdd development process application layer presentation layer web service layer application service layer domain layer infrastructure layer

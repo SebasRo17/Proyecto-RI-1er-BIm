@@ -1,1 +1,0 @@
-The Actor Model which is used by Erlang seems to be a very different way to do concurrent programming. What are your thoughts about the Actor Model? Will it be a popular solution for concurrency?

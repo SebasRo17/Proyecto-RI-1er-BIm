@@ -1,1 +1,0 @@
-I want to create a list of ranks for the employees in my company. We are an open source integrator that works usually with existing solutions and also building custom solutions. We don't want to name our employees as normal senior consultant, trainee and we would like give them ranks as forums do to the users. Does anyone have any suggestion for this?

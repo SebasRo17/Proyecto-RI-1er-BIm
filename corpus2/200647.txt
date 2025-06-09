@@ -1,1 +1,0 @@
-From the "Gang of Four" design patterns, there's the Factory method:               class Factory(product)       case product       when a         new A       when b         new B       when c         new C     end          new Factory(a)      Why is this more useful than having three classes, `a`, `b`, and `c` and calling them individually?

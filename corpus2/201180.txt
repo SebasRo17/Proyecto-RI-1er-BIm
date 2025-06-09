@@ -1,1 +1,0 @@
-I'm using a android like lock screen (The one with the nine dots that you have to connect to log in) in my application currently. I'm afraid of getting a mail from google because of some patents that I didn't know. Is the android lock screen patented or can I rebuild it and use it in my application?

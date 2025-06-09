@@ -1,1 +1,0 @@
-I recently saw this question over at math.SE. It got me thinking. Could Pi be used as a crude random number generator? I mean the results are well known(how long has pi been computed to now?) but, Pi does seem to be quite random when taken 1 digit at a time. Does this make any sense at all?

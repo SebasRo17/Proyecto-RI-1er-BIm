@@ -1,1 +1,0 @@
-generally accepted programming practice come across tend advise big class using objective c category change conventional wisdom somehow acceptable bigger class subclass set task category experience found might past tried split class sometimes find easier rather maintainable split category setting future maintenance hell kind hell

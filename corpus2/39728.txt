@@ -1,1 +1,0 @@
-I may have to give a crash course in c++ for a data structures class. Any suggestions on what would be essential for me to go over other than classes? thanks in advance * * * I forgot to mention I am not a teacher but a tutor and I need to help some fellow students get up to speed quickly so that they don't fall behind then I can hopefully fill in the gaps.

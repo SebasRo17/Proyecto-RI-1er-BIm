@@ -1,1 +1,0 @@
-assuming platform kernel mode atmel avr difference device driver library given everything user mode anyway ask thinking want layer like business logic library driver spi driver spi driver interrupt handler talk directly microcontroller spi peripheral sound like driver see different say library high level function like send message

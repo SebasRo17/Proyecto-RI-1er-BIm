@@ -1,1 +1,0 @@
-pyrocms admin view user view im developing complex module model file getting rather large abstracting logic model file also user model admin model database currently large model file called product php split num file product admin php product user php admin inherit user model using php include product admin extends product user

@@ -1,0 +1,1 @@
+Say I need to evaluate the integral $\iiint_W f(x,y,z) dx dy dz$ and $W$ is a region given to me like $W = \\{ (x,y,z) : 1 \leq x^2 + y^2 \leq 4, 1 \leq z \leq 5\\}$. I don't how to do this with a triple integral in _Mathematica_ code.

@@ -1,1 +1,0 @@
-theoretically possible transform every kind general recursion tail recursion equivalent example lambda calculus point view debate acquaintance view possible everytime example call recursively twice three time make recursive call tail call right always way reduce number recursive call one single recursive call

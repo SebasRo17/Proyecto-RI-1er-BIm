@@ -1,1 +1,0 @@
-have a model `Product` with attributes `sales`, `views` and I need to get sales/views count of all products, in this case is more correct to implement this things as method and have a call like `Product.all.sales` or create a new model `Stats` and implement as `Stat.products.sales`?

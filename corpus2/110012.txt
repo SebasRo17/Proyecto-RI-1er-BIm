@@ -1,1 +1,0 @@
-I'm not asking **where** to learn. I've found lots of good resources online, and books etc. But how the heck do I tackle them. Where is the start of it, the end? When does the regexp processor advance on the text, when does it hold its stand and tries another match? etc. I feel like trying to figure out hieroglyphs on the Egyptian pyramids.

@@ -1,1 +1,0 @@
-People in this thread state that fibonacci runs in exponential time. This professor on the other hand states that fibonacci sequence is binary recursion. I don't think either of them are wrong, which leads me to conclude that binary recursion is a form of exponential recursion.

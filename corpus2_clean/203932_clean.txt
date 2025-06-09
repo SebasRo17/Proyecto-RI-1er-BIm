@@ -1,1 +1,0 @@
-creating open source php project reuses open source instead reinventing wheel using composer pull project vendor folder happens vendor delete repository trace internet composer download project fork every project depending depend fork seems like pain safe way ensure vendor delete thing project need

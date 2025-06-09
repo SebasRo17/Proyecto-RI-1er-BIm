@@ -1,0 +1,1 @@
+Please explain how to get state of checkbox for its usage in further calculations. And I want to keep the selection from session to session without external savings. Thanks in advance

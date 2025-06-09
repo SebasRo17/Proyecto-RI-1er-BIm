@@ -1,1 +1,0 @@
-php mysql application designed client want online installed webserver available internet want employee use local system want go process starting wamp access program simple way make php web program local window pc using mysql database

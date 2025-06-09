@@ -1,0 +1,1 @@
+I would like to compute the Smith Normal form of a matrix with coefficients in GF(p). In particular, I am interested in GF(2). I have used the Smith normal form packages for integer and polynomial matrices before. Can these be adapted to work for matrices with finite field coefficients? Is there another way to compute the Smith normal forms mod p in Mathematica?

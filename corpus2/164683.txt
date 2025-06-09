@@ -1,1 +1,0 @@
-So I have a Selenium Automation project (using Maven). I'd like to be able to set my tests to run overnight and possibly email a report daily to the team. Which CI would be most suitable for TestNG.xml suites? I tried Hudson but I couldn't figure out a way to execute TestNG files from the build? Thanks in advance.

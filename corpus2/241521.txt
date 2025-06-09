@@ -1,1 +1,0 @@
-Say we take any C library such as libpng or libvorbis and convert it so that it compiles as C++ (only the minimum changes to make it compile as C++ code). Can the compiler do extra optimizations when its C++ code? Is there **any sort** of benefit to be gained by porting the code to C++? What are the downsides that might cancel out these benefits?

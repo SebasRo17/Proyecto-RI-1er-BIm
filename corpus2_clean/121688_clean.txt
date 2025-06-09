@@ -1,1 +1,0 @@
-list object need processed way way may correct item thus raise exception pseudo would look like list new empty list item list try process item item catch whatever err append err pattern sort thing anti pattern avoid better exception used control flow still following logic would list new empty list item list ret process item item ret append ret

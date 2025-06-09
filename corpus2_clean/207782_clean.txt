@@ -1,1 +1,0 @@
-background writing looked something like x private list mylist new list public mymethod x mylist add x r suggested make mylist readonly sure though technically could make readonly think would slightly confusing still modifying list reassigning could make readonly sure question make variable like readonly r suggest

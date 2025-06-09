@@ -1,1 +1,0 @@
-Many developers recommend Firefox for web development for a variety of reasons. But, after looking at Opera, it seems to me that Opera has all of the same web development functionality that Firefox has built into it. So what is wrong with Opera for web development?

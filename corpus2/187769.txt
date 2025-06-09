@@ -1,1 +1,0 @@
-We have N numbers(real numbers(float)).They can be positive or negative or anything we do not know except the fact that there is exactly one number which has a duplicate and the rest all are distinct. I would like to know the fastest one to find the duplicates.Can anyone help ? Thanks

@@ -1,1 +1,0 @@
-I am torn between learning myself some Powershell or just leveraging my existing Ruby knowledge for the various Windows scripting things that I do from time to time. Powershell does look incredibly powerful, but from initial impressions the syntax is fairly ugly. Is there anything that Powershell can do that I couldn't just do with Iron Ruby?

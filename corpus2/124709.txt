@@ -1,1 +1,0 @@
-I am getting into Android Development and want a book to help fill in some of the gaps. Is there a book out there that's the de-facto standard for describing best practices, design methodologies, and other helpful information on Android Development? What about that book makes it special?

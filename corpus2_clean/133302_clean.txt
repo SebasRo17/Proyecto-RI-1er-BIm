@@ -1,1 +1,0 @@
-watching going native num stream noticed discussion std shared ptr bit surprised hear bjarne somewhat negative view std shared ptr comment used last resort life time uncertain believe according infrequently case would anyone care explain bit depth program without std shared ptr still manage life time safe way

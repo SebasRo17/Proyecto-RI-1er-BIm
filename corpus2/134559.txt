@@ -1,1 +1,0 @@
-I'm doing a school project which requires us to create a computer application and then write documentation; therefore I have to write testing documentation, I already have a of test plan (Validate all input and test all features) but how do I present the testing results in my project (e.g. table etc.)?

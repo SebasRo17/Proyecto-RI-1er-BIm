@@ -1,1 +1,0 @@
-Are there any alternatives to Game Maker built for Linux that get the job done using a familiar interface, similar converting scripting language(eg, Javascript) that DOESN'T export the games as either Flash or HTML5? Frankly, that's pretty specific, but hey. Multiple heads are better than one, especially when scrounging the dark depths of the Internet. :/

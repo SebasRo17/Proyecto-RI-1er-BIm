@@ -1,1 +1,0 @@
-I'm working on a project that has frequent changes on the database and the implementation layers. I was releasing both the code and the database under the same release version, but since the database changes are more frequent than the core implementation, I'm thinking of separating their release/plan. Is this the normal way to do it?

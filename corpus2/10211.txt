@@ -1,0 +1,1 @@
+I'd like to take `{True,True,False}` and `{True,False,False}` and apply `And` to get `{True,False,False}`. Right now I'm using               And @@ # & /@ Transpose[{{True, True, False}, {True, False, False}}]      Is that really the best way? I would like `And[{True, True, False}, {True, False, False}]` to work but it does not.

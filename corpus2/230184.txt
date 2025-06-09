@@ -1,1 +1,0 @@
-I forked a repo some time ago and created a few pull requests which went unanswered. Now, the software is MIT-licensed, and I kept the copyright notice there. Do I have to rename the software, or whoever forks a repo can keep referring to it by the same name? Thanks!

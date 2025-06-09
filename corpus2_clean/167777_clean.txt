@@ -1,1 +1,0 @@
-let say called automobile instance called mycar would like ask need put value method call example one write message mycar writeline message instead writeline mycar

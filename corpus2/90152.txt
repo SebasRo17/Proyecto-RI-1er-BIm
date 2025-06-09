@@ -1,1 +1,0 @@
-Does anyone know if there are any IDE's that can hit breakpoints on a condition? For example, if I'm looking through a large list or iterating through a map or something, I may want to only suspend execution when an ID == "foo" 1.) Is this even possible to implement for IDE's   2.) Are there any plugins available for Eclipse to do this now?

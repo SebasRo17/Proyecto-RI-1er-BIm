@@ -1,1 +1,0 @@
-new clojure new macro prior background lisp went create switch case like form ended defmacro switch case v case default case v case v default tried making ended defn fn switch case v case default case v case v default switch case num num six num seven fn switch case num num six num seven work fine could scenario would need macro wont work drawback macro implementation

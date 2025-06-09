@@ -1,0 +1,1 @@
+I get a `Missing[NotAvailable]` error message when trying to access Social Media Data using `SocialMediaData["Facebook", "Friends"]` in _Mathematica 9_ on Linux. Now, I don't know how to find the source of the error. I don't have the same error for twitter. Is there a way to get verbose error information?

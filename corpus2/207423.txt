@@ -1,1 +1,0 @@
-We have several bugfix branches that are starting to pile up. They have been merged into master, and deployed to production. Is there a good benchmark for when these branches should be cleaned up? Should they ever be cleaned up, or is it good to have the historical data?

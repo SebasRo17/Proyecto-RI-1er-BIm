@@ -1,1 +1,0 @@
-I'm reading about design patterns. I know what this principle does. High-level and low-level classes depend on abstractions. But why we say this is _inversion_?

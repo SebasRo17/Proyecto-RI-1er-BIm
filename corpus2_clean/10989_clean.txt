@@ -1,1 +1,0 @@
-debate andrew tanenbaum microkernel v monolithic operating system architecture linus torvalds said portability people cannot write new program mean

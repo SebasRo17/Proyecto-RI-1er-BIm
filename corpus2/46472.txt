@@ -1,0 +1,1 @@
+I have a list in the form :               {1,1,1,0,-1,-1,1,1,1,0,0,0,0,-1,-1}      No I'm trying to select only those sequences which start with 1 have a zero (or many zeros) between and are followed by -1. For example: 1,0,-1 | 1,0,0,0,0,-1 I tried to use Cases, but I'm not sure how to define the pattern. Can someone help me out please?

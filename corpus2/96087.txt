@@ -1,1 +1,0 @@
-I am making a commercial software product and I want to publish it soon. In my product title can I have words like Photoshop, Visual Studio, Delphi, etc? For example, a full name would be something like: "My product for Photoshop ver 123" or "My Product for Delphi 123".

@@ -1,1 +1,0 @@
-I heard about Dr. Scheme but haven't really used it. What is your experience with SICP, what set of scheme tools did you use when learning SICP?

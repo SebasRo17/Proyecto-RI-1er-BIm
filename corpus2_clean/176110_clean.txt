@@ -1,1 +1,0 @@
-want write test access database following public myclass public getaddress id query select address id id additional statement resultset statement executequery result getstring address test using

@@ -1,1 +1,0 @@
-I recently started using Haskell Platform. I created a source file using Wordpad and named it add. I tried double clicking it so I can open it in ghci but I get <[1 of 1] Compiling Main (C:\add.hs,interpeted) C:\add.hs:1:6: parse error on input '\' Failed modules loaded: none.> What do I do so I can use my source file?. Should I use another text editor?. Thanks

@@ -1,1 +1,0 @@
-Many dekstop apps have this, such as dropbox (windows version). You right- click the dropbox systray icon and there are shortcuts to the features of the main app. Right now, I want to keep it simple and just want to run a exe(?) and have a custom icon appear in the system tray notification area. How do I build this?

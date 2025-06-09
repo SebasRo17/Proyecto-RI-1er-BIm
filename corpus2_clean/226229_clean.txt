@@ -1,1 +1,0 @@
-contains known defect fixed yet fixed current release might fixed forseeable future failing unit test bug test suite add unit test obviously fail getting used failing test seems like bad idea hand known defect known failing case seems odd keep test suite point fixed test already available

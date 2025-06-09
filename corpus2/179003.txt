@@ -1,1 +1,0 @@
-I'm writing script for fb and I have 3 objects that I'll be using through all classes. I'm wondering if there is any advantage in using the `static` keyword except I don't have to create an instance every time I need to use a method/object? Which way should I go, with static or without it? I know this is basic, but I'm new to OOP and I want to learn to use it in a proper manner.

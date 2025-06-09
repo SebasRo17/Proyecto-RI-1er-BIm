@@ -1,0 +1,1 @@
+I want to sum the squares for a given number N from 1 without using Multiplication. Is it possible?

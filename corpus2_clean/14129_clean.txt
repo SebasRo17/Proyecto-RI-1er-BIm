@@ -1,0 +1,1 @@
+four coupled ode sure plot solve using mathematica give exact problem following something analogous equation x c x c c x c b b c x c written x c x c c x c c x c question use ndsolve give solution later plot well initial condition plug hung solve coupled equation thank advance edit know input ndsolve

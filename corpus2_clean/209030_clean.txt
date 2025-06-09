@@ -1,1 +1,0 @@
-mongodb database million user collection aggregation return million result following format id user mongoid id send num open num click num need update corresponding user new value open send click add flag based value compare x would good approach without looping result mean loading gb memory million update find thanks

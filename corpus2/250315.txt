@@ -1,1 +1,0 @@
-I'm reading books on JavaScript programming, and I need an environment like Python's IDLE to type JavaScript commands into and then see the results like you would in IDLE. Is there an environment where you can do such a thing?

@@ -1,1 +1,0 @@
-It seems one has to remember all sorts of syntax to be able to program. If one don't have a good memory for remembering names, will it be more difficult to learn to program?

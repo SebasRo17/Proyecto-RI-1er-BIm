@@ -1,1 +1,0 @@
-Linked lists, as far as I have seen, are largely implemented using object- oriented ideas. (having an object that holds some information and the address of the next link). How were Linked-lists implemented before the object- oriented paradigm came out? Were they only invented(?) once the OOP was developed?

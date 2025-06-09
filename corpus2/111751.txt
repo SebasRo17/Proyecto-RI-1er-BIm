@@ -1,1 +1,0 @@
-Are there any software packages out there for generating a nice looking users manual for small projects? I'm not talking about source documentation. I want to create an end users manual that doesn't look like I spent 20 mins in Microsoft Word.

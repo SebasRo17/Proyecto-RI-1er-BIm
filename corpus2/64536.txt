@@ -1,1 +1,0 @@
-I was wondering what would be the best method for creating a web end for interfacing with a C++ program on the server. At first I simply thought just using shell execution from the web server side language (like `shell_exec()` in PHP), but I was wondering if there is a "better" way. Maybe something more native or is this a bad practice for some reason?

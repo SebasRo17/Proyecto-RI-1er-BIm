@@ -1,1 +1,0 @@
-Suppose we are in a distributed environment, and mutual exclusion is not implemented yet. So how would we be able to detect race conditions? When I researched, use of non-blocking algorithms was found as a solution. That is using datastructures like stack, queue, etc. So that we could avoid mutual exclusion. But how do we detect it?

@@ -1,1 +1,0 @@
-difference acceptance test driven planning acceptance test driven development
