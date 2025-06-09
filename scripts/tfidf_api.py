@@ -14,18 +14,16 @@ from nltk.stem import WordNetLemmatizer
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from rank_bm25 import BM25Okapi
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 
 # ================ CONFIGURACIÓN ================
 CORPUS_DIR = os.getenv(
     "CORPUS_DIR",
     r"C:\Users\roble\OneDrive\Documentos\GitHub\Proyecto-RI-1er-BIm\corpus2_clean"
 )
-MODEL_PICKLE_PATH = os.getenv("MODEL_PICKLE_PATH", "bm25_programmers.pkl")
-K1 = float(os.getenv("BM25_K1", 1.5))  # Ajuste sugerido
-B  = float(os.getenv("BM25_B", 0.5))   # Ajuste sugerido
-DEFAULT_FB_DOCS = 5
-DEFAULT_FB_TERMS = 10
+MODEL_PICKLE_PATH = os.getenv("MODEL_PICKLE_PATH", "tfidf_programmers.pkl")
 TOKEN_PATTERN = r"[a-z0-9]+"
 
 nltk.download("stopwords", quiet=True)
@@ -40,7 +38,7 @@ STOPWORDS = set(stopwords.words("english")) | {
 }
 LEMMATIZER = WordNetLemmatizer()
 
-app = FastAPI(title="BM25 API Programmers", version="2.0.0")
+app = FastAPI(title="TF-IDF Cosine API Programmers", version="2.0.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:5173"],
@@ -67,7 +65,8 @@ class ReloadResponse(BaseModel):
     message: str
     total_docs: int
 
-bm25_model: Optional[BM25Okapi] = None
+tfidf_vectorizer: Optional[TfidfVectorizer] = None
+tfidf_matrix: Optional[np.ndarray] = None
 document_ids: List[str] = []
 docs_tokens: List[List[str]] = []
 docs_raw: List[str] = []
@@ -93,28 +92,31 @@ def get_top_terms(docs, n=30):
     for doc in docs:
         counter.update(doc)
     return counter.most_common(n)
-# Luego agrega manualmente los que veas que son "ruido".
 
 @lru_cache(maxsize=64)
 def rm3_expand(tokens_tuple: Tuple[str, ...], fb_docs: int, fb_terms: int) -> List[str]:
-    global bm25_model, docs_tokens
+    global tfidf_matrix, docs_tokens
     query_tokens = list(tokens_tuple)
-    scores = bm25_model.get_scores(query_tokens)
-    top_idxs = np.argsort(scores)[::-1][:fb_docs]
+    # Simula RM3: toma los docs más similares, saca términos más frecuentes
+    # Calcula la query vector
+    query_str = " ".join(query_tokens)
+    query_vec = tfidf_vectorizer.transform([query_str])
+    sims = cosine_similarity(query_vec, tfidf_matrix).flatten()
+    top_idxs = np.argsort(sims)[::-1][:fb_docs]
     all_terms = []
     for idx in top_idxs:
         all_terms.extend(docs_tokens[idx])
     freq = Counter(all_terms)
-    # Solo expande con términos que no estén en la consulta ni sean stopwords
     candidates = [t for t, _ in freq.most_common() if t not in query_tokens and t not in STOPWORDS]
     return candidates[:fb_terms]
 
-def build_or_load_bm25_index():
-    global bm25_model, document_ids, docs_tokens, docs_raw
+def build_or_load_tfidf_index():
+    global tfidf_vectorizer, tfidf_matrix, document_ids, docs_tokens, docs_raw
     if os.path.exists(MODEL_PICKLE_PATH):
         with open(MODEL_PICKLE_PATH, "rb") as f:
             data = pickle.load(f)
-            bm25_model = data["bm25"]
+            tfidf_vectorizer = data["tfidf_vectorizer"]
+            tfidf_matrix = data["tfidf_matrix"]
             document_ids = data["doc_ids"]
             docs_tokens = data["docs_tokens"]
             docs_raw = data.get("docs_raw", [""] * len(document_ids))
@@ -136,15 +138,24 @@ def build_or_load_bm25_index():
         tokens = raw_txt.split()  # Ya está preprocesado/tokenizado
         lemmas = [LEMMATIZER.lemmatize(t) for t in tokens if t not in STOPWORDS]
         tokens_and_ngrams = add_bigrams_trigrams(lemmas)
-        docs.append(tokens_and_ngrams)
+        docs.append(" ".join(tokens_and_ngrams))
+        docs_tokens.append(tokens_and_ngrams)
         raw_docs.append(raw_txt)
     document_ids = ids
-    docs_tokens = docs
     docs_raw = raw_docs
-    bm25_model = BM25Okapi(docs_tokens, k1=K1, b=B)
+
+    tfidf_vectorizer = TfidfVectorizer(
+        tokenizer=lambda x: x.split(),
+        lowercase=False,
+        preprocessor=None,
+        token_pattern=None,
+        ngram_range=(1, 3)  # Ya pasamos ngrams en el preprocesamiento
+    )
+    tfidf_matrix = tfidf_vectorizer.fit_transform(docs)
     with open(MODEL_PICKLE_PATH, "wb") as f:
         pickle.dump({
-            "bm25": bm25_model,
+            "tfidf_vectorizer": tfidf_vectorizer,
+            "tfidf_matrix": tfidf_matrix,
             "doc_ids": document_ids,
             "docs_tokens": docs_tokens,
             "docs_raw": docs_raw
@@ -164,9 +175,9 @@ def get_snippet(doc_raw: str, query_tokens: List[str], win=25) -> str:
 @app.on_event("startup")
 def on_startup():
     try:
-        build_or_load_bm25_index()
+        build_or_load_tfidf_index()
     except Exception as e:
-        raise RuntimeError(f"Error al inicializar índice BM25: {e}")
+        raise RuntimeError(f"Error al inicializar índice TF-IDF: {e}")
 
 @app.post("/reload", response_model=ReloadResponse, summary="Reload index")
 def reload_index():
@@ -174,7 +185,7 @@ def reload_index():
     rm3_expand.cache_clear()
     if os.path.exists(MODEL_PICKLE_PATH):
         os.remove(MODEL_PICKLE_PATH)
-    build_or_load_bm25_index()
+    build_or_load_tfidf_index()
     return ReloadResponse(message="Índice recargado", total_docs=len(document_ids))
 
 @app.get("/", summary="Health check")
@@ -188,28 +199,31 @@ def search(
     topk: int = Query(10, ge=1, le=100, description="Número de resultados"),
     offset: int = Query(0, ge=0, description="Offset para paginación"),
     feedback: bool = Query(False, description="Usar expansión RM3"),
-    fb_docs: int = Query(DEFAULT_FB_DOCS, ge=1, le=20, description="Docs para feedback"),
-    fb_terms: int = Query(DEFAULT_FB_TERMS, ge=1, le=50, description="Términos expand")
+    fb_docs: int = Query(5, ge=1, le=20, description="Docs para feedback"),
+    fb_terms: int = Query(10, ge=1, le=50, description="Términos expand")
 ):
-    if bm25_model is None:
+    if tfidf_vectorizer is None or tfidf_matrix is None:
         raise HTTPException(status_code=500, detail="Índice no inicializado")
 
     start_time = time.time()
     tokens = preprocess_query(query)
+    query_str = " ".join(tokens)
 
     expanded_terms: Optional[List[str]] = None
     if feedback and tokens:
         expanded_terms = rm3_expand(tuple(tokens), fb_docs, fb_terms)
         tokens += expanded_terms
+        query_str = " ".join(tokens)
 
-    scores = bm25_model.get_scores(tokens)
+    query_vec = tfidf_vectorizer.transform([query_str])
+    scores = cosine_similarity(query_vec, tfidf_matrix).flatten()
     ranking = np.argsort(scores)[::-1]
     sel = ranking[offset: offset + topk]
     results = [
         SearchResult(
             doc_id=document_ids[i],
             score=float(scores[i]),
-            snippet=get_snippet(docs_raw[i], tokens)  # Cambiado para snippet más legible
+            snippet=get_snippet(docs_raw[i], tokens)
         )
         for i in sel
     ]
