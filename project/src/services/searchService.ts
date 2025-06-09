@@ -25,6 +25,7 @@ export const buscarDocumentos = async (query: string, topK: number = 10): Promis
     }
 
     const data = await response.json();
+    console.log("Datos recibidos de la API:", data);  
 
     // Mapear los resultados a la interfaz SearchResult
     const resultados: SearchResult[] = data.results.map((item: { doc_id: string; score: number }) => ({
