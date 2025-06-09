@@ -1,1 +1,0 @@
-sometimes compiler inline call mean move called calling make thing slightly faster need push pop stuff call stack question compiler inline everything assume would make executable notably faster reason think significantly larger executable really matter day hundred gb memory improved performance worth reason compiler inline call

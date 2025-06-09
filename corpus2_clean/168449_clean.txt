@@ -1,1 +1,0 @@
-generally talk paradigm programming functional procedural oriented imperative etc reply asked paradigm algorithm example travelling salesman problem dijkstra shortest path algorithm euclid gcd algorithm binary search kruskal minimum spanning tree tower hanoi algorithmic paradigm perhaps paradigm structure would use design algorithm

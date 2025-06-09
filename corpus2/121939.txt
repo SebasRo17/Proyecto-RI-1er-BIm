@@ -1,1 +1,0 @@
-I read Kruskal's algorithm as it's presented on Wikipedia. There, it says that it's an algorithm in graph theory that finds a minimum spanning tree for a connected weighted graph. But while going through the examples that illustrate this algorithm I am unable to understand why the _loops are avoided_ by marking some of the edges in red. What is the reason for this?

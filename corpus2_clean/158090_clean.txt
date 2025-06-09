@@ -1,1 +1,0 @@
-common lisp system clos support multiple dispatch useful feature practice looking example hypothetical functionality would easier implement multiple dispatch num looking example useful real software real mean would get written something example num programming tutorial example contrived often

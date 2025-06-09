@@ -1,1 +1,0 @@
-I'm trying to teach how an object is just an instance of a class to a buddy of mine. However, he doesn't seem to understand it so well. I've heard a ton of the examples (blueprint to a house, etc.) But does anyone have a real concrete way of teaching this?

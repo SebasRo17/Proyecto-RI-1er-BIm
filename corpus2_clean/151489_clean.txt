@@ -1,1 +1,0 @@
-c progressed many language feature added come point becoming unreadable example consider following snip caliburn micro container initialize new instance select x new x oftype small example number question common known problem c community finding issue language style used developer simple solution better understand others avoid writing way

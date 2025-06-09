@@ -1,1 +1,0 @@
-Has anyone ever tried creating a complete code documentation first, before actually writing the code? I was thinking about this earlier because I thought it would help to write a concrete interface and would make sure your initial design wasn't floored by making you think about how classes interact. Is this a good idea? Has anyone tried it? Ell

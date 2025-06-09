@@ -1,1 +1,0 @@
-What do you use when designing how everything in a program will work together? Do you use a program? Pencil and paper? A whiteboard? Your mind? And how do you represent these designs? UML? UML2? Something else? And if this isn't too broad, what do you usually define in your designs?

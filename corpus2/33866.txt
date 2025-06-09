@@ -1,0 +1,1 @@
+![Mathematica and Wolfram|Alpha output](http://i.stack.imgur.com/nIJ08.png) Why does _Mathematica_ and _Wolfram|Alpha_ give different results based upon the same code? I know _Wolfram|Alpha_ 's `7.85` is correct.

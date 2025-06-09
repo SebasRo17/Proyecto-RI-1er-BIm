@@ -1,1 +1,0 @@
-With languages Python and Ruby still having a good foothold in the market what is Microsoft's current stance on dynamic languages? Does Microsoft have any plans to incorporate or invent it's own dynamic language?

@@ -1,1 +1,0 @@
-I have to calculate the proper quantum of time for Round Robin process scheduling algorithm. As I read in Tanenbaum's book, the quantum of time should cover like 80% of the running time of all processes. Is there a formula how to find the optimal quantum of time?

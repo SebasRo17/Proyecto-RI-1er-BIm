@@ -1,1 +1,0 @@
-Is it bad code smell to call public method in private method of same object instance?

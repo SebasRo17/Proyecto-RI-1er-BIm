@@ -1,0 +1,1 @@
+I was watching the "Statistics: Modeling with Statistical Distribution" Training Course http://www.wolfram.com/training/videos/DAT016/ and in one of the slides, the following image showed up. Does anybody know if this palette is available and where can it be found? ![enter image description here](http://i.stack.imgur.com/OohYD.png)

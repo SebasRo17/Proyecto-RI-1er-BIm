@@ -1,0 +1,1 @@
+I need to perform a dot product on a large number of 2 x 2 matrices that I have defined to differ by even/odd subscripts (Ex: D-odd=x but D-even=y). The $\Pi$ function will not work because it does not perform dot products. Does anyone know how I can carry out this large series of matrix multiplications. Thanks

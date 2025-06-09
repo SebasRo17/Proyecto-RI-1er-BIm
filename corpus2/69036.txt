@@ -1,1 +1,0 @@
-in unix, i want to modify enviroment variables.   if size of new value is larger than the old one, the room for the new variable is allocated by malloc.   however, is memory for enviroment variables above the stack? (not heap memory) where to allocate the room for new variable?

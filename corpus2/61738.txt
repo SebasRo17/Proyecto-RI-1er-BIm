@@ -1,1 +1,0 @@
-Every time you are looking for a text editor, no matter what language you are using, vi and Emacs are hall-of-famers. However they are ancient, and we have better alternatives (at least I hope we do). Why are developers stuck on these two editors? Shouldn't we drop them and try to invent or look for something new? _(I have full respect for Emacs and vi fans)._

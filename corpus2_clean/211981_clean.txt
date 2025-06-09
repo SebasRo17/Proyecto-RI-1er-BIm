@@ -1,1 +1,0 @@
-fiery debate running office app two button different size one num px wide one num px wide exact look term background image would like know best practice num make one image background wide another image 150px wide num make one image 150px scale use button sure performance overhead scaling operation need offset size app go seperate image every different sized control thanks

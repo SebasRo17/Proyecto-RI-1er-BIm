@@ -1,1 +1,0 @@
-What does 'automating a use case 'means and how does the tools that automate helps with that? whats makes automation good to do and does it holds any significance for web developement.

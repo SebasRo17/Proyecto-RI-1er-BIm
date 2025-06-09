@@ -1,1 +1,0 @@
-popular software today like node j celery twisted others boasting asynchronous mean gone basic node j tutorial written node j script still feel comfortable topic please note formal introduction topic num exactly asynchronous software work num pro con num callback num lastly synchronous web server perform v asynchronous web server

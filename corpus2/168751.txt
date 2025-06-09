@@ -1,1 +1,0 @@
-I have recently seen a few URIs containing the query parameter "utf8=✓". My first impression (after thinking "mmm, looks cool") was that this could be used to detect a broken character encoding. So, is this a better way to resolve potential problems with character encoding, or is it just a developer having fun with a hack?

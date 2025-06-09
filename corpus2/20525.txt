@@ -1,0 +1,1 @@
+I am trying to write a function that, starting from a string, returns the Google search hits on that string (the format and other stuff, I still have to decide). I have looked around and have found nothing that works (the wsdl-thing for Google search referenced by the docs, with WebServices, is retired and returns 404). Any hints, except scraping the result page by hand?

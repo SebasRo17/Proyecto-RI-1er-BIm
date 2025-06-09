@@ -1,1 +1,0 @@
-In a server -> client scenario, wouldn't it be simpler and faster to grant a public user access to a Stored Procedure rather than using web services (XML, REST, SOAP, etc) and other interoperable solutions? That way you could connect directly to a database and get relevant content and do what you will with it in the same way across all languages and systems?

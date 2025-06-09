@@ -1,1 +1,0 @@
-For example, take the case of Fibonacci number to calculate nth number you require `n-1` and `n-2` term. If I do it with bottom up approach, is it recursion as `f(n)` depends on `f(n-1)`?

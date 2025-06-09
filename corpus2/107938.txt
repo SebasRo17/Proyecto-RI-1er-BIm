@@ -1,1 +1,0 @@
-Does anyone know what the difference between these are? It seems to me that kernel threads correspond to the code that runs the kernel (intuitively), but I'm not sure about the other two... Also, would the pthreads standard be considered user-level and kernel- supported, since you are accessing a library while the kernel does all the thread scheduling/switching?

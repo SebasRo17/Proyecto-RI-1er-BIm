@@ -1,1 +1,0 @@
-say foo stuff create var fooobj new foo fooobj called instance instance something else entirely pardon newbie question rather new prototype based programming programming really

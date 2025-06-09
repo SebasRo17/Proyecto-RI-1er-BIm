@@ -1,1 +1,0 @@
-Sometime back I read (from a book) that conceptually Lambda function is similar to Actor. However I am clear on the concept, and will appreciate any insight or explanations for this. If they are indeed similar how? If not is there any relationship between the concepts?

@@ -1,1 +1,0 @@
-example say class b c two interface let call ianimal inherits ianimal b c ianimal important part supply additional functionality used allow b c passed argument certain method bad practice

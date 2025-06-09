@@ -1,1 +1,0 @@
-writing several method call method pas information couple choice num pas information parameter num set instance variable method access choose one option seems first option good specific passed downside seems lot value passed around second require passing value around seems lead lot magic method set instance variable somewhere always explicit get passed method exception

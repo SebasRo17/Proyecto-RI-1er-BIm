@@ -1,1 +1,0 @@
-Program slicing is one of those software technologies where there is much more activity in the research community than in the industry community. Does anybody outside of the research community using slicing tools on production code to help with debugging or other tasks? If so, what tools did you use?

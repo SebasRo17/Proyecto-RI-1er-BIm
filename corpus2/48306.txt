@@ -1,0 +1,1 @@
+How would I create a table of values from a transformation? eg:               r1 = 1; r2 = 1000; primorial[n_] := Times @@ Prime[Range[n]];     plot = ListLinePlot[Table[N[Log[primorial[n]]], {n, r1, r2}]];     plot /. L_Line :> {GeometricTransformation[L, ReflectionTransform[{-1, 1}]]}      How could I convert the transform of 'plot' into a list of numeric values?

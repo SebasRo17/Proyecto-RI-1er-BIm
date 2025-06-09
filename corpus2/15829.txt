@@ -1,0 +1,1 @@
+In the non-printing characters documentation, I see two named characters that are largely undocumented: `\[InvisiblePrefixScriptBase]` and `\[InvisiblePostfixScriptBase]`. Interestingly, they have input aliases defined: `[Esc]i-[Esc]` and `[Esc]-i[Esc]`. What are they used for?

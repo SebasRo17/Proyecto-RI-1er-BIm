@@ -1,1 +1,0 @@
-normally would use j modify dom user interacts something event go seems right reason developing widget based app widget need capability draw feel redundant send widget html via initial http request j page load trying avoid printing html element j page load rule optimization thing

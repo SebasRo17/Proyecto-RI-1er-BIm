@@ -1,1 +1,0 @@
-Which of these programming styles is better?               var result = methodOne(methodTwo(a, methodThree(b)), c, d);      or               var result3 = methodThree(b);     var result2 = methodTwo(a, result3);     var result = methodOne(result2, c, d);

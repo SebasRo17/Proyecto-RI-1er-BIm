@@ -1,1 +1,0 @@
-relevant xkcd many site internet require login information way protect password reusing promise password hashed server always wonder hard make webpage hash password client computer javascript sending server would hashed theory give extra security practice used protect rogue site hash password server

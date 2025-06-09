@@ -1,0 +1,1 @@
+I have this problem: I have three distributions and the relative histograms. But I would like to create an histogram in which the three columns of each single histogram for the same bin are put together (grouped) by the same x axis value. There is someone could help me?

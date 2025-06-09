@@ -1,1 +1,0 @@
-What is it called when a website has another word in place of where `www` usually goes? For example, `images.google.com` vs `google.com/images`. I know the latter is a file on the server that the browser downloads, but what exactly is the purpose of the former? It would be helpful to know what this is called.

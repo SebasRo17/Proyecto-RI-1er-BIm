@@ -1,1 +1,0 @@
-I'm confused. Does Glassfish come as part of the Java EE platform? Can you get Glassfish but not Java EE?

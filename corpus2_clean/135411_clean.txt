@@ -1,1 +1,0 @@
-num asp net mvc num also includes asp net web api framework building consuming http service reach broad range client including browser phone tablet asp net web api great building service follow rest architectural style plus support rpc pattern asp net mvc num support rpc style communication mean wcf basis chose use wcf asp net mvc web api rpc mechanism

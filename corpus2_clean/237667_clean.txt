@@ -1,1 +1,0 @@
-suppose using heavy application say bad keep allocating memory heap free also us recursion point time heap stack space expand situation heap stack free space try allocate memory heap happen overflow stack also happens make recursive call stack need expand overflow heap

@@ -1,1 +1,0 @@
-I am trying to find a efficient algorithm in Java to find the repeating decimal part of two integers `a` and `b` where `a/b`. eg. 5/7 = 0.714258 714258.... I currently only know of the long division method.

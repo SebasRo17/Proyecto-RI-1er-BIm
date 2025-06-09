@@ -1,1 +1,0 @@
-We have a scrum team where there are 5 developers, 2 automated testers, 1 manual tester. Our tasks are completely independent. Shouldn't there be 8 people, every one should be able to do every task: write code, write tests for it, sometimes manually test something?

@@ -1,1 +1,0 @@
-Is it possible to use only C++ to create iOS apps? Is there any downside to that? I read somewhere that you have to use a mix of objective C and C++ if you want to use C++ that bad.

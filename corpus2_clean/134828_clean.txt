@@ -1,1 +1,0 @@
-measure execution time block implemented simple stopwatch like invoke method stopwatch directly business logic source became unreadable unclean design pattern useful situation keep readable clean

@@ -1,1 +1,0 @@
-What is the difference between Acceptance Test--Driven Planning and Acceptance Test--Driven Development? Are they the same?

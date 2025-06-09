@@ -1,1 +1,0 @@
-A " **Heap Pollution** " as in Non-Reifiable Types (The Java™ Tutorials > Learning the Java Language > Generics (Updated)) Why is it called that way?

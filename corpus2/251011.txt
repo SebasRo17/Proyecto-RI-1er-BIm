@@ -1,1 +1,0 @@
-What I want to do is bundle XML Notepad (as is, no modifications) with the installation of our commercial product. Instead of telling the customer "go to http://www.microsoft.com/en-us/download/details.aspx?id=7973 and download XML Notepad". Any one who can offer insight on how to derive the legality of this from the license?

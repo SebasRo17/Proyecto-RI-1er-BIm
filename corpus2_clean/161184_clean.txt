@@ -1,1 +1,0 @@
-wikipedia page found following sentence regarding closure c num c num closure capture non local variable copy reference without extending lifetime mean existing closure might refer non local already de allocated case special care best practice one follow using captured non local variable inside c closure

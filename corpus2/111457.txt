@@ -1,1 +1,0 @@
-Last time I heard about "offensive programming/coding". I am not sure what it exactly mean. Why it is better, from defensive programming? Can someone give me some examples or answers?

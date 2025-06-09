@@ -1,1 +1,0 @@
-project working using freebsd creating software package planning change distribution centos rpm packet manager since code platform independent make many change also continue use freebsd migration completed best git usage way migration use new branch new repository

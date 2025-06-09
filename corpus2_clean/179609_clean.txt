@@ -1,1 +1,0 @@
-recently delving functional programming especially haskell f prior googling around could find benchmark comparison prominent functional language scala f etc know necessarily fair language scala come mind given hybrid wanna know outperforms operation overall

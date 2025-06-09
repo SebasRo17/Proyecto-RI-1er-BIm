@@ -1,1 +1,0 @@
-I have a network game licensed under the AGPL that I modified to suit my needs. Theoretically, I want to charge people to play this game over a local area network that is set up in a private establishment of which I own all the local network infrastructure including the server and the game stations. would I still be required to make the source code available to these people?

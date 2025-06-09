@@ -1,0 +1,1 @@
+I want to draw a histogram and some line plots together. I have one observed variable and several predicted ones. Observed data should be shown as a histogram and the predicted variables should be shown as line plots or smooth histograms. I use _Mathematica_ 7. Please help me to show which fitted distribution is best.

@@ -1,1 +1,0 @@
-I have searched the idea of address space that is `The set of all legal addresses in memory for a given application. The address space represents the amount of memory available to a program.` I am unable to find that how this concept is implemented? And how it works with operating system? Any help would be appreciated.

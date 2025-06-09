@@ -1,1 +1,0 @@
-Is it perfectly legal to use GHC as base and build some commercial application over its top ? Are there such examples I can can interact with ?

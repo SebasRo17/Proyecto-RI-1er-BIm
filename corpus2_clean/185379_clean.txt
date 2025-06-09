@@ -1,1 +1,0 @@
-currently working rail project requirement want able map country initial letter eg ind num usa num etc broader question notwithstanding framework work best practice store thing using property file yaml case make table database read hash map like structure ruby language

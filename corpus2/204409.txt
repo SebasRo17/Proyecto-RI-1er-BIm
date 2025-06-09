@@ -1,1 +1,0 @@
-I was asked this question in an interview. For eg: `UITableviewDelegate` protocol has `CellForRowAtIndexpath`. Why make it a delegate method in a `protocol` not a method in the `UITableView` class and call it directly?

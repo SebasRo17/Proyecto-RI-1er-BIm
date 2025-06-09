@@ -1,1 +1,0 @@
-started study state transition chart see assumes state transition done instantly time consuming case heavily depending asynchronous seems less efficient modeling chart think represent asynchronous state change please recommend something

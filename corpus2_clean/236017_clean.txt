@@ -1,1 +1,0 @@
-use subquery sql request subquery useful practicing sql need know spot subquery problem immediately

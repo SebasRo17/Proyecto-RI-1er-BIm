@@ -1,1 +1,0 @@
-I was reading code of a java project where I found a class name like "UserSansXml". This class is dealing with user objects. I wanted to know the meaning of "sans".

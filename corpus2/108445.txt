@@ -1,1 +1,0 @@
-Microsoft Windows8 supports new Metro-style apps, and Metro apps don't use Win32; they run on WinRT. I wonder if the Metro-style Apps was invented for only tablets. Does Microsoft hope that Metro-style apps eat all old Desktop Apps finally, or will they go with the two platforms until 2020?

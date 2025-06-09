@@ -1,1 +1,0 @@
-Why was the property `string foo = string.Empty` included in the BCL? It seems more verbose and no clearer than just using an empty string (`string foo = ""`)

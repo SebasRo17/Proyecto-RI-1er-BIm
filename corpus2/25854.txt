@@ -1,0 +1,1 @@
+Here I have one problem how to calculate x for each y. In this form code doesn't work                    y = {0.1, 0.2, 0.3, 0.4, 0.5, 0.6,0.7};             NSolve[-y*16 x^3 - y^2*25 x^2 + 5 == 0, x]

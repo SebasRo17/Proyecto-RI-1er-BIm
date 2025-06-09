@@ -1,1 +1,0 @@
-new c reading tutorial num first look preprocessor header guard header file include header file possible end situation header file get included multiple time make preprocessor directive avoid sure import thing twice given header guard optional apparently good practice almost make think scenario want import something twice although think scenario idea

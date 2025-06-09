@@ -1,0 +1,1 @@
+I stumbled across a function called `PointForm` but the only documentation I can find is the pop-up line offered by autocomplete, which contains the same information as `Information[PointForm]`: ![enter image description here](http://i.stack.imgur.com/QFBDM.png) What does this mean and how does it work?

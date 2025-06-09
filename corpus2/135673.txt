@@ -1,1 +1,0 @@
-Is there a book out there that's the de-facto standard for describing best practices, methodologies, and other helpful information on gathering requirements for software and database projects? What about that book makes it special?

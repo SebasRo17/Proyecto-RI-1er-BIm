@@ -1,1 +1,0 @@
-How shuffle from random works in Python? I ask because it works very fast. When I try to write shuffle it works 1 minute for 10^6 element, but Python shuffle does that in 8 sec?

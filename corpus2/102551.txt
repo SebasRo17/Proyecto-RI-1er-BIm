@@ -1,1 +1,0 @@
-Currently, I am reading _Pro ASP.NET 4 in C#_ and in it, two ways of creating a web application are described:   * Website   * Web Application Project In which scenarios should I choose the former over the latter, and vice versa?

@@ -1,1 +1,0 @@
-sometimes editing something see useless added developer probably due habit editing make difference appropriate specific case talking private field like private num private boolean mybool private myobject obj declaring default value redundant useless remove skip

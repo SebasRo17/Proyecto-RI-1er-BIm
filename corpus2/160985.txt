@@ -1,1 +1,0 @@
-I have some innocent/beginner questions:   * What is reverse engineering good for?   * As a programmer, should I learn the art of reverse engineering?   * What are the benefits to a programmer who is experienced with it?

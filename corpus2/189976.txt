@@ -1,1 +1,0 @@
-I was just reading a chapter about LOOP-computable functions and I have the following question: Is it possible to numerate every LOOP program with an algorithm? Formally: Is it possible to have a LOOP program M, s.t M(n,m)=P_n(m) (input is n,m. output is P_n(m), where P_n is the numeration of the loop programs).

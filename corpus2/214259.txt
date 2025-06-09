@@ -1,1 +1,0 @@
-In my project we assign 4 hours for 1 story point and estimate based on story point. So in this case one ideal day of work will be done in 2 elapsed days. From an agile standpoint are we doing story point estimation or ideal days estimation or none of these?

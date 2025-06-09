@@ -1,1 +1,0 @@
-make sense write default constructor argument empty body constructor exist benefit think reducing risk forgetting add default constructor another one created would show anyway default constructor actually used least internal library used omitted yagni benefit

@@ -1,1 +1,0 @@
-I am getting started in web application development and am considering using Google App Engine. It's great that I can deploy the web app to the Google servers, but is that my only option? Can I use an authentication system different than the Google services?

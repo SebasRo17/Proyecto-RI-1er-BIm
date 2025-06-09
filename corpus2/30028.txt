@@ -1,0 +1,1 @@
+Dispatch creates hash tables only for lists of length larger than 3. Is there any way to force MMA to create hash tables even for lists of length smaller than 4?               Table[Head@Dispatch@Table[Rule[a[i], i], {i, n}], {n, 5}]     (* {List, List, List, Dispatch, Dispatch} *)

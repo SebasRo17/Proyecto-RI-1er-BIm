@@ -1,1 +1,0 @@
-I have seen C code where people used enum heavily. But all it does is confuse others. In many places plain integers can do the same thing with less ambiguity. What are the common misuses of enum?

@@ -1,1 +1,0 @@
-curious implemented lua within c time relatively simple still harness power would liked love eclipse work including javadoc location etc wondering way integrate native application cross platform course lua mean able build base class stuff etc interesting thought insight edit also monodevelop relatively easy integrate compiled cross platform able

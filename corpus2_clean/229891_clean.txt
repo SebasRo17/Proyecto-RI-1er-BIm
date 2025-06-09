@@ -1,1 +1,0 @@
-quick prototyping actively using hibernate recently came back old project wondered lot daos suspect commonly named feature bloat e g daos single entity contains num num method recently using hibernate generic framework still think problem arises trying create custom access logic start detect bad smell guideline scenario

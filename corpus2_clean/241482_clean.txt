@@ -1,1 +1,0 @@
-want create window icon 128x128 icon corner window window believe large image 1024x768 tried several algorithm nearest neighbor interpolation produce soft barely recognizable image need content aware resize task

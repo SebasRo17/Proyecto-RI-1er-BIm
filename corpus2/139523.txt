@@ -1,1 +1,0 @@
-I am developing an application using WebSocket to exchange messages; it is based on JSF 2.0.0, but the idea is similar and HTML5 have WebSocket support. Is the only difference between those language the used tag and the syntax? Is the logic behind it the same? I wonder if there any converter for this.

@@ -1,1 +1,0 @@
-open often used header file like vector h cstdlib h seems like mess define endif statement anyone decode mess give glimpse whats going

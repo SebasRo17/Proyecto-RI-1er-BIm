@@ -1,1 +1,0 @@
-My understanding is that Google is not using MapReduce for Google Instant, but I can't find anywhere that states what they're using as the datastore for Google Instant. What is the datastore used by Google for Google Instant?

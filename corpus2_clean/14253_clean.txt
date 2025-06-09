@@ -1,0 +1,1 @@
+wondering solve system ode interpolating function example z interpolatingfunction generated prior ndsolve command need solve second ode system x k x h k z h k x h k z x h k k constant

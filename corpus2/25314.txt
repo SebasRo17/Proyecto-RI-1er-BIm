@@ -1,0 +1,1 @@
+What algorithm is _Mathematica_ 9 using for `GroupElementToWord[group, g]`?

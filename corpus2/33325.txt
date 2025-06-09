@@ -1,0 +1,1 @@
+How would I get a list of filenames available at a URL? For example, list the files at: http://www1.ncdc.noaa.gov/pub/data/cmb/drought/weekly-palmers/2005/

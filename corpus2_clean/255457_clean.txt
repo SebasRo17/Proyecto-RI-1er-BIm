@@ -1,1 +1,0 @@
-large scale refactors often commenting content method using notimplementedexceptions stuff still need refactor problem interfering valid notimplementedexceptions thinking introducing custom quite easily find back reference see still need good idea bad idea common way large scale refactors stage course idea exception removed commit whole refactoring

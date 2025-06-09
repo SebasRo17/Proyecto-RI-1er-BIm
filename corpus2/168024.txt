@@ -1,1 +1,0 @@
-I need help trying to understand what the meaning of the arrow in a UML Class Diagram is, more specifically in this Composite Diagram. What's the difference between the simple line (from a class to another one) and the arrow (not the inheritance arrow, I refer to the black one)? ![UML Class Diagram](http://i.stack.imgur.com/nip2w.jpg)

@@ -1,1 +1,0 @@
-I have a sequence of permutations formed using these strings: `"A"`, `"BC"` and `"D"`. The permutations are:               BCAD     ABCD     BCDA     DABC     ADBC     DBCA       Now I need to reverse engineer this; i.e. I have a text file containing the sequences, I should be able to tell the strings that are used to construct the permutations. What algorithm I can use?

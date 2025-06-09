@@ -1,1 +1,0 @@
-common net exception wrapped several layer outer exception give marginally contextual example ef update fails get exception wrapped similar sqlexception need understand failed almost always sqlexception advantage two using ef inside custom library wrap exception one like could update see inner exception detail

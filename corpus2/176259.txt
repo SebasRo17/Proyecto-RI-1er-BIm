@@ -1,1 +1,0 @@
-As the jdk doc said, ConcurrentHashMap is thread safe and it doesn't block multiple thread read. It is not necessary to doubt that since it was under many and restricted test. But I just curious how to tell and write code to verify that. **Edited** : to be more precisely   1. how to keep read consitent without read block   2. does it return the latest view of data

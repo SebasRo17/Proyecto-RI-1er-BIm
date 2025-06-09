@@ -1,1 +1,0 @@
-So much of development is now done online to take advantage of interconnectivity and shared resources. In a prolonged Internet outage, how can one cope with the lack of that connection? Are there ways to replicate or work around the innumerable benefits the Internet adds to development?

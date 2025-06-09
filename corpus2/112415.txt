@@ -1,1 +1,0 @@
-These two words are completely synonymous for me, but I wonder if there's actually a useful semantic difference that I can incorporate into coding/naming conventions/process.

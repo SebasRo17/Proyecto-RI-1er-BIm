@@ -1,0 +1,1 @@
+I have a list, `data`, where the elements `data[[i]]` range over `i` from `-N` to `N`. I want to define a function interpolating this list at every point except for `i`=`0`. Is there a way to do this?

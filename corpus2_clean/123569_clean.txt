@@ -1,1 +1,0 @@
-little bit confused two term linq sql entity framework general idea somehow allow refer database table net object something sort please explain difference two term

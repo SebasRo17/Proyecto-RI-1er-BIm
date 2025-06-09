@@ -1,1 +1,0 @@
-thought visual studio num sp1 would include support using sql server compact edition num inside designer seems wrong managed botch installation somehow installed sql server ce num download page web installer visual studio num sp1 include support choice

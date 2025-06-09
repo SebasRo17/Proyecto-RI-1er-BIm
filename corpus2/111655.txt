@@ -1,1 +1,0 @@
-Have you ever used Jython in bundle with tomcat in any serious, production- ready service? What pros and cons can you name? Is it worth trying if all guys in team has no problems with coding on Java, but know python as well?

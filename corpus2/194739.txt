@@ -1,1 +1,0 @@
-Why do some object oriented languages let the programmer use primitive data types? Aren't classes like Integer, Boolean, etc. enough?

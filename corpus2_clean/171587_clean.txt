@@ -1,1 +1,0 @@
-tag vital part version controlling example svn write tag svn information tag

@@ -1,1 +1,0 @@
-Sometimes, one creates a exploratory prototype and forgets about structure in the directories... What are good tips on dividing the programming files over (several levels of) directories?

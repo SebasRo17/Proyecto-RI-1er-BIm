@@ -1,1 +1,0 @@
-jeff atwood recently wrote blog post netflix implementation chaos monkey high level article curious anyone actually implemented technique testing system guess im really trying ask strategy implement ensure architecture survive part system crashing

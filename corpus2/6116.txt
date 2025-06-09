@@ -1,0 +1,1 @@
+Grids of dynamic objects responding to mouseovers seem to be quite slow in general, for instance:               Grid[Table[       Mouseover[Framed[" ", Background -> Blue],         Framed[" ", Background -> White]], {i, 50}, {j, 50}],       Spacings -> {0, 0}]      How can this lagging be avoided?

@@ -1,0 +1,1 @@
+How to generate random directed connected graph? I need to create graph which will pass:               ConnectedGraphQ[^]

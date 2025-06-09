@@ -1,1 +1,0 @@
-I wanted to know about this since a long time. Other vendors are coming out with intuitive IDEs with even more flexibility to developers and DBAs, whereas we rely on Toad and other third-party IDEs to work with Oracle. Why they are sticking to command-line black dump screen?

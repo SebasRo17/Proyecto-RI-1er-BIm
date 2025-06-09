@@ -1,0 +1,1 @@
+How can I find all the permutations of `{a, b, c}` where `a + b + c = n`? For instance: if `n = 3` the permutations I seel are:   * `Permutations[{3, 0, 0}]`   * `Permutations[{2, 1, 0}]`   * `{1, 1, 1}`

@@ -1,1 +1,0 @@
-As many of you already know Apple released a new OS last week so I installed it on my system to see if the project I'm working on works. Well, absolutely nothing works! There are a lot of deprecated methods so I would like some advice on how to tackle updating your code so it is compatible with the new platform.

@@ -1,0 +1,1 @@
+Background: I use code from An Efficient Test For A Point To Be In A Convex Polygon Wolfram Demonstration to check if a point ( mouse pointer ) is in a ( convex ) polygon. Clearly this code fails for non-convex polygons. **Question: I am looking for an efficient routine to check if a 2D-point is in a polygon.**

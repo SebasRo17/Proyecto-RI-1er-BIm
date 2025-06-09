@@ -1,1 +1,0 @@
-I just read a chapter in a programming book about Dynamic types. Although they are quite neat I cant think of a single real world example where I would use them. Does anyone here actually use them and for what?

@@ -1,0 +1,1 @@
+Is it possible to check the spelling of strings? Strings are often used to show messages in my user interfaces, and I would like to have an automatic checking. Methods that export all the strings to a different notebook are also fine (if it can help). In this case, extracting things like \n would be a plus.

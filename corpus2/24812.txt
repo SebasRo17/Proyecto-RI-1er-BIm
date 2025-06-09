@@ -1,1 +1,0 @@
-Core Servlets and Javaserver Pages: Core Technologies, Vol. 1 (2nd Edition) Can I rely on this book to learn Servlets and JSP,or is there a better book out there I should be reading instead?

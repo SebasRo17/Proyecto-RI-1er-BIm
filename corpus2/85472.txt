@@ -1,1 +1,0 @@
-Can anybody tell me how I can give my paid app a free download option to one of my friend from iTunes Connect. What I mean is that I will give my friend a code by which he can download my app without paying. Can anyone tell me if there is any option in iTunes Connect to do this?

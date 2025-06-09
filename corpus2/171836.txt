@@ -1,1 +1,0 @@
-If you are merging two or more database records from table X, that have a many-to-many relationship with table Y, how should you solve the problem of records in intermediate table Z that would violate one or more constraints as a result of the merge? Do you simply discard them or break off the transaction?

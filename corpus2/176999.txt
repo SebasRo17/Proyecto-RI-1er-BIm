@@ -1,1 +1,0 @@
-I'm finding lots of 2-3k line files, and it doesn't really feel like they should be that big. What is a good criteria to objectively call a source code file "too big"?, is there such thing as a maximum amount of lines a source code file should have?

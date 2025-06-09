@@ -1,1 +1,0 @@
-I would like build an web-application that has thumbnails (around 100x100) of photos. These thumbnails will be linked to the original site (the copyright holder). Is this something that is legal to do? E.g this will be similar to Google Image Search.

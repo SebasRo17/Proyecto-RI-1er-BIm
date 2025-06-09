@@ -1,1 +1,0 @@
-Anyone know of a free license that offers the user the right to use the software freely, but not modify it or share it? In other words, it is closed source, but it's free. And since it's gonna be a website it can only be used on this one website. What would be a good simply license for this? If possible that it's not too long, simple as the MIT license for example.

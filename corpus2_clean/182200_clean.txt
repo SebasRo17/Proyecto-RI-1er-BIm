@@ -1,1 +1,0 @@
-tutorial give silly example teach oop example car mycar etc way considered bad learning oop assuming example applied real programming problem

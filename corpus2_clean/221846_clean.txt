@@ -1,1 +1,0 @@
-using singleton pattern application used ado net entity framework access layer login application taking num num minute load dashboard way reduce time look method instead entity framework

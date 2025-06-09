@@ -1,1 +1,0 @@
-I believe every programmer must learn about a core programming language and a scripting language. Seriously I've no hand in any languages like Python, JavaScript, JScript, CScript etc. I'm native Windows Developer and which scripting language would be the best one to do some automation/web related stuffs.

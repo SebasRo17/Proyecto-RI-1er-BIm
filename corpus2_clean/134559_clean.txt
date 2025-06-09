@@ -1,1 +1,0 @@
-school project requires u create computer application write documentation therefore write testing documentation already test plan validate test feature present testing result project e g table etc

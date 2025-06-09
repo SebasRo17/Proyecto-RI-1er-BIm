@@ -1,1 +1,0 @@
-answer yes know language native javascript support neither native support json make much sense modify json spec allow identifier without allow comment sensible thing serialize deserialize working javascript

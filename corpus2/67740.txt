@@ -1,1 +1,0 @@
-I am about to submit an iPhone application. I do download Encrypted Zip files from a remote server and of course I do decrypt the files to view them to the user. Does that mean I need to answer YES for               Does your application have encryption?      when I upload my Binary?

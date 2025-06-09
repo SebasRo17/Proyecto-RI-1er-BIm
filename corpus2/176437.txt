@@ -1,1 +1,0 @@
-On a page twelve of "Java concurrency in practice" there is a phrase > "A good specification defines invariants constraining an object's state and > post - conditions describing the effect of its operation." More or less I undersand the phrase untill the word `"post"`, then it becomes a garbage. Can you help please?

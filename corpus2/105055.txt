@@ -1,1 +1,0 @@
-I am trying to get an idea of what would be a better practice / implementation for the users of an application that I am going to localize. Which would be better and why?   * Read the culture info (preferred language) from the browser. or   * Have a language selection option in the application, commonly implemented using flags (icons) or a drop down. Or suggest a better idea.

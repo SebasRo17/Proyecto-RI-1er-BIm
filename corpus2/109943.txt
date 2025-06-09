@@ -1,1 +1,0 @@
-JavaScript libraries such as jQuery, combine 'getters' and 'setters' in the programming interface for example:                $('element').css({'color','blue'});      will set the color or                $('element').css();      will get the css for an element. Is there a name for such a pattern and is it a good practice to use in applications?

@@ -1,1 +1,0 @@
-let say static look something like public static bool foo var bar new bar stuff stand real headache unit test best practice refactor testable without turning instance changing signature

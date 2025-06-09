@@ -1,1 +1,0 @@
-yet find perfect way represent overall threading architecture system using uml otherwise diagramming technique would show thread given system interact similar question drawing thread interaction uml diagram multithreaded application intuitive uml approach depict thread fully answer question technique found useful depict overall threading architecture system

@@ -1,1 +1,0 @@
-asymptotic notation stated problem size small enough e g n c constant c solution take constant time writen theta num write num inside theta num mean theta c

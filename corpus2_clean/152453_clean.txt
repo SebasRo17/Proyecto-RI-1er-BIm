@@ -1,1 +1,0 @@
-bash least case block closed like expr echo hello world fi case var num num thing another thing opposed typical close end endif far know rather funny convention unique shell scripting never seen odd block terminator anywhere else sometimes thing like origin another language like ruby elsif coming perl strange justification feature shell scripting story behind found language

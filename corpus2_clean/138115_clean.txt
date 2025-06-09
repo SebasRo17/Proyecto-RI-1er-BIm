@@ -1,1 +1,0 @@
-advantage using query builder rather using raw sql e g q select post innerjoin term post id v select post see many framework use kind abstraction layer fail understand benefit

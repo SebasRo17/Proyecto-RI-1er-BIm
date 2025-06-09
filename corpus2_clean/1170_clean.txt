@@ -1,0 +1,1 @@
+possible make function mathematica expands expression form z w z text overline z w w preferably also able handle thing like left sum n z right last thing obviously mathematically deduced first one consecutively applying first equality

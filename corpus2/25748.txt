@@ -1,0 +1,1 @@
+Suppose I have a dimension formula (for a Lie algebra representation) that is as follows: $$ d(a,b) = {(a+1)(b+1)(a+b+2) \over 2} $$ Now consider the surface $F(a,b,n) = 0 = d(a,b) -n$ where $n \in \Bbb N$. Is there a Mathematica function that would allow me to find triples $(a,b,n) \in \Bbb N^3$ on this surface?

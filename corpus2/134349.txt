@@ -1,1 +1,0 @@
-It's a generally considered a bad practice to use the Hungarian notation, but is common to find GUI controls named `userNameTextBox` and `userNameLabel`. Do you put the control type in it's name? Isn't this a kind of Hungarian notation?

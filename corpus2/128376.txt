@@ -1,1 +1,0 @@
-Do web pages load faster or load slower when all headers, footers and basic functions are placed in external files and called using the statements below? Are there any other benefits to separating such content?               <?php include("includes/functions.php"); ?>     <?php include("includes/header.php"); ?>                     <?php require_once("includes/functions.php"); ?>

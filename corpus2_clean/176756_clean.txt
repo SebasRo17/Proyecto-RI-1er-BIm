@@ -1,1 +1,0 @@
-let say clustered environment setup cluster sql server know exactly done let say done sake argument website application trying access database read write say asp net app c winforms app time sql go take couple minute clustering failover take affect switch another node happens time think time unable connect way place request pipeline cluster node back switched continue normal

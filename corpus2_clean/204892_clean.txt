@@ -1,1 +1,0 @@
-learning sqlite android programming new boston travis video come across something strange said database already exists oncreate called create far good database already exists called simply drop database creates sense behind update leave database alone

@@ -1,1 +1,0 @@
-I'm interested in machine learning in relations to the stock market (predicting future values of stocks etc). What topics would I need to learn - e.g. what branch of AI to look into etc? and what libraries/tools do I need?

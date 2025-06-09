@@ -1,1 +1,0 @@
-writing unit test worth spending extra time make good quality readability writing test often break law demeter faster writing avoid using many variable technically unit test reused directly strictly bound see reason spending much time need functional

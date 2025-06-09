@@ -1,1 +1,0 @@
-I cannot find any naming standards/conventions in MSDN for naming ASP.NET controls. One of the following standards tends to be used by programmers:   * `lblAddress`   * `AddressLabel`   * `Address` According to MSDN's Name of Type Members, should we be treating ASP.NET controls as fields, hence using Pascal Case (e.g. `AddressLabel`)?

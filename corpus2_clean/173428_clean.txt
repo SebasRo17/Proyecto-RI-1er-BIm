@@ -1,1 +1,0 @@
-project bump version kicking new development project bump version tagging release approach better version number changed start new phase developer may forget change simply release program version number changed tagging release num version number tag makefile assemblyinfo c match git describe may give v1 num num num current revision v1 num num already changed file v1 num num

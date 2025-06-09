@@ -1,0 +1,1 @@
+If I type $y(x)=ax+b$ in a math cell, y, x, and b are italicized, but a and x are not. How do I make them italicized? I tried adding an \[InvisibleSpace] or a \[VeryThinSpace] in between, and it makes the symbols italicized. Is that the right way to do it? It feels like a workaround, as if I'm not supposed to do this.

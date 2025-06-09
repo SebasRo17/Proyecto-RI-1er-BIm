@@ -1,1 +1,0 @@
-developing library good practice issue log statement within library logging within library make debugging troubleshooting transparent however hand like littering library logging statement performance implication consider well

@@ -1,0 +1,1 @@
+given graph automatically computed layout e explicitly given vertexcoordinates using graphlayout method extract coordinate vertex g randomgraph graphlayout springembedding picture graph propertyvalue g vertexcoordinates automatic like list coordinate possible convert graph graphic object using show extract coordinate less hacky direct robust way

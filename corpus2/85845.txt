@@ -1,1 +1,0 @@
-I heard about some big companies e.g. Google, Facebook use Perforce Are there any reason why SVN/Git cannot replace Perforce?

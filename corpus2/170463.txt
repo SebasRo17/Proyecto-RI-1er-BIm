@@ -1,1 +1,0 @@
-I searched on the web how to access in an efficient manner to a central database at a remote location and I met suggestions to use web services instead direct access (i.e. JDBC etc ) to a database.I wonder the reason of that and any other suggestions.

@@ -1,1 +1,0 @@
-Could you suggest any JS lib, that will "recognize" all Java classes in specified text and create reference link to page with this class? (similar to Eclipse Ctrl+click) There are plenty of good JS libraries to highlight code, but none of them have this feature.

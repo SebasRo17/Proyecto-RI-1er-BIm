@@ -1,1 +1,0 @@
-I just started using CodeIgniter I'm wondering if anyone knows where I can download pre-made views. For example right now I'm looking for an admin interface. I could write the code myself but I'm feeling lazy ;) Is there a place where you can get pre-made templates like you can for most CMS's? Thanks!

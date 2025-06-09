@@ -1,1 +1,0 @@
-I have installed PyDev and want to start with GUI apps. Heard about Qt but how to integrate it with PyDev? Is there any Python IDE that comes bundled with Qt or other GUI frameworks and also Visual Studio like ToolBox to add controls on the Form? I don't want to go with IronPython.

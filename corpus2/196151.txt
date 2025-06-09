@@ -1,1 +1,0 @@
-I am working on a Arduino project using the Uno. The project contains a significant amount of code. I would like to create a library and I may even share it later on. What guidelines should I follow while designing the library?

@@ -1,1 +1,0 @@
-I am interested in finding an approach that will detect what language a string of text is. As Google translate does.

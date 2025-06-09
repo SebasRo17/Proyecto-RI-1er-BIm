@@ -1,1 +1,0 @@
-What would a large project that spanned multiple files and >1000 lines show to an employer that a few individual files and a couple hundred lines couldn't capture?

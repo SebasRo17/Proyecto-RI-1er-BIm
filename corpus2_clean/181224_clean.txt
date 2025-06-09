@@ -1,1 +1,0 @@
-store constant value assembly metadata directly embedded intermediate language assembly metadata

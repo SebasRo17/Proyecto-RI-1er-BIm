@@ -1,1 +1,0 @@
-using postgres num store range like 250k 250k 4m etc display dropdown making table possible option configured admin interface take separate column min max currency dollar euro column store k etc better way

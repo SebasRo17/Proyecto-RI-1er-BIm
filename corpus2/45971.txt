@@ -1,0 +1,1 @@
+Can I use _Mathematica_ for solving the inequality given below?               b^(x/2 - 3/2) - b^(ax) - 2c > 0      where b, a, c are the parameters. I want to find out for what range of x it is true. If it is possible, could you guide me on what I should try?

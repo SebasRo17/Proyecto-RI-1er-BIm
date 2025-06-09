@@ -1,0 +1,1 @@
+How can I convert an `Integer` to list of numbers? For example:               781049 ==> {7, 8, 1, 0, 4, 9}      What are the possible ways of doing this? How well they compare performance- wise? Is a compiled version faster than `IntegerDigits`? How to convert huge amounts of large integers to digit form?

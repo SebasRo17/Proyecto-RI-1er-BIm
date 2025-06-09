@@ -1,1 +1,0 @@
-far know declaring interface like public interface root square public double square root double enforce non negative value avoid negative value right someone creates implement implementation handle negative value use negative well thing break becomes responsibility check negative pretty sure implementor checking

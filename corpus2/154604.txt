@@ -1,1 +1,0 @@
-I really love the idea of domain driven design, however, as I'm learning Go, I'm wondering if there's the equivalent of DDD that's aimed at an effectively more functional language?

@@ -1,0 +1,1 @@
+Is there any way that I can utilize Mathematica's matrix multiplication in a C++ program? I'm making a 3D graphics engine (for class) in C++ and I would really like to use Mathematica for all of my math. Thank you. I have Mathematica 8, and Visual Studio 2010 that I am using to develop with.

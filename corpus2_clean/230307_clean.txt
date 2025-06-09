@@ -1,1 +1,0 @@
-framework logic layer called model whereas called service different different naming convention update num reason asking zend framework classical mvc framework everybody us concept model learning angularjs seems word model disappeared replaced word service noticed service like singleton reused example rest client whereas model related manipulation coming controller mvc pattern

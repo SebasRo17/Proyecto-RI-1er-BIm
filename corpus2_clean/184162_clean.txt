@@ -1,1 +1,0 @@
-section num google paper describing mapreduce map extract num byte sorting key text emits key original text intermediate key pair used built identity reduce operator pass intermediate key pair unchanged key pair final sorted written understand actual sorting happens far understand map extract key pair reduce somehow spit sorted sorting key

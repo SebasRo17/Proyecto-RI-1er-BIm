@@ -1,1 +1,0 @@
-I know that exponential time algorithms should generally be avoided but are sometimes necessary. A case being the Traveling Salesman. How common are such algorithms in production software? Are these cases typically necessary or a result of rush jobs? I understand that many can be solved with a good heuristic. What is typically done with those that cannot?

@@ -1,1 +1,0 @@
-today discussion colleague viewmodel general concept existed mvvm pattern believe viewmodel term used anytime create model like property showing view support binding like asp net even winforms opposite microsoft first time mvvm

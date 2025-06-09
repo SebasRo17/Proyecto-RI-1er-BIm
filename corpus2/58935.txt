@@ -1,0 +1,1 @@
+So this teacher of mine will give 10 points to the first person who solves the equation $\quad\quad\phi := \forall x \, \forall y \, \exists z \;(x<y \rightarrow x < z \wedge z<y)$ I want an interpretation (structure) $\cal B$ that satisfies $\phi$; i.e., $\quad\quad\cal B \models \phi$ Thanks in advance. I know I can't ask things like this but for once I will.

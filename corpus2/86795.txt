@@ -1,1 +1,0 @@
-Since there is an algorithm to blur images, so that part of it cannot be recognised, can we reverse the algorithm and unblur part of than image? Is there a program that already does that, is that even possible, even in a near future?

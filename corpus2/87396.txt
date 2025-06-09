@@ -1,1 +1,0 @@
-WebServices are one possible implementation of a SOA, so there comes the name "Services" from. But why are they called * _WEB_ *Service? Is it because they use web technologies and protocols (HTTP, XML, ...) for the implementation?

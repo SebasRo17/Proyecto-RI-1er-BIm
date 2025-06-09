@@ -1,0 +1,1 @@
+I've been typesetting in mathematica and would like to know if it is possible to use a keyboard shortcut to place a centered math cell or equation symbol aligned math cell in my document without having to use the writing assistant.

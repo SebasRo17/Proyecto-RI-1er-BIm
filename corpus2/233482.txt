@@ -1,1 +1,0 @@
-I've spotted a nice WordPress (GPL) theme for sale. I know somebody who bought it. I have 2 questions:   1. Has the company selling it the obligation to send the source code to whoever (customers or not) ask it?   2. Can the person who bought it give me a copy for free which I could use in production?

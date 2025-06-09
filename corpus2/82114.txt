@@ -1,1 +1,0 @@
-I was going through some tutorials on TortoiseHg. Despite having a rich GUI, the first examples are given using command line options. Does the ideal usage involve command line or it was started that way so one has idea of what is happening under the hood and GUI internally uses this command anyway.

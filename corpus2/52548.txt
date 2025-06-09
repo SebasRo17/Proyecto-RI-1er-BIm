@@ -1,1 +1,0 @@
-What differences are there, if any, between BSD and BCL licences?

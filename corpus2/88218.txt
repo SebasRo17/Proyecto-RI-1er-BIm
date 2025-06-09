@@ -1,1 +1,0 @@
-I am working on this project, which will soon contain loads of packages, projects etc. (Java). So, from the start I need to keep track of the high level package and class structure, monitor which class is being called where, so that I don't make it over complicated after 6 months. What is the right way to go about it? Any tools for this?

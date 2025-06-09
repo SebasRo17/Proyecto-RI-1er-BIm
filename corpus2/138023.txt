@@ -1,1 +1,0 @@
-I have this setup: A windows/x86 development box and a PandaBoard ES for testing with a linux on it. I would like to ask you for recommending a linux distribution that I would run in Hyper-V on my devbox that would be used only for compiling arm/linux binaries. After compiling these binaries I will copy them to an SD Memory Card and test them on PandaBoard. Thanks!

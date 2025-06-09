@@ -1,1 +1,0 @@
-When deciding what to work on for the next release, and estimating timings for each user story (and sub tasks for a given story), do you guys do this in a group or just managers? For a team size of 10, is this practical? How long does it take?

@@ -1,1 +1,0 @@
-create php project better put database e g mysql query single file e query php better place respective query model class e user php may creating bad practice put database query anywhere php file query php would placing function calling query

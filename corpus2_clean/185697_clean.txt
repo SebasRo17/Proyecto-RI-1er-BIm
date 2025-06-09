@@ -1,1 +1,0 @@
-toying around ruby lately found wondering pure oriented language even pure making method take one parameter get chained together equivalent currying language functional style appreciate detailed even rigorous answer subject

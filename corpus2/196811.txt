@@ -1,1 +1,0 @@
-I do a lot of web development and there are many code snippets that come up again and again so I dive back into the most recent project where I used it which isn't that efficient. How do you store all your useful and oft used code pieces? Are there any products meant for this?

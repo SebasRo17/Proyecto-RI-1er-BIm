@@ -1,0 +1,1 @@
+I would like to simplify the following expression               AAA (4 Sin[x]^2 Cos[x]^2) + AAA 4 Sin[x] Cos[x] + AAA      with the `Trig->False` option inside a `Collect`:               Collect[AAA (4 Sin[x]^2 Cos[x]^2) + AAA 4 Sin[x] Cos[x] + AAA, AAA, Simplify]      how can I insert the `Trig->False` condition in such an expression? Thank you in advance

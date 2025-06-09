@@ -1,1 +1,0 @@
-make maven repository available others use get permission form author software host repository even free software host free software library license compatible license

@@ -1,1 +1,0 @@
-Do the `message` being passed between `objects` in `Sequence Diagram` match with the `methods` in `Class Diagram`?

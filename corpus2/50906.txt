@@ -1,0 +1,1 @@
+Why will _Mathematica_ not give a soluion to `Solve[Log[x] == Log[j, Log[j, x]], j]`, but Wolfram Alpha will?

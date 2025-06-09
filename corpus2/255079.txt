@@ -1,1 +1,0 @@
-WinAPI is focused primarily on the C family, but how do new programming languages use those features without creating their own runtime/interpreter type thing? Do they hook directly into the DLL files? kernel32.dll contains most of those functions right? Thanks.

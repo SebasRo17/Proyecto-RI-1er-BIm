@@ -1,1 +1,0 @@
-using dropbox vcs single dev job pretty decent however decided give git go see fit need today reading tutorial point say one thing get used development separate area serving file obvious reason development django find obvious reason use project folder serve file github would happy someone clarified new git

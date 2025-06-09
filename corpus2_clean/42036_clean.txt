@@ -1,1 +1,0 @@
-working c net application form lot control need perform computation depending value control therefore need pas form value inside several helper function called depending control element think two way pas form value save everything dictionary pas dictionary ii attribute corresponds form element two approach better

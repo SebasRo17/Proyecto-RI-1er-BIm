@@ -1,1 +1,0 @@
-This is a pretty generic question but one I've been wondering about for a while: is there a standardized, generally accepted, or even just systematic way that people write code as a group? For example, in a project written in C++, does one developer write one class, which he passes off to the next developer with a quick explanation of what each method does?

@@ -1,1 +1,0 @@
-If somebody has to start learning to program, where should he/she start? Should he start to write procedure-oriented programs or jump to OOP?

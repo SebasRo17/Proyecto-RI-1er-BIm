@@ -1,1 +1,0 @@
-In DOM, why is `childNodes` defined in the `Node` interface if only some node types such as `Element`, `Document` and `DocumentFragement`, can have `childNodes`? Is this considered a good design? In what cases this is admissible? I mean, isn't this like defining a **radius** on an interface Shape even though we know that not every Shape has a radius?

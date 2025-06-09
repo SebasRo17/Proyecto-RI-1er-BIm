@@ -1,1 +1,0 @@
-I am looking for links and advice on studies done on the breakdown of costs associated with Software development. In particular I am looking on what percentage of effort is testing vs programming, and how it changed with team sizes, duration of project and similar factors.

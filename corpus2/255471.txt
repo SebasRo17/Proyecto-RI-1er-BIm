@@ -1,1 +1,0 @@
-In IT companies employees are working in the same project mean how they will join these part of work(programs) together? I mean I am working in `.zul` file (client side), some of my teammates are working in server side or other Java files, in the end of the day how they can join those programs from different system to single system?

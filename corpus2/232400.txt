@@ -1,1 +1,0 @@
-I want to release an npm (NodeJS) module that will be a development dependency for extensions built for my product (will be used in testing). I don't want this module to be used in any released derivative work (commercial or free, open or closed source). Is there an existing suitable license that I can use?

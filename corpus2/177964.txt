@@ -1,1 +1,0 @@
-I'm a Qt/C++ developer for Windows and Linux. Now I need to switch to Android OS and program for this operating system. I'm wondering whether it is reasonable to stay with Qt and use Necessitas project for Android Application Development or switch to Java?

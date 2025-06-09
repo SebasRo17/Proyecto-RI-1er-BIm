@@ -1,1 +1,0 @@
-I'm using CSS3 for the first time, but using specific styles with prefix for each browser looks strange. The need of using `-moz-`, `-o-`, `-webkit-` and another prefix turns the CSS bigger and harder to maintain. I want to know if the browsers are implementing some standardization to avoid the usage of prefix for styles.

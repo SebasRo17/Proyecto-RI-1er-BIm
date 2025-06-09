@@ -1,1 +1,0 @@
-using petapoco micro orm indeed easy secure work database using orm tool thing hate extra used put database use rdbms feature like stored procedure trigger etc built handle better want know use orm stored procedure trigger vice versa

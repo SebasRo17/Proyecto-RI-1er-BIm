@@ -1,1 +1,0 @@
-If two Scrum teams use the same software component, who is responsible for providing a clear architectural vision of that component and maintain/develop this vision as the code base evolves? In Scrum you are supposed to have a collective code ownership, so how to make sure that development done by Team A doesn't interfere with development done by Team B?

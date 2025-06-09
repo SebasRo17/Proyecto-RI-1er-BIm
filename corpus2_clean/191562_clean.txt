@@ -1,1 +1,0 @@
-written server client program using num thread one recieve continously send user writes screen problem created thread execution control get stuck recieving thread infinite recieve never go sending thread please tell solution problem

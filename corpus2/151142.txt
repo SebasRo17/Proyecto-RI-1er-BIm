@@ -1,1 +1,0 @@
-I find that most of the design patterns are concerned with implementation of a model like mvc, or how to change the implementation with less cost. These are all happened in the implementation phase of a software. So why not call them implementation patterns?

@@ -1,1 +1,0 @@
-Sometimes people use the phrase "Polymorphic method/function". Does it mean:   1. A method that takes a Polymorphic type as a parameter, and performs some operation on it. By "Polymorphic type" I mean a super-type with multiple sub-types.   2. An abstract or virtual method in a super-type, with multiple sub-types that implement/override the method differently.

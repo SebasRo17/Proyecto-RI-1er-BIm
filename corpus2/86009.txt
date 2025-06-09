@@ -1,1 +1,0 @@
-Given an iPad, iPhone, Playbook, or other mobile device, what SCM tasks make sense on these devices. Code review? Change propagation between branches? Automated build results after check in? What else? Code generation? Debugging? Code editing in the cloud? Or do you think all SCM tasks will always be performed on a desktop computer?

@@ -1,0 +1,1 @@
+I want to check if a number has an even or odd number of digits. `10` would be even because it has 2 digits `300` would be odd because it has 3 digits `986786` would be even, because it has 6 digits Seems like I would be dividing it by a power of 10, is that right?

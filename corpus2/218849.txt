@@ -1,1 +1,0 @@
-I had this crazy initialisation -- `documentList = new ArrayList<Map<String,Integer>>();` which I intended to store a new map everytime in a loop but unfortunately put itself inside the loop. And you know the havoc. How do you detect such mistakes? I might be looking for suggestions on 'recommended debugging techniques' but am also looking for more expert advice

@@ -1,0 +1,1 @@
+How to write output to an external text file in addition to the standard output stream, i.e. a notebook for a session with FE and stdout for command- line session?

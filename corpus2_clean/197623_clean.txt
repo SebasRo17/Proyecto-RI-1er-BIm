@@ -1,1 +1,0 @@
-trying find way classifying different type php function example fopen fwrite fclose part io mysql function mysqli mysql related thing something automatic wondering sort mapping php

@@ -1,1 +1,0 @@
-Can PHP/mySQL handle 1,000,000 unique users onlinie at the same time? Or should we use a more powerful system like Zend? Or does it depend more on the web hosting systems like load balancing, etc?

@@ -1,1 +1,0 @@
-I have searched around for a way to run a program meant for ARM processors on an Intel computer, but I can only find ways to do the reverse, to compile Intel programs for ARM. Are there any open-source cross-compilers that will allow me to do so? Thanks for your help.

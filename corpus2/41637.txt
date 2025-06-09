@@ -1,0 +1,1 @@
+Mathematica 9 starts automatically with 2 MathKernels which in itself is ok but they also count as 2 licenses and that is definitely not OK. It halves our available concurrent network licenses. Is there an option to prevent this ? Ben Polman

@@ -1,1 +1,0 @@
-I suspect there're programs that instead of emitting machine code instead emit C++ code and then start a mainstream C++ compiler to compile it to machine code. I can't find any notable examples except MIDL which emits some rather primitive code. What are notable examples of such systems?

@@ -1,1 +1,0 @@
-since programmer learn implementing real world scenario rather gaining theoretical knowledge concept programming wanted know website tell real world scenario oop learner practice designing skill implement scenario using c like help making designing decision problem e g scenario one use abstract class interface virtual overriding etc

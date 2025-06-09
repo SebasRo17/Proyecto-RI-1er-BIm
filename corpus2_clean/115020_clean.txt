@@ -1,1 +1,0 @@
-gof design pattern book rarely mention test ability pattern aware pattern singleton would lead difficult write unit test strategy help tdd pattern promote tdd hinder tdd

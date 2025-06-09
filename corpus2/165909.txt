@@ -1,1 +1,0 @@
-I'm programming a Javascript application which saves "documents" in localStorage. As the app evolves, naturally there are changes in the document format. I've tried searching but not found anything – probably (at least partly) because of search term ambiguities. What is a good practice in managing document format versions/upgrades with local storage implementation approach?

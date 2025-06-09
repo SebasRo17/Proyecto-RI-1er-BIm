@@ -1,1 +1,0 @@
-I recently downloaded some large code bases and have had light reads through them, but what can I gain from this? How can I be sure what the author is doing is the right way to go about things? (One of the the code bases was the Zeus Trojan source code ;D)

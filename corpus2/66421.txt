@@ -1,1 +1,0 @@
-I have an interview coming up for a company operating in the financial markets. Other than generic skills like OOD, refactoring, testing and so on, what are the core areas that a financial software developer specifically needs? I can think of some obvious ones like rounding modes, differences between floating point data types etc. What other areas should I be brushing up on?

@@ -1,1 +1,0 @@
-read question functional programmer tend use mathematical proof ensure program working correctly sound alot easier faster unit testing coming oop unit testing background never seen done explain give example

@@ -1,1 +1,0 @@
-nextint instance method random object feel method static method random purpose instantiate random generate random integer double value

@@ -1,1 +1,0 @@
-I'm making mandelbrot fractals in C using Xcode and I want to use parallel computing but everything I've tried so far doesn't work. Such as This Question and other how to guides. Whats the easiest way to use frameworks such as mpi.h to run my program in parallel?

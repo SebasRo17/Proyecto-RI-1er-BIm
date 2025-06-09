@@ -1,1 +1,0 @@
-When I write comments for auto generated documentation it can become irrelevant after a few changes of the method. Do we have any system to automatically check, prevent such situation and warn developer to update comment? Maybe some VCS hooks?

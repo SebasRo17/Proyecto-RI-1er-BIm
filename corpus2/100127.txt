@@ -1,1 +1,0 @@
-I have been studying Scala, but what I keep running into is the optimization of syntax. I'm sure that will be great when I am an expert, but until then.. Not so much. Is there a command or a program that that would add back in all/most of the code that was optimized away? Then I would be able to read the examples, for example.

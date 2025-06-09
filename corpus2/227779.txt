@@ -1,1 +1,0 @@
-It seems to me like pre-order traversal and DFS are same as in both the cases we traverse from root till the left branch and back to root and then to the right branch recursively. Could any please correct me if I am wrong? Thanks in advance!

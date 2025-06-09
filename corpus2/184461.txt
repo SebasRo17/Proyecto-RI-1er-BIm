@@ -1,1 +1,0 @@
-I recently had some code I wrote a year ago fail because someone linked my code to > http://code.jquery.com/jquery-latest.js In the latest version, jquery had deprecated/replaced a function. Nice to have a dynamically updated version but my code isn't going to change, it's going to break. Is there any reason to use jquery-latest?

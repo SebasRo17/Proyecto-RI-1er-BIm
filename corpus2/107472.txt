@@ -1,1 +1,0 @@
-I've been tasked with a solo project to investigate & resolve memory leaks in 8000 lines of Javascript code. I anticipate the project to take up to a month. Please recommend a development methodology I can use to structure my efforts. Prefer something light & easy to pickup and run with. Thanks

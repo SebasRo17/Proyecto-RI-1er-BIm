@@ -1,1 +1,0 @@
-Hey guys. Do you know any studies about the quantity of boiler plate code in different project types? I don't seem to find any actual numbers. I know this is subjective and relative to the language, project type and frameworks used, but there must be an actual study somewhere that covers at least a niche. Thanks!

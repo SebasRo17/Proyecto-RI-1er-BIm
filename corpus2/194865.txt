@@ -1,1 +1,0 @@
-Pretty straightforward, was wondering what the inspiration or precedent for the CSS 'float' concept. I'm not familiar with any other graphic APIs or other layout DSLs that use this concept, but it's such a huge part of HTML layouts. I'm curious if a previous language had a similar concept, or if 'floats' originated from the land of HTML/CSS. Thanks.

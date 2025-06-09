@@ -1,1 +1,0 @@
-Currently, Wikipedia Scrum Article defines "Sprint Backlog" as: > A prioritized list of tasks to be completed during the sprint. It is my understanding that the "Product Backlog" is a prioritized list but that the "Sprint Backlog" does not have an order. I am looking for a definitive reference for the answer.

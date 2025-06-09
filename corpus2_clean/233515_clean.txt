@@ -1,1 +1,0 @@
-c way besides header file use defined file cpp inside file b cpp would considered good programming practice

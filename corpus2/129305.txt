@@ -1,1 +1,0 @@
-Recently I was faced a question about whether a simple calculation should be put in the Entity layer, or should the Entity be pure for just storing the raw data and leave the calculation logics in the business layer. So my question is whether it is sensible to encapsulate simple calculations in the properties in an entity class?

@@ -1,1 +1,0 @@
-I'm doing a function point count for a large website. Does the main website menu count as an External Input? I'm doing a function point count as described in this article. If so, since you only click on one menu item at a time, I assume the number of DETs == 1?

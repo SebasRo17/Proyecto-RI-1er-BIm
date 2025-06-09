@@ -1,0 +1,1 @@
+I have a `DensityPlot` which is evaluated for a long time. I wish to use it with animation, but it is absolutely inapropriate. Is it possible to render animation first and then run it smoothly?

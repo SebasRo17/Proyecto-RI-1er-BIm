@@ -1,1 +1,0 @@
-I heard different interpretations of _sound and complete_. I understand that _completeness_ means finding a solution if there is one. What does it mean to say an algorithm is _sound_. What does it mean to say an algorithm is Sound and Complete?

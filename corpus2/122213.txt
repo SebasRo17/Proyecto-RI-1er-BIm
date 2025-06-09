@@ -1,1 +1,0 @@
-How does the traditional `if` statement compare with that of the _immediate if statement_ (IIF, the one usually written as `condition ? value_if_true : value_if_false`) in terms of speed of execution? Also, in what scenarios should we be ideally using the IIF?

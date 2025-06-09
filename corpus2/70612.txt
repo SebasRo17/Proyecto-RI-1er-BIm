@@ -1,1 +1,0 @@
-How was it decided that if you have an array/struct or anything similiar in a programming language it should be zero-based? Wouldn't it have been easier if it was 1-based. Afer all, when we are taught to count, we start with one.

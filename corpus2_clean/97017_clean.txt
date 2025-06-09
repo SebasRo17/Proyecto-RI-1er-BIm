@@ -1,1 +1,0 @@
-work team developing web site large number page qa guy team currently run test manually thinking create bunch selenium script think automate test could automate many programming background hard create manage batch selenium script issue need help

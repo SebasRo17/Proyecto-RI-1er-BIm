@@ -1,1 +1,0 @@
-Let's say that in the game, a player has a pet: Player<>------Pet Obviously player can access Pet's fields and methods, but I assume Pet does not know about the player? I need that Pet can access the player as well, how should I model that?

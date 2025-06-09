@@ -1,1 +1,0 @@
-I am writing python, but I find that the I can put all the script files on the directory, but it seems very messy. So, is there any conventions in the community to deal with the script files? Thanks.

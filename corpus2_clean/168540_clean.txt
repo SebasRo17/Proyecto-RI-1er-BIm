@@ -1,1 +1,0 @@
-always use system println work pretty well case use eclipse debugger never use little bug symbol still ab bit mysterious case debugger help solve println

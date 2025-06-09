@@ -1,1 +1,0 @@
-query regarding big endian little endian basically conversion used reverse byte order memory need conversion need convert every type

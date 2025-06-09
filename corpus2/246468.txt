@@ -1,1 +1,0 @@
-One of the things I like about the new Apple language Swift is that it combines procedural programming with algebraic data types. What other languages do this?

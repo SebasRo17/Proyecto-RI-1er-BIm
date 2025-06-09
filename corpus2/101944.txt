@@ -1,1 +1,0 @@
-I currently have an open source project that is licensed under GPLv3. I'd like to dual license it, so I can offer it for commercial use. Are there any resources for choosing or creating a commercial software license?

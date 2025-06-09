@@ -1,1 +1,0 @@
-I wonder why frameworks/libraries have their own helpers although they exist natively already. Let's take jQuery and AngularJS. They have their own `each` iterator functions:   * jQuery.each()   * angular.forEach() But we have `Array.prototype.forEach`. Similarly,   * jQuery.parseJSON()   * angular.fromJson() But we have the `JSON.parse()` function in vanilla JavaScript.

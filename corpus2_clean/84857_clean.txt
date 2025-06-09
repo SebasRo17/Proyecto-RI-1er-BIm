@@ -1,1 +1,0 @@
-running pex showing good thing well bad thing showing get production however one nice thing pex necessarily stop trying find issue one area found passing checking empty string changed inputstring isnullorempty inputstring fixed initial issue ran pex decided inputstring num causing problem inputstring decided default used encounter happy seeing exception caused odd dealing enough

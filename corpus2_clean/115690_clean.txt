@@ -1,1 +1,0 @@
-studying class android realized variable method declared final example taken android widget listview whether list need show top fading edge private boolean final top num num gettop whether list need show bottom fading edge private boolean final final num final num final getheight bottom num intention using final keyword case

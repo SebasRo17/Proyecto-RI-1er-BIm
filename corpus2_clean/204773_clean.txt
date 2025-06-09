@@ -1,1 +1,0 @@
-jvm support many language like groovy clojure scala etc functional language unlike referring version 8 lambda supported support functional capability high level make jvm versatile support oriented well functional language

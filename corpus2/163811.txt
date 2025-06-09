@@ -1,1 +1,0 @@
-In common life we use text for programming. But why not gestures or voice? **Are there any researches around this topic?**

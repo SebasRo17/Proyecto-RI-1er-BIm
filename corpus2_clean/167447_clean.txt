@@ -1,1 +1,0 @@
-trying install ubuntu server macbook however cd drive working guide seen far use bootcamp process window achieve currently window partition machine installed cd drive ok going remove possible boot using usb drive mac bootloader using want remove window partition find need cd would also prefer separate partition opposed sort vm setup

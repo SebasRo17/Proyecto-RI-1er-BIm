@@ -1,0 +1,1 @@
+Let us say that I have a Notebook in the Wolfram Programming Cloud called `foo.nb`. If I try `CloudGet["foo.nb"]`, what I get back is a CloudObject (or the link to it), which in any case does not allow me to download the notebook itself. Is there a way/function/trick to obtain a link to download `foo.nb` to the Desktop?

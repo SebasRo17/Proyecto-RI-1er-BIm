@@ -1,1 +1,0 @@
-I am preparing for a programming contest where we have to code in C++ and it is all about producing working code in a short time. An example would be to use a macro to get the minimum of two ints or using memsets to initialize arrays (but I was told that you shouldn't use either here). This leads to the question, what kind of coding techniques exist to use at a real job?

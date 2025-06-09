@@ -1,1 +1,0 @@
-Can someone provide me with a canonical answer on the differences between an `Observer` and a `Mediator`, and a summary of when you should use one pattern over the other? I am unsure of what kind of situation would require an `Observer` and what kind would require a `Mediator`

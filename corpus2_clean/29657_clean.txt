@@ -1,1 +1,0 @@
-came across something like open source project method modify instance attribute reference instance would trust written like foo def init self self num def bar self self num self

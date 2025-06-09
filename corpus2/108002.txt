@@ -1,1 +1,0 @@
-If I buy a symbian(S60, nokia E51) mobile, and I want to write a program to control the PC(launch programs, control mouse/keyboard):   1. Is it possible to make a mobile app and a windows app which communicates via WiFi, or its easier/faster via bluetooth?   2. Which framework should I choose? (symbian/java)   3. (other info that I might need)

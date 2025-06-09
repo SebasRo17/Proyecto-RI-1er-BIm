@@ -1,0 +1,1 @@
+Given an expression in `x`, `y`, `z` (for example), and a list with three elements, like `{1,2,3}`, how can I do the equivalent of `expr/.{x->1,y->2,z->3}`? So for example suppose               a = {1,2,3}     x^2+y^2+z^2 /.{x->1,y->2,z->3}      but obviously `x^2+y^2+z^2/.{x,y,z}->a` does not work.

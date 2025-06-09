@@ -1,0 +1,1 @@
+When I export the following `Graphics` expression as a _PDF_ (or _EPS_ ) file, the _Turkish_ characters _ü_ and _ç_ do not appear.               Graphics[Text[Style["Türkçe", 72, Background -> White], {0, 0}]]       Is it possible to fix this? Here is how it looks in _PDF_ file.   ![1](http://s2.postimage.org/qyd9be995/turkce.jpg)

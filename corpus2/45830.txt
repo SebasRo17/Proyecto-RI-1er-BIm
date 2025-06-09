@@ -1,0 +1,1 @@
+I am coloring several countries in the manner of the following:               myc[name_] := If[name == "UnitedStates", Red, Lighter[Gray]]      Graphics[{myc[#], CountryData[#, {"FullPolygon", "WinkelTripel"}]} & /@ CountryData[]]       How can I add country borders and longitude-latitude grid, as we could do with WorldPlot?

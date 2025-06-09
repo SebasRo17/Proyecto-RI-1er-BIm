@@ -1,1 +1,0 @@
-Recently I was looking at python's `shutil` and `subprocess` etc... And I started wondering: wouldn't it be ok to use python instead of e.g. bash? What am I missing?

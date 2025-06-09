@@ -1,1 +1,0 @@
-I have a table which has the amount,entrydate and amtperday field , which is to decrease daily. so what is better running the cron job daily to decrease amount. or or at the time of fetching data calculate the amount perday with the date field , i can get the no. of day > amount = amount- no.of day * amtperday so which is good Please suggest ?

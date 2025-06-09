@@ -1,1 +1,0 @@
-I am a computer science student and I'm thinking of getting a new laptop. Is Macbook C++ programmer friendly? Does OSX have enough tools as in Linux for programming. Does working on a macbook hinter my growth as a C++ programmer. EDIT: I mainly use gedit, gdb, g++, meld, ddd (gdb front end), valgrind etc in Ubuntu Does OSX have equivalent softwares.

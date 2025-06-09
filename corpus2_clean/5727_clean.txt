@@ -1,1 +1,0 @@
-especially writing standard non hpc application consider sorting algorithm pick settle quicksort library call sort extent may profitable specific situation hand proper optimization requires time analyse problem make benchmark

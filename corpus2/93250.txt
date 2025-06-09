@@ -1,1 +1,0 @@
-During my career as a programmer I've seen various programmers and testers, and many of them didn't/don't like each other. I mean, programmers think that the job of a tester is not a "real" job, and testers think that programmers are too "proud". Is this the right decision made by me, why is it, and what can we do to avoid these kind problems?

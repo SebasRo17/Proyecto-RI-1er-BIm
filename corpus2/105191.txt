@@ -1,1 +1,0 @@
-Is it appropriate to store the image files in the database? Or it would be better to store only the path of the file in the database, while keeping the file itself on the server? Are there any other methods for doing this right?

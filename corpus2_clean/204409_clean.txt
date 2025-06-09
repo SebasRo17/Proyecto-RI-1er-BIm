@@ -1,1 +1,0 @@
-asked question interview eg uitableviewdelegate protocol make delegate protocol uitableview call directly

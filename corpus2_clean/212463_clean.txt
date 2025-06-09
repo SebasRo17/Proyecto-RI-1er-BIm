@@ -1,1 +1,0 @@
-doctrine offer three way define mapping property xml yaml inline docblock annotation doctrine documentation give advice choosing among specifically wondering generally accepted best practice regard keeping mapping metadata orm system file object defined versus keeping separate file

@@ -1,1 +1,0 @@
-assume developing functionality num sure implementation stay alone position would probably use interface right keep thing simple easy refactor extract interface later c refactoring always easy may require replacing value smart pointer introduction polymorphism non trivial task hand much like idea introducing virtual call num sure needed speed one reason prefer c simpler language

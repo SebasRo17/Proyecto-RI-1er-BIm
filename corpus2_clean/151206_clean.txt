@@ -1,1 +1,0 @@
-javabeans specification describes javabean bean reusable software component manipulated visually builder tool since majority line written seem nothing manipulated visually builder tool javabean specification way write oriented would like forgo traditional getter setter favor fluent interface throughout builder fear since traditionally way way oriented written

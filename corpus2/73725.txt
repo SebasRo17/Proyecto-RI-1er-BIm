@@ -1,1 +1,0 @@
-I've been wondering to myself, what uses does IronPython have in a .NET environment? what can it do that can't be done with VB, C# or F#? It seems kind of strange to go through all the trouble of making the DLR and enabling dynamic languages on the clr just to add another language.   What do people use IronPython for?

@@ -1,1 +1,0 @@
-I want to create a static HTML file I can email to someone with a lot of data, and have that data sortable and filterable. What is the easiest to use library or package I can use to get this off the ground?

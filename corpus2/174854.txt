@@ -1,1 +1,0 @@
-I'm working on a rails app, and in rails `queue` is a reserved word. I need to make a Queue model for my app, and I'm stuck because I don't know what else to call it. Has anyone else run into this before, and if so what did you call your Queue that can't be called a Queue?

@@ -1,1 +1,0 @@
-I am making a presentation that shows the differences between structural and object oriented programming and I want to illustrate **why** people need OOP with an example where applying OOP concepts will make coding much easier so that the audience really feel that they need OOP . Any Ideas ??

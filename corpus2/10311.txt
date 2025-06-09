@@ -1,1 +1,0 @@
-If you have several million lines of Delphi code and want to incrementally migrate to .NET/C#, what strategy would you use?

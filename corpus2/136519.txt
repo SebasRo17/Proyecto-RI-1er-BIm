@@ -1,1 +1,0 @@
-While I learning C#, I found that, the C# supports operator overloading. I have problem with good example which:   1. Make sense (ex. adding class named sheep and cow)   2. Is not an example of concatenation of two strings Examples from Base Class Library are welcome.

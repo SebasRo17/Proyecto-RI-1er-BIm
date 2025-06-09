@@ -1,1 +1,0 @@
-I'm doing a PHP application with CodeIgniter and most of my controllers accept record ids as parameters for retrieving purposes. I also pass record ids in my forms action. Like this: www.sample.com/records/save/sFKu=4 Is this the right way to do this? Note that the record ids are encrypted.

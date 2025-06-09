@@ -1,1 +1,0 @@
-> In a sense, 10! (ten factorial) represents an approximate dividing line > between things which are practical to compute and things which are not. This is from Knuth's TAOCP Fundamental Algorithms book (1973). Is this still a valid statement or has computing power rendered it obsolete ?

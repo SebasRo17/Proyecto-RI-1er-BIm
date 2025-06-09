@@ -1,1 +1,0 @@
-c guy forced think multiple inheritance possible c c know diamond problem asking c resolve ambiguity identical signature inherited multiple base class design incorporated c

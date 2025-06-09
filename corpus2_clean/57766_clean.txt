@@ -1,1 +1,0 @@
-primarily c programmer gained recent interest functional language thinking picking lisp dialect clojure working tutorial whatnot noticed beyond syntax difference feel learning fundamentally different way solving problem advantage learning clojure way write program

@@ -1,1 +1,0 @@
-In JSF is it ok to bind UI components to backing bean just to render messages or we should only bind when we need to do lot more than just rendering messages?

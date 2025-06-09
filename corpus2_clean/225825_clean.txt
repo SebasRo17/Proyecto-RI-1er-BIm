@@ -1,1 +1,0 @@
-working 300k c c window application spread across num different eclipse project approximately one third qt interface one third dlls one third static library complained project manager cumbersome work many different project one single piece software example change one thing static library probably recompile least num project right complain similar project managed reference done

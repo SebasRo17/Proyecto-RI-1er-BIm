@@ -1,1 +1,0 @@
-"bloom filter allows us to store data in constant space" Can someone explain what exactly does that sentence means?

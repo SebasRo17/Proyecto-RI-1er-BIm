@@ -1,1 +1,0 @@
-Recently started Android programming. Developed 3 apps using threads, UI API, telephony API. My quesion is if someone says Android message API what it related to? What classes it consists in? "Actually I have seen this in an Android job post" Thanks

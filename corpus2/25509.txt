@@ -1,1 +1,0 @@
-I've noted that IDE support is nowhere near as good, but the language itself supports functional programming idioms much more cleanly.

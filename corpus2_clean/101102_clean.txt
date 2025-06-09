@@ -1,1 +1,0 @@
-solid includes liskov substitution notion object program replaceable instance subtypes without altering correctness program since static class static method bit like math instance system considered solid static class static method

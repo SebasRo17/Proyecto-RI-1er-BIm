@@ -1,1 +1,0 @@
-possible application request socket tcp set source address without using raw socket address would bound interface spoofing would tcp client connection bind ing specified address

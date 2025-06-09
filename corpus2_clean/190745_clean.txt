@@ -1,1 +1,0 @@
-trying understand shell looking implement one want look done past regular shell feature like alias relative path strong syntactic convention like flag ipython community added load nice feature shell tiny bit new syntax project demonstrate innovative feature novel use syntax could useful designing shell language example answer given forth rebol perfect

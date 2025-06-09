@@ -1,0 +1,1 @@
+Can the Element[] function only be used for the domains given in the documentation? I am trying to use it to determine if a value is contained in a previously defined list. Thanks!

@@ -1,1 +1,0 @@
-know jenkins focused continous building testing monitoring batch job project legacy project condition num development team num svn source management num cronjobs operation num compile build take much time complex dependency num automated test junit class like ask experienced user jenkins still worth use jenkins central build management project

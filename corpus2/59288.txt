@@ -1,1 +1,0 @@
-If I read through the source code of programs in the similar field of application like the one I am working on (e.g.: 3D car racing simulation), and find some techniques or patterns they use better than the ones I am using, and use those in my project - is it theft? (No source code would be directly copied in any way.)

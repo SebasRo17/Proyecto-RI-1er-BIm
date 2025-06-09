@@ -1,1 +1,0 @@
-Given a SPA-based web site (with a client developed using any JS MVC framework and the server providing a REST API), does anyone have any experience in outsourcing the development of the client side and parallel development of the server-side? What were the problems you encountered? Was it really beneficial?

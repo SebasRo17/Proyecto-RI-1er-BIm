@@ -1,1 +1,0 @@
-I need to write documentation for several projects I worked on. I was wondering what, according to your experience, makes documentation useful and complete. What part should I include, how deep should I go in my explanation, etc? My target audience is developers. The purpose of the documentation is to make it easy to update or finish projects.

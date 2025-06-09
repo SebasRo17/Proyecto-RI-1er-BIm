@@ -1,1 +1,0 @@
-Everybody nowadays does SOA, even if some don't actually understand what is all about. So they do it wrong. Using that as an analogy I know what REST is (or at least I think I do) and want to do some of it. **But I want to do it right.** So my question is what's the proper way to do REST? I'm open to any resource, the path to follow, a REST bible book or something.

@@ -1,1 +1,0 @@
-I am currently studying computer science and was wondering how strict coding styles are in industry, how much it differs between industries and if it is true that a stricter coding style is always better?

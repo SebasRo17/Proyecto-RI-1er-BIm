@@ -1,1 +1,0 @@
-I am using a ternary operator in super () method of my code. While the code went for review, I got a reply that > Strictly don’t use ternary operators in the Super() calls. Is there any problem if we use ternary operators in the super() method?

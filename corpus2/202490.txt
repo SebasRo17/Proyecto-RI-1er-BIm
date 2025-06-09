@@ -1,1 +1,0 @@
-Except the garbage collector, what are some other features in Java that make it unsuitable for real time programming? On the net, whenever Java vs C++ is discussed with regards to real time programming, it is always the garbage collector that is mentioned. Is there anything else?

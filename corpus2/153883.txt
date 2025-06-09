@@ -1,1 +1,0 @@
-I'm learning how to build parsers using grammars, but I got stuck trying to express comments, because they can appear almost anywhere. This indicates that comments can be stripped from the token stream before parsing takes place. Is that the standard practice, or are comments ever/often specified in grammars?

@@ -1,1 +1,0 @@
-possible convert list directly byte vice versa gain performance avoiding serialization de serialization mind list somewhere memory heap could read byte heap list could assign byte program possible yes would get back original list byte without de serializing using binaryformatter

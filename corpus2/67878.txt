@@ -1,1 +1,0 @@
-I'm going to start a little open source project with some friends from all over the world. As I know that one of most important things in open source projects is to help users use the project itself, I want to make some wiki/tutorials/whatever in different languages. What are best tools or way to think/act in general for managing translations? Can you give me some advice?

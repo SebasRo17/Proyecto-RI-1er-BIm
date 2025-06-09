@@ -1,1 +1,0 @@
-I started learning WF 3.0 back a few years ago and never quite got the hang of it. Has anyone learned WF 4.0 (now that it has been rewritten)? Is it a viable platform worth considering? What alternatives exist?

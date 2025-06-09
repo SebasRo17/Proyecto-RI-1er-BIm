@@ -1,1 +1,0 @@
-writing admin panel cakephp got question panel functionality add item website image specifically wondering put functionality add edit view delete admin controller make different controller admin panel likely extended feature adding new user modifying etc recommend

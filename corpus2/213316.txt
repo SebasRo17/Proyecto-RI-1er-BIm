@@ -1,1 +1,0 @@
-I was looking at wikipedia - Category:XML-based programming languages. Why would someone take this approach for designing a language?   What are the advantages of it? I can only think of disadvantages.   * hard to maintain   * hard to read   * hard to write

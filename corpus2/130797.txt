@@ -1,1 +1,0 @@
-Every release, our trail of bugs keeps on increasing. These are valid bugs however, we also have to write new features to stay in the competition. Also, those features will be more used than the bugfixes; and provide better ROI. How are other engineers and product owners handling this situation?

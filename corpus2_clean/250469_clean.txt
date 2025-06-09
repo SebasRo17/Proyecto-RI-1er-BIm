@@ -1,1 +1,0 @@
-haskell functor typeclass functor defined follows see e g haskell wiki functor f fmap b f f b far understand please correct wrong functor target category category constructed using constructor e g maybe etc hand one may think functors category target functor e g category haskell type example could target category functor maybe motivation restriction haskell functors

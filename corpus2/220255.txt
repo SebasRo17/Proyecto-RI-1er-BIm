@@ -1,1 +1,0 @@
-Can IndexedDB be used in offline hybrid android apps? I have tried the [example presented in this post,1 while it is working in my laptopn on Google Chrome, it is not working inside the WebView in my android app. The HTML part of the app is loading fine inside the webview but the javaScript part containing all Indexeddb stuff is not getting executed at all. What's wrong?

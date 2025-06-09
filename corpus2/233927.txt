@@ -1,1 +1,0 @@
-I can see two ways to fill an empty file with data:               $ run_program arg1 > data_file      or, specifically write code that manages a file and write to it? ie. a file stream? **Which is better to implement?**

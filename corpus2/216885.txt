@@ -1,1 +1,0 @@
-Is there a Convention or common way for using super class functions and members? For example the super class has the function `protected void Foo()` and `protected int myInt;` In subclass would I want to refer to those simply as the `Foo()` and `myInt` or as `super.foo()` and `super.myInt` . Or some other way.

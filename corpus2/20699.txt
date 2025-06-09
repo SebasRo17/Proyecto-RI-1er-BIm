@@ -1,0 +1,1 @@
+I've already written code that generates about 20 notebooks using "CreateDocument" and I was wondering if there exists a method to automatically save them. Is there an easy way to create a notebook and save it programatically, i.e. without manually saving the notebook?

@@ -1,1 +1,0 @@
-I heard that Apple is going to replace the GNU compiler built into Xcode with a new compiler. What is the new compiler and what type of changes can we expect to see?

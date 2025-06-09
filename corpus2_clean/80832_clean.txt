@@ -1,1 +1,0 @@
-playing around mvc3 correct wrong based example seen suggested pretty much page every model action controller example create pretty basic management portal database model usermodel action etc page createuser aspx cshtml deleteuser aspx cshtml aspx cshtml createrole aspx cshtml deleterole aspx cshtml aspx cshtml aspx cshtml aspx cshtml aspx cshtml aspx cshtml aspx cshtml

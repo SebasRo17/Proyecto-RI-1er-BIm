@@ -1,1 +1,0 @@
-Is there a difference between _stability_ and _reliability_ (at least in software engineering context) or can they be used interchangeably? If not, what would be some examples of reliable but not necessarily stable systems, and vice versa?

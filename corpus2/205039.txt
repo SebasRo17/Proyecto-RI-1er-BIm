@@ -1,1 +1,0 @@
-I'm using a BSD-2 Licence code in my project and with author permission, I modify the code. Now, I am using this code in my project. I know, I should mention Author's name and copyright information. Should, I mention What I modify in this code??

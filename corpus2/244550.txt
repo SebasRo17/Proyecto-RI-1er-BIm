@@ -1,1 +1,0 @@
-I want to create dynamic professional websites. I have finished learning HTML and CSS, but as I understand, those two technologies allow to create static websites only. I heard about PHP and JavaScript as something which enables to create dynamic websites. Is that true? What is the difference between both? Are there other languages?

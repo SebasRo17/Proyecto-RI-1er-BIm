@@ -1,1 +1,0 @@
-are monads, or more specifically f# computational expressions, a form of aspect oriented programming? Update: f# workflow builders have methods other than bind and unit. They have hooks for lots of keywords. see Creating a New Type of Computation Expression.

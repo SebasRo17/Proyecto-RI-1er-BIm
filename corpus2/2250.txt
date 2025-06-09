@@ -1,0 +1,1 @@
+How do you define the domain of a plot? For instance, if I want to plot a standardized bivariate normal density function (with $r=0$), how do I specify the domain to be $[-3,3]$?

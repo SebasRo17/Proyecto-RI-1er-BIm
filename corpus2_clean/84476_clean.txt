@@ -1,1 +1,0 @@
-ajax need use server side language php asp net access database sort web service tied language ajax able communicate directly database

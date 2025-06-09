@@ -1,1 +1,0 @@
-This came up in a discussion with a friend, and I found myself hard-pressed to think up an any good arguments. What benefits do weak typing confer?

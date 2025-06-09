@@ -1,1 +1,0 @@
-I recently came across a weird piece of code               if(foo == bar){      function foo_bar(){        // Function definition      }     }      Is this a good practice of coding ?

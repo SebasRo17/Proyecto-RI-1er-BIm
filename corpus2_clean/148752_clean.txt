@@ -1,1 +1,0 @@
-last week started making daily backup relatively small 300mb site backup zipped less space quickly add especially site get bigger thinking unzipping latest backup using mercurial add update file newer backup drawback better way

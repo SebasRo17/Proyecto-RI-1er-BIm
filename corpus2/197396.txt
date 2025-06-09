@@ -1,1 +1,0 @@
-So as a general rule to avoid a stack overflow, big objects should be allocated to the heap (correct me if I am wrong). But, since the heap and the stack expand towards each other, wouldn't this cause heap overflow or alternatively limit the space for the stack and higher the chances of stack overflow?

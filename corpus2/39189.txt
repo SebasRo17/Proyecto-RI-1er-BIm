@@ -1,0 +1,1 @@
+I have a matrix and I want to pick the elements that are the same and return their positions and their values. It seems easy to me, but all I know is how to pick elements that satisfy certain conditions, but not in relation to other elements.

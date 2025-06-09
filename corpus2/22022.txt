@@ -1,0 +1,1 @@
+How can I evaluate my code, up to some point? I don't want to evaluate all of my code always. I have to use `Shift` \- `Enter` for every line from the first cell up to the point I want to be, and it's not easy when you have a lot of code.

@@ -1,1 +1,0 @@
-After reading this description of the infamous heartbleed bug, and how the OpenSSL team is relatively small and lightly funded, I'm wondering: would this bug have been uncovered by coverity, valgrind or other tools?

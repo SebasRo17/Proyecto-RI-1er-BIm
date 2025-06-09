@@ -1,1 +1,0 @@
-I'm watching a video on C# about Variables. The author declares a variable inside a method and he named it like this: string MyName ="James"; my question is: which convention is recommended by .Net Framework. Is it Pascal casing as in the above example or is it camel case?

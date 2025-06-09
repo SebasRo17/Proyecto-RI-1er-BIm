@@ -1,1 +1,0 @@
-spent hour debugging forgot actually never considered textview gettext return charsequence may fact mutable immutable instead mean imagine situation want share state text field least default something objectively called design mistake library

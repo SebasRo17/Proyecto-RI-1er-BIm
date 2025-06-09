@@ -1,0 +1,1 @@
+I have something like               FindRoot[f[x], {x, a}]      Now I want `FindRoot` to constrain the solutions to 0 < x < 1\. How can I obtain this?

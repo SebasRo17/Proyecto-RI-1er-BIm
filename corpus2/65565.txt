@@ -1,1 +1,0 @@
-Are frameworks really necessary in PHP? What are the advantages and disadvantages of using one?

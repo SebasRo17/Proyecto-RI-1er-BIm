@@ -1,1 +1,0 @@
-writing javascript unit test put test see two potential approach num leave test regular web project explictly release production num maintain separate project run test see pro con curious experienced javascript developer ended using

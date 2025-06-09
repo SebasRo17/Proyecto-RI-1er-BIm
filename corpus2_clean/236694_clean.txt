@@ -1,1 +1,0 @@
-specific reason driving file often large file may contain several class within one file file go 10k line length seems go idea modularity encapsulation also seem pythonic first place considering imo harder read follow

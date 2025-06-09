@@ -1,0 +1,1 @@
+Suppose if I have following list               {       {10,b,30},       {100,a,40},       {1000,b,10},       {1000,b,70},       {100,b,20},       {10,b,70}     }      How to find rows that have max value in 3rd column, in this case               {       {1000,b,70},       {10,b,70}     }

@@ -1,1 +1,0 @@
-When I've written tests for some code and want to make sure that it's actually testing what it's supposed to, I'll mess up or remove the code-under-test, and see if the tests fail. If they don't, I've got a problem. Is there a name for this technique? It's a real bother having to talk in sentences everytime I want to suggest to someone that they do it.

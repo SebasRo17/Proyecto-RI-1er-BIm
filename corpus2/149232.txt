@@ -1,1 +1,0 @@
-The company where I work is aiming to have a 10% maximum error margin.They expect analysts to not miss the estimate by more or less than 10%. I don't know what to think about it, since I got nothing to compare it to. What could be a good baseline to measure if we are estimating too wrong, for more or less? How much (in %) do you think is _okay_ to to miss?

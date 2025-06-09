@@ -1,1 +1,0 @@
-making mandelbrot fractal c using xcode want use parallel computing everything tried far work question guide whats easiest way use framework mpi h program parallel

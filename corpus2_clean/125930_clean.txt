@@ -1,1 +1,0 @@
-good practice separate handler database query different class separate containing necessary event handler would also another database query

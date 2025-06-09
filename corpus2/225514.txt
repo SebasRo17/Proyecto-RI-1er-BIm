@@ -1,1 +1,0 @@
-I saw many RoR developers use command line to interact with interfaces and to deploy their web applications. Is that necessary step to earn for asp.net developer?

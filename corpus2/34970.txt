@@ -1,1 +1,1 @@
-Title is the question. And why I am asking is because from what I read about most PHP frameworks (e.g. Code Igniter, Kohana, Cake, Zend) is that they're ether too complex, or are designed mostly for small applications (like blogs).
+With Mavericks, everything works fine except saving documents -- then I get this error: > Internal self test error MacDialog | c | 2 Fixes? Ideas? Any help appreciated.

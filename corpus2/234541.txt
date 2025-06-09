@@ -1,1 +1,0 @@
-So, I can code both, but which should I use a base for development? In terms of TDD, should minimal aspects in the GUI be used as the seed from which to grow towards backend logic? or should the backend give rise to the logic controlling the GUI?

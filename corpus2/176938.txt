@@ -1,1 +1,0 @@
-Assume I have 4 points (they are 2-dimension), which are different from each other, and I want to know whether they form a square. How to do it? (let the process be as simple as possible.)

@@ -1,0 +1,1 @@
+How is the default for the checkboxes created by `CheckboxBar` in a `Manipulate` set to be checked instead of unchecked? (The number of checkboxes may be variable.)

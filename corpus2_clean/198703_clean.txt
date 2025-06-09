@@ -1,1 +1,0 @@
-need implement algorithm find maximum flow minimum cut undirected graph cannot really find algorithm looked ford one used directed graph anyone help find appropriate algorithm

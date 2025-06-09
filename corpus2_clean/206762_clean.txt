@@ -1,1 +1,0 @@
-would one approach following question two string normal alphanumeric pattern pattern composed alphanumeric char plus want check first match pattern mean every alphanumeric permitted position allows sequence alphanumeric char

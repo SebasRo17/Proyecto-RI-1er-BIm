@@ -1,1 +1,0 @@
-We currently store points as three floats (lat,lon,alt) and support only one type of query (points within a given radius) but look forward to support more queries. We are using PHP and MySQL. What are the benefits of using geospatial types?

@@ -1,1 +1,0 @@
-around num template grow template around num num question question answer different format like text box list box dropdown radio button etc need show one template page time based getting would best design approach num put question database create dynamic control num putting xml display using xslt num creating static set template approach much time going use silverlight

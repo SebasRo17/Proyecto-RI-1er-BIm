@@ -1,1 +1,0 @@
-I have code to switch between databases when using EF, but now also need to allow the user to choose a particular table. (The tables all use the same schema but may have different names because of the way the client updates datasets). Is there a way to do this? And if it's done can it be done without being broken by updates being made to the Entity data model?

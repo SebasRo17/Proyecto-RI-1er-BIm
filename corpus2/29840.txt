@@ -1,0 +1,1 @@
+When I do:               Integrate [E^(-(t/\[Tau])) Cos[\[Omega] t], {t, 0, \[Infinity]}]      How could I get the solution in the form:               \[Tau]/(1 + \[Omega]^2*\[Tau]^2)

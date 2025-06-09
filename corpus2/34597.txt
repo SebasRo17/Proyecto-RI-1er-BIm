@@ -1,0 +1,1 @@
+I am trying to get _WolframAlpha_ to solve a recurrence and evaluate a result in one query. For example: If               f[6] == 0, f[0] == 1      f[i] == (1/2)*f[i+1] + (1/2)*f[i-1]      Then `f[3]` equals to .. ? It gives me an analytical result for `f`, but does not evaluate `f[3]`. How would I get it to evaluate `f[3]` on this same query ?

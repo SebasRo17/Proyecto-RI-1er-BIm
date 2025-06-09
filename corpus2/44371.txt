@@ -1,0 +1,1 @@
+I can't find what is the distribution corresponding to the default option in:               DistributionFitTest[data, Automatic, "HypothesisTestData"];      Is it N(0,1), uniform?

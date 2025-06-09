@@ -1,1 +1,0 @@
-I've seen tutorials and textbooks that teach conditional loops (while) first and I've seen others that teach iterative (for) loops first. Have there been any studies done as to which produces better results as far as student learning or is it a matter of personal taste?

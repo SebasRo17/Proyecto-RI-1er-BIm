@@ -1,1 +1,0 @@
-basically want develop address lookup part project using c use sql necessary large text file uk address postcode address need looked text file example soon user first letter postcode list postcode starting letter list narrow could guy please search fast list result efficient way guy know method technology pls advice

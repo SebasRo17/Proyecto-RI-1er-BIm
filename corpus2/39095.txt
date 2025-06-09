@@ -1,0 +1,1 @@
+I have a list of linear inequalities, and I want to get it into the form $A\ x \leq b$; i.e., find the matrix $A$ and the vector $b$. Is there any function in _Mathematica_ that can that can do this?

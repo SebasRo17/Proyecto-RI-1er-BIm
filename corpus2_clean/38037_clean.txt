@@ -1,1 +1,0 @@
-write client side javascript app little bit server interaction prevent people copying javascript file site

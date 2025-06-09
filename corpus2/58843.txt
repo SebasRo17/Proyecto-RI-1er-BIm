@@ -1,0 +1,1 @@
+I have some data.I plot the histogram with `SmoothHistogram` in _Mathematica_. If the y-axis of the histogram is my p(x) function, I want to plot f(x)=(1/n)ln(p(x)) with _Mathematica_. I don't know how?!               data = Import["Desktop/kmc final result.txt", "List"];     d = SmoothHistogram[data, Automatic, "PDF"];     time = 200;          f[x_] := -1/time Log[d, x]

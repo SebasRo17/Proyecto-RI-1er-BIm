@@ -1,0 +1,1 @@
+With `ColorProfileData[`] Mathematica 10 can handle device-dependent color spaces. However, images with embedded color profiles, e.g. sRGB, are rendered and displayed differently from Adobe Photoshop (which, of course, supports color management). Does MMA 10 supports ICC color profiles for rendering images?

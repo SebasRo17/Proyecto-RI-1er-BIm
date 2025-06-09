@@ -1,1 +1,0 @@
-okay learning sparql query seem find clear practical tutorial related sparql semantic web say ontology analogous sql table definition maybe specification member slapped

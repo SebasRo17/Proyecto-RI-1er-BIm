@@ -1,0 +1,1 @@
+Well, this is how the array looks like: ![enter image description here](http://i.stack.imgur.com/4QlF7.jpg) I came up with this code:               n = 10;     Nest[ArrayPad[#, 1, 1 - #[[1, 1]]] &, {{1}}, n] /. {1 -> "*"}      Any better ideas?

@@ -1,1 +1,0 @@
-program one thread creates work queue bunch worker pull occasionally cleanup work worker worker instance would one idea far foomanager maybe better one

@@ -1,1 +1,0 @@
-I'd like to build and sell/or free a software based on ffmpeg and some other mp3 library lgpl, So I know in U.s.a. there's a patent and royalty problem, But if I live in Europe I'd like to know if I can create software with mp3 encoder/decoder and mpeg decoder/encoder should I pay royalty? Or can someone (mp3/mpeg creator) put me in front a Court?

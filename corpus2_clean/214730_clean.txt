@@ -1,1 +1,0 @@
-wonder close unnecessary database connection inside php script aware fact database connection closed implicitly block stop executing manually closing connection could kinda bloat codebase unnecessary order make readable easy understandable possible also preventing several possible issue time also would would enough unset database

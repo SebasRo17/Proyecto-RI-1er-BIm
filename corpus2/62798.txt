@@ -1,1 +1,0 @@
-I have a specific requirement. Lets say we have 3 items and a user has selected all 3 items to buy. I need to lock the 3 items (meaning the other people who want to buy the same items cannot view it) for around 10 minutes. How do I implement this? I am developing a Java web app using Hibernate and struts.

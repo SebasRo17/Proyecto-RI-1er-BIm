@@ -1,1 +1,0 @@
-I have seen many organizations looking for developers who have good command over Facebook, Google and other API's. Now I am a bit confused about it. I have developed Facebook fanpages, embedded facebook buttons to websites and used google maps API too but the thing is that these API's are very large to completely master. How much exactly do a good command over an API mean?

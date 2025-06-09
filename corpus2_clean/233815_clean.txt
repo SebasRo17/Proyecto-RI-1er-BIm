@@ -1,1 +1,0 @@
-ignore style comparison diffs several format would like foo considered foo right use merge direct comparison getting lot positive change

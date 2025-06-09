@@ -1,1 +1,0 @@
-I'm developing a Driver Safety Monitoring System which is kind of small software which would be implemented inside a car with connections to few cameras. What I want to know is **to implement this software inside the vehicle what kind of computer can I use?**

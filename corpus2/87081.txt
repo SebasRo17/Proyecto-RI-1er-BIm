@@ -1,1 +1,0 @@
-What are some suitable criteria for evaluating a list of Companies complimentary middleware? I am doing a trade study on several Company's middleware implementations and so far I have came up with the following criteria:   1. Cost   2. Ease of Development/Ramp Up Time   3. Licensing   4. Support   5. Quality of Tools

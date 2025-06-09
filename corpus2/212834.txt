@@ -1,1 +1,0 @@
-User Story captures what the user wants to do with the system at a high level. I understand that the user story would further drive a number low level requirements. Is user story same as high level requirement for the system?

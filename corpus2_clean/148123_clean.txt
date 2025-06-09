@@ -1,1 +1,0 @@
-project sure many others need copy subset r2 one bitmap image r1 region r3 another destination region size stretching scaling necessary enter image description sure solved problem cannot find example straightforward algorithm performing operation linear interpolation would sufficient filling pixel source scaled upwards quickest computationally

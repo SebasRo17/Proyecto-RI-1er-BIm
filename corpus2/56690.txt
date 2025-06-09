@@ -1,1 +1,0 @@
-Aside from using IDEs such as MonoDevelop, what combination of tools do you use in Mono development to give you the same productivity boost that one would normally gain by using R# in VS2010? EDIT: I'm trying to kick the R# habit and switch to Mono development in Linux, but it's hard to kick the habit of using VS2010 + R#, and I need alternative tools to break that habit.

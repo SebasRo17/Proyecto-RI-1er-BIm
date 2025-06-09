@@ -1,1 +1,0 @@
-I have a function returning an Either such as GetUserFromDb(int id). If the database is offline, should I catch the error in the function and wrap it in a failure / Left case or should I let it bubble out as an exception as there is nothing I can do and it really is an exceptional situation?

@@ -1,1 +1,0 @@
-developing app allows user upload maximum num photo straight forward way course adding num column database table user uploads num image remaining column becomes redundant anyone advice efficient way design thanks

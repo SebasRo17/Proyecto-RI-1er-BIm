@@ -1,1 +1,0 @@
-Unobtrusive JavaScript avoids injecting inline JavaScript into HTML. This makes your HTML smaller and less cluttered, and makes it easier to swap out or customize JavaScript libraries http://www.asp.net/mvc/mvc3#BM_JavaScript_and_Ajax_Improvements what really is it ?( i am really trying to go deeper in the above article) can some one explain in simpler words

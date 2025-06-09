@@ -1,0 +1,1 @@
+I would like to use the Windows Task Scheduler, or Visual Cron, to start a _Mathematica_ notebook or .m file to do some system maintenance tasks: copy files from one place to another, etc. How do I set up the notebook/file so it will execute when started without asking any questions? I answered this question myself here.

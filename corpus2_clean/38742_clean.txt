@@ -1,1 +1,0 @@
-two algorithm share lot commonality one performs iterative procedure first iteration result course different one provides result well setup iterative process requires tolerance max number iteration irrelevant non iterative one unique internal ifs like iterative else implement two different class potentially put common accessible place shared think

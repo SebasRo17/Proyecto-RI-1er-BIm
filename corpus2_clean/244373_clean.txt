@@ -1,1 +1,0 @@
-learned program primarily oop standpoint like u sure spent lot time trying learn solve problem functional way good grasp solve problem fp come complicated problem always find reverting needing mutable object example writing particle simulator want particle object mutable position update inherently stateful problem typically solved using functional programming technique

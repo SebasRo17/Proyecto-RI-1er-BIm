@@ -1,0 +1,1 @@
+Do[Print[{x + y + z == 3, x + y > z}], {x, 1, 2, 1}, {y, 1, 2, 1}, {z, 1, 2, 1}]      If I run this syntax I get a series of Outputs, I am trying to Count only the number of outputs which is `{True,True}`

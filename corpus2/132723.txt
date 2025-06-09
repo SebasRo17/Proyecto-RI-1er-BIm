@@ -1,1 +1,0 @@
-I am looking to create a step by step introduction/wizard guide to help users create a job on my application. For example, they will told what to click, and will be asked what actions they would like to take next etc. Framework or library that aides this? What do you call this wizard/step-by- step workflow in software? Found something: http://code.google.com/p/cjwizard/

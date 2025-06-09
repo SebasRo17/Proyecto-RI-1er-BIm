@@ -1,1 +1,0 @@
-I've been looking around for some articles regarding to requirements analysis, but I'm a bit confused with the term, because based on Wikipedia requirements analysis is a stage of requirements engineering. But once you search more, many of the websites use them interchangeably as in they mean the same, can you please help me clarify this?

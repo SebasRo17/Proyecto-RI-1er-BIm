@@ -1,1 +1,0 @@
-I'm using Hibernate4.2 and Spring3.2 and I m doing transaction management using Spring without annotation (i.e. without `@Transactional`). How can I use Spring-transaction management without annotation and without any DaoSupport?

@@ -1,1 +1,0 @@
-readline used bufferedreader cause one disk per call yes way read specific number line say n text file causing one disk file bufferedreader br new bufferedreader new filereader file n num num n br readline something

@@ -1,1 +1,0 @@
-If you have to explain the concept of multi-threading to a seven year old kid how would you do it? I recently got this question in an interview. I came up with a story using jobs (the task to be done) and workers (the threads) but it was not entirely convincing (considering the kid is too young). If you were asked to describe this, how would you do it?

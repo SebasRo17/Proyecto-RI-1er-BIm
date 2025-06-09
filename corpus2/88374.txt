@@ -1,1 +1,0 @@
-What will happen to the portions of the Boost library that are incorporated into the new C++ standard? Will they continue to evolve and any changes be reincorporated into the standard which follows C++0x?

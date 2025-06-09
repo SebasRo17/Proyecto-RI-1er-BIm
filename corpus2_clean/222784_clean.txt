@@ -1,1 +1,0 @@
-using microsoft asp net web api num one end point internally invoke legacy non microsoft web service asmx svc layer invoke currently repository layer crud call db done domain manager respective manager class invoke repository layer method web api controller method invoke respective domain manager method another repository layer invokes web service follow usual pattern

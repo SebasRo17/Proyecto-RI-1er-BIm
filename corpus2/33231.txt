@@ -1,0 +1,1 @@
+How can I create a smooth histogram with a log-log scale? I can use `Histogram[data, "Log", "LogCount"]` to get a log-log histogram, or I can use `SmoothHistogram[data]` to get a smooth histogram, but is there a way to combine these two functionalities?

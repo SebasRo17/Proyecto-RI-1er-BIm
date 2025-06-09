@@ -1,1 +1,0 @@
-Looking at different collection constructors the question comes to mind. Why does ArrayList() construct an empty list with an initial capacity of ten and ArrayDeque() constructs an empty array deque with an initial capacity sufficient to hold 16 elements.

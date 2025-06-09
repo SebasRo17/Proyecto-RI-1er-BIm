@@ -1,1 +1,0 @@
-My goal is to include modules sources files into War file. I read this explanation on the maven official site: http://maven.apache.org/plugins/maven-assembly- plugin/examples/multimodule/module-source-inclusion-simple.html I wonder if it's the only way to include all sources files contained within all modules. Can't the simple maven-plugin-war do the same ?

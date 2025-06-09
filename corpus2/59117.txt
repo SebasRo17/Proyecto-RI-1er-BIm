@@ -1,0 +1,1 @@
+I´m trying to insert the typicall 3 variables for probability, with the restriction x+y+z=1 How can I insert this values in a Manbipulate I try               Manipulate[x*y*(1-x-y), {x, 0, 1 - y}, {y, 0, 1 - x} ]      but when I move x, y is moving without I want it.

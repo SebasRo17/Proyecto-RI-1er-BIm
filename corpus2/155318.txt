@@ -1,1 +1,0 @@
-I would like to know what storage concepts are used for mobile or handheld devices, where an app is operated on?. AFAIK one of them is SQlite. Can anyone shed a light on this concept? perhaps links and resources will be much useful to many of new developers. Thanks a ton.:) EDIT: My target would be Android and ios OS.

@@ -1,1 +1,0 @@
-I have an existing database app written in D7 with apollo databases. The client has given me a fast desktop with 24gb ram Can I somehow load the database files into ram to speed up processing? With millions of records some procedures take 1/2 hour or more, mostly due to disk read/write

@@ -1,1 +1,0 @@
-I found a bug on my XFCE and some other can't repeat the bug, namely http://askubuntu.com/questions/495947/a-logo-disappear-in-xubuntu . How should I report it to the developers if those can't repeat is as well?

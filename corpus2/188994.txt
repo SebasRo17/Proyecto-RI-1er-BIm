@@ -1,1 +1,0 @@
-I came across the analogy of the _class being a cookie cutter and the cookies being objects_ while reading Code Complete. I fail to see why this analogy was drawn.How is it related to the concept of objects being run time instances of their classes?

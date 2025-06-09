@@ -1,0 +1,1 @@
+I want to create the functions $even[f]$ and $odd[f]$ which will apply the formula $even[f(x)] = \frac{f(x)+f(-x)}{2}$ and $odd[f(x)]=\frac{f(x)-f(-x)}{2}$ for an arbitrary $f$. I tried using               even[ff, x_] := (ff[x] + ff[-x])/2      But that doesn't seem to work. What would the correct approach to this be?

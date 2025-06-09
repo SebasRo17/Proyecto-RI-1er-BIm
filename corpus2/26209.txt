@@ -1,0 +1,1 @@
+There is option to evaluate the complete notebook but I wanted to know if its possible to evaluate notebook from some desired cell to end or some other desired cell following?

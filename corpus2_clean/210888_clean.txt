@@ -1,1 +1,0 @@
-possible apply filter kafka stream topic want filter message consuming custom logic top sort thing storm trident allows u apply filter stream found far create trident topology filtering would great benefit filter stream reduce amount traffic consumer end know crazy could valid approach please correct wrong

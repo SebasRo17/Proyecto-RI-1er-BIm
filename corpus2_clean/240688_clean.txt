@@ -1,1 +1,0 @@
-set vba vbscript always need prefix statement set set dict createobject scripting dictionary set primitive omit set num num different language javascript php etc technical reason requirement vba vbscript

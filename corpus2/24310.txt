@@ -1,1 +1,0 @@
-Consider a drop down "Duration" which has 3 options               1. 30 days     2. 60 days     3. 90 days      and by default 30 days will be the selected value. Does it make sense to make this dropdown mandatory? Do we really need to put a ***** (Mandatory mark) for this field?

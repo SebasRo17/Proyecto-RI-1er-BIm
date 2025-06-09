@@ -1,0 +1,1 @@
+How to make Mathematica save a notebook with "input 1" and "output 1" on the left of cells? If I open a saved notebook, those tags are gone.

@@ -1,1 +1,0 @@
-Is there any specific language which is designed for mechatronics programming? I know about LabView, which is a data flow language, but not sure about its main platform. Could you recommend to me, some languages apart from c/c++? Any language which is used in the topic of mechatronics( robotics, sensor programming, etc ).

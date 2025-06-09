@@ -1,1 +1,0 @@
-At projects.eclipse.org Mylyn Build 1.1.0 is slated for June 2013. At www.eclipse.org/mylyn The "news" says Mylyn 3.8.3 was released on March 1st. Why is there little or no correlation between the two?

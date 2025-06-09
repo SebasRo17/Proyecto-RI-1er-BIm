@@ -1,1 +1,0 @@
-Let say that library "A" is published under GPL. Library "A" exposes some API functions for dynamic linking. I wrote a wrapper library "B" for usage of "A" in another language. Library "B" dynamically links to the library "A" (calls are made to the exposed API functions) . I would like to publish my "B" wrapper library under MPL v.2.0. The main question is... is this legal?

@@ -1,1 +1,0 @@
-planning website based mvc thinking webservice know maybe one day create android app something site webservice behave write different controller stuff ifs place example site controller act password correct redirect user welcome screen password incorrect render login page webservice simple show json like message wrong password sucess one think best approach

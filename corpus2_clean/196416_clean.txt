@@ -1,1 +1,0 @@
-consensus seems one follow convention platform developing see underscore camelcase naming convention camelcase versus underscore case however php seem strictly follow convention internally surprise even method function e g mysqli set local infile default however underscore seem dominant name however find dominant naming convention variable php

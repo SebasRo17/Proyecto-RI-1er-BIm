@@ -1,1 +1,0 @@
-working real time multiprocessor scheduling algorithm found result via google research related simulator available robust enough openmp api previously used small parallel application development sure provides support real time parallel computing involves time related parameter task period deadline etc feature available openmp underpinnings available could extend openmp instead

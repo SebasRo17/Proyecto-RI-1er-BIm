@@ -1,0 +1,1 @@
+What is the difficulty with this question to Mathematica? Is it just a problem with Mathematica v.8.0   or all versions are in trouble with it? Or is something wrong with my input?               Limit[Product[(1 + t/n^3)^(1/t^(1/3)), {n, 1, Infinity}],  t -> Infinity]

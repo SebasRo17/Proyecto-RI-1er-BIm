@@ -1,1 +1,0 @@
-dynamically linked library includes global mutable container state initialised loading library reference behave running application link obviously application cannot alter memory allocated dynamically linked library o would implication application using one must assume reference global mutable variable rewritten refer r w memory space owned application exactly linker accomplish

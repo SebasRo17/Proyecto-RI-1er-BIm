@@ -1,1 +1,0 @@
-looking nice way flattening splitting list potentially overlapping numeric range problem similar question fastest way split overlapping date range many others however range integer looking decent algorithm easily implemented javascript etc example example example solution enter image description apology duplicate yet find solution

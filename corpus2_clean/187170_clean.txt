@@ -1,1 +1,0 @@
-currently designing search algorithm document got curious designing algorithm web browser search webpage example google chrome press keyboard shortcut ctrl f activate find bar let search particular webpage text given raw html reference

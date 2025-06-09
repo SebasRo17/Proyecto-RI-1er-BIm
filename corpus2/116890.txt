@@ -1,1 +1,0 @@
-I was curious if anyone knew of a recommendation from a reputable source for the max number of lines of code for a given file. For example, Google's Closure Linter recommends that each line should not exceed 80 characters.

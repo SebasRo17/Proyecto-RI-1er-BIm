@@ -1,1 +1,0 @@
-In my organization Scrum teams almost never finish all of their stories 100%. I suggested that we commit to fewer stories each Sprint, but the R&D manager says if we do that people will still not complete the work, but will just do less of it thus slowing down development. He says there is a Student Syndrome at work here. What is your take on that?

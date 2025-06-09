@@ -1,1 +1,0 @@
-store session session manager dependency private readonly public public interface idisposable dictionary isession session q application shuts call responsible first approach use dispose protected virtual dispose bool disposing disposing count num way go better solution

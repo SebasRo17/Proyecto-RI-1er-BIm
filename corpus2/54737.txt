@@ -1,0 +1,1 @@
+I think the default interval is [0,1]. when I have all positives I find it easy to rescale but when I included negative values it doesn't give me the results that I expect. for example how can I change the interval to [-1,1] ?? Thank you very much

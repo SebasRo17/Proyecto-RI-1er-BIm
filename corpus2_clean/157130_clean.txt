@@ -1,1 +1,0 @@
-iterators begin end iterator without sounding clunky example typedef std vector idea idea idea const iterator const idea const iterator const

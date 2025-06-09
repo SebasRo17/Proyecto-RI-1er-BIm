@@ -1,1 +1,0 @@
-currently assignment draw several sequence diagram use case presented documentation one use case state interaction system executes another use case b already drawn diagram b way uml2 show inclusion duplicate interaction

@@ -1,1 +1,0 @@
-working team num person using sql server database since long time want store stored procedure svn version maintained tool used plugin sql server management studio allows checkin

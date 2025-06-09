@@ -1,1 +1,1 @@
-Which according to you are the top languages to watch out for in 2011 and beyond? This article  talks about 9 languages to watch out for in 2011. What are your views and inputs on this?
+Can someone show me how to plot a rhumb line (loxodrome) in _Mathematica_ via the `ParametricPlot` function? Here is what I got so far:               ParametricPlot3D[       {Cos[λ]/Cosh[Cot[π/4]*λ], Sin[λ]/Cosh[Cot[π/4]*λ], Tanh[Cot[π/4]*λ]}, {λ, 0, π}]      I am trying to get this one: ![enter image description here](http://i.stack.imgur.com/AWb0q.gif)

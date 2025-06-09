@@ -1,1 +1,0 @@
-A lot of issue trackers support something called "milestones". I've never found a use for them. It seems that milestones are only useful when you do big, scheduled pushes, but not if you roll out new features and bug fixes as they're completed. When/how would you use milestones to organize agile development?

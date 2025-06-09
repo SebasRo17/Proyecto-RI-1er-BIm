@@ -1,1 +1,0 @@
-Today, One of my colleague and I have a debate about "Should we put the specification documents in source control system such as SVN?". In my opinion, It should be. Everything relate to developing project should be controled carefully with source control system. Is it a wrong concept in software development process?

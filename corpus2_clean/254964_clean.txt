@@ -1,1 +1,0 @@
-wrote program calculate display first num fibonacci number sequence go follows num num num num num num num number sum previous two number problem number get displayed num onwards first second number sequence get displayed could someone tell need done correct private button1 click sender eventargs e num num num num textbox1 appendtext convert tostring

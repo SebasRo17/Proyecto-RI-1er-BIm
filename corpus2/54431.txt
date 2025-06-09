@@ -1,0 +1,1 @@
+I am trying to use AbsoluteOptions in V10 but I am getting the Out with some errors as see in this picture: ![enter image description here](http://i.stack.imgur.com/K02jv.jpg) does anyone have same issue?

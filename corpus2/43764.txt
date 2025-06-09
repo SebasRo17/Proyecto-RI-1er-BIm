@@ -1,1 +1,0 @@
-I'm looking to learn Java, but I don't want to get a book that is going to tell me what an object is, how OOP works, etc. I know this from my existing ActionScript 3 work. One idea is to look at all the areas Java covers, pick one that is of interest to me and delve into that. Is this a good idea? Any other suggestions?

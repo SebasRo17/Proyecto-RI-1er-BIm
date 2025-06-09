@@ -1,1 +1,0 @@
-think one think visual studio exception window poor trace information lacking formatting hardly readable plugin external tool show exception information better

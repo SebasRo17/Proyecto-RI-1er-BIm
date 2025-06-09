@@ -1,1 +1,0 @@
-use compiler daily basis correctness given compiler program potentially contain bug always wondered robustness ever encountered bug realize problem make compiler reliable

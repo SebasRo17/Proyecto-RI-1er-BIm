@@ -1,1 +1,0 @@
-I had a dozen interviews in my life (I'm about to graduate) and I wonder why I was only once asked to read and explain some code. Roughly, 90% jobs are mostly about maintaining existing systems. IMO ability to read someone else's code is an important skill. Why don't interviewers check it?* *Among my friends I am the only one that was asked to review some code.

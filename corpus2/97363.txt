@@ -1,1 +1,0 @@
-I want to develop some PHP applications on my iPad device but there is 2 problems! First , i can not find any local server applications on iPad like Wamp or Lamp, and second my Googling only returns Cloud based IDEs for this!!! any idea?

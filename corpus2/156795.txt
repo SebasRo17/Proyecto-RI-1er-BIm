@@ -1,1 +1,0 @@
-I'm facing problem in gsoap , if two user go to register at a same time then database is   locked, i think its threading problem , how to handle it, please insist me. I am running multiple threads in background. every 5 seconds sending data to server.

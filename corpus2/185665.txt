@@ -1,1 +1,0 @@
-I just wanted to know what is the significance of SRS(Software Requirement Specification) in programming? and what are the techniques used in preparation of an SRS .. also who writes the SRS.. is it the programmers?

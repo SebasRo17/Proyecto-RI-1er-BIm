@@ -1,1 +1,0 @@
-I am designing a new system and I want to know what inversion of control (IOC) is, and more importantly, when to use it. Does it have to be implemented with interfaces or can be done with classes?

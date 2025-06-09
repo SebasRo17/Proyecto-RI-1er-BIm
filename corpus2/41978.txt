@@ -1,1 +1,0 @@
-I was just curious if SQL Devs write their code freehand or do they make use of the visual query designer to generate queries? In the majority of the cases, the query designer can create most of non-complex queries, no? (I'm a WinForms dev just now getting started with SQL Server)

@@ -1,1 +1,0 @@
-building unit test appropriate use mocking tool assist setting even mocking behavior verifying interaction simple example pseudo actually want mock mock checker new mocking avoid figuring instantiate tying constructor may removed future mock set expectation mock equal assert check isfalse verify mock interacted properly verify equal appropriate mock scenario

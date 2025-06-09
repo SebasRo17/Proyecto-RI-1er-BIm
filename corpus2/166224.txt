@@ -1,1 +1,0 @@
-When reading others code do you usually have any troubles understanding it, Or its more usually that you question the others code about it being wrong/non- efficient/bad-formatted(etc)? Someone reading what you coded on your first job

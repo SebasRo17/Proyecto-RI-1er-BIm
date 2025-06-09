@@ -1,1 +1,0 @@
-I have some software application managed using Git. I just released a new version 2.x which I plan to maintain on the long term (bug fixes mostly). In the meantime, I would like to start working on version 3.x. What is the recommended way to manage this? Should I create a branch for version 2.x and have the 3.x development on the master? or the other way?

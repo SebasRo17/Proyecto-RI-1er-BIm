@@ -1,1 +1,0 @@
-wcf webservice serf various mobile application implemented typical http ssl case like replay attack need considered security aspect oauth num look like viable solution problem using nonce see example web using library implement server oauth right choice use wcf service alternative net framework microsoft technology implement secure wcf server

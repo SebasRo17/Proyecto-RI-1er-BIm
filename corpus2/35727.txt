@@ -1,1 +1,0 @@
-I'm looking for a way to test my webpages that have dynamically generated graphs (using such things like Google Graphs). Does anyone know if there are such tools that exist (perhaps Selenium would do this). Thanks

@@ -1,1 +1,0 @@
-small github project need add option version number commandline problem idea compute version number random process start num probably creating tag something put number fix know question bit vague never deal want use sane versioning scheme edit im also interested update version number automatically maybe using something like git hook

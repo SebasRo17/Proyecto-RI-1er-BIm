@@ -1,0 +1,1 @@
+I'm doing an FEM assignment using _Mathematica_.               (EK1 = {{a11, a12}, {a21, a22}}) // MatrixForm     (EK2 = {{b22, b23}, {b32, b33}}) // MatrixForm      I don't know how the best way to create new matrix like this:               (K = {{a11, a12, 0}, {a21, a22 + b22, b23}, {0, b32, b33}}) // MatrixForm      MATLAB does it quite easily but how about _Mathematica_?

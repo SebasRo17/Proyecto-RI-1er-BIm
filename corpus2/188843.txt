@@ -1,1 +1,0 @@
-I am trying to develop a Delete command through BDD that will simply delete an user from the database, given user_id as a parameter. What can be some possible behavioral tests that will drive me to write a proper implementation for the command?

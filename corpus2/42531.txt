@@ -1,0 +1,1 @@
+Why does `$Failed` have attribute `HoldAll`? Are there typical situations where `$Failed` is returned as a head that must not evaluate further, or is this just a relic from Mathematica's early times?               In[1]:= Attributes[$Failed]     Out[1]= {HoldAll, Protected}

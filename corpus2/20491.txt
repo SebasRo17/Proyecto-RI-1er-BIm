@@ -1,0 +1,1 @@
+I have a _Mathematica_ Enterprise License, which lets me export Pro-feature CDFs. One of the benefits is supposed to be removal of branding and full customization of UI. Does anyone know how to get that done? Because in Player and in Plugin, I'm still getting the Wolfram Bar and all the usual stuff.

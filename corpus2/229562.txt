@@ -1,1 +1,0 @@
-With jquery very slowly being phased out you get into more and more situations where library X will run with either jquery or zepto.js (but at least one is required). No package managers that I can think of however allow you to express dependencies like this. If I was to propose this feature to - say - bower, is there precedent for how it might look?

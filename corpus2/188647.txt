@@ -1,1 +1,0 @@
-I just started building an iOS app and wanted to get some feedback regarding views. I've got specs for               Activity Page     Activity Recording     Activity Create     Activity Save      Each of the specs show a different function, but would each of these be a brand new view in my iOS app?

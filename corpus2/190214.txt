@@ -1,1 +1,0 @@
-I am trying to put a time limit on the user input, so if they take longer than 2 seconds to put type in an input then the program will terminate. I was wondering if there is a simple way to do this in C language?

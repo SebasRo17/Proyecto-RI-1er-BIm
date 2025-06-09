@@ -1,0 +1,1 @@
+Maybe this is a bug or maybe Infix acts differently than the other functions. The fact is that both:               TreeForm[Infix[f[x, a]]]      and               ToString[Infix[f[x, a]]]      crash the kernel. I use Mathematica 9.0 and maybe there are other cases that Infix behaves strangely. Does anybody can explain why this happens ?

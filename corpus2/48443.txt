@@ -1,1 +1,0 @@
-How many ASP.NET developers program using OO (e.g. using get, set)? 6 years ago I developed and maintained a .Net 1.1 Intranet application that had no get/set. So how about today? Worth trying the pure OO route? Thanks, TDG

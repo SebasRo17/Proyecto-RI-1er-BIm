@@ -1,1 +1,0 @@
-This has been a cause of frustration for me on many sites like IRCTC, Online Banking sites which wont allow Back, forward or refresh. If you do you would be logged out and you have to login again. What I don't understand is what concern had there been in their mind to have such terrible "feature".

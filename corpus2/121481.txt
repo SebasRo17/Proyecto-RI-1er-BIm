@@ -1,1 +1,0 @@
-Are there any resources out there on how to architect large, industrial strength Python projects? I'd like to start on an ambitious personal project, but I'm not really sure how to architect it and what practices to put into place to make the project successful. Are there any resources out there discussing how to make large Python projects work?

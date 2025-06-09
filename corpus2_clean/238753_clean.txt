@@ -1,1 +1,0 @@
-usually event listener registered mean event listener held weak reference default stored weak collection listener registered valid case listener creator maybe situation like mistake allowed

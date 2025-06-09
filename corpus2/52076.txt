@@ -1,0 +1,1 @@
+I currently use data from Thomson Reuters Datastream. With an add-in in Excel, the data can be requested. Because I need to use the data in Mathematica, and I need to update the data frequently: Is it possible to extract data from Datastream directly into Mathematica (with an API) ? Does anyone has experience/knowledge doing such a thing?

@@ -1,1 +1,0 @@
-Should you be an OOP expert if you're developing in ASP.NET?

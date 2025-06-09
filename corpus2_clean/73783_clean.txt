@@ -1,1 +1,0 @@
-good free file compare program compare directory look one specify filter like cpp ignore file makefiles executables etc without manually remove compare suggestion

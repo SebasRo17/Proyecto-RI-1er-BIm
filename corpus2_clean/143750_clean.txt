@@ -1,1 +1,0 @@
-document based nosql create table afaik need create many many row table document id field table id time need set column document first search document id table next search need selection please correct understand wrong sane could fast

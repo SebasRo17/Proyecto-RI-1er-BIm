@@ -1,1 +1,0 @@
-I often see something like "uncompressed for development / minified for production" when reading blogs or downloading frameworks. What is the real difference between the two, and if minified is "good for production" why is it not recommended for development?

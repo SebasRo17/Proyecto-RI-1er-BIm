@@ -1,0 +1,1 @@
+I have a list which consists of numbers which use comma (,) instead of dot (.) as their decimal point. I would like to replace the commas, but only those commas which are followed by more than five digits, with a dot. A little example:               {0, "", 0, 1, 3, 93345, 27, 763212, 3}      should be converted into:               {0, "", 0, 1, 3.93345`, 27.763212`, 3}

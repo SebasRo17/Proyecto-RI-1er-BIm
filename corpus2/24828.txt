@@ -1,1 +1,0 @@
-In an IT project:   1. Who should **participate** in time estimation? Developer, team leader, scrum master and etc?   2. Whose **vote** should be counted most?

@@ -1,1 +1,0 @@
-Before forming a class in Java or other programming languages that support OOP, should I use underscore (_) in each ( **local** or **private** ) field declaration. More precisely: > private String _customername; Is this a correct declaration?

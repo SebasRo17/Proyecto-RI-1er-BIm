@@ -1,0 +1,1 @@
+Is there a command that can count the number of components of a graph, in the same way that `VertexCount[G]` counts vertices?

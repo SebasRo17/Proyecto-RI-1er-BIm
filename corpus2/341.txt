@@ -1,0 +1,1 @@
+What is an efficient and accurate _Mathematica_ implementation of the Hilbert transform, for both continuous and especially discretely sampled functions? This transform relates phase and amplitude in minimum phase systems.

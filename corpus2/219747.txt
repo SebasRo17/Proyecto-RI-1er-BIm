@@ -1,1 +1,0 @@
-I have a simple project, which enable to record the voice and execute associated commands. I think it can be an interesting and useful project. I don't know how to make it known. I already wrote an article and I published it on hackernews but it wasn't very popular. What can I do to make my project known?

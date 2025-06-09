@@ -1,1 +1,0 @@
-I'm trying to automate the application of metadata to huge amount of text, but I'm not sure what language would make this task easier (if there is one). What programming language is most suitable for handling unstructured text? Why? If the answer is "it depends", what are a few examples of why you would use one language over another?

@@ -1,0 +1,1 @@
+I'm novice very user of Mathematica - is there possibility of exporting mathematica code directly into Latex - I'm interested only in exporting mathematical formulas ? And from which version of program is it possible ?

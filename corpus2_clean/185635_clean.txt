@@ -1,1 +1,0 @@
-conceptually trying understand item model screen view brain controller item screen brain controller item model brain screen view brain controller def init self item model self screen view self something else entirely

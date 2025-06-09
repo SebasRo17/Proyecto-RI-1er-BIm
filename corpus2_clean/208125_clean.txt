@@ -1,1 +1,0 @@
-currently process writing support ticket system let say small forum application something like uservoice want user able edit ticket still able see old version route take term database design thought something like identifier author subject identifier content viewing ticket simply query recent depending column better way better naming table

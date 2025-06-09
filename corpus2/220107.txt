@@ -1,1 +1,0 @@
-I want to inspect some code on the ipad and I have enabled the developer menu on safari(windows version). However, my safari developer menu doesn't detect the ipad that is connected to it via the usb ... Version of ipad ios - 6 Version of Windows - 7 Version of installed Safari - 5.1.7 How do I make this happen ?

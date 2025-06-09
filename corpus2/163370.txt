@@ -1,1 +1,0 @@
-Most of scripting languages (like Pythong, Perl, etc) generates the whole HTMLfile. However, PHP code can be embedded within html codes. PHP will process only code between `<?php ?>` tags and ignore other lines. What other scripting languages are available with possibility to be embedded within HTML?

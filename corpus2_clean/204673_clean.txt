@@ -1,1 +1,0 @@
-starting introduce cqrs concept get stucked following situation entity must unique order verify prior create entity must make query thus query subsystem happens syncronization happened command system query system yet client sent happens case

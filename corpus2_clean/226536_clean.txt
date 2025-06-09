@@ -1,1 +1,0 @@
-want write refactoring tool programming language reason need structural query abstract syntax tree given ast get answer following statement get superclass give expression call x x called without argument check overloading x called anywhere execution path eg close called anywhere

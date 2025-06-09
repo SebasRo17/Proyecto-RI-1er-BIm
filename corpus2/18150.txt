@@ -1,0 +1,1 @@
+How can I change the Longitude range to 0-360 in the such plots?               Graphics[{GrayLevel[0.2],AbsoluteThickness[1.5],       CountryData[         "World", {"SchematicPolygon",{"Equirectangular",{0,180}}}       ]/.Polygon->Line},       Frame->True,ImageSize->200]      ![World map](http://i.stack.imgur.com/YYVnY.png) Thanks

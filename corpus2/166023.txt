@@ -1,1 +1,0 @@
-So I was asking around the Mercurial development mailing list about binary diffing and patch handling and I got the following examples:   * whole file approaches (classic diff, bsdiff, Mercurial's internal bdiff)   * windowed streaming approaches (rsync, xdelta, libxdiff) What does "windowed streaming" stand for in this context? (and in general)

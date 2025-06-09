@@ -1,0 +1,1 @@
+![](http://i.stack.imgur.com/wtlqF.jpg) I want to change the above colored plot into a grayscale plot. I have tried this:               CCGray[pic_?ImageQ] := Module[{}, ColorConvert[pic, "GrayScale"]];      but it doesn't give me the degree of differentiation I would like.

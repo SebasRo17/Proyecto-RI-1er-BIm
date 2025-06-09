@@ -1,1 +1,0 @@
-write listen port like num example happens hood o us listen pull push word o check port every x millisecond example get think seems anything pulling mean even o set callback still something understand new information arrived call callback something still use pull understand arrival new port listens

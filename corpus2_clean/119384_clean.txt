@@ -1,1 +1,0 @@
-student putting together slide geared towards freshman level student trying understand importance various class c curriculum would safe say list fairly accurate structure store stuff program discrete math think logically bit byte speak machine language advanced structure store stuff way algorithm compute thing efficiently operating system manage different process thread

@@ -1,1 +1,0 @@
-On this site hackfind.com the autor put minified version of my library without any copyright notice. Is this violation of the LGPL. Note that using on a site is not a copy.

@@ -1,1 +1,0 @@
-I was thinking about how would a paint software works. Firstly I thought that it might not use any database but when I started thinking about the undo function I realized that it might be that the data is somehow stored in the database. Can anyone please help me out by telling me how the images are stored in a normal paint program(say MS-PAINT of Windows).

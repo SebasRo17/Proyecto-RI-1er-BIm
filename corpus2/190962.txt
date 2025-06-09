@@ -1,1 +1,0 @@
-I'm managing a small team of developers. Every so often we decide we're going to spend a day or two to clean up our code. Would it be a good idea to schedule regular time, say 1 week every 2 months, to just cleaning up our codebase?

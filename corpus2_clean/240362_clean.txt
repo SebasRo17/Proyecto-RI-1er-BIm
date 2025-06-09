@@ -1,1 +1,0 @@
-mvc num application used world wide number page app require user enter date using jquery plug allow user select date enter manually curious best practice culture date entered dd mm yyyy format instead mm dd yyyy could require date entered mm dd yyyy format format app expecting also want cause much user part world

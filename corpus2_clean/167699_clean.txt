@@ -1,1 +1,0 @@
-working lisp exercise using clojure convert lisp list clojure vector solving problem would simpler question using vec vector cost lot term time processing using either cause meta state change value converted moved vector

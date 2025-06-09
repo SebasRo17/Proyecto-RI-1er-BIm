@@ -1,1 +1,0 @@
-Is there a functional language which allows to use stack semantics - automatic deterministic destruction at the end of the scope?

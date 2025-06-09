@@ -1,1 +1,0 @@
-I am new to Agile and scrum and want to ask few things. Suppose I havetwo user stories `1, 2` Suppose I finished `story 1` in sprint 1 but while doing `sprint 2` I did something which breaks something so that my things in `user story 1` broken and I need to spend more time on that again. What do I need to do for that case?

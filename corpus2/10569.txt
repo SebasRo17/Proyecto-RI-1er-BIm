@@ -1,1 +1,0 @@
-It seems that some rules of writing code are in direct contradiction with the rules of human writing. For example in code it's advisable to define each piece of information in only one place and in writing for humans it's normal to repeat important points (though usually phrased differently). **What rules of writing good code contradict the rules of good writing?**

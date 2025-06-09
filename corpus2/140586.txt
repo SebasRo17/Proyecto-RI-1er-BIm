@@ -1,1 +1,0 @@
-Is some connection between using x86 segmentation and a possible implementation a thread package? I've been told that usually x86 segmentation is implemented in operating systems these days with an identity function (0 offset, unlimited limit), but can segmentation somehow be useful when dealing with multithreading?

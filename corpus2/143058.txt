@@ -1,1 +1,0 @@
-Small shop, few production servers, no test or development servers, all Win2k3 WEB based. There is a need to keep versioned files on one of the machines. Is TortoiseSVN safe against exploitability, does it need extra hardening? Any known license problems, incompatibilities?

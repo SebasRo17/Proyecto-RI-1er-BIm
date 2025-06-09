@@ -1,1 +1,0 @@
-reading go language specification section comment state comment start character sequence stop end comment act like newline point specifying comment act like newline comment simply act like empty string line except last end newline anyway except last act like two consecutive newlines last comment also safely act like empty

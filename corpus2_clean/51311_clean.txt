@@ -1,1 +1,0 @@
-consider manager programmer project manager crate task programmer performs situation check programmer make non testable mistake like using non thread safe map singleton service check overall project structure

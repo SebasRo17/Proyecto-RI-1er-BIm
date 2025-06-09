@@ -1,0 +1,1 @@
+When using `DensityPlot` or similar, I want to change the font size of both frame labels and the color bar legend, but I can only get the frame labels to work. Example:               DensityPlot[Sin[x] Sin[y], {x, -4, 4}, {y, -3, 3}, PlotLegends -> Automatic,      BaseStyle -> {FontSize -> 30}]      ![enter image description here](http://i.stack.imgur.com/pSXx0.png)

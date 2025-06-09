@@ -1,1 +1,0 @@
-looking way sql server management studio show last sql query example make modification table designer mode eventually want make change production db without recreating entire table looking functionality similar phpmyadmin mysql tell last query ran result query top page modification complete

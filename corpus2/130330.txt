@@ -1,1 +1,0 @@
-Is it good practice to have a main.c file that just has the main function in it and no other functions so that all other functions can be interfaced? If there is no definitive rule, when is it good to do so and not to do so?

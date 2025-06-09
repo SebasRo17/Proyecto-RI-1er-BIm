@@ -1,0 +1,1 @@
+Some time ago I noticed that the results of the evaluating the function `Print[something]` does not emerge in a new cell created in the notebook where the operation was evaluated. Instead it appears in the Messages notebook. Evidently some global option has been involuntarily switched. Do you know, which one? What should I do to return the behavior of `Print` back to normal?

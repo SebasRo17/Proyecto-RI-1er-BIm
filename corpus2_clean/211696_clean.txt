@@ -1,1 +1,0 @@
-making website php user search big mysql database user shown first result want next button take user next result trivial solution result page execute user search query use offset limit get n th result displayed feel like painter algorithm executing query get n th result inefficient since others must faced situation typically solved

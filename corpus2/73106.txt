@@ -1,1 +1,0 @@
-I believe that I read somewhere that Google has a rule of thumb that an excellent developer is around 300 times more productive than an average one. Does anyone have any rules of thumb used by large companies or maybe there are even some empirical studies on this?

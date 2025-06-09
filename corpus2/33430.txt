@@ -1,0 +1,1 @@
+Using `ctrl``/` you can make a fraction. If you have selected something it will appear in the numerator. Does there exist a shortcut to make the selected text appear in the denominator instead? If not, is it possible to create a shortcut that does this?

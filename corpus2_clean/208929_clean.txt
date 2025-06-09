@@ -1,1 +1,0 @@
-noticed lot package installing ubuntu machine end googling give answer find example ftp server package called pure server package called ssh server package called

@@ -1,0 +1,1 @@
+I have the following code:               frames = Import["myvideo.avi",{"Frames",{50,60,70}}];      This imports frames 1,2, and 3 of the video, not 50,60 and 70. It imports the first N frames, where N is the length of list of frames given. Is this expected behaviour? ( I tried the same with a .mov file, same result ) Thanks.

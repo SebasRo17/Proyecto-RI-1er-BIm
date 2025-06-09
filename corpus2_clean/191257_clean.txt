@@ -1,1 +1,0 @@
-say entitymanager read pk dataset db application process multiple record iterate use entitymanager read record therefore would nice inform entitymanager coming workload able preload necessary efficiently would integrate optional hint clean soc oo design thanks alot

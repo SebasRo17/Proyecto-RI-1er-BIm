@@ -1,1 +1,0 @@
-The upper management at our company has laid out a goal for our software team to be “15% more productive” over the next year. Measuring productivity in a software development environment is very subjective, but we are still required to come up with a set of metrics. What sorts of data can we capture that would measure our team’s productivity?

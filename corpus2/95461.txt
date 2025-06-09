@@ -1,1 +1,0 @@
-I want to convince my partners that we should have a spec and that bugs should get fixed before writing new code. Should I refer to the Joel test? Do you think that the Joel test is up to date? I think that not having a spec is bad project management. Do you agree with the Joel test? Could you add something? It doesn't mention for instance Open Source.

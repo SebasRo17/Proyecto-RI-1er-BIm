@@ -1,1 +1,0 @@
-build application use maven create snapshot release build via hudson normally build deploy snapshot version lab environment happy release build deploy prod wondering also release candidate build sure release candidate build actually differs snapshot build read release stage goal maven really answer question use release candidate build use go snapshot release candidate release

@@ -1,1 +1,0 @@
-Microsoft had a Pascal compiler called Quick Pascal. I've seen some conflicting reports about when it was available. Does anyone know for sure? Did it introduce any new language features over the alternatives, or was it just Microsoft's version?

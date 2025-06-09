@@ -1,1 +1,0 @@
-using version control tool longer necessary comment old however team member still comment old therefore want clean want mark commented line really comment documentation every time need read commented region unmarked line left new commented achieve existing tool need write similar concept git partial commit select line commit however line marked partial commit valid

@@ -1,1 +1,0 @@
-Firefox/Chromium have well implemented(?) parsers. Then why are parsers like lxml and other such parsers being developed with so much effort put into it? Aren't they re-inventing the wheel? Or are they solving a different problem? Can't parsers in browsers be made into standalone libraries?

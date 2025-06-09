@@ -1,0 +1,1 @@
+Is there a way to write down `Mathematica` with a string such as:   `{"M","a","t","h","e","m","a","t","i","c","a"}`?

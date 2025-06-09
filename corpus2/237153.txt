@@ -1,1 +1,0 @@
-So let's say I want to start learning C# so I can program Unity with it. I look for a good reviewed book and it says "Learn Visual C#!". I ask myself, what is the difference between Visual C# and C#? If I know Visual C#, do I also know C#?

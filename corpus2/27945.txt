@@ -1,0 +1,1 @@
+In `FinancialData` there are two similarly named properties one can request for a given stock symbol: `Change` and `FractionalChange`. What is the difference between these two properties?

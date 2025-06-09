@@ -1,0 +1,1 @@
+Consider the following: `data={{1,a},{10,a},{5,b},{4,c}};` In my case duplicates are defined when for `{x1,y1}` and `{x2,y2}`, `y2` is equal `y1`. Hence in the case of `data`, I would get via `MyFunction[data]` the following result: `{{1,a},{10,a}}`. Does anyone have an idea?

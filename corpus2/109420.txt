@@ -1,1 +1,0 @@
-The problem with trying to use Google to find tutorials or answers for the C programming language is that C is not an expressive enough name to narrow down the searches. Even coupled with keywords like "Programming" and/or "Language" yields results mostly for C++, C#, and Objective-C. Is there a way to more effectively search for specific C resources using Google?

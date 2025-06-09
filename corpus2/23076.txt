@@ -1,0 +1,1 @@
+I began to use Mathematica a few days. My problem is: How to expand expression like $(a+b)*(a+b)$, where this multiplication is non commutative? Mathematica can do this?

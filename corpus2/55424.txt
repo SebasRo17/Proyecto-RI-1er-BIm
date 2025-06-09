@@ -1,0 +1,1 @@
+I have browsed the web and found no information. I have two rational polynomials $f1(x,y)$ and $f2(x,y)$. When I perform `f1 + f2`, I always get two separate functions. However, I would like to combine them into one rational expression. How do I do that?

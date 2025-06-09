@@ -1,1 +1,0 @@
-http://www.cairographics.org/manual/cairo-Transformations.html I have been using Cairo Vector Graphics Library for some work, and I can't quite understand some parts: What is the default value of the transformation matrix? When do I need the transformation matrix anyway? Suppose I don't want to rotate text, will I still need to set it, will it still be set?

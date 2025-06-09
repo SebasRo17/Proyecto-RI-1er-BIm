@@ -1,1 +1,0 @@
-I am new to python and cloud computing . As part of my new project i am planing to port a python desktop application(command line) to cloud. is it possible

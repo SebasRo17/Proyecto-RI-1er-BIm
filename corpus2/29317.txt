@@ -1,0 +1,1 @@
+I wish to make functional replacement inside `Held` expression like this:               f[x_Real] := x^2;     Hold[{2., 3.}] /. n_Real :> f[n]     => Hold[{4., 9.}]      But I get `Hold[{f[2.], f[3.]}]` instead. What is the best way to make such replacement without evaluation of the `Held` expression?

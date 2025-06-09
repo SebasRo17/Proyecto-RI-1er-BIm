@@ -1,1 +1,0 @@
-I'm working on a client library to interface with my company's api, and we generate a user ticket when the user logs in using the api. Obviously I don't want to send the user ticket to the client for resubmission on subsequent requests - is it (relatively) safe for me to cache this value in `$_SESSION` for later calls?

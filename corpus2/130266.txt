@@ -1,1 +1,0 @@
-I'm curious to learn from a technical perspective what techniques can be used to make recommendations for e.g. Facebook's "People You May Know" (what algorithm do they use, etc.)? One of the things that come to my mind is the number of mutual friends. Other than this, what are the different parameters they use to make suggestions?

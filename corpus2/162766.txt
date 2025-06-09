@@ -1,1 +1,0 @@
-I'm reading up on JSF. One thing that I noticed that tags such as h:inputText and h:inputTextarea auto-generate a random name. Is there any way to over-ride this?

@@ -1,1 +1,0 @@
-Most programming languages appear to be designed to not allow one to declare an identifier that starts with a number. I was just curious to know the reason. I have already searched the web, but couldn't find a satisfactory explanation.

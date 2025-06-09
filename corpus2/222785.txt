@@ -1,1 +1,0 @@
-The question is fairly self-explainatory. Is it worth using VCS (Version Control Softwares) for hobbystic/small/personal projects?

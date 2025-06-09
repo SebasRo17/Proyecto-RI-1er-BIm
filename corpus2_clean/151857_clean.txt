@@ -1,1 +1,0 @@
-academic researcher know target nix rely cygwin make application available window tried many project always found unstable serious use running cygwin look like promising alternative cygwin tried yet found several comment faster stable however seen use support running nix apps window social technical reason behind lack popularity

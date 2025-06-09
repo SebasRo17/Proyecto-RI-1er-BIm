@@ -1,1 +1,0 @@
-There is a nice video which shows the development more like a process here. How can I visualise my own projects similar to this? Is there an open-source software to create this kind of visualisation? I think they would be quite useful to explain things to new developers before they start programming and perhaps I can also see the bigger picture.

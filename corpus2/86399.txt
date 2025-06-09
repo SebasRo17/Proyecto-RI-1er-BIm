@@ -1,1 +1,0 @@
-Is PHP-GTK widely used for desktop application? Is it recommended to use? Is there a big company who uses PHP GTK?

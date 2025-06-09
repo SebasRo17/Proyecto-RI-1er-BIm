@@ -1,0 +1,1 @@
+Is there any method available in mathematica to eliminate variable from set of inequalities? I tried Eliminate function available, but I guess it works on equalities only.

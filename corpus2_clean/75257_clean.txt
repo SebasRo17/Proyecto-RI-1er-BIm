@@ -1,1 +1,0 @@
-oop open closed principle state software entity class module function etc open extension closed modification taking consideration ruby possible reopen think break open closed principle think favor reopening class instead extending think pitfall reopening class

@@ -1,1 +1,0 @@
-Inspired by this question - can an agile shop really score 12 on the Joel Test: Can you come up with explanations or examples where a software development organization satisfies **technically** all 12 points of the Joel Test, but fails to live up to the agile or lean principles?

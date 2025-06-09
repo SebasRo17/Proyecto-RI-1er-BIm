@@ -1,1 +1,0 @@
-There is this new kid on the block called Interaction Oriented Programming (IOP). Can somebody explains how it works? How does it compare to object oriented programming. Will this replace object oriented programming or will it just be a niche thing? What exactly is it and what is it's intended purpose.

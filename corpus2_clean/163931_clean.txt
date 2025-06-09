@@ -1,1 +1,0 @@
-use buffer quite long time need copy stream read file every time set buffer size num num point view buffer like bucket carry sand stream one part land memory part increase bucket capacity theory allow less travel good thing programming

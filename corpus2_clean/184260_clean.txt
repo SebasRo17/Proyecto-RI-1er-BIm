@@ -1,1 +1,0 @@
-consider intended kill running instance subprocess foreach p p check fact foobars killed check foobar killed check running foobars returning seems bit without checking calling check consider check expensive operation done whenever rather necessary

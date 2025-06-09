@@ -1,1 +1,0 @@
-small dev team num developer recently got new team member smart coder coding style completely different existing base contains mostly readable clean maintainable new team member quickly changing many file introducing ugly hack shortcut using defines place adding function wrong place etc question others experienced situation anyone tip talk

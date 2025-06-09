@@ -1,1 +1,0 @@
-database table many column want display several page similar turbo tax style information collection form num num item per page right create num model viewmodel certain property per viewmodel section want create workflow

@@ -1,1 +1,0 @@
-violate gpl v3 use gpl licensed firmware closed source hardware selling open source make firmware source freely available thanks

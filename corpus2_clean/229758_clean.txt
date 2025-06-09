@@ -1,1 +1,0 @@
-write android app user sends server location get place relevant vote vote offer wonder write local db connect via fb see nothing save local db performance better save anything server side also local memory per application session idea save local db efficient last one session stored server

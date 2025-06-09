@@ -1,1 +1,0 @@
-What is the best way to choose colors for LoB app, i need to style TreeView, dropdown's, textboxes and a pivot grid, so i need a bunch of colors, tried Kuler but it gives only 6 colors. So the question is how to do it without designer? PS. It's a silverlight app.

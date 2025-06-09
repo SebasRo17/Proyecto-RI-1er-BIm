@@ -1,1 +1,0 @@
-first written grace hopper num lisp interpreter written num john mccarthy student steve russell writing seems like much harder problem interpreter first written six year first interpreter

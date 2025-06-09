@@ -1,1 +1,0 @@
-I recently created a site in SharePoint and I need to setup a maintenance/support agreement for the site. In addition to the site, there are some custom modules that were developed that we monitor. What considerations should I be making when determining how much to charge for supporting the SharePoint site and any custom applications developed for the site?

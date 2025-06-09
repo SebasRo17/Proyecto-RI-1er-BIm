@@ -1,1 +1,0 @@
-trying find way organize branch repository sensible way would like branch contain clean commits feature mostly complete superfluous role current version application etc thought feature separate development branch feature complete merged branch valid way organize repository recommend good naming scheme development branch way organize repo recommend

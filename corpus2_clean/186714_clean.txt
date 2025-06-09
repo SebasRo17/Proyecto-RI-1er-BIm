@@ -1,1 +1,0 @@
-silverlight app connects entity framework wcf ria service call secure valid user call ria service make call secure user log get silverlight app maybe login way saved authentication ria call

@@ -1,0 +1,1 @@
+**Background:** In the Mathematica tutorial 'Dynamic Interactivity' I read that there is a way of developing GUIs in Mathematica that do not use `Manipulate`. I want to investigate this further. **Question:** What is the equivalent of `Manipulate[i,{i,1,5,1}]` in 'lower- level' Mathematica functions?

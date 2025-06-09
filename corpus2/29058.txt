@@ -1,1 +1,0 @@
-I am working on a project with a team of 4-5 people. Is it necessary to discuss the database changes with the team before implementing? I am working on the database api's. Is it better to discuss this or not? In my team are senior people. So can't I make changes myself and implement the change and explain the changes.

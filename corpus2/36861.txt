@@ -1,0 +1,1 @@
+The spacing of the first expression includes extra space before the `5`. I would like to have the same spacing as the second line.               HoldForm[4 .. 5]     HoldForm[a .. b]      Is there a way to suspend Mathematica's spacing, perhaps with a `StyleBox`?

@@ -1,0 +1,1 @@
+I want to visualize the difference between members of a set:               set = {20, 36, 70, 96, 152, 301}      This way I get the diffs:               diffs = Select[#[[2]] - #[[1]] & /@ Tuples[{set, set}], # > 0 &]          {16, 50, 76, 132, 281, 34, 60, 116, 265, 26, 82, 231, 56, 205, 149}      But how can I put the diffs as a caption over graph like lines between members?

@@ -1,0 +1,1 @@
+How can I use the `UnitStep` command when I have a piecewise function $f(t)$, where $f(t)= 0$, when $|t|>4$, and $f(t)=1$, when $|t|<4$? I tried with `UnitStep[t-4]` but didn't work like I want it to work.

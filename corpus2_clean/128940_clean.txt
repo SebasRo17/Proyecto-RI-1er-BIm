@@ -1,1 +1,0 @@
-example got root exposed soa service say invoice invoice item child sometimes need retrieve detail item thinking make lazy loading traffic overhead transfer item every time invoice required soa fashion seems unlikely expose invoice pocos contain logic thus cannot attach lazy loading logic invoice instruct load line item needed

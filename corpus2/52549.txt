@@ -1,1 +1,0 @@
-We're looking to create regular backups of a couchdb database, to ship offsite. What's the least intrusive way to obtain these - ideally without interrupting or significantly slowing down performance on the existing database server?

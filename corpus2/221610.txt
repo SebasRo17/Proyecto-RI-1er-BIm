@@ -1,1 +1,0 @@
-The main issue I have here is are the 720P, 480P, 240P... classes for defining video quality or do they unambiguously define the resolution of the video? For example, the wikipedia article about 240P refers to a family of resolutions.

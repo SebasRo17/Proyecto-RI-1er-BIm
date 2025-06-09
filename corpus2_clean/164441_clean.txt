@@ -1,1 +1,0 @@
-selenium test structure go public firstname test first lastname test last getter setter page carry operation web page public private public public getfirstname getlastname field filled test us public extends test public new new assertion since take argument assume example loose coupling despite need set able use

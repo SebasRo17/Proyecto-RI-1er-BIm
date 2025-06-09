@@ -1,1 +1,0 @@
-used older language c always felt need comment clear anyone read use c decently often feel pain write comment feel like state obvious unless complicated formula algorithm sure comment microsoft reached readability c feeling write comment pure changed commenting best practice

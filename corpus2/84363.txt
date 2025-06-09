@@ -1,1 +1,0 @@
-Is it considered bad practice to use a flat file when doing unit tests? If an application reads in flat files and parses them, would this be a better approach than hard coding strings into the unit tests themselves?

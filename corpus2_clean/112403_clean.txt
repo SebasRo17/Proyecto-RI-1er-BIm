@@ -1,1 +1,0 @@
-sometimes hear many manager class program design smell add unnecessary layer complexity make sense people want use manager class manipulating controlling object context make sense figuring make solution work without confusing one really avoid manager class much possible also article paper read implement alternative work around general common case manager removed

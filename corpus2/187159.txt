@@ -1,1 +1,0 @@
-if(true/false){          //if condition is true      }else {          // if condition is false     }      Everyone knows about the structure of `if-else`. But what is `if` actually? Is it a class method, static method or keyword? I'm little confused about this.

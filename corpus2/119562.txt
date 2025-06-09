@@ -1,1 +1,0 @@
-I have started learning about C# and I come to what is called 'Automatic memory management' or 'Garbage collectors' and I'm wondering if Java contains something like this as well? and if it does, does it do that as effective as C# when it comes to windows desktop application and web applications?

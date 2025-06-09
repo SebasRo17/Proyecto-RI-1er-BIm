@@ -1,1 +1,0 @@
-Every click event on the web works on mouse click and release. Is there a way to do a action on a click event before mouse release??

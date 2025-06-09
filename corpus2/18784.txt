@@ -1,1 +1,0 @@
-We do end up using lots of third party controls in our development. They help us to develop quicker, help us to generate good looking reports etc. But do they really help us to get a good job elsewhere? Should we explain about third party tools we have used in our resume?

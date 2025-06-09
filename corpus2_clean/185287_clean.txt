@@ -1,1 +1,0 @@
-web application developed using resteasy api implement security form based authentication sure appropriate fit googled found apache shiro spring security etc also read something rest provided authentication jar please help edit requirement num easily able use framework resteasy api num provide authentication authorization least

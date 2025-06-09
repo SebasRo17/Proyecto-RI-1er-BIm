@@ -1,1 +1,0 @@
-I've ran into several oddities using javascripts floating point arithmetic, but I can never recall them off the top of my head! **What are some common mistakes when using JavaScript to do math?**

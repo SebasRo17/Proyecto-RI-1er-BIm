@@ -1,1 +1,0 @@
-I've always read that LISP is well suited for Artificial Intelligence, but I never found out why.

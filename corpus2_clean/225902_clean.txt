@@ -1,1 +1,0 @@
-starting first project opengl glsl wondering work shaders need const syntax show everything color difficult navigate const shader n edit add quotation mark write quotation mark start thanks edit using vs2012

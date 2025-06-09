@@ -1,1 +1,0 @@
-I have:   * ten numbers: +1, +2, +4, +8, +16, +32, +64, +128, +256, +512.   * flag == sum of some of this ten numbers. How to determine that sum contains 2 or 32?

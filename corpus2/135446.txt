@@ -1,1 +1,0 @@
-Is it possible to construct a parser combinator library that reads like a BNF grammar? I don't know of any, so I started wondering if there are reasons it's impossible or undesirable to do so. It seems to me it would be the best of both worlds. Functional languages such as F# allow operator overloading. Is it just a matter of providing the right syntax, or is there more to it?

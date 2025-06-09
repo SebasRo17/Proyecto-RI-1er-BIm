@@ -1,1 +1,0 @@
-To my knowledge, event signal actions are not allowed to have output control flow, so how can I model the end of an activity after a event signal action? The same issue arises for accept event actions and activity start nodes.

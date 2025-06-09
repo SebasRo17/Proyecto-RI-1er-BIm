@@ -1,1 +1,0 @@
-If you have a list of items and you want to randomly pair the items in the list together, what kind of algorithm would you use to do that, such that the items can only be matched to one other item.

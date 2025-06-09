@@ -1,1 +1,0 @@
-For a simple phone screen question we generally always ask about scoping rules. It's clearly one of the biggest gotchas of JavaScript. Out of everyone we ask almost everyone insists that in an if or for loop a variable is scoped to that block as opposed to the function. Is this an unreasonable question?

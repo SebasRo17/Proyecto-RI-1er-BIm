@@ -1,1 +1,0 @@
-I have seen numerous licenses for any kind of software such as the GNU GPL, BSD License, MIT License, and LGPL. What is the process for creating a new software license, such as "John Doe's generic license"?

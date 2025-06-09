@@ -1,1 +1,0 @@
-I'd like to get into web development using C++ as the "scripting language" on the server-side. My server infrastructure is *nix based, so doing web development in C++ on Azure is not applicable and C++/CLI ASP.NET is also not applicable. Separate from legacy CGI applications, can web development be done using C++ ? Thanks, Scott

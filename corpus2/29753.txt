@@ -1,1 +1,0 @@
-I am looking for ways to verify the user in order to reset their passwords. 2 commonly used ones:   * Email verification   * Secret question I wonder which will you recommend? I am trying to avoid having to use email at all (users won't need to provide emails, most hosts limit emails sent). But Secret Question alone seems a little unsecure. What do you think?

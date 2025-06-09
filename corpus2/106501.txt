@@ -1,1 +1,0 @@
-I feel weird when I'm editing code in an IDE that does not have line numbers in the text editor. The questions I have are:   1. Are line numbers visually excessive, particularly when a find by line function exists in your IDE of choice?   2. What are the uses of showing line numbers?

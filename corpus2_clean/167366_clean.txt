@@ -1,1 +1,0 @@
-server client application sometimes server updated requires dlls client updated well dlls dependency executable close client manually deploy dlls start client kind inconvenience client automated application normally need user intervention possible done automatically without restart user intervention like client would download latest dll replace current one

@@ -1,1 +1,0 @@
-Is java used out of web and without GUI? To develop web applications you have to learn design stuff, html+css+javascript+ajax => it takes really a lot of time to learn it. Developing a GUI application also requires design skills. Is it possible to write something in pure java and what exactly?

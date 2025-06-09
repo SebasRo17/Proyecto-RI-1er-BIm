@@ -1,0 +1,1 @@
+I have an expression that I would like to evaluate:               2 phi''[1 + a (-1 + u[10])] phi'[q]^3 > phi''[q] phi'[q] phi'[1 + a (-1 + u[10])]^2      Is there any way of telling Mathematica that the function `phi` is strictly increasing and convex?

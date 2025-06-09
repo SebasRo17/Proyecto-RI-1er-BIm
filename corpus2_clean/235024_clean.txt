@@ -1,1 +1,0 @@
-reading lecture array fortran num came across sentence fortran always store column first subscript varies rapidly second author mean say

@@ -1,1 +1,0 @@
-difference api embedded domain specific language dsl syntax consider api like opengl different graphic dsl word api sufficiently complex considered embedded dsl

@@ -1,1 +1,0 @@
-special reason construct list scheme use con num con num con num nil instead con num con num con num nil first seems obvious read right order second one actually reduces right order also seems natural construct list starting nil adding element opposite also found latter property curry friendly con num nicely becomes appends num list

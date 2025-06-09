@@ -1,1 +1,0 @@
-Many people use the term Snake Case to describe variables or other symbols `with_the_form_of_underscores`. When did this term enter into use?

@@ -1,1 +1,0 @@
-From time to time I find there is a need to build a service class. Something I can't really attach inside a model in order to respected GRASP and SOLID. So I created a class called AccountTransferService. * Are service classes good design practice ?  * Do they represent a Model ?  * If a Service is not a Model what are they in a MVC arhitecture ?

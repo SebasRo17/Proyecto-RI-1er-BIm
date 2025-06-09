@@ -1,1 +1,0 @@
-I'm new to Haskell and I'm not really sold on the `Nothing` constructor. It sounds like just another silent fail that's going to create headaches down the line. It seems much more useful to throw an error so I'll have a clue what's happening. Why am I wrong here?

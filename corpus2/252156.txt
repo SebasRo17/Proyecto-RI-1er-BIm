@@ -1,1 +1,0 @@
-A friend of mine has shown sometime ago the name of the below boolean technique/law but I forget that name unfortunately. Does someone know what it's called? example in C language:               !(a || b)      It's a short to:               !a && !b

@@ -1,1 +1,0 @@
-may simple question curious blocking call implemented specifically block thread sleep

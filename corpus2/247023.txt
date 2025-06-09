@@ -1,1 +1,0 @@
-Haskell's type classes are a very powerful tool and give Haskell a great expressive ability, compared to functional languages that don't have them. When were they invented, and who invented them?

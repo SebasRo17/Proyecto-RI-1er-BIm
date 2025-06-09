@@ -1,1 +1,0 @@
-I did some research on using server side templates vs JSP, could not find information on it. Can someone please provide information on pros and cons using server side templates vs JSP and vice versa.

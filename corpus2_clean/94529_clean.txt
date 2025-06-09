@@ -1,1 +1,0 @@
-best protocol format soa design using rest option decide xml json yaml protobuf anything else might missed requirement lightweight less bandwidth existing client libs php scale well update two machine one php front end used rendering different html old browser html num browser adobe air client need communication pipe php machine think restful service pipe good idea decide format

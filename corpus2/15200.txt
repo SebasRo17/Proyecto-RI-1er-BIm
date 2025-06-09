@@ -1,0 +1,1 @@
+I'm studying polynomial rings and i would like to know some tricks for generating lots of examples. For instance, suppose i'm interested in polynomials over the integers mod (2,x^3 + 1). To get a feel for the structure i would like to expand a bunch of random polynomials and see what happens. I would like to do this without typing each individually. Any suggestions? Thank you!

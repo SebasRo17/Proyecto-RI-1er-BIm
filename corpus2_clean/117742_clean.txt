@@ -1,1 +1,0 @@
-using devise little realized built something else called warden handle authentication devise offer outside warden considering removing devise using warden

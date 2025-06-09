@@ -1,1 +1,0 @@
-pro con exposing sql api instead rest api let assume would private api api developer user team probably biggest problem would security validation see two possible approach num defining set allowed sql query template num clever analysis every incoming sql query

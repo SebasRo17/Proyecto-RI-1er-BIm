@@ -1,1 +1,0 @@
-Why does Python use hash table to implement dict, but not Red-Black Tree? What is the key? Performance?

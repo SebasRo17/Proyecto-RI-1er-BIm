@@ -1,0 +1,1 @@
+Is it possible to create a dynamically changing binary $n \times n$ matrix $A$, which appears to the user as a $n \times n$ matrix/table of checkboxes and the user can change the entries of $A$ by checking or unchecking these checkboxes? If yes, what would be the easiest way?

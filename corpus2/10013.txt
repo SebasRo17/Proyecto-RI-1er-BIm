@@ -1,0 +1,1 @@
+I am using `ListLinePlot` to draw a number of points to a graph:               ListLinePlot[{{5 10^-3, 0}, {4.65 10^-3, 100}, {4.32 10^-3, 200}, {3.74 10^-3, 400},          {3.23 10^-3, 600}, {2.6 10^-3, 900}, {2.09 10^-3, 1200}, {1.68 10^-3, 1500}}]      How can I also draw the tangent to the line in a point?

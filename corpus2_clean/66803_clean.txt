@@ -1,1 +1,0 @@
-wanted get thought see build system like scons make jam ant autotools exist something like cross platform project file address another need net almost standard project file mono build project created msvc seen makefile directory sub directory opinion wrong gut say project file allows pas parameter complete build one place even multiple file importantly tool exist

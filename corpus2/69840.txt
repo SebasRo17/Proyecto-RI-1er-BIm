@@ -1,1 +1,0 @@
-My team plans to deprecate a few methods from a specific library. I do not want to simply remove them, but dont want to return results either from the mehtods that are to be deprecated. What are the guidelines/process I should ideally follow?

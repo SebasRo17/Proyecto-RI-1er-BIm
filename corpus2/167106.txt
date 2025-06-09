@@ -1,1 +1,0 @@
-What is the standard for describing functions/methods (function name, number of arguments, argument type, return type, etc...) in a manner that is language independent? EDIT: More specifically, how does one describe a function without the use of diagrams? I thought there was a pure text standard.

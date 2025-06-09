@@ -1,1 +1,0 @@
-What data structures can you use so you can get O(1) removal and replacement? Or how can you avoid situations when you need said structures?

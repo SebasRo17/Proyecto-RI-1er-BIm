@@ -1,1 +1,0 @@
-control change special artifact configuration management tool work properly

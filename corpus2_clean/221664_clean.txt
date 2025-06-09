@@ -1,1 +1,0 @@
-example inheritance language class call subclass method rather super class method behave like traditional inheritance like following parent thing child thing super thing instead behave like parent thing sub thing child thing pattern

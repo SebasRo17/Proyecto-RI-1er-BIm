@@ -1,1 +1,0 @@
-Seriously, what's the big deal about having a few cycles in one's import graph? I see it as a lesser evil than having super fine grained imports that make keeping track of where to look for what code an absolute nightmare.

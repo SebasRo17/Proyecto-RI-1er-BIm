@@ -1,1 +1,0 @@
-I'm new to c++ and I wanted to know few questions regarding makefile. 1) Is writing makefile really important ? I mean there are many IDE's which does this automatically. Also, do people in programming job write makefiles or do they use automation? 2) Should I learn GNU make or something else like cmake or other ? Can anyone point of pros and cons of these?

@@ -1,1 +1,0 @@
-generally speaking optimization typically slant towards designing software prefers optimize design development time e quick write easier maintain processing time storage either ram db disc etc space course highly subjective problem solved deadline involved like hear reason would make choose one form optimization another

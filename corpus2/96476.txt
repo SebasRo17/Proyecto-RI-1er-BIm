@@ -1,1 +1,0 @@
-Should I store only the user's session id along with the data in a table, or should I store the user's session id in a table and access an array of data from the user's session id? and why? What is more efficient? I will not be generating any reports.

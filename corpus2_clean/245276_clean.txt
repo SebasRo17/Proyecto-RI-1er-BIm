@@ -1,1 +1,0 @@
-common pattern come across backbone collection initially seeded database however user also add collection user add collection reflected db usually would bind kind server call collection add event however call made even initial seed want called new whats right way tackle problem

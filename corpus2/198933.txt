@@ -1,1 +1,0 @@
-When I click on button, might be in windows apps, web apps, etc it has some animation to actually see it clicked and event is raised in background. I've knowledge of events and its attaching to button click events but I wanted to know how this mechanism works. I always assumed it is inbuilt in operating systems.

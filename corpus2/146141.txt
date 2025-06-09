@@ -1,1 +1,0 @@
-IF a 3 dot vector and a 3x3 matrix can rotate, scale and transform things in a virtual 3D space, could you use a 3x3x3 matrix and a 3.3.3 vector to do something to the games sense of time?

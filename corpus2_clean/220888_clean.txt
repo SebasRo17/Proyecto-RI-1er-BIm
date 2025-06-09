@@ -1,1 +1,0 @@
-condition1 else condition2 statement2 else condition3 else would like refactor duplicate statement always need check condition1 condition cannot change order condition also want write condition1 every condition solved like condition1 else condition2 statement2 else condition3 however think empty condition easily understandable others even better approach

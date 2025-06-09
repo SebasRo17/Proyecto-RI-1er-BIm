@@ -1,1 +1,0 @@
-collection normal function self calling function within javascript file comment want say something along line script contain self calling xxx function xxx non self calling function static spring mind feel would incorrect use static method php something completely different anyone idea thanks

@@ -1,1 +1,0 @@
-Under which application development scenarios C# dynamics and ExpandoObject can be used or when to consider using c# dynamics and ExpandoObject

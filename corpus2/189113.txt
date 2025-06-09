@@ -1,1 +1,0 @@
-When offering to create a profile (for example, login+pwd) for a web service, what are the best practices one should implement to avoid mass spamming/creation of fake profiles? I am thinking about email confirmation, captchas, etc... any other ideas that work in practice?

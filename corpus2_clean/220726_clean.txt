@@ -1,1 +1,0 @@
-somewhat defensive programmer big fan microsofts contract cannot always use c language tool assertion usually end like assert requirement try implementation catch assert exceptional ensures finally assert ensures assert invariant however paradigm whatever would call lead lot cluttering started wonder really worth effort whether proper unit test would already cover

@@ -1,0 +1,1 @@
+Why can't Mathematica 9 simplify mol/L to M, when it can simplify M*L to mol?                Quantity["Moles" / "Liters"] // UnitSimplify      (* => 1 mol/L *)           Quantity["Molar" * "Liters"] // UnitSimplify      (* => 1 mol *)      And is there a way to fix this behaviour?

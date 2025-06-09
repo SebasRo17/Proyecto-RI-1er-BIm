@@ -1,1 +1,0 @@
-Using URL rewriting for session management for plain HTTP communication is a recipe for disaster, however, does some of that risk go away if you're using SSL (https)?

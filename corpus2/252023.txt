@@ -1,1 +1,0 @@
-I'm just now learning about C. I find it odd that the creators chose the asterisk (`*`) as the symbol for pointers rather than a symbol that actually _looks_ like a pointer (`->`). Considering how confusing dereferencing and function pointers can be, is there a historical --or even practical-- reason for using the asterisk?

@@ -1,0 +1,1 @@
+Consider the following:               AbsoluteTime["17/04/2012",{"Day","/","Month","Year"}];      From my calendar in my office, I know that April 17th is in the 16th week of the year 2012. The `Calendar` package does not provide a function by which I can determine the week of the year. However, is there a way to determine the week of a year based on `AbsoluteTime` figures?

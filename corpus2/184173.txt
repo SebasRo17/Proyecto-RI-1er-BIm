@@ -1,1 +1,0 @@
-I have always wondered why Java does not do type inference given that the language is what it is, and its VM is very mature. Google's Go is an example of a language with excellent type inference and it reduces the amount of typing one has to do. Is there any special reason behind this feature not being a part of Java?

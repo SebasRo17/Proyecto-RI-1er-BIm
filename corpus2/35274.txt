@@ -1,0 +1,1 @@
+Please, tell me what is the issue with the following code?               Dimensions[Subscript[R, 2]]      > >     {201, 161, 53} >                 Table[       If[Subscript[R, 2][[x, y, z]] != 2, Subscript[R, 2 ][[x, y, z]] = 0],        {x, 1, 201}, {y, 1, 161}, {z, 1, 53}];      I am getting this error: > Set::setps: Subscript[R, 2] in the part assignment is not a symbol. >>

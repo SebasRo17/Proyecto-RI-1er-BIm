@@ -1,1 +1,0 @@
-I am developing a software project in Java/Swing licensed under GPL v3. Later, I want to create a Android application which uses the algorithms of the Java/Swing application. This Android app will be a commercial product (sold on Google Play Store). Is this a problem, when I use my OWN GPL code in a commercial SW developed by me?

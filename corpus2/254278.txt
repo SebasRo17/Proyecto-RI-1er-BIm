@@ -1,1 +1,0 @@
-I have a UML activity diagram below, where there are two ways are shown in which actions can be done. ![enter image description here](http://i.stack.imgur.com/bhttT.jpg) Since the setting of values of **a** and **b** can be done any order before the action 2 is executed so, I'm wondering if both of the ways shown here are correct or if there is a difference between them?

@@ -1,1 +1,0 @@
-current sole developer architect fairly large web application asp net mvc stack roughly 150k line end development horizon starting think need done hand project want make sure right thing anyone maintain project future thing aware getting ready hand project another developer team developer maintenance

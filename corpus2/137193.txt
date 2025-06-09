@@ -1,1 +1,0 @@
-According to this, "Scrum highly relies on a highly motivated, closely collaborating, cross-functional and self-organized teams." So how do you handle co-workers who may not be as motivated to take ownership of the code? How do you get someone interested in taking ownership?

@@ -1,1 +1,0 @@
-A study shows that lines_written/time is language-independent and application- independent for most programmers. If this were true it would imply that the most terse a language is, the more productive a programmer can be on it. Where can this study be found?

@@ -1,1 +1,0 @@
-I'm working in a project that use nhibernate as orm. Is there any benefit for me to use sharp architecture? what is these benefits?

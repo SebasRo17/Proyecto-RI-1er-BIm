@@ -1,1 +1,0 @@
-I am totally into Scala as a language ... and still I struggle with why any company should switch from Java to Scala. Is Scala just syntatic sugar on top of the JVM or are there fundamental improvements in Scala over Java that would improve real world applications?

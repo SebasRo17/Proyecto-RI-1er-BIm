@@ -1,1 +1,0 @@
-Is there an alternative to bits as the smallest unit of data? Something that won't be only 0 or 1, but actually hold many possible states in between? Wouldn't it be more natural to store floats like that?

@@ -1,1 +1,0 @@
-pro con gcc v clang llvm

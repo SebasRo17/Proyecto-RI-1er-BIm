@@ -1,1 +1,0 @@
-I've recently acquired a laptop with an Intel i3 CPU and an AMD/ATI 6300 card, running Ubuntu 10.10. How do I proceed in setting up a development environment that allows me to program the GPU? I assume I'll have to use OpenCL (CUDA is NVIDIA-only), but since I'm a novice with GPU programming, I'm asking the advice from more experienced programmers on the issue.

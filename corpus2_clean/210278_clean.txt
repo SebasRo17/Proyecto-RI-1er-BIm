@@ -1,1 +1,0 @@
-tried rewriting function c called using jni observed take longer time execute native c function compared function due jni overhead widely believed c certain advantage wanted know whether rewriting c view improve overall performance application good idea yes part application rewritten application use

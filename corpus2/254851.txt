@@ -1,1 +1,0 @@
-#include <stdio.h>     int main()     {         int k=5;         if(++k < 5 && k++ / 5 || ++k <= 8)         {              printf("%d",k);         }         return 0;     }      Why is the output 7 and not 8?(I am a beginner in programming so please bear with me.)

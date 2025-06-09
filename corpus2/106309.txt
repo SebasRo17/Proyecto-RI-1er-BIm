@@ -1,1 +1,0 @@
-When using Firefox on my PC, for example, HTTP analysis is quite easy using for example the Net tab of Firebug. GETs, POSTs, etc., all there. What would be the best technique to see the HTTP requests an Android app sends? Another app? Some kind of hack via Wi-Fi and a router or USB modem?

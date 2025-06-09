@@ -1,1 +1,0 @@
-My editor of choice is Notepad++. It has macro capabilities, but as much as I think, I don't see how can I use it for anything. Do you use macros in your editor that have made your work easier? (for general use I mean)

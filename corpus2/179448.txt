@@ -1,1 +1,0 @@
-I have been reading the Scrum Guide from scrum.org and it says: > Development Teams do not contain sub-teams dedicated to particular domains > like testing or business analysis. In its literal translation this means that there are no testers which is confusing. How can they be suggesting this?

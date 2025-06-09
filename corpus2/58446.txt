@@ -1,0 +1,1 @@
+The menu item “Interrupt Evaluation…” seems to have disappeared in Mathematica 10 on OS X. Well, this is a bummer. I personally use _Mathematica_ for very long calculations, and I was using this function frequently to “pause” a calculation just the time to do another CPU-intensive task. Any chance this can reappear in an update?

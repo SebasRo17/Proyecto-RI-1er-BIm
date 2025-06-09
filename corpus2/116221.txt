@@ -1,1 +1,0 @@
-When is it appropriate to use a fall-through (classic) switch statement? Is such usage recommended and encouraged or should it be avoided at all costs?

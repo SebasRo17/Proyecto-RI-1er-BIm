@@ -1,1 +1,0 @@
-suppose distinct class behavior represented like public interface behavior public implement behavior public public implement behavior public used distinct client clienta us clientb use client scenario interface behavior purpose created maybe future requirement change

@@ -1,1 +1,0 @@
-started write hand written parser fun simple rule working problem optional grammar rule marked optional rule question mark simple rule rule1 aa ab ac ad aa ab ac optional ad required ex matching matching aaab matching ad matching need algorithm regex tool something like solve brute force trying every possible combination rule think better way

@@ -1,1 +1,0 @@
-How do you guys handle constants, especially in Java (static final) and C++ (define)?   * Do you use dedicated headers (C++) or classes (Java) for all constants?   * Do you turn all literal values into constants or just those you want to use in multiple places? This is probably a bit subjective, so I'm especially interested in the reasons for your approach.

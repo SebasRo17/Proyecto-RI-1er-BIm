@@ -1,1 +1,0 @@
-part ray tracer implementation need compute coordinate triangle 3d order decide ray hit triangle theory could done simply solving linear equation due fact vertex triangle could x z coordinate coefficient equation would num caused numerical initial implementation systematic approach find coordinate efficient way choice brutally check possibility one one

@@ -1,1 +1,0 @@
-Browser support issues aside, if you're being an Http/hateoas stickler what verbs should the request to log into/out of a site be? DELETE would seem like the obvious choice but I'm not sure what the resource you're deleting would be.

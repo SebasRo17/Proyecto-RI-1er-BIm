@@ -1,1 +1,0 @@
-reading proposal type came across sentence identity serf support mutability state mutated remains intrinsic understand identity though likely wrong case please correct idea acting pointer reference located elsewhere memory usually heap la c would mutability imply example instantiated object stack c immutable trouble seeing link

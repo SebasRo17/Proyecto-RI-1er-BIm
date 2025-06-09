@@ -1,1 +1,0 @@
-rather new c wondering duplication necessary evil come writing common structure c general could try write generic implementation hash map example always finding end result messy could also write specialized implementation specific use case keep clear easy read latter would course lead duplication generic implementation norm write different implementation use case

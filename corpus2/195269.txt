@@ -1,1 +1,0 @@
-Has there been a formal study about the prevalence of agile vs traditional (e.g. waterfall) software development methodology in the IT industry? And how fast the agile share is growing (assuming it is)?

@@ -1,1 +1,0 @@
-I have this issue with licensing. I downloaded a third-party class from GitHub and it's under the GPL v3 license. However, I used this class on another open-source project which is under the GPL v2 license, and submitting my script there, requires that everything is under GPL v2 from my side too. Am I allowed to change the license for that class, even though I am not the author?

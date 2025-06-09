@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Learning to program without a computer I have a bit of experience programming (6 Months) and am soon to go on a 2 month trip where I will be without a computer, but with lots of spare time. Is there a way I can keep programming (or learning to program) even without a computer? Should I read language-agnostic books like Code Complete or PragProg?

@@ -1,1 +1,0 @@
-php website experiencing high level traffic week scaled server accept traffic want sort fallback page event something happens anyone know easy way implement initial thought check header page requested quite understand even matter user even receive initial http header get num gateway timeout would something like checking result var dump conditional even reach client

@@ -1,1 +1,0 @@
-> Write psuedocode to determine the number of pairs of values in an input file > that are equal. If your first try is quadratic, think again and develop a > linearithmic solution. I found this question in a textbook and I'm not sure how to write this algorithm. My guess at first was to write it along the formula nC2 = (n(n+1))/2. Any help is appreciated.

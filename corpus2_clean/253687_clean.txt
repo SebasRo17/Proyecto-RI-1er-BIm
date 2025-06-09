@@ -1,1 +1,0 @@
-superclass two subclass subclassa subclassb different take superclass parameter different thing depending receives illustrate public dostuff superclass subclassa something subclassb something else want avoid checking e instanceof feel like proper oo design figure employ polymorphism elegantly solve problem solve problem elegantly

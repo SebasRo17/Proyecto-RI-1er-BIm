@@ -1,1 +1,0 @@
-Is it necessary to have an Android device to learn programming for the Android? Currently, Java is my primary programming language.

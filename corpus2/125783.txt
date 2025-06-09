@@ -1,1 +1,0 @@
-I have my mind set that I'm learning Java as my second language (I am a Perl developer). But just from reading a little of the online tutorials, I really can't find any similarities between the two. What will I have an easy time understanding when learning Java?

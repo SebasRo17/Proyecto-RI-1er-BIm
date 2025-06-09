@@ -1,1 +1,0 @@
-NPM's docs say that anyone can call `npm-publish` and add his own NPM package to the "official" registry. Who controls this registry? How reliable is it for production deployment scenarios? What's preventing people from spamming this registry? Is there any moderation/QA process?

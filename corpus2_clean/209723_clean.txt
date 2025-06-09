@@ -1,1 +1,0 @@
-extent one make exception redundant atomic instance suppose public authenticate username password call private username password method require params non zero length would raise nullpointerexception needed sanity check well authenticate basis could potentially used independently later date

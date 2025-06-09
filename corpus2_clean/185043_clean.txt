@@ -1,1 +1,0 @@
-good number service dao class set num exception block get repeated show duplication report approach think extract common exception block common call one shot organize method ensure always one entry exit point service daos one set exception better way approach scenario

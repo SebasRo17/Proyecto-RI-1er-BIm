@@ -1,1 +1,0 @@
-I've been tasked with developing requirements and specifications for a project our group is starting. I realized that I don't know the difference; a Google search just confused me more -- it seems some people say that specifications _are_ requirements, but at a lower level.

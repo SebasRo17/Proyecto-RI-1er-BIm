@@ -1,1 +1,0 @@
-How to join two tables in codeigniter. I have two tables 1-class 2-membership And i want to join both one field to another Kindly provide code to join it. Thanks in advance.

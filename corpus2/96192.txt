@@ -1,1 +1,0 @@
-Becoming a good analyzer and designer can greatly benefit a developer. But there are definitely obstacles for this. Not everybody is interested in OOAD, and not every person who is interested, knows the path. Should a good OOAD know multiple OO languages? Or should he/she have failed projects? How can one become a good OOAD?

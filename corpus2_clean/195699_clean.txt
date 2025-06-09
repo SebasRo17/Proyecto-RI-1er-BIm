@@ -1,1 +1,0 @@
-would like know best practice creating demo environment substitute database interaction form resource e creating json file containing supposedly returned webservice call wanted know already standard way obtaining result thanks

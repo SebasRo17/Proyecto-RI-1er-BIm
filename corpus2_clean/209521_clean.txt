@@ -1,1 +1,0 @@
-understand compiling javascript sometimes necessary even case result faster application however wondering compiling javascript building web application language like ruby considered bad practice specifically purpose language preference task typical front end function

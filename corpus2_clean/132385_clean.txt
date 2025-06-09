@@ -1,1 +1,0 @@
-minimal set language feature structure make turing complete

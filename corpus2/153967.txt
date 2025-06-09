@@ -1,1 +1,0 @@
-I have created a .net windows form application that I want to restrict from being duplicated. I want this application to be portable, so I would like to allow it to be moved. How would I be able to do this without managing it through a remote server?

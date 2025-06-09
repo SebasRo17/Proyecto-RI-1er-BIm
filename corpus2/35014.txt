@@ -1,0 +1,1 @@
+I want to display a rational number in _Mathematica_ in periodic style. `PeriodicForm` isn't working anymore. It worked in _Mathematica_ 5 and now I'm using _Mathematica_ 9. I want to display the number $3.13678989898989898989\ldots$, where the repeating $89$ part should be displayed as $3.1367\overline{89}$

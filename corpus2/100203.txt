@@ -1,1 +1,0 @@
-I've used several IDEs and created several default projects. Upon creation, I'll find folder structures created for me. Sometimes I'll see a Resources folder, sometimes an Assets folder, and sometimes both. Is there actually a (standard) difference?

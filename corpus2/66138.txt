@@ -1,1 +1,0 @@
-I noticed that as of PHP5, interfaces have been added to the language. However, since PHP is so loosely typed, it seems that most of the benefits of using interfaces is lost. Why is this included in the language?

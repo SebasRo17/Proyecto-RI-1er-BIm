@@ -1,1 +1,0 @@
-taught access database abstraction layer wondering also standard practice access file system abstraction layer seems unit testing would become much simpler since mocking filesystem often pain poorly supported language

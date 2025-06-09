@@ -1,1 +1,0 @@
-correct mutex linux cannot used cross process synchronization opposed window counterpart idea limit mutex synchronisation functionality linux

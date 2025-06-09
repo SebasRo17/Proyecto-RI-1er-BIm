@@ -1,0 +1,1 @@
+Is there a way to set up key bindings for the `DisplayFormula` and `DisplayFormulaNumbered`styles? I am using _Mathematica_ 9 on mac OS X 10.7.5. This would be very useful as it is time consuming having to click through with the mouse each time.

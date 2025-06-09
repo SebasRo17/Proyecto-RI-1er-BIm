@@ -1,1 +1,0 @@
-does anyone got some idea about ECL which is Enterprise control language used in HPCC(high performance cluster computing) used for distributed computing? i got some problem and not getting any answer after lot many tries any help will appreciated. thanks

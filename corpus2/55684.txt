@@ -1,0 +1,1 @@
+I think nearly all of us have at least once seen an image like this: ![enter image description here](http://i.stack.imgur.com/Zxomk.jpg) So I wondered whether it is possible to recreate this effect using Mathematica because it seems like it wouldn't need that many processing steps. Any ideas? http://hplussummit.com/images/wolfram.jpg this can be used as a source image.

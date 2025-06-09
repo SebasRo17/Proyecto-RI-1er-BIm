@@ -1,1 +1,0 @@
-read junit tutorial found helpful understanding use junit however bit confused convention placing multiple test method tutorial place one test describes use test suite group multiple test class together mean common practice test one test test suite used chain together unintended instead common practice put multiple test method

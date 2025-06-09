@@ -1,1 +1,0 @@
-I've read:   * IaaS, PaaS and SaaS Terms Clearly Explained and Defined and   * Cloud Computing – Demystifying SaaS, PaaS and IaaS And I've got 2 questions:   1. Is Google App Engine considered PaaS or IaaS?   2. Is HaaS a subset of IaaS or is HaaS really just another name for IaaS?

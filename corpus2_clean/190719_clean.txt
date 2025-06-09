@@ -1,1 +1,0 @@
-difference term concurrent parallel execution never quite able grasp distinction tag defines concurrency manner running two process simultaneously thought parallelism exactly thing e separate thread process potentially separate processor also consider something like asynchronous dealing concurrency parallelism

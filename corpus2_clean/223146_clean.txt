@@ -1,1 +1,0 @@
-make reference parent node tree still tree definition anymore wikipedia definition computer science tree widely used abstract adt structure implementing adt simulates hierarchical tree structure root subtrees child represented set linked node enter image description

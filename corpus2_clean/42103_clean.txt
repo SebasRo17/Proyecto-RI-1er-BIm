@@ -1,1 +1,0 @@
-far trying use vim vanilla configuration possible save hassle moving machine however thing really like bind key shorten use often delete word cursor replace one clipboard particular key conventionally reserved user defined mapping point question mostly would like avoid hassle later decide install plugin take configuration file vim another o find key mapping clash something else

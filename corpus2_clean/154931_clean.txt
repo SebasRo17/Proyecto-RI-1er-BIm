@@ -1,1 +1,0 @@
-started using requirejs love one concern though compressing j file one single file even requirejs optimizer need load module file server time time concerned performance user experience wise one better

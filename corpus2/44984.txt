@@ -1,0 +1,1 @@
+Suppose I define a new notation rule like               Notation[OverBar[x_] ⟺ mean[x]]      If I already have some notebooks that were written using `OverBar` directly, is there a way to tell _Mathematica_ to reinterpret the notebooks using the new rule and reparse all instances of `OverBar` as `mean`.

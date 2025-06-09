@@ -1,1 +1,0 @@
-In Ext 3/4 filesystem, if I have a log file open and being appended to, if another process tries to read it (e.g. with `cat`), what happens?   1. Can the reading process read part of / an incomplete write?   2. Is reading-during-writing safe and won't disrupt the writing process? Or is there a chance the logs can be corrupted by doing this? Where should one read more?

@@ -1,1 +1,0 @@
-I was just asked this question by my company who is investing in a Clojure application and I did not have a good answer? Can anyone, in all seriousness tell me what would happen to Clojure if Rich left the project?

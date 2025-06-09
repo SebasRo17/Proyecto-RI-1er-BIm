@@ -1,1 +1,0 @@
-lot source e g wikipedia mentiones system requirement specification functional specification two separate entity however book writes software requirement specification sometimes called functional specification product specification confusing thought f describes function sr whole system point view f would contain non functional functional requirement everything else

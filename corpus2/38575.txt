@@ -1,0 +1,1 @@
+Consider this code:               ScientificForm[1., 8, NumberFormat -> (Row[If[#3 == "", {#1, "E", 0}, {#1, "E", #3}]] &)]     (* 1.E0 *)          ToString@ScientificForm[1., 8, NumberFormat -> (Row[If[#3 == "", {#1, "E", 0}, {#1, "E", #3}]] &)]     (* 1.E0E0 *)      Why is there an extra "E0" in the second output?

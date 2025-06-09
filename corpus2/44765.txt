@@ -1,0 +1,1 @@
+I want to find solutions of a system of multivariate nonlinear equations of a specific index (i.e., the no. of positive eigenvalues of the Jacobian evaluated at the solution). I know the FindRoot command can find numerical solutions. But it doesn't restrict the search to specific index of the solution.

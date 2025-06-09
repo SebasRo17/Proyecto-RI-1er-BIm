@@ -1,1 +1,0 @@
-using egrep search codebase around 300mb source start get little slow search codebase

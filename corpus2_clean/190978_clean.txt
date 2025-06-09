@@ -1,1 +1,0 @@
-relatively new programming field experience think overusing singleton pattern need better way right using singleton excuse static global use singleton application status application setting also lot manager basically object needed different part application think pattern make easier creating one inject part need downside approach suggestion regarding matter

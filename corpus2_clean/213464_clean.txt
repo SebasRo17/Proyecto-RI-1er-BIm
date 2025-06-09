@@ -1,1 +1,0 @@
-reading clr via c came across sentence first chapter understand exactly meant full il offer instruction manipulate register easy people create new language compiler produce targeting clr mean ventured guess mean il bit low level low easy create language top

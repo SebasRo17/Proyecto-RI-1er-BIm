@@ -1,1 +1,0 @@
-convention common way using super function member example super protected foo protected myint subclass would want refer simply foo myint super foo super myint way

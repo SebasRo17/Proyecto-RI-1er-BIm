@@ -1,1 +1,0 @@
-worked several different web application base seen divergence back end serving json front end structure particular backend want number object structure wrap object key first example say back end want number image item image item structured like id num filename somefile jpg caption image gallery num would structure grouping item properly consumption javascript front end

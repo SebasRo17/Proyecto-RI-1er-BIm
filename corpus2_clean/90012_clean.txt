@@ -1,1 +1,0 @@
-year used various naming convention service application example classname service classname manager classname factory classname provider classname helper generally use helper suffix utility class external dependency however find bit cross others wondered recommendation standard guideline use

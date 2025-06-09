@@ -1,1 +1,0 @@
-asked implement idisposable object num managed resource contain stream large resource understand importance properly disposing large resource unmanaged resource side equation benefit implementing idisposable small fully managed object negative impact gc suppressfinalize

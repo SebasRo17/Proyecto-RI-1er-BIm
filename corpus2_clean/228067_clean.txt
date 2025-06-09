@@ -1,1 +1,0 @@
-new mvvm pattern window num text box namely address description save button listview display field address description respectively save button clicked want save field database well show record listview well put inotifypropertychanged interface model viewmodel place

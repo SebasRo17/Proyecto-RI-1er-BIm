@@ -1,1 +1,0 @@
-If someone writes code so that an internal variable $_fields is accessible without using getter/setter methods, is there a proper term used to describe that? Something polite enough to use with management :)

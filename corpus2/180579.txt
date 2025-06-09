@@ -1,1 +1,0 @@
-In the context of the Ruby programming language, what is a closure and when do you use one? What are the uses for it in Rails?

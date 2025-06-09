@@ -1,1 +1,0 @@
-developing software us many call server client side silverlight application almost every time user click button sends num num wcf call server dozen user time server database server serf client intermediate level developer thinking caching syncing change time time official solution technology like pattern

@@ -1,1 +1,0 @@
-I have a Java project which uses Java to access some 3rd party libraries. For other things I'd like to use something newer like Python maybe. Is it easy to incorporate into an existing project? How do people usually do that? Thanks, Alex

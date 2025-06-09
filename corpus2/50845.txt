@@ -1,0 +1,1 @@
+Lets say I have the following PDE: $$x^2 u_{xx} - u_{yy} + u_y = 0$$ And I have the following change of variables: $$ s(x,y) = x e^y \, \, \, , \, \, t(x,y) = x e^{-y}$$ How can I use Mathematica to compute $u_{xx}, u_{yy},u_y$ on terms of $u_{ss},u_{tt}, u_{ts},u_t,u_s$ using the definitions and the chain rule?

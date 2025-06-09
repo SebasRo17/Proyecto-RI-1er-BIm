@@ -1,1 +1,0 @@
-c best practice encapsulating variable need use multiple method ok simply declare top two method also using app setting config file use getter like private get appsettings best practice

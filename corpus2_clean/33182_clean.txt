@@ -1,1 +1,0 @@
-test sql sql generated database framework framework like dbunit allow create real memory database execute real sql hard use developer friendly speak need first prepare test shared test p mean mocking database framework database method test make num sure sql working even hardcore refactoring

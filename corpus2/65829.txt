@@ -1,1 +1,0 @@
-I have an application running with admin rights, which in order to work, need add a port and register himself to the exceptions list of the Windows Firewall. the question is, is considered a bad practice do this without inform to the final user? or must be done asking to the final user about this ? Thanks in advance.

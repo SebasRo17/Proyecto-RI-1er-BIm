@@ -1,1 +1,0 @@
-let say relational database application user message want show number unread message user best way archive introduce field user count user receives message decrease count read one execute query every time compute number message user flagged unread think first approach complicated prone perform better second approach normally done better approach

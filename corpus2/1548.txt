@@ -1,0 +1,1 @@
+I can't monitor ParallelTable:               Monitor[ParallelTable[Pause[3]; i, {i, 1, 10}], i]      just displays `i` until it is finished. Do you guys know of alternatives?

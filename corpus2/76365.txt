@@ -1,1 +1,0 @@
-What is a good javascript library (for use with Ruby on Rails) for drawing shapes and dynamic connections (lines connecting shapes that adjust as you move the shapes)?

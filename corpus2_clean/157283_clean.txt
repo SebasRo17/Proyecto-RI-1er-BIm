@@ -1,1 +1,0 @@
-pear standard reference html allowed see people use html tag like stuff html allowed break doc parser

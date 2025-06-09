@@ -1,1 +1,0 @@
-If one were a quantitative developer, what factors are considered in language choice? I am talking high frequency trading on the scale of investment banks. I know latency is definitely a factor and maybe readability of code (not sure how much code is altered in which case this would be big). Anyone with more knowledge on this know the pros/cons sought in development?

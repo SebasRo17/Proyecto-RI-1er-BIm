@@ -1,1 +1,0 @@
-application run various task automated process client would like create file given folder task way flag task completes prefer database flag notified file system rather continually polling database table creating deleting file flag feel clunky elegant approach notifying third party event

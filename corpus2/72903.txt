@@ -1,1 +1,0 @@
-All, I need to give a small seminar(about 20mins duration) to a class on Software Testing. Given the time constraint, I wanted to seek opinion from everyone as to what primary topics should I cover in this seminar. Also, if any references to software testing documents/videos would be helpful.

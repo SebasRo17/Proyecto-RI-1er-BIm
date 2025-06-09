@@ -1,1 +1,0 @@
-Neo4j eases relationship traversals => especially useful for a social network for instance. But are there any scenarios when it's advised to associate an additional relational database (or other NoSQL database that isn't specifically oriented graph) for specific query types. In short, can Neo4j be sufficient to itself for all query tasks?

@@ -1,1 +1,0 @@
-I want to learn more about event driven programming. Especially where and why I would consider using events. What resources/books should I consider reading to this end? (note: I'm indifferent to language. )

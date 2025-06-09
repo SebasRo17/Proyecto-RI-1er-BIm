@@ -1,1 +1,0 @@
-made web application would like add search option since learning project afford buy google license consider creating search engine read two major way using apache lucene using apache solr read bit really understand difference one choose looking something free easy learn use suggestion please let know

@@ -1,1 +1,0 @@
-Can anyone suggest me a Common Name for Edit,Save,Delete,Select I want to create a Interface in C#, which will support all these methods. My Context is : I am developing an Invoice Application in which i need a Product to be Created,Deleted,Updated,Selected

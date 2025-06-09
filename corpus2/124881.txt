@@ -1,1 +1,0 @@
-The C program Prog when ported to Java would be called JProg, a port to C++ would be Prog++ and a port to Python would be called PyProg. These names are all quite obvious. But the C# port would be called IronProg, which strikes me as strange. Why is it that programs ported to Visual Basic or C# are often called Iron*? Examples: IronPython, IronScheme, IronRuby, etc.

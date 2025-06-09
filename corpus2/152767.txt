@@ -1,1 +1,0 @@
-I'm working to implement a data service solution that has 2 request functions but can respond with one of 3 transmission types:   1. x12 EDI    2. HTTP MIME multipart    3. SOAP/XML + WSDL  I would also need to include logging and username/password authentication to the services. I'm in the very early learning stages of WCF. Is WCF a good fit for this?

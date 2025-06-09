@@ -1,1 +1,0 @@
-window service num web service web interface need follow path wise came two way creating solution first one concern fact ui w etc kind dto let say model asp net mvc mapped dto sl map bo mapping proper ef6 dto save database thinking way second one remove one level mapping one take 3rd solution

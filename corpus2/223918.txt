@@ -1,1 +1,0 @@
-If I'm designing a one page website, is it better to create external file for my JS code, or just put it in the html code? Is putting it on the page faster to load? Can I change the permissions to deny the users requests for the code, but the html page can still call the code?

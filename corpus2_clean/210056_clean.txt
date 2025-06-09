@@ -1,1 +1,0 @@
-first restful web service concerned security issue safe transmit access token via http header example post v1 resource http num content application x www form urlencoded api key access token foo bar connection made ssl also need defined scope attribute every access token

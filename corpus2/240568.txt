@@ -1,1 +1,0 @@
-From the _Code Complete_ book comes the following quote: > "Put the normal case after the `if` rather than after the `else`" Which means that exceptions/deviations from the standard path should be put in the `else` case. But _The Pragmatic Programmer_ teaches us to "crash early" (p. 120). Which rule should I follow?

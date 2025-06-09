@@ -1,1 +1,0 @@
-use jsf tomcat along backing proprietary db want know addition new database field stored procedure handled deploy new version application deploy sending war file hosting team war able setup stored procedure start possible appropriate strategy able incrementally update database

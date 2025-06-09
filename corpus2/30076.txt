@@ -1,1 +1,0 @@
-Is registration login using email a better idea than username to identify the user?

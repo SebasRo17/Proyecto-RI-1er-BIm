@@ -1,1 +1,0 @@
-I have some `context`   then I can do:   with `context.getError(Object): ErrorHolder` `holder.addError(error)` OR `context.setError(Object, error)` `setError` will probably have this implementation:   `context.getError(Object).addError(error)` what approach should I choose and why?

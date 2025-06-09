@@ -1,1 +1,0 @@
-When coding in low level languages like C I find that casting sometimes means 'reinterpret these bytes as if it had always been of this other type' and at other times as 'convert this value intelligently into this other type'. What is the original meaning of the word and is there any consistency in when to expect a conversion and when to expect a raw reinterpretation?

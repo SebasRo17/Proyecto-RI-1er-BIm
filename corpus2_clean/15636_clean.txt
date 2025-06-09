@@ -1,1 +1,0 @@
-good read useful coding standard thing thing coding standard include definition thing language formatter enforces metric like cyclomatic complexity line per file etc

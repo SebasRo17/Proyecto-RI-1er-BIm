@@ -1,1 +1,0 @@
-I've recently been learning F# for fun (I'm a VB.NET/C# dev), and I really like some of what it has to offer. Theoretically that is. But I'm having trouble thinking up of scenarios where I would choose to code in F# rather than in C#. Any ideas?

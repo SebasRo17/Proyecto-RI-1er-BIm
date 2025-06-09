@@ -1,1 +1,0 @@
-I am trying to understand the formula, but I am a bit in doubt how exactly you define edges and nodes. Edges seem to be every possible exit from a statement and nodes seem to be statements, is this definition wrong?

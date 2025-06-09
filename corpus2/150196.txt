@@ -1,1 +1,0 @@
-I am designing the a web application using domain driven design.I have following scenario: Each applicationGroup can have one Application and each application can have multiple configuration.I am trying figuring out which one will be aggregate object... which one will be aggregate roots and why?

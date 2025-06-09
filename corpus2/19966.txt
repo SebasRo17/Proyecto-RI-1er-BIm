@@ -1,1 +1,0 @@
-I have been tasked with evaluating a new PC for our dev team that is spec'd only slightly better than our current models. Could anyone recommend appropriate benchmarking software that would be useful to emulate typical development tasks?

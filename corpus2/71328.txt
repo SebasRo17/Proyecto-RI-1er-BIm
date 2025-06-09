@@ -1,1 +1,0 @@
-I really value unit-testing in developing webapps. I haven't had any experience in developing mobile apps. Is there anything that cannot be unit- tested in mobile apps? And what is the workaround for this? Is there any common gotcha that we must be aware in unit-testing mobile apps?

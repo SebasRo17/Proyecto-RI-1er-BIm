@@ -1,0 +1,1 @@
+I want to create a list of length `n` with the letters of the alphabet. For example, if `n = 3`, by list would be `{a,b,c}`. If `n=6`, the list would be `{a,b,c,d,e,f}`. Is there any easy way to do this?

@@ -1,1 +1,0 @@
-I am new to web programming and at this time I am learning about PHP. I would like to know when do I need to use a PHP framework such as CakePHP? What are things that this and other similar PHP frameworks offer for me? And is it really important to use a framework to be a professional?   * And can I create my own framework to provide the features I like into it?

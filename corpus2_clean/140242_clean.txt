@@ -1,1 +1,0 @@
-fairly new azure noticed visual studio auto creates following folder among others bin obj bin obj folder fairly standard clear purpose folder idea

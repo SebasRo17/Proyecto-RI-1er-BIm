@@ -1,1 +1,0 @@
-This is possibly a stupid question but, how does SSL relate to the Public Key Infrastructure? Cheers, J

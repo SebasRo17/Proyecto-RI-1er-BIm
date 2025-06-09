@@ -1,0 +1,1 @@
+I have noticed a function defined as such:                f[x_][y_] := expr;      How is the argument y in 2nd pair of brackets being used? What is the difference from defining a function this way:                f[x_, y_] := expr;

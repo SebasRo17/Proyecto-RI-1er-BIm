@@ -1,1 +1,0 @@
-Is a grid or p2p architecture a subset of a broker architecture? what are the key features that make these similar or distinct?

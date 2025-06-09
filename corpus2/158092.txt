@@ -1,1 +1,0 @@
-From Steve Yegge's "Lisp is Not an Acceptable Lisp":                Lisp has a little syntax, and it shows up occasionally as, for instance, '(foo)      being expanded as (quote foo), usually when you least expect it.      What is he talking about with `'(foo)` being expanded into `(quote foo)` in some situations? (As opposed, I would imagine, to `(quote (foo))`).

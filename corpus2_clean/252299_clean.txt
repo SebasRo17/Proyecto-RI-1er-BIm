@@ -1,1 +1,0 @@
-one way better performance good programming practice making holder activity extend onclicklistener make switch clause getitemid making one onclicklistener one button widget need making separated class another package implement onclicklistener instance activity

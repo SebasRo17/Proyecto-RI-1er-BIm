@@ -1,1 +1,0 @@
-question regarding dynamic initialization example num statement1 statement2 float b num allocates memory middle execution program process take place space get allocated b stack heap

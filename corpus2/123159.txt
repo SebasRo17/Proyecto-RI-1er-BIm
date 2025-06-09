@@ -1,1 +1,0 @@
-I'm wondering what are the specific differences in the terminology we use for grouping related parts of code. I've sometimes seen the terms used interchangeably: many OO languages even use the keyword "function" to define a method. (Why?) If you wanted to be precise, what are the specific meanings of each? Or is it just whatever each language chooses to call it?

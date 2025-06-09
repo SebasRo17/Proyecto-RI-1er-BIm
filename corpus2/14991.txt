@@ -1,0 +1,1 @@
+Is there a way to set the default Mathematica version? I would like to run both versions 7 and 8 (on a Win7 PC), but when version 8 is installed it takes priority. Clicking on a notebook automatically opens in version 8. What can I set to make version 7 the default?

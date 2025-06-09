@@ -1,1 +1,0 @@
-In MVC applied to WSGI or Java EE, is the Servlet a controller, dispatcher, or both? I think I've seen system diagrams where the controller and the dispatcher are different. Could the controller control SQL statements which should not be in the dispatcher? Thank you

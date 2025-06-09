@@ -1,1 +1,0 @@
-building application deal lot mathematical calculation encountered problem certain number cause rounding error understand floating point exact problem deal exact number make sure calculation preformed floating point rounding cause issue

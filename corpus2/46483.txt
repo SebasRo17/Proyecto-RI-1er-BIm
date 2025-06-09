@@ -1,0 +1,1 @@
+![enter image description here](http://i.stack.imgur.com/4bxGD.jpg) I got confused about what does "the outermost dimension" and "the first dimension" mean in the document I snipped. Does it mean row or column?

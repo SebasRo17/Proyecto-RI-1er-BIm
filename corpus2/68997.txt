@@ -1,1 +1,0 @@
-Can escaping functions (e.g. mysql_real_esacpe_string ) be moved down to the database layer where we would loop through all parameters passed for all queries and escape all strings. Would that be a good design?

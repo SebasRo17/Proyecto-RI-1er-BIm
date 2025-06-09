@@ -1,1 +1,0 @@
-first make clear compiler virtual machine aka completely unknown field understand every time c application vm invoked translates intermediate bytecode cil etc machine instruction operation done install time

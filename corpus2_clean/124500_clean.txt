@@ -1,1 +1,0 @@
-learnt lazy evaluation work wondering lazy evaluation applied every software currently produced still using eager evaluation

@@ -1,1 +1,0 @@
-v web site project come loaded several j file use e g use cdn newer version jquery jquery ui know safe remove unneeded j file project benefit deployed web server left alone

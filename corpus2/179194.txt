@@ -1,1 +1,0 @@
-Let's say I have a web service that is poorly written and inefficient, but it's output is cached so there's no bottleneck. Do you just leave it? Would you go as far as to take deliberate shortcuts knowing that performance problems will be masked?

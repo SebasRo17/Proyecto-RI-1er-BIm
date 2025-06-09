@@ -1,1 +1,0 @@
-* Why is the length of a program important?   * What difference does it make? [Aside from the fact that a short program looks "good".]

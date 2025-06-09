@@ -1,1 +1,0 @@
-My little brother is a CPA but in his new job he is required to use access to pull his own data. He has grown frustrated with the limitations of the canned reports that he has access to. However he does have read access to the data cubes and can write his own queries. I am looking for a book that would be easy for him to understand. Any suggestions?

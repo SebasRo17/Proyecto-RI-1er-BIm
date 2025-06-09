@@ -1,1 +1,0 @@
-read avoid postfix increment operator performance reason certain case affect readability opinion num num never equal num look better num num never equal num probably habit admittedly seen many use performance bad sacrifice readability case blind readable

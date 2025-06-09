@@ -1,1 +1,0 @@
-After almost 4 years of experience, I haven't seen a code where **yield** keyword is used. Can somebody show me a practical usage (along explanation) of this keyword, and if so, aren't there other ways easier to fullfill what it can do?

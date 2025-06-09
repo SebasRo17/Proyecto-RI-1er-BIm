@@ -1,1 +1,0 @@
-fan onion architecture looking relaxing solution area first thinking communicating directly ui controller mvc read side everyone see ui referenced assembly except core want display list country page select one really need core see two solution ui reference nhibernate talk directly add thin abstraction layer define read implemented infrastructure thought

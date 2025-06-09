@@ -1,1 +1,0 @@
-I have found a website where the text is select protected. How can i make this without JavaScript. I think it is possible by using CSS. A set of paragraph is protected with non selectable contents. But i don't know how to do.

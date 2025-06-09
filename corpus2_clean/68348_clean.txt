@@ -1,1 +1,0 @@
-following standard dvcs methodology production branch development branch really interested default mercurial master git branch delete recommended several guide use production use development leave empty separate dev production branch note really interested mercurial specifically dvcs general rule would ok

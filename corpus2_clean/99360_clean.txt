@@ -1,1 +1,0 @@
-want use design pattern following scenario class named person employee customer save update get delete method employee customer class derived person may best way

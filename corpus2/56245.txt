@@ -1,0 +1,1 @@
+Mathematica can do layered graph drawing with `LayeredGraphPlot` or `GraphLayout -> "LayeredEmbedding"`. Is it possible to specify which node goes on which layer instead of letting the system figure this out? Determining the precise location on the layer would be left to the layout algorithm.

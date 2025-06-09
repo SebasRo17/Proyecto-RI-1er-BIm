@@ -1,1 +1,0 @@
-learning coldfusion however try open cfm cfc file appear unreadable look like look like num h thought might compiled seem able decompile

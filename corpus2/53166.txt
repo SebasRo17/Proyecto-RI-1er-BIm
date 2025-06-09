@@ -1,1 +1,0 @@
-Does anyone out there have any experience porting a large Powerbuilder client/server application to a Java application (or another language)? By large I mean something on the order of 2 million lines of code and literally hundreds of database tables. How did you do it? How long did it take and how much did it cost? What were the biggest challenges?

@@ -1,1 +1,0 @@
-In order to convert e.g. a python object to json you would use a serializer. As far as I understand it, serialization leaves the possibility to change the converted object back to the original. Where does the term `serialization` come from/why is the process called `serialization`?

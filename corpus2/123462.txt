@@ -1,1 +1,0 @@
-Say I have class that is partially implemented as a static class and partially implemented as a singleton. Besides "kludge" and "code-smell" (imo this is both) is there a more appropriate term for this type of mixing programming idioms?

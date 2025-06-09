@@ -1,1 +1,0 @@
-Does anybody have an experience in combining KanBan in SCRUM, could this work, would this make sence or would it be an overdesign?

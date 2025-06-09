@@ -1,1 +1,0 @@
-better approach come performance optimal resource utilization accessing database multiple time ajax get exact information needed needed performing one access retrieve hold information might needed high probability actually needed know benchmark actual query know test best come database performance thousand user accessing database simultaneously connection pooling come play

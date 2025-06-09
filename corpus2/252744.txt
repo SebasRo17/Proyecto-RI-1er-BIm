@@ -1,1 +1,0 @@
-I've got a question about author rights and open source software. Assuming I want to build a software. A similar software is already created, but isn't free at all and owned by a company. Can a build an open source clone of the proprietary software from scratch? Or is it forbidden by intellectual property? And what if I use proprietary ideas in the open source software?

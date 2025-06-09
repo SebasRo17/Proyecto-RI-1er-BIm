@@ -1,1 +1,0 @@
-I have read the WCAG documentation and I am confused. Does compliance to WCAG 1 AA preclude the use of Javascript?

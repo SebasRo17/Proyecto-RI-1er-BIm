@@ -1,1 +1,0 @@
-C and C++ compiles adjacent string literals as a single string literal. For example this:               "Some text..." "and more text"      is equivalent to:               "Some text...and more text"      In other languages like C# or Java this is a syntax error (which is perfectly fine BTW). What is the rationale/historical reason for C and C++ to do this?

@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Building websites, which is the better approach MVP or MVC? I am trying to learn the difference between the MVC and MVP models. So far, I do not see much difference in terms of how they are architecturally set up. So my question is when should the MVP model be chosen over the MVC model? Are there situations where one is better than the other?

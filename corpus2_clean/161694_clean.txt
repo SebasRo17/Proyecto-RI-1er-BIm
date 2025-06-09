@@ -1,1 +1,0 @@
-wrote program scrape internet site pretty process link one one limiting factor internet speed process rather slow wonder make multiprocess module confusing know difference subprocess multiprocess heard multiprocessing difficult ineffective gil since num x using num wonder thing improved

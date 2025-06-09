@@ -1,0 +1,1 @@
+I'm attempting to generate some histograms, and I'd like to automatically label the X-axis. `However, Histogram[. . ., AxesLabel -> {"X", "Y"}]` places the "X" label on the RHS of the axis. How do I direct that the "X" label should be positioned below the axis? I need some automated method (I can of course move it by hand), since I'm going to be generating hundreds of diagrams.

@@ -1,1 +1,0 @@
-When browsing open-source projects that are primarily developed for Linux systems and downloading the latest packages, the source code is always stored in a .tar.gz or .tar.bz2 file. Is there any reason for using .tar.gz or .tar.bz2 rather than something like .zip or .rar or some other compression algorithm (or even leaving it uncompressed if the project is small enough)?

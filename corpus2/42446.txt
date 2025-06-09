@@ -1,0 +1,1 @@
+If I input `Sqrt[2 g]`, _Mathematica_ automatically pulls out the `2` and returns `Sqrt[2] Sqrt[g]`.   Is there any way I can prevent that and leave `Sqrt[2 g]` as is? (Running version _9_ ).

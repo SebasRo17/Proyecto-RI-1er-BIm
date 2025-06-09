@@ -1,0 +1,1 @@
+I have a large mathematica expression that looks roughly like               f = A1 Exp[a1 x] + A2 Exp[a2 x] + b1/x + b2/x^2 + c0 + c1 x + c2 x^2         where all the $A_n,a_n,b_n,c_n$ are symbolic constants.   how can I isolate the prefactor of x ? i.e some function that checks the pattern of $f$ and returns $c_1$ ?

@@ -1,1 +1,0 @@
-often need operation operation iteration simple example would collecting word spelled backwards separated comma idiom language support language mostly interested ruby usually something like foo bar baz n size num num reverse break n num end know way save half iteration using ruby iterator foo bar baz w w reverse end

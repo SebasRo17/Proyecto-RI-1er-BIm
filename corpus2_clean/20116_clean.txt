@@ -1,1 +1,0 @@
-considering using grail new website open new programming language framework done development using j2ee jsf2 asp net php grail ruby rail pretty much best way get functionality running quickly initial thought django look similar ror grail consider gwt interesting concept seem like turnaround time quite fast thanks jon

@@ -1,0 +1,1 @@
+I want to obtain a value of the Normal Distribution, but I can´t type "approx symbol" before Normal Distribution" to tell Mathematica that x FOLLOWS N[0,1] How can I do it? Probability[z >= 8.49, z **"HOW TO TYPE THE SYMBOL I MUST TYPE HERE"** NormalDistribution[0, 1]]

@@ -1,1 +1,0 @@
-I many times read that if you keep updating your website you may consider an interpreted language to be better for this case. I want to understand why interpreted server side language is better if I keep updating my site (such as adding new features or change some functionality).?

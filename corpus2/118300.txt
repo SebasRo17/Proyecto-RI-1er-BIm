@@ -1,1 +1,0 @@
-I was doing some searches for MSDN documentation and see it's online for free. It appears now they have a way to download it from the web, but I wasn't able to find out exactly how to do so. For the offline content, do you have to have Visual Studio installed and if so, will the express version work for this? Or can you download and run the MSDN help files standalone?

@@ -1,1 +1,0 @@
-So from what I've read about combinators I can't quite tell how they're different from simply chaining function calls. I know I must be missing something but I'm not figuring out what I'm missing. I mean would g(f(x)) (where _f_ and _g_ are functions) effectively be a combinator if I gave it a different name?

@@ -1,1 +1,0 @@
-A company is hiring C++ software engineers. When I go to the company's website, they provide a web applications written in python. (At least that's what I see from the outside.) What kind of responsibilities can I expect? Does this sound like server and back end coding? What else? At which point would a python web application most likely switch to C++?

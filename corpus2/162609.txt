@@ -1,1 +1,0 @@
-Is it sane to let a read method on a file object to be const? For example               size_t read(void* buffer,size_t length) const;      The read method does not change the contents of the file, but updates the file pointer which is invisible behind a handle.

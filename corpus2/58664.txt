@@ -1,0 +1,1 @@
+I am using the new Mathematica 10 student edition. As I am evaluating a table of integrals and calling NIntegrate repeatedly, the evaluation stops without error and the kernel clears all variables. I have no idea what is going on, is this a memory issue?

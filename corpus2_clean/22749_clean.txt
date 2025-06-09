@@ -1,1 +1,0 @@
-solo project would use ci tool build repository used hudson cruise control team environment essential build soon anyone check anything think version control still obvious need build every commit seeing would built local machine one else committing

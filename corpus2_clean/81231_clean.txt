@@ -1,1 +1,0 @@
-test web application server side client side testing work irrespective framework used strut spring web mvc etc using server side javascript html client side sample test case talking num click link pop open num change pop say drop get saved db num click popup get changed value simulate kind thing using unit test case junit enough

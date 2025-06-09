@@ -1,1 +1,0 @@
-team looking introduce web api mvc asp net implementation soa hard time trying wrap head around identity access control compared wcf wcf window x num username w trust probably familiar mvc web api seems web application based identity access control built web form window w federation anyone made web apis using mvc implement protocol wcf even done trying use web api way

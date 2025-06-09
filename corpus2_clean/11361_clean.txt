@@ -1,0 +1,1 @@
+trying replicate graph math book note well learn mathematica hoping someone would able help figure add open point graph possibly add slight curve line shown real graph line straight graph book able come g x piecewise x x x x x x x x plot g x x plotstyle thick plotrange tick automatic gridlines gridlinesstyle directive lightgray dashed epilog red dashed pointsize large point

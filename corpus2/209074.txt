@@ -1,1 +1,0 @@
-I want to make an open-source graph thing which looks and behaves very similarly to Google Visualization API, but it would be based on Flot. Is this legal, or must I not imitate Google Visualization API?

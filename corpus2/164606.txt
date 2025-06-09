@@ -1,1 +1,0 @@
-I have been noticing for a long time on Stack Overflow that most users recommend to use PDO instead of `mysql_*`, because PDO is more secure than `mysql_*`. But my question is if websites which are already running with `mysql_*` will stops working? Or what exactly does "deprecating" mean here? So should we have never used `mysql_*`? From which PHP version is is deprecated?

@@ -1,1 +1,0 @@
-I personally would be willing to pay $10 to someone who can offer to make microphone drivers work with one of my laptops under Ubuntu 10.10. I thought that other users could contribute to the same thing, and thus find a willing developer. Does there exist such a project(s)?

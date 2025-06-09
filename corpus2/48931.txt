@@ -1,0 +1,1 @@
+I need to define a new process from for example Wiener process like $U(t)=f(W(t))$, (for example $f(x)=1+x^2$ ) and then calculate the average like $\langle U(t)U(s)\rangle$. Is it possible?

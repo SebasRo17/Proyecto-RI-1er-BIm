@@ -1,1 +1,0 @@
-I have seen some languages that change quickly (I mean they are improved every year for example) and some others that are improved slowly. My question, if a language changes quickly is this a good thing or a bad thing for the programmer? Do programmers like to learn new thing in the language or do they prefer to stick with what they already know?

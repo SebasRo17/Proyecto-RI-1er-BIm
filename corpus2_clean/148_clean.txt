@@ -1,0 +1,1 @@
+possible mathematica get step step evaluation function say outputting result stage led example let say want know step get derivative co x time exp x first tell equal frac dt exp x time co x exp x time frac dt co x render result say exp x time co x sin x

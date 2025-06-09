@@ -1,1 +1,0 @@
-single directory git root folder bunch file working one file x py friend alice file working people want alice everyone else access x py want alice access x py though achieve git way split directory two repos sound rather cumbersome maybe could add remote repo alice access containing x py

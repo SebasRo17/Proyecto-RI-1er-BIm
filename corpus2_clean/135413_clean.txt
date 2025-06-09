@@ -1,1 +1,0 @@
-according wikipedia page mvc architecture view free notified model also free query model current state however according paul course io num stanford lecture num page num interaction must go controller model view never supposed know clear statement must intended simplification course tempted say intends design explain two opposite point view

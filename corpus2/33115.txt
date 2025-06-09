@@ -1,1 +1,0 @@
-Douglas Crockford makes reference to **Simplified JavaScript** in this article about **Top Down Operator Precedence**. Unfortunately he only makes references to it in this article. The best explanation I found **here**. But I still don't have a clue what it actually is. **What is Simplified JavaScript?**

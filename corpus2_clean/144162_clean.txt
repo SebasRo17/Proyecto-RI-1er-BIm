@@ -1,1 +1,0 @@
-application us database mostly oracle database core customer database copy application new release product also need update database schema change adding new table removing column manipulating etc people handle standard process edit issue database huge many table huge amount provide script utility manipulate handle failure negative looking kind article right aspx

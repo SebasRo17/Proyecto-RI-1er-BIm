@@ -1,1 +1,0 @@
-one log success operation within try catch block example try x log successful catch log fail end better try x catch log fail end log successful would say logger never fail reason anyway specific case logfile network drive disconnected due action x however fail obviously try failed operation worked however find latter example harder read try keep tight possible readability

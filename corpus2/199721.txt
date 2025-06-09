@@ -1,1 +1,0 @@
-I couldn't find the answer anywhere, but let's say we have a B-Tree with min = 1 and max = 2: What is the formula to calculate the maximum number of nodes in this B-Tree if the depth is say 100? This question was given on an in-class test to which most everyone had no idea what the answer was. I was completely stumped and am wondering if anyone knows what it is. Thanks a lot!

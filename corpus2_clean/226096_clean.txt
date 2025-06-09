@@ -1,1 +1,0 @@
-app use widget loading spinner signify network request waiting failure another view contains failure message reload button question since view widget always used together either one shown neither merge single widget would bad good practice way prepare whenever want use one disadvantage see modularity would destroyed

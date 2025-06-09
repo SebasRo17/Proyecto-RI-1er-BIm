@@ -1,1 +1,0 @@
-I am creating a module for a CMS. I found a PHP code in github that does some work for me. The author has not clearly stated the license for the code. Since it is in github and is publicly available, can I use the code in my module or should I get the author's written permission? I am planning to sell my module for a small price.

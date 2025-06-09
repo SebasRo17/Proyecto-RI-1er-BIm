@@ -1,0 +1,1 @@
+According to the help: > Button[label,action] Is it possible to make the button execute two actions?

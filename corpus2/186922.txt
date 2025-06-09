@@ -1,1 +1,0 @@
-A page built so that is has server side scripts implemented on the page. Should indentation of the code be according to the server side logic (making it easier to read while coding) or according to the HTML/ASP.NET markup (making it easier to read while debugging etc.)?

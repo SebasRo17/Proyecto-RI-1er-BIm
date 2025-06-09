@@ -1,1 +1,0 @@
-At the company I work at, every service class has a corresponding interface. Is this necessarily? Most of these interfaces are only used by a single class and we are not creating any sort of public API. With modern mocking libraries able to mock concrete classes and IDEs able to extract an interface from a class with two or so clicks, is this just a holdover from earlier times?

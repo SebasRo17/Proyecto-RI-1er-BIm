@@ -1,1 +1,0 @@
-I want to develop an app for a website (let's say stackoverflow.com in this case). Will I violate the Blackberry terms of service if I list an (paid) app for a website which I do not own? What about the website I'm going to use?

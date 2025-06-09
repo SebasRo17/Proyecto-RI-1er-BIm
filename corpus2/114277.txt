@@ -1,1 +1,0 @@
-I see all kinds of demonstrations about Build of the new features in Windows 8 for Metro apps, but not much for Desktop applications. Is there anything new for desktop-style apps; or has nothing changed?

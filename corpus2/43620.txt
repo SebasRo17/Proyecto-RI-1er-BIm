@@ -1,0 +1,1 @@
+I was trying to run some notebook I downloaded from MathWorld, but lots of them need               << MathWorld`Curves`      I tried to google it , only to find this, but the link links to nothing but a blank page. so where do I find these packages?

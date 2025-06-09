@@ -1,0 +1,1 @@
+Please imagine a simple loop:               For[i=1,i<=100,i++,       Print[i];     ];      We can ask `Print[]` to output $(1,2,3,4,...)$ to a different notebook (in the context of the same kernel)?

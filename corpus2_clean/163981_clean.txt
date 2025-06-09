@@ -1,1 +1,0 @@
-want able call javac file automatically compiled file thought initially use x86 disassembler hack javac exe bumped idea found open source jdk concluded maybe batch file would easier

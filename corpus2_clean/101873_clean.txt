@@ -1,1 +1,0 @@
-looking various apis sdks realized really tell difference something called api something called sdk conceptually way program interface control resource provided another piece software whether software web service end user app o service daemon kernel device driver semantic difference sdk api

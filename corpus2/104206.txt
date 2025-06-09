@@ -1,1 +1,0 @@
-So, during the couple of days I've been thinking what it takes to make your own linux distribution. Where should I actually start? I'd like to have some very basic tips for this. I consider myself a decent programmer, mainly in c++ and objective c. And what limits there are in making a distro?

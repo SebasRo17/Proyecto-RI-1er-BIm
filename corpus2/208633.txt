@@ -1,1 +1,0 @@
-As a physicist, I've learnt programming on my own. But I would like to know the name of the discipline (like algorithmics is the discipline of designing algorithms) which consists of :   * making the right choice of language/paradigm   * designing a class diagram   * organizing the different parts of a code and how they will interact between each other

@@ -1,1 +1,0 @@
-template nice similar algorithm different type say make template stack basic stack num push num pop x pop x would num call pop item num could something else whatever change template compound structure say rect stack empty num expects rect left make work basic type compound variable exception

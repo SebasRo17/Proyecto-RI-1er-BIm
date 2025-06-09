@@ -1,1 +1,0 @@
-If sprints are on average 10 days, why is it often suggested stories be sized to 2-3 days? **Related Question:** How to handle backlog-items that are longer than one sprint?

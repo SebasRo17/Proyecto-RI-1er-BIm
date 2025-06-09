@@ -1,1 +1,0 @@
-When I read about frontends, it always mentiones webpages. Can it be used in different contexts, e.g. desktop applications?

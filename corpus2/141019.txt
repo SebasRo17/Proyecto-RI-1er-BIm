@@ -1,1 +1,0 @@
-I'm specifically interested in how users perform authorized / authenticated operations on a web API. **Are authentication cookies compatible with the REST philosophy, and why?**

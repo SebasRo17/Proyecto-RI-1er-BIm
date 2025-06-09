@@ -1,1 +1,0 @@
-I am looking into some UML modeling software, which there is plentiful of on the market, but only a few I found support recording of requirements and written use cases (not the diagrams yet). Are there any tools or methods I should check out for making requirements and use cases? Or should I just fire up Word and create a separate document for each use case?

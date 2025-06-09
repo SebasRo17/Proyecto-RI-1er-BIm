@@ -1,1 +1,0 @@
-make thing simple explain got two table table1 country country table contains nice flag information displayname phone num xx table1 contains customer column country term usability normalization common human sense okay reference table1 countryid country id via foreign key instead plain table1 country nvarchar num field insert

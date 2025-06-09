@@ -1,0 +1,1 @@
+I would like to get the cash flows and dates for the remaining coupons and principal repayment for a `FinancialBond` object. These must be calculated internally by the `FinancialBond` object for many of its possible return values but I can't see how to get the cashflows explicitly. Thanks

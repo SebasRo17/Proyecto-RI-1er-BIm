@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  What should every programmer know about web development? Where do I start if I want to build a web based application? Books, tutorials, online resources. From a quick look at the web I can see that Html, Css and JavaScript should be the subjects to learn. Do you agree? What would you recommend to a professional C++ programmer?

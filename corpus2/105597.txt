@@ -1,1 +1,0 @@
-I want to create a simple web app where I can drag an image in, and watermark the corner with the given text. Where should I start for something like this? I have knowledge in Java and Ruby.

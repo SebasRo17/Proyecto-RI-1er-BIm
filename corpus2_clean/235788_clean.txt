@@ -1,1 +1,0 @@
-use dialog want fetch edittext also add click listener write whole one big file want separate logic different file since need ui full life cycle use activity plain manager pas manager use findviewbyid pas context fetch ui root view

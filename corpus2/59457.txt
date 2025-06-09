@@ -1,0 +1,1 @@
+Consider this example:               lis1 = {a, b, c};     lis1[[2]] = Sequence[e, f];     lis1     (*{a, e, f, c}*)     lis1[[2]]     (*e*)     lis1[[2]] = Sequence[g, h];     lis1     (*{a, g, h, c}*)      It looks like position 2 in lis1 is still has head `Sequence`, yet no sign of `Sequence` in the full form of lis1. Can any one explain why is this happening?

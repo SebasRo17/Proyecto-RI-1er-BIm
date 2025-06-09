@@ -1,1 +1,0 @@
-would like develop cross platform gui application work linux window system confused toolkit use asked many one saying different toolkits use gtk wxpython tkinter

@@ -1,1 +1,0 @@
-What are the topics I should learn for a BPM (Business Process Management) product? I mean, do I need to learn BPMN (Business Process Modelling Notation), BPEL (Business Process Excecution Language)? Are there any open source lightweight BPM products by Apache or somebody?

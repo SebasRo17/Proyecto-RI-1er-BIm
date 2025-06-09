@@ -1,1 +1,0 @@
-I am not very clear on this aspect. Let's say you have a bunch of .py files that are their own separate modules. Why does each .py file need to import the others when they use that class? Or do they? Because I was pretty sure that other languages (Java, for instance), did not require import when referring to classes/files in the same directory. I might be wrong.

@@ -1,0 +1,1 @@
+What's the best way to join two consecutive lists in a list of lists ? For example if I have the list               x = {{1}, {2}, {3}, {4}}       and I want to get in x               {{1}, {2, 3}, {4}}.      I want to join arbitrary positions. **Edit** I want to do this using the least amount of extra memory. Imagine that instead of having numbers I have big lists.

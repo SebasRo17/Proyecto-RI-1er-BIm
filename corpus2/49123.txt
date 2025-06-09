@@ -1,0 +1,1 @@
+I have data in the form                d={{x1,y1,dy1},{x2,y2,dy2},..{xn,yn,dyn}};       so the error bars are different for each coordinate pair. I want to plot on a logarithmic x-scale. Since I use Mathematica 9 the old library from Mathematica 6 with Errorlogplot does not seem to work. Kind regards Benjamin

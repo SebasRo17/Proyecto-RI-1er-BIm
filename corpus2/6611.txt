@@ -1,0 +1,1 @@
+We do have elementary symmetric functions, `SymmetricPolynomial[k, {x_1, ..., x_n}]` . But I didn't find complete homogeneous symmetric functions. The induction method to compute $h_n$ from $e_i$ and $h_j$ ($j\leq n-1$) is not that efficient. Is there any easier way to do this?

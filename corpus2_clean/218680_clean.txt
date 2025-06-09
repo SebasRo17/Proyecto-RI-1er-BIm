@@ -1,1 +1,0 @@
-currently working group project recreate original pokemon yellow version started planning way drawn design right abstract pokemon num count original pokemon class extend one different pokemon able store id pokemon ie rock water fire etc move use learn seems little much creating num class pokemon also seems like good way limit coupling far design go good way go better method go

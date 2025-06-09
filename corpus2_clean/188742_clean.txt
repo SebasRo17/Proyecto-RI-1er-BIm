@@ -1,1 +1,0 @@
-considered good practice remote branch individual developer project using git following branch master release develop developer branch could push branch others could merge change branch

@@ -1,1 +1,0 @@
-I have a question :   * Why do I need to sign a `.JAR` using `jarsigner`?    * is there a specific reason or use of that ?    * Same question when I tag a version on github ?

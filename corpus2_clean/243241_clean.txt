@@ -1,1 +1,0 @@
-need unit testing purpose create adapter external library class microsoft implementation library created adapter implement interface seems dependency constructor problem cannot instantiate without somehow accessing actual instance see scope better pattern retains adapter class infect kind enter image description

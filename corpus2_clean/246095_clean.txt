@@ -1,1 +1,0 @@
-typical spring hibernate tomcat webapp user info table trying create another webapp crud action user info table considering sharing database two apps apps use database pooling best way test performance issue e g locking could arise sharing db another app

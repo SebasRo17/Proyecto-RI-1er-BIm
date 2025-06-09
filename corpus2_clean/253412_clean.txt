@@ -1,1 +1,0 @@
-api restful support odata different client type endpoint always return single result entity single entity put list always contains num element something completely different normally get request return list item get key return single item based key however exception want inconsistent seems counter productive put single element list public get public ienumerable get

@@ -1,1 +1,0 @@
-early stage programming career working mvc year spent much time learning pattern concept behind project working get larger starting think maybe best understanding model layer supposed work hear lot always view model protect domain model work practice relationship two look like model need extra view logic create copy

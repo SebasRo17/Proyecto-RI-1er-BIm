@@ -1,1 +1,0 @@
-When is recommended to use `read-only` properties -- if the language allows me? Are _public_ read-only properties meant to replace `getter` methods or at least the _Magic Methods_ like what is available as __get() in PHP for example? What is the use of a _private_ read-only property?

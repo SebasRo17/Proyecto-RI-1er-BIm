@@ -1,1 +1,0 @@
-I've always been curious, how libraries such as DirectX, OpenGL and OpenAL are implemented. Do they use some sort of unified API provided by OS? Talk directly to kernel? Maybe hardware drivers provide unified API? Or vendors provide their own backends to such libraries? Even entire implementations of such libraries? Or such libraries handle different drivers on their own?

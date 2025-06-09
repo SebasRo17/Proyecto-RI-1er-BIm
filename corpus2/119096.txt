@@ -1,1 +1,0 @@
-I'm starting to learn Vim, and following some of the advices given here in stackexchange. I'm beginning to use it in some toy projects and I'm cool with that.   But I started to wonder how you can be productive without opening other files all the time just to know how's that class' Name, what's that macro included in other file, etc. etc. What are the common advices you can give?

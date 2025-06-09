@@ -1,1 +1,0 @@
-As a beginner into programming, I wanted to know if there's any use or good in learning how write commands in a command prompt? If yes how useful is a command line interface and where is it used? P.S Also do suggest me some good resources to learn it if applicable.

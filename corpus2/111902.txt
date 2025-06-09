@@ -1,1 +1,0 @@
-We are learning about methods in class, and I am having trouble especially with the concept of static vs. dynamic. Wikipedia says this: > Methods can be bound to a class at compile time (static binding) or to an > object at runtime (dynamic binding). Can anyone describe what they mean here?

@@ -1,1 +1,0 @@
-I'm looking for something showing best practices in N-tier enterprise application design with focus on code re-use and scalability. Possibly using DDD or CQRS methodology. Don't really care about UI, as that's already well understood.

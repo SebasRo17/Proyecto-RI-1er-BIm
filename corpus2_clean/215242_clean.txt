@@ -1,1 +1,0 @@
-want know suitable implement following case best practice make set process like num select set db table num selected result num make check iteration num insert result another table implementing previous step stored procedure transaction asp net concerning performance security reliability issue

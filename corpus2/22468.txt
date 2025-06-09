@@ -1,1 +1,0 @@
-what are some data structures that should be known by somebody involved in bioinformatics? I guess that anyone is supposed to know about lists, haseshes, balanced trees etc, but I expect that there are domain specific data structures. Is there any book devoted to this subject? Thanks, Lucian

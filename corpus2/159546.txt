@@ -1,1 +1,0 @@
-Is it acceptable to distribute unmodified BSD-licensed software (pyglet) with GPL-licensed software I created? The BSD allows for sale of modified software, I know, but does it allow re-licensing of unmodified? Seems to defeat the purpose of having a license at all.

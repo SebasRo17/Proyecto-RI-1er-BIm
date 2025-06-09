@@ -1,1 +1,0 @@
-deploy new project different component deployed different server different web site technology etc wondering would best way communicate business want show service x exist server window service service z exist server q net web service etc

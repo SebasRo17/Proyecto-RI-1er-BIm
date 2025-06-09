@@ -1,1 +1,0 @@
-Some time ago I've read some article (or it was a chapter in some book, cannot remember) about naming method prefixes, that reflect method behaviour like `addFoo()`, `setFoo()`, `removeFoo()` etc Could anyone point me to that article? Cannot google it and it makes me sad panda :-(

@@ -1,1 +1,0 @@
-would like send csv file via post xmlhttprequest unsure two thing first anything distinguish csv file split comma sort content supposed put setrequestheader

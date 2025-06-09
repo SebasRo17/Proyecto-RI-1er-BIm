@@ -1,1 +1,0 @@
-need find create tool analyzes audio spectrum sound file like wav mp3 need volume power x number frequency band text used produce visualization graphic equalizer like see stereo currently looking question tool would signal processing like math work others experience advice would appreciated

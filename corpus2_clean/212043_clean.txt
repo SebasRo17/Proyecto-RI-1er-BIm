@@ -1,1 +1,0 @@
-loading whole load item un ordered word file something would efficient load ruby use built sort binary lookup place item list load add position basic line push end sort v line insert find index end find index would lookup correct index item using binary search

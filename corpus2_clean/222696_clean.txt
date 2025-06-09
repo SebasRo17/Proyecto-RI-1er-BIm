@@ -1,1 +1,0 @@
-kind best practice question better merge directly source branch ok merge merge using subversion source control scenario branch change made committed branch b trunk need update case num merge b trunk case num merge b merge b trunk may also missing case num merge b trunk simultaneously sure dependent source control used note could number branch need merging could cascade merge b c

@@ -1,1 +1,0 @@
-What other tech synonyms are there for a master-slave relationship? The situation is a knob that controls other knobs, or a button that controls other buttons.

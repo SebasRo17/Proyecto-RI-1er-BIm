@@ -1,0 +1,1 @@
+I'm numerically solving the ODE equation $a = -kv$, i.e. $ x'' = -kx'$.               sol = NDSolve[{y''[x] + 0.1 * y'[x] == 0, y[0] == 0, y'[0] == 10}, y, {x, 0, 100}]      I need to do plots of `x` versus time, `v` versus time, and `v` versus `x`. I figured out how to do the first two plots, but I'm having problems with plotting `v` versus `x` (i.e. `y'` versus `y`)

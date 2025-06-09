@@ -1,1 +1,0 @@
-go getting number combination c num num without using recursion c inbuilt library

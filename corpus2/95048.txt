@@ -1,1 +1,0 @@
-I have a general question about databases. We usually use the term collation with databases. I would like to know how its different from character set. I guess collation is a subset of character set. If its true, what is the purpose multiple collation under a character set.

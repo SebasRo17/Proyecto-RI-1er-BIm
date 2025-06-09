@@ -1,1 +1,0 @@
-Do sync programs like Dropbox typically track file changes by doing byte by byte comparisons, or using hashes, or using `diff` / keeping local commit logs like version control, or what?

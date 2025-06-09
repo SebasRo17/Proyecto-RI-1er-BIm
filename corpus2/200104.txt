@@ -1,1 +1,0 @@
-Statistically speaking, user story maybe the most popular requirement technique in Agile but I am curious to know the alternatives and why.

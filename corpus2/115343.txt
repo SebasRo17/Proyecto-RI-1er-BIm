@@ -1,1 +1,0 @@
-Does AGPLv3 or GPLv3 allow people to contribute code without specifying author of contributed code ? Does it allow people to fork an (A)GPL-project without specifying authors of forked code ?

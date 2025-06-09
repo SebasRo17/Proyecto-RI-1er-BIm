@@ -1,1 +1,0 @@
-Almost every cloud instance I can find only offers one CPU. Why is this only one CPU now, and should I expect this to increase in the future? Does this design impact my code design so that I exclude technologies like Task Parallel Library? This is on topic to Programmers.SE because it impacts the long-term scalability of muti-threaded code on cloud platforms.

@@ -1,1 +1,0 @@
-It's known 2-way Merge sort takes N*logN time. I wonder, what would be the running time if we split an array **of the size** N into N subarrays and then do the same thing as we would do for 2-way Merge?

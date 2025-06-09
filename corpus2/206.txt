@@ -1,1 +1,0 @@
-Test driven development. I get it, like it. But writing tests does require overhead. So should TDD be used universally throughout the code base, or are there areas where TDD provides a high ROI and other areas where the ROI is so low that it is not worth following.

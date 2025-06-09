@@ -1,1 +1,0 @@
-see github allows multiple mail account associate every organization part different address done also ssh key would like two different key one push private repository another push organization repository

@@ -1,1 +1,0 @@
-From my understanding, Ruby is a language that can be used to creat desktop applications. How does this get converted into a 'Web App' - and is a 'Web App' really any different than a Web Site with interactivity?

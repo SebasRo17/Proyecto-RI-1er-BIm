@@ -1,1 +1,0 @@
-I am trying to make a pacman game in c#. I have done some basic work and have previously replicated games like copter-it and minesweeper. I am confused about how to implement the map in pacman. Which datastructure to use, so it can be used for moving AI controlled objects and check collisions with walls? I thought of a 2d array of ints but that didn't make sense to me.

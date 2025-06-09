@@ -1,1 +1,0 @@
-I'm new to github, and am looking for advice on how to manage issues. I'm used to having priority and other ordering options but see that none exist. How do others manages issues during the lifecycle of a bug/feature? Thanks in advance.

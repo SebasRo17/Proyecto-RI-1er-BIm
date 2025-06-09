@@ -1,1 +1,0 @@
-I want to provide my app under GNU GPL v3, but I would be glad if people couldn't change its name or its logo. Can I provide my app under the GNU GPL v3 licence, while the app's name and logo are under another type of licence like CC BY-NC-ND 3.0? (The logo and name is used in the app source and design.)

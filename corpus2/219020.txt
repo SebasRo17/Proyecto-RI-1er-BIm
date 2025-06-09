@@ -1,1 +1,0 @@
-I am really confused about software linceses, I've read a lot of articles but I can't find an answer to my question, which is: Can I develop and sell applications that uses libraries under gpl license? Like for instance, I want to use agsXMPP library in a windows phone app, and sell it in the market, so is it legal?

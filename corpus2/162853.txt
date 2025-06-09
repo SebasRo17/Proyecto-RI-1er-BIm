@@ -1,1 +1,0 @@
-Asking a job seeker to show some code is a fairly common practice for a software company. However, would it be acceptable for the candidate to ask the interviewer to show him a small piece of code that he thinks is well written?

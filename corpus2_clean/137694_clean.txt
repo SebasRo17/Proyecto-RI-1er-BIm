@@ -1,1 +1,0 @@
-trying store directory structure including file content mongodb work part synching app using node mongoose new mongo late idiomatic implementation easy look ie something like var new schema fullpath index unique filename metadata useful field

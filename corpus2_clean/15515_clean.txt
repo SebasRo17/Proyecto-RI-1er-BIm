@@ -1,1 +1,0 @@
-often write function want make sure input valid order detect error early possible believe called precondition precondition fails always thrown exception beginning doubt whether best practice assertion would appropriate appropriate use assertion appropriate throw exception

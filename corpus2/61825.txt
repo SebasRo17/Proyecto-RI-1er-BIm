@@ -1,1 +1,0 @@
-I made an application in EXTJS, but my technical architect and project manager say we don't want big file, so removed the EXTJS and made in object oriented PHP and JavaScript code, mixing HTML with PHP. But I don't want to mix HTML and PHP because of bad coding structure and bad coding practice. What should i do?

@@ -1,1 +1,0 @@
-I worked with OfBiz and Opentaps for a couple months in 2005, and became very comfortable in coding with these back then. Now a few weeks back, I had a look to Opentaps code, and I don't think I understand or remember anything of the current codebase. Is it time to remove it from my CV as a technology I am familiar with?

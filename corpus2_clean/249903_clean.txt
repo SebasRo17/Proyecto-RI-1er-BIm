@@ -1,1 +1,0 @@
-perhaps picked better title anyway basically two implementation public interface meant slightly different purpose slightly different behavior example let say proxy us public interface original important change behavior interface mytest getsomething interface extends mytest interface case following supposed clone stored instance getsomething thanks

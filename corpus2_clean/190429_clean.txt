@@ -1,1 +1,0 @@
-class must put diagram class used business layer association also class access layer service layer etc

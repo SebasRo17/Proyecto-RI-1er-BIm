@@ -1,0 +1,1 @@
+I was wondering if I could write an equation, symbolically, but only as part of a text in Mathematica. So I don't want Mathematica to consider anything inside that equation as a variable, nor equate or perform any mathematics on it. Is that possible?

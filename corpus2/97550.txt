@@ -1,1 +1,0 @@
-I am making one website and i want to use mortgage repayment calculator. I have seen many real estate sites using that. I want to know that i copy their `javascript calculator` code and style my form differently , will that be an legal issue there

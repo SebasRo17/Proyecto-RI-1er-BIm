@@ -1,1 +1,0 @@
-I've come across a situation at work where I have to justify why I need one (or more) mobile developers per platform. Although I'm quite aware of the why (each platform is substantially different, has its own philosophy, etc.) I can't seem to come up with more than that. Are there any articles I can read or even books that will give me hard data about the advantages?

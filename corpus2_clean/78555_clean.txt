@@ -1,1 +1,0 @@
-do donts improving database performance using index would case index created another index related tip improve performance dont case index created another index related action hurt performance

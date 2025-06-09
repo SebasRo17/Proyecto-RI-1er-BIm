@@ -1,1 +1,0 @@
-Is coding important to be good at computer science? Should one implement the algorithm to know it well ? I remember one cs professor's idiom that " **I never code"**

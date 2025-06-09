@@ -1,0 +1,1 @@
+I have a pattern like the one below. How could I measure the total length of the perimeter of the black/white edge? This would give me a measure of spatial frequency. Any tips would be great! Thanks! ![](http://i.stack.imgur.com/7jt0I.gif)

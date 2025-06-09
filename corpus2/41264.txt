@@ -1,0 +1,1 @@
+Since fitting procedures using `NonlinearModelFit` (or `FindFit) sometimes take very long, I would like to monitor the sum of squared errors _during_ the process (seeing it afterwards is well documented). Does someone know how to do this?

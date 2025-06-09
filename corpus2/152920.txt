@@ -1,1 +1,0 @@
-I am developing a paid application in python. I do not want the users to see the source code or decompile it. How can I accomplish this task to hiding the source code from the user but running the code perfectly with the same performance.

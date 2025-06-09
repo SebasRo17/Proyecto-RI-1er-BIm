@@ -1,1 +1,0 @@
-hope right forum well c standard library us usually buffer size referring buffer wonder rationale order instead size buffer think good reason seems arbitrary choice curious deeper meaning behind order

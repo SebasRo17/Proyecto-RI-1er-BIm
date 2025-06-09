@@ -1,1 +1,0 @@
-I can easily follow the Semantic Versioning recommendations if I develop a library or API, but what if the developed product is a website or a desktop application? When would you increment a `major` component in that case? In case of a complete UI redesign? Or something else? Thoughts?

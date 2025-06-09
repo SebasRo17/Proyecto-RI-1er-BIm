@@ -1,0 +1,1 @@
+I'm currently looking for any Mathematica package that involves Schur polynomials and/or Kostka numbers. More generally, I'd be happy with anything that expands on symmetric polynomials in general. Does such a thing exist? I've had no luck finding any.

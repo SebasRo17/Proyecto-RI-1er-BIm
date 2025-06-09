@@ -1,1 +1,0 @@
-trying start learning j2ee part know start core mainly want learn jpa basic hibernate spring framework reason working project using thing developed senior guy make modification basically need understand someone give sort roadmap like thing need know beforehand sequence go reference material like link book

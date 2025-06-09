@@ -1,1 +1,0 @@
-I am developing mobile based social network with backend and I cache some data from facebook. I asssume I should include a kind of Terms of use and privacy policy statement in the application? is it really neccessary? where can I find proper templates for this?

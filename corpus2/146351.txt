@@ -1,1 +1,0 @@
-I'm using Symfony2 PHP framework to build a product. I got most of the features working and a satisfied client. Now I have to maintain this project. So I was wondering, is understanding how the framework works under the hood and how it handles requests really important to not run in troubles in the future? Also, which parts of the framework, that I should wrap into my head?

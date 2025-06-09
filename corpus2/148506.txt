@@ -1,1 +1,0 @@
-What VARCHAR sizes should be used for first and last names, phone numbers (preferably international), email adresses, urls, dictionary words and file names? Edit: Zapped the introductory phrase to form a concrete question.

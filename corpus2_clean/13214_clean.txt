@@ -1,0 +1,1 @@
+scaling function applied wrong axis log tick axis x axis barchart chartelementfunction glassrectangle chartstyle scalingfunctions log barorigin left frame true

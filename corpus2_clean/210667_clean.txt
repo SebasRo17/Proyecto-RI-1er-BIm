@@ -1,1 +1,0 @@
-suppose orm based project say hibernate trying fetch column rather whole may num attribute writing hql like select attr1 attr2 entity know taking advantage using hibernate get result form explicit casting whether right approach achieve optimization database prospective performing explicit casting cost still

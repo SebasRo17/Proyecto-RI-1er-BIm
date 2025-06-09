@@ -1,1 +1,0 @@
-Is there text editor with c# syntax highlight which starts VERY FAST? I just want look source code some files in project and i donnt want wait 30 seconds while VS starts.

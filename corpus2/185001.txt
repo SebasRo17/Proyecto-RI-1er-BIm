@@ -1,1 +1,0 @@
-I am creating a tree where some nodes have a reference to their parent as well as their children. It feels like a tree version of a doubly linked list. Is there a name for this?

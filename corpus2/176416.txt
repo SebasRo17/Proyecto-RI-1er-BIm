@@ -1,1 +1,0 @@
-I am looking for anything else has the same `WPF` functionality (animation, 3D,...) but can work in other platforms (Linux, Mac,...) something powerful, fast to develop with, can create my own custom styling on the basic component

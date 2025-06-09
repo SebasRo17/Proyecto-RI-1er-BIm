@@ -1,1 +1,0 @@
-The title pretty much says it all. I'm just having a little computer science exercise and am building a Tree. I want a node to be able to add a sibling which requires one to first get a reference to the parent, obviously. I was wondering what is the "correct" way, by definition of what a Tree is, to do such a thing?

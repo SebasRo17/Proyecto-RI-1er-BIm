@@ -1,1 +1,0 @@
-Okay. So I'm currently trying to design an operating system, but I need ideas. Nevermind the feasibility right now, it's just in the design phase. If you had an OS that did whatever you wanted, what would you want it to do? Please be specific, and no "emulate unix or DOS" answers. Thank you.

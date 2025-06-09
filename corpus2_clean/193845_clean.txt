@@ -1,1 +1,0 @@
-book say allocates space variable memory executable mean example write following program include iostream using namespace std foo num compile get executable let program exe program exe executable file command allocate space foo please explain book keep saying

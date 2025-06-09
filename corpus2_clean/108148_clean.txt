@@ -1,1 +1,0 @@
-trying explain concept inheritance oop common example often mammal example imho really bad example lead newbie use concept wrong way moreover common design face day day design job nice simple concrete problem solved using inheritance

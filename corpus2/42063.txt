@@ -1,0 +1,1 @@
+![Example of problem](http://i.stack.imgur.com/Sgyvg.jpg) How to change the position of numbers in axes on plot? I want to see the numbers on the x-axis over it, not under it as it is now to have them clearly visible.

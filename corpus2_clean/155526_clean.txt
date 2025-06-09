@@ -1,1 +1,0 @@
-understanding creating application run multiple architecture requires virtualization virtualization reduces performance since creates layer abstraction window num supporting intel arm architecture expect slower performance winrt app versus net app running intel device also winrt support database connectivity active directory access

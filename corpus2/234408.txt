@@ -1,1 +1,0 @@
-What kind of use case it would be for to "show ad in part of the view"? Who could be the actor to relate with? User or System? As user has no specific goal to see ads, i am wondering what is the best way to capture this in use case diagram? Any assistance will be helpful

@@ -1,1 +1,0 @@
-In many interviews I've been asked this question. What is a Package Diagram? and What is a Sequence Diagram? and difference between Package Diagram and Sequence Diagram. Thanks in Advance. **Edit** Sorry, google give me lot of answer, but i want to practical answer with example.

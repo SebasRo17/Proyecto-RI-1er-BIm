@@ -1,1 +1,0 @@
-If you are building a web application, and you have a user management component, is it recommended to do:               class UserAdminView extends View {          }      or               class UserAdminUpdateView extends View {          }      What about controllers? Thoughts?

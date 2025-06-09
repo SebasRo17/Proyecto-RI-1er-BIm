@@ -1,1 +1,0 @@
-What would be a good example of the use of TDD in large, real-life, complex, projects? All the examples I've seen so far are toy projects for the purpose of a book or a paper... Can you name an open-source project that heavily uses TDD? Preferably in C++ but I can read Java and C# or other similar languages.

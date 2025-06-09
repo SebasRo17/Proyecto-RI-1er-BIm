@@ -1,1 +1,0 @@
-Stack-oriented programming is a pretty non-widely used paradigm (well, PostScript gets used under the hood a bit here and there). This in mind, what problems are stack-oriented languages good at? What would they do better than [paradigm] does? Also, for what problems are they a bad choice? Is stack-oriented programming just a niche paradigm?

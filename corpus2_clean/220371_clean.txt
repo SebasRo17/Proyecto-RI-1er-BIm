@@ -1,1 +1,0 @@
-looking simple explanation paxos algorithm used reaching consensus distributed environment possibly peer peer network every explanation encountered far tough reading multiple page looking simplified explanation still preserve core principle

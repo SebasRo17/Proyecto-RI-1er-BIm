@@ -1,0 +1,1 @@
+Can anyone tell me, how to create a list of functions? I've tried the following code, but it doesn't work.               For[i = 0, i < 5, i++,     {       functionList[[i]][t_]:=(t*i*i)     }]          functionList[[3]][10]      Of course, this construction is just an example.

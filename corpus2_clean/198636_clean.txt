@@ -1,1 +1,0 @@
-language support foreach multiple list something like foreach name b place c color stuff b c sure done regular n num n max n name n b place n c color n loses abstraction foreach meager google fu reveals people asking multi foreach various language support guessing language us figure one

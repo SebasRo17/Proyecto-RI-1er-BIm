@@ -1,1 +1,0 @@
-following field flex bindable public var uint trying create method process call ran problem num public work num public work thought letter following get set supposed capitalized reason find documentation found answer stackoverflow state first one correct way accessor mutator

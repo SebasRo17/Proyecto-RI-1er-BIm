@@ -1,1 +1,0 @@
-Model-driven development seems to have a lot of buzz in certain software engineering circles, but I've never encountered an open source MDD projects "in the wild". Are any open source projects using model-driven development? (I don't just mean that there's some UML documentation, but that the primary artifacts that the developers manipulate are the models, rather than the code).

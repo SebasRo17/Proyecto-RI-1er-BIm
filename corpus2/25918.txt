@@ -1,0 +1,1 @@
+I am trying to plot a solution to a Solve result, ie I have a function f(x,y) and I want to plot y=y(x) for when f(x,y) = 0.06366. Here is what I am trying to do               f[x_, y_] := 0.5*Erf[(y - 0.04*x^2)/(0.1*Sqrt[x])] + 0.5;     Plot[Evaluate@Table[Solve[f[x, y] == 0.06366, {x, y}, {y, Range[0, 1, 0.2]}],     {x, 0, 7}], PlotRange -> Full]

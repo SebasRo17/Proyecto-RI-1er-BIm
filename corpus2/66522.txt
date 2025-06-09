@@ -1,1 +1,0 @@
-Notice how view counts of youtube videos are always laggy? For example, a video has like 1000 comments and still has 500 hits, and will have 10000 hits hours after. Youtube isn't alone in this. Most message boards are implemented that way and view counts are updated like every 10 minutes or so. Does anyone know the reason behind this? Thanks.

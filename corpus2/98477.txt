@@ -1,1 +1,0 @@
-I cannot understand what the following means "ISAPI applications can be written using any language which allows the export of standard C functions, for instance C, C++, Delphi." What is "allowing export of C/C++/Delphi functions" ? P.S. I am very very new.

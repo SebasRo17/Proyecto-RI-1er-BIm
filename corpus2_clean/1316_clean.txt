@@ -1,0 +1,1 @@
+running mathematica window start mathematica front end would like menu bar blank notebook open appear different position different size default default menu bar appears top screen blank notebook appears left side screen would like try menu bar notebook appear resized px wide positioned upper right corner screen enter image description

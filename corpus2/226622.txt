@@ -1,1 +1,0 @@
-We are considering using BitBucket rather than hosting our Git repositories internally. Does anyone know if this breaks any rules of PCI compliance? I haven't been able to find much information on this.

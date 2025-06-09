@@ -1,1 +1,0 @@
-would like opinion handle case pdo engine hibernate engine talk db php application frontend job user php say avoid concurrent access record problem database postgresql

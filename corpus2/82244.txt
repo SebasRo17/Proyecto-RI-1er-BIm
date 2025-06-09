@@ -1,1 +1,0 @@
-After building mainly Java desktop apps and some small GWT services, I'm trying to learn how to build Web Services in Java but I feel overwhelmed by the sheer amount of buzzwords, terms, specifications and technologies. Besides, I'm not able to find a comprehensive, yet correct source to learn. Is this normal when starting WS, and what are good books/resources?

@@ -1,1 +1,0 @@
-lot basic network protocol make infrastructure internet built major operating system example tcp udp dns built linux unix window made available programmer low level system apis come ssl tl one turn third party library openssl mozilla ssl relatively old protocol basically industry standard ubiquitous tcp ip built operating system

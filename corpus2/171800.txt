@@ -1,1 +1,0 @@
-Why doesn't Java's BigInteger class have a constructor capable of taking a numeric literal? Every single time I use BigIntegers, and many times I merely think about them, I wonder this. What reason could the designers of java have had to exclude one despite the overwhelming convenience of one should it exist?

@@ -1,1 +1,0 @@
-If the PC implementation of OWIN is Katana, and OWIN doesn't define authentication abstractions, (or authorizations)* then:   * What is the abstraction for Authentication (cookies, forms, OAuth, SAML, etc)? *This is from the MSFT Jabbr Room on SignalR and OWIN

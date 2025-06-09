@@ -1,1 +1,0 @@
-I am going to be launching a small web service soon and was wondering if it's a good idea to upload the code to a public github repo. The code will not be licensed for commercial use but the public could download the code and hack around with it. Is this a good idea? Would it help produce more secure/bug-free code? Or would it run my startup into the ground? Thanks, Ben

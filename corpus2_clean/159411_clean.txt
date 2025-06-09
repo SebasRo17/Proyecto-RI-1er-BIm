@@ -1,1 +1,0 @@
-one would write auto suggest ide editor like intellisense one generally need write parser language supported compiler runtimes provide thing neither php binary seem support parsing file generating kind raw eclipse seems roll parser way using native parser would awesome many level

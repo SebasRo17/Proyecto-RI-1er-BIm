@@ -1,1 +1,0 @@
-I am a novice c++ programmer who kept an idea that function pointers are a thing of C and OOP in C++ does not recommend its usage. I know what I write here is vague/broad. But it will be great if somebody could comment whether my idea is completely wrong or something sensible. Thanks.

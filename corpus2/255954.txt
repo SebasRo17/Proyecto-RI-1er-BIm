@@ -1,1 +1,0 @@
-I am looking to use cracklib library for testing password security in my C/C++ linux applications. But I cannot find the original author, nor the official code that hasn't been forked.

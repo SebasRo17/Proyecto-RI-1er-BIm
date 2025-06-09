@@ -1,0 +1,1 @@
+What's the simplest way to plot a graph with weighted edges, such that the color of the edge corresponds to the weight of the edge?

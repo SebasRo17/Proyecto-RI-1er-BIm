@@ -1,1 +1,0 @@
-building text editor make use based tokenizer support syntax highlighting considering use rope structure support efficient modification undo redo operation standard approach tokenizing searching text contained structure character cause tokenizer consume rest stream

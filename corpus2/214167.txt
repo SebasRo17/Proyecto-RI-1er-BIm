@@ -1,1 +1,0 @@
-I faced this question in one interview. I explained that `String` is immutable and `StringBuffer` is mutable class. I don't know very much about mutable and immutable and also don't know the exact answer. What are the key concepts to be able to distinguish the two ideas? Is there a performance impact when chosing one over the other?

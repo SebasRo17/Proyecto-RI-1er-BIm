@@ -1,1 +1,0 @@
-A developer told me they used delegates to bind most of their events in ASP.NET. Until then, I did not even know it was possible to use delegates in ASP.NET in a meaningful way. My understanding is that ASP.NET/MVC3 works via HTTP verbs, not events/delegates. Is it even possible to have an event fire from the client to the server? This strikes me as an invalid form of IPC.

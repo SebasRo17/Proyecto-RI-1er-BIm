@@ -1,1 +1,0 @@
-came across instagram api client written bind method bind py called return instance execute request call num advantage way directly creating instance num happen method called numerous time create new instance every call note advantage thought probably track care implementing particular called never create instance

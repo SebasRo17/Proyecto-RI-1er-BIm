@@ -1,1 +1,0 @@
-I can't remember but recently in one of the APIs I saw something like this `class A (member:A){}`. Scala does support it and there is no problem creating such a class but how do we initiate it and what purpose would such a class serve?

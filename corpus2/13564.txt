@@ -1,0 +1,1 @@
+The Python function                def isPrime(n):         return all(n % i for i in xrange(2, n))      checks if a number is a prime number by using `all`. How can I write a function similar to `all` in _Mathematica_?

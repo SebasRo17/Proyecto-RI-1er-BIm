@@ -1,1 +1,0 @@
-reading clean handbook agile software craftsmanship robert c martin one point make function descend one level abstraction however wondering function actually create object application say dependency app book database using dependency injection app would need create book database instance inject database instance book acceptable breaking mixing level abstraction rule yes

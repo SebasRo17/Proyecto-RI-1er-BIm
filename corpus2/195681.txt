@@ -1,1 +1,0 @@
-I am developing an app which allows a user to upload a maximum of 20 photos, the straight forward way is of course adding 20 columns to my database table but if the user only uploads 1 image, the remaining columns becomes redundant. Anyone can advice me on a more efficient way to design it? Thanks.

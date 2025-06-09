@@ -1,1 +1,0 @@
-website build asp net web form would like refresh design using cs html5 responsive design also change web form asp net mvc frontend project since already existing backend necessary reuse mvc first start design update mvc project far easier starting new website start mistaken

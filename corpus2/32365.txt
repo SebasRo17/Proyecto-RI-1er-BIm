@@ -1,0 +1,1 @@
+_**How to get the coordinates of the point that the mouse touch?_** When my mouse touch the picture that the _Mathematica_ touch ,I hope it can return the coordinates?

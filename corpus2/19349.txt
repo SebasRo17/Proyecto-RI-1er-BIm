@@ -1,0 +1,1 @@
+I would like to get the output from this while loop and use it as a list so I can count the frequency of the various tuples..               n = 1;     While[n < 10,       Print[RandomSample[Join[Table["a", {2}], Table["b", {2}]], 2]]; n++]      I'm thinking it should be easy but I haven't been able to do it? Thanks in advance for any suggestions!

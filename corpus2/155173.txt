@@ -1,1 +1,0 @@
-I just need to see what is stored, in realtime, in some particular variables and struct used by an application written in C. I need something like the stack tracer that comes with the ADT plugins for Eclipse as part of the Android sdk.

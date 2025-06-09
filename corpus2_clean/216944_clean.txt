@@ -1,1 +1,0 @@
-fowler refers mvc gui architecture many different way organize rich client system discus selection feel influential introduce relate pattern mvc gui architecture say mvc business rule domain wrong

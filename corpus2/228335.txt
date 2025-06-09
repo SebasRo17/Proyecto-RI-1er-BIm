@@ -1,1 +1,0 @@
-I read in a book 'beginning asp.net 4.5 in c#' that when some one type the URL of the asp.net website, the browser send the request to the server and if the server find any ASP.NET markup or controls then it will leave this or map this to something called asp.net handler. So, what is it this handler? Is it the server itself or another thing in the server?

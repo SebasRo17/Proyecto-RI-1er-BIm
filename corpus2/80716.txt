@@ -1,1 +1,0 @@
-Even though at first glance the words AddIn, AddOn, And Plugin give the same meaning, there are some differences between them. Could anyone explain to me the subtle differences between _AddIn_ , _AddOn_ , And _Plugin_?

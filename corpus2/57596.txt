@@ -1,0 +1,1 @@
+The following code crashes my Mathematica kernel (v9, MacOS):               s = StringJoin[ConstantArray["65 H Isotropic = 27.4022 Anisotropy = 4.3297\n", 400]];     StringCases[s, (Except["\n"]..~~"\n")..];      Is this a known problem? Am I using string patterns in a wrong way?

@@ -1,1 +1,0 @@
-I was wondering what the loaders in Linux and Windows are called, i.e., their command names? Loaders' definitions are > In computing, a loader is the part of an operating system that is > responsible for loading programs.

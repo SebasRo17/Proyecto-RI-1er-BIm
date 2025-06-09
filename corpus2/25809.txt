@@ -1,0 +1,1 @@
+When I enter `Prime[2000000000000]`, the two-trillionth prime, _Mathematica_ gives `61427839512211` for the answer after several minutes of calculation. I wonder how it calculates to get this number. Apparently, it does not pull that number out from a list, since it spends several minutes to get the answer.

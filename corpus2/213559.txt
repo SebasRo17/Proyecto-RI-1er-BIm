@@ -1,1 +1,0 @@
-What are the algorithms I could use to create an AI for the game TicTacToe. I have already used Alpha–beta pruning and Predictive modelling. What the other good Algorithms I can use to create this AI. I want to practice a new language this would a great way to learn a new language. Thanks

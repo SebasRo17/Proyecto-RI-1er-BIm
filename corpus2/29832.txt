@@ -1,1 +1,0 @@
-What is the bug workflow on your agile/Scrum team? Here is ours: \- If the bug is related to a story in the current sprint, we fix it. \- If the bug is not related to a story in the current sprint and it is not critical, it is sent to the product owner for prioritization. \- If the bug is not related to a story in the sprint and it is critical, we fix it.

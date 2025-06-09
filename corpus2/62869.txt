@@ -1,1 +1,0 @@
-If I used a GPL-licensed Javascript libarary in a web application, would I then have to offer source code of the whole site to anyone who downloaded and executed the Javascript lib?

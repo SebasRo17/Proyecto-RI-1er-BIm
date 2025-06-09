@@ -1,1 +1,0 @@
-Quick question about TFS - Do you guys check-in bin/debug folders into TFS? (if so, why?) Since the content of those folders are dynamically generated is it better to leave them out so that the programmer will not run into read-only issues?

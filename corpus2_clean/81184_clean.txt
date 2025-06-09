@@ -1,1 +1,0 @@
-think flash performance bad mainly due fact people build flash application using flex framework opposed problem everything lower level flash system percent flash apps built flex

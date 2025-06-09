@@ -1,1 +1,0 @@
-suppose following dto two getters break encapsulation least foo public primitive caller need worry const rectype const const rectype const reference caller need call two method iteration const rectype const private rectype

@@ -1,1 +1,0 @@
-curious difference space complexity map map ruby method def mult two arr arr map num end def mult two arr arr map num end explicit assignment first implicitly collecting result map somewhere operating place like second would correct say first n auxiliary space complexity second num represent looking auxiliary space complexity

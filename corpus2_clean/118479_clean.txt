@@ -1,1 +1,0 @@
-one programmer committed work svn repository went home left hudson automatic build failed another programmer saw looking change detected problem absence one library added library svn next build completed successfully second programmer right thing waited first programmer fixed issue

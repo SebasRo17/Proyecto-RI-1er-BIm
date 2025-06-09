@@ -1,1 +1,0 @@
-company work recently given order improve app previously developed different company use bundle identifier like com appname however cannot register bundle id generating app id wonder consequence change bundle id say com mycompany appname

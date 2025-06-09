@@ -1,1 +1,0 @@
-In a wsdl we define the operation name, input and output in the portType element; later on in binding we define operation, input and output again. What is the rationale behind this? why define them twice? I understand in binding we define the encodingStyle and other attributes, so what is the need of portType?

@@ -1,1 +1,0 @@
-possible eclipse num team provider project e g svn mercurial svn used commit central repository mercurial work pc e g get update svn commit mercurial work mercurial everything ready go central place commit svn need integrate change history yes ideally mercurial probably happened later want try dirty fast solution exist

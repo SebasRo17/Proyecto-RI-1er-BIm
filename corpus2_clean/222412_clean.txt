@@ -1,1 +1,0 @@
-restful web api asp net web api num want use form cooky basic authentication send user pas cleartext thus ssl needed use need claim stuff decided yet asp net self hosting ii want send encrypted token client server via ssl using entity framework num net num num want crud action user table project template library approach start

@@ -1,0 +1,1 @@
+I have a sequence of expressions               1, x, x^2, ..., x^5      I want to define a sequence of functions out of it, what should I do? Namely I want to define a vector of functions with elements: $$ f_1 = 1, f_2 = x, ..., f_6 = x^5 $$ Any help is appreciated.

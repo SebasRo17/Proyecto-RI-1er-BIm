@@ -1,1 +1,0 @@
-various way acheiving someone please guide website friend designer friend want use core php framework like codeigniter something really like comfortable look couple roll mvc framework guide sure ideal approach since solution might come may various bug security issue goal use plain php without help thirdparty framework site logic separate view thanks

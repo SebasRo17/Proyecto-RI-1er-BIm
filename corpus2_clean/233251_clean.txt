@@ -1,1 +1,0 @@
-team member refuse use form private source repository github bitbucket due security concern result hard time sharing appears concerned source theft party using cloud based source repos fairly standard industry practice individual point vendor steal customer industry multimillion dollar idea stored third party cloud service like aws github bitbucket app engine etc

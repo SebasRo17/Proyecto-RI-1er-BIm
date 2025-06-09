@@ -1,1 +1,0 @@
-attempting create list sorted particular field colon separated string following value name1 num name2 num sorting list would sorted number second field name2 num name1 num go issue aware sorting list string

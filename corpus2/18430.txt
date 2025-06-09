@@ -1,0 +1,1 @@
+I know how to implement quick sort in Mathematica. But I don't know how to get the temp data for visualization, because I used recursion. I want the effect like this.               qsort[{}] = {};     qsort[{x_, xs___}] := Join[qsort@Select[{xs}, # <= x &], {x}, qsort@Select[{xs}, # > x &]];     qsort@RandomSample@Range@30

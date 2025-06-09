@@ -1,1 +1,0 @@
-struggling naming convetions c know use pascalcase camelcase read microsoft naming convention got lost num aspx far know correct public number private number public private number local context component xaml x button x button seems private field use camelcase hand everywhere example see pascalcase x ask one habit official c guru style

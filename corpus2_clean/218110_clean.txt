@@ -1,1 +1,0 @@
-npm doc say anyone call npm publish add npm package official registry control registry reliable production deployment scenario preventing people spamming registry moderation qa process

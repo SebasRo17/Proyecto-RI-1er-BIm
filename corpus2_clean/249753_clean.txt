@@ -1,1 +1,0 @@
-compiling visual studio c noticed need specific c redist depending version visual studio compile required redistributable necessary machine without otherwise without missing dll error prompt way pas needing necessity redistributable way package inside program creating dll executable etc

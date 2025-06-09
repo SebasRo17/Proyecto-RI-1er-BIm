@@ -1,0 +1,1 @@
+I would like to generate a table of trig questions such as:               Table[RandomChoice[{Sin, Cos, Tan}][     RandomInteger[{-180, 450}] \[Degree]] //     TraditionalForm, {3}, {4}] // TableForm       does. MMA however evaluates this to acute angles. What syntax can be used to keep the evaluation as sin(200˚) say? Thanks in advance.

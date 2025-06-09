@@ -1,1 +1,0 @@
-front end c need call c back end interop needed interop layer convert c structure c structure memory freeing grunt work question write interop layer static wrap normal instantiate need use

@@ -1,1 +1,0 @@
-I asked a question on lines of code per hour and got torn a new one. So my matured follow-up question is this: If not lines of code, then what is a good metric by which to measure (by the hour/day/unit-of-time) the effectiveness of remote programmers?

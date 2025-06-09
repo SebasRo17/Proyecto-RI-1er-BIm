@@ -1,1 +1,0 @@
-I have been looking for a really good open source flash development environment with no success. The best I could find would help in the development of pretty much everything, but I still needed to have Adobe Flash Professional in order to compile my work. Is there a way I can develop Flash applications and not need to purchase Flash Pro?

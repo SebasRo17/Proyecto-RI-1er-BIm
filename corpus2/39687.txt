@@ -1,1 +1,0 @@
-We have all seen integer, floating point, string, and the occasional decimal type. What are some of the most strange or unique or useful types you have encountered, useful or not?

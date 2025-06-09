@@ -1,1 +1,0 @@
-I'm developing a system which involves 2 Android applications and a Java web application. For my UML class diagrams I have not included third party classes I use e.g. observer type interfaces. Should I include them? If so how can I differentiate between my entities (classes, interfaces, enums etc) and their entities? Thank you.

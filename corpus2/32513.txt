@@ -1,0 +1,1 @@
+I'm very curious if the following double series over primes has a closed form: $$\sum_{k \in \mathcal{P}}\sum_{n \in \mathcal{P}}\frac{1}{k\;n(k+n)^2}$$ where $\mathcal{P}$ denotes the set of all prime numbers.   Could you help here with `Mathematica` coding?

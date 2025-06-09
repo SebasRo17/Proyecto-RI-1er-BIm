@@ -1,1 +1,0 @@
-I'm thinking of some of the array functions. "key", "each", "pos", "range". These are often very useful as local identifiers! I have also seen code that (ab)uses $return, $list, $array, $string. What are other PHP programmers views on this? Local identifiers only! I wouldn't use them as members or method names of a class, even less global variables.

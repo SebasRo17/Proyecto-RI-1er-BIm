@@ -1,1 +1,0 @@
-called system gc call garbage collector rather suggests jvm gc valid reason call thinking would evident bad software design

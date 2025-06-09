@@ -1,0 +1,1 @@
+Find $X_t = c_1 X_{t-1} + \dots + c_n X_{t-n} + n_t$ for given $c_i$, initial conditions $(X_1, \dots, X_n)$, and distribution for i.i.d. $n_t$. I would like to know if there is a more efficient or elegant way to code this than using a for loop.

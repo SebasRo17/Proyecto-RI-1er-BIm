@@ -1,1 +1,0 @@
-The closure feature is widely used in JavaScript and make it quite difficult for programmer who was used to program in a no-closure language. So what is the best practice about using closure and how to avoid shooting yourself in the foot.

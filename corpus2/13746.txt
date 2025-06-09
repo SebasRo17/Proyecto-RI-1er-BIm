@@ -1,1 +1,0 @@
-I keep coming across this term hooks in various programming articles. However I don't understand what they are, and how can they be used. So I just wanted to know what is the concept of hooks; if someone could link me to some examples, particularly in the context of web development, it would be great.

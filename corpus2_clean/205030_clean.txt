@@ -1,1 +1,0 @@
-want implement memory datastore web service haskell want transaction stm monad google hash table steam haskell get btree hashtable stm module complexity suggest implemented tree would think efficient mutable hash table reason avoid using stm hashtable gain anything steam hash table use steam ref intmap

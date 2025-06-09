@@ -1,0 +1,1 @@
+_Mathematica_ doesn't rationalize the denominator automatically, and I haven't found anything in the documentation about it. But I found an old post on MathGroup, which proposes a solution using `ComplexityFunction`. In very simple cases, it works fine, but it fails in more complex cases. Is there a better way to do it?

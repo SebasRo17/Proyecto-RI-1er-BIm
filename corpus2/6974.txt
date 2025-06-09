@@ -1,1 +1,1 @@
-What's the worst programming-related or technical book you've ever read? This can be any book which one way or another can be connected to programming, as long as it's not fiction.
+> **Possible Duplicate:**   >  Why doesn't PatternTest work with Composition? My function is something like this,               a[x_Real?(# > 0) &] := Plot[x*Sin[y], {y, 0, 10}];      But, `a[5]` returns nothing but `a[5]`. This function doesn't work either,               a[x_Real/;(# > 0) &] := Plot[x*Sin[y], {y, 0, 10}];      I'm very much confused. Can anybody tell me why these won't work?

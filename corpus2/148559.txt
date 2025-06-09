@@ -1,1 +1,0 @@
-Generators are being introduced in the new version of the ECMA standards. Could any one suggest the importance and the usage of generators in the present Javascript world? Examples of generators in real world problems will be helpful.

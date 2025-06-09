@@ -1,1 +1,0 @@
-I am trying to add a chat to my web application written in Java. What would be the best solution in this matter? I have read something about JMS, but the pub/sub pattern doesn't seem to be designed for this kind of usage, and for the p2p pattern, I need to build a queue for each user(this doesn't sound right neither). What would you suggest?

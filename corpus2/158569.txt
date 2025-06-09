@@ -1,1 +1,0 @@
-Let's say I have a linear function `f(n)= an+b`, what is the best way to prove that this function belongs to O(n2) and `Θ(n)`? I do not need mathematical rigor here. I need a programmers answer. Some logical way of explaining. This is precisely why I didn't post the question in mathematics Q&A and instead in the Programmers Q&A.

@@ -1,1 +1,0 @@
-intellij odd formatting javascript trying figure get stop formatting way whenever chain jquery function together indent auto created something focus stuff blur cursor closing brace end want look like something focus stuff blur cursor closing brace indented normally change

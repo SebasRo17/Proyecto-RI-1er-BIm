@@ -1,1 +1,0 @@
-I find myself using my text editor of choice (vim, nano, gedit, pick your poison) much more often than any IDE as of late. After noticing my ide shortcuts getting dusty I started to think about this and wonder: **what justifies use of an IDE for you opposed to a text editor**? For that matter what rationale would you have for **not** using an IDE and merely relying on an editor?

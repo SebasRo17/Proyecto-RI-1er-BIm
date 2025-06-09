@@ -1,1 +1,0 @@
-plotted team burn chart velocity per iteration look really bad velocity lot looking diagnose root cause behaviour enter image description

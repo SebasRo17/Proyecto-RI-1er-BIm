@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Graphics exported from Mathematica 9 are very large because even standard > fonts are embedded I have a text only notebook that I saved as PDF. The file size is 2.8 mb. The actual notebook is 12 kb. There are no graphics or special fonts. Is there a way to get a PDF file without the file size being so large?

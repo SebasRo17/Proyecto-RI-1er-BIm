@@ -1,1 +1,0 @@
-important initialize variable proper initializing avoid memory leak performance advantage

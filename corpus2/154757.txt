@@ -1,1 +1,0 @@
-I am making a pretty standard PHP sign up form that will validate the data the user entered and then redirect to a page with a success message. I would like to store this data in a database. Should I insert this information into the database before I redirect the page or after it is redirected?

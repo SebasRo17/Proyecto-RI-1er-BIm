@@ -1,1 +1,0 @@
-When writing a program, should I write tests that ensure that the dependencies I use are working? Those might help to check my assumptions about them, and may also help when deciding to upgrade said deependencies. Also, are there any established opinions or schools about whether or how one should go about that?

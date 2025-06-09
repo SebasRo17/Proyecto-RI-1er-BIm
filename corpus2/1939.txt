@@ -1,0 +1,1 @@
+I need to get the neighboring vertices and incident edges from a vertex in a graph. I assume `NeighborhoodVertices` can be used for the former. Anything better? Or given something like `{1 \[UndirectedEdge] 2, 2 \[UndirectedEdge] 3, 3 \[UndirectedEdge] 1}`, how to directly get these information? Can I do list matching to some pattern?

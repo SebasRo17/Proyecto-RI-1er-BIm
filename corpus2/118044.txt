@@ -1,1 +1,0 @@
-Some of my friends say that UNIX is beautiful and simple. But I really don't know what they mean. Why are they saying so? For me, UNIX is just a boring command prompt with different shells. How can I experience the beauty of UNIX? Can you share any experience?

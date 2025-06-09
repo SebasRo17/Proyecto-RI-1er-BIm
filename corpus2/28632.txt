@@ -1,1 +1,0 @@
-I was reading about the js-test-driver unit-testing framework, when I found out that the guys behind the framework intend it to be integrated with an assertion framework. What is an assertion framework? Is it a kind of unit- testing framework? If it is the case what is specific to such frameworks?

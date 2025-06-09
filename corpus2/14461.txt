@@ -1,1 +1,0 @@
-According SaaS maturity model a SaaS is level 2 if is configurable, but how i can get started in this concept?how patterns and Technics, i can use to enable my SaaS?

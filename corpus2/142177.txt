@@ -1,1 +1,0 @@
-I just read about Caja, which is a "sanitized" version of JavaScript. But I'm wondering - what is the big problem with JavaScript(it seems so widely used )? Just how dangerous is it?

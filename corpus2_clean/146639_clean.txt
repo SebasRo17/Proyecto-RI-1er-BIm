@@ -1,1 +1,0 @@
-writing program handle xbox num stfs file encountering sort problem keep track used v unused block reading non sequential file etc much problem structure stfs another file structure know certain thing thought would find plethora information file system like ntfs fat32 read program finding resource work file system using pre made software much make software reference stfs

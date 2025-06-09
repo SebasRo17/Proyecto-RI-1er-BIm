@@ -1,0 +1,1 @@
+I have never used image processing with Mathematica. I need to get the coordinates of the red points from this image I made in Illustrator. Is there a way to get Mathematica to read or detect the x-y coordinates? ![enter image description here](http://i.stack.imgur.com/R0Dqo.png)

@@ -1,0 +1,1 @@
+What performance tuning tricks do you use to make a _Mathematica_ application faster? MATLAB has an amazing profiler, but from what I can tell, _Mathematica_ has no similar functionality.

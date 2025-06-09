@@ -1,1 +1,0 @@
-During a previous consulting position, the developers where told to check-in code on a nightly basis, regardless if it complied or was complete. Managers were afraid of losing any code and said now we only lose one day at most. The place I'm currently it is investigating whether to implement this. Anyone have any pros/cons on this? Should developers be forced into check-ins?

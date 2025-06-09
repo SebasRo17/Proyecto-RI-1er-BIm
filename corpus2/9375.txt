@@ -1,0 +1,1 @@
+Please consider the following: I have created a GUI where I can choose the path of a notebook (which I need for later calculation) via `FileNameSetter[Dynamic[path1], "Open", {"Mathematica Notebook" -> {"*.nb"}}]` Now I would like Mathematica to evaluate the chosen notebook immediately after setting the path. Has anyone an idea?

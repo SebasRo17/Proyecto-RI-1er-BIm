@@ -1,1 +1,0 @@
-How long should the Continuous Integration process take (i.e. compiling classes and running unit tests + integration test)? On my current project it takes about 30 minutes, is that OK? What's the ideal length of build time? Integration tests take most of that time, if the 30 min is too long what can be done here? What's the impact of having the build complete in 30 min?

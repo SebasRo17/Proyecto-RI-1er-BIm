@@ -1,1 +1,0 @@
-I am learning Coldfusion, however when I try to open CFM and CFC files they appear to be unreadable. Some of the data look like java code, but other data looks like this: "¸ aº*3¶ H**´ !½ zY¼S¶". I thought that this might be compiled with Java, but http://java.decompiler.free.fr does not seem to be able to decompile it.

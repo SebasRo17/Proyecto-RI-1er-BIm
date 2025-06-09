@@ -1,1 +1,0 @@
-Are there any general guidelines to understand when I should consider using (as a eat-your-own-dogfood) and providing web services, and when I shouldn't worry about them? Or, any reading materials you can point me to? My project is in PHP but I don't mind if it's language agnostic.

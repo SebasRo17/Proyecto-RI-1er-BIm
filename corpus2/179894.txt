@@ -1,1 +1,0 @@
-I've built a few API's using the complete rails stack. In each project there have been multiple uses for rails core features. Each of the API has had management screens for monitoring usage, managing authentication keys, etc. Is there such thing as an API without a management front end?

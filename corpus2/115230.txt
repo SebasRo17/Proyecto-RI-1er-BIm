@@ -1,1 +1,0 @@
-HTML5+Javascript is not viable as the client-side code will be visible and, thus, stealable. Flash is not viable since it's not supported on ipads and thus not cross-platform. Said that, what are the available tools for creating cross-platform, cross-browser multiplayer online commercial games?

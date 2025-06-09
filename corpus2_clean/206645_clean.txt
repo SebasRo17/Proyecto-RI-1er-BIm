@@ -1,1 +1,0 @@
-building application c work progress database password stored database stored using hash algorithm progress made public however would like authenticate using hash feasible reverse engineer hash algorithm would go clear looking way get unhashed password hash looking algorithm get hash password

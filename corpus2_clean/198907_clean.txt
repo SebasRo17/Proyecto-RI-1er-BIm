@@ -1,1 +1,0 @@
-idea mind would like know way go end application think application social networking system want implement chat functionality like push server client heard could use node j meanwhile want regular system posting status update like use php apache server way think node j apache running parallel way go think would somewhat neater solution

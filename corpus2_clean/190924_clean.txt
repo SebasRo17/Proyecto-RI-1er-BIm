@@ -1,1 +1,0 @@
-algorithm optimal provided heuristic underestimated complete admissible provided condition know proof optimality prove algorithm complete

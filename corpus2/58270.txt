@@ -1,1 +1,0 @@
-Is it fair to refer to a feature that has not yet been coded as a "bug"? For example, I am working on a project that involves three distinct features. If I only start one of them, is it correct to refer to the other two as bugs? Or do bugs only apply to features that have been coded and tested?

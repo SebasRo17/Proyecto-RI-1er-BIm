@@ -1,1 +1,0 @@
-I feel that side effects are a natural phenomenon. But it is something like taboo in functional languages. What are the reasons? Edit: My question is specific to functional programming style. Not all programming languages/paradigms.

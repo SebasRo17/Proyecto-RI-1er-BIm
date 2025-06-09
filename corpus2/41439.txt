@@ -1,0 +1,1 @@
+I'd like to simply add a nice thick point in $(0,0,0)$ to `Plot3D[(y^2/x), {x, -3, 3}, {y, -3, 3}]`. The solutions I came across to add anything to `Plot3D`, mostly involved MeshFunctions. However I don't see how I could manipulate the mesh to give the desired result. Any help would be appreciated.

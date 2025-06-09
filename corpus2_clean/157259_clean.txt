@@ -1,1 +1,0 @@
-always found logic validate instead filtering appropriately filter depends situation imo done saving database see framework provide automatic xss filter incoming post get logic behind solution see advantage except providing quick easy solution lazy developer specific security reason understand

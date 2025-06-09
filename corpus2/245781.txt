@@ -1,1 +1,0 @@
-I would like to know the advantages and disadvantages of using guard pages with bump-pointer allocation versus heap checks with bump-pointer allocation, including performance as a consideration. In a modern implementation, which would be the most appropriate?

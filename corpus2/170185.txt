@@ -1,1 +1,0 @@
-For example if I have code that contains parts of code rewritten from code found here or on Stack Overflow or other Creative-Commons licensed code, can my final code be licensed with an Apache License?

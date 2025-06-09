@@ -1,1 +1,0 @@
-trying use upload video matlab trying follow example documentation however move num struct cdata zero num uint8 get following following occurred converting struct using argument must contain num mov num struct cdata zero num uint8 idea may wrong

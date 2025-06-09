@@ -1,1 +1,0 @@
-I've noticed that a lot of the packages I've been installing on my Ubuntu machine has this "d" at the end. Googling it doesn't give me any answers that I can find. For example: FTP server - Package called: pure-ftpd TFTP server - Package called: atftpd SSH server - Package called: sshd What's up with this "d"?

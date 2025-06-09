@@ -1,1 +1,0 @@
-Is the ISC license suitable as a MIT or Simplified BSD license replacement? What are the pros and cons of ISC compared to MIT or BSD?

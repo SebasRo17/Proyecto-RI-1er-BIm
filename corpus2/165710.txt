@@ -1,1 +1,0 @@
-Currently, I am through a very creative phase as a developer. I think it's a good time to contribute to an open source project. Not as "permanent" developer to a project but in a "help wanted" manner in many projects. The open source hosting services that I know are SourceForge and CodePlex. Any suggestions that will help me on this direction?

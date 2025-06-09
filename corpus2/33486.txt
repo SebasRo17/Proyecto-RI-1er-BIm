@@ -1,0 +1,1 @@
+I am trying to plot in spherical coordinates the ellipsoid defined as $$(x/3a)^2+(y/2a)^2+(z/4c)^2=1$$ This is my code:               ParametricPlot3D[{Cos[u] Sin[v], Sin[u] Sin[v], (1/3 Cos[u] Sin[v])^2 +          (1/2 Sin[u] Sin[v])^2 + (1/4 Cos[v])^2 == 1}, {u, 0, 2 π}, {v, -π, π}]      What am I doing wrong? No errors are displayed and an empty frame is all I see.

@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  List-operations only when restrictions are fulfilled (Part 1) I have a set of data like:               list = {{Tim, 45},{Mary,100},{Tim,500},{Bob,499},{Mary,50}};      I'm looking for a simple way to total the values based off of the name so that the output would look like: `{{Tim,545},{Mary,150},{Bob,499}}`

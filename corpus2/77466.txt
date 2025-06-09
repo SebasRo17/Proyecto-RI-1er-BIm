@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Website for code review As a sole developer on a Sharp Architecture project, I'd like to find a way to get some code review. How do people do this? Are there services that people can recommend? Edit: Specifically, I need code review for the overall project - a big task.

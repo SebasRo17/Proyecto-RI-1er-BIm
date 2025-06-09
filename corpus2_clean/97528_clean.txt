@@ -1,1 +1,0 @@
-often hear scala ability pas parameter another would like know difference passing parameter v passing parameter latter approach brings advantage programming function passed parameter reference created since function tied object

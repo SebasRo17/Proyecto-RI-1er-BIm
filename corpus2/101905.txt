@@ -1,1 +1,0 @@
-With all the options and project available, especially the size of most of them, Open Source can be pretty daunting for a newbie to it all. My question is, how can I start helping and learning from open sourced software? Where do I start? Which files do I read first? Any advice to help a programmer above beginner level start contributing?

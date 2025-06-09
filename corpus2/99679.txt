@@ -1,1 +1,0 @@
-I've seen projects that use N-tier with WCF. When creating a WCF project in the solution it is often named with the word "service?" The main questions:   Why and what benefit do you have when using WCF in relation to N-tier? Which situation should be used with WCF and N-tier?

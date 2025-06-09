@@ -1,1 +1,0 @@
-By luck i landed on this website http://www.vagrantup.com/ It is says, that software is for development environment. My question is what exactly definition for development environment (in this case is vagrant)? I wondering what vagrant can give benefit to me as PHP web developer, my current thoughts for development environment is Web Server. Is that right?

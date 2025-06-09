@@ -1,1 +1,0 @@
-I'm a PHP programmer and I've done any projects based on PHP and MySQL without using any framework so far. Now I'm going to create a big link sharing system (excel- able,modular,fast,theme based,secure etc.). But I have no experience to use any frameworks before. I need to know which is better to me.Choose a framework (easy to use and learn it fast) or still do my method?

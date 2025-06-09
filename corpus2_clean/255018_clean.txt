@@ -1,1 +1,0 @@
-say compile simple application called depends libfoo dynamic library assuming another dynamic library implement absolutely interface word definition function libfoo possible modify depend upon without need rebuild easily case dynamically load library also compile library also aware security issue related

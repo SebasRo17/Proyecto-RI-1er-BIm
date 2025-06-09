@@ -1,1 +1,0 @@
-I think mine is "there's no such thing as a five minute job" - that programmers tend to be overly optimistic about development and that we should really think through a the implications before promising a quick solution to a problem and then diving in to code

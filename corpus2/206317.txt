@@ -1,1 +1,0 @@
-When should I use one versus the other? For instance, let's say I have 20 comma delimited, denormalized text files and I want to transform the data and load it into normalized SQL Server tables.

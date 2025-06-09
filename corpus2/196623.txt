@@ -1,1 +1,0 @@
-I can see that GitHub allows you to have multiple mail account and associate every _organization_ you are part of with a different address. Can this be done also for SSH keys? What I would like to do is having two different keys, one to push on my private repository, another to push on an _organization_ repository.

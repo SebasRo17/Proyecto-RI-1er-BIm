@@ -1,0 +1,1 @@
+is it possible to load static library (.lib) compiled in c++ using NETLink or similar in Mathematica?

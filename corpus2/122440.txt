@@ -1,1 +1,0 @@
-Say you have a document with an essay written. You want to parse this essay to only select certain words. Cool. Is using a regular expression faster than parsing the file line by line and word by word looking for a match? If so, how does it work? How can you go faster than looking at each word?

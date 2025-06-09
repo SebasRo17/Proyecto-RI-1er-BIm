@@ -1,1 +1,0 @@
-I heard almost all parts of Windows are written in C and C++ with some assembly. Why did Microsoft skip C#? Is there any scope for C# in the development of future Windows versions?

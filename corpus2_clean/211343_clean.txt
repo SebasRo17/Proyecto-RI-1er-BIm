@@ -1,1 +1,0 @@
-net defines invalidoperationexception exception thrown call invalid current state optimal software design would ever make sense throw exception would argue optimal api prevents misuse including never allowing called state invalid

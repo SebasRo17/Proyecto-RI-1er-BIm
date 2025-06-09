@@ -1,0 +1,1 @@
+Although I would know how to perform cross-validation tests after fitting a model using a function like NonLinearModelFit, I wonder if there is a way to do this providing the right parameters to the FittedModel. If not available, then I think that this would be a good way to improve FittedModel functions in future versions of Mathematica.

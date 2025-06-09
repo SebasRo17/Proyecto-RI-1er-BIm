@@ -1,1 +1,0 @@
-Just went over some slides and noticed that the L1 cache (at least on Intel CPUs) distinguishes between data and instruction cache, I would like to know why this is..

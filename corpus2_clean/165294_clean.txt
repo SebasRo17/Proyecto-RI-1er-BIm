@@ -1,1 +1,0 @@
-work cakephp app view consist raw html embedded php echo statement time gotten rather messy go rewrite wondering make sense rewrite view template engine twig smarty experience template engine advantage using template engine

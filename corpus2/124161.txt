@@ -1,1 +1,0 @@
-I have 5GB of free storage on Amazon's Cloud Drive service that I'm not using, so I'm wondering: is it possible to create an SVN repository and be able to commit/update through TortoiseSVN? I have an account at Assembla.com and use it for all my personal/school projects and love it, but Assembla has a 2GB limit.

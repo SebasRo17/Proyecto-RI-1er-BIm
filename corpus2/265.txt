@@ -1,0 +1,1 @@
+I currently edit manually the cell contents of a notebook (Ctrl+Shift+A or Cmd+Shift+A) to "recycle" cells containing the ShowGroupOpener option. Is there an easier way to create documents hiding contents under that type of icon?

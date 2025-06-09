@@ -1,1 +1,0 @@
-Ok, so this is a bit of a devils advocate question really. When are global variables ok, and if never, what would you use as an alternative? An interesting side-case to this question, how is a public static class field different from a global?

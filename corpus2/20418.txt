@@ -1,0 +1,1 @@
+I have two tables. One is given by               T1 = Table[{x, y, 0.}, {x, 0, V},{y, 0, V}]      and from a calculation I have the second, a list of points {x, y, z}               T2 = {{0, 0, 3.4}, {1, 2, 1.4}, {10, 2, 7.4}, ...}      with `Length[T1] > Length[T2]`. How can I efficiently replace every element `{x, y, 0.}` in T1 by the corresponding point `{x, y, z}` from `T2`?

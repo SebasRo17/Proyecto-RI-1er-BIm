@@ -1,1 +1,0 @@
-installed gnustep following post gnustep html say gcc helloworld helloworld gnustep system library header l gnustep system library library base every time want compile work fine however learning compiling running apps way often making little change trying like simpler way easier way compile app lazy

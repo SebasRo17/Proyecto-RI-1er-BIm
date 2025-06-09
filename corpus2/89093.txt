@@ -1,1 +1,0 @@
-I am developing an OS reporting system for PHP, it's main emphasis is right now on the server side of things.   I am trying to look for examples of good UIs for reporting systems. The problem: there are dozens of reports, each linked to the other, how do you navigate between them? How do you know the path you took to get to a specific report etc. Any examples out there?

@@ -1,1 +1,0 @@
-I am considering using Neo4j to manage project tasks and schedules and compute critical paths. Obviously tasks and milestones would be nodes, and dependencies would be relationships. Are there any best practices, resources, or implementations to which I can refer?

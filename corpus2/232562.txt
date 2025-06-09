@@ -1,1 +1,0 @@
-Most popular applications nowadays require account activation by email. I've never done it with apps that I've developed so am I missing some crucial security feature? By email activation I mean when you register to a site they send you an email that contains a link that you have to click before your account gets activated.

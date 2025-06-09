@@ -1,1 +1,0 @@
-I would like to know which convention (if any) you use for your PHP web application projects.

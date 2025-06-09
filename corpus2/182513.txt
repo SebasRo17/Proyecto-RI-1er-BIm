@@ -1,1 +1,0 @@
-In the C++ STL, `priority_queue` (heap) can be used with any underlying container, such as a `deque`. How does the implementation stay `O(log n)` if `deque`s don't swap an item in index `a` with index `b` in constant time?

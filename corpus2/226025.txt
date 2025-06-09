@@ -1,1 +1,0 @@
-Why is repeating yourself by writing tests so highly encouraged? It seems that tests basically express the same thing as the code, and hence is a duplicate (in concept, not implementation) of the code. Wouldn't the ultimate target of DRY include elimination of all test code?

@@ -1,1 +1,0 @@
-In his Why I Hate Django presentation, Cal Henderson brings up this awesome program in Perl which is a giant "S," which solves a Sudoku problem. Does anyone know where I could get access to this code? I've been searching for it and I'm just dying to be able to read it.

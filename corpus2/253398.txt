@@ -1,1 +1,0 @@
-I was wondering about the following implementation of               public void update(Observable obs, Object arg)      while i want to send to all of my observer and update using `notifyObserver()` i and passing a references to `this` the observer can use the `getters` from the subject to pull the information he wants. what is the `arg` argument on the update method meant for?

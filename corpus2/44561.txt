@@ -1,0 +1,1 @@
+Here is an issue I came across while I was applying one of the well-known versions of   Euler–Maclaurin formula. I try to realize why _Mathematica_ goes wrong with this code below               NIntegrate[-((π Cot[(π x)/100] Csc[(π x)/100])/100) (x - Floor[x] - 1/2), {x, 1, 99}]      and yields > >     4.91483 >   Could you give me a hand to understand what is going on?

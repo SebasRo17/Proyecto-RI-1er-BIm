@@ -1,1 +1,0 @@
-At the moment we are writing modules for an open source cms. We would like to sell these with a license. But which are the best options? Any suggestions and experiences.

@@ -1,1 +1,0 @@
-I recently created a version of Snake, the classic game popularized by Nokia, and I am planning on using it as an example of my game development skills. I just want to know if there are any copyright issues that could come up if I do this?

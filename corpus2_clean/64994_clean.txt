@@ -1,1 +1,0 @@
-reading hibernate came across statement like jdbc connection open across multiple request good thing expensive resource meant expensive resource edit adding user unknown added comment establishing database connection expensive use thing caching instead closing opening everytime

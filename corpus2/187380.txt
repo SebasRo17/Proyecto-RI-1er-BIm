@@ -1,1 +1,0 @@
-I recently heard of an interview question:                Given a string and a dictionary. Break the string into meaningful words      and I remember solving this before with dynamic programming fairly quickly (maybe O(n) time? ) in one of my old algorithm classes but I can not remember the name of the algorithm. Could someone point me in the right direction?

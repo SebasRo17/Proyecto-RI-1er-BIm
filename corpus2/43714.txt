@@ -1,0 +1,1 @@
+I have the following code               In[32]:= N[Pi, 2]          Out[32]= 3.1          In[33]:= N[Pi, 1]          Out[33]= 3.          In[34]:= N[Pi, 2] - N[Pi, 1]          Out[34]= 0.*10^-1      Why can't Mathematica find the difference between the two numbers?

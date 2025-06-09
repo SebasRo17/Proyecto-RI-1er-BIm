@@ -1,1 +1,0 @@
-Is there a sane way / best practices way to swap out a DB from MySQL to SQL Server in a multiple large projects? Some of the projects are ASP projects, some of them are windows services, some are standalone windows apps. I don't think any ORM is used. I think its just SQL statements all over the place.

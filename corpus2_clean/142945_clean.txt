@@ -1,1 +1,0 @@
-trying understand datamapper pattern implementing one domain object far attribute business logic method save update delete get need get many could possibly held cached memory saving many call database could also filter condition functionality go according pattern sure add method create new

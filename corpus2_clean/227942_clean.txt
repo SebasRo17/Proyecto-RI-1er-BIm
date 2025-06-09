@@ -1,1 +1,0 @@
-working ansi c issue pointer point program pointer value change without interfering something like overwriting know could happen c beginner find remedy straightforward way solving understand many people faced similar issue thank guy answer helpful indeed memory problem solved allocating larger block memory thank

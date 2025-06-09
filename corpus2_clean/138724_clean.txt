@@ -1,1 +1,0 @@
-context new var result context userid situation considered best practice use var complextype

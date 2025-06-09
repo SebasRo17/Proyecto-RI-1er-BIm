@@ -1,1 +1,0 @@
-I've been learning F# and it's starting to influence how I think when I'm programming C#. To that end, I have been using recursion when I feel the result improves readability and I can't envision it winding out to a stack overflow. This leads me to ask whether or not compilers could automatically convert recursive functions to an equivalent non-recursive form?

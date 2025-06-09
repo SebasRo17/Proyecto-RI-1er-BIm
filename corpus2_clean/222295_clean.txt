@@ -1,1 +1,0 @@
-never built restful api wondering discrete example let say customer address phone number email address language etc make sense way update individual field update address update email address etc single update entire customer field optional

@@ -1,1 +1,0 @@
-asked question multiple writer fifo know write thread safe long write less pipe link limit read two reader multiple thread reading fifo need lock need read less pipe buf btw talking linux fifo using c

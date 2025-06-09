@@ -1,1 +1,0 @@
-I am reading (Cormen) on counting sort.   I understand the structure of the algorithm but the statement: > In practice, we usually use counting sort when we have k = O(n), in which > case the running time is Theta(n). Is not clear to my mind. k is just the range of integers expected in the input. Why is the asymptotic notation used in this statement for k? I don't get it.

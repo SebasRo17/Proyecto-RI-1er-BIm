@@ -1,1 +1,0 @@
-What questions would ask a candidate with mainly Java/.NET experience (10 years+) in an interview for a C++ position?

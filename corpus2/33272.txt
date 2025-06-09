@@ -1,0 +1,1 @@
+I want to have the distances of the cities in the matrix form.How can I have it for example for the cities like followings that also includes the distance of the city from itself which is zero:               Union[#[[1]] -> #[[2]] & /@      Permutations[CityData[{Large, "Germany"}], {2}], # -> # & /@      CityData[{Large, "Germany"}]]

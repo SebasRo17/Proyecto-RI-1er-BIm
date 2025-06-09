@@ -1,1 +1,0 @@
-writing non web application written allocate cloud resource want make compatible many provider possible wise use occi interface complicated

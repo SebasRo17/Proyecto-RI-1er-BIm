@@ -1,1 +1,0 @@
-A coworker of mine believes that _any_ use of in-code comments (ie, not javadoc style method or class comments) is a code smell. What do you think?

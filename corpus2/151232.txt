@@ -1,1 +1,0 @@
-Do people outside of the USA use two-part date abbreviations for the current year? For instance, representing the last day of May, you might see someone enter `5/31` into a date field. Do international users do something similar? In a country that ordinarily uses dd/MM/yyyy would they use `31/5` or some such?

@@ -1,1 +1,0 @@
-I have been practicing agile for more than a year now. As part of our sprint, some times we will have **Investigation Tasks**. We skip poker planning for theses tasks, and adds blanket numbers. Theses are tasks like investigating some tricky defects or technical feasibility of some features etc.. Is this proper or is there any alternative ways to tackle it?

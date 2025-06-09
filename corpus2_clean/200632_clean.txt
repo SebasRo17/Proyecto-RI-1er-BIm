@@ -1,1 +1,0 @@
-seems lot discussion web difference two paradigm oop somewhat better structured programming complementary point view one could organize application following oop principle implement logic using structured programming

@@ -1,0 +1,1 @@
+When I use `RegionPlot` to plot the region between two functions, I get strange gaps in the resulting figure. Is there a way to prevent this from happening? * * * For example,               RegionPlot[x^2 < y && y < x^4, {x, -3, 3}, {y, 0, 3}]      produces the following strange result: ![enter image description here](http://i.stack.imgur.com/u6MvY.png)

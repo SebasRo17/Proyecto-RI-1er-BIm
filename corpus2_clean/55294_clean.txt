@@ -1,1 +1,0 @@
-designing api consistency often aid usability however sometimes conflict extra api feature added streamline common case seems like somewhat divide design standard library come mind favor consistency even make common case verbose others standard library come mind favor usability even mean treating common case special make easier opinion consistency usability balanced

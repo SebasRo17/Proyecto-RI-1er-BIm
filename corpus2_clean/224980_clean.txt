@@ -1,1 +1,0 @@
-know log rotation feature seen application server like oracle weblogic would like understand num actually meant log rotation num useful num performs task duty performed logging framework developer use handled server would log rotation available server like weblogic application use logging framework util logging simply rely system println system err println etc

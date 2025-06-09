@@ -1,1 +1,0 @@
-Is Entity Framework 4 with MySQL or Oracle mature enough to be used on production level web application? Can it provide high level of performance, or should we stick with just plain data access with `SqlCommand`?

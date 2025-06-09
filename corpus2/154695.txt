@@ -1,1 +1,0 @@
-If we don't have the free and the paid apps on the Apple app store yet, how would we program in the free version to link to the paid version because the link is not there yet? Do we have to have a webpage as a placeholder to do the forward, for this first, initial case? Is this the only solution and what if we don't have a website?

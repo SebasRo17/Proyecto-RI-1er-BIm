@@ -1,1 +1,0 @@
-I have been reading DDD Quickly and wondered about how to avoid naming clashes with technical terms and domain terms. For example, if I commonly used the repository pattern (with classes such as AddressRepository), but a customer also has something called a repository in their domain. How would I best avoid confusing the two?

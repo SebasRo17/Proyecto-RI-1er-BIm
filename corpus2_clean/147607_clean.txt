@@ -1,1 +1,0 @@
-loaded raw file 2x2 way rendering work fine struggling get camera move top terrain terrain render num num num x z put camera camera allows camera move scene want able walk top terrain basic collision detection possible tip go tip

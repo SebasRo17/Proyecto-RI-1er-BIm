@@ -1,1 +1,0 @@
-think generally good practice include header type used cpp file regardless already included via hpp file might include hpp cpp example even though could still compile skipped cpp way worry whether hpp used forward declaration tool enforce include coding style enforce coding style since preprocessor care whether include coming hpp cpp get feedback forget follow style

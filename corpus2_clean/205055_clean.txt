@@ -1,1 +1,0 @@
-writing restful service course typical http based interface wondering service provide interface semantic restful interface think interface ease call service client need use http client trigger http request invoke restful problem difficult write semantic interface restful one mean semantic advice design thanks

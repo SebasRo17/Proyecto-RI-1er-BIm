@@ -1,1 +1,0 @@
-What books have you read that helped you, as a programmer, learn to estimate time for completing small-to-medium programming tasks, such as bug fixes or implementing new features? Which have you the most helpful? Please describe how it helped you, citing its strengths and weaknesses.

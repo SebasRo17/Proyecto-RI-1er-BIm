@@ -1,1 +1,0 @@
-I want to read Purely Functional Data Structures. I've easily found the thesis (which is freely available as a PDF), but see that there's a book available also. So I'd like to know what the differences are, if any, between these two publications.

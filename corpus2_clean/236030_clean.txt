@@ -1,1 +1,0 @@
-give simple example help understand question suppose rectangle utility creates buffer arround shape required optional argument required radius optional direction example inside outside default outside maybe argument every combination argument need different algorithm design pattern appropriate solving similar problem

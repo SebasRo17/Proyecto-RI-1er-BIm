@@ -1,1 +1,0 @@
-My programming friends are always telling me that HTML is a markup language and C++ is a programming language. When I ask them what's the difference, they never give me a reasonable answer. What could make one call C++ a programming language, and HTML not?

@@ -1,0 +1,1 @@
+How do interact with the Twitter API using Mathematica? SocialMediaData is a lovely function, but appears to be severely limited in what it can draw from Twitter. For example, if I want to get a list of retweets of a Tweet I've sent there's an API call for this but not a means of doing so through SocialMediaData. How do I augment the function with all the API has to offer?

@@ -1,1 +1,0 @@
-How far in advance should you estimate stories in your backlog? My concern is that estimates that are 6 months out will become out of date as you develop features in the current sprint. I thought that with agile you re- estimate your current sprint.

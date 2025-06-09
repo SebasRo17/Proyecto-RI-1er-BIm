@@ -1,1 +1,0 @@
-I have a test database with few user accounts. I don't want to break any tests. If I am writing a function that updates password for user in db and one that reads the password. Should I ideally reset the password to the previous one, once I am done testing update function ? I have never written unit tests before, so I am little confused.

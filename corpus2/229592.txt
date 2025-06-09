@@ -1,1 +1,0 @@
-I read in this question that functional programmers tend to use mathematical proofs to ensure that their program is working correctly. This sounds alot easier and faster than unit testing, but coming from an OOP / Unit Testing background I've never seen it done. Can you explain it to me and give me an example?

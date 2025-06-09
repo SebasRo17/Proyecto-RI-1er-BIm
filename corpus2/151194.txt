@@ -1,1 +1,0 @@
-Are there resources out there for a programmer with a large code base to have professional alalysis performed for the goal of finding the areas of most needed improvement? Logic/Reason tells me there's a limit to what a code review question can absorb, and also that the amount of work involved is not something that should need be free.

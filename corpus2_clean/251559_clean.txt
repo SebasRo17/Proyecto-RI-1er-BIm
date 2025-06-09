@@ -1,1 +1,0 @@
-create game c mac using library window osx game playable window o x work o x done xcode sdl great library first game learning basic syntax c found syntax close

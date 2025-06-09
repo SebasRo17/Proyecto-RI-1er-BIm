@@ -1,1 +1,0 @@
-Instead of a database I just serialize my data to JSON, saving and loading it to disk when necessary. All the data management is made on the program itself, which is faster AND easier than using SQL queries. For that reason I have never understood why databases are necessary at all. Why should one use a database instead of just saving the data to disk?

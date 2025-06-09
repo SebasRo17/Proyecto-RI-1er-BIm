@@ -1,1 +1,0 @@
-I'm under the impression, and I agree with it, that it's bad to create a web application _requiring_ JavaScript to function properly. What if one were to create a single page application? Is it possible to create one that doesn't rely on JavaScript, without being difficult, or full of "hacks"?

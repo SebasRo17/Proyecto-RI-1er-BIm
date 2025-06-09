@@ -1,1 +1,0 @@
-want develop php application ipad device num problem first find local server application ipad like wamp lamp second googling return cloud based ides idea

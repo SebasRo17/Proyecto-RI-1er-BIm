@@ -1,1 +1,0 @@
-I have a little problem with the terms module and component. In my mind, a module are bundled classes, which are only accesable via a well defined interface. They hide all implementation details and are reusable. Modules define modules on which they depend. What is the difference to components? I looked it up in some books, but the description of components is very similar.

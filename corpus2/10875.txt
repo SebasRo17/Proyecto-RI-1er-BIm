@@ -1,0 +1,1 @@
+In Mathematica 8.0.4 under Mac OS X 10.8.2, when I evaluate               Needs["OpenCLLink`"]      I get error `General::cdir: Cannot set current directory to authserver.` Where should that directory be?

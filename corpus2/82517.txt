@@ -1,1 +1,0 @@
-I just came across this while searching on Google for HTML/CSS tutorials. Does anyone recommend this software for building websites? Or should I just stick to learning pencil and paper hand coding instead? I just want to put my focus in the right area. Heres the link: http://msdn.microsoft.com/en-us/beginner/bb964635.aspx

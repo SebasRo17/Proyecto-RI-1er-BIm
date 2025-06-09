@@ -1,1 +1,0 @@
-testing apply list irule rule list target one test want ensure target passed one rule la rule1 test rule1 test rule1 test seems limiting single assertion statement would quite correct assumption way could assert target fact tested

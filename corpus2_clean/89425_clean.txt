@@ -1,1 +1,0 @@
-normally creating new global variable define access modifier per adopt property default access modifier need access default scope change access modifier else leave question right way normal default access variable use private public good coding practice use access modifier

@@ -1,1 +1,0 @@
-What is an appropriate UML diagram if I want to display how user request web page, enters some data, then posts the form (and if the validation has not succeeded, user is redirected back to requested web page)?

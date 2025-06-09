@@ -1,0 +1,1 @@
+I know Mathematica has a ListPlot for time series but does it have a function for visualizing a list of dates as a heat map like this: ![enter image description here](http://i.stack.imgur.com/1Og85.png) This idea is from D3, check it out here.

@@ -1,0 +1,1 @@
+Is there any input for `ColorFunction`, which ranges from Black for smallest values, goes through red-orange-yellow and ends in very bright yellow almost white for the highest values of the `ListDensityPlot`?

@@ -1,0 +1,1 @@
+Since I'm new to _Mathematica_ I want to have a Notebook which takes inputs from user and returns average of the inputs entered and plots it on x-y coordinate. How can I do this?

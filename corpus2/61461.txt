@@ -1,1 +1,0 @@
-We are currently planning to create a 'preview' version for one of our asp.net mvc apps. Is it allowed to use a company like Microsoft's contoso for such a case (Branding etc.)?

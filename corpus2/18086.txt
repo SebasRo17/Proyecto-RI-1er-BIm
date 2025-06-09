@@ -1,1 +1,0 @@
-is it possible to calculate shadow areas of buildings or simulate shadows of buildings in a city, using the heights of these buildings and the sun angle and azimuth? the basic light tracing concept using trigonometry is known. But the Problem is how to find away to come up with simulated shadow of group of buildings in one place.

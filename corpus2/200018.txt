@@ -1,1 +1,0 @@
-gnu parallel is a small utility that allows you to execute bash commands in parallel. I was wondering if there's something similar for windows.

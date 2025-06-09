@@ -1,1 +1,0 @@
-We know there are several moving parts to a system like the apple store or google play. At the very least;   * The device has a unique hardware id or sim card   * The user has a login/pass   * The "store" site has some crypto In what order and format (cypher/plaintext) is this data exchanged between the device and store software before content is installed?

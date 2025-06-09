@@ -1,1 +1,0 @@
-api throttle number request make queue request local database make many request possible throttle exception thrown upon catching exit program scheduled task start process num minute standard log exception exit program since exception expected

@@ -1,0 +1,1 @@
+I want to ask how can I deploy`Mathematica` notebook into player pro. I know that online conversion to `Mathematica player pro` is there. But is there any function for player pro as there is `CDFDeploy` for deploying notebook in CDF?

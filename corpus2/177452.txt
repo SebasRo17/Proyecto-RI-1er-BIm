@@ -1,1 +1,0 @@
-What's the difference between a design pattern and a strategy? Is the monolith actually an anti-pattern?

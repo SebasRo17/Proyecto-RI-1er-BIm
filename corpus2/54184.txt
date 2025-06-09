@@ -1,1 +1,0 @@
-Can some one guide me about How can i have complete grasp for object oriented design. basically i am looking for a book about that or any good website you people can share . bottom line is that i want to develop a web application for my learning from start to finish which is completely object oriented in asp.net c#.

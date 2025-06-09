@@ -1,1 +1,0 @@
-On the Nehalem+ architecture Intel CPUs what is the interaction between the L1 cache, L2 cache, L1 DTLB and L2 DTLB? On all the images I have found there isnt a clear explanation whether the CPU looks at the L1 DTLB first, then goes to the L1D cache, or whether it only goes to the L1 DTLB cache if there is a cache miss in the L1D or the L2 cache?

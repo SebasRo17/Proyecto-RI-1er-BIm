@@ -1,1 +1,0 @@
-simple db editor sits client make change via editor get changed check make sure procedure ran without assume server

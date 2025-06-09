@@ -1,0 +1,1 @@
+For example, I tried to compile this function but Mathematica gives "The only function arguments supported are Times, Plus, or List", I have no a way to compile this.               isPrime = Compile[{{n, _Integer}},       And @@ (Mod[n, #] != 0 & /@ Range[2, Sqrt@N@n])       ]

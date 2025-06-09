@@ -1,1 +1,0 @@
-I am new to image processing using Python. Now I am learning OpenCV and the mahotas module in Python. Many functions in these modules are related to watershed of an image. I don't know what watershed means for an image. Here is an example from the OpenCV documentation: http://docs.opencv.org/search.html?q=watershed&check_keywords=yes&area=default

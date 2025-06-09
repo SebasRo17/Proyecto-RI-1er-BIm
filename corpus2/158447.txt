@@ -1,1 +1,0 @@
-The secure attention key is designed to make login spoofing impossible, as the kernel will suspend any program, including those masquerading as the computer's login process, before starting a trustable login operation. Why other programs cannot simulate `control + alt + del`? What is stay behind this?

@@ -1,1 +1,0 @@
-BOOL myBool;     myBool = YES;     ...     if (myBool) {       doFoo();     }      I have read that because there are instances where the above does not actually call the `doFoo()` function, it is best to instead always test against `YES`, as such:               if (myBool == YES)      But for the most part this just makes my code wordy and repetitive. Any thoughts?

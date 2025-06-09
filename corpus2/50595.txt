@@ -1,0 +1,1 @@
+Let's say I have :               a*u''[x]+b*u'[x]       where `a` and `b` are constant I would need to get > >     (a*d2/dx2 + b*d/dx)u[x] >   Can anyone tell me how I could to proceed?

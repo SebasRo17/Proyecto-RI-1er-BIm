@@ -1,1 +1,0 @@
-controller get fat model start add service layer could used wrap logic inside service get bunch service one two method feel like smell best practice regarding service instantiate model service instantiates model service unit tested covered integration test

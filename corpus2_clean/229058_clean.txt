@@ -1,1 +1,0 @@
-c source file another non file project contain hard coded ideally would specified one location copied location automatically build process hard think hackish way accomplish task want know common way standard approach use guarantee two value remain consistent word maintain consistency non hackish way

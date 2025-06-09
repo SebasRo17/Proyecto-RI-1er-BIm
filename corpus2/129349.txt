@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  How Can I Know Whether I Am a Good Programmer? I was looking at some posts on language execution speeds (e.g. whether one Language was faster then another or vice versa), and the common answer was that it really depends on how good the programmer is. I was wondering what that actually means. How can I tell bad code from good code?

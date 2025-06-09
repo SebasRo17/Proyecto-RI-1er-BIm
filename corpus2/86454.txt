@@ -1,1 +1,0 @@
-I am new to open source development. I want to add some functionality to an open source project PRISM. But I couldn't find any developer guide or code architecture guide sort of a thing for it. How should I begin use its code. I have just imported the archive file in Eclipse and began reading the code. I want to ask whether there are any specific tools which will help me?

@@ -1,1 +1,0 @@
-wondering correct way format situation def foreach clause nested requiring brace currently find hard read obvious place put x bit thank def getanswer var sum num num num foreach x x num num x num num sum x sum tostring

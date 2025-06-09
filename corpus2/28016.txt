@@ -1,0 +1,1 @@
+I have a huge list of data in the form of triplets numbers (e.g. {x,y,z}) and I want 2d plot. In which I want to plot y vs x on which values of z should be shown with color depending on the value of z for each x,y point. Means variation of z with color on x,y plot. Is it possible to show plot legend outside the plot boundaries? Please give me suggestions

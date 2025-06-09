@@ -1,1 +1,0 @@
-Many books about algorithms and data structures are coded by imperative languages. Is there any book that can show functional programming languages can do the same thing or do them better? In particular I am interested in sorting, searching, data structures and graph.

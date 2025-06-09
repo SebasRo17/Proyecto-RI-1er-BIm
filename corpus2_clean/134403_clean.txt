@@ -1,1 +1,0 @@
-best choice linq sql dbml using ado net procedure database num table num concurrent user system going build know ado net faster linq sql much simpler work linq sql linq sql handle concurrency problem performance system going build wcf service using multiple layer service layer business repository access layer

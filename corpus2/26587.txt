@@ -1,0 +1,1 @@
+What is the problem with my plot? I want to get a disk shape.               Plot[Table[-x + k, {k, -2, 2, .1}], {x, -5 ,5},        RegionFunction -> Function[{x, y}, (x^2 + y^2) < 1]]      ![enter image description here](http://i.stack.imgur.com/Wx0h9.jpg)

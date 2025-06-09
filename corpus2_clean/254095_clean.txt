@@ -1,1 +1,0 @@
-understand every f expression including let binding say got following let num printfn read would seen let num printfn would inner expression printf hand f interactive let num val num clearly indicates let expression bound identifier q anyone explain let expression different compiled f interactive

@@ -1,1 +1,0 @@
-I am now studying computer system in my college, and now we are learning about bits manipulation in C. And I am just curios, how can by learning bits manipulation can help us to make a reliable code ? what is it for when it comes to the real world problem? and in what way it is very useful in our program ? thank you

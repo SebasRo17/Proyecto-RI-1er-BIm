@@ -1,1 +1,0 @@
-There are instances where the references to objects, fields, variables etc can be null and there might be a possible occurrence of Null Pointer exception occurring at that point. Is is a permanent solution to put these code blocks which expect Null ponter exception to be put in a try catch block?

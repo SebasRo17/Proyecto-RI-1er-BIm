@@ -1,1 +1,0 @@
-started using nosql document based database mongodb curious best practice designing database presume architecture different relational database still aim normalized database example particular use case user rental history address user separate collection shared key

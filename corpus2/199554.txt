@@ -1,1 +1,0 @@
-I am developing a rss reader where users search and follow blogs. But, how will I collect and store the feeds of thousands of blogs? Manual process of adding individual feeds is painful. Is there an easier way to add or import site feeds?

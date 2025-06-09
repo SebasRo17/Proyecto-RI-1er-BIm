@@ -1,1 +1,0 @@
-reading interesting question felt like good idea insecure hashing algorithm use needed one idea might use secure algorithm instead distinction random number representing hashed thing make hashing algorithm secure

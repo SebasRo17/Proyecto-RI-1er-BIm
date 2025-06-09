@@ -1,1 +1,0 @@
-I'm currently learning C#, but wondering whether it is beneficial to learn some C++ before/at the same time as in order to understand the concepts a little better? I've got a C++ book and it does seem rather useful, especially explaining pointers and references.

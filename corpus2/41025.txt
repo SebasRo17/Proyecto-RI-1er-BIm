@@ -1,0 +1,1 @@
+I have a similar question to this one. Unfortunately, the answers there didn't help me. I would like to plot a simple function with the normal `Plot` function. However, I want the origin of my plot to be in the upper left corner, the x-axes to grow to the right and the y-axes to grow down. How can I do this?

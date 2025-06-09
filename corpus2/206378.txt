@@ -1,1 +1,0 @@
-I am confused about the use of `register` keyword in C. It is generally told that its use isn't needed like in this question on stackoverflow. Is this keyword totally redundant in C due to modern compilers or are there situations in which it can still be useful? If yes, what are some situations in which use of `register` keyword is actually helpful?

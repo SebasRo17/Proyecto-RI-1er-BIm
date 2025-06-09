@@ -1,1 +1,0 @@
-general workflow want add feature open source application originally write get know find spot need changed added actually make change without breaking anything else test everything still working general guideline project

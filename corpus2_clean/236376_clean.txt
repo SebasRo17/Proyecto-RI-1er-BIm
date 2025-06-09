@@ -1,1 +1,0 @@
-singleton realized could make field static would work way regular instance field would performance optimization difference would turned better preferred way implement singleton field talking field method

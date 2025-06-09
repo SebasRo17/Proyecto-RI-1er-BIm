@@ -1,0 +1,1 @@
+I don't really understand the documentation for the `LowpassFilter[]` function in _Mathematica_. In the course I have about signal processing, low-pass filters come in many different forms and from different kinds of operations, so I was just wondering if someone could explain to me the math behind this specific function.

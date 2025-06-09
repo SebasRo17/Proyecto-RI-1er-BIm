@@ -1,1 +1,0 @@
-if a JQuery plugin is released under the CC BY-SA 3.0 license, can it be used as part of a closed source commercial web application which is not redistributed, just accessible on the web?

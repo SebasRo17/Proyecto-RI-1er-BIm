@@ -1,1 +1,0 @@
-let suppose simplicity application featuring client server better idea use one repository pair separate repository mixing probably make easier track correlated change maintain correlated branch e protocol evolution hand make individual development cluttered

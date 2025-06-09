@@ -1,1 +1,0 @@
-currently first real project tdd written test implemented logic application however property know need ui however really way write useful test cause creation example description field id really cared logic application actual description carried along populated sent ui would go writing test worthwhile since new property literally nothing public foo get set

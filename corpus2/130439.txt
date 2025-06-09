@@ -1,1 +1,0 @@
-I wanted to know the difference between agile lifecycle and agile unified process(AUP). I do understand that AUP is a modified version of RUP using agile methodology. Can you please elaborate on the differences between the two

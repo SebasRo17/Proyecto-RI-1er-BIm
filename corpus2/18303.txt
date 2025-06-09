@@ -1,1 +1,0 @@
-How important is it to learn XML when JSON is able to do almost all that I need? Having said that, I use JSON mainly for AJAX requests and obtaining data from various APIs. I am a total newbie to web development and the reason I am asking this is that I want to know whether I should go ahead and buy a book on XML or whether I can just give it a pass.

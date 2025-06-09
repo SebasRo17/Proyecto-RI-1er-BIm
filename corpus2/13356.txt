@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Remove tick labels, but retain tick marks in RegionPlot (and related > functions) I need to display a 2D graph, say $y=x^2$ with tick-marks along the $x$ and $y$-axes but with no numbers ( _e.g._ 1, 2, 3 ...) indicating these tick-mark values. What is the most efficient way to perform this task? Thanks!

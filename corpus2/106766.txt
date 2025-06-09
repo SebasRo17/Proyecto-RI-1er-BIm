@@ -1,1 +1,0 @@
-What is the difference between templates and design patterns in JavaScript? I read about the template method design pattern and now I wonder how it relates to JavaScript templates (if at all).

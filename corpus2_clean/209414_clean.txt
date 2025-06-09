@@ -1,1 +1,0 @@
-let say requirement req1 user accept num num character alpha click submit button application show message please enter character num num including invalid boundary case designing test case invalid boundary value num num would positive test case since also verifying message mentioned requirement would negative test case scenario

@@ -1,1 +1,0 @@
-long running switch case else construct avoided oop using polymorphism wherever applicable instead branching matching branching done level similar approach applied functional programming paradigm clojure specifically

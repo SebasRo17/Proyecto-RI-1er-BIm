@@ -1,1 +1,0 @@
-website like spoj project euler test file available specific algorithm structure know fun challenge solve problem looking test file algorithm structure use explicitly mentioned implement linked list confirm implement hash tree confirm etc

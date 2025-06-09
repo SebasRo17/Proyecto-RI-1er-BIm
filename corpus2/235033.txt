@@ -1,1 +1,0 @@
-I am confused with what's the different between clarify and gather. I know using interview, observe or questionnaire can to elicit the requirement we want, but how to clarify the functional requirement?

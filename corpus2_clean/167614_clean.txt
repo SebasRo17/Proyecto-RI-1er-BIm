@@ -1,1 +1,0 @@
-common lisp defmacro basically allows u build dsl read page today explains something cleverly done write boring predicate defined given list word build text predicate automatically produce look like defmacro eval defmacro javascript could used

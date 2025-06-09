@@ -1,1 +1,0 @@
-I was wondering what is the convention for skipping lines? Do we group similar things together, skip no lines or just group everything together except if statements or similar constructs. If there is no convention for this, then tell me how you do it and at the end ill determine if i want to use any. Currently i skip no lines. Languages - C, C++, C#, PHP and Java

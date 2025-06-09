@@ -1,0 +1,1 @@
+How should I assign variables to the data imported from excel containing 3 columns which are time, mean and standard deviation. I want to perform operations on the three variables to get new variables. The excel file can be found on the link: https://drive.google.com/file/d/0B26xdKbTd58_SVRlOEdNaVV4VGM/edit?usp=sharing

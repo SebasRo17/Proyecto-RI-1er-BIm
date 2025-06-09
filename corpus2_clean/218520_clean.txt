@@ -1,1 +1,0 @@
-wrote mysql select foo order bar limit num would first order result limit afterwards always get lowest bar wonder specified like sql standard check found bnf explain something work syntax valid

@@ -1,0 +1,1 @@
+I have a Mathematica script which takes a few hours to run. I want to be able to open another notebook while it's running and do some other computations. I have enough many cores on my computer for this to be possible so it shouldn't be an issue. What do I need to configure so I can be running several notebook scripts in parallel?

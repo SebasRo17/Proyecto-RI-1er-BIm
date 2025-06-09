@@ -1,0 +1,1 @@
+Suppose we create a link like this:               link = LinkCreate["mylink", LinkMode -> Listen]      How can we wait until this link gets connected to by another process, and time out if there's no incoming connection?

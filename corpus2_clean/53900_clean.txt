@@ -1,1 +1,0 @@
-building api customer public javadoc contain want show customer shame javadoc also way obvious target kind internal design documentation one might imagine custom doclet trickery allow two type information coexist source anybody

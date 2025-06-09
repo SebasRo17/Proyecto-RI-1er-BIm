@@ -1,1 +1,0 @@
-myobject x coordinate far see store three way myobject def init self x self x x self myobject def init self x self position x myobject def init self x self position coord x coord created elsewhere best practise either way thinking relevant passing coordinate method eg myobj myobject num num myobj x myobj myobj position

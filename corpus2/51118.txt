@@ -1,0 +1,1 @@
+![enter image description here](http://i.stack.imgur.com/LtKtT.png) Why is the `Out[74]` not `{1 - a, {x -> -1}}`?                Maximize[{Sqrt[x^2] - a, -1 <= x <= 1}, x]      > >     {1 - a, {x -> -1}} >

@@ -1,1 +1,0 @@
-I've used Emacs quite a bit, and I'm comfortable with the most basic commands/shortcuts, but I know Emacs has a lot more to offer than what I'm using. What are some of the lesser known features of emacs that can help me become a more productive programmer?

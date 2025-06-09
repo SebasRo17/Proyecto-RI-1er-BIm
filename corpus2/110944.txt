@@ -1,1 +1,0 @@
-I hear a lot about this term "Graceful degradation". For example ,                "An application server should gracefully degrage when it is under heavy load "            "Graceful degradation of user interfaces.... "      The term looks like an abstract thing to me. Any concrete example of what it means?

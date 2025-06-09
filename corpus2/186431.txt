@@ -1,1 +1,0 @@
-I see that many companies require the same skill. This skill is often described as following: > _"Applicants are required to speak C++ fluently."_ I never really understand what _fluent_ meant for programming. So, my question is: When do you speak a programming language fluently?

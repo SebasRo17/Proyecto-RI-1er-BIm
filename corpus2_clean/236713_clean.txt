@@ -1,1 +1,0 @@
-someone told session httpcontext current user different working ajax postback case many user live site example suppose num people online site num call ajax might get different session httpcontext current user per every user session httpcontext current user different concept say specific person requested session httpcontext current user server clear whose need guy say

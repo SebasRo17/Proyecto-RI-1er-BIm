@@ -1,1 +1,0 @@
-developing window application want store text label radio button button check box column header grid one place tried using file xml file database table resource file found file best way store text want know alternative way using file recompile project text change resource file work properly large amount dictionary storing variable

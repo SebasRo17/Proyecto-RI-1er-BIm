@@ -1,1 +1,0 @@
-prove dynamic programming dp strategy problem work greedy algorithm prove showing sub problem exhibit property method dp algorithm

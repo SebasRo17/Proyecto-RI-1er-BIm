@@ -1,1 +1,0 @@
-question concerning derivative work gpl ed software imagine following situation company writes software using library b released term gpl course software released compatible license gpl dual licensing software released two license gpl commercial one violation term library b rephrase question gpl force exclusivity derivative work

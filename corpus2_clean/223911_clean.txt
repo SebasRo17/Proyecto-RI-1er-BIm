@@ -1,1 +1,0 @@
-rail server connects json api another server get build page dynamically page however change much often thinking could cut page load time also cut call json api significantly periodically called json api wrote html file static html page way building html file ruby rail scratch

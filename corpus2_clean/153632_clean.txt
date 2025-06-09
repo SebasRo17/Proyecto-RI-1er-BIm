@@ -1,1 +1,0 @@
-list part problem show writing moderately sized concurrent application shared memory locking granularity choice synchronization primitive number thread decomposing thread parallelism task parallelism thread organized etc similar problem

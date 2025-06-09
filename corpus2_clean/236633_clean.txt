@@ -1,1 +1,0 @@
-writing matlab application make fairly heavy use matlab file exchange function use fall bsd license application deployed internal use meant public consumption particular case us fall bsd license generally speaking implication using open source gpl bsd etc program never go public include license file cover licensed bsd

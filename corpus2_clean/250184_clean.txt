@@ -1,1 +1,0 @@
-num web service providing hotel booking engine taking long sequentially therefore wanted using thread sure php threading support safe since num process handle web service read write shared table anyone advise proceed

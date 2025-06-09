@@ -1,1 +1,0 @@
-Why does the `add` method of a Linkedlist return true in Java? http://docs.oracle.com/javase/1.5.0/docs/api/java/util/LinkedList.html#add(E) Why not just make it a void method? I know it says "per the general contract of Collection.add", but why doesn't this contract/interface make `add` a void method?

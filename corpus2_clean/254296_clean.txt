@@ -1,1 +1,0 @@
-process learning scala came across scenario today need map multiple function single piece wondered formal sort feel like inverse map sure correct way expressing x fns list fns map x built way something similar formal

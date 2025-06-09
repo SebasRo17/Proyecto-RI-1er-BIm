@@ -1,1 +1,0 @@
-Due to my bad performance on past job interviews, I decided to perform daily programming exercises out of my work. Currently, I am concentrating on algorithms, design patterns, and unit testing in C++ language platform. But I'd like to have balance over more important areas. So if I may, I'd like to know how other programmers organize their programming exercises.

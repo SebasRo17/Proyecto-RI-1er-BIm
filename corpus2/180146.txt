@@ -1,1 +1,0 @@
-In this SO Question there is a comment by `starblue` that > A computer without loops is a calculator Is this true?   Is that the only difference?   Is there a set of criteria to differentiate or has the line become very blurred?

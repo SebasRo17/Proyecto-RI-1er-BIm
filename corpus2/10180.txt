@@ -1,0 +1,1 @@
+I would like to apply some complex valued function to some region in the plane, say, a circle of radius $R$ centred at $k$. How can I do this?

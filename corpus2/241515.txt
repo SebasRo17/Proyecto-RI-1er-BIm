@@ -1,1 +1,0 @@
-From what I understand so far, an interface is a list of methods that need to be implemented by whoever wishes to use that interface. If so, would it make any difference to call it a specification instead of interface, or is it more sophisticated than a specification?

@@ -1,1 +1,0 @@
-I am trying to work out how to calculate Pi to N decimal places, I think the default DP's for a float/double is 5 and then you have setprecision() however these are obviously inadequate, I need infinite number of places. Also would anyone have any idea of how to code something like y-cruncher?

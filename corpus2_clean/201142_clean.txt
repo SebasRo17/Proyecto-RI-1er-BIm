@@ -1,1 +1,0 @@
-android developer developing new project often find need import library project every new project need copy library project add better way single copy library project import every one project without copying library project using bitbucket org host

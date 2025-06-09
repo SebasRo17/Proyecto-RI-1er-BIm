@@ -1,1 +1,0 @@
-As I have had it explained, the open/close principle states that once written code should not be modified (aside from bug fixes). But if my business rules change shouldn't I modify the code implementing those changes? I suspect I'm not understanding something about how the principle because it doesn't make sense to me.

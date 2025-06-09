@@ -1,1 +1,0 @@
-advent smart pointer sign poor design see object deleted seeing software component product people still practice strike un idiomatic need sure industry consensus starting crusade nice prepared theory wise edit legit us delete mentioned pool use case agree bad example using delete seeing many new constructor start corresponding delete destructor stop use scoped ptr make cleaner

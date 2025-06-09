@@ -1,1 +1,0 @@
-I'm looking at the description for the 70-506 exam, and it looks like it doesn't count towards any MCPD exam. Is this correct, or am I looking at this incorrect? This is what I'm looking at: http://www.microsoft.com/learning/en/us/exam.aspx?ID=70-506&locale=en-us

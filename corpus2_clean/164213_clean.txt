@@ -1,1 +1,0 @@
-visual studio num new feature automatically run unit test every build would like use feature number test every build long running performance test etc way define category automatically way define test

@@ -1,0 +1,1 @@
+One of the properties mentioned in the literature about the lifting wavelet transform is that it can be applied on irregular meshes or grids (i.e. not equally spaced samples); but I don't seem to see that as an option in `LiftingWaveletTransform`. Any ideas on how to do that using _Mathematica_ 's wavelet analysis tools?

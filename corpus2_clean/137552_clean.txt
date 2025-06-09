@@ -1,1 +1,0 @@
-want model thesaurus using ansi standard relation description like broader term narrow term etc see wikipedia article detail valid thesaurus item description standard one use relationship

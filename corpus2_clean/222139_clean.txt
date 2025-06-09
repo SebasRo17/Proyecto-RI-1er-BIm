@@ -1,1 +1,0 @@
-reading go aim compiled machine yet convenient like garbage collection need manipulate pointer unless needed agree need language however designer go reason decided invent new language take existing language popular proven productive compiled native like c technological reason would hard implement garbage collection linq something entirely else

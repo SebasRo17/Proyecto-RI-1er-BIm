@@ -1,1 +1,0 @@
-What are useful metrics to capture for source code? How can metrics, like for example _(Executable?) Lines of Code_ or _Cyclomatic Complexity_ help with quality assurance or how are they beneficial in general for the software development process?

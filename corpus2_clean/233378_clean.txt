@@ -1,1 +1,0 @@
-ported nacl net nacl original project public domain derived work nacl using isc license looked project port net project prefer use mpl v2 sure allowed change original license know isc permissive clear use another license work help would appreciated

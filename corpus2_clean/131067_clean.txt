@@ -1,1 +1,0 @@
-trying classify set image grayscale color group using comparing color image grayscale version using peak determine grayscale image shown working however producing result lot back white image tracked issue believe caused pseudo black pixel e g rgb num num num psuedo black pixel appear full color technically better way classify image would suggest get rid result

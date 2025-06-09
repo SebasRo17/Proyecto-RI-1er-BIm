@@ -1,1 +1,0 @@
-real world ocaml beta ocaml distinguishes non recursive definition using let recursive definition using let rec largely technical reason inference algorithm need know set definition mutually recursive reason apply pure language like haskell marked explicitly programmer case technical reason exactly pure language like haskell get away tag function recursive

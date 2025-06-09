@@ -1,1 +1,0 @@
-difference dependent typed language language like spec eiffel allow specify contract function pre postconditions dependent typing basically purely functional version eiffel contract understand dependently typed language let specify pre post condition using predicate logic part eiffel concept contract seems similar based imperative programming functional programming

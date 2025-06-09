@@ -1,1 +1,0 @@
-I have a question regarding uploading an asp.net website to a real web sever. What type of files will be uploaded is it ASP.NET files or is it assemblies? To be more clear if someone got an access to my ftp and downloaded all the files will he be able to edit those files?

@@ -1,0 +1,1 @@
+I need to add either a vertex or an edge to a graph, and also sometimes, vertices or edges, or a mixture of the two. How to write a function for this?

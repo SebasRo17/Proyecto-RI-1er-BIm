@@ -1,1 +1,0 @@
-new cross platform application development came across similar cross platform framework appmobi phonegap want know difference apk ipa created using appmobi apk ipa created using phonegap difference native feature used advantage appmobi phonegap phonegap appmobi also difference two

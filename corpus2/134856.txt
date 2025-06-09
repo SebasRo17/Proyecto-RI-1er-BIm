@@ -1,1 +1,0 @@
-What are the internal structural differences between distributed (e.g Git & Mercurial) and non distributed (Subversion) version control? The question came from a discussion group where a tool was interacting with CVS and it was argued whether it would be easily ported to other systems or not.

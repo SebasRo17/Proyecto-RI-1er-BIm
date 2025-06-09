@@ -1,1 +1,0 @@
-need use fifo application linux c multiple thread process read writing fifo atomic believe 4k especially writing max num byte safe

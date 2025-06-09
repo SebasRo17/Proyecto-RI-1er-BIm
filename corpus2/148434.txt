@@ -1,1 +1,0 @@
-I've read on several discussions here and on SO that DVCS repositories use about the same or less space than their centralised counter-parts. I may have missed it, but I haven't found a good explanation of why that is. Anyone know?

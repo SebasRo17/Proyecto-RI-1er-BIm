@@ -1,1 +1,0 @@
-working client library interface company api generate user ticket user log using api obviously want send user ticket client subsequent request relatively safe cache session later call

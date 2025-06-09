@@ -1,1 +1,0 @@
-I've seen a lot of different ways to [or not to] comment out the code, specially patterns on desciptions of function details and file purposes. I'd like to know what is most used pattern to do that [I'm specially interested on documentation generators and their patterns]

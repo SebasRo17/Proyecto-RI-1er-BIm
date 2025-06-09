@@ -1,1 +1,0 @@
-I see a lot of .NET job postings that list XML as a required skill. What should one be able to do in/with XML to have confidence that this requirement is satisfied? Modeling? Work with XPATH? Familiarity with serialization? What is specific to .NET?

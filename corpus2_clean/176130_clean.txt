@@ -1,1 +1,0 @@
-tasked developing sso system guided towards using saml spec research think understand interaction service provider id provider user identity confirmed happens redirect user another service provider ascertain user identity send saml assertion token along redirect request second service provider need contact id provider

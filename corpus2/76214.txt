@@ -1,1 +1,0 @@
-I have a turbogears app that I am bringing live that uses a postgresql DB on the back end. From a performance issue am I better off having the DB and app on separate server or on the same server? If on the same server and I better off having the DB on a separate physical drive?

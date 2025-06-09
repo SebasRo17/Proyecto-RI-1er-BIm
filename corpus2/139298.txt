@@ -1,1 +1,0 @@
-Are there any open-source tools to measure the standard of a web application project? I want to verify my project for:   * Possible security leaks (SQL Injection etc.)   * Performance    * Stability (in high concurrent environment) and other quality metrics.

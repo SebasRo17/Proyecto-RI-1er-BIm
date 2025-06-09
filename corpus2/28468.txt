@@ -1,1 +1,0 @@
-How many key bindings are there in your brain? I personally use Intellij Idea as my primary IDE for development, but sometimes switch to Eclipse and Netbeans a bit, and sometimes I use Jedit,Notepad++, Emacs, Vim. I am always trying to find a perfect key bindings that I can use crossing all the editors. What's your idea to solve this problem?

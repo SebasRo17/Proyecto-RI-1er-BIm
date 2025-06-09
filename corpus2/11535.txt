@@ -1,0 +1,1 @@
+How can I solve the stationary distribution of a finite Markov Chain? In other words, how can I estimate the eigenvectors of a transition matrix?

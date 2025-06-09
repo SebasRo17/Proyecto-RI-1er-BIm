@@ -1,1 +1,0 @@
-What are the current best practice/methods to code a VB.NET DAL in SQL Server? I have been trying to search but can't seem to find the right words to look for.

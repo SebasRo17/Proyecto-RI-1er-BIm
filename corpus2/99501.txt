@@ -1,1 +1,0 @@
-I have read a bit about the actor model, but don't really understand how to use actors in a real world situation – how to model a problem with them. Can someone please explain? A simple example or links to examples would be much appreciated.

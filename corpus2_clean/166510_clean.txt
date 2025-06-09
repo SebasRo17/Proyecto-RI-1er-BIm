@@ -1,1 +1,0 @@
-designing file handler interface public interface filehandler public filename public public readline public public public public public public getlinecount public public soon apparent method made private want public proper way design interface like

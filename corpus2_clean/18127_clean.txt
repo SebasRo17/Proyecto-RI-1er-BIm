@@ -1,1 +1,0 @@
-considering writing low level driver o component kernel osdev org folk seem think important bit meaningfully testable way read discussion people thought differently looked around failed find real life example tdd low level component something people actually something people talk theory good way practice

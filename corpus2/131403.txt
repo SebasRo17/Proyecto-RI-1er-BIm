@@ -1,1 +1,0 @@
-When programming Python I sometimes do a `**` to make a conversion. I understand what it does but what data structures am I manipulating? A `dict` and what is the other? An `array`? Is there a name for the `**` operator?

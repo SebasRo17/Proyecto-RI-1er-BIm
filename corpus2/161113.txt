@@ -1,1 +1,0 @@
-What should a good technical analysis include in software development? Why do we need a technical analysis? why can't we just start coding? I got this question from a customer who won't pay for the analysis.

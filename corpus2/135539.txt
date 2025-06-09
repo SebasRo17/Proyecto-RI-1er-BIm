@@ -1,1 +1,0 @@
-I've city names, like Newyork. Somebody may misspell it and write it as Newyoork. I want an algorithm or library which can match such patterns with some confidence level. Any idea how to do it or if any pattern recognition library is present? It is same as when we type something in Google with spelling mistake in it but instead it automatically corrects the mistake.

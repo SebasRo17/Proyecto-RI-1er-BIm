@@ -1,1 +1,0 @@
-I have estimated the cost of a product by COCOMO, then I estimated it by FP too. the results were so different from each other! The cost estimated by FP was about two times more than the estimated cost by Cocomo. which one is more reliable as this product belongs to a large project. shoud I skip the FP result?

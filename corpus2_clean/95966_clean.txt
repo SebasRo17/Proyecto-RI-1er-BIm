@@ -1,1 +1,0 @@
-read learn haskell book point introduce monad stuff like counterintuitive feel like giving trying learn really want try wondering least avoid advanced concept starting using part language lot practical task basic part haskell e function standard io file handling database interfacing like reasonable approach learning use haskell

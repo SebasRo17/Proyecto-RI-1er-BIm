@@ -1,1 +1,0 @@
-As I know, softwares licensed under the GNU GPL is totally free and not allowed for sale. However, today I found this program called Minitube and it is sold even though it is licensed under GPLv3. Does the original author has a permission to sell his own software, even if he releases it under the GPLv3?

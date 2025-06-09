@@ -1,1 +1,0 @@
-django app hosted heroku situation num user entered email form page1 email existed database redirected login page otherwise register page num register page form filled email entered page1 using request session populated previously told dangerous using session recommended cloud application notion correct generally scenario

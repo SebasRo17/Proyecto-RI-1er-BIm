@@ -1,0 +1,1 @@
+I don't know the `Resolve` function exactly, especially when involved with `Exists` and `ForAll`, could you please help me in the following example? > $\forall C$, can we find some $x>0$, such that $$ > c(x)=(C+2x)x^2+C^2x+2Cx^2+C\geq0, $$ and $$ C<-2x $$ holds at the sametime?

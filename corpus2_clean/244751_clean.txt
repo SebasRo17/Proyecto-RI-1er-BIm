@@ -1,1 +1,0 @@
-telnet simple socket connection usually difficult time networking area use internet help seem find library telnet objective c closest thing found wondering telnet plain socket connection create socket server send command

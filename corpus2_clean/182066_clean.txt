@@ -1,1 +1,0 @@
-question title clarify haskell already ability another like template programming c value dependent example thats integer example vector size n matrix size n x etc possibility supported future

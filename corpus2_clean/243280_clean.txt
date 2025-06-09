@@ -1,1 +1,0 @@
-working android project multithreading basically wait server respond sending sending task delimited flag boolean thread infinitely without anything flag becomes since boolean declared volatile yet also looping without anything waste resource thought maybe use also implement wait notify mechanism use notify wait method create lock

@@ -1,1 +1,0 @@
-Preferably something that is a combination of affordable and close to real world robotics programming and will allow me to program it with C++.

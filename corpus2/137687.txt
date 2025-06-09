@@ -1,1 +1,0 @@
-I was reading up on design patterns, and I read that the prototype design pattern does away with excessive subclassing. Why is subclassing bad? What advantage would using a prototype bring about over subclassing?

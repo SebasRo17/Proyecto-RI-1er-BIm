@@ -1,1 +1,0 @@
-In real world networking software following c/s model, there are always proxy server processes between clients and server processes dealing with business logic, why we need proxy to isolate the logic part and clients? What's the benifit of this architecture?

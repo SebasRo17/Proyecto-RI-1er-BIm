@@ -1,1 +1,0 @@
-As far as I know it is not possible to see the bits of an integer in Visual Studio, you can see variables in decimal or hexadecimal format in the Locals and Watch windows in the debugger. Why is this limitation in place and are there any tools/addins to see integers as bits?

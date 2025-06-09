@@ -1,0 +1,1 @@
+Suppose that we have a set of 9 2-dimensional vectors $c$ by               m=3;     n=2;     c=Tuples[Range[m],n];      We want to define a subset $S$ of vectors in $c$ by the following: $S=\{ (x,y)\in c~|~ x^2+2y^2=5\}$ Also, I want to count the cardinality of $S$. How can I do this?

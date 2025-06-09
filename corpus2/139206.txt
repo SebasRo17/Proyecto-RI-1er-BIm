@@ -1,1 +1,0 @@
-I have read in a recent code review that both `ternary operator (condition ? foo : bar)` and the `XOR operator ^` are rarely used in Java. Is it true? If yes, is this because they are less readable? or some other reason.

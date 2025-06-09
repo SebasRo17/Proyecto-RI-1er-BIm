@@ -1,1 +1,0 @@
-recently started using argument program written c could programming language include iostream argn argv stuff depending argv num argv num etc using mostly random naming convention like testing debugging l printing log e g need adding shell parameter named way also use second parameter established naming convention argument

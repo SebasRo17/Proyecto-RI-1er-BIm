@@ -1,1 +1,0 @@
-bst example show sample bst unique value mainly demonstrate order value e g value left subtree smaller root value right subtree larger normally used represents set insert element say num already exists bst happen e g case num associated payload mean override existing node payload

@@ -1,1 +1,0 @@
-implementing douglas peucker simplification algorithm started implementation however fails due maximum recursion depth hit convert algorithm iterative one able imagine problem iterative view expectation get approach hint used rather actual possible use internal stack resolve stack overflow avoid maximum recursion depth update found iterative implementation algorithm

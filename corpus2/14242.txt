@@ -1,0 +1,1 @@
+How could one create a table or list of buttons, such that clicking on a button removes the button itself from the list?

@@ -1,1 +1,0 @@
-OK, I'm facing this all the time in many functions I write, which should I use?               void sth(int* a)     void sth(int& a)      Which one is faster, regarding two separate occasions: a is a small variable or a is a large data struct. I would like a deep answers with pertinence to the actual hardware and stack process.

@@ -1,1 +1,0 @@
-calculate proper quantum time round robin process scheduling algorithm read tanenbaum book quantum time cover like num running time process formula find optimal quantum time

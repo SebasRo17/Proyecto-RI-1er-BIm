@@ -1,1 +1,1 @@
-base shape drived class segment arc b want find intersection point shape would like shape new linesegment shape b new arc bool intersect intersect b like design intersect bool linesegment shape arc arc dynamic cast arc arc arc dynamic cast design pattern best suitable context
+string manipulation take dive character beyond ffff used e g mathematical alphanumeric symbol character display fine string manipulation unpredictable tocharactercode actually u c stringlength compare python len u characterencoding unicode characterencoding utf help way set string encoding properly

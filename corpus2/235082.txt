@@ -1,1 +1,0 @@
-To keep our house in order, I want to automatically assemble licenses for project dependencies in our documentation, rather than having to add them manually. Does anybody know a simple way to traverse a set of CSPROJ files and extract the license information for the referenced packages?

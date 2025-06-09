@@ -1,1 +1,0 @@
-I have a Java application that I need to support. I'd like it to collect user information, such as system information: OS and hardware for easier diagnostics and support.   * Are there any security & privacy regulations I need to follow?    * Do I specifically need consent from the user to do this?

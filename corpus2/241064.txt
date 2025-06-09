@@ -1,1 +1,0 @@
-There are a lot frameworks on the market who wrap actual websites into mobileapps. I found myself thinking about the question - why is it needed to create mobileapps if it's possible to just having mobile version of the site?

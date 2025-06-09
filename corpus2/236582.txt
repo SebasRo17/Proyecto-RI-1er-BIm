@@ -1,1 +1,0 @@
-How do I turn this definition of an anonymous function, An anonymous function is a function that is assigned to a variable. Anonymous functions are also used when you want to perform a short and straight forward task, into an analogy?

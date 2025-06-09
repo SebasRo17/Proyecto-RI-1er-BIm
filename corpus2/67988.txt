@@ -1,1 +1,0 @@
-I was look for a good resource to learning SQL Server business Studio and in particular SSIS packages, any sugguestions?

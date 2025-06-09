@@ -1,0 +1,1 @@
+I want to create a list like               {0,0.2x,0.4x,0.6x,0.8x,1}      If I try               Range[0, 1, 0.2] x      what I get is               {0., 0.2 x, 0.4 x, 0.6 x, 0.8 x, 1. x}      The main problem is the 1.x. How do I get that to just display as x? (And also to have the 0. display as 0?)

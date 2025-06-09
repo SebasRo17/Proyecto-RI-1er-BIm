@@ -1,1 +1,0 @@
-mercurial bundled purge extension executing following command hg purge also good get rid ignored file hg purge curious practical used equivalent solution git edit want get rid untracked file reset everything e g suppose program generating cache file generated want delete git help

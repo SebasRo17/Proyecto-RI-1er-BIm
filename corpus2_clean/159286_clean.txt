@@ -1,1 +1,0 @@
-company attempting set pub sub connection using rabbitmq sockjs window server two question num supervisor calling setup comet solution wondering right terminology num better solution stack server asynchronously ship client without client requesting besides initial subscription

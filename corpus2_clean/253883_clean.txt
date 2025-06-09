@@ -1,1 +1,0 @@
-developing angularjs app app current ff ie chrome io android via phonegap looking solution store client phonegap offer web sql api also supported chrome ff however support since w3c cooky localstorage work reliable io store browser

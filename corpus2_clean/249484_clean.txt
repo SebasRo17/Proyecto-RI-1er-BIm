@@ -1,1 +1,0 @@
-got table following structure col1 col2 col3 b c c b e c primary key col1 col2 col3 get another project display view grid user edit row grid example b c b e get b e try update database know row must updated original b c proper way resolve issue create temporary id second project think create specific id database good idea

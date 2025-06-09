@@ -1,1 +1,0 @@
-2d plane num rectangle want find closest pair point one rectangle closest point mean corner rectangle overlap way checking distance combination point finding smallest one

@@ -1,1 +1,0 @@
-I am thinking of using MEF to manage the fluent interface on Castle Windsor. Allowing for me to swap out different sections of the system for test and production. Has anyone done this if so how well did it work for you?

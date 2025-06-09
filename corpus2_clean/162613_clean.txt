@@ -1,1 +1,0 @@
-currently working project one large style sheet num page style sheet contains style specific certain page like break style sheet one style sheet page one master style sheet handle everything generic reason want people work multiple page without worry large style sheet checked using tfs good practice

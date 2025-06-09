@@ -1,1 +1,0 @@
-I'm currently using C and some FORTRAN to solve numerically systems of differential equations. I'm a bit fed up with both of these languages but I need to have some (rather) efficient code... I'm thinking of switching to OCaml. Is it worth it?

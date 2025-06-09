@@ -1,0 +1,1 @@
+I know how to put a sphere inside a dodecahedron but instead of a sphere I would like it to be another dodecahedron. How can I do it?               Graphics3D[{{Opacity[.3], FaceForm[Yellow],         PolyhedronData["Dodecahedron", "Faces"]}, Brown, Sphere[{0, 0, 0}],        Boxed -> False}]      ![enter image description here](http://i.stack.imgur.com/i7LOt.png)

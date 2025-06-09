@@ -1,1 +1,0 @@
-So I know that methods are more OOP than functions. I was wondering if someone could show me an example of a function and a method and explain the differences between methods and functions to me? I have taken 3 quarters of Java programming and functions have never been mentioned, I want to know the differences, strengths and weaknesses.

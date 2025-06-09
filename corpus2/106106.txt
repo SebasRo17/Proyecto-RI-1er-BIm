@@ -1,1 +1,0 @@
-We have in-house .NET application, which can be used across multiple languages. Lately we received a strange bug that is when our application is being used, user was unable to enter accent characters (Spanish, Win 7) in other applications (ex: MS Word or Notepad). Strange, huh! Did anyone come across similar bug? If yes how did you solve that?

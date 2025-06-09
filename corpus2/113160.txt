@@ -1,1 +1,0 @@
-I know you can use C# and F# together in the same project however i'm not sure if its a good idea to do so. It seems to me that mixing two very different coding styles (functional vs OO) could cause a lack of cohesion in the design. Is that correct?

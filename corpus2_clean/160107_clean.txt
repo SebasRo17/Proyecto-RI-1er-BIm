@@ -1,1 +1,0 @@
-working application spawn new thread per request sometimes number thread active machine one time high hundred suspected causing sort problem would like experiment using thread pool instead see improves work throughput first convince power allow time part argument think good analogy compare brute force launch x thread technique thread pool would help text book analogy

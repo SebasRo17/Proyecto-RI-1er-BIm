@@ -1,1 +1,0 @@
-let say diagram would like start library project visual studio act bll convert diagram actual file would structure bll project solution explorer would organize class file thier hierarchy

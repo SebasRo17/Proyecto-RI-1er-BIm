@@ -1,0 +1,1 @@
+Here is the curve below. (written as a position vector)               r = {Cos[7 Pi*t], Cos[6.2*Pi*t], 2.5*t}     ParametricPlot3D[r, {t, 0, 2}]      I want to know how I can mark specific points on this curve, for example when `t = 0` and `t=1`. I would also like to label those points.

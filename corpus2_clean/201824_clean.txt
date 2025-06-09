@@ -1,1 +1,0 @@
-often use static factory method create object database job protected public construct public static load job new job arr end arr public static similar try use dependency injection passing constructor problem param static function annoying pas param around handle case better solution

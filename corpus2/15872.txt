@@ -1,0 +1,1 @@
+Insert bibliographical note doesn't appear on the insert menu for Mac. However if I right click the mouse this option does appear: i tried to use a standard bibtex file with it, but it doesn't seem to compile and gives a strange error message. Any idea if this feature is indeed useable?

@@ -1,1 +1,0 @@
-want create service people upload file however since file storage cost money want compress file take less space would want write compression algorithm however php good way handle binary needed many compression algorithm wondered would better language create website knowledge php javascript html cs experience thing like ruby perl web development language

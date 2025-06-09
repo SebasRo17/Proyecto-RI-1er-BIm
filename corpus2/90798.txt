@@ -1,1 +1,0 @@
-A company I'm going to interview with says they deal with huge amounts of data. How does one prepare for an interview where that fact is telegraphed beforehand as something that one really ought to ponder over? Should I memorize maximum file sizes for Ext4 file systems or something? Or just be aware of the need for the best possible algorithms... Thanks.

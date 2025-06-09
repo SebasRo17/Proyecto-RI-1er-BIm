@@ -1,1 +1,0 @@
-org use svn version control build done periodically merge trunk development branch developer check branch want new branch say new release create trunk svn copy new branch history trunk previous development branch way maintain history merge done dev branch trunk update history meant revision history every file created edit unfortunately using svn num right

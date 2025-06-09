@@ -1,1 +1,0 @@
-I'm not asking if EAV tables are good or bad. I'm wondering if they are considered "normalized", and if not, why? If they aren't normalized, which normal form are they violating and why?

@@ -1,1 +1,0 @@
-base shape game look like shape resized private shape shape public virtual x shape width x shape height else throw new exception cannot resize shape public virtual bool sub shape ever want resize overriding piece client check calling public override bool might look client public dosomething shape num num violating lsp

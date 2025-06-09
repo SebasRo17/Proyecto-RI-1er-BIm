@@ -1,1 +1,0 @@
-There've been many discussions on SO about the differences between (Rational) Unified Process and the Agile methodology. Can someone please give me an example on how different a project plan would be if there are 2 teams doing the same project, but following these 2 different methods?

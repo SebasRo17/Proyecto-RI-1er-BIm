@@ -1,1 +1,0 @@
-understanding first step defining user story define role problem role based system form authorization often coarse grained hence people created task based authorization role still used lump task group see example rhino security least understanding write user story task based authorization feedback would much appreciated many thanks

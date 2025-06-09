@@ -1,1 +1,0 @@
-learning scala moment read execution time append operation list grows linearly size list appending list seems like pretty common operation idiomatic way prepending component reversing list also design failure implementation could changed point point view prepending appending num legitimate reason

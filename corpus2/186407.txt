@@ -1,1 +1,0 @@
-I'm wondering what's the reasoning behind Bootstrap's decision to change all camel case names into hyphenated names in v3.0. I searched on Google, and looked in a few books, but I can only find opinions one way or the other - no hard data. Are there any studies that suggest camel case variable names are more readable than dashes, or is this just a matter of personal preference?

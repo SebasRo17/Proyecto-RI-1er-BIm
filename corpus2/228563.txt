@@ -1,1 +1,0 @@
-I have tried a lot but could not find a way by which I will find if an email id exists or not. My problem is that I do not want to make visitor to email me with fake email Id. Is there any solution for this? I do not want to use smpt service as it send mail to solve this.

@@ -1,0 +1,1 @@
+How would I verify the factorizations here with Mathematica? (read: multiply the two 100+ bit factors and check equality with the intended product).

@@ -1,1 +1,0 @@
-Suppose I have a GPL v2-licensed library that is of interest to a closed- source project (e.g. Wolfram Alpha). If some of my code were used in Wolfram Alpha, or a product that interfaces with Wolfram Alpha, would they have to release all of their code for Wolfram Alpha under the GPL v2 license?

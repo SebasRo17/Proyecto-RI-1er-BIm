@@ -1,1 +1,0 @@
-chat room rail app implemented old fashioned way using ajax polling scaling cluttering log want reimplement using either eventmachine html5 websocket degrade flash node j given rest app rail pro con two alternative

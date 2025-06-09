@@ -1,0 +1,1 @@
+mma o x found large matrix nullspace nullspace method onesteprowreduction give different answer first one correct answer put matrix pastebin fit going might guess ahead time argument going break method onesteprowreduction update seems bug got worse rather better

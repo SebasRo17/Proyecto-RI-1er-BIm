@@ -1,1 +1,0 @@
-What is the best approach for Single Sign On Application Development that is lightweight? By lightweight I mean not too much javascript. I know stackexchange does use single sign-on. Basically is the login credential stored as cookie? Or combination of IP-Address and other specific information about the logged in user?

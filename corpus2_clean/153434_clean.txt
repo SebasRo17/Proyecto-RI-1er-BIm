@@ -1,1 +1,0 @@
-configure ninject injects instance view model p abstracted service help validation trying burden model much responsibility

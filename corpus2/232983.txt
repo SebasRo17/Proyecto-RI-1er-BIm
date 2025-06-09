@@ -1,1 +1,0 @@
-This is a pretty simple question but I'm new to java. The linked list found in java.util.LinkedList. I saw elsewhere that Java does not use pointers... When I create a new list and add new elements to it, does the list contain references to the data and to the next/previous elements or does it also contain the object itself.

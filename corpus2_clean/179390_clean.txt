@@ -1,1 +1,0 @@
-scala static keyword instead similar functionality companion object behind scene companion object compiled class static method syntactic sugar advantage design choice disadvantage languanges similar construct

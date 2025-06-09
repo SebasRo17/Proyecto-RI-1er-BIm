@@ -1,1 +1,0 @@
-I practically never see any web application where server pushes messages to the client. While pushing messages from server to client is hugely used in multiplayer games, why this model is so underused in web apps? Is it wrong? Does it destroy the client-server model?

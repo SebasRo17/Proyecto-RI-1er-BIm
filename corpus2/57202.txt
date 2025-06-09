@@ -1,0 +1,1 @@
+Is there a way to translate and scale a 2D image simply by using `ImageTransformation[]` and `TransformationFunction[]`? I know how to scale (it's included in `TransformationFunction[]`), but I don't know how to translate, or, even harder, translate AND rotate. Again, I'd really like to stick to the functions `ImageTransformation[]` and `TransformationFunction[]`.

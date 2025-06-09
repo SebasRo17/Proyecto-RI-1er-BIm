@@ -1,0 +1,1 @@
+trying use technique keep variable separated different notebook seems working fine except variable turn black soon evaluated idea would happening example variable used enter image description suddenly black even though value

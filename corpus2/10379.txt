@@ -1,1 +1,0 @@
-I would like to know what other developers do when a situation arises to implement a couple of features in language unknown to you. You are familiar with Javascript, and you do not know jquery, how do you go by implementing some features in jquery assuming you have not much time.

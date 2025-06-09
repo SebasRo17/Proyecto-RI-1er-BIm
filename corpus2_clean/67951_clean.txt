@@ -1,1 +1,0 @@
-say uml sequence diagram showing call database using ado net need include sqlconnection sqlcommand sqldatareader diagram preference determined level depth detail

@@ -1,1 +1,0 @@
-new asp net mvc web stuff want know separate page logic different controller like example use home product buy sign move logic new separate controller one controller per page basic rule

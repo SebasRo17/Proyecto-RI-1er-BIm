@@ -1,1 +1,0 @@
-trying really understand exactly high level language converted machine executed cpu understand compiled machine low level cpu use assignment statement say x x num x num cpu execute one time first execute x x num instruction next instruction cpu execute x num really trying understand execution process write actually execute cpu

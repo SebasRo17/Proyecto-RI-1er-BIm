@@ -1,0 +1,1 @@
+Is there a simple way in Mathematica to check under what conditions an expression (involving multiple variables) falls within a given range? For example, say I had a real-valued function f(x,y,z), where x,y,z are real numbers. I want to find the set S such that f(x,y,z) > 0 whenever (x,y,z) are contained in S. Is there a way to do this?

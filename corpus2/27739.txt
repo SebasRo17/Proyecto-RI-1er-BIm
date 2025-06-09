@@ -1,0 +1,1 @@
+g1 = Plot[(x^2 - 4 x + 3)/(x + 1), {x, -5, 5}];          Rotate[g1, -90 Degree]      After saving the output of the rotated graph, I still get the graph of `g1`. ![enter image description here](http://i.stack.imgur.com/UZock.png) I get ![enter image description here](http://i.stack.imgur.com/MCf0V.jpg)

@@ -1,0 +1,1 @@
+trying make function like norm defined like mynorm x z sqrt x z mathematica assumes x z constant give mynorm x z x z would fine except x z function would like mynorm x z equal frac dt mynorm x z course actually mean mynorm x z anyone know

@@ -1,0 +1,1 @@
+RSolve@@{{a[n]-a[n-10]==101}~Join~Table[a[i+1]==101+10i,{i,0,9}],a[n],n}      I want to get the exact form of general formulas, but `RSolve` only gives a `DifferenceRoot` object. I tried `FunctionExpand` but it does not work.

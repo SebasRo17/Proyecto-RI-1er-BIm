@@ -1,1 +1,0 @@
-I am developing an android app using HTML5. I want to make it work completely offline. I know that it is possible to package the .html, .css and .js files inside the .apk file itself in the "resources" but is it possible to also package PHP or Python files inside the .apk file itself? So that no internet connection would be required to run the app?

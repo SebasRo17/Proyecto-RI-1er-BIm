@@ -1,1 +1,0 @@
-I'm pretty new to TDD approach and my first experiments say that writing 1 line of functional code means writing about 2-3 lines of testing code. So, in case I'm going to write 1000 LOC, the whole codebase including tests is going to be something like ~3500 LOC. Is this considered normal? What is the ratio in code you write?

@@ -1,1 +1,0 @@
-read tcp ip protocol suite second edition written sophia traditional ethernet minimum frame length num bit transmission rate num mbps propagation speed almost speed light collision domain almost num meter transmission rate propagation speed

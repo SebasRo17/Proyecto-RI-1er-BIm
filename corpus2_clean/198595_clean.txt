@@ -1,1 +1,0 @@
-find many framework example todo list demonstrating small full application framework consider large problem like scaling caching still exercise fundamental framework todo list analogous application system level programming

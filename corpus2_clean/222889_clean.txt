@@ -1,1 +1,0 @@
-stumbled upon clojure reducer library look lot like fusion however term mentioned anywhere page difference two

@@ -1,1 +1,0 @@
-anyone give example instance af unix e unix domain socket used process communication unix based system

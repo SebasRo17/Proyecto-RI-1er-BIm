@@ -1,1 +1,0 @@
-I've been a web developer for almost 10 years and I've gotten into the habit of trying not to use JavaScript whenever possible. I'm not talking about building web apps here, but database driven websites. Is this a good/respected approach?

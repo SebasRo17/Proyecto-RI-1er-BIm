@@ -1,0 +1,1 @@
+Can anyone explain why Mathematica does not return a conditional expression that handles the case of `p=-1` for `Integrate[x^p,x]`? Mathematica returns `x^(1 + p)/(1 + p)`, which diverges for `p=-1`. In order for Mathematica to return `Log[x]`, `p` must be set to `-1` before the integration. Is there a subtle reason why this is actually correct behavior?

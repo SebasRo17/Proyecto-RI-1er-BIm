@@ -1,1 +1,0 @@
-Lately there have been some kind of revolution against singletons, but is there something wrong with them if they are stateless? I know the overuse talk and all... this applies to everything not just singletons.

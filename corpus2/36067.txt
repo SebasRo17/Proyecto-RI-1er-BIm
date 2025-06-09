@@ -1,1 +1,0 @@
-In Source Insight, global variable show up in a different colour. Is there a way to accomplish this in vi (or any other free editor)?

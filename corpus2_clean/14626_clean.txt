@@ -1,0 +1,1 @@
+would like represent state machine period time using rectanglechart anything else chart need made equally sized block change colour based state machine state time created chart similar want data table randominteger rectanglechart data chartlayout stacked barorigin left almost problem chart state data represented height bar colour best way get result

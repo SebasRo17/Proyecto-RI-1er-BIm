@@ -1,1 +1,0 @@
-I am currently developing my website with c++. I know that nginx handles connections with multiple threads to provide high performance. And not all c++ code is thread safe.   * What's the relationship between nginx's multithreading and c++ application's multithreading?   * Do I have to worry about this?    * What should I do to avoid possible issues?

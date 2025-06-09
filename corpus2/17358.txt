@@ -1,0 +1,1 @@
+Plot[Sin[x], {x, 0, 1}, pp -> 0]      Gives as expected: > Plot::optx: Unknown option pp in Plot[Sin[x],{x,0,1},pp->0]. >> However:               Import["http://i.stack.imgur.com/JrxBD.png", pp -> "HSB"]      returns no error. Is there a language design reason for this, or is it just lack of standards?

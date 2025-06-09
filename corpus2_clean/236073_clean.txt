@@ -1,1 +1,0 @@
-let say user request piece usually processed via server returned xml json format im guessing another piece processing happens convert html cs could displayed browser bother returning xml json api request directly process whatever user want modified web page html cs j

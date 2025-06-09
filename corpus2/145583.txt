@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Version control for independent developers? I am not sure if I should use a code repository when I am the only one working on a project.

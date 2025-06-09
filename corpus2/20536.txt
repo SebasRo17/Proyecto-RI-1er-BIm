@@ -1,1 +1,0 @@
-I was just reading http://stackoverflow.com/questions/155609/what-is-the- difference-between-a-method-and-a-function and all of a sudden, the thing came to my mind was the static methods. As static methods are no way associated with an object how can it be called as static methods (almost all developers do)? Is my understanding about the methods/functions is correct?

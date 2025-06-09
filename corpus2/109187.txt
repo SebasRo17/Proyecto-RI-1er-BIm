@@ -1,1 +1,0 @@
-Recently I found that Netscape used quite simple algorithm to generate random number for Message Authentication Code to establish an HTTPS connection (Nestscpe used time, process identification number, and parent-process identification number). So now I wonder what source of seed do modern browsers use to guarantee true randomness?

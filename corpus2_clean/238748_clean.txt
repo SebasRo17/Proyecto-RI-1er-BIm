@@ -1,1 +1,0 @@
-write library released term gpl v2 higher option may library depend another library released lgpl v3 higher without implicitly enforcing gpl v3 purely linking library reading understand lgpl v3 gpl v2 compatible clear whether compatibility mean mixing whether extends linking without modifying lgpl ed library

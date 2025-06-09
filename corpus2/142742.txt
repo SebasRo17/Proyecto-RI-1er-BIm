@@ -1,1 +1,0 @@
-I searching for undestanding `Docking Framework` concept in web, but I don't understand its concept and benefit. I see exist several 'Docking Framework' in java such as `Netbeans Platform` or `MyDoggy` or `Sanaware` and etc but I don't understand its benefit. Do you can explain it? Thanks.

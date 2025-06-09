@@ -1,1 +1,0 @@
-Suppose, I have an idea and I have to put it into code quickly. And then I am presenting it to someone who is not so computer savvy. Which language should I use for quick and dirty coding? And which GUI toolkit should I use so that the the computer semi-literate find it easy to use (read shiny-eye-candy). It is a desktop application.

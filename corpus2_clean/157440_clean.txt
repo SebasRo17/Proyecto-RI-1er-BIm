@@ -1,1 +1,0 @@
-c operator overloaded iterator arrow operator work class overload operator imagine preprocessor could easily replace instance left right would make iterators nicer implement practical reason different language designer

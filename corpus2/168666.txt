@@ -1,1 +1,0 @@
-I have an issue tracking system, but sometimes users report bugs directly to me in an email. If I'm responding to a bug report in an email, what's a good etiquette to use? Do I thank them for reporting the bug? Do I apologize for it ? Is there a good template anywhere?

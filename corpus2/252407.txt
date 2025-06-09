@@ -1,1 +1,0 @@
-How come the complexity of fetching a value from an array by it's index is O(1)? I thought the algorithm has to go through all the indexes, find the correct index, and then know what value to return. So that means the complexity is O(n/2) on average. Why is it actually O(1)?

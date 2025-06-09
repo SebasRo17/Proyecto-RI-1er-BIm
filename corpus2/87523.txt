@@ -1,1 +1,0 @@
-I have been working with an old `OS9`(not mac) operating system and I have been trying to get my organization to transition to an embedded `Linux` platform. We have money in the budget for training and I figure I would take advantage of it. A secondary impetus would be a good resume addition. What are some good vendors/bootcamps for Embedded Linux training?

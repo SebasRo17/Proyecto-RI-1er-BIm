@@ -1,1 +1,0 @@
-want configure ides editor use exactly key shortcut default ide editor slightly different set key binding even simple close current tab bound either ctrl w ctrl f4 already set config file one ide editor etc key binding configured

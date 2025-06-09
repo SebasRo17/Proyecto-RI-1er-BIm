@@ -1,1 +1,0 @@
-I have an object that I am downloading over HTTP, that has approximately 50 attributes. What is the proper way to store this information in Objective-C? Should I have an NSObject with a property for each attribute (if so, what would be a good way to initialize this object?)? Should I use an NSDictionary with 50 key-value pairs?

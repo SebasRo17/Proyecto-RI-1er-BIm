@@ -1,1 +1,0 @@
-What is the best way to improve your skills in software architecture? We were taught design patterns in university, and I see plenty of books with simple and straight forward examples, but aside from them, how can you learn good architecture? In other words, how does one evolve into a great architect? What are the prerequisites?

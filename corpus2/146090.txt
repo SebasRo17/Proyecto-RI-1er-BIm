@@ -1,1 +1,0 @@
-Let's say you have an .mp3 file. A few of the attributes I would like to find out is like the bass, when the bass is loud, quiet, strong, soft and when it is all those things. Is there any way of doing this or is there anything similar to this? EDIT: also I'm not bothered about which code, I'm just interested in what is the easiest way to do this

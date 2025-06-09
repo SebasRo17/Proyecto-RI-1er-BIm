@@ -1,1 +1,0 @@
-acceptable non zero exit program question ran properly example say simple program following program take n argument return exit min n num note n valid program realistic program might different code successfully ran program signify different thing program instead write information stream instead stdout

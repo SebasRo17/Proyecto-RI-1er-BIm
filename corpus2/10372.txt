@@ -1,0 +1,1 @@
+I want to solve the equation $$(x-1)^2 + (y-1)^2 + (z-1)^2 = 49$$ where $x$, $y$, $z$ are integer and $x \neq 1$, $y \neq 1$, $x \neq 1$. How do I tell Mathematica to do that?

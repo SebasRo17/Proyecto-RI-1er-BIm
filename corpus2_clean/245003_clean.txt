@@ -1,1 +1,0 @@
-2d filled simple tile boolean n e w also representing possible outcome except num crossroad need reference possibility texture space sheet apart statement every outcome efficient way cannot currently think

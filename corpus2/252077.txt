@@ -1,1 +1,0 @@
-In Java specifically, but likely in other languages as well: when would it be useful to have two references to the same object? Example:               Dog a = new Dog();     Dob b = a;      Is there a situation where this would be useful? Why would this be a preferred solution to using `a` whenever you want to interact with the object represented by `a`?

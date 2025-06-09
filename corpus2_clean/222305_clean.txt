@@ -1,1 +1,0 @@
-working slowly small flask project one model called post lightweight post object created creating post involves hitting database hold necessary database connection post object serialized part model view controller division factory naturally fit part model since tightly coupled post object controller since manipulates model

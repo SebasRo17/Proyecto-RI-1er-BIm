@@ -1,1 +1,0 @@
-Suppose I'm a teacher and I want to explain to my students what are the benefits of using RAII in C++: I need a very good example, full of details, but that is easy to understand.   Which approach would you use?

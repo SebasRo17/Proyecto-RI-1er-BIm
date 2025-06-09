@@ -1,1 +1,0 @@
-Either a client or a server can initiate request in SIP. How is it possible? How will the server know about the client?

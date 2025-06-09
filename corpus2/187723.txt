@@ -1,1 +1,0 @@
-With regular git and github I can do a code review by simply creating a pull request of the feature branch I'm working on to the master branch. How would I do code reviews with git-flow? With workflow like "git flow feature finish` I'm confused as to where the code review actually happens and how git-flow or git can facilitate that review.

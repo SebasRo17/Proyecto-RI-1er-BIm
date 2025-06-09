@@ -1,1 +1,0 @@
-Let's say I have `ThingImpl` and `IThing`. The former is an implementation of the latter, which is an interface. IThing has 1 method: `do(arg1)` Is it considered a hack/bad practice to add a method in addition to do()? Example: `do(arg1, arg2)`

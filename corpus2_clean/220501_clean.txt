@@ -1,1 +1,0 @@
-planning creation webapp dedicated mobile web interface dedicated desktop tablet interface considering asp net mvc clear mvc separation concern explained anyway case like minimize support elegantly phone desktop may landscape tablet desktop mvc wise choice case 1st stop kind web app

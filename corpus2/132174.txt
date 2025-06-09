@@ -1,1 +1,0 @@
-I'm developing a project in Git. IT depends on another project, that's in a Subversion repository. I'd like to be able to make changes to the Subversion project in the tree, and commit to/update from the Subversion repository from within the Git project. Is that possible?

@@ -1,1 +1,0 @@
-currently developing mobile application using phonegap android testing num different kind smartphones using emulator test others target phone resolution later probably use io emulator would like know problem

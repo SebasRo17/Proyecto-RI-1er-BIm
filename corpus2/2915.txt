@@ -1,0 +1,1 @@
+If I compute, say, `1/3//N`, _Mathematica_ displays               0.333333      as the result. When I copy that output to use elsewhere, the paste produces               0.3333333333333333`      What is the meaning and function of the backtick ? I realize this must be quite elementary. I stand ready to be educated. :-)

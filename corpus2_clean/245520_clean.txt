@@ -1,1 +1,0 @@
-website creating going three breakpoints desktop tablet landscape mobile write test resolution

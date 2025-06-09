@@ -1,1 +1,0 @@
-I just found the following code in our code base:               public String identifyArchitectureName(String platformName, String input) ...      In my opinion `input` is one of the most meaningless names for a variable that can be. Is it just me? I can just quietly change it, but should I address the fellow programmer that has done it?

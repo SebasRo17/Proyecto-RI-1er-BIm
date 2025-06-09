@@ -1,1 +1,0 @@
-fun practice thinking maybe implementing basic programming language simple interpreter written question must know regular expression designing interpreter parsing text learn topic starting implement interpreter enough text break string etc e basic parsing without regular expression

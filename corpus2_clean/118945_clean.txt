@@ -1,1 +1,0 @@
-datastructure fastest way could insert value specified range example mydatastructure var new mydatastructure var insert num num would mean get optimised way getting datastructure holding value num num index sequentially

@@ -1,1 +1,0 @@
-At my company we use JIRA for new feature requests and then the QA department logs any bugs/defects in Quality Center. I find Quality Center to be very non- userfriendly as it requires IE because it uses ActiveX. Is this a common practice to use separate trackers for feature requests and defects? Is there any advantage to having separate trackers?

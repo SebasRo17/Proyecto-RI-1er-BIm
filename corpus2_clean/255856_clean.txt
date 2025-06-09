@@ -1,1 +1,0 @@
-title say creating tcp client server program c question running client server two separate machine go different firewalled router internet matter router port forwarded ex router used client machine correct tcp port forwarded client server connection established

@@ -1,1 +1,0 @@
-How are operators organized/saved in the memory in context of a programming language. Are they procedures/functions saved somewhere and compilers just manipulate things to call these procs whenever the operators are used in the program?

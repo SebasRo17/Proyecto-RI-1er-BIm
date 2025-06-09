@@ -1,0 +1,1 @@
+Clicking the tiny little buttons is difficult for the clumsy, it would be more reasonable to use arrows keys by default. Any idea how to do this?

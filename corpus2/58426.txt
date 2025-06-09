@@ -1,0 +1,1 @@
+Title says it all, really. I want to find some set of values for which a function of those values can't be made larger than a certain number, when some other values (on which that function is also dependent) are unknown.

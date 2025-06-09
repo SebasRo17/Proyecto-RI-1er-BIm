@@ -1,0 +1,1 @@
+Is it possible to solve recurrence equasions in _Mathematica_ with the use of Green's functions and get a solution as a series?

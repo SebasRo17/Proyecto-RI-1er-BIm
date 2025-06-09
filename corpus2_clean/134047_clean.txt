@@ -1,1 +1,0 @@
-researching metro winrt able find anything regarding enterprise apps database access hear front end development anyone idea metro app access database server still done asp net ado net anyone idea guess

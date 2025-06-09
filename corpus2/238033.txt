@@ -1,1 +1,0 @@
-I don't know what scalar means exactly, but I'm trying to see if I'm thinking about it correctly. Does scalar relate to arbitrariness where the type of data could be any type, or a system is not able to know what the data is in advance.

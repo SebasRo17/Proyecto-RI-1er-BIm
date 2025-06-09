@@ -1,0 +1,1 @@
+Is there a possibility of skipping one step of a loop if in this step there appears an error like `NIntegrate::eincr`? After skipping, the loop should go to the next step and continue evaluation.

@@ -1,1 +1,0 @@
-top voted answer question appears using raw pointer storage frowned upon much however point std weak ptr thought storage exact purpose circumstance raw pointer considered good valid point language simply historical artifact

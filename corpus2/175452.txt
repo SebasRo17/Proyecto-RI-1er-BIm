@@ -1,1 +1,0 @@
-Yesterday I asked a question that happened to have another meaning inside. I can see that Control/data flow is often mentioned to be static analysis (when tools is used) or dynamic analysis testing in terms of white box testing. Could it be that automatic analysis tools can just help by creating graphs or they do actually test it with inputs (then it would not be static IMHO).

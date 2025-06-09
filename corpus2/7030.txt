@@ -1,0 +1,1 @@
+For example, say I wanted to plot Sin(x) like this:               Plot[Sin[x],{x,0,2 Pi}]      But instead of plotting to a graph, I want to now tabulate the values of Sin[x] to a data file. How do I achieve this? **EDIT:** Sorry I wasn't clear enough, I mean plot the x values in one column and the y values in the second column

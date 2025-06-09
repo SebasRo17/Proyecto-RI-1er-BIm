@@ -1,1 +1,0 @@
-asked draw bounded context bc possible aggregate root school domain domain consists student study module course submit assignment module marked external tutor marking firstly stick bc im unsure rest also module would appear multiple bounded context would handle

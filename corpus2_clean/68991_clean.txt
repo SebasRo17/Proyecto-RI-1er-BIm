@@ -1,1 +1,0 @@
-use jquery library notice continue execution regardless previous complete execution precisely using jquery ajax continue execution without waiting ajax result javascript take advantage parallel processing category referred also call javascript functional programming language greatly appreciated someone could explain briefly thanks advance

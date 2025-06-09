@@ -1,1 +1,0 @@
-I am a C# developer. I am planning to learn C++. (I hope I will be able to leverage the OOP concepts from C#] I have a Windows 7 machine.   1. What are the tools that I need to install for C++ development?   2. Are there any good tutorials for switching over to C++ for a C# developer?

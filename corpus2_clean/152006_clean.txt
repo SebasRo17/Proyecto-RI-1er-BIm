@@ -1,1 +1,0 @@
-readonly field vb net thread safe example see customer readonly readonly zip integer num sub new byval end sub end

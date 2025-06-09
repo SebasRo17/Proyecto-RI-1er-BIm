@@ -1,1 +1,0 @@
-I am trying to cast in Java from string to integer and the other way around but the compiler is complaining about this. My question is: Is this the matter of compiler or Java programming language doesn't support this kind of casting.

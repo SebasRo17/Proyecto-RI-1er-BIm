@@ -1,1 +1,0 @@
-As the number of bugs in a codebase increases, that number not only decreases the quality of the code, it also affects the mindset of the developers. Developer self-confidence falls when things are not going well. If self- confidence is not right, things more easily become a mess. How do you guys keep your self confidence up in these situations?

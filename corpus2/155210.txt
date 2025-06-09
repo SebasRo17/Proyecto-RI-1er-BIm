@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Why are objects passed by reference? Doesn't C# send the objects themselves? So unless it's some kind of swap function for primitive typed variables - why would I send an object by reference?

@@ -1,1 +1,0 @@
-interest keeping controller skinny put headline model model property def headline address end end property controller context controller def show property property find params id end end question far mvc concerned okay call model view like view h1 property headline h1

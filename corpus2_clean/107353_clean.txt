@@ -1,1 +1,0 @@
-working blackberry app however loading various 3rd party website around web e g post stackoverflow currency rate yahoo com like know could cause trouble would allowed thank

@@ -1,1 +1,0 @@
-I'm not talking about a diff tool. I'm really looking to see if a project contains code that may have been "refactored" from another project. It would be likely that function names, variable names and whatnot would be changed. Conditionals might be reversed, etc.

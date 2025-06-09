@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  What should every programmer know about web development? I'm 15 years old. I've been programming for 2 years. I suppose I am a good programmer (not designer). I can use PHP(Good), Css(simple), and JQuery(not too bad). What else can I learn related to web development (maybe system programming)? Thanks for your suggestions..

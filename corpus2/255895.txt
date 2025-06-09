@@ -1,1 +1,0 @@
-I am having a java application created using Jdeveloper. I want to build the workspace on linux machine using ojdeploy instead of Jdeveloper IDE. But for that I need to add 3rd party jars like hibernate. I am using putty to access the machine. so I want to know how to add third party libraries without using IDE. Thanks

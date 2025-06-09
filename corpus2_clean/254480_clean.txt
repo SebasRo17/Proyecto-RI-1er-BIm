@@ -1,1 +1,0 @@
-issue creating new controller within ascx view page want create model issue way normally controller control variable within model model middle point creating new instance controller within ascx page ok edit want know implication putting instance controller directly asp net ascx view page thanks

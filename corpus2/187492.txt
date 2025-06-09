@@ -1,1 +1,0 @@
-I just started playing around with async/await in .Net 4.5. One thing I'm initially curious about, why is the async keyword necessary? The explanation I read was that it is a marker so the compiler knows a method awaits something. But it seems like the compiler should be able to figure this out without a keyword. So what else does it do?

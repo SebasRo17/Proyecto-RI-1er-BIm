@@ -1,1 +1,0 @@
-I am trying to solve a mathematical problem in two different ways and output is a curve in both the cases. I want to compare these output curves for similarity in python. Is there any function or framework which provides this functionality? Thanks.

@@ -1,1 +1,0 @@
-Due to the inherent risks associated with using dynamic languages (e.g. Python, Ruby) carelessly, what (if any) standards should be imposed on production code written in these languages?

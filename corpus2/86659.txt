@@ -1,1 +1,0 @@
-I know that Emacs was very popular a few decades ago, but now - when there are a lot of IDEs and text editors, is it still popular between us?

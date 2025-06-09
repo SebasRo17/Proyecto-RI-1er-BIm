@@ -1,1 +1,0 @@
-Everybody knows, that PHP has problems with Unicode. Version 6 is effectively abandoned, because of Unicode implementation difficulties. But I wonder if anyone knows what are the **exact** reasons? Architecture/design problems, performance concerns, community problems (I bet not), something other?

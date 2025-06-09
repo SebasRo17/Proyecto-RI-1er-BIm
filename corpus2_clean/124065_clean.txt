@@ -1,1 +1,0 @@
-like concept system tuple allows multiple parameter single call without instantiating new however defy good programming practice microsoft pattern practice solid principle etc trying gauge liberally use feature use edge case scenario necessary

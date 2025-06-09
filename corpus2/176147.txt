@@ -1,1 +1,0 @@
-I am confused about it. I can use lucene to create index and run query against file system. I can find any particular file very fast, if I can provide a primary key, in this case, directory path and filename act as primary key. It looks very much like a NoSQL.

@@ -1,1 +1,0 @@
-day many language garbage collected even available c third party c raii smart pointer point using garbage collection something extra language like c reference treated smart pointer keeping raii aside specification implementation still need garbage collector

@@ -1,0 +1,1 @@
+I define 2 functions:               g[s_][x_,y_] := the gaussian  (1)          g1[s_,x_,y_] := the gaussian  (2)      I get the same answer using `g[s][ x, y]` and `g1[ s, x, y]`.   So, what is the difference?   Is there some advantage to be gained in definition `1` over `2`?

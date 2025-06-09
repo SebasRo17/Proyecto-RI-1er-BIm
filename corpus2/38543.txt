@@ -1,1 +1,0 @@
-Aside from using a specific tool such as JIRA or Bugzilla, what techniques or development methodologies do you use to keep your OSS development efforts organized? and more importantly, how do you prioritize which features to deliver when there really isn't any paying clients that decide which features are the most important to deliver?

@@ -1,1 +1,0 @@
-In Java and other high-level languages, a reference leads to an object. In C++, as far as I know, a pointer can also lead to an object. So what's the difference between a reference leading to an object, and a pointer leading to an object?

@@ -1,1 +1,0 @@
-On a web page I have 1 script tag that contains all my minified JavaScript (I use SquishIt for .NET). However I see that a few people prefer to load their scripts in parallel using something like requirejs or headjs. I was wondering which is better for performance and whether combining and minifying all my JavaScript is worth the effort?

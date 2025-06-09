@@ -1,1 +1,0 @@
-suppose teacher want explain student benefit using raii c need good example full detail easy understand approach would use

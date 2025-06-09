@@ -1,1 +1,0 @@
-I am always given the advice that developers need to stay up to date with the latest in technology - things like webrtc, updates on html5 and css3 and new js libraries, software methodologies like TDD, DDD, and BDD. The question is _why_? Why do we need to constantly update ourselves? Can't we just stick with what we know and become better with it?

@@ -1,1 +1,0 @@
-learning aspect oriented programming understanding concept bad programmer english bad understand fully definition someone explain aop concept dummy join point pointcut weaving etc example aspect modularization concern cut across multiple class mean thank

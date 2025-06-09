@@ -1,1 +1,0 @@
-I need to write requirements/specs for a WCF service interface between our system and a third-party BizTalk server. I'm not quite sure how to do this, so I'm looking for a template. I guess I should at the very least define the interface itself, authentication policy and error handling. Any resources regarding documenting WCF/SOA requirements would be appreciated.

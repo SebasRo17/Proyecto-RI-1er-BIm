@@ -1,1 +1,0 @@
-consider server app development heavily loaded messing big stream app running one powerful server server app developed form crossplatform application working window mac o x linux many platform stand alone server architecture wonder benefit distributing application thread process well programmer server end user people said even num core num process thread would shared via o core

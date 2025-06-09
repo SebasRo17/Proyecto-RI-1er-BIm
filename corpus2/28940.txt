@@ -1,0 +1,1 @@
+I have a curiosity as regards the infinite product below. I wonder why Mathematica v.8.0. says   the limit is $1$. This is not true.               Limit[(Product[(1 - a/n^2), {n, 1, Infinity}])^(1/Sqrt[a]),  a -> Infinity]

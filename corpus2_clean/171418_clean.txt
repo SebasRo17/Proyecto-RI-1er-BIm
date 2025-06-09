@@ -1,1 +1,0 @@
-wondering seems popular login page spa separate page page spa loaded send ajax request thing think security think specific security reason mean thing come mind login page part spa sends username password ajax seen tool like firebug web inspector however even send normal post request tool easily capture like fiddler etc something missing

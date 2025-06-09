@@ -1,0 +1,1 @@
+wonder possible use mathematica helping create school timetable feeling requires quite simple optimization algorithm never optimization really know start task look like given free class room certain time point information much time place require certain lesson also teacher preference would prefer morning evening etc function would help solve matter

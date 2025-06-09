@@ -1,0 +1,1 @@
+I want to create a ML classifier using images just like this example. I have two classes of images in two different folders. Is there an easier way to import all images from both folders rather than inserting picture by picture? ![enter image description here](http://i.stack.imgur.com/stYyQ.png)

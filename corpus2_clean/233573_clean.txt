@@ -1,1 +1,0 @@
-possible create exchange queue client environment client quote num num amqp exchange rabbitmq html amqp client free create exchange use predefined default exchange queue server broker

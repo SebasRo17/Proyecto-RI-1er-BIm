@@ -1,1 +1,0 @@
-using microsoft sql query analyzer day wrote simple select statement select num num pi equiv result num expecting see num even declare numeric num num still get num declare answer numeric num num set answer num num select answer pi equiv result num language integer value divisor integer

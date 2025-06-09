@@ -1,1 +1,0 @@
-anyone experience porting large powerbuilder client server application application another language large mean something order num million line literally hundred database table long take much cost biggest challenge

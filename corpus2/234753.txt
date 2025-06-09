@@ -1,1 +1,0 @@
-Is it recommended that TDD be always practiced in a project, or are there cases when it should be avoided? Should we all adopt TDD? Is it standard practice in major software companies?

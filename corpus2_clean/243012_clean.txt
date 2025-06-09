@@ -1,1 +1,0 @@
-wikipedia page dependency injection disadvantage section tell u dependency injection increase coupling requiring user subsystem provide need subsystem link article dependency injection dependency injection make use interface instead concrete implementation result decreased coupling missing dependency injection increasing coupling class

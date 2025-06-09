@@ -1,1 +1,0 @@
-I'm working in a team where each member is working on an user story. How can we avoid creating duplicate or conflicting functionality? For example, if my user story requires the creation of class A and my team member needs the same functionality and creates a similar class (maybe with a slightly different name), how should we plan our work so that we both move smoothly?

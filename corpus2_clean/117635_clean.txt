@@ -1,1 +1,0 @@
-example generates random num num take different branch outcome one design test suite guarantee num statement coverage might something like new random nextint num switch num case statement

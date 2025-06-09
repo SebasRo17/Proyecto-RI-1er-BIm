@@ -1,1 +1,0 @@
-I need to build a social network that is expecting very high traffic, 10k - 50k + registrations in a day, not even including visitors, pageviews, image uploads, etc..., a lot of database activity. We have a solid quad core dedicated server right now with 8GB ddr3 and 2tb hdd sata. Will doctrine be to slow as far as queries and load time to handle such a high traffic website?

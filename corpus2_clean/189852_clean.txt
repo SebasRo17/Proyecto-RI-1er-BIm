@@ -1,1 +1,0 @@
-know n tier intended separate layer different network would like separation codeigniter got idea model database crud layer rest api business logic business layer call crud model controller view going flow view controller api business class model wanna know kind drawback architecture

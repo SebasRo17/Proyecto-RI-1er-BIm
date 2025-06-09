@@ -1,1 +1,0 @@
-Cocos2d-X is a game engine framework based on Cocos2d-iPhone, which consists of expanding supported platforms, with multiple choice of programming languages thats shares the same API structure. What is be better Project Resource Organization and Structure at Cocos2d-X Development?

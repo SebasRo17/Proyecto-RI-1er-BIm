@@ -1,1 +1,0 @@
-problem give right time complexity notation following k num num n j k something k k num n without modified starting j inner would course n decreasing running time inner every step outer quite confused approached

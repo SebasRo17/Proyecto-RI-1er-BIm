@@ -1,1 +1,0 @@
-When you download and install asp.net MVC, does it just add code to the .net framework class library? Or does it also modify the installed Visual Studio editions? Another question: If it is just adding code to the .net framework class library, why can it not be installed on top of .net 2.0?

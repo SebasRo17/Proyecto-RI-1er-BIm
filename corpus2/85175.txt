@@ -1,1 +1,0 @@
-What is the meaning of platform independence? I am taking the case of Java. Can I run a Java application on Linux that built on Windows platform? Or the reverse? Can I use a same (or exact) programming algorithm on both operating systems? In my view File Types are platform independent like Videos, Images, Documents etc.

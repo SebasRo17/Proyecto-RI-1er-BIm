@@ -1,1 +1,0 @@
-I've been getting great results with Node.js since a year+. Everything is perfect and I couldn't be happier. Yet I have a feeling that this model won't last long and will be forgotten as soon as something replaces JavaScript on the browser, so I'm considering migrating to Haskell or similar as soon as I can. Is Node.js a future-safe technology, or is it a middle-term solution?

@@ -1,0 +1,1 @@
+When I want to take chemistry notes and write down a formula such as H_2O or C_2H_5OH it enters "Math mode" which changes the font size and italicizes the letters. Is there an easy way to properly enter chemical formulas and equations in text? I'm new to Mathematica 10 and I'm really boggled by all the styles and how to change them so please keep it simple.

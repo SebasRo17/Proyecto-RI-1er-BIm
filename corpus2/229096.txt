@@ -1,1 +1,0 @@
-I couldn't find any links or books claiming that Lisp is the first programming language to adopt structured programming (actually, most of them don't even mention Lisp at all), but if conditionals were invented by McCarthy and got into Algol later, is it fair to say that Lisp is the first?

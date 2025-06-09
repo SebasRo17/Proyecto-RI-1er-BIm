@@ -1,1 +1,0 @@
-I keep hearing people say Banking systems like ATM use Eventual consistency model for data synchronization, but I am wondering if it is true. Definitely the amount you withdraw might be delayed showing in your banking statement, but I assume they won't let the amount of your banking account inconsistent at any given time, right? Anyone working in the industry can confirm this?

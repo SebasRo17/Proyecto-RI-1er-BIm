@@ -1,1 +1,0 @@
-Microsoft showed off a demo of Windows 8, including a new platform that allows developers to use HTML5 and JavaScript. Is this new platform the main way to develop for Windows 8? Is Microsoft phasing out the .NET platform in favor of the HTML 5 stack? What does Windows 8 mean for .NET developers?

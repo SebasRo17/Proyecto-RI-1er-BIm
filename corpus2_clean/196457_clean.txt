@@ -1,1 +1,0 @@
-let say set item e1 e2 en also set constraint c1 c2 cm ci appears ek j k want produce ordering item maximizes number satisfied constraint possibility constraint contradictory sure search hope known efficient algorithm might also helpful given weight constraint could instead maximize total weight satisfied constraint rather number

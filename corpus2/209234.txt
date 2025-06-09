@@ -1,1 +1,0 @@
-I have done tasks based on Java, but my seniors assigned me to collect requirements for creating a globalized bug tracking tool. I have read many types of requirements from Wikipedia and the mindtools website, but it was very confusing. What are the exact differences between functional requirements, operational requirements and technical requirements?

@@ -1,1 +1,0 @@
-On http://python.org there are two download pages, http://python.org/download/ for international users and http://python.org/getit/ for Chinese users. When accessed from a country other than china, the second link redirects to the normal download page. Why is that so?

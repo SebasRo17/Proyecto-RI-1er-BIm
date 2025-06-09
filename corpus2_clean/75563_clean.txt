@@ -1,1 +1,0 @@
-develop cross platform project window linux mac o x use cmake platform dependent script sh bat construction nevertheless find process construction release rather boring annoying switching computer typing command copying binary anyone use kind building daemon something build project background request reading special git svn commit message

@@ -1,1 +1,0 @@
-**What's the best practice?** This :               for ($i = 0; $i < count($array); $i++) {     //stuff     }      Or, what I usually do :               $count = count($array);     for($i = 0; $i < $count; $i++) {     //stuff     }      Is it the same with the magic of compiler optimization?

@@ -1,1 +1,0 @@
-I have a table with about 37 indexes. Would that be considered too many? What are some best practices regarding indexing? EDIT: It is warehousing data, updated daily with new transactions. There are 47 million rows. 3 of the indexes are very necessary. The other 34~ are 'where' clause indexes intended to speed up queries.

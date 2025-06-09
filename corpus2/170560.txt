@@ -1,1 +1,0 @@
-After reading both this thread and the linked paper, I don't understand how FRP (functional relational programming) is different from (FP) functional programming. Does FRP augment or replace FP? Can FRP be implemented as a library in an FP language?

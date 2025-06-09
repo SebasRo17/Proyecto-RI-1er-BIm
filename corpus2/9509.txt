@@ -1,0 +1,1 @@
+I just saw that Windows 8 RTM has showed up on Technet, and I've been wondering if I should upgrade my main machine. I've been trying to determine the compatibility of various app with Windows 8 and the one thing I can't seem to find is anybody that has tried Mathematica 8 on Windows 8. Does anybody have any experience with Mathematica 8 on Windows 8?

@@ -1,0 +1,1 @@
+I'm using Insert->Page Break to do just that, but thick black lines are appearing on the actual printed copy wherever I indicated a break. Can this be turned off?

@@ -1,1 +1,0 @@
-got many object need example financial application different investment object need current interest rate hoping encapsulate financial environment interest rate property sibling object need get share value among many object without coupling design obviously thinking wrong

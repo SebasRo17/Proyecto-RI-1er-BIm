@@ -1,0 +1,1 @@
+In Mathematica there is a hot key for searching words (that your cursor is within or adjacent to) in the documentation center, is there a way to do this from the Workbench instead of having to first switch back to Mathematica?

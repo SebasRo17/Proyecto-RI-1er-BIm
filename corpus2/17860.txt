@@ -1,0 +1,1 @@
+How should I modify the following such that the accented letter `É` is matched and the expression returns `True`?               StringMatchQ["Éta", RegularExpression["[a-zA-Z]+"]]

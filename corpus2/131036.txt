@@ -1,1 +1,0 @@
-What were the design decisions that argued in favour of `void` not being constructable and not being allowed as a generic type? After all it is just a special empty `struct` and would have avoided the total PITA of having distinct `Func` and `Action` delegates. (C++ allows explicit `void` returns and allows `void` as a template parameter)

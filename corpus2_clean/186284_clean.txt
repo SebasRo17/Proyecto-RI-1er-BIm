@@ -1,1 +1,0 @@
-want disallow programmer overriding one method since requires special knowledge inner working since personally know work would like able make exception actually override one derived common problem standard solution fact feel like make exception like mean rethink approach edit mention language since looking general answer since requested came using php

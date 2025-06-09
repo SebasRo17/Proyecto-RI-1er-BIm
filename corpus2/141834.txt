@@ -1,1 +1,0 @@
-C has pointers and Java has what is called references. They have some things in common in the sense that they all point to something. I know that pointers in C store the addresses they point to. Do reference also store the address? How they are different except that pointer is more flexible and error-prone?

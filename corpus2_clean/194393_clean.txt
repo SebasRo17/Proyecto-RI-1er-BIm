@@ -1,1 +1,0 @@
-php mvc application file table need implement functionality mark read best solution found far put actual implementation model service fileservice php problem fileservice get bloated really fast different functionality would good solution avoid bloated service created different service action

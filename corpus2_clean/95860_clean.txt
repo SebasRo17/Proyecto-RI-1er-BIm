@@ -1,1 +1,0 @@
-current best practice conversion necessary web application example httpservletrequest getparameters return hibernate allow used clause numeric column therefore need convert long via long valueof best way handle short rewriting another language people create full little static method

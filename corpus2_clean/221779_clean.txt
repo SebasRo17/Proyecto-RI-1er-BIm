@@ -1,1 +1,0 @@
-num layered application presentation layer pl asp net mvc app business logic layer bll project access layer dal project need add web reference service payment gateway go pl bll p using web service need retrieve database send web service

@@ -1,1 +1,0 @@
-I'm new to version control (currently using SVN), but I don't understand how this helps developers. What does version control do that makes it useful in a development environment?

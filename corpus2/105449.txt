@@ -1,1 +1,0 @@
-I find the term "protocol" confusing (in the terms of computer science that is). If the protocol is just a set of rules, wouldn't it be easier if we used the term "standard" instead (like in "HTTP standard")?

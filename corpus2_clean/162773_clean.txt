@@ -1,1 +1,0 @@
-safe use last insert id system using mysql like point sale multiple user using system time

@@ -1,1 +1,0 @@
-suppose c f meant used within c implementation overridden c subclass reasonable pythonic consider private e f rather f word would distinguish interface provided subclass interface provided outside inheritance hierarchy

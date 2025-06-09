@@ -1,1 +1,0 @@
-I like to keep my lines of code under 80 characters because:   * I don't have to do any horizontal scrolling;   * I know the line is probably too complicated if it exceeds this limit; and   * it prints out nicely on paper. Concerning the latter, I've met only a few who actually print out code to look at (I'm one of them). So how common is it to print out code?

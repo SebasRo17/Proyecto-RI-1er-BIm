@@ -1,0 +1,1 @@
+I was wondering, how to solve such a system with mathematica? I found the NDsolve function, but in the reference is not mentioned if it is possible to solve a system of equations.

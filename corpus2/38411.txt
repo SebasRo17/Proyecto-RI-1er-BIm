@@ -1,0 +1,1 @@
+Is it possible to start Mathematica kernel from UNIX command line without having the init.m loaded, but not by simply deleting or commenting out it before hand? If this is a Mathematica script, is it possible to have the script run and by pass the initialization of running `init.m`?

@@ -1,0 +1,1 @@
+I found a definition of a button               Button[Defer[ Information[ \[SelectionPlaceholder], LongForm -> False]],        None, BaseStyle -> "CopyEvaluate"]      that is doing a good job. How can I add a label to this button definition similar to `Button[label, action]`? I have trid to change the definition given above, but nothing I've done worked.

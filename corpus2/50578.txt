@@ -1,0 +1,1 @@
+I want to find the position of the elements which are equal in a matrix. For example in the case of the following matrix: $m =\left( \begin{array}{cc} a & x \\\ x & a \\\ \end{array} \right)$               m = {{a, x}, {x, a}};      I want to get these two sets: > >     {{{1, 2}, {2, 1}}, {{1, 1}, {2, 2}}} >   How can I do that? Is there a built in function?

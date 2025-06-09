@@ -1,1 +1,0 @@
-implementing cm based asp net mvc designer able provide theme cm write theme need able modify generated html thus concept view word capable either modify current view create new view scratch fit requirement however sure taking right path web designer html cs javascript photoshop really know server side platform like razor php classic asp anything else

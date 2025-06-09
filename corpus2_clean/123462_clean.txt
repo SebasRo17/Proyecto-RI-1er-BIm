@@ -1,1 +1,0 @@
-say partially implemented static partially implemented singleton besides kludge smell imo appropriate term mixing programming idiom

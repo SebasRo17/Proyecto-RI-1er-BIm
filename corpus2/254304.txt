@@ -1,1 +1,0 @@
-I have seen that in imperative paradigms f(x)+f(x) might not be the same as: 2*f(x) But in a functional paradigm it should be the same. I have tried to implement both cases in Python and Scheme, but for me they look pretty straightforward the same. What would be an example that could point out the difference with the given function?

@@ -1,1 +1,0 @@
-Can somebody explain me in what use-cases I should consider using AMQP like e.g. RabbitMQ? What are the pros and cons?

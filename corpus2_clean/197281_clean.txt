@@ -1,1 +1,0 @@
-currently reading draft c11 specification new introduced keywords bool atomic feel like custom extension instead standard reserved keywords like struct union realize standard basically consists standardized extension still awful maybe soon end long long integer msvc creeping standard backward compatibility nonstandard reason new style keywords

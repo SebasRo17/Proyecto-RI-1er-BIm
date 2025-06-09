@@ -1,1 +1,0 @@
-whitebox tester involved software design process

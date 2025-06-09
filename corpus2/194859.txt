@@ -1,1 +1,0 @@
-What's the most secure method of performing authentication in a single paged apps? I'm not talking about any specific client-side or server-side frameworks, but just general guidelines or best practices. All the communications are transfered primarily through sockJS. Also, OAuth is out of the question.

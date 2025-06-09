@@ -1,1 +1,0 @@
-starting low level 3d programming linux lot experience using higher level graphic api know strictly necessary aware thing fit together curious know opengl standard graphic application mesa3d seems open source implementation standard glx fit digging around wikipedia website yet find explanation exactly go together hardware acceleration happen proprietary driver

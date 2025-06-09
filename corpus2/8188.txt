@@ -1,0 +1,1 @@
+## Context               In[855]:= D[Abs[x], x] /. x -> 1          Out[855]= Derivative[1][Abs][1]          In[856]:= D[x, x] /. x -> 1          Out[856]= 1      ## Question Why is `Derivative[1][Abs][x]` not simplifed to 1 when `x -> 1`?

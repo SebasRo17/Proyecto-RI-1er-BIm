@@ -1,1 +1,0 @@
-Ok, I understand what CamelCase is. This question is relating to how to CamelCase the shortened version of Property List (PList). I am asking this because I am working on a PList parser in C# and knowing how everything in .NET is CamelCase, I am wondering, should it be `PList` or `Plist` (also why)?

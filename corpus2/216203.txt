@@ -1,1 +1,0 @@
-Specifically, I would like to understand the difference between Oracle's JDK and OpenJDK in terms of bug fixes and other patches. Which branch gets fixes first and is Oracle in a habit of making patches that never make it to OpenJDK?

@@ -1,1 +1,0 @@
-j chat room talk day ago little xhr library handling basically wanted decide handling pattern used xhr get parameter success failure xhr get parameter callback err one jquery like node like say first pattern make think handling think opposite since may forget callback argument always second pattern opinion advantage drawback pattern

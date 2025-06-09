@@ -1,0 +1,1 @@
+I am trying to find the number of connected components of numerous named graphs within Combinatorica. The obvious answer seems to be:               Length[GraphData[G,"ConnectedComponents"]]        but this fails. What am I doing wrong? Does this property only work when the number of connected components is >= 2?

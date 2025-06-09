@@ -1,0 +1,1 @@
+I have data in a rectangular structure – something like `matrix={{a,b,c},{d,e,f},{g,h,i}}`. The problem is that some of the columns consist of uncompressed data and some not. Now I'm looking for an elegant way to uncompress the whole matrix. Unfortunately `Uncompress[matrix]` doesn't work.

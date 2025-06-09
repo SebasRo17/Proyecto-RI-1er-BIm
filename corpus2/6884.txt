@@ -1,1 +1,1 @@
-I'm sure that many of you have encountered a bad client. I'm also sure you took some measures to prevent such encounters in the future. What is the most influential characteristic of a client that warns you to walk away?
+I'm trying to get an eigenvalue equation in Mathematica, and the result is an expression with coefficients of the form `a + 0. I`. For example, ![Mathematica output](http://i.stack.imgur.com/osLe5.jpg) Is there any clever way to simplify it? I mean the method in which I can take away the `0.*I` in the expression.

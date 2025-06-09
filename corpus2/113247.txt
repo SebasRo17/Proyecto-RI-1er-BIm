@@ -1,1 +1,0 @@
-First, unless anyone has better definitions, let's define "back end" and "front end" according to their usage here: Is it common to separate back-end and front-end into two positions on web development projects?. How common is it to find programmers exclusively assigned to back end or front end roles on a team? What's the scope of their responsibilities?

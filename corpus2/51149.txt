@@ -1,0 +1,1 @@
+I would like a chart showing the median, 1/4, 3/4 quartiles, without the whiskers or fences. how can I achieve this? I cannot figure out how to turn off both the whiskers and the fences in the result of:               BoxWhiskerChart[RandomVariate[NormalDistribution[0, 1], 100]]      but doing so would do the trick.

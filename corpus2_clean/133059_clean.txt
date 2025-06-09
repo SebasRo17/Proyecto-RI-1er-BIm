@@ -1,1 +1,0 @@
-client existing straight html javascript site back end kind want add email functionality thinking using node two reason num seems like extremely lightweight way num talking adding functionality future positive negative approach

@@ -1,1 +1,0 @@
-I am wondering, What would be the correct condition coverage test cases for the following condition:               if(A && E && (B || C || D))      Considering short circuiting, what cases would I need? EDIT: Sorry I put only a half of the expression

@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Monitor screen size and programming ease Is the screen size of a laptop/desktop is directly proportional to the productivity of a developer? How? Is it the real estate of the screen (less scrolling, multiple apps side by side, or something else). Similar Question

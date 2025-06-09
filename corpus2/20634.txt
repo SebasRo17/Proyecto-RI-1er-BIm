@@ -1,0 +1,1 @@
+I'm able to plot the region where `Im[z] > 0` and `Re[z] > 0`:               RegionPlot[Re[x + I y] > 0 && Im[x + I y] > 0, {x, -2, 2}, {y, -2, 2}]      But now I'd like to apply the function $f(z)=(z+i)/(z-i)$ to this region and view the result. Can you give me suggestions?

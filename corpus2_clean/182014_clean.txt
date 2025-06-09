@@ -1,1 +1,0 @@
-per knowledge daemon thread thread run background low priority thread also child thread run background parent thread run foreground difference lie child daemon thread case explain referring language

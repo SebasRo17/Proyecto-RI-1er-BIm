@@ -1,1 +1,0 @@
-many native type common suffix sometimes prefix used denote platform independent type wchar int32 etc logic behind letter opposed letter none especially case wchar stand something

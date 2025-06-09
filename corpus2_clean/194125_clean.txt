@@ -1,1 +1,0 @@
-looking ecmascript 4th edition specification mention simple highly dynamic based language take major idea language self scheme familiar two language cannot seem find mention exactly similar language ecmascript would someone able explain feature ecmascript taken language

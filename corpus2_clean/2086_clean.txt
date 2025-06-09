@@ -1,1 +1,0 @@
-writing using algorithm big oh complexity mentioned

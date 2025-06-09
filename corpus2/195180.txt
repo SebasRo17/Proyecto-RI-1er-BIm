@@ -1,1 +1,0 @@
-Programming question: > Reverse words in a string (words are separated by one or more spaces). **Now > do it in-place**. What does "in-place" mean in the above context for an interpreted language like PHP or JavaScript?

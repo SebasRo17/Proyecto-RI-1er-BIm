@@ -1,1 +1,0 @@
-Is the following guaranteed to return true for all numerical and non-zero values of `x`?               bool IsRoundTrip(double x)     {         double y = 1 / (1 / x);         return x == y;     }      What conditions would cause a discrepency?

@@ -1,1 +1,0 @@
-I always see standard Order classes implemented with a "Status" property, but I don't feel comfortable with that. Isn't the status a property of the fulfillment process instead of the order itself? What about orders that can be subject to different fulfillment processes?

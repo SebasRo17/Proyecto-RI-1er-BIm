@@ -1,1 +1,0 @@
-Let's say SDK is under specific license that is not compatible with some other licenses (like Flex SDK with GPLv2). Can I create an application by using for example Flex SDK, and license its distribution under GPLv2? Can my application be considered a derivative work? What is a relation between SDK license and application license that was build by using that SDK?

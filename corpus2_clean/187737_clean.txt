@@ -1,1 +1,0 @@
-working multiple website freelancer good amount write using c mvc4 created good project plan use every next starting mvc4 application build however namespace named website also lot copy paste one project another always refactor namespaces use single namespace website website problem however somehow impact application considered bad practice

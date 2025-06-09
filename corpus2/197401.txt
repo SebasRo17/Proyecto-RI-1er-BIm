@@ -1,1 +1,0 @@
-I never coded on VS and I'm a junior programmer in C# and I would like to know if the entity framework is available only for ASP .NET applications ?

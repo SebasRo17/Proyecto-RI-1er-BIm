@@ -1,1 +1,0 @@
-According to what I read, the compiler is not obliged to substitute the function call of an inline function with its body, but will do so if it can. This got me thinking- why do we have the inline word if that is the case? Why not make all function inline functions by default and let the compiler figure out if it can substitute the calls with the function body or not?

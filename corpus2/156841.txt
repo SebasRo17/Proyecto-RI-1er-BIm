@@ -1,1 +1,0 @@
-I have to learn open GL and get a basic open GL app built. Is it easier to learn open GL 1.x ES as apposed to 2.0 which uses shader language? Also is it advisable to learn 1.x before 2.0?

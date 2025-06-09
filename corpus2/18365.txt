@@ -1,0 +1,1 @@
+I have the following problem: I want to transform integer powers into a series of multiplications within symbolic expressions. E.g. `x^3` should be written as `x*x*x`. I tried applying the rule `a_^b_ -> a a^b-1` with a `ReplaceRepeated`, but Mathematica "simplifies" this again to `x^3`. Any suggestions?

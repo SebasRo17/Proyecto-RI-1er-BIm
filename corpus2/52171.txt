@@ -1,0 +1,1 @@
+How to avoid plotting lines not defined in a Which function?               fa1[x_] := Which[x >= 15, 1, x >= 10, 0.55, x >= 5, 0.1]     Plot[fa1[x], {x, -1, 20}, BaseStyle -> AbsoluteThickness[4],       PlotLegends ->        LineLegend["Expressions", BaseStyle -> AbsoluteThickness[4]]]      ![enter image description here](http://i.stack.imgur.com/beNmg.png)

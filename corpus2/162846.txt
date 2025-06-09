@@ -1,1 +1,0 @@
-Am about to start coding using microsoft .Net technologies, am just worried about the license, so if I compile my code using the .Net compiler " **not visual studio** " can I distribute, sell or use my product freely or I should have some sort of "microsoft license", same thing for sql server express installed(depolye) with my application

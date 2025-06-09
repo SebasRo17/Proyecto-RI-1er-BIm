@@ -1,0 +1,1 @@
+Four-sided convex land plots are usually denoted with edge lengths and area. How do I create a Polygon Object with these parameters in Mathematica ?

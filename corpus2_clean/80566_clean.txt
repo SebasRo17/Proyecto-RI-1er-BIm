@@ -1,1 +1,0 @@
-one linux vps server company develop php site normally make subdomain site like test1 com work till finish domain heard big company staging server production server want know system work site complete transfer site via ftp ssh rsync old staging server want implement enterprise strategy company want know proceed thanks

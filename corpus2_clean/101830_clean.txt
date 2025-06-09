@@ -1,1 +1,0 @@
-new static analysis application cyclomatic complexity num num line application num num line valid say complexity high based line exactly cyclomatic complexity saying

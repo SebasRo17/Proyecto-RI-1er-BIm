@@ -1,1 +1,0 @@
-Do you know how Data Scientists use Python and if it requires data, where I can get sample data to practice with? I'm currently learning the language and plan on applying for Data Scientists jobs, so it would be helpful if I knew if there were specific types of tasks where I'd use python. If it's relevant, I use C# regularly.

@@ -1,1 +1,0 @@
-When building an application from scratch, should I start with the object- oriented (OO) model or the entity-relationship (ER) model?

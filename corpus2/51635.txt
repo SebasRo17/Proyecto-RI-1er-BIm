@@ -1,1 +1,0 @@
-I am looking to integrate a live auction component (similar to BigDeal.com) to a website. I generally program using PHP. What is the best plan of action with this type of project (Timer, live bids..)?

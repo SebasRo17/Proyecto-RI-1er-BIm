@@ -1,1 +1,0 @@
-I got this question in one of the interviews I took. I started by explaining that it is like a set of rules that should be followed while moving resources around, but I did not feel convinced. Is there any other analogy or take on this question ?

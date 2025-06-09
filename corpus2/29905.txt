@@ -1,0 +1,1 @@
+How can I solve the recursion equation given below? I doubt there have no solution for the recursion equation because this is circulating recucrsion equation.               RSolve[      If[n >= 3,        S[n] == ((c/m + 1)*S[n - 1] - q*S[n - 2])/q,        {S[2] == (S[1]*(c + m))/(m*q) - 2*S[0],         S[1] == ((S[0] - 1)*(c/m + 1) + 2*q)/q - S[n]}],      S[n], n]

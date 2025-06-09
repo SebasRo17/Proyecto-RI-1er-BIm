@@ -1,1 +1,0 @@
-Assume these threads run in single core cpu. As a cpu only run one instruction in one cycle. That is said, even thought they share the cpu resource. but the computer ensure that one time one instruction. So is the lock un-necessary for multiplethreading?

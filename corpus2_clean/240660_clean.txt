@@ -1,1 +1,0 @@
-mvc used lot web apps seems go approach designing software also lot mvc version question mvc people structure large software system obviously separation concern invented mvc even called assume thinking crucial building maintaining software present long ago technical term software structured mvc

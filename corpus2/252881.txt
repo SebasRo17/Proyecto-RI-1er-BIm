@@ -1,1 +1,0 @@
-I'm running tests from the same database as I use in development. I recall using Rails and I used a separate database for testing (mainly coz the tutorial I was going by said so). Made sense though. I was wondering it this was the common way to do things or whether there was an alternative. Can anyone shed a little light on this?

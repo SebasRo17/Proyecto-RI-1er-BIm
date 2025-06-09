@@ -1,1 +1,0 @@
-I see 'the bootstrap process' mentioned in Dayle Rees Laravel tutorial "Code Bright" but no explanation of what it actually means. The Wikipedia definitions on Bootstrapping in computing don't seem to have any particular relevance.

@@ -1,1 +1,0 @@
-I am writing a simple ASP.NET Web Forms application. I want to improve the code by implementing any design pattern with which abstraction is achieved and increases manageability and understandability. Which pattern is recommended? Please also provide links to sample applications.

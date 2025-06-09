@@ -1,0 +1,1 @@
+How could I replace for example:               Derivative[2][f][x]      by               Derivative[1][g][x]      where               g[x]=Derivative[1][f][x]      ? But doing this in a manner that work for all cases (all combinations of mixed derivates and multiple variables)?

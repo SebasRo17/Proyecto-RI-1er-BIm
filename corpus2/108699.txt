@@ -1,1 +1,0 @@
-Why does Java's Collection.size() return an int? This limits the size of collections to just over 2 billion entries. With the rapidly increasing amounts of memory available to us, this seems a little short-sighted - no?

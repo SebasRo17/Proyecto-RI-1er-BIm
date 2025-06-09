@@ -1,0 +1,1 @@
+Say I have an expression $a+b+a\times b$ and I define $c:= a\times b$. How do I get _Mathematica_ to write $a+b+a\times b$ in terms of $c$, i.e. $a+b+c$?

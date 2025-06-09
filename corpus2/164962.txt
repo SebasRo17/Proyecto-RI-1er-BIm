@@ -1,1 +1,0 @@
-I am trying to build an app with HTML5. Is there a certain syntax to follow when making objects for games? Anyone tried that and what are good practices to follow?

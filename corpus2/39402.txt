@@ -1,0 +1,1 @@
+I have a PDE with mixed boundaries (Neumann and Dirichlet on some sides) in the region $(t,x,y) \in \left( 0, T\right) \times\left\\{ -L \leq x \leq L, 0 \leq y \leq h(x) \right\\}$ where $h(x)$ is something like $\exp\left\\{ -(x-x^*)^2\right\\}$, doesn't matter. And I have Neumann boundary condition on the curve $\left(x, h(x)\right)$. How can I provide such region to NDSolve?

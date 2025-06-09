@@ -1,1 +1,0 @@
-I don't understand what is passed to the function f() when I call it like this.               main()     {       void f(int,int);       int i=10;       f(i,i++);     }          void f(int i,int j)     { printf("%d %d",i,j); }      gives me 11 10 .Can somebody explain why its 11?

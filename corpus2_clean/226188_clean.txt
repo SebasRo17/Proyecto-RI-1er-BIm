@@ -1,1 +1,0 @@
-important many relationship io programming often hold list pointer object code think fully understand concept many relationship let alone implement current understanding many relationship hold list pointer one object corresponding property instance variable

@@ -1,1 +1,0 @@
-Is it a good practice to put bug numbers in the file itself inside a header comment? The comments would look something like this:                MODIFIED    (MM/DD/YY)      abc 01/21/14 - Bug 17452317 - npe in drill across in dashboard edit mode           cde 01/17/14 - Bug 2314558  - some other error description      It seems helpful, but is it considered bad practice?

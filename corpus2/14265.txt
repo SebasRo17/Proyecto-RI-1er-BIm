@@ -1,0 +1,1 @@
+Can anyone help me plot this? log P(X >= x) = alpha logx x=0.001 + k(0.001) k= 0, ..., 100 I can't figure out the coding for this.. I've been trying this for a while, and can't seem to figure it out. I believe this is a stable distribution, but the built in function doesn't seem to have x^(alpha) so it's making me extra confused. Can anyone help me out? Thank you.

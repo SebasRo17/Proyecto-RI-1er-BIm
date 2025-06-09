@@ -1,1 +1,0 @@
-usually throw unit test together using copy paste kind bad practice unit test usually end looking quite ugly full smell really matter always tell long real good matter plus unit testing usually requires various smelly hack like stubbing function concerned poorly designed smelly unit test

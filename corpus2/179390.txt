@@ -1,1 +1,0 @@
-Scala has no _static_ -keyword, but instead has similar functionality through companion objects. Behind the scenes the companion objects are compiled to classes that have static methods, so all this is syntactic sugar. What are the advantages of this design choice? Disadvantages? Do other languanges have similar constructs?

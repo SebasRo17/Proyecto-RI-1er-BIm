@@ -1,1 +1,0 @@
-Is there a checklist the developer must go over before passing their work to testers ? Also, what are the conditions/cases the developer must pay attention to ?

@@ -1,1 +1,0 @@
-I want to implement Hotels and Airlines in my web application.People will come and will search for hotels and airline's tickets and will compare result. What are the ways to get these informations? Is there an API which give me all this for whole world? OR what are the other possible ways to get this data? Need to have some Crawler?

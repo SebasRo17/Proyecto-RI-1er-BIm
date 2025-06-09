@@ -1,1 +1,0 @@
-I am in charge of a project on github that has files that are and are not code based. Specifically, I am worried about our SolidWorks files. How do I ensure these files are covered by the GPLv3 license?

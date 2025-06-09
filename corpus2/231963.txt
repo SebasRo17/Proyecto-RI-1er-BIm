@@ -1,1 +1,0 @@
-Is it correct to say that factory method is essentially just a particular case of the abstract factory which produces the only one object not a group? I know that classic realizations assumes the architectural differences, but the point of a pattern is not only a concrete realization but a conceptual abstraction, isn't it?

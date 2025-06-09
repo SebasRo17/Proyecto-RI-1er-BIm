@@ -1,1 +1,0 @@
-With my fellow engineers we are putting in place a release process in a team that formerly was made only of biologists. I am going to make a presentation to explain the process to them and explain what advantages it brings. I am looking for one example of a project that failed or got into real trouble due to the lack of release process. Are you aware of any ?

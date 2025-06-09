@@ -1,0 +1,1 @@
+When I edit a cell in the notebook and re-evaluate it, it "overwrites" the input and the output of the previous edit. I want it to copy my edited version to the bottom or something and give me a separate output, not overwriting the old results or old input.

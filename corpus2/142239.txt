@@ -1,1 +1,0 @@
-Who decides the API deprecations the JEE specification or the vendor of JDK like Sun, IBM?

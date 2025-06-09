@@ -1,1 +1,0 @@
-trying learn lua experimenting linux machine programmer looking help give suggestion want accomplish making compile rewrite recompile cycle efficient possible using vim one window program shell open another window want check progress save vim switch shell execute however still kind tedious faster elegant way idea go problem

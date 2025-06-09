@@ -1,1 +1,0 @@
-As a Java programmer I need to learn algorithms (for programming Challenges). I read some Head First Series (JAVA owned by me) and they are pretty brain friendly. So I was wondering is there any algorithm book that will be simple to understand and also goes to the crux of each algo.

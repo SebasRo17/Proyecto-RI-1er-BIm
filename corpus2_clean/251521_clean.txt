@@ -1,1 +1,0 @@
-learning system design still clear thing assume simple application front end database storing system architecture diagram two part ui db include ui module calculation example hardware device system using give precise example application used two type user one limited access app us db module working external hardware device sure start system diagram

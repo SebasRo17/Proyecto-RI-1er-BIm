@@ -1,0 +1,1 @@
+I use               CreateDocument[cells, opts]       to create a notebook. When the notebook is open, it has a small default windows size and I need to manually maximize it every time. Is there a good way to have it maximized by default?

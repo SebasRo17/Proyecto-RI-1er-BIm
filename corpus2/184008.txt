@@ -1,1 +1,0 @@
-I'm looking at doing my first mobile development using Mono Touch and Mono for Android. I'd like them to communicate with an ASP.NET MVC 4 site I'm designing. I've worked with WCF and WebAPI in the past but I'm wondering if there are any **quantifiable** advantages to using one over the other in this context?

@@ -1,1 +1,0 @@
-large memory node tree need traverse tree passing returned value child node parent node done node bubble root node traversal work like private execute node value new child count num child count value execute child recursive process value public start node result execute work fine worried call stack limit size node tree rewritten recursive call execute made

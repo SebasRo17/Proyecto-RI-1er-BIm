@@ -1,1 +1,0 @@
-I'm looking at the basic strcpy function. It is               char *strcpy( char *dest, const char *src );      Which reminds me of assembly language: `MOV DEST, SRC`

@@ -1,1 +1,0 @@
-trying follow lsp practical programming wonder different constructor subclass violate would great hear explanation instead yes thanks much p answer make different strategy different without violating lsp public virtual use num public public b b c operation b virtual use std cout c private c c public public e e f operation e virtual use std cout f private f f

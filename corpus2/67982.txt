@@ -1,1 +1,0 @@
-Is it ever a good idea to hardcode values into our applications? Or is it always the right thing to call these types of values dynamically in case they need to change?

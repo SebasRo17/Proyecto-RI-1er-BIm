@@ -1,1 +1,0 @@
-reading property defines atomic action curio example x num num x num num use definition say indeed x num atomic referenced another thread x read thread result action deterministic could num num depending operation computed first might wrong start atomicity suppose grant kind determinism

@@ -1,0 +1,1 @@
+How do I get               Solve[(1/9)^(r/2) == 1/n , r]       to give me                Log[n]/Log[3]      and not `-Log[1/n]/Log[3]`?

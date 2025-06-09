@@ -1,1 +1,0 @@
-Is that correct that a mutex object in Linux cannot be used for cross process synchronization as opposed to its Windows counterpart? If that is true - what was the idea to limit mutex synchronisation functionality on Linux?

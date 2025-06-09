@@ -1,1 +1,0 @@
-problem change x 2d 0 calculate minimum step single step consists changing entire row column required example like x x x x num num x num num minimum number step required num thought brute force approach checking row wise column wise comparing check take minimum number step would give answer num desired help clue regarding approach problem would appreciated thanks

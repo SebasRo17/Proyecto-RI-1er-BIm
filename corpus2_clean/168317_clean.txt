@@ -1,1 +1,0 @@
-eclipse us osgi handle module bundle therefore able hot deploy suggest restart installing plugin change take effect eclipse hit osgi limitation architecture even hot deploy cannot guarantee deployment went smoothly hence take safest route offering restart

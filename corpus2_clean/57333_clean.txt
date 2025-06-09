@@ -1,1 +1,0 @@
-planning using scripting automated ui testing application written c want scriptable everything end user programmatically avoid opinion based question like think software provides interface scripting like vba macro excel future programming big small although inside would great go question suitable purpose building interface application dll based approach parsing scripting language

@@ -1,1 +1,0 @@
-Intel 3000 graphics should be decent enough for developing 3D Android apps, correct? I mean, if the phone can handle it, so can onboard graphics?

@@ -1,1 +1,0 @@
-Are there any differences between the Rational Unified Process (RUP) and the Unified Process (UP)? What does "Rational" mean, in this context?

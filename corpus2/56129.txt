@@ -1,0 +1,1 @@
+Let's create some sample data               n = 10;     data = Table[{RandomReal[], RandomReal[], RandomReal[], RandomReal[],      RandomInteger[{-1, 2}], RandomInteger[{0, 15000}]}, {i, 1, n}]      Now, I want to find the minimum and the maximum value of the last column (#6) only when the fifth one has an integer value 1 or 2, thus excluding the -1 and 0. Any suggestions?

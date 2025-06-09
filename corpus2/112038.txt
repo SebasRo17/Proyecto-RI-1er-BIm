@@ -1,1 +1,0 @@
-This question is inspired by this one. What was the initial goal of inventing SOAP? Why was it invented when we had old kind HTTP and REST?

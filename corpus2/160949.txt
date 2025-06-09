@@ -1,1 +1,0 @@
-Why do we need to separate classes which have different functionality? For example, why should we separate a car class from a paint class. What would be the OOD concept behind this? Is there anything else apart from code reuse and modularity?

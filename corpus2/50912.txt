@@ -1,0 +1,1 @@
+I have an EXCEL file in which large amount of numbers is stored in a column in the first sheet, like data in the column A of the sheet1 of excel file. When I apply the Import function; the data is imported into Mathematica like this: {{{1},{2},{3}}}. But I want them to be in form of a one dimensional table or array like: {1, 2, 3}. How is this possible?

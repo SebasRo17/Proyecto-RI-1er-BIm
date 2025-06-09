@@ -1,1 +1,0 @@
-A question for seasoned developers. Do you still get a sinking feeling when you see a stack dump? Any feelings of agitation, alarm, cold feet, confusion, consternation, dismay, dread, fear, trepidation? Why? For me it usually means that I'm not 100% sure about my design or I have not done enough testing of my code.

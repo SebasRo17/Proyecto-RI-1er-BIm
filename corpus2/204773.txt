@@ -1,1 +1,0 @@
-JVM supports so many languages other than Java like `Groovy,Clojure,Scala` etc which are functional languages unlike Java(I am referring to _Java before Version 8_ where `Lambda's` are not supported) that doesn't support functional capabilities.On a high level what makes the JVM so versatile that it can support both Object Oriented as well as Functional languages?

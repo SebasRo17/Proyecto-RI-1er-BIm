@@ -1,1 +1,0 @@
-created window form using visual studio design simply drag n drop component form toolbox possible import blend change using blend opened project blend appears form thanks advance

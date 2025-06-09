@@ -1,1 +1,0 @@
-assume interface containing method car find long id list car find model better rename like car findbyid long id list model indeed developer use api need look interface knowing possible argument initial find method question general benefit using overloaded method since reduce readability

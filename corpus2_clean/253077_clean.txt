@@ -1,1 +1,0 @@
-eventually would like generalize solution work tuple length think recursion required able def x range num num range num num z range num num str x str str z num num num

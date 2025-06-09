@@ -1,1 +1,0 @@
-I am reading Pro C#. It says > do be aware that the value 0 is automatically returned, even if you > construct a Main() method prototyped to return void. What does prototyped mean in this context? The only C# related definition of a prototype I'm aware of has to do with a model or test program tossed together without the intention to go to production.

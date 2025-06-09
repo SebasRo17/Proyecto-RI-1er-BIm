@@ -1,1 +1,0 @@
-There seems to be a lot of discussion of the various speed merits to C or C++ as compared to say Java or Python, but I rarely see Objective-C mentioned. Roughly where does it fall in terms of language performance?

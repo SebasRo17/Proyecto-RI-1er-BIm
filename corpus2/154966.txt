@@ -1,1 +1,0 @@
-In Entity-Framework, you can create a DB schema, and then generate your ORM classes. Is there any software that does this in reverse? For example you create a few classes that have relationships, and software generates a database schema with the relevant primary and foreign key relationships?

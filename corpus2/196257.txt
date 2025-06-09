@@ -1,1 +1,0 @@
-My organization is moving to Agile process of software development. As part of it, the developers and quality engineers will sit together with the cubicle walls scaled down. I am just wondering how does it satisfy one of the Joel's test - **programmers should have quiet working conditions**. Does it not contradict it? If yes, is it taken as granted while adopting Agile ?

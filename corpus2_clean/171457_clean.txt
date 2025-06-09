@@ -1,1 +1,0 @@
-point using dto dated concept use pojos view layer transfer persist pojos considered alternative dtos

@@ -1,1 +1,0 @@
-I want to know the differences between normative and informative annexes in Ada 95. I am just able to find a list of each of them but not the differences. What are the differences?

@@ -1,1 +1,0 @@
-What are the relative pro's and con's of both DFA's and NFA's when compared to each other? I know that DFA's are easier to implement than NFA's and that NFA's are slower to arrive at the accept state than DFA's but are there any other explicit, well known advantages/disadvantages?

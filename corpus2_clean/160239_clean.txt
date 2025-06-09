@@ -1,1 +1,0 @@
-setting continous integration environment always entail build server pull merge branch something never want depending automatic merge would usually end issue requires manual intervention

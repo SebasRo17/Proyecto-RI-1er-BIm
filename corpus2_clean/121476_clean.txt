@@ -1,1 +1,0 @@
-solved different declaration puzzle haskell x1 argument x2 pointer argument x3 return pointer argument x4 pointer argument argument return pointer argument x5 num num pointer function argument argument return pointer argument num pointer num pointer function argument argument return pointer argument returning pointer pointer returning num num num pointer returning pointer num

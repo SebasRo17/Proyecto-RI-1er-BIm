@@ -1,1 +1,0 @@
-general rule avoid stack overflow big object allocated heap correct wrong since heap stack expand towards cause heap overflow alternatively limit space stack higher chance stack overflow

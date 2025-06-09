@@ -1,1 +1,0 @@
-I have a small time software firm. Recently we got a major project that the other company wants to sell. We will be making a website and multi-platform mobile apps We are coding in PHP, JAVA, HTML. Do I need any sort of license to use these languages? Seeing that we need to sell this... We will also be using google maps. What sort of permissions will we need from google?

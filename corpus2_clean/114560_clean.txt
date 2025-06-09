@@ -1,1 +1,0 @@
-possible duplicate tab versus space proper indentation character everything every situation ever always used tab c c etc going google c coding guideline num found say must use space tab think reason ask tab show inconsistent result across different editor something similar anyone know reason might

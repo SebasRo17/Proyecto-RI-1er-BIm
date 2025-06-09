@@ -1,1 +1,0 @@
-language even server instead running script page load apache php ruby rail actually keep loaded running forever receives connection call like event basically really know call went passive web server basically sleeping till event occurs instead fully unloaded cached

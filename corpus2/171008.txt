@@ -1,1 +1,0 @@
-Cloud computing is a model of renting resources - servers and data storage. Both servers and data storage have been around for much more than a decade so far. Yet cloud computing offers only appeared several years ago. What's the deal here? What was the critical change that triggered massive adoption and massive marketing of cloud computing offers?

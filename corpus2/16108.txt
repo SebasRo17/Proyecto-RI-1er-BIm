@@ -1,0 +1,1 @@
+I am not sure how to find out what all is included as curated data. For example, are the individual images of each of the 52 cards in a standard deck of playing cards included? If not, is there a way to systematically access these from web images?

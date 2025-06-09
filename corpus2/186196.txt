@@ -1,1 +1,0 @@
-In Java,C++,Objective C, C#, and all other similar OOP languages, Why don't we use a class with static methods and vars instead of going through a singleton syntax having to deal with various scenarios ?

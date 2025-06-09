@@ -1,1 +1,0 @@
-It seems that there is a whole mess around current JCP. Quite of number of highly respected guys like Doug Lea, Tim Peierls had quit JCP. Reference : Is JCP dead? and Final results of the JSR Review Ballot for JSR #336 This put Java in an unfavorable future. As a Java developer, will you still consider using Java in your next project?

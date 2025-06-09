@@ -1,1 +1,0 @@
-A colleague is pushing clearing the client browser's history (i.e. back- button) when they logout of our web application. Is this considered a good practice? It strikes me as a really intrusive. If only conditionally, what conditions need to be in place for this practice to be useful?

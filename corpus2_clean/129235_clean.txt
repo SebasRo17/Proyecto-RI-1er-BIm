@@ -1,1 +1,0 @@
-would like know opinion declaration hand parameter type language inference like scala reason infer type

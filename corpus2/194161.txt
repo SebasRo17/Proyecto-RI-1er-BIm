@@ -1,1 +1,0 @@
-I have aquestion, lets say im trying to maximize: S=∑j=1nfj(xj) subject to ∑j=1nxj≤B, where B∈ℤ+ and fj:ℝ→ℝ. how would i do this using dynamic programming and what would be the states and recursive formulation. Also how would I go about finding the time complexity of this method? Any help would be much appreciated kind regards

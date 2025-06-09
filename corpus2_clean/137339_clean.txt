@@ -1,1 +1,0 @@
-term performance issue caused someone creates performs hundred thousand action could done bulk example keep running loop group id perform single query id retrieve associated row instead creating single query

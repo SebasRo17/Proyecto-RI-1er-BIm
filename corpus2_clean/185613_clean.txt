@@ -1,1 +1,0 @@
-say typical mvc setup controller pass model asks something validation fails problem best way getting error passed back controller pas view displayed user moment error model error occur simply add message controller know error occurred controller boolean result model process result view model geterrors else view better way handling

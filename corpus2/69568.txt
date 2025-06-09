@@ -1,1 +1,0 @@
-Say you have a property `startTime`. Then you have a method `doSomething`:               doSomething() {        //...stuff        startTime = System.currentTimeMillis();        //... more stuff     }      How do you test that `startTime` was assigned correctly? You can't test against an absolute timestamp - it'll likely change between assignment and test. Maybe use a range?

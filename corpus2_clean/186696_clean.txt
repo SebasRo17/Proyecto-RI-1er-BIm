@@ -1,1 +1,0 @@
-know building application native web apple appstore google play app store common use model view controller architecture however reasonable also create application using component entity system architecture common game engine

@@ -1,1 +1,0 @@
-Was research on how (for convetion) define a Many Many where table where both fields are primary key and found this post. So decide to install the Iesi.Collections in my library domain. But there came a doubt. In the "Iesi.Collections" outperforms "System.Collections" Iesi.Collections? Why should I use? It is better in performance?

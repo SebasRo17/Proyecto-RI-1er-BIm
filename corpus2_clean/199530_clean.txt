@@ -1,1 +1,0 @@
-got table userprofiles database similar c setting file hold property appropriate datatype specified setting profile time add new setting need update database model end rewriting query thought changing table contain two column key varchar datatype store user setting considered best practice design question approach advisable example need custom parsing needed datatype

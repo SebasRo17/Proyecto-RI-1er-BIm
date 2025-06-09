@@ -1,1 +1,0 @@
-dao utilizes spring jdbc access calculates seller success rate selling item public bigdecimal long seller id sql select sum sold price num num sum num transaction seller id seller id sql bigdecimal go testing dao junit best practice test access logic thinking testing embeddable database loaded integration test similar production environment term rdbms schema

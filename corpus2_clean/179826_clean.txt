@@ -1,1 +1,0 @@
-support non english character common programming language mean technically would think feasable experience anything english know common know non english based programming language something like c c c support non english class method variable example go url package import fmt struct func fmt println hello new hello world fmt println

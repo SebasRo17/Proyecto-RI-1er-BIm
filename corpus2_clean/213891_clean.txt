@@ -1,1 +1,0 @@
-really confused see lot memory database implementation used testing also heard lot integration testing best practice environment running test resemble closely possible production environment including operating system library database engine etc missing

@@ -1,0 +1,1 @@
+In Mathematica, default frame label will put labels at the bottom and the left. The label on the left reads from the bottom to the top. I would like to also put label on the right of the frame, but this label also reads from bottom to top. How can I make the right label read from top down?

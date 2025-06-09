@@ -1,1 +1,0 @@
-As far as I can tell, services like Travis CI and CircleCI take your project and run its test suite whenever you push a new change to your repository. Assuming that it's also possible to either manually or automatically run such test suite locally before you commit or push your change, what's the point in using a service like this?

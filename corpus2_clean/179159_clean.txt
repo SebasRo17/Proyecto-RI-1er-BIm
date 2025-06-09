@@ -1,1 +1,0 @@
-see link explicitly stated agile literature read wondering approach correct let story defined order result role need action num result generates system test num role generates acceptance test num action generates component unit test definition one used xunit pattern fair fairly standard correct interpretation misunderstand something

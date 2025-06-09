@@ -1,1 +1,0 @@
-building blogging site learning php mysql back end user handled form sent post request using json somehow make cleaner easier maintain add feature adding interchange format reason essentially functionality would best implemented using json

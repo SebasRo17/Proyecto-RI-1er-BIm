@@ -1,1 +1,0 @@
-keep simple want make c method work like javascript function mainly convert var num stack push c way matter complex time consuming

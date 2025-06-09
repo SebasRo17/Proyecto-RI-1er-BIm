@@ -1,1 +1,0 @@
-I am trying to find max value of an array, firstly i am shorting my array min to max after that i am using array[array.length-1] Is this logic efficient in large arrays?               public static int findMax(int[] array){              Arrays.sort(array);              int max = array[array.length-1];              return max;     }//end method

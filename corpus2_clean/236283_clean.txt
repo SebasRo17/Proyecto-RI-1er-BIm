@@ -1,1 +1,0 @@
-company developing net application need work num inch num inch monitor using resolution question whether expect different behavior layout two screen size theoretically since resolution clipping ui issue although maybe wpf behave differently different dpi obviously difficult read text num screen monitor maybe low quality portion image visible larger screen expect surprise

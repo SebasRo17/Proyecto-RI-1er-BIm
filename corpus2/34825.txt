@@ -1,0 +1,1 @@
+I have an expression which is simply               (j/k) x^(j/k) LerchPhi[x,1,j/k)]       where `0 < j < k`. Manually I have been able (tedious work) to obtain only `ArcTan`'s and `ArcTanh`'s. How could I ask _Mathematica_ to do this automatically in the most compact form ?

@@ -1,1 +1,0 @@
-common definition lock free least one process make progress num simple structure queue protected lock one process always make progress one process acquire lock want release meet definition lock free num see eg herlihy v obstruction free synchronization double ended queue example distributed computing num lock free ensures thread always make progress

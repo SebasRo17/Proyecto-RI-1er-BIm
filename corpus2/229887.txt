@@ -1,1 +1,0 @@
-I imagine they have to have some sort of query to goes to a database , or maybe I'm wrong and they can just store it to their computer? Is MySQL for server - side scripting only?

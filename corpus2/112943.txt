@@ -1,1 +1,0 @@
-I have seen a tool (Shed Skin) to translate one high-level language to another high-level language. Apart from knowing those languages what are the other areas of technical knowledge required to develop this kind of translators?

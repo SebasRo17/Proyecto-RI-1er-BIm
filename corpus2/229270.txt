@@ -1,1 +1,0 @@
-I have a git repository, and I'd like to make a "debug" branch. In the "debug" branch, I'd like to add a line:               debug = true;      But I want to make sure that any merges back to master ignore that change. Is there any way to set that up in way that doesn't require me to manually handle all future merges?

@@ -1,1 +1,0 @@
-client running multiple version multiple browser currently support ie7 ie8 ie9 num safari num chrome site work named browser ie feature called compatibility mode current existence problem compatibility mode form button work differently get detail would major effort make site support compatibility mode something frequent request rocker push back client tell option

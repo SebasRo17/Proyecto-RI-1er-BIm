@@ -1,1 +1,0 @@
-Has anybody got an idea why the area of main memory where objects are allocated is referred to as the heap. I can understand the rationale for that of the stack LIFO but would like to know what the rationale is for the 'heap' name.

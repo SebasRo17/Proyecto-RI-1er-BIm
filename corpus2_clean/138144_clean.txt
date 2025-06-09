@@ -1,1 +1,0 @@
-people say service locator bad expose dependency random constructor argument like f db query instead protected db construct db db db db f db query consider like gd obviously inject call somewhere like service thing dependency instantiating method like pdo thing exactly like service fuss service locator evil

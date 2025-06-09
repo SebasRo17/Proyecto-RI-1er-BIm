@@ -1,1 +1,0 @@
-I hear the usage of manifests in various ways but never have had the need—to my knowledge—to use one. What are they and how are they used? EDIT: I'm curious about manifests in general with any language.

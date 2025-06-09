@@ -1,1 +1,0 @@
-What's the historical significance of abbreviating say, an L1 cache as L1$?

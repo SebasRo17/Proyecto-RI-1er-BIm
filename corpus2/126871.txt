@@ -1,1 +1,0 @@
-I have a graph with an Eulerian cycle and no Hamiltonian cycles. I would like to divide this graph into simple cycles.   Edges may not be repeated in simple cycles. How can this be done?

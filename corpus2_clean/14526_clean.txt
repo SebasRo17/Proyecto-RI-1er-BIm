@@ -1,0 +1,1 @@
+understand use chop force small number treated use possiblezeroq way test whether number might effectively applying chop every time small number close zero order make zero tedious error prone possiblezeroq seems idea constitutes global setting let treat every number smaller specified value effectively applying chop automatically result specify large number possiblezeroq recognize

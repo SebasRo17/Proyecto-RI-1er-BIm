@@ -1,1 +1,0 @@
-writing single var declaration per considered good readability maintainability went standard library dev version strictly follow example underscore multiple var statement many spread randomly declared required reason follow single var rule

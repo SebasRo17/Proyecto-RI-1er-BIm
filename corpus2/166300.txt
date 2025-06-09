@@ -1,1 +1,0 @@
-This is purely an exercise in self improvement and education.I am trying to implement an extension for a vi-like text editor within a browser. Can anyone give any advice or pointers as to where and how I should start?

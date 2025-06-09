@@ -1,1 +1,0 @@
-good use nested class use namespaces instead context templated codec loader codec object object template codec private typename reader typename writer hand cannot use using dont want way static

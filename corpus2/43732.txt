@@ -1,1 +1,0 @@
-Delphi has a few problems implementing some design patterns because some features it lacks, like multiple inheritance and no pure abstract classes. Are there any good resources or "Adaptation-Patterns" to convert some or all of the Design Patterns in the GoF book, to Delphi applications?

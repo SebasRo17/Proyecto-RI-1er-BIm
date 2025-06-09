@@ -1,0 +1,1 @@
+I'm looking for the `FrontEnd`Foo[...]`-like command that's triggered when pressing `Ctrl + /`. Are there any discoverability features in Mathematica that would have helped in this case? E.g., in Emacs I could have just pressed `Ctrl + h k Ctrl + /` ("Find function for key `Ctrl + /`").

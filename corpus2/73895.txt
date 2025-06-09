@@ -1,1 +1,0 @@
-We are internally debating in our team if we should continue to run our production boxes with logs turned off completely and just log errors and exceptions with log rotations. I want to know how everyone else logs info in their production environment and any particular strategy/tool that has worked well for you. Thanks Isaq

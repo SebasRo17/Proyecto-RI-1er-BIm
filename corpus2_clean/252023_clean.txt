@@ -1,1 +1,0 @@
-learning c find odd creator chose asterisk symbol pointer rather symbol actually look like pointer considering confusing dereferencing pointer historical even practical reason using asterisk

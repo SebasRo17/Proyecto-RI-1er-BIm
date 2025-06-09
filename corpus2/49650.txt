@@ -1,1 +1,0 @@
-I'm wondering why it isn't called Microsoft Communication Foundation. Does it rely on Windows and will it rely on Windows in the foreseeable future?

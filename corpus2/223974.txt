@@ -1,1 +1,0 @@
-Are the IETF BCP 47 language tags defined as enums anywhere in JDK? For `Locale.forLanguageTag()` we pass values like `fr-FR`, `jp-JP` etc. Are there any enums already provided by JDK for it? Or should the developer be writing a custom enum for that? How to handle it in i18n application?

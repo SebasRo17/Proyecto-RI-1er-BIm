@@ -1,1 +1,0 @@
-ran several oddity using javascripts floating point arithmetic never recall top head common mistake using javascript math

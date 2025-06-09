@@ -1,0 +1,1 @@
+I am trying to make a simple plot of a spherical field falling off with distance from origin:               VectorPlot[{x, y} / EuclideanDistance[{0, 0}, {x, y}]^2, {x, -3, 3}, {y, -3, 3}]      I just get dots. Why do I get this? ![enter image description here](http://i.stack.imgur.com/oFgFY.png)

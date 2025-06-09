@@ -1,1 +1,0 @@
-I'm trying to figure out what are the key technological innovations or inventions that the "cloud" introduces as an improvement over web pages; or maybe over SAAS. Seems to me that "cloud" is merely a new marketing word for technology that's been around for a while.

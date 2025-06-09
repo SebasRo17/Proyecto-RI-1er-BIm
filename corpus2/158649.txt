@@ -1,1 +1,0 @@
-I'd like to know what are the main difference between the Foundational Subset for Executable UML models and the Executable UML profile (which followed the Schlaer-Mellor methodology). Thank you

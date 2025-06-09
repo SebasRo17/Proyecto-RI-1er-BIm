@@ -1,1 +1,0 @@
-I tried programming Scala in Netbeans and Eclipse, but it is not what I'm looking for. In Netbeans suggestions for method names etc. are not working. In Eclipse I can't go to some classes sources by pressing F3. (e.g. scala List). Is support in IntelliJ IDEA any better? Are there other IDE's supporting Scala?

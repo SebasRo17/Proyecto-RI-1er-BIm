@@ -1,1 +1,0 @@
-want scrape thing web page way want extract text dom element believe correct description mean retrieve text element like document frame item num document innerhtml looking tool quickly clicking element web page ie dom inspector free requires admin right computer able get reference dom element using dom inspector plug firefox alternative tool

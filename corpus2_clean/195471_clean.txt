@@ -1,1 +1,0 @@
-working tought need learn css3 shorthand property know affect website loading time need optimize little bit thinking order write property value using shorthand prop example font num 5em bold italic serif

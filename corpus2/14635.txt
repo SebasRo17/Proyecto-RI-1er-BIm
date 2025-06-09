@@ -1,1 +1,0 @@
-... that is, the inputs and outputs of service functions ? Are entities, or aggregates, allowed to leave service boundaries?

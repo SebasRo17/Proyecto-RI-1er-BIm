@@ -1,1 +1,0 @@
-I'm studying fundamental algorithms (quicksort, mergesort, binary trees, etc..) and I'm going to re-code every algorithm by scratch to learn how they work. Should I code them in C or C++? I think with C++ I should use STL, in C everything should probably be longer Is there a reason why I should pick one over another?

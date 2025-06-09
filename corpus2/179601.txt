@@ -1,1 +1,0 @@
-I want to ask – I am slowly learning jQuery. What I see is an **_exact example_** of a God Object anti-pattern. Basically, everything goes to the `$` function, whatever it is. Am I right and is jQuery really an example of this anti-pattern?

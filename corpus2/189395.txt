@@ -1,1 +1,0 @@
-Is there a well-known, trusted open source script that we could use as a starting point to build a web-based analyser tool for our application that would be similar in functionality to the Firefox check add-ons tool? For example, check against a specified version of Java, screen resolution, browser versions, etc. Thanks, Kerrin

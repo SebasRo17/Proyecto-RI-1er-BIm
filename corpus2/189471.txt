@@ -1,1 +1,0 @@
-Say you have a language compiler you would like to build an IDE for. How is auto completion, instant error reporting while writing code and debuggers commonly implemented?

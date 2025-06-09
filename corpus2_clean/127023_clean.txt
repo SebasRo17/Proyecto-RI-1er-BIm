@@ -1,1 +1,0 @@
-reading another thread guy asked c book beginner one programmer answering wrote warning avoid book present hello world stating include iostream h opened c book sure enough included iostream header like example bad pointer keep mind learning c background proficient c start learn c next semester

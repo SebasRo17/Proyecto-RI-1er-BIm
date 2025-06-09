@@ -1,1 +1,0 @@
-Are there any studies on the relationship between software testing practices (unit and/or integration tests) and developer productivity?

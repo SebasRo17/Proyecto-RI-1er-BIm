@@ -1,1 +1,0 @@
-Can we use C programming to build a game or it has certain limitations may be it is not graphically rich i guess. can we build games like temple run your candy crush using C programming.

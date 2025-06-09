@@ -1,1 +1,0 @@
-I was wondering would it be worth using a form of standard such as Hungarian Notation/Systems Hungarian? Why would I bother if everything I'm doing now is working fine?

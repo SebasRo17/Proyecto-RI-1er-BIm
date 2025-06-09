@@ -1,1 +1,0 @@
-I am new to jQuery and mobile apps development. I know the features of jQuery Mobile. I want to know where and why to use it. Can I use jQuery Mobile if I am developing a native app?

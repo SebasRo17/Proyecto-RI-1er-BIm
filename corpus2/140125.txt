@@ -1,1 +1,0 @@
-There are multiple ways of tracking code ownership (i.e., collective, team or individual). In case of team or individual ownership, how do you:   * track ownership?   * deal with situations when dev leaves or team splits/re-organizes for new projects?

@@ -1,1 +1,0 @@
-Last week I started making daily backups of my relatively small (~300mb) site. The backups are zipped, so it's less space, but it will quickly add up, especially as my site gets bigger. I was thinking of unzipping the latest backup, and from now on just using mercurial to add/update files from newer backups. Are there any drawbacks to this? Is there a better way to do it?

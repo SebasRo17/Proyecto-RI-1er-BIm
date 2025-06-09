@@ -1,0 +1,1 @@
+How can I paste data copied from several lines into a piecewise table, without pasting it in a single cell? ![1st Step](http://i.stack.imgur.com/x8SCJ.png) ![2nd Step](http://i.stack.imgur.com/tsYHx.png) ![3rd Step](http://i.stack.imgur.com/b2ZMY.png)

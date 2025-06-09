@@ -1,1 +1,0 @@
-developing fat32 driver bootloader thought make complete adding long file support watching around specification also found article microsoft suing infringement patent something basically workaround knowing event made think fair patent thing workarounds

@@ -1,1 +1,0 @@
-We are planning to add a "SMS verification account" option for our customers. (So we will only send SMS. We do not need a short code.) We have found several companies who offer SMS gateways through REST APIs (we use PHP). As we are totally new to the SMS world, we are wondering: What are the key points to pay attention to/evaluate to select a good SMS gateway?

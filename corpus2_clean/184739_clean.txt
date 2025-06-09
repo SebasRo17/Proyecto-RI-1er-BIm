@@ -1,1 +1,0 @@
-currently building audio streamer cpp dll use function inside wpf c gui program need deal sort event lower increase volume manipulate equalizer band point used named event deal issue would better way handling event gui dll event system use dll spawn thread would better smarter beneficial better practice use named pipe instead

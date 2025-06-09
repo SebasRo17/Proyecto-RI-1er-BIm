@@ -1,1 +1,0 @@
-I am using ReSharper since version 3 and I always used InteliJ Idea/Resharper 2.x keymap schema. Recently I have learned Ilya's Visual Studio keymap. They each have advantages. **What keymap do you use/prefer with ReSharper?**

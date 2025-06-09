@@ -1,1 +1,0 @@
-given num queue q1 q2 q1 already filled n element q2 empty reverse element q1 cannot use space apart q2 operation permitted would q enqueue q dequeue time complexity nlogn found question less popular website num reverse queue using extra queue answer also able understand solution anyone help question

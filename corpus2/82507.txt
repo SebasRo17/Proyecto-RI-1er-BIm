@@ -1,1 +1,0 @@
-On one project we are looking at where to implement workflows. Does anyone have experience with both FileNet and WPS (or know of any studies), that could say anything about the amount of effort required to create a workflow in the 2 products?

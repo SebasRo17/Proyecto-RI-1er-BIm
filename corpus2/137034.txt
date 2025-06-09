@@ -1,1 +1,0 @@
-In C, I often come across errors with code like this               prio_queue->head[index] = newEntry;        Yields a " "Cannot assign Entry** to Entry* " How do you prevent/debug errors of this type, in general?

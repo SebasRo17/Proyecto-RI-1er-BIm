@@ -1,1 +1,0 @@
-I want to check that people who registrates in my site and check in country box , for example, Argentina is really living in Argentina. How can I make sure that people is really living in that country and not access to my site via proxy or VPN?

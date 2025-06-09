@@ -1,1 +1,0 @@
-_Should_ I be _studying_ big softwares written by other people in our company? My work may be a small sub module on the top of that software, and I may not be required to know what goes beneath the hood, _but_ **Does understanding other people's code grow my knowledge about programming methods or anything else?**

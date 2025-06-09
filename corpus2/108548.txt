@@ -1,1 +1,0 @@
-To elaborate I am interested in knowing what people think you need to put in place while still a one man project (team source control, documentation, builds etc) and what things don't need to be done until that point when the second person comes onto the project. Anyone with any experience of moving through this scenario, their insights will be appreciated.

@@ -1,1 +1,0 @@
-So there's this desktop application. And I am wanting to inform it's users that a new version has been released. Is it more correct to say that a new version of a desktop application has been 'released' or 'deployed' (as with a web app)?

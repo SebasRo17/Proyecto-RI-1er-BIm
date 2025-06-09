@@ -1,0 +1,1 @@
+How can I **convert** expression `a1*u1+a2*u2+a3*u3` to the vector form of dot product `A.U`, where `A={a1,a2,a3}` and `U={u1,u2,u3}`?

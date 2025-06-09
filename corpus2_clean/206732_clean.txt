@@ -1,1 +1,0 @@
-today asked interview question could answer two instance person synchronized one multiple thread accessing make sure one access time different object one thread wait entering question wanted make synchronized across instance person object

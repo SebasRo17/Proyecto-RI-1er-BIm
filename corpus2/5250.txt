@@ -1,0 +1,1 @@
+Could somebody please tell me, why I am always getting an error message when trying to run the following code:               DSolve[y'[x] == c*(d - y[x]) - b*(d - y[x])*y[x] && y[0] == y0, y, x]      The error message:               DSolve::bvfail: For some branches of the general solution, unable to solve the     conditions.

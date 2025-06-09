@@ -1,1 +1,0 @@
-created xml parsing logic force xml formatted like fooobject fooobject started think elegant way would fooobject fooobject fooobject fooobject recommendation good practice regarding already know element v attribute question please note mine different

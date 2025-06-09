@@ -1,1 +1,0 @@
-How do the blogging sites, Q&A sites (or any other sites host prose like content) store their data? That is, how do you store blogs and Q&A content in the database? I hope it is not good to store this huge text data inside RDBMS table columns.

@@ -1,0 +1,1 @@
+Mathematica has a function to convert TransferFunctionModels to StateSpaceModels:               mytf=TransferFunctionModel[(2 s + 3)/(s^3 + 4 s^2 + 5), s]     StateSpaceModel[mytf]      Is there a corresponding function that will convert to a zero-pole-gain model?

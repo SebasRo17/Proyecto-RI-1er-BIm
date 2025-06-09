@@ -1,1 +1,0 @@
-impression oauth authentication three party make sense implement oauth context client server server client html javascript currently authenticate via normal post credential server get cookie use cookie authenticate subsequent request implementing oauth benefit situation

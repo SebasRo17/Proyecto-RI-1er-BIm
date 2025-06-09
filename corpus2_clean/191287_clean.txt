@@ -1,1 +1,0 @@
-quality metric evaluation tool like sonar integrated ide running local analysis part build process like integrated maven continuous inspection combination leverage power tool maximum extent possible

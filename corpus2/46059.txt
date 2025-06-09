@@ -1,0 +1,1 @@
+The Pure Function tutorial gives an example: `Map[Function[x, x^2], a + b + c]`. I would expect the output to be `(a + b + c)^2`, but instead it returns `a^2 + b^2 + c^2`. `Map[Function[x,x^2],a+b+c]//FullForm` even gives `Plus[Power[a,2],Power[b,2],Power[c,2]]` which provides no clarity. What's going on here?

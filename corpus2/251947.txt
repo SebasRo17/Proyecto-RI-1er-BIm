@@ -1,1 +1,0 @@
-From Java I know that the signatures of methods that can throw exceptions contain a `throws` block, that contains the Exception(s) that might be thrown.   In C# there is no such thing and it is also not common practice to include such info in the XML-Header.   Is there a generally accepted way of drawing attention to potential exceptions or a place to commonly denote them?

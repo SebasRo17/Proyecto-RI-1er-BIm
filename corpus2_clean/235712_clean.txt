@@ -1,1 +1,0 @@
-coding good bit found project want work web app using django mongodb know want web app circumstance starting brand new project start first view first hope asked quick look could use general direction

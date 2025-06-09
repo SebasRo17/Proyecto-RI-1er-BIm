@@ -1,1 +1,0 @@
-writing first programming language orientated far good create single let say want class say classa classb provided two nothing good however say classa creates classb pose num related question would know compiling classa classb even exists know property thought thus far instead compiling time e scan parse generate file really file per se need scan parse first generate

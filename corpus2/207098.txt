@@ -1,1 +1,0 @@
-Is flat addressing model generally superior to a segmented one? If so, why? If not, what instances would call for each over the other and why? My understanding of memory models surrounds the IA32/x86-64 Architecture. So if you give architecture specific examples, they will be most helpful if kept relevant to that.

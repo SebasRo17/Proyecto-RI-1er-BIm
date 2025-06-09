@@ -1,1 +1,0 @@
-What I want is to run automatically methods to tests the performance of an application. Just like the unit tests, but with the purpose of evaluate the performance and create reports if is it possible. Is there any framework or tool to achieve this?

@@ -1,1 +1,0 @@
-Why is the Scala Option type not called Maybe, just as in Haskell? Maybe makes a lot more "semantic sense" to me, but maybe Option has different behaviour I am not aware of. Is there any particular reason why Option in Scala was not called Maybe?

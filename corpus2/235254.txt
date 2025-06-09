@@ -1,1 +1,0 @@
-In my domain I have an `Account` object. e.g.               class Account     {         public string Number;         public string SortCode;     }      Within the context of DDD, should this account object have an `ID` property? The `ID` would be a primary key, basically a database artefact.

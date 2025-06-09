@@ -1,1 +1,0 @@
-To be as restful as possible, is a user login better designed using a GET or a POST on a REST webservice? And why?

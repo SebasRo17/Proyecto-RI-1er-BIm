@@ -1,1 +1,0 @@
-If I write a client-side Javascript app (with a little bit of server interaction), how can I prevent people from copying the Javascript files to their own site? Should I, at all?

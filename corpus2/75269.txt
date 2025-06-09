@@ -1,1 +1,0 @@
-A common question in Tech Interview is to design a particular system, usually an existing product of the company. For example, "Design Google Docs". What is the expected answer for such a question? I mean, such systems surely have a complex design which is beyond the scope of any interview. What are the interviewers expecting in such a short time?

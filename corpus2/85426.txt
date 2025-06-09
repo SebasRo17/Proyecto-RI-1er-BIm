@@ -1,1 +1,0 @@
-I want to know whether it is possible to develop desktop applications using the PHP language. In my case, I have never developed one with it. If it possible, please give me referral link or detailed understanding of where i can improve my skills.

@@ -1,1 +1,0 @@
-I was just curious if anyone knew why the lightning bolt was selected to represent events in various IDEs? or when it was first used? From the top of my head the lightning bolt is used in visual studio, delphi and axure prototyping.

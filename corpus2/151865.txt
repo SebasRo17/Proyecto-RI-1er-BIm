@@ -1,1 +1,0 @@
-How do you keep released binaries under version control? This allows to track which stuffs are changed between each release. I mean to separate the released binaries from source repository. The released binaries are either built from Continuous Integration software or manually compiled.

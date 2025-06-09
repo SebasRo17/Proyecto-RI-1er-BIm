@@ -1,1 +1,0 @@
-What values in an application should be configurable, or otherwise not hard coded? Does this differ based on application type (batch vs UI) and are there any published standards or guidance on this topic (IEEE, ACM, vendor, etc)?

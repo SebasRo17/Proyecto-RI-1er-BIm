@@ -1,1 +1,0 @@
-I noticed Visual C++ 2010 (my current environment) and XCode both allow non- standard single-line comments in my C programs. Since these are both my target platforms, I assume it's fine to use it? VC++ 2010 doesn't support C99, so I'm limited to C89, though I know C99 added support.

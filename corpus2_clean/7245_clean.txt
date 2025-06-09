@@ -1,1 +1,0 @@
-question posed day another programmer remember long time ago wondering browser side include tag never considered specifically tag instructed browser include additional html source e g include src many folk make javascript call fill innerhtml accomplish outside javascript engine could accomplished browser would painful nested html body e consider aspect anywhere anyway

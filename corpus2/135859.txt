@@ -1,1 +1,0 @@
-I have a byte array stored in a file. I want the quickest, easiest way of viewing the image whether it is writing code or using a utility or web page.

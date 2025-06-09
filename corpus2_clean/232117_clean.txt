@@ -1,1 +1,0 @@
-developing web service need important action e money transfer protected accidental calling frontend asking user confirm action ok prevent accidental calling case developer mistake good idea action require confirmation token developer proceed

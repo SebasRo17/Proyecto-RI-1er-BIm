@@ -1,1 +1,0 @@
-I have two project A(.EXE) and B(.DLL) in the solution. A references B. If I delay sign both and send them for full signing. Will A be able to load B after ? Or do I have to get B fully signed first, and then add a binary reference to that in Project A, delay sign A and send for full signing ?

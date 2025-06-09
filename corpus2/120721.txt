@@ -1,1 +1,0 @@
-I know there are many papers describing these three paradigms but I'm looking for a schematic explanation. There are a few very good descriptions of aspect-oriented programming on here so I'm asking this question in the hope to get the kind of high-quality answer people at Stack Overflow are used to delivering.

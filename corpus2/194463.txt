@@ -1,1 +1,0 @@
-I would like to know, which Message Broker I should choose in case of communication among apps within a single PC, considering speed. Among Apache ActiveMQ , MSMQ , RabbitMQ , OpenAMQ which one is the fastest in case of communication among multiple apps on a single PC?

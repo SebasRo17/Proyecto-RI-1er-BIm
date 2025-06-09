@@ -1,1 +1,0 @@
-There seems to be a long-held belief (mainly by non-lispers) that lisp is better than most languages at AI. Where did this belief originate? And is there any basis in fact to it?

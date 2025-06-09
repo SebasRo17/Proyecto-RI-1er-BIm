@@ -1,1 +1,0 @@
-I have designed the interface of a mag app which would deliver digitized magazine in the size of A3 paper to the mobile phone. My choice of fileformat is jpg of each of the pages, but is there any better way to do this that using jpeg format. The file for one sample magazine was 16MB, and I'm stuck weather to deliver page by page or as a whole file which can be flipped

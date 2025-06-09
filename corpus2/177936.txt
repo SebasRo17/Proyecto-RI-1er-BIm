@@ -1,1 +1,0 @@
-I've heard that PHP is somewhat secure because Apache won't allow the download of raw PHP. Is this reliable, though? For example, if you wanted to password protect something, but didn't want to create a database, would something like `$pass = "123454321";` be safe? Bottom line, is it safe to assume that nobody has access to the actual .php file?

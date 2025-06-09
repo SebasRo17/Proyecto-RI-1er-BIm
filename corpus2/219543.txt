@@ -1,1 +1,0 @@
-Should a class know about its subclasses? Should a class do something that is specific for a given subclass for instance? My instincts tells me that is a bad design, it seems like an anti-pattern of some sort.

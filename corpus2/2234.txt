@@ -1,0 +1,1 @@
+> **Possible Duplicate:**   >  Clear complains that a variable is not a symbol or a string? `Clear["Global`*"]` Works for most variables, however if i do something like $ \delta_a = \alpha_a \Delta T d $ Then the `Clear` or `ClearAll` will not clear $ \delta_a $, short of `Quit[]` is there anything that can be done to clear variables with subscripts?

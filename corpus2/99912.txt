@@ -1,1 +1,0 @@
-just because i think we are not using the full potential of all possibilites here yet: What Pre/Post Commit Hooks (i.e. PHPUnit, PHPDoc) do you people use on your Team Git/SVN Servers? By now we do use a minification script (sadly only removes unneccessary space and comments and merges files), PHPDoc, PHPUnit and that's it already. Any good ideas that might be usefull as well?

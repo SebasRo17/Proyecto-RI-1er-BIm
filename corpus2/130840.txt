@@ -1,1 +1,0 @@
-I'm looking for an efficient algorithm to find clusters on a large graph (It has approximately 5000 vertices and 10000 edges). So far I am using the Girvan–Newman algorithm implemented in the JUNG java library but it is quite slow when I try to remove a lot of edges. Can you suggest me a better alternative for large graphs?

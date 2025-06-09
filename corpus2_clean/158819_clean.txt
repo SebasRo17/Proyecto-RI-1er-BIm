@@ -1,1 +1,0 @@
-reading concurrency practice brian goetz inside section stack mentioned thread get stack local variable intrinsically confined executing thread exist executing thread stack accessible thread mean thread execution stack

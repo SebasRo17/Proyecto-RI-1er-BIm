@@ -1,1 +1,0 @@
-Today I was asked this question during an interview: > What's gonna happen if we do not override hashcode method for our class, > then add it to `HashTable` and then try to get objects? Could you help me answer that?

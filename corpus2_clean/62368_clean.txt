@@ -1,1 +1,0 @@
-want explain design pattern niece always struggle largely due lack clear understanding design pattern suggest explaining pattern like mvc singleton factory repository etc simple term even kid num year old understand looking example ease helping understanding pattern example toy movie music etc

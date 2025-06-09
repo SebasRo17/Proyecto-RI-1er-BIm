@@ -1,1 +1,0 @@
-new opengl found lot library c also found glx friendly linux x server want basic stuff cannot find tutorial glx glx bad thing want small graphical thing without installing many library getting confused anyone suggest something tutorial simple compile found link example glx worked perfect error anyone please suggest find nice documentation better library

@@ -1,1 +1,0 @@
-developed open source php application currently us mysqli mysql extension backwards compatibility wondering switching compatible mysqli since php longer support mysql another reason like get away supporting mysql mysqli basically using mysqli way old mysql extension anyone explain good bad idea

@@ -1,1 +1,0 @@
-A common task in the working world is dealing with existing, but buggy code. What are some tips to improve your skills as a debugger?

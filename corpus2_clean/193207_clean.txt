@@ -1,1 +1,0 @@
-would like following fairly large set say billion row row multiple binary column would like generate estimated stats certainty row stats would simple form many row column num num num set obviously going entry viable solution honest would prefer touch set provide estimation would like everything used precomputed answer question set know algorithm technique solving problem

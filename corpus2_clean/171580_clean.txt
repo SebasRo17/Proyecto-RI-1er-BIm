@@ -1,1 +1,0 @@
-given list circle coordinate x moving every second different direction south east south west north east north west circle change direction hit wall sort like bouncing detect collide overlap sure use structure like binary search tree since coordinate vary every second tree build accordingly use vertical sweep algorithm time idea efficient way

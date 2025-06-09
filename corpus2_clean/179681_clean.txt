@@ -1,1 +1,0 @@
-problem statement problem statement given nxm grid 1 0 1 mark wall 0 indicate empty task identify number size largest whet curiosity find cell belongs seems like ad hoc problem since regular algorithm fit get logic writing algorithm problem get pseudo would great help note tried regular grid search algorithm suffice problem requirement source inoi q paper num

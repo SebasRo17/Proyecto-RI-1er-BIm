@@ -1,1 +1,0 @@
-stackoverflow question asks get microsoft object turn answer probably ctp4 first release entity framework num however lot guess including system entity framework microsoft microsoft practice num year ago someone asked similar question might gotten dao ado nature beast m pattern happen vendor base access strategy either wrapped changed

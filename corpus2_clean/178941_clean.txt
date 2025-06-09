@@ -1,1 +1,0 @@
-wikipedia page window state window written assembly bootloader task c c kernel routine iirc call c function extern c block get using c kernel function pure c apps use like printf wrapped extern c block c

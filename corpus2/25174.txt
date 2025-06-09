@@ -1,0 +1,1 @@
+How to Export/Write a SparseArray?   How to Import/Read a SparseArray?   Is it always stored as a normal array?   How can it be stored in a dense form?   Is a numerical SparseArray different to   Export/Import from a string one?

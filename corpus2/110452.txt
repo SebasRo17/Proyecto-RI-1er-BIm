@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Version control for independent developers? I have a folder containing all my code (working code, experiment code). I'd like to back it up to a zip file on an external hard drive or whatever is best. How do you guys backup your code?   Do you setup your own source control server?   Do you use a script to zip all files?

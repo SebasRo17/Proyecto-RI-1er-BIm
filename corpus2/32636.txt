@@ -1,0 +1,1 @@
+I have the following code               Module[{f,x=0},     f[t_] := x + t;     ..........;     ...f[1]...;     ..........;     ]      My aim is to put the declaration of the function `f` outside the module.

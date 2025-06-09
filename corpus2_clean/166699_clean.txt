@@ -1,1 +1,0 @@
-suppose file foo py containing foo foo def init self want add creates foo certain way raw source put static foo another separate foo def init self option num staticmethod def foo processdata option num def makefoo foo processdata know whether important convenient user foo1 foo makefoo whether important maintain clear coupling foo1 foo foo

@@ -1,1 +1,0 @@
-I'm used to program with Python and GTK using pygtk library. I feel like my programs are not well separated according to MVC model. I think following a framework it would help me to design better desktop applications. I'd like to know which Python MVC framework for desktop apps you're using and why.

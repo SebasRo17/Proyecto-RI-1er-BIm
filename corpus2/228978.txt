@@ -1,1 +1,0 @@
-Many webapp frameworks, e.g. Spring,call themselves MVC frameworks, but how is the distinction done between MVC and three-tier? It seems that some frameworks call themselves MVC frameworks but they are really three-tier frameworks, or how do we properly label which is which?

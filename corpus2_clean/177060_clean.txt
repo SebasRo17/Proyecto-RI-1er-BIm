@@ -1,1 +1,0 @@
-trying make pacman game c done basic work previously replicated game like minesweeper confused implement map pacman datastructure use used moving ai controlled object check collision wall thought 2d ints make sense

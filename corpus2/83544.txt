@@ -1,1 +1,0 @@
-I am familiar with the basics and fundamentals of C++ and now I would like to move on to designing and coding GUI features of it, interactive dialogues, etc... like VB or Delphi Where do I start (self teaching text book, online tutorial)? Thanks

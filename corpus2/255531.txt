@@ -1,1 +1,0 @@
-How valid is the statement "write once, debug everywhere" by some Java users? If it is true, what is the effect to us?

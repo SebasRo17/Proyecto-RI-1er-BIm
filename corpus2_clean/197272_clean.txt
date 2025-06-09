@@ -1,1 +1,0 @@
-large project driver part num library various associated task many library require access global configuration read database startup driver driver mean part contains idea handle create config static get config item best approach else could achieved eg config public static get item key private static value singleton design appropriate

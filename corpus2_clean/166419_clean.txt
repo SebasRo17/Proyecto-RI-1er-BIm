@@ -1,1 +1,0 @@
-program design often come point pas instance several class example controller load audio file pass player player pass pass somewhere else etc look kind bad know avoid ok edit maybe player example best could load file later case work

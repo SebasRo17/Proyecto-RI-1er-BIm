@@ -1,1 +1,0 @@
-I've seen people do neat little PowerPoint shows that show data flowing in and out of a system that they use to wow a customer. Is this something you've done before? like show data in from source 1 and out to source 2? I've used mockups and DFD's but never presented anything in motion and I wonder if that adds value or ethos.

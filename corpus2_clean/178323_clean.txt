@@ -1,1 +1,0 @@
-team considering using mule large scale medium volume internal facing transactional banking application first mule would used application server although possible esb orchestration feature would used future experience mule new team gut say mule would performant weblogic glassfish deployment container anyone comparison story share might shed light

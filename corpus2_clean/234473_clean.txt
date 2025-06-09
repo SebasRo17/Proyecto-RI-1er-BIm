@@ -1,1 +1,0 @@
-reading virtual call make slower calling non virtual call c however il instruction except case base somemethod called virtual hurt performance

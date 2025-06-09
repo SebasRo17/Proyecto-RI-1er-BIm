@@ -1,1 +1,0 @@
-After reading Applying UML and Patterns (Larman) and looking around on the Internet it still seems ambiguous to me if a UML communication diagram should depict implementation details (such as GUI related function calls) or be more bound to the analysis. What is the correct answer? Does UML even specify it?

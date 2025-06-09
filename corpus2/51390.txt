@@ -1,0 +1,1 @@
+Say $g$ is a matrix which is given as, $g = g_0 + xg_2 + x^2 g_4 .. +x^{d/2 -1}g_{d-2}+ x^{d/2}(g_d + h_d(log (x)))$ where $d$ is an even number and each $g_i$ is a matrix (same dimension as $g$) and $h_d$ is another matrix.   * For such a set of arbitrary matrices, how can one power-series expand $\sqrt {det(g)}$ in $x$?

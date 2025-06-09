@@ -1,1 +1,0 @@
-php program running right processing database row num million considering speed number record processed far look like whole process might take day complete due hardware limitation thinking could make change program remove unnecessary logging thing may consuming time current program still running processing would speed cause php script break

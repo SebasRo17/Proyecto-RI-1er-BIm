@@ -1,1 +1,0 @@
-would like know annotation introduced spring hibernate earlier version framework book author saying keep configuration xml file easier maintain due decoupling changing xml file configure application use annotation project future want configure application compile build project annotation introduced framework point view annotation make apps dependent certain framework

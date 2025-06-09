@@ -1,0 +1,1 @@
+I want to use _Mathematica_ to solve the problem: > Find the maximum $k$ such that $6x+9y+20z=k$ does not have a non-negative > solution. I tried `FrobeniusSolve`. But what is the elegant way to find the maximum? I know the theoretical background of this problem, and I know other ways of getting the solution. But I want to see how this can be done elegantly in _Mathematica_.

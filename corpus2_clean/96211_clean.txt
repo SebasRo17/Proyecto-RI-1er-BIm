@@ -1,1 +1,0 @@
-transmission pc num bit crc every block num byte make sure error crc enabled get without get alternative detection algorithm check would faster

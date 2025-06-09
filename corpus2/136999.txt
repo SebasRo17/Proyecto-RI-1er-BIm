@@ -1,1 +1,0 @@
-I've started toying with some Mac development and wonder where the best place to store the code is? Generally on my windows box, I'd store all my code in c:\Code\ On the Mac it's in /Users/Liam/Code/ Will this cause me any issue with permissions when running web code?

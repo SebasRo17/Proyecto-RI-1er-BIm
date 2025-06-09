@@ -1,1 +1,0 @@
-I've to access to files on the software user and I don't know if it's better to use a full JS app with HTML5 File Api rules or use Java and communicate with it ?

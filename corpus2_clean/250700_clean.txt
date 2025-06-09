@@ -1,1 +1,0 @@
-recently invent high availability queueing engine like rabbitmq various reason naturally turned time consuming expensive expected thing would avoid rebuilding cost type component rather reused

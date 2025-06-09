@@ -1,1 +1,0 @@
-scenario controller control view composed complex subviews one subviews separated separate file example one subviews called bunch button controller access button would accessing button like state violation lod one hand could yes controller accessing inner hierarchy view controller aware happens inside view composed thought

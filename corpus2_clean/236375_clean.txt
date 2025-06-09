@@ -1,1 +1,0 @@
-connected ipod arduino using serial uart connection arduino sends num num number two byte sample light sensor asking advice simple reliable communication protocol num need magic constant start stop communication num maybe need sent small chunk num getdata two byte num num serial write 0xff serial write suggestion implement simple reliable protocol image device thanks

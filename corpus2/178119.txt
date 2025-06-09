@@ -1,1 +1,0 @@
-I have come across many relational database management systems (RDBMS). But recently I used hibernate which made me start wondering why Object Oriented databases aren't more popular. If object oriented languages like Java or C# are so popular, then why aren't object-oriented database management systems (OODBMS) more popular too?

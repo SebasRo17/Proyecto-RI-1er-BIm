@@ -1,1 +1,0 @@
-Apparently, there are some resemblance between objects in JavaScript and dictionaries in Python. Each language defines an object a little different (and there is some logic that all definitions to be the same as in physics). How are objects alike and how do they differ between JavaSscript, Python and PHP?

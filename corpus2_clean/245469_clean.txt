@@ -1,1 +1,0 @@
-question simple use cpol project within m pl project would like add cpol project m pl solution modify use tool help compiling project found enter image description personally would say cpol compatible m pl got nearly experience license layer would really thankful anyone could tell whether right cpol compatible m pl

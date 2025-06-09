@@ -1,1 +1,0 @@
-I wonder how can an ASP.NET developer's skills be helpful in customer relationship management? I was going through a job portal searching for jobs in ASP.NET and found that ASP.NET developer skills such as MS SQL, Web services etc were required for CRM Development (could be SAP, Seibel or MS Dynamics). How can an ASP.NET developer be helpful in CRM?

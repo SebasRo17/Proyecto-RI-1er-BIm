@@ -1,1 +1,0 @@
-building online examination system designed table question table contains info exam like description duration would like design table contain id question belongs general exam currently two idea design table num two column general exam id question id num two column general exam id list question id text would like know designing better pro con designing using postgresql database

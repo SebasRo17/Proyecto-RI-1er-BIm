@@ -1,0 +1,1 @@
+I have an interpolated function               f = Interpolation[data]      I would like to calculate limits such as               Limit[(f[1.5 + h] - f[1.5])/h, h -> 0]      I just get errors.

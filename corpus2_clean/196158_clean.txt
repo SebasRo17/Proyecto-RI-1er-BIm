@@ -1,1 +1,0 @@
-library developing factory look bit like public instantiate targettype using parameterized avoid user library cast every time invoke would case would chosen reason good design choice like programmer invoke like instantiate integer clearly wrong unfortunately requires otherwise could written something like public instantiate targetclass

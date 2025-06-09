@@ -1,1 +1,0 @@
-QUnit advertises itself on its web page like this: > ...capable of testing any generic JavaScript code, including itself! Can you really use unit testing software to test itself? Wouldn't defects in the software mean that the results are unreliable?

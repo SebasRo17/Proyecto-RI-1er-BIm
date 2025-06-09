@@ -1,0 +1,1 @@
+Using the function 'Solve' I can do the following: Solve[a x + y == 7 && b x - y == 1, {x, y}] I get the following output: ![enter image description here](http://i.stack.imgur.com/n5myu.jpg) I want to get the same output using 'LinearSolve' instead. How is this possible and also what's the difference between the two?

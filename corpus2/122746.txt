@@ -1,1 +1,0 @@
-All. I am creating some libraries for other teams in my company. They all have different logging mechanisms. I want to provide trace information of what my libraries are doing. What should I to achieve this? Thanks

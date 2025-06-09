@@ -1,1 +1,0 @@
-I have two plug-ins. One has the GNU LGPL 3 license and the other has the Apache Software License, Version 2.0. Can I use them in my commercial app? And if yes, what precautions should I take?

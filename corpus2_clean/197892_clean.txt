@@ -1,1 +1,0 @@
-want see user made definition scheme repl loaded file entered repl way dump definition e g define plusone x num x define x num x define x num x want see definition defined user something like done general way done gambit c tried mean

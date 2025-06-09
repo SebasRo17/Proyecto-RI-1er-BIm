@@ -1,1 +1,0 @@
-assume using following generate pseudo random sessionid sessionid sha num generate guid guids pretty deterministic e see lot guids lot simple question deterministic resulting sessionid algorithm sha supposed create different hash even small number bit different due cascading effect easily could guess within reasonable time another sessionid resulting hash

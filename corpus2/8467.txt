@@ -1,1 +1,0 @@
-I'm trying to learn a bit about the Spring framework and I'm wondering if anyone can recommend an open source project using it so that I can have a look through the source. Any other recommendations around learning Spring would be helpful too.

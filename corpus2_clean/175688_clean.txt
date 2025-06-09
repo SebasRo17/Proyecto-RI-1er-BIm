@@ -1,1 +1,0 @@
-analysis make sense state anything avoids duplication simplifies maintenance speaks service layer technical behavior num service client reference service runtime happen compile time num change something service layer change automatically taken account client need individually recompiled num make sense testing point view working based service service change might break

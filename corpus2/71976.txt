@@ -1,1 +1,0 @@
-I have developed a small android app. I am planning to release it in Google Android market. What are the things I should be aware of before doing this?

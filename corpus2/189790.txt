@@ -1,1 +1,0 @@
-I'm developing a peer-to-peer dataspace application. For that I want to create a peer-to-peer environment locally (on a single machine, a laptop). Is there a any method or tool to do that?

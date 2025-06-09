@@ -1,0 +1,1 @@
+Both of the following return `True`:               StringMatchQ["foo\"bar", RegularExpression[".*\".*"]]               StringMatchQ["foo\"bar", RegularExpression[".*\\\".*"]]      Which is more correct? Also what about               StringMatchQ["foo\\bar", RegularExpression[".*\\\\.*"]]     StringMatchQ["foo\\bar", RegularExpression[".*\\.*"]]

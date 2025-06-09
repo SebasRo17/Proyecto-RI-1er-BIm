@@ -1,1 +1,0 @@
-I want to choose a version control system for my company. So far I know I have Git, Subversion and Mercurial. These days I see that Git is the most used, so I'm left wondering: would there be any specific reason to still use Subversion, or should I go directly to Git?

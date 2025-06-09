@@ -1,1 +1,0 @@
-I'm trying to make a new functional language and it's interpreter for practice. As I know most basic building block is only a lambda function, and it's just a closure. I'm not understanding them well, so I want to ask about I'm right or what's wrong?

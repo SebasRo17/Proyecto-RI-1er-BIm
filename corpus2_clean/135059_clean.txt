@@ -1,1 +1,0 @@
-writing system company put promotion material site like kind cm need database store considering store first approach use single table store use column like company distinguish company another approach create separate database company course check company company table existed yes assign new company company table programme approach better thanks

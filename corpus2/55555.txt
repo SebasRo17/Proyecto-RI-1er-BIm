@@ -1,0 +1,1 @@
+I am just wondering if there is a list of the related Mathematica functions that correspond to Octave functions. For example. `ones(n)` maps to `Array[1 &, n]`

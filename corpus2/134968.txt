@@ -1,1 +1,0 @@
-How to go about getting the number of combination ( C(5,4) ) without using recursion in C? Is there any other method or inbuilt library to do this?

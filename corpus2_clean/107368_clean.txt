@@ -1,1 +1,0 @@
-ironscheme mentioned wikipedia successor failed project called bringing lisp clr net way clojure jvm anyone experience language look fairly complete num sure judge whether worth time fiddle getting set stable complete mean using actual project rather fiddling tool project euler style problem

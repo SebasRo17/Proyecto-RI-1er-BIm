@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  How do you dive into large code bases? When you join a pre-existing project that has a large code base, what are some of the things you do to get acclimatized quickly towards being able to code soundly in it? How much time do you spend reading, making diagrams etc as opposed to diving right in and coding?

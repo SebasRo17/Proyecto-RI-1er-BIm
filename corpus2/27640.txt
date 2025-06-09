@@ -1,0 +1,1 @@
+I am trying to solve a system of one-dimensional two-point boundary-value problems with NDSolve. I would like use a fixed mesh (specified by me) in the calculation. Is there a way to do this? The mesh can be uniformly spaced. Thanks!

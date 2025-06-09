@@ -1,1 +1,0 @@
-I don't understand why a static method can't use non-static data. Can anybody explain what the problems are and why we can't do it?

@@ -1,1 +1,0 @@
-programming naming convention use variable mean obvious ie sum total first last variable really fit category obvious structure sort name use test1 variable1 etc

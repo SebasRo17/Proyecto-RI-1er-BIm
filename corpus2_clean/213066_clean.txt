@@ -1,1 +1,0 @@
-best way provide popups contain asp net server control working net site search functionality someone press button panel appears search information would like popup instead normal javascript work control operate server side go creating popup interacted via server side

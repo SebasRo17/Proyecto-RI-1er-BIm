@@ -1,1 +1,0 @@
-general solution allow client choose concrete instance example lucene api search receives modifies collector parameter generally regarded bad practice indexreader reader open index searcher new reader collector create num searcher search q collector hit collector alternative would provide factory search instance created else

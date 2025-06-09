@@ -1,1 +1,0 @@
-noticed dealing expression expression tree using reflection lot set get value property occurred use reflection seems getting common thing like validation attribute heavy orms etc wondering changed since day year year ago used told avoid reflection possible anything changed speed machine change framework speed reflection nothing really changed still bad slow use reflection

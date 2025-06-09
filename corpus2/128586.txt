@@ -1,1 +1,0 @@
-Are there any substantiated recommendations how many testers a team should have per programmer? I'm more interested in opinions referring to an old- school development approach (no agile stuff) and larger projects. Sources are welcome.

@@ -1,1 +1,0 @@
-programming language define save function method creating interpreted programming language ruby trying figure implement declaration first idea save content declaration map example something like def x num would add entry map x num problem would become recursive would call parse would call parse encountered dosomething would stack space eventually interpreted language handle

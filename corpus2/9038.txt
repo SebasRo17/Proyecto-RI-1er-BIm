@@ -1,0 +1,1 @@
+I want to make `CDF` `WindowSize` as constant so that the end user can not resize it either by dragging Window or by maximizing it. Is there any in built `Mathematica` function to do this?

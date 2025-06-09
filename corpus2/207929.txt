@@ -1,1 +1,0 @@
-I often read that developers must write beautiful code, but for a beginner as I am it remains obscure of what is beautiful code and how do you recognize it? The corollary question is: **How to write beautiful code and what are some practical habits to improve your code's quality?** , what should I care about to make the code I write beautiful (and what shoud I learn).

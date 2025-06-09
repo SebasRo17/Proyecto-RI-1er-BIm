@@ -1,1 +1,0 @@
-many web site ask user enter email address twice sometimes taking trouble disable copy pasting logic behind e g security measure

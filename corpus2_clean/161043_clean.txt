@@ -1,1 +1,0 @@
-experimenting new overloaded operator created one operator another one return something called include iostream struct operator num struct operator std cout hi folk std endl objc f objc std cout f std endl num best way write write operator called anywhere without instantiating associated struct return nothing print text considering static method operator

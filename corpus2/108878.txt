@@ -1,1 +1,0 @@
-Is it useful to learn CVS before learning SVN? Does much of that knowledge carry over to SVN or are they too different?

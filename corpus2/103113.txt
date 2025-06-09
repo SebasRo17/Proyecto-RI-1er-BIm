@@ -1,1 +1,0 @@
-Can anyone tell me how some css3 code (transitions/transformations) get hardware accelerated? In other words, what actually happens when the browser sees css3, what is the pipeline/process involved?

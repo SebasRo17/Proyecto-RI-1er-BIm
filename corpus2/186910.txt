@@ -1,1 +1,0 @@
-Say I have a function.               function foo(){         //do stuff     }      And then I create an object of that function.               var fooObj = new foo();      What is `fooObj` called? An instance, An object instance, or something else entirely? Pardon the newbie question, but I am rather new to prototype based programming(and all programming really).

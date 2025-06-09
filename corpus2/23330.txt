@@ -1,0 +1,1 @@
+I want to create a function returning subscripted symbols and I want these symbols to be assumed real. How do I do that?               ClearAll[Evaluate[Context[]<>"*"]]          d[n_]:=If[OddQ[n],Subscript[d,n],0]          Map[Re[d[#]]&,Range[1,5]]          (* {Re[Subscript[d, 1]],0,Re[Subscript[d, 3]],0,Re[Subscript[d, 5]]} *)

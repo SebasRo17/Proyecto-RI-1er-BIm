@@ -1,1 +1,0 @@
-best safest way handle php session best way store session num database reliable high bottleneck slow speed good high database usage website num memcache super fast distributed security problem chance loosing server restarted chance loosing cache full num file default option guess slow since read writes file less security etc best problem good thing approach

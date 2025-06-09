@@ -1,1 +1,0 @@
-stream aggregating stats putting dictionary sent kafka every x time interval update database aggregated metric process work fine completely fail safe process dy lose time interval example recommended method tool etc aggregate streaming memory still fallback process dy mid time interval

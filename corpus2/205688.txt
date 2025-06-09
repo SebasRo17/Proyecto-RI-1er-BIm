@@ -1,1 +1,0 @@
-I have found several functions in python 2.7.2 to be very useful and I recreated them in C++ for my own uses. How do I properly give python credit for them? Do I even have to? I never actually looked at their source codes. I just wrote functions that output the same values as the python versions of the function.

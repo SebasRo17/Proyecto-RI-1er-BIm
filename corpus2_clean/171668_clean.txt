@@ -1,1 +1,0 @@
-following yaml snippet trying place markdown formatted readme library numpy version num num tried num trailing space end turn single obviously want num separate line readme md edit note tried adding yaml optional lang parameter dice either

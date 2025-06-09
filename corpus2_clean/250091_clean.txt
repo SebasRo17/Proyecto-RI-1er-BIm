@@ -1,1 +1,0 @@
-example association given composition aggregation also type association defined semantics association consists association class also part relationship composition aggregation case many many relationship two entity additional attribute relationship would correct model two separate one many relationship onto middle entity hold additional attribute

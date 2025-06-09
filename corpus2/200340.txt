@@ -1,1 +1,0 @@
-Starting with #Delphi #XE2 many of the new RTL units related to Vcl styles, OSX and so on, uses inc files to declare types, classes and implement code (just like the FPC does), what is the justification to do that? you can see what i mean if you inspect one of these folders (source\rtl\posix, source\rtl\posix\osx, source\rtl\sys )

@@ -1,1 +1,0 @@
-want develop simple app window phone num platform basically vocabulary based game involves user moving word tile one area another score point want know best way tying ui game backend saw window phone num video touch binding really go depth newbie experience designing architecture phone app great someone could explain step taking guide resource could learn

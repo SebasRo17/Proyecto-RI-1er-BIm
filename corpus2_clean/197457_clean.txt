@@ -1,1 +1,0 @@
-understand service state business logic implement service like considering rule method service static

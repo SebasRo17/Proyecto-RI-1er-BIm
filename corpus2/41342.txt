@@ -1,1 +1,0 @@
-In _The Pragmatic Programmer_ this term is introduced and "linearly independency" is used as an example for orthogonality. How do you explain the same thing to a non-technical person and why independency is a good thing to have? Are there "real-life" (i.e. non-geek) examples for this concept?

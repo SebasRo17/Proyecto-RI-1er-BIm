@@ -1,1 +1,0 @@
-I'm trying to find a way to write an application with lock-free IPC on Linux, in C, with multi-core processors. Let's assume I have process 1 and process 2 that write to a FIFO or shared memory. Then process 3 and process 4 will read from that shared memory or FIFO. Is this possible with a lock-free algorithm? Your guidance is highly appreciated.

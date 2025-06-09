@@ -1,1 +1,0 @@
-How can I prove that a dynamic programming (dp) strategy for a problem will work or not? For greedy algorithms, we can prove by showing the sub problems exhibits matroid property. Is there any such methods for dp algorithms?

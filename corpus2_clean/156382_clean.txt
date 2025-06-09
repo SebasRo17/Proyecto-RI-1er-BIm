@@ -1,1 +1,0 @@
-sql field add table primary foreign key add lose overview specific field certain scenario like get add delete update use sql management studio sql server design database database diagram designer maybe better tool good approach keep track meaning field

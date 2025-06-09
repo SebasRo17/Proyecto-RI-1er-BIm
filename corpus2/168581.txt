@@ -1,1 +1,0 @@
-It might be like this: Parameter means from the callers POV and arguments mean inside the procedure, or other way round. Or is there no difference? ## Update In Swedish we say "anropsparametrar" i.e. "parameters that are calling the procedure" and we would not say "anropsargument" ("arguments that are calling the procedure").

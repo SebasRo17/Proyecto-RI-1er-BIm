@@ -1,1 +1,0 @@
-I was wondering if anyone had the same need and why (if possible). My problem is: I can't create a model in EF using two tables from different DBs without some weird workarounds. For my scope that is very much necessary. Did any of you ever needed to do this? What did you do? And, like me, do you think MS should add this feature? Thank you all.

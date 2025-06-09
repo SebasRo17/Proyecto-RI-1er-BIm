@@ -1,1 +1,0 @@
-possible develop functional language based php opcode similar scala bytecode f cil somebody done already

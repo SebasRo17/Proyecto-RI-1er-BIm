@@ -1,0 +1,1 @@
+If I use a code of this type:               Table[foo[i], {i, 0, 10}]      _Mathematica_ won't output anything until it is done: is it possible to know at which point of the calculations I am, without using some slow `For` loop (in this way it would be easy to print something like `i=1`, `i=2`...)? I want to check if everything is OK at each step.

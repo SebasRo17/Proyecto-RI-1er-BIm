@@ -1,1 +1,0 @@
-p2p app need locate peer want hard dns address one example seen bootstrapping via irc like http possible option technique bootstrapping p2p app

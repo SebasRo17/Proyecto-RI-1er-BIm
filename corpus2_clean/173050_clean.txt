@@ -1,1 +1,0 @@
-want implement jsp pojo dao servlet j2ee program however fully understand relationship element following mvc setup right way creates servlet controller servlet dao defined dao pojo defined servlet communicates view jsp page please give feedback

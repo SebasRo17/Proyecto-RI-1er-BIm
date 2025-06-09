@@ -1,1 +1,0 @@
-I have heard that there will be a lot of changes done in C++ because of the new standard (C++0x). My question is: What are the major changes, and will C++0x be compatible with C++ 98 and **C** ?

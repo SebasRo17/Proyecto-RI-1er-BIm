@@ -1,1 +1,0 @@
-In my program, I have several class variables whose access specifier is known as private package. The default accessor specifier in Java is known as private package where it is accessible within the package which the class belongs to. For the UML class diagram , should I label these variables as public or private? I can't decide because of this concept of private package.

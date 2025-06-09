@@ -1,1 +1,0 @@
-let say boolean condition b c using language higher order operation precedent could write b c really equivalent b c argument including extraneous parenthesis practical experience suggest worth including readability sign developer need really sit become confident basic language

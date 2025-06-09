@@ -1,1 +1,0 @@
-currently building small website around num num view num controller know mvc design pattern top presentation layer currently stage development start question feel like small website need n tier architecture small long maybe worth worth time migrate n tier level abstraction migrate n tier magic point project grows large done directly beginning development

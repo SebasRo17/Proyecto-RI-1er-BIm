@@ -1,0 +1,1 @@
+Is there a way to make the general replacement               foo[x,y,z]->fooxyz      so that I can treat the x_i as variables so that I will obtain foofgh from the following:               foo[f,g,h] /.{ foo[x,y,z]->fooxyz }      ?

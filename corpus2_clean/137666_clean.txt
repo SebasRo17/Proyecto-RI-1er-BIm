@@ -1,1 +1,0 @@
-currently using decorator apply various modification template prior rendering unsure cache decorator though currently able break chain decorator cached opposed original decorated cache decorator public render template identifier get template identifier template render cache bad practice always returning original decorated ok break flow like different

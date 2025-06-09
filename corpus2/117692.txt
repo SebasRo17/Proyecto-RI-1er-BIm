@@ -1,1 +1,0 @@
-I need some advice to take the steps for TDD. How do we think in terms of interfaces for everything when we are writing code? Most of the testing books tell you how to write tests. But I want a book which tells whats the good way to write code in terms of TDD

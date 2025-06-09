@@ -1,1 +1,0 @@
-friend working webapp using git u local copy app problem database want able see latest change person made understand two option host database server add sql file every commit make first option might expose system risk scared second option adding unnecessary work daily task importing sql file creating sql file new stuff suggestion welcome

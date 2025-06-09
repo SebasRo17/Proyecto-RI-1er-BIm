@@ -1,1 +1,0 @@
-I am reading Learn Python the Hard Way by Zed Shaw. In this lesson he writes: "Every `if-statement` must have an `else`." What are the benefits of ending every `if-statement` with an `else`? Are there any legitimate reasons not to end an `if-statement` with an `else`?

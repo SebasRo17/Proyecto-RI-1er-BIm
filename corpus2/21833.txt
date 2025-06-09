@@ -1,0 +1,1 @@
+I am using Mathematica 8. I would like to read some RData files which I have received. I do not currently have an installation of R on the machine with Mathematica.

@@ -1,1 +1,0 @@
-single scenario compatibility ancient jvms using synchronized preferable using lock anyone justify using wait notify newer system algorithm must use one implementation see previous question touched matter would like take little actually deprecate far many trap pitfall caveat ironed new facility feel may soon time mark obsolete

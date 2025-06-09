@@ -1,1 +1,0 @@
-Today with the modern hardware and memory coming cheap, how much sense does it make to spend effort to analyze algoriths or data structure complexity?   Wouldn't it be better instead, to focus on clean, maintainable code, readable code than on optimizations for complexity?   Note:I not talking about embedded systems or systems with similar kinds of constraints.

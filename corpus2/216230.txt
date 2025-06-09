@@ -1,1 +1,0 @@
-OS X 10.9 not just called 10.9 but also Mavericks. iOS7 is just called iOS7. Android releases are named after sweets. What is the rationale of giving a name to a release version?   What are the benefits if any? Most apps simply increment the number as they push new releases. Is naming a release (Mavericks, Kit kat etc...) just for marketing purpose?

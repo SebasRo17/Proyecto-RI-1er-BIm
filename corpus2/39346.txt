@@ -1,0 +1,1 @@
+In my paper written in LATEX, I used a symbol $\mathcal{T}$ and I want to put it in the axis label of my plot. However I could not find such functionality in Mathematica. Is it possible?

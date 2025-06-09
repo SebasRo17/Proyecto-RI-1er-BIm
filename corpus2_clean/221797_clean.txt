@@ -1,1 +1,0 @@
-following syntax different base x1 binary x2 num octal x3 0xff hexadecimal reasoning num instead something like like binary hexadecimal documentation went route

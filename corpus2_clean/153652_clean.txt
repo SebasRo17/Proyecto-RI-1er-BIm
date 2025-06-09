@@ -1,1 +1,0 @@
-learning objective c io development sure proper naming convention used understand use label aspect obj c method proper way label best practice naming method property object outlet action also different naming convention used obj c c difference

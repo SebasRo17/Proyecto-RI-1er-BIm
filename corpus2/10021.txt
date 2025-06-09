@@ -1,1 +1,0 @@
-I have often seen people fighting over that their favorite language is more "powerful" than others. When it comes to describing a programming language, I can understand what an object oriented language is or what a dynamic language is, but I still can't figure out what exactly a "powerful" language is. What are your thoughts?

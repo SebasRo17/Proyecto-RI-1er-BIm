@@ -1,1 +1,0 @@
-What is it called when you set properties on object initialization?               var customer = new Customer() {RequestID = request.ID, AddressID = 5};      Is it considered good practice?

@@ -1,1 +1,0 @@
-Say, for example, I wanted to pay somebody to create a programming language or scripting language for me. What type of document would they need, in order to fully understand what it is exactly that I want. I mean, are there standard documents that describe the new programming/scripting language in question?

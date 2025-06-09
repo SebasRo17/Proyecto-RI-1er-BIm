@@ -1,1 +1,0 @@
-I've been looking at Campfire by 37Signals and it looks like a great tool for collaboration between developers but we need something that can be deployed internally. Any good options out there?

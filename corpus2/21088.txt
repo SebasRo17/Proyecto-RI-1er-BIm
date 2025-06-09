@@ -1,0 +1,1 @@
+My graph is about fires (burned area) over 12 years presented in one Date List Log Plot. Because most of fires are in summer (as expected) I would like to highlight that with different background colors. How can I paint seasons in Date List Plot in different colors? I want to put different background color for winter, spring... Thank you!

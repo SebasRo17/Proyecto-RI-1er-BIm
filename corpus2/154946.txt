@@ -1,1 +1,0 @@
-I have this big book that basically covers all the main aspects of the C++, the problem is that is pretty old according to the C++ standards of today, it's ok to use it?

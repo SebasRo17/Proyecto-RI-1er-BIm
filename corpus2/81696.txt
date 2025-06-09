@@ -1,1 +1,0 @@
-A friend of mine told me that .NET Framework is memory hungry and he gave me an example that if I make an application (in .NET web forms) which will take 20 mb of your RAM, it will be actually wasting 1.5 MB This means that it will leak 15 mb for 200 MB application which is way too much. Is it true? Can anyone provide me any links which describes it?

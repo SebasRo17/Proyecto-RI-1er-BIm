@@ -1,1 +1,0 @@
-I will have international users use my database, but I don't know how the mailing system operates outside of the US. Are the concepts "City", "State, Country and possibly "Zip" sufficient to capture any hierarchy (even if it was only 2 levels deep: (city/country)

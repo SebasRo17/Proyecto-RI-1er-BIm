@@ -1,1 +1,0 @@
-I have quit a lot of javascript widget and I would like to have a good decoupled way to communicate between them. Something like signals and slots in QT probably? Most of my widgets are written in JQuery using widget factory. What is the correct way to achieve that, without ending with a spaghetti code?

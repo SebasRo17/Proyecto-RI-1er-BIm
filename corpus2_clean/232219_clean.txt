@@ -1,1 +1,0 @@
-recommended use read property language allows public read property meant replace getter method least magic method like available get php example use private read property

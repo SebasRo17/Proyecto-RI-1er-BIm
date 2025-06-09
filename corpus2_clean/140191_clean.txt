@@ -1,1 +1,0 @@
-num num image file program us realize two option num save binary format bmp loaded dynamically num save c source file allows compiled program also loaded dynamically assuming easy implement require dynamic loading benefit would loading startup speed compare

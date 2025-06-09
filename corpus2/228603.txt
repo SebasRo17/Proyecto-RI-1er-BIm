@@ -1,1 +1,0 @@
-Suppose there's a GPLv3 app that has a GUI and a CLI. Can I legally expand its CLI (to give me access to functionality hitherto only available via the app's API), release the result under GPL and then create a non-GPL (perhaps proprietary) app that depends on this modified GPL app (via the expanded CLI)?

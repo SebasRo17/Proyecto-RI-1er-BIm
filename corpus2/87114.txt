@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  How possible is it to estimate time for programming projects? We have designed a User Interface (UI) in HTML for an Intranet Application.it took almost 30 days to make it,how we should estimate the development effort(coding) for it,is there some ratio we can use to estimate,it need not have to be exact but some estimate would help.

@@ -1,0 +1,1 @@
+My _Mathematica_ is a little rusty, so apologies in advance. I think my problem is quite simple, but I can't seem to find the answer on my own! Simple example : `j[x_, y_: 1] := x + y` where x and y are integer numbers. How would you go about implementing Compile using this function?

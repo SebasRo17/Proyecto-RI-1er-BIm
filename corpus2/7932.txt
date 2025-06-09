@@ -1,0 +1,1 @@
+It is straightforward to export lists to Excel with `Export`. Can I export a graphic image, too? This does not work:               g = CompleteGraph[4];     fnOut = "Output1.xls";     Export[fnOut, {"Sheet1" -> g}]      Maybe I need to transform `g` in some way?

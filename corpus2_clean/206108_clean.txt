@@ -1,1 +1,0 @@
-language like javascript nodejs anything wrong defining configuration file file essentially hard code configuration setting example option py directory option j count hard coding option would inappropriate expect user configure software way benefit using traditional configuration format eg ini file parsed time

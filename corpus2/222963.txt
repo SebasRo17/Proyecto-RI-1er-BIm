@@ -1,1 +1,0 @@
-In `alloc.h` of djbdns-1.05 there's the following code: > `extern /*@null@*//*@out@*/char *alloc();` My question is about the goofy-looking `/*@null@*//*@out*` “decorator.” I assume this is “just a comment” with some significance to djbdns's build system. But I can't find anything referencing it in other files. Anybody know what this is?

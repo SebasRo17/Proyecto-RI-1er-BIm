@@ -1,0 +1,1 @@
+Hey guys I have a problem where I want to sketch the region of integration:               Integrate[x Cos[y^2], {x, 0, 3}, {y, x^2, 9}]      I know I have to use `RegionPlot` but it is not working out for me. This is what I am doing: `RegionPlot[x^2, {x, 0, 3}, {y, 0, 9}]` Can anyone help me out?

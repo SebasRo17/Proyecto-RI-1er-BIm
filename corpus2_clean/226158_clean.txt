@@ -1,1 +1,0 @@
-assuming list element sorted ascending order search sequentially first element comparing target successive element either find target succeed current element greater target reach end list fail short sequential search ever efficient regular sequential search

@@ -1,1 +1,0 @@
-Is it a good practice to separate the handlers and database queries in different classes? There will be a separate class containing all the necessary event handlers, and there would also be another class for database queries?

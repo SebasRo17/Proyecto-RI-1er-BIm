@@ -1,1 +1,0 @@
-application created using jdeveloper want build workspace linux machine using instead jdeveloper ide need add 3rd party jar like hibernate using putty access machine want know add third party library without using ide thanks

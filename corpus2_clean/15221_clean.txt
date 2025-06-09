@@ -1,0 +1,1 @@
+following initial value problem bc b x b eq b ndsolve equation bc b x body b x eq b one could define derivative body regard dbody b x eq b however trying find way define derivative arbitrary order regard make definition dbody redundant simple invocation derivative failed example derivative body return body

@@ -1,0 +1,1 @@
+I have a notebook with a docked cell displaying a banner with some graphics. When I convert this notebook to the Slide Show the banner is nicely displayed on each slide. But the Navigation Toolbar is not visible, apparently covered by my docked cell. How to display both, the Navigation Toolbar and my graphical banner in the Slide Show?

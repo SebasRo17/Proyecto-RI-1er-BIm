@@ -1,1 +1,0 @@
-Having read SO, just found this question:               if (x > y)          print (x)     else if (x < y)          print (y)     else          print (x,y)      **How many branches and decisions are there?** It mentiones there should be 3 decision and 5 branches, yet I cannot see how. For me I can only imagine 4 branches (2 Ifs with two possible results). Original question here

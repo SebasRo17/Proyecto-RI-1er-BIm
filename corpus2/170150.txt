@@ -1,1 +1,0 @@
-I'm resizing an image based on a non-integral conversion factor (a bmp image, in fact). I understand how resizing works, just non with a decimal number. For instance, if the factor were 2, I would simply write the individual pixels twice to the output file. You can't really write 1.5 pixels if the factor were, say, 1.5. Conceptually, how might this play out?

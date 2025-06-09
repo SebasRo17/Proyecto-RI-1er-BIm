@@ -1,1 +1,0 @@
-given colour image whose light intensity dim edge bright middle dim bright dim computer vision technique would recommended correct believe histogram could help read also introduces unrealistic look image exaggerating blue channel consider implementing image processor task

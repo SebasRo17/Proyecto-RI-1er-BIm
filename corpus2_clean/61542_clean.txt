@@ -1,1 +1,0 @@
-thing need take care web application handle large number request say num simultaneous request increasing number server distributing load one way way configuration done application server

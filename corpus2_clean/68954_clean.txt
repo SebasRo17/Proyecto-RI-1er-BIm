@@ -1,1 +1,0 @@
-last time checked c loved many statically typed language introduction viewbag asp net mvc num brings problem string controller one thing view mistake something else reason making viewbag dynamic better

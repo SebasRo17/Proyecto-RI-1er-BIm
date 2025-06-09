@@ -1,1 +1,0 @@
-What if, instead of looking at the C++ specification, you analyze the behavior (by inspecting the source code and testing with sample inputs) of existing C++ compilers and use your knowledge of C++ to create a new compiler? Is it a good way to implement programming languages? What are the possible disadvantages of this approach?

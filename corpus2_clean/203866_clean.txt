@@ -1,1 +1,0 @@
-still fairly new ruby though noticed hard create 2d hash seem go structure array wondering ruby community focused hash maybe something ruby idiomatic 2d trying create something like game board

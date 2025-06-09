@@ -1,1 +1,0 @@
-ill explain problem currently using house install gitorious using git would like begin testing fogbugz kiln fog creek us mercurial would like least short continue development using solution anyone know long term serious effect git mercurial repo directory better way keeping git mercurial server sync ive tried test repo seen issue thanks help

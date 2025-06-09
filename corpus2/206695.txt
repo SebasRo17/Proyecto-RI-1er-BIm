@@ -1,1 +1,0 @@
-I'm using JavaFX for gui of my app. Its license is GPL+Linking Exception. GPL requires me to release my source code. But what's the linking exception?? (I'm just using it as a library. Not modifying or using its source code.)

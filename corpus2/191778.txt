@@ -1,1 +1,0 @@
-I have difficulty to learn about ant colony algorithm (ACO), I have read about generating crossword game using (genetic algorithm) GA.I Know both of GA ant ACO usually used for optimization, but my question is Is possible if create crossword game generator using ACO and how it can work for optimization in this case?

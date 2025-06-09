@@ -1,1 +1,0 @@
-I heard from a friend that Bjarne Stroustroup admitted that he doesn't know entirely the C++ programming language due to its vast complexity Is it true and there's some referrable sources or is it just an exaggeration? This affirmation should be present on his website, he told it in an interview/conference some time ago

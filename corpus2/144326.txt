@@ -1,1 +1,0 @@
-There is a provision for **try-catch** block in **javascript**. While in java or any other language it is mandatory to have error handling, I don't see anybody using them in javascript for greater extent. Isn't it a good practice or just we don't need them in javascript?

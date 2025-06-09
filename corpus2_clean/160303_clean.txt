@@ -1,1 +1,0 @@
-working ground generator project feel might reinventing wheel anyone know find best practice guideline design pattern generation

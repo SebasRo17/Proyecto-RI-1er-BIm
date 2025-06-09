@@ -1,1 +1,0 @@
-android iphone apps use ajax interact backend yes common apps use different fetching database information method server side language ever involved common see app development

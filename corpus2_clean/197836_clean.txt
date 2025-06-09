@@ -1,1 +1,0 @@
-c declare constant memory allocated act compile time replacement long life

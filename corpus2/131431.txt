@@ -1,1 +1,0 @@
-I know that `*args` and `**kwargs` are ways to feed more arguments into a function in Python. I am wondering where these terms stem from. Why have all the asterisks in the beginning? What does the kw in kwargs stand for?

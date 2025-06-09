@@ -1,1 +1,0 @@
-used channel counter part reading writing simple integer string file however understand use class util scanner provides easy way read write file veteran please tell use channel stream scanner

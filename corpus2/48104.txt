@@ -1,0 +1,1 @@
+`mA = {{a11, a12}, {a21, a22}}; mB = {{b11, b12}, {b21, b22}}; mC = {{c11, c12}, {c21, c22}}; mD = {{d11, d12}, {d21, d22}}; v={{mA},{mB}}; w={{mC},{mD}};` What I want is a dot product between w and v: `v.w=v1*w1+v2*w2=mA.mC+mB.mD`

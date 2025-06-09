@@ -1,1 +1,0 @@
-c likely many language provide struct keyword creating structure something similar fashion least c simplified point view like class without polymorphism inheritance method think oriented multi paradigm language c style structs would choose class believe used oop class seem replace purpose wonder situation could preferred class otherwise oriented program kind situation situation

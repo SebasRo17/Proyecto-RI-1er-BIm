@@ -1,0 +1,1 @@
+list data visualize using listcontourplot data table randomreal randomreal j j listcontourplot data aspectratio imagesize listcontourplot column data correspondes segment certain length example segment would like rescale x ax column right length plot possible also caption x ax match frink

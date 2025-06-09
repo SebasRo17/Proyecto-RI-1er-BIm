@@ -1,1 +1,0 @@
-In C++ when I wanted to mark that if is empty by design I added `NULL;` as statement:               if (cond1) {         ...     } else if (cond2) {         NULL;     } else {         ...     }      However in Java it seems to be impossible to have `null;` as statement. What is the correct way of marking empty by design if in Java (is it just comment)?

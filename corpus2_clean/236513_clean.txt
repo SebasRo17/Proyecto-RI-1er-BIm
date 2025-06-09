@@ -1,1 +1,0 @@
-existing database app written d7 database client given fast desktop 24gb ram somehow load database file ram speed processing million record procedure take num num hour mostly due disk read write

@@ -1,1 +1,0 @@
-I have heard that there are soft wares for converting an existing J2ME app to Android? But I was doing a manual conversion till now. Am I doing a silly job/is it possible to do convert any J2ME application?

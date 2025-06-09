@@ -1,1 +1,0 @@
-Do you delete nodes from the underlying graph representation? Or is there a more elegant way to do it?

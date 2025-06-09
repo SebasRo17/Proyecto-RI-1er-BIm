@@ -1,1 +1,0 @@
-I'm an old school top-down procedure programmer. I started with Turbo Pascal on the DOS environment. Every time I try to learn OOP on my own I stumble. I try and make OOP somehow fit into my top-down mindset. It's very frustrating, I seem to have a mental block. What is the best way for someone like me to learn OOP?

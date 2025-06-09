@@ -1,1 +1,0 @@
-looking best practice creating plugin looking something like jquery documentation best practice write plugin far found nothing starting imagine come best practice javascript particular order configurability thought

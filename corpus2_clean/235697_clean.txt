@@ -1,1 +1,0 @@
-kind process static analysis would catch heart bleed bug human review already know failed fix commit

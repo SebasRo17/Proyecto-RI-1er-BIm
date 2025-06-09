@@ -1,1 +1,0 @@
-vector register work term calculation alloting detailed reference available somewhere explaining vector register work fetched

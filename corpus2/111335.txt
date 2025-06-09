@@ -1,1 +1,0 @@
-My boss was looking down on me about learning Ruby because "It's just a PHP generator" which I can't find anything about it being so. Is this the case? I understand that the Rails framework can be used to generate PHP code, but isn't Ruby in-and-of-itself its own programming language?

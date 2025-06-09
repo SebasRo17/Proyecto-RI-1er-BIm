@@ -1,0 +1,1 @@
+solve stationary distribution finite markov chain word estimate eigenvectors transition matrix

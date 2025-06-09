@@ -1,0 +1,1 @@
+I would like to be able to call the `Quantity` function with a null unit so that it returns the original dimensionless value. For example,               Quantity[3.0,"NoUnits"]      would return `3.0`. Is there a dimensionless unit?

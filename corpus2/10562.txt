@@ -1,0 +1,1 @@
+I want to count total number of the natural solutions (different from 0) of the equation $2x + 3y + z = 100$, but don't know how. How can I calculate it using _Mathematica_? I tried:               Solve[{2*x + 3*y + z == 100, x > 0, y > 0, z > 0}, {x, y, z}, Integers]

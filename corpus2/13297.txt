@@ -1,0 +1,1 @@
+When I input `\[Integral]1/x \[DifferentialD]x` in _Mathematica_ , I get `Log[x]`. How can I make the result of the integral $\displaystyle \int\dfrac{1}{x}dx$ to be $\ln|x|$?

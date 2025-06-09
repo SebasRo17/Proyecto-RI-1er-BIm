@@ -1,1 +1,0 @@
-see difference mvc mvvm clearly feel command viewmodel like action controller controller viewmodel notify view refresh modifying state model binding difference two pattern

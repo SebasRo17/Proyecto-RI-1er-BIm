@@ -1,1 +1,0 @@
-Is there any formal work attempting to measure ease of maintenance for complex programs, comparing at the programming language level? Are there any formal measures for ease of maintenance, at any level? I'm looking for a method to obtain formal measurements of ease of maintenance (or any related work) for a pet project.

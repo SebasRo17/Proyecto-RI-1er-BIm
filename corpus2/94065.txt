@@ -1,1 +1,0 @@
-Can someone help me understand the process one would have to go through to set up a website, like a job board, that allows users to deposit money into their account and then use it to buy/sell stuff? Is it possible to use Paypal as Escrow the same way Ebay does?

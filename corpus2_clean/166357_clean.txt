@@ -1,1 +1,0 @@
-reading c coding standard variable introduce state deal little state possible lifetime short possible anything mutates eventually manipulate state deal little state possible mean impure language c state management really way deal little state possible limiting lifetime

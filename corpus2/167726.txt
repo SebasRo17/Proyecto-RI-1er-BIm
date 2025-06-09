@@ -1,1 +1,0 @@
-Maintaining bug database is an important for every project. I am used to store the followings at bug database   * Issue date time   * Who is assigned to   * Whether it has been solved or not   * If solved then, solved date time Is those enough to maintain a good bug database?

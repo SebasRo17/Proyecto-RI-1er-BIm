@@ -1,0 +1,1 @@
+Is it possible to set up a conditional break point in Wolfram Workbench? For example I want the code to stop if an index `i` is equal to a given value.

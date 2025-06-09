@@ -1,1 +1,0 @@
-What is the fastest way to find the first (smallest) integer that doesn't exist in a given list of **unsorted** integers (and that is greater than the list's smallest value)? My primitive approach is sorting them and stepping through the list, is there a better way?

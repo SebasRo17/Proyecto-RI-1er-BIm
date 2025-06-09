@@ -1,1 +1,0 @@
-My Agile team is following practices of XP like pair programming(J2EE), 45 work hours/week, TDD etc. Do you have any recommendations of open source tools (dev, test & build integration) and templates(user story, burndown charting) etc. for enabling my team to focus on business value delivery. I am the iteration manager and we have tried Hudson, Junit and Selenium.

@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Why is Lisp useful? Lisp has always stricken me as a very peculiar language... interesting in concept, but it just doesn't seem intuitive as, for instance, Java or C or C++. Why do a lot of people actually use Lisp then?

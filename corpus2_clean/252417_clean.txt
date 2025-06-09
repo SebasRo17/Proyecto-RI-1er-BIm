@@ -1,1 +1,0 @@
-teaching program c month recently took one month break came back week ago gone look thing really put effort understanding see pointer others stuck learning malloc dynamically allocated memory also getting bit tough suggest keeping retained come time experience

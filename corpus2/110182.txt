@@ -1,1 +1,0 @@
-Are there are any specific rules and regulation to follow while developing a custom membership provider. Like, implementing a particular Interface or Abstract class. Or a definite model architecture to follow. If yes, then what are the rules or I am free to design, model and code anything ?

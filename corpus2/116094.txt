@@ -1,1 +1,0 @@
-I am looking to incorporate a domain name lookup facility in my website to make sure if a domain is available or not. The only api I could find on the net is http://www.domaintools.com/api/docs/domain-search/ . But this is paid. Is there any other api available which might be cheaper / free. I am working with php, jquery Thanking you

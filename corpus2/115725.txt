@@ -1,1 +1,0 @@
-Let's say you're looking at breaking up your applications into services. Are there any good reasons to adopt a SOA approach vs. just creating a library API that can be loaded by the applications that need it.

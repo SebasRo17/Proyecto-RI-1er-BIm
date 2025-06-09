@@ -1,0 +1,1 @@
+For example when would you use a `Do` loop over a `For` loop? For which tasks would you use `Map`, `Table`, `Scan`, et cetera? I'm quite new to _Mathematica_ and I don't really get what the advantages of any of these loops are over the standard `For` loop whose use seems to be so harshly discouraged here on StackExchange.

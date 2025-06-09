@@ -1,1 +1,0 @@
-Should a test plan for internal software account for the error states of all possible configurations? Ie: I have an app.config with some file paths. Should the test plan have steps for testing what happens when those values are incorrect?

@@ -1,1 +1,0 @@
-Given an input device (basically a keyboard) that reports keyup and keydown, how may I most efficiently store and retrieve information about _which keys are currently depressed_? My first thought was a dynamic array, but maintaining and searching a dynamic array seems like a serious drain on resources. Many thanks in advance for any help Joe

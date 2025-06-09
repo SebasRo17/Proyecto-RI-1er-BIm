@@ -1,1 +1,0 @@
-I'm new to cache and haven't used it on my projects. I would like to know about what is best practice in caching. Should caching be done while developing or finish development then cache everything?

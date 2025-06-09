@@ -1,1 +1,0 @@
-runtime generated machine jit actually executed cpu cpu o execution disable bit far know many modern processor operating system include support nx bit including intel arm prevents machine stored address section compiled binary executed clearly nice security advantage prevents shell injection attack jit engine like llvm dynamically generate machine get around

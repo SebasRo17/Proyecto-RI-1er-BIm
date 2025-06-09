@@ -1,1 +1,0 @@
-a) To my knowledge Domain Objects should for the most part be oblivious to technical aspects of a design. Since I view class inheritance as being a technical solution, wouldn't introducing a Layer Supertype pattern into our domain corrupt it? b) If you disagree, please elaborate why Thanks

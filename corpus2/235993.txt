@@ -1,1 +1,0 @@
-I would like to modify and use code of a MIT project within a MS-PL project. Am I allowed to do that? I've already searched for it with Google and Bing, but I could not find anything like "Yes (No) you can (not) use MIT code within a MS-PL project". I am no jurist, so it is quite hard to interpret any license.

@@ -1,1 +1,0 @@
-How is a syntax checker for a programming language written? I am guessing a grammar has to be written first. How to then proceed? **Motivation** I'm using a programming language (Apex for Salesforce) that is compiled in the cloud and a list of errors is sent back to the basic Eclipse editor. I'd like to skip the process for simple typing mistakes and just check for them locally.

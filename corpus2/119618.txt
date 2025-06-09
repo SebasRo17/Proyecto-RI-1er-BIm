@@ -1,1 +1,0 @@
-When QA or UAT comes, should the developer still be involved in setting up data or finding test data for the QA tester or business user? Or will this introduce bias to the developer who coded the system changes that are being tested in the said environments?

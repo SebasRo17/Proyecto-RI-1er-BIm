@@ -1,1 +1,0 @@
-word sending mail programmatically really need go hassle setting correct mime use application octet stream mail client tested right thing based file extension even mime generic application octet stream bother know considered good practice asking scientific curiosity want know make practical difference

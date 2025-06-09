@@ -1,1 +1,0 @@
-I am plaining to use Ubuntu for developing Android and php application which I will sell in market. As far as I understand Ubuntu falls under GNU GPL license. In this case do I need to make my source code open for all?

@@ -1,1 +1,0 @@
-Or more to the point, when should applications be consolidated into one Team Project? I'm considering the fact that each TFS Project will include the source code, work items, reporting, a project portal in SharePoint, and Team Web Access. What are the effective resource costs of creating a TFS Project?

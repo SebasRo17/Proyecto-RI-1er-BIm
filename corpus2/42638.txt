@@ -1,0 +1,1 @@
+I can Import data from excel and create a gray-scale image using               Image[data, "Real"]      But I want to change from grayscale and as an example use red as the color

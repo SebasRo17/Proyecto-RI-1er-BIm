@@ -1,1 +1,0 @@
-keeping administration panel secure logged web application best practice use else statement session logged include style template header php include style template content php include style template footer php else include style template login php professional cm creator etc authentication style completely better route else statement authenticate page logged user access

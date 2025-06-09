@@ -1,1 +1,0 @@
-Are there any good articles or videos available that developers could use to learn to create more informative bug reports? Often times I have to verify cases that were opened by developers where the title is the only information available, so I would like to help the devs become better bug reporters for both our benefit.

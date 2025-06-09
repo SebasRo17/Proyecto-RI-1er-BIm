@@ -1,1 +1,0 @@
-html5 boilerplate use jquery script src ajax googleapis com ajax libs jquery num num jquery min j script script window jquery document write script src j libs jquery readable window jquery document write window jquery document write

@@ -1,1 +1,0 @@
-come performance better way validate user think phone number want number database could begin num use varchar better check via entity model like size min num max num digit fraction num integer num column phone number private phonenumber better use database side check checking entity model feature

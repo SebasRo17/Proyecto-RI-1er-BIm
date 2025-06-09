@@ -1,1 +1,0 @@
-In my team, we don't do formal code reviews. We tend to think that it's enough with pair programming and rotating pairs often. Should we consider doing formal code reviews? What would be the advantages?

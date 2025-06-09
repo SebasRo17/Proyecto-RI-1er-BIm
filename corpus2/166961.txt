@@ -1,1 +1,0 @@
-The GNU profiler `gprof`, can be used to profile any application right on the device, allowing real world profiling. As Xcode 4.5 based on LLVM plus it has GNU Debugger, Profiler, and others. I need a better example, implementation example, for iOS projects.

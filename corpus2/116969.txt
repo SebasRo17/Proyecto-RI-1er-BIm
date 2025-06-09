@@ -1,1 +1,0 @@
-I am working on an iPad app. It needs to contain some very large files. I could put them into the app, but they would push it well over 20MB, which means that it would not be downloadable over the air -- only via iTunes. Is there a way around this without too much pain for me? I don't have a server or anything like that.

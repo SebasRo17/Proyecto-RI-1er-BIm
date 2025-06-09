@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  Choosing a functional programming language I am a C++ programmer looking to learn a functional language as a hobby and out of sheer curiosity. I am not looking to be an expert, but just to get a grasp on functional programming. This language should be simple to learn and have good tutorials and resources for beginners. Are there any such languages?

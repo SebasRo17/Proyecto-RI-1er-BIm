@@ -1,0 +1,1 @@
+I have a list containing zero and nonzero elements. How can I throw away zero elements and just keep non zero ones.

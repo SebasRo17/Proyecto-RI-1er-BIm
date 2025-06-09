@@ -1,1 +1,0 @@
-read article msdn reason declaring class sealed last paragraph eric lippert say num secure whole point polymorphism pas around object look like animal fact potential security issue tried look google topic manage find anything oop tutorial anybody could point right direction look even say word topic would great thanks

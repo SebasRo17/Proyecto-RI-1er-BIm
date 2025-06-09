@@ -1,1 +1,0 @@
-What methods (in programming/web dev terms) were used to take payments online before such things as Paypal, Google Checkout and various gateways and API's. How were such transactions carried out?

@@ -1,1 +1,0 @@
-I've been assuming that F# includes the module keyword in addition to the namespace keyword due to backwards compatibility with OCaml. Is this the only reason for the inclusion of the module keyword or are there other reasons module was included?

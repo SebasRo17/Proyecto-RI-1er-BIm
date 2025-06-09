@@ -1,1 +1,0 @@
-I know it is expensive but (IMO) I believe it is a very good practice. I'm talking about rules like say, you can't save an Invoice if you are not a sales person... so in that case throwing an exception saying 'your are not authorized' or such... Another approach it would be having objects with a status or something like that Is there any other approach? how do you feel about it?

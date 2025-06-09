@@ -1,1 +1,0 @@
-entity student following property birthday age batch etc params want fetch student based multiple filter two way pas filter num pas filter params num make filter field pas working always go second option recently working php advised go first way unable figure way better maintaining reusability performance wise thanks

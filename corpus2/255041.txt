@@ -1,1 +1,0 @@
-I'm trying to calculate the NPath Complexity within a function, but I'm unsure what parts I count. My understanding is that it'll sum:   * If   * Else   * Else If   * Switch   * Case   * Default   * Do   * While Is this correct? Or am I missing something?

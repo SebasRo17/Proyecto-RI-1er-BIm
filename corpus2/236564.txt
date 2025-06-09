@@ -1,1 +1,0 @@
-What is a web Application Programming Interface? Many common sites provide APIs. Why are they needed, and what function do they provide? How does one access a web API?

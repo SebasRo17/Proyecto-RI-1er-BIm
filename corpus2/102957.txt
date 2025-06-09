@@ -1,1 +1,0 @@
-I tried creating a flow chart of a function that I use in my program, but there are a lot of conditional statements in between every process and the diagrams are getting more confusing. Is there a another language or markup other than flow charts that can be employed for large codebases with high complexity?

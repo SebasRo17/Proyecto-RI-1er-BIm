@@ -1,1 +1,0 @@
-Everyone talks about legacy code in software development and I have heard the term over the last ten years used to paint any codebase as being bad. Where did this term, which has such powerful connotations to programmers alike originate? I am sure there must be some book on software development that pioneered this term. I would love to locate the origin of the term "legacy code".

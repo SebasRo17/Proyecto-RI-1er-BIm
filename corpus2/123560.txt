@@ -1,1 +1,0 @@
-When a login is needed in a system to perfom any action. How do you express that in a Use Case Diagram? I have a system that will allow employees to perform sells. They must be logged in, but once they are, it is not necesary to log again until the session ends (typical login). I do not know how can I express that that login is compulsory, but only once.

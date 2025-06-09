@@ -1,0 +1,1 @@
+If[SQLExecute[con, "Select * from TABLE"] == "{}", Print["TRUE"], Print["FALSE"]]      I need to know the way, if the TABLE is empty or not

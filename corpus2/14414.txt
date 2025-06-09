@@ -1,0 +1,1 @@
+I would like to know how I can remove accents from a string. For example, how can I transform `"string test áéíóú"` into `"string test aeiou"`? I have to normalize some text to make comparisons, and this would be very helpful.

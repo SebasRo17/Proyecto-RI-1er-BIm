@@ -1,1 +1,0 @@
-We are considering using LINQ (to Objects) in our (commercial grade) projects where performance may be an issue. I have heard it may impact performance, but then the code is so much more readable and maintainable. Is this trade-off really worth it?

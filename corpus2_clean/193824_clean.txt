@@ -1,1 +1,0 @@
-someone please explain best way solve problem suppose three class num person num venue num vehicle dao need attribute class query please note requirement using one dao three class framework mvc implementation accomplish seems wrong make get instance field value taught database entity must reflected class case implemented situation

@@ -1,0 +1,1 @@
+I am trying to compute the shortest distance between a point and a triangle in 3D               distance[point_, {p1_, p2_, p3_}] := Module[{p, s, t, sol},       p = s*p1 + (1 - s)*(t*p2 + (1 - t)*p3);       MinValue[{(point - p).(point - p),        0 <= s <= 1, 0 <= t <= 1}, {s, t}]];      but it seems to be quite slow, is there any way to make it faster?

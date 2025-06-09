@@ -1,1 +1,0 @@
-discussion nosql v sql database sometimes hear company prefer use schemaless nosql database problematic migrate schema new version really big problem upgrade relational database bad operation read blog post mongodb blog schemaless

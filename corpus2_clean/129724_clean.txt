@@ -1,1 +1,0 @@
-example system developer need write source instead using xml defined text construct application level logic

@@ -1,1 +1,0 @@
-What do you call classes without methods? For example,               class A     {       public string something;       public int a;     }      Above is a class without any methods. Does this type of class have a special name?

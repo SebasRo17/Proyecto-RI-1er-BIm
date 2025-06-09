@@ -1,1 +1,0 @@
-I have 5-10 files on one server that all catch XMLRPC-PHP requests. There's about 20 lines of `require_once` in each one that are all the same. It'd make life simpler for me to create a separate file that only has the `requires` and `require` that in my XMLRPC files. Is this best practice, or does it open up issues that I don't know about?

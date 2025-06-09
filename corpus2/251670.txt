@@ -1,1 +1,0 @@
-In C# .NET there is two main possibilities to serialize and object.   1. Implementing the **ISerializable** interface?   2. Using the [DataContract/DataMember] serialization **attribute** of WCF? What are the differences of this two possibilities and what is the better in term of execution time.

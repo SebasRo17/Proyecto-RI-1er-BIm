@@ -1,0 +1,1 @@
+Consider the following function: $a Sin(x)+b Cos(x)$ I tried to obtain the maximum value of this function using `MaxValue[]`:               MaxValue[a Sin[x] + b Cos[x], x, Reals]      I expect _Mathematica_ to return the following answer: $\sqrt{a^2+b^2}$ But _Mathematica_ cannot find the answer. Why does this happen?

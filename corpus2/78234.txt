@@ -1,1 +1,0 @@
-As a programmer, it seems like I spend half my time figuring out how to use various libraries/frameworks/tools. First Javascript, then Jquery, then canvas, then Backbone, etc, etc. Every tool has its own set of non-obvious idiosyncrasies that you need to be aware of. Mastering them takes a lot of time. Any suggestions on how to speed up the learning process?

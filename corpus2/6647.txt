@@ -1,0 +1,1 @@
+I want to program a function that counts the successive positions with the same value:               In[]= ConsecutiveValues[{1, 1, 1, 1, 2, 2, 1, 0}]     Out[]= {4, 2, 1, 1}      In fact, I can program this using loops and such, but I have the feeling that there is a nicer, more Mathematicaesque way to do it. Thanks!

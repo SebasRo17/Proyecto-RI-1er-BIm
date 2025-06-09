@@ -1,1 +1,0 @@
-I would really like to understand how an operating system works behind the scenes. However, I think that the kernel of most open-source OSs out there are too complex for learning purposes, even for a full-time programmer to learn. Are there any "simple" OSs made for learning purposes only out there?

@@ -1,1 +1,0 @@
-writing uber simple blogging platform application read set static file article blog serf time content site change new article added existing article changed intend load num content application memory update static file changed e permanent cache simple blog static file never going amount mb application memory wont problem reason blogging platform content change set interval use

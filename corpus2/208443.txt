@@ -1,1 +1,0 @@
-I've noticed that Facebook SOMETIMES uses a hash in the url. For example, when I'm on my home page, and then I click my profile page, the URL quickly changes to:               facebook.com/#_________      followed by some other stuff. before quickly loading to:               facebook.com/profileName      It doesn't always do this. What's going on here?

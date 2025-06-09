@@ -1,1 +1,0 @@
-developing io app prototype customer expecting production standard happy rough edge since first commercial venture io objective c android developer trying cross train io primary focus learning objective c language develop app invested time learning tdd applied environment question even prototype still try apply tdd create unit test

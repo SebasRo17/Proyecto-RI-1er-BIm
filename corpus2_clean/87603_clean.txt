@@ -1,1 +1,0 @@
-basically one tree view us single okay use singleton tree extending jtree another singleton treemodel extending reason avoid using singleton

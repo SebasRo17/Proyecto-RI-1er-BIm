@@ -1,0 +1,1 @@
+You often see plots styled like this (ignore the bar chart component): ![enter image description here](http://i.stack.imgur.com/Slmeh.jpg) i.e. with a small drop shadow under the line. (I'm assuming Excel is being used to produce these plots). How could you make something similar in Mathematica?

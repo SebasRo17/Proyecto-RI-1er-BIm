@@ -1,1 +1,0 @@
-Coming from a scrum environment with no integrated testing support and an independent minded QA staff, how is a tester (QA person) best integrated with a scrum team? What should they do? For reference some test functions are: * Unit Testing * Integration Testing * Functional Testing * Performance Testing * Acceptance Testing

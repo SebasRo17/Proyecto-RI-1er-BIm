@@ -1,1 +1,0 @@
-BAs in my company use Word, Excel and Visio for requirements definition reasonably well. What are the key advantages and disadvantages of using a requirements tool instead?

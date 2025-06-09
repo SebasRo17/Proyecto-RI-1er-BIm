@@ -1,1 +1,0 @@
-thought creating web application either lisp another functional language thinking embedding web server application application handle http request see issue however new creating web application grand scheme thing programming well drawback handling http request within program instead using web server benefit

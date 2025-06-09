@@ -1,1 +1,0 @@
-I would like to know if it is possible to make an application to be sold on Apple AppStores that is linked (during compilation) to a BSD-licensed library.

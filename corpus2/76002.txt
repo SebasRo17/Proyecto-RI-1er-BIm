@@ -1,1 +1,0 @@
-I'm planning on doing some Java web development in my spare time to learn a new set of programming skills, and just want to survey opinion on why Spring is so good for middleware development? What are the key features and advantages of using this over, say struts or writing server pages?

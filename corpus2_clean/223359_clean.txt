@@ -1,1 +1,0 @@
-consider following piece foo public bool const nullptr num value num num private value size n value foo obj key obj printf key exist n num return nullptr cannot find ok let member check instead caller several call directly followed call leaving check caller make ugly edit cleaner way avoid checking besides throw exception instead returning edit num static wrapper

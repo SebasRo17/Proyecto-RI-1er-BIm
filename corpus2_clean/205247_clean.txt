@@ -1,1 +1,0 @@
-bitcoin relies proof work hashing control writing central repository also relies set rule update defines happens conflict found longest chain win using example question architectural example different distributed lock update mechanism suitable p2p network looking description software design suitable project software product key logic rule fundamental decentralized database

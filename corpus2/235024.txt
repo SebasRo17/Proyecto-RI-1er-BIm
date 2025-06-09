@@ -1,1 +1,0 @@
-I was reading a lecture on arrays for Fortran 90 and I came across this sentence : 'Fortran always stores by columns - the first subscript varies more rapidly than the second, and so on.' What does the author mean to say ?

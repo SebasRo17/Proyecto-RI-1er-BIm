@@ -1,0 +1,1 @@
+Is it possible to access the properties or methods of C++ objects created with LibraryLink or MathLink like with J/Link ? Such capability doesn't seem built- in yet and I'm not sure it ever will as Java has introspection capabilities (the ability to retrieve information about classes' members) that I'm not sure C++ has. But maybe I'm wrong ?

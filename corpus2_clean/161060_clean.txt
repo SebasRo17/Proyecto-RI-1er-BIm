@@ -1,1 +1,0 @@
-would like access read write mode zip without decompressing disk option need perform usual io action reserved filesystem like reading writing new file deleting possible would like stick zlib library

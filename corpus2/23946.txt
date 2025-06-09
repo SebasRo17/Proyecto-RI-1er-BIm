@@ -1,0 +1,1 @@
+I have a large graph $G$, which may be either directed or undirected. How would I use `DepthFirstScan[]` or `BreadthFirstScan[]` to efficiently and uniformly sample the set of vertices a fixed shortest distance of $D$ away from some vertex $v_i \in V$?

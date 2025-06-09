@@ -1,1 +1,0 @@
-Ran across this statement by Martin Fowler circa 2002: > Unit testing in XP is often unlike classical unit testing, because in XP > you're usually not testing each unit in isolation. You're testing each class > and its immediate connections to its neighbors. Is this still correct, and if so, why?

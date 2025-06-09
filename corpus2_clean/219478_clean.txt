@@ -1,1 +1,0 @@
-using django application framework need consume web service need traditional django model related orm case since django variant mvc architecture mvt precise wrap web service call model app us call web service directly django view remove model layer

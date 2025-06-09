@@ -1,1 +1,0 @@
-Here's my question: What are the weaknesses with different types of NoSQL databases? Specifically, what're the weaknesses of key-value stores, graph data stores and document stores? I've had an easy time finding strengths, but documents on weaknesses seem to be scarcer. Edit: In comparison to each other, and to relational databases.

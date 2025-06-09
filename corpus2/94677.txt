@@ -1,1 +1,0 @@
-OrientDB looks very attractive from a functionality+license standpoint. I haven't been able to google up much in the way of reports by people who have used it. Can anyone cite particularly notable successes or failures?

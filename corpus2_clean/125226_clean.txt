@@ -1,1 +1,0 @@
-im researching tdd really sure write test written production problem tdd state make assertion write assertion pas created class yet part production meant write test dont class assert hope someone explain

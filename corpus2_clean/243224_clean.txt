@@ -1,1 +1,0 @@
-liskov substitution principle apply inheritance hierarchy parent abstract way parent concrete wikipedia page list several condition met hierarchy deemed correct however read blog post one way make thing easier conform lsp use abstract parent instead concrete choice parent abstract v concrete impact lsp better abstract base whenever possible

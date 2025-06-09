@@ -1,0 +1,1 @@
+How could I display text that flashed red for a half second or so and then reverted to black? (Or was put in bold and reverted to normal, etc.)

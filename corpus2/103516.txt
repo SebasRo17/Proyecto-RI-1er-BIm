@@ -1,1 +1,0 @@
-I am bit confused. Is there only one application domain for every single ASP.NET Web Application or there can be anywhere between 1 to 100 application domains present in a single application pool of a web application

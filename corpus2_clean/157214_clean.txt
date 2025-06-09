@@ -1,1 +1,0 @@
-created namespace like subnamespace snippet file want use many time created property file like provide alias long subnamespace propertyname public get subnamespace instance propertyname set subnamespace instance propertyname problem like

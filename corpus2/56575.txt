@@ -1,0 +1,1 @@
+Is there a function which applied to a quantity returns its numerical value so I for instance can fill it into my `Predictorfunction`?

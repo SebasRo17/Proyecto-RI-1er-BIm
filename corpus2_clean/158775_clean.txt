@@ -1,1 +1,0 @@
-thing eager loading association reduces query made database query time greatly increased question increased query time end pay database often seems avoiding one problem falling another one ob would put eager loading tag reputation enough someone could create edit observation

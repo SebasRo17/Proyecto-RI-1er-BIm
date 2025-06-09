@@ -1,1 +1,0 @@
-The global interpreter lock (GIL) seems to be often cited as a major reason why threading and the like is a touch tricky in Python - which raises the question "Why was that done in the first place?" Being Not A Programmer, I've got no clue why that might be - what was the logic behind putting in the GIL?

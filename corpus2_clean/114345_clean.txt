@@ -1,1 +1,0 @@
-currently working storage problem log various server communication message log http xmpp many write operation read operation use search query filter stick classic relation database schema solution concentrate cassandra based index

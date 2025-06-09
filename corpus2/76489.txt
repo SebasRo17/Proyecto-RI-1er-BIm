@@ -1,1 +1,0 @@
-Ok, I don't get it. What does "Oracle owns Java" mean? Google is definitely using Java in Google App Engine, does that mean that Google have to pay Oracle for doing so?

@@ -1,1 +1,0 @@
-I have a complex website designed using Spring MVC and MyBatis. User Interface is very complex and we have lot of custom made widgets - calenders, lists, graphs etc. If we were to implement field level role-based security what are the options available both from front-end and back-end perspective?

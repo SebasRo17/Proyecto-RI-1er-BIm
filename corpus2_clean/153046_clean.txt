@@ -1,1 +1,0 @@
-found sometimes script properly add script tag head section add script right ending tag body work fine difference adding script head tag ending body tag right control found issue often use jquery

@@ -1,1 +1,0 @@
-I'm been working with PHP on and off for a bit now, and I've seen plenty of code both ways:               $sql = "SELECT …";      mysql_query($sql);      vs               mysql_query("SELECT…");      Is there a reason for separating the two, beyond being able to also pass in something such as $con?

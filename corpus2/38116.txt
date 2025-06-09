@@ -1,1 +1,0 @@
-In other words, a language where every possible string is valid syntax? **EDIT** : This is a theoretical question.   I have no interest in _using_ such a language; I'm just asking whether it's possible.

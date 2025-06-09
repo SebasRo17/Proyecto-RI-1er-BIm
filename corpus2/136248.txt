@@ -1,1 +1,0 @@
-I almost always do web development with a simple editor like Geany or Notepad++. Recently I'm starting with Aptana, and I'm a bit confused about the purpose/benefits of the workspace, my point is that I don't get it. Honestly is something that I really want to understand, why is it useful?, how to use it?

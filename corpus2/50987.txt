@@ -1,0 +1,1 @@
+I have a list "xlsf" with 6 columns and 1200 rows for PCA analysis. The PrincipalComponents[xlsf] gives the following: "The principal components of matrix are linear transformations of the original columns into uncorrelated columns arranged in order of decreasing variance" How do I obtain the transformations performed on columns by Mathematica?

@@ -1,1 +1,0 @@
-Where is it possible to get a real experience with C# and .net programming? Open source teams usually don't want to deal with newbies, making projects with other students is problematic too, because of the lack of volunteers. So, what's the solution for this problem?

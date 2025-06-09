@@ -1,1 +1,0 @@
-In basic networking, we talk about DNS servers, that they resolve human readable addresses (www.google.com) into an actual IP address. As far as I understand, at least using the basics, an IP address refers to a single device (say a router). Surely, www.google.com cannot be served up by one computer? How is www.google.com distributed across multiple servers?

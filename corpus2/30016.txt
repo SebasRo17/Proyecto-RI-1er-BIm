@@ -1,1 +1,0 @@
-As it were, I do enjoy programming in assembly. I know that as a rule, assembly is platform specific so 'x' assembly will not help me if I had to work with 'y' machines. That said, how common are (at least competent) assembly programmers and how in demand are they?

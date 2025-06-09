@@ -1,1 +1,0 @@
-My daughter and my son are learning Java with BlueJ. I really don't understand why the first thing they learn isn't to write code to bring a testcase to green light.

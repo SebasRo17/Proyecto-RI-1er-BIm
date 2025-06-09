@@ -1,1 +1,0 @@
-extracted interface repository class like icustomerrepository iproductrepository project contains repository named x dataaccesslayer call project interface x better definitely keep interface separate project num project implementation interface

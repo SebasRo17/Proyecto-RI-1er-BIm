@@ -1,0 +1,1 @@
+Is there a list of supported units in Mathematica 9 documentation? I personal haven't found any; even the physical constants (newly supported as units in 9) can only be found in compatibility information. It is quite strange that Wolfram didn't even compile a list of units for the documentation.

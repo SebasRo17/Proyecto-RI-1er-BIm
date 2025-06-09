@@ -1,1 +1,0 @@
-I am trying to learn creating apps for IPhone and IPad, apps like database oriented websites where user can save their data. I am a normal php programmer and use only Windows PC. Any good tips that you guys can suggest me to begin with would be highly appreciated. Thanks!

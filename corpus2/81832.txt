@@ -1,1 +1,0 @@
-I heard that we have to build with the highhest warning level. **Is it true? why?** And **how to change default .NET warning level?**

@@ -1,1 +1,0 @@
-using shiro security manager spring mvc web application login basically happens line subject user user login new username password put logic login throw exception requested user exist wrong password provided etc call controller handling call service layer catch exception rethrow controller

@@ -1,0 +1,1 @@
+How can I add the elements in the sublists?   For example, if I have the list which is                m={{1,3},{2,3},{4,1}}      then, the output that I want is `3+3+1=10`. How can I do this?

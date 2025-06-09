@@ -1,1 +1,0 @@
-inherit tile example subclass called collision painting tool application like paint pen published guideline

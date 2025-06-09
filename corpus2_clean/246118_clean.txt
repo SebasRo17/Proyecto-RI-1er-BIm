@@ -1,1 +1,0 @@
-hypothetical scenario need pas apis multiple different provider depending vendor identity provided one piece object within enumerable parent would good way pas object appropriate api reasonably loosely coupled way even api definition tightly hardcoded somehow would good way actually pas object api writing solution c although general architecture matter specific implementation

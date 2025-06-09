@@ -1,1 +1,0 @@
-There is a piece of .net C# code which use Reflection to create an instance using `Activator.CreateInstance()`. This is an old piece of code and runs on the top of Enterprise Library. Is it a better idea to replace this with Dependency Injection to create objects? Is there any Pro's and Con's for either approach?

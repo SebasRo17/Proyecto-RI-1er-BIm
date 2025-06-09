@@ -1,1 +1,0 @@
-know might silly question ask quite get absolute clear answer matter thought put c support subtyping sense fulfills liskov principle fully understand parametric polymorphism inclusion polymorphism subclassing overriding work c entirely sure understand subtyping exists context c could please explain

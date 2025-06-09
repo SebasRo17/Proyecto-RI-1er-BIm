@@ -1,1 +1,0 @@
-going fork open source project would recommend create new changelog file update original one would reasonable increment version number would better reset

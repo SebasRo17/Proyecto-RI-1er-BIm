@@ -1,0 +1,1 @@
+I have two notebooks, each with a different kernel. Is there a way to grab the value of a variable in KernelA from KernelB?

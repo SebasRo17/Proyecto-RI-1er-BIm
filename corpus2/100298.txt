@@ -1,1 +1,0 @@
-I'm developing a web-based source code editor. I'm developing everything(tabs, context menu etc) out of HTML elements. How do I come up with names for UI controls? Is there a book or guide or project from which I can learn how to name things?

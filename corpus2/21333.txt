@@ -1,0 +1,1 @@
+How to obtain high quantum harmonic eigenfunctions? Everything works until, let say 65th eigenfunction, but for higher eigenfunctions values are too high. My code               NoH = Table[1/Sqrt[2^n n!] Pi^(-1/4), {n, 0, ns - 1}];     phi[x_] = Table[NoH[[i]] HermiteH[i - 1, x] Exp[-x^2/2], {i, ns}];      NoH are normalization factors, phi[x] are eigenfunctions. Best regards.

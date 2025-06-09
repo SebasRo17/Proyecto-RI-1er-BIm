@@ -1,1 +1,0 @@
-In my brief time as a professional programmer I've seen lots of applications written by programmers who's entire education appears to have been reading the first couple of chapters in a .NET 2.0 book. Heck when I started I wrote most of those applications! What are the biggest design patterns crucial for writing AWESOME .NET applications? By awesome I mean on the inside too!

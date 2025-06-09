@@ -1,1 +1,0 @@
-More and more I'm seeing functions being declared like               var foo = function() {              // things     };      Instead of how I had learned, like               function foo() {              // things     }      What's the difference? Better performance? Scope? Should I be using this method?

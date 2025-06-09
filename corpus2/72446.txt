@@ -1,1 +1,0 @@
-I am curious; can Java be referred to as a managed language? I am mainly thinking about the Microsoft model when it comes to unmanaged versus managed code (say native vc++ to C#). With the similarities between C# and Java as high-level languages, is it correct to call Java a managed language as well?

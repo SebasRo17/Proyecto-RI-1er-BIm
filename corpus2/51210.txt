@@ -1,0 +1,1 @@
+Im trying to generate a list of random (standard) independent normal variables. For this, I first generate a random list of, say, 100 real numbers in the range [0, 1000], and then make them standard independent random variables. However, this strategy is not working in _Mathematica_. Is there an alternate way to approach this problem?

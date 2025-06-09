@@ -1,1 +1,0 @@
-I am using NetBeans IDE for PHP programming. What is the best solution for using NetBeans on two different computers and keeping them in sync? I am currently using the FTP upload on save feature. But when I open NetBeans on another computer, it doesn't re-download all the change files.

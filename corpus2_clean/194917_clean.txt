@@ -1,1 +1,0 @@
-asp net mvc4 application suppose wanted execute emailing user num day user signed one way executed every request scan database user sign time execute based seems messy depends people visiting application frequently another way write separate application run server num num performs checking perhaps scanning database num 00am every day performing good way go

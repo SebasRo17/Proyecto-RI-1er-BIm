@@ -1,1 +1,0 @@
-feel like anything developed using oo functional language generally made better using prototype based language best high order function flexibility simulate oo structure productivity low verbosity scalability concurrency seems like avoided creation executable application bigger project general

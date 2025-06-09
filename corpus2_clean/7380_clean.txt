@@ -1,1 +1,0 @@
-think ever see il bytecode processing unit sound possible would major benefit need jitter compiling net directly machine since bytecode designed programmed disassembled easily unlike bytecode used x86 processor designed work faster stopping intel example partnering microsoft making net optimised processor

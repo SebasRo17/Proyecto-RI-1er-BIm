@@ -1,1 +1,0 @@
-nsurlconnection service object xml json parser object fall within controller layer model layer ok business logic controller model layer model layer represented nsarray nsdictionary object strictly structured custom object comply mvc pattern given app require persistent storage

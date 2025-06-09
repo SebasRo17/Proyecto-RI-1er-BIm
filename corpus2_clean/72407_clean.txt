@@ -1,1 +1,0 @@
-simple question terminology used delegate pattern let say create responsible download something net finished call back result guess call downloader delegate since work behalf right til problem sample code read property downloader often named delegate put self creator downloader wrong effectively called delegator instead

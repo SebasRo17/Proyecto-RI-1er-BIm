@@ -1,1 +1,0 @@
-I find working in isolation, on a piece of code that won't be seen by anyone else for weeks, draining. I'm looking for ideas to try to keep myself productive and motivated. What do you do to remain motivated and productive, when given a long term programming task, and working on your own (for example, from home, without any team-mates or coworkers)?

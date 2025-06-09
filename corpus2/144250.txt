@@ -1,1 +1,0 @@
-Am looking for a good resource on learning the concepts behind NoSql databases. Most things I find are related to a specific technology (MongoDb, CouchDB etc) but I'm after all the concepts behind NoSql instead of focusing on a specific area (some are graph DBs, some key-value etc). Can you share from your experience and point me to a good resource?

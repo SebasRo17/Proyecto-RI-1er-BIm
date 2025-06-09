@@ -1,0 +1,1 @@
+I installed Mathematica 10 and on my Macbook-Pro with OSX Mavricks. I was most frustrated to find that the front-end Find feature doesn't work. Do others have this problem? Is it possible something got messed up during download & installation?

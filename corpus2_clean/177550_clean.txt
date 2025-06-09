@@ -1,1 +1,0 @@
-query language specifically use jira search issue something like sql quite simpler case need construct query programmatically application something like new open progress corresponding query returned get point hope imagine nice using current knowledge asking advice use create thing believe pattern creating something like already exist already best practice good way

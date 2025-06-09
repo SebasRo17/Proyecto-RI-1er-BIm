@@ -1,1 +1,0 @@
-So Referential integrity is good, but are there scenarios where not having constraints is better? For example when all the logic of relationships is kept in code? or when the database upgrade is simplified? PS: I am not asking it is good not to have referential integrity, just that what scenarios would justify it

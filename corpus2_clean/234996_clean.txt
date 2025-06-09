@@ -1,1 +1,0 @@
-sorted list b sorted list subset element inserted index efficient way determine correct index position b given fact list sorted know b subset would think able devise quite efficient algorithm happy come far thanks

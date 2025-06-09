@@ -1,1 +1,0 @@
-developing simple voting system group political working team wondering could good system certificate vote example simple db structure userid user chose datetime certify vote tampered adding key field resulting algorithm anything else

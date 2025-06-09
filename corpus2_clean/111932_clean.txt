@@ -1,1 +1,0 @@
-far see consuming soap requires soap stack harder client consume e need ensure soap stack place format post header correctly give back structure whereas rest make http get request argument query get back text guess probably xml extra overhead complexity soap give need could without

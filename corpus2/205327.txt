@@ -1,1 +1,0 @@
-I am having trouble with python. I am making a text-based adventure game, and I am trying to make a restart function when you die. I am trying to count deaths by doing deaths = deaths + 1 whenever you die, but the only way to restart is to re-run the entire script, which resets the death counter. Does anyone know how to restart a script without re-running the program?

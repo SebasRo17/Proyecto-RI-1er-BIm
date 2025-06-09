@@ -1,1 +1,0 @@
-I'm running public web site based on Drupal. Drupal is GPL 2 or 3 licence. Of course I wrote custom code which interacts with Drupal code (modules). Can anybody write me an e-mail and ask for the source code of that my custom code? In other words, have I to publish that my code somewhere?

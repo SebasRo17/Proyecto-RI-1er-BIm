@@ -1,1 +1,0 @@
-In asp.net webforms I have a home aspx page that has a “Go” button. [This is the only control in this page]. When this button is clicked, the user is redirected to “UserProfile.aspx” page. How can we represent this redirect action in sequence diagram? Any reference articles/blogs for this?

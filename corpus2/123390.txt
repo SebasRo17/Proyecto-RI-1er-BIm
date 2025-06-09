@@ -1,1 +1,0 @@
-There's a quotation by Ralph William Gosper, Jr that says: > A data structure is just a stupid programming language. What did he mean by this? Alas, all I can find in Google about it is relentless copy/pastes of the quotation itself, without any context.

@@ -1,1 +1,0 @@
-writing website php becomes complex keep finding problem solved using factory design pattern example got page subclass etc depending need either one class use factory design pattern encounter problem class keep change still initiate using constructor wondering good idea change us factory design pattern big drawback currently position change answer would really helpful

@@ -1,0 +1,1 @@
+I guess the right question to this is: Which method is used at `NIntegrate` with _Mathematica_ 8 as default and which is used with _Mathematica_ 9 as default? _Mathematica_ 8 works fine; _Mathematica_ 9 doesn't.

@@ -1,1 +1,0 @@
-I still don't understand the difference between a native app and web or hybrid apps from the interface point of view. Now, apps such as Twitter, Facebook, etc. Are they native? or web? or hybrid apps? In those apps what is the most code was used? is it HTML and JS? or is it a language such as Objective C or Java? I'm still confused.

@@ -1,0 +1,1 @@
+I am trying to solve the equation:               Solve[Re[Integrate[(2 c - (r^2) Exp[- I 1.4746])^(0.5), {r, 0, 31.7576}]] == 2.1216, c]      I want to integrate an expression in the unknown $c$, in some integration interval, then evaluate the real part, and at last solve the equation, and obtain $c$. I don't know why nothing has been returned.

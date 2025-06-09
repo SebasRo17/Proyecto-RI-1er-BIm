@@ -1,1 +1,0 @@
-object row found database another source e g mongodb csv file etc set property something like self dict update property obj dict update property considered pythonic good pattern continue use considered bad form

@@ -1,1 +1,0 @@
-I've heard many times about the aspect-oriented programming, mostly that it is the "next generation" technology in programming and is going to 'kill' OOP. Is it right? Is OOP going to die or what can be reason for that?

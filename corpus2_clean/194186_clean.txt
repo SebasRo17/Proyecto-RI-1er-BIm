@@ -1,1 +1,0 @@
-javascript seems calculate length property number last index rather counting number item example var b c log length num num log length num normally would use push add using bracket notation bit surprise reason implementation assigning length thing seem come us last index performance optimization avoid counting item

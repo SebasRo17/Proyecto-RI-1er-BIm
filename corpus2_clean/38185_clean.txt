@@ -1,1 +1,0 @@
-recently discovered locale specific issue application easy fix figured going got team thinking unit testing practice regard would like catch issue sooner ideally discovered customer want protect locale specific bug future duplicating every unit test least one culture seems like lot overhead would approach multi locale unit testing

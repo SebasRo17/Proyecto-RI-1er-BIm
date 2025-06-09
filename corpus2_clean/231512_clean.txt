@@ -1,1 +1,0 @@
-still learning net oop basic question hope asp net mvc app looking concerned say okay pas parameter private static update item resharper extract refactoring instantiated call var inventoryservice rest public var new using var read write private static shipped var int32 tryparse num tostring shipped delivered var int32 tryparse num tostring delivered message information time

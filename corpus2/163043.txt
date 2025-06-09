@@ -1,1 +1,0 @@
-In my current team, where we run multiple scrums, the Story points are usually based on the effort required to complete the User Story. For example if an User Story has 2 tasks, both needing 5 days each, they the Story is assigned 10 points. So 1 day of effort is considered to be one Story point. Is this practice a good one?

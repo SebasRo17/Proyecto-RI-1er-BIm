@@ -1,1 +1,0 @@
-The Java is GPL license (reference from wikipedia). I am not sure I can use it in in commercial projects. I already have a website written in Java and I plan to use this for commercial use. Is that illegal?

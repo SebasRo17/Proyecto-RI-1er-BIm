@@ -1,1 +1,0 @@
-Two quesitons: 1) Lets say I have a one-man company, and I am personally Java certified by Sun/Oracle. Is it then OK to say that my company is also certified to help me get more customers? 2) What if a large company with 50 employees and at least one is Java certified by Sun/Oracle. Is it OK to say that the company is Java certified as well? How does this work?

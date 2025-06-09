@@ -1,1 +1,0 @@
-When designing Many-to-Many relationship on a database, we need to put another table in the middle so it become 3 tables with 1-to-many relationship. Wikipedia told me that it's called associative entity I always have problem naming these kind of tables. Is there any convention for them? or how do you name these tables?

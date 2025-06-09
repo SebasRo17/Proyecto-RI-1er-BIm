@@ -1,1 +1,0 @@
-read couple article example consider classic size bad practice iterating example vector stl instead recommended use vector iterators e begin end etc

@@ -1,1 +1,0 @@
-according page msdn sql language used sql azure called transact sql sql server way refer programming sql azure sql azure variant transact sql support bunch feature including global temporary table distributed query system table partial support area calling transact sql appropriate anyone know another taken unofficial hold azure sql sql

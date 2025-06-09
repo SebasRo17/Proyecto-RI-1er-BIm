@@ -1,1 +1,0 @@
-I can search and I've already looked at the wikipedia entry and in some other places, but even though I have some programming experience, I don't really grasp the concept. Can you treat me like a 10 year old and give me a clear explanation on socket communication?

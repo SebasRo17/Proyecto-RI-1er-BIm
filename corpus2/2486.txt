@@ -1,0 +1,1 @@
+Probably easy and short question, I still didn't fully figure out how to easily select/delete sublists from a list. Example: > tt = {{2, 4}, {4, 8}} I want to delete/select all the elements where the difference between them (`Abs`) is greater than four.

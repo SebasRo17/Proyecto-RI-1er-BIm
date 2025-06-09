@@ -1,1 +1,0 @@
-In projects with many use cases, it's valid to create different use case diagrams, one for each screen? Or I shouldn't guide myself on the GUI of the software to make this, why? As a clarification, the software does already exist, and I'm just documenting it for my undergraduation final project.

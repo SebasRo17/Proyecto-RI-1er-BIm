@@ -1,1 +1,0 @@
-Is there any algorithm that works better than `O(n²)` to verify whether a square matrix is a magic one (e.g. such as sum of all the rows, cols and diagonally are equal to each other)? I did see someone mention a `O(n)` time on a website a few days ago but could not figure out how.

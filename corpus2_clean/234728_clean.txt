@@ -1,1 +1,0 @@
-writing web app using php jquery file full function access database name like createuser createrole setsomething accepted convention compelling reason choose organize file alpha grouped creator getters setter table reference

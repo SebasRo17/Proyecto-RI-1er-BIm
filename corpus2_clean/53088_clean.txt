@@ -1,1 +1,0 @@
-advisable create multiple class within c file c file individual example public item public animal public person public dodging fact minute poor example good architecture single c file smell

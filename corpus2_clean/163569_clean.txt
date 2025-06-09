@@ -1,1 +1,0 @@
-interview someone asked manage num transactional dao method single transaction desired capability num anyone fails need rollback method num method called separately attached single transaction num management dao layer service layer think question relates spring transaction management

@@ -1,1 +1,0 @@
-currently facing issue project resolving url multiple dns server using node j server everything fine isp restrict incoming request ip outside ip range could modify request specific dns server make look like one client understand dns request correctly thing x forwarded header http request would achieve facing real blocker hope correct stackexchange question

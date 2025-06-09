@@ -1,1 +1,0 @@
-I am an experienced C#/C++ developer. What is the best book to learn Objective C for programmers like me? PS: I interested in developing for the iPhone.

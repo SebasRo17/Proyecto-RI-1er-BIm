@@ -1,1 +1,0 @@
-The saying "It's easier to beg forgiveness than ask permission" seems pretty popular among programmers and IIRC was attributed to Grace Hopper. In what situations is this typically true, and why do you believe that such a counterintuitive proposition would hold?

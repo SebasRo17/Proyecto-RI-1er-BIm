@@ -1,1 +1,0 @@
-Is it used for Software Development or Website development? Is it needed (or good) for a JSP Programmer to learn JMS? I know server side scripting languages like JSP and PHP, but I have not found any relation between JSP and JMS.

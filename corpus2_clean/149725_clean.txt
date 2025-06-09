@@ -1,1 +1,0 @@
-trying understand tcp retransmission queue work implement application us tcap sctp understood tcp queue every message saved retransmission queue time timer reach num message sent question check time message like thread constantly check retransmission queue something else

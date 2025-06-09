@@ -1,1 +1,0 @@
-I'm currently revising a number of document templates for my company. One thing we've never had is a formal Architecture Specification, so I'm starting to put one together. What sort of things do you put into your architecture specs? Feel free to copy and paste a table of contents - that would be helpful. Are there any good templates already available on the web?

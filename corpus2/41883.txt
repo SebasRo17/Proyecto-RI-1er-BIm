@@ -1,1 +1,0 @@
-It seems like most of common web browsers (Firefox, Chrome, Safari) are developed using C++. My question is straightforward. Why they use mainly C++ rather than any other language? **Edit: What factors must have been considered when its come to C++ Write ability, Cost, Reliability etc. ?**

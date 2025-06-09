@@ -1,1 +1,0 @@
-In Agile development you work on small user stories and produce a working iteration. But what happens when the next user story comes in and affects the design for the already done iteration? Sometimes it seems like re-doing the last iteration or another user story to incorporate the new user story in the last iteration! How to approach on this?

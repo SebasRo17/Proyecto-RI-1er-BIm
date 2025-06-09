@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  What should a developer know before building a public web site? Are there any books or resources on html/css/js and web design best practices? There are plenty books which just learn the basics - syntax and other stuff which is not quite difficult, but I can't find use cases, real examples, how professional desginers use them.

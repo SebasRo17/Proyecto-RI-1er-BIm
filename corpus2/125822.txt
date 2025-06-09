@@ -1,1 +1,0 @@
-I'm a university student and I've just started learning about design patterns and im struggling to understand the purpose of them. I have tried researching them but all the resources I have found seem to talk about them in an academic, not professional, way. What is their purpose and are they important to learn?

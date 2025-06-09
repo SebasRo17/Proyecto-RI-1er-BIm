@@ -1,1 +1,0 @@
-I've been trying to read through the RoR API to try to learn things that the tutorial missed, and I haven't been able to follow it at all. The only time I've read documentation was when I needed to look up a Python module, and that was easy to understand, but I can't understand the docs for Rails. How do I read through API documentation?

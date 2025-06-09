@@ -1,1 +1,0 @@
-I've heard it said (by coworkers) that everyone "codes in English" regardless of where they're from. I find that difficult to believe, however I wouldn't be surprised if, for most programming languages, the supported character set is relatively narrow. Have you ever worked in a country where English is not the primary language? If so, what did their code look like?

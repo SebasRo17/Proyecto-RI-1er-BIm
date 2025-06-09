@@ -1,1 +1,0 @@
-anyone experience nosql database couchdb mongodb google bigtable dynamo cassandra like actual production job experience happen relational database num year num year

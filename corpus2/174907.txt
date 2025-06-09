@@ -1,1 +1,0 @@
-If I use EPL licensed software ( namely Eclipse jars ) in an application, do I have to give the users the source code and the right to redistribute? If that is not the case, what rules should I follow if I use EPL licensed software libraries in an application that I wish to distribute?

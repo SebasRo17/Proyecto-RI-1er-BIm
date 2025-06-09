@@ -1,1 +1,0 @@
-Why do software companies use download wizards for large files instead of letting users download the file directly? Is it so the user does not get discouraged by the waiting time, or is it something else?

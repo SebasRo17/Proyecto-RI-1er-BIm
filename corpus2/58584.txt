@@ -1,1 +1,1 @@
-I am an Engineering Graduate in Telecommunication Engineering. I got into a server support job soon after finishing college. I have a total of 2 years experience in Windows server support. However, I want to move into software development and away from server administration. What courses or certifications can I take to move into a software development role?
+Use MATHEMATICA to calculate the volume of the solid that results when the region enclosed by the given curves is revolved about the x- axis. f(x)=Pi^2 Sin[x] Cos[x]^3, f(x)= 4 x^2 x=0, x=Pi/4

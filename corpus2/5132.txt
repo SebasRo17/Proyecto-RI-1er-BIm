@@ -1,0 +1,1 @@
+What is the quickest and best way to export a plot image from Mathematica to a $\LaTeX$ Editor? Is there something quicker than exporting it to an image and then including it in the $\LaTeX$ document?

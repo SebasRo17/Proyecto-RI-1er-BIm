@@ -1,1 +1,0 @@
-When working on a product that needs to be done soon and work well, when is it OK to sacrifice maintainability and "neatness" of design in order to get the thing done and out the door quickly? And to what degree is it OK, especially when the techniques used to make it "neat" are new to me?

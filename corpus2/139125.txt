@@ -1,1 +1,0 @@
-I want to extract text from various files. I used Apache POI for parsing Microsoft documents. It's working and now I want to parse PDFs and extract text from them. Is there a Java API that I could use? I used Apache Tika but it does not provide an API.

@@ -1,0 +1,1 @@
+Does anyone know a (simple) Mathematica code for computing the Lyuponov Exponent for the Rossler System? Thank you Rossler System:               rossler = {           x'[t] == -(y[t] + z[t]),           y'[t] == x[t] + 0.1 y[t],           z'[t] == 0.2 + x[t] z[t] - 5.7 z[t],           x[0] == 1, y[0] == 1, z[0] == 1          }

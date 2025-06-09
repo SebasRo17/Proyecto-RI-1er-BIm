@@ -1,0 +1,1 @@
+I use the following code to draw arrows on arrows in 2D graphics:               Plot[Sin[x],{x,-10,10},AxesStyle->Arrowheads[Automatic]]      But such code doesn't work with `Plot3D[…]` and 3D graphics. Is there any way to get axes with arrows on 3D graphics?

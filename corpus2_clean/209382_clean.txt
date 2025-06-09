@@ -1,1 +1,0 @@
-programming language represent number mainly two type float u easy however float cause lot unexpected surprise num float html wonder used decimal based make sense default literal normal math normal math precise

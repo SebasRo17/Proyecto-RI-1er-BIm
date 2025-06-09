@@ -1,1 +1,0 @@
-reading system employ transaction provide fault tolerance sqlite instance implement journal allows database rolled back known state case failure system reading write current state journal use roll back required found far fewer example next state used complete transaction failure good example system employ roll forward transaction reason choose roll forward design one roll back

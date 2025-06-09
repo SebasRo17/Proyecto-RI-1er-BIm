@@ -1,1 +1,0 @@
-Since I discovered the joys of AJAX, I tend to do all my requests to the server using AJAX. Is this a good idea? According to you, what should I do in PHP and what should I do in AJAX? I like to do my requests to the server with AJAX because I can use it as a kind of web service.

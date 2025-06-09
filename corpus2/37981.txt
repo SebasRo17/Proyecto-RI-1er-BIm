@@ -1,1 +1,0 @@
-I am currently working on an LOB application which I am basing on the MVVM architecture. Going by the answers to the questions I'm asking, it seems like there are not that many people building _large_ and/or _complex_ applications in MVVM. Hopefully, there is a number of you who have built such animals. If so, have you found that MVVM scales?

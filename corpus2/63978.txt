@@ -1,1 +1,0 @@
-My company just bought new computers to replace old 2GB Windows XP machines. Someone on my team noticed that they came with hyperthreading disabled, and told everyone to reboot and turn it on. Is there a benefit to programming on a machine with hyperthreading disabled?

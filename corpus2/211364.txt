@@ -1,1 +1,0 @@
-In computer science, what is the abstract common name of types and values (I mean an abstract "something" that can be a type or a value) ? To be more specific:   If we have `template <typename X>` or `template <int X>` what is the abstract name of `X`?

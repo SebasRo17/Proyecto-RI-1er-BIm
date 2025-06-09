@@ -1,1 +1,0 @@
-please someone explain go deciding whether use expect syntax rspec example understanding longer using syntax replacement use expect expected correct really good reference seems common practice still use reference updated consistently help correct direction would appreciated reference others excluded

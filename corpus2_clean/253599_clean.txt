@@ -1,1 +1,0 @@
-video processing ffmpeg already contains much need however video compressed h num video codec libx264 gpl part ffmpeg hand constrained baseline profile pretty enough application mean could perfectly use would possible theory practice make replacement

@@ -1,1 +1,0 @@
-Okay, so I am looking for a way to safely run a randomly generated binary code. I also need to be able to decompile the code. Any ideas and all programming languages are welcome. BTW it most be binary code; byte code or source code will not work. This is a research project, so I can't go adding variables.

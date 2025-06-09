@@ -1,1 +1,0 @@
-I'm writing a library which links with modified LGPL library,so two questions:   1. Do I have to make my code LGPL in case of static linking with LGPL library?   2. in case of dynamic linking?

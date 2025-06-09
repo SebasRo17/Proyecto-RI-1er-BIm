@@ -1,1 +1,0 @@
-Our teamlead said that many files much worse than a single, despite of we are working on a big project. He argued that our customers could more easily send logs to us if there will be just a single file. To understand our log-file he wants to develope our own log-analyzer which will analyze a single log-file separating it to many

@@ -1,1 +1,0 @@
-looking haskell standard library see newtype statet statet newtype newtype sum sum apparently least num different prefix used unwrap inside newtype un get moreover get next letter un seems confusing reason historical thing design newtype prefix use

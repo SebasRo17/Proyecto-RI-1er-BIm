@@ -1,1 +1,0 @@
-I can't see the difference between MVC and MVVM clearly. I feel the Command in a ViewModel is just like the Action method in a Controller. And both the Controller and ViewModel will notify the View to refresh itself after modifying the state of the Model through Data Binding. What is the main difference between the two patterns?

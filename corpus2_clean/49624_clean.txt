@@ -1,1 +1,0 @@
-lack unicode support php affect php web app

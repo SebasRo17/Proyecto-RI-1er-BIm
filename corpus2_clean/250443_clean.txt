@@ -1,1 +1,0 @@
-searching suitable way make web request database display result real time used interface staff cannot blocking lag time key factor far using php backend system however come interface slightly stuck used android asynchronously ideally similar processing call read current way using php truly asynchronously good web language use purpose available option

@@ -1,1 +1,0 @@
-Are there any resources available around that suggest best-practice structure for setting up a wiki for developers? I'll be managing a team that has not had the best track record for documentation, communication and knowledge-sharing. I'd like to have a framework set up to make it easier for the team to get started in this area. Thanks!

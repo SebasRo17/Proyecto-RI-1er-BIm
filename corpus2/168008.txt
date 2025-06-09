@@ -1,1 +1,0 @@
-Models in an MVC application gets kind of hard to test when validation of data and persistence of data is baked together in the model. I would like to test those separately to prevent doing integration testing instead of actual unit testing. What patterns are available to keep validation and persistence separated?

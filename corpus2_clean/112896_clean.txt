@@ -1,1 +1,0 @@
-degenerate s1 x replaced four character b c s1 match another non s2 first use brute force find possible string s1 requires num n n number degenerate complexity num num s1 matched s2 using dynamic programming requires x j running time length s1 j length s2 total running time num n x ij n quite slow efficient algorithm

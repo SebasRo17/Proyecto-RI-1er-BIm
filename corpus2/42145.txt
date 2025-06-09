@@ -1,0 +1,1 @@
+My teacher suggests using the RandomInteger command along with the Factor command, but I cannot figure out the syntax. A, b, and c need to be non zero integers between -10 and 10.

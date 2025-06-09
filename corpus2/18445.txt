@@ -1,0 +1,1 @@
+How can I implement Hyperbolic numbers in _Mathematica_? How could I express their polar form? How could I calculate their power?

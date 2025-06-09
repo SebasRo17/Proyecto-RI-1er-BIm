@@ -1,0 +1,1 @@
+The default keyboard shortcut (on Windows at least) for switching focus to the next window is Ctrl+F6, and for switching to the previous windows it's Shift+Ctrl+F6. How can I change this to Ctrl+Tab and Shift+Ctrl+Tab respectively (or some other pair of combinations which is not used by default)?

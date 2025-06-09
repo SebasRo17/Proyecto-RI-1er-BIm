@@ -1,1 +1,0 @@
-I have to build a new application from scratch, so I want to implement it using MVC3 and try to follow general best practices as closely as possible. However, I'm developing it as a one man army. Does it make more to create the views first so I have some "Mockup screens" then build the Models and controllers? or the other way around?

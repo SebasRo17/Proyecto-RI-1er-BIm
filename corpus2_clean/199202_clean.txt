@@ -1,1 +1,0 @@
-wondering whether community utilizes automation test extent ui common best practice testing ui also product working flex based would love get idea test mainly want test num appears screen expected num field validation example field number working expected num alignment field

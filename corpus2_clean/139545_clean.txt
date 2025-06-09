@@ -1,1 +1,0 @@
-building application scratch start oriented oo model entity relationship er model

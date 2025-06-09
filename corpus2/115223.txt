@@ -1,1 +1,0 @@
-Let's say I really like Ruby and I know Java. What's the deal behind these J* and Iron* languages that allow you to use the syntax of a foreign language to compile them into JVM or .NET bytecode? Basically, what's the advantage? Is it just because you like the runtime of one language, but not the syntax? Please advise!

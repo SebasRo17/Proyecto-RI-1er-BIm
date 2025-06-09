@@ -1,1 +1,0 @@
-For example: http://commons.wikimedia.org/wiki/File:Epithalamus.png Could I take an image file like that, splice it apart, and use it in an application that would be sold?

@@ -1,1 +1,0 @@
-I am not a licenses expert so I got confused a bit... The license Apache 2.0; Does it allow to get source codes and modify them for new projects? I mean modify source codes (some its parts) and recompile them?

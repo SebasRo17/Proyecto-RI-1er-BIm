@@ -1,1 +1,0 @@
-for (i = 0; i < 3; i++)      {         for (j = 0; j < 4; j++)         {             cout << arr2d[i][j] << "\t";         }             cout << endl;         .....      Like that for example. Do you read the for loop inward-out (starting from `for (j = 0; j < 4; j++)`) or outward-in (starting from `for (i = 0; i < 3; i++)`) Just wondering. :D

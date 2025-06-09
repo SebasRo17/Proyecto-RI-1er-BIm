@@ -1,1 +1,0 @@
-Originally, this is a part of another question. Why is `sizeof` called a compile-time operator? Isn't it **actually** a run- time operator? And if it is indeed a compile-time operator, how does it help in producing portable code which runs the same in different computers ? Please explain in detail.

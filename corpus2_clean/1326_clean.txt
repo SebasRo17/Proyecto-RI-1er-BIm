@@ -1,0 +1,1 @@
+task compute symmsum b c e f f b e c symmsum b c e e b c clumsy solution symmsum l list block n length l re re last last reap sow l l ceiling n oddq n re re feel done without using length

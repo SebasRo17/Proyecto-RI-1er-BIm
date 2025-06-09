@@ -1,1 +1,0 @@
-I can find all sorts of weird information about templates in Perl, but nothing about what they actually are. Are they generic types like in C++? Is it a class-like structure? Or maybe something else?

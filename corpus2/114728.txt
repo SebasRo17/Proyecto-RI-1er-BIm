@@ -1,1 +1,0 @@
-My t-sql teacher told us that naming our PK column "Id" is considered bad practice without any further explanations. Why is naming a table PK column "Id" is considered bad practice?

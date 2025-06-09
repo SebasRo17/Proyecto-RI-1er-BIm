@@ -1,1 +1,0 @@
-What about confirming the functionality in positive tests, proving it is working - should I say it is a waste of time? What kind of concept is behind this quote? > Unsuccessful tests, i.e. tests that do not find errors are a waste of time. Web Engineering: The Discipline of Systematic Development of Web Applications quoting Cem Kaner.

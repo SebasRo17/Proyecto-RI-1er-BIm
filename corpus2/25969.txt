@@ -1,1 +1,0 @@
-Should I bother to develop for JavaScript disabled? I feel that my time is better spent developing for the majority.

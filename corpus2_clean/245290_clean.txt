@@ -1,1 +1,0 @@
-take optional parameter used filter collection however filter apply parameter passed word non filter passed applied write logic reflect condition order val order feel clunky wrong way simplify logic

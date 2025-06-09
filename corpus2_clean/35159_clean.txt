@@ -1,1 +1,0 @@
-recently started using haskell platform created source file using named add tried double clicking open ghci get num num compiling c add h c add h num num parse failed module loaded none use source file use another text editor thanks

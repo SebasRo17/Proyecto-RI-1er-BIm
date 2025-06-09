@@ -1,1 +1,0 @@
-I've never worked in assembly, but I was just curious if SDK's exist for assembly programming. For instance, if I wanted to create a linked list, are there libraries available that have already done this, or is everything typically done from scratch?

@@ -1,1 +1,0 @@
-It seems there are many different ways to represent the same information:               FirstName, MiddleName, LastName     Forename, MiddleName, Surname     GivenName, MiddleName, FamilyName      Which one is preferable? It depends??

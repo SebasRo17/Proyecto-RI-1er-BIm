@@ -1,1 +1,0 @@
-writing draw complex image multiple part also plan adding add functionality would right make part even ever called render see upside since easier read easier add part downside however would would increase complexity quite possibly make harder maintain keep render break apart different step

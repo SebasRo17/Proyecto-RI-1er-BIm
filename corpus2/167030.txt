@@ -1,1 +1,0 @@
-On the main Issues page, you can click `Everyone's Issues`, or `Assigned to me`. If you want to view the tasks assigned to a particular person, you can click the `search` icon, and on the left choose the `assigned to anyone` drop-down, then choose from a list of assignees. But how to I list all the items which are not assigned to anyone?

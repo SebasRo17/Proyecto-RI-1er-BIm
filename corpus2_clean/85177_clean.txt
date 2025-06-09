@@ -1,1 +1,0 @@
-currently use one controller per action one problem sort encountered naming method controller one use generic like get encapsulate controller one method action e g indexaction

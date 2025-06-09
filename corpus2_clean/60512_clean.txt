@@ -1,1 +1,0 @@
-vs2010 ultimate plus resharper since sp1 noticed regular really irritating bug editor tab working temporarily disappears suddenly reappearing second two later anyone else noticed anything similar resharper issue appreciate advice

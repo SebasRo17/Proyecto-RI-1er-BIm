@@ -1,1 +1,0 @@
-Is there any risk in allowing your team of developers to install whatever Visual Studio Add-ons they want? Is it a good idea to allow them this freedom?

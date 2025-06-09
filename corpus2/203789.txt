@@ -1,1 +1,0 @@
-Using macros readers, it's possible to interpret JavaScript, and have it compiled just like normal Common Lisp code. Hence getting the benefits of Lisp implementations, notably their performance. Which would mean having native performance in the browser, without cheating. Would it be technically possible to build this for the browser? I'm mainly worried about the DOM bindings.

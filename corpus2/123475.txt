@@ -1,1 +1,0 @@
-I'm trying to understand the origins of AJAX, and think MSXML and XMLHTTPRequest were the objects that started it all. Which came first, and/or became the defacto way to create dynamic pages?

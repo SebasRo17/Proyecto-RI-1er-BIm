@@ -1,1 +1,0 @@
-There are numbers 1 to N present in a list, and an additional number that has been included by mistake. So, in total there are N+1 numbers. Assume that the largest integer that the language can handle is N. What is the fastest algorithm to find the repeat digit? Note: This is not a homework problem.

@@ -1,1 +1,0 @@
-I'm looking for some advice how to get started with Logic programming, and I am really enjoying working through the Scheme book "Structure and Interpretation of Computer Programs." Is there a similar book that is geared toward Prolog? Or, if there is a better language to study than Prolog for Logic programming I am interested in hearing your opinions on that as well.

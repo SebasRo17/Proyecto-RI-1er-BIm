@@ -1,1 +1,0 @@
-I developed one application for iPhone and now I want it on App Store. So many my iOS geek friends told me to test it on actual device i.e. on iPhone. So I wonder that why it is necessary to to test my iPhone app on actual iPhone device though they (Apple) have given "simulator" which is near about same as my device?

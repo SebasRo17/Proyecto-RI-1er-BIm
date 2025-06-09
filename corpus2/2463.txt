@@ -1,1 +1,0 @@
-I'm looking for a way to easily port content driven applications from one mobile platform to another. And recently I've came a cross a grapple mobile that claims that they can compile one code written in js and css to almost all platforms. Have you used it? Are such apps approved by apple? (AFAIK Apple restricted the development to objective-c, c, c++)

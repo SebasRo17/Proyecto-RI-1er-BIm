@@ -1,1 +1,0 @@
-What's the best way to automatically generate or increment version numbers for a (python) project that's on GitHub? In the past I've always manually incremented the versions number manually via the `argparse` or `optparse` libraries.

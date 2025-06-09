@@ -1,1 +1,0 @@
-Variable names can be written in many ways, but the most common that I'm familiar with are:   * thisisavariable,   * this_is_a_variable, and   * thisIsAVariable. Which of these are preferred, and why?

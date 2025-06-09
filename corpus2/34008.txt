@@ -1,0 +1,1 @@
+I need to place ArrayPlots in the vertices of graph. i.e. in graph                Graph[{1->2, 2->3, 3->1}]      I have to replace vertex 1 with ArrayPlots[{{0,0,1}}] and so on basing on the following list               {{1,{0,0,1}},{2,{0,1,0}},{3,{1,1,0}}}

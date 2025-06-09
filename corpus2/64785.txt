@@ -1,1 +1,0 @@
-Why should I use this software instead of, say, Microsoft Project? What kind of level of familarisation with TFS does it demand? Is there anything similar I could use with SVN instead?

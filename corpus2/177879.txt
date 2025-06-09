@@ -1,1 +1,0 @@
-Is the introduction of the new lambda notation (see e.g. this article) in Java 8 going to require some kind of type inference? If so, how will the new type system impact the Java language as a whole?

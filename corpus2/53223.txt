@@ -1,1 +1,0 @@
-Esoteric languages are intriguing and can make you go 'Hmmm...', but what can we really learn from them? Is there a benefit to spending more than 5 minutes trying to write an application in an esoteric language? Have you tried one, and if so, what did you learn?

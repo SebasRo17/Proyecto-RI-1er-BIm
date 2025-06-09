@@ -1,1 +1,0 @@
-I'm just starting to get interested in C++11 (late I know). Does anyone have any recommendations for books available that cover the new features in depth?

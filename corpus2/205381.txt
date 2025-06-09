@@ -1,1 +1,0 @@
-Is the new Scheme standard, R6RS which was published in 2007, backwards compatible with the older standard R5RS? If not, is there a compatibility mode in R6RS?

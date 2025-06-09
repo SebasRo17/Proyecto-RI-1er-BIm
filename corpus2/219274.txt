@@ -1,1 +1,0 @@
-I want to know what is exactly a method header and what is a method signature and is this the same among programming languages or just in C#? So, is it correct to say the following is a method header:               public void SumNumbers(int firstNumber, int secondNumber)      and the following is the method signature:               public void SumNumbers(int, int)      ?

@@ -1,1 +1,0 @@
-What are combinators? I'm looking for:   * a practical explanation   * examples of how they are used   * examples of how combinators improve the quality/generality of code I'm not looking for:   * explanations of combinators that don't help me get work done (such as the Y-combinator)

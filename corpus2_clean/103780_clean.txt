@@ -1,1 +1,0 @@
-notice web related us setter method set field instead setting directly since scope find bit odd using setter certainly safer unit test implemented bug found worth extra stack call imo production see sample online edit make clear talking case whereby setter consists solely single assignment expression nothing

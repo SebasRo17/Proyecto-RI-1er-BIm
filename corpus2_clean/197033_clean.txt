@@ -1,1 +1,0 @@
-creating small web site need call rest api retrieve json display best tool job many javascript library available difficult decide one choose particular library people would recommend want efficiently without extensive development effort

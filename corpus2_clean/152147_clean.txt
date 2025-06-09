@@ -1,1 +1,0 @@
-glsl fundamentally different shader solution server gpu driver responsible shader compilation cg afaik generally compiled priori sent gpu way cause real world practical issue many driver provide buggy compiler compiler differ term strictness one gpu accept program another also know assembler optimised upside glsl current approach worth

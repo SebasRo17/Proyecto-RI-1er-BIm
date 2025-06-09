@@ -1,1 +1,0 @@
-I'm currently studying for an examination and one of the sample paper questions is to discuss the limitations of UML. Most of the material I'm finding on the net is relating to a specific UML implementation or language. I'm wondering from a generalists point of view what would you consider the limitations of UML to be?

@@ -1,1 +1,0 @@
-Some questions can be answered easily by using specific language library. For example Java has Set, Maps, and List. Is it possible to answer those coding questions during interview by using these library or should we go more with a traditional down to earth approach, making it a C- kind of answer?

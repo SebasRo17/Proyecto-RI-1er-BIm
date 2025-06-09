@@ -1,0 +1,1 @@
+I am looking for a function to unwrap phase of a list of points as done here for the continuous case. I have the Re/Im data as my input and would like the unwrapped phase as the output. Does anyone know how to do this in Mathematica?

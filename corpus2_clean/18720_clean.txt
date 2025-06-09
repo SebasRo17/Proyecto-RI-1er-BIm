@@ -1,1 +1,0 @@
-recently discussion coworker versioning web application think need want sanity check confirm latest release live think date yymmdd probably good enough base missing point use web application version number

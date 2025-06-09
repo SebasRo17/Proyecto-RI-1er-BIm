@@ -1,1 +1,0 @@
-would like create word always word given sequence number based given alphabet word num b c word num b c b word num b c c word num b c aa word num b c ab word num b c ac word num b c ba word num b c bb word num b c bc word num b c ca able recursively create permutation given length starting length num already get quite big memory

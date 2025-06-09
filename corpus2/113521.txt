@@ -1,1 +1,0 @@
-4-bytes = word; 8-bytes = 2x word Then why doesn't the heap just go with 4-byte alignment (because it will be grabbing a word at a time anyway, right?) If we went with 8-byte alignments, why not 12? 16?

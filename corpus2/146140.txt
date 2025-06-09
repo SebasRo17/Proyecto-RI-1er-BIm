@@ -1,1 +1,0 @@
-After reading this interesting question, I felt like I had a good idea of which insecure hashing algorithm I'd use if I needed one, but no idea why I might use a secure algorithm instead. So what is the distinction? Isn't the output just a random number representing the hashed thing? What makes some hashing algorithms secure?

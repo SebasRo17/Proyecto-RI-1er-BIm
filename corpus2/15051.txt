@@ -1,0 +1,1 @@
+With a text file with entries formatted as (output from C++):               f[38.67] = -2.5387862698183892298317350539374412777263289550697e-05;     ⋮      Is there a way to read this into _Mathematica_? It seems to be getting confused with the `e`, thinking it is just a symbol `e`.

@@ -1,1 +1,0 @@
-I'm sure you all have heard managers saying that "we need an analyzer", or "we need a designer". While I'm a .NET developer, I hardly can differentiate an analyzer from a designer (not web designer or UI designer). Who is analyzer? Who is designer? Do they overlap?

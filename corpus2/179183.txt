@@ -1,1 +1,0 @@
-What to do when a sprint is finished early? At the moment our Scrum team works off stories from the backlog, if the sprint is finished early. What happens with stories taken from the backlog? Will the stories be added to the current Sprint ? If yes, what if these stories won't be finished in time. Is the Sprint failed then?

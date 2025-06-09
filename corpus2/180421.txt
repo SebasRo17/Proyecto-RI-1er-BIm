@@ -1,1 +1,0 @@
-This might sound like a naive question but when are database table indexes in mysql required? How do such indexes affect performance and why?

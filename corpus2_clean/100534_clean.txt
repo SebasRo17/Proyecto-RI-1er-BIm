@@ -1,1 +1,0 @@
-common mistake anti pattern nhibernate user programmer make please explain bad practice give link resource reading example one anti pattern common new nhibernate programmer use identity native instead orm style read

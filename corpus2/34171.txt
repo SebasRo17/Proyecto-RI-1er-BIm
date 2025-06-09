@@ -1,1 +1,0 @@
-If you have used clearcase before, then this question is for you. How do you determine all the files and their corresponding checkins?, given a snapshot view.

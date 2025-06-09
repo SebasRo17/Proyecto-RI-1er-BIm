@@ -1,1 +1,0 @@
-using mvc3 framework num database first approach created context template validation field based database question put validation based buisness logic put context tt file go controller go seperate model

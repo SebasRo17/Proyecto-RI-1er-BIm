@@ -1,1 +1,0 @@
-scenario two virtual machine produce log want log sent central server processing soon log generated streaming condition want server know virtual machine log came server observe file containing something like action num vm1 action num vm1 action num vm2 action num vm1 action num vm2 question thing implemented efficient way streaming central server done hope question clear

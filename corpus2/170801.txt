@@ -1,1 +1,0 @@
-Is Linux/Unix based OS adoption for development (or recreation) a rough measure of the awareness, adaptability and/or skill of a developer, after considering factors like learning curve for effective code testing via the CLI, basic scripting, tweaking, etc.

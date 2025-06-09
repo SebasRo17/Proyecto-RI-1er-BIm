@@ -1,1 +1,0 @@
-working large angular application currently using factory build html template string worry mobile support application wondering architectural standpoint would rather implement static html file fetched request build template string

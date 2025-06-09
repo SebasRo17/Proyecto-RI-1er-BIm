@@ -1,0 +1,1 @@
+Please consider the following:               Split[data, patterns &]     patterns=Not[#=="a"]&&Not[#=="b"]&&...&&Not[#=="blabla"];      How can I define `patterns` without typing `&&Not[#=="char"]` for every single pattern?

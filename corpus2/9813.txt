@@ -1,0 +1,1 @@
+Suppose I have two lists, say:               A = {1,5,10,200,50,7}     B = {4,3,19,78}      For each element in A, I would like to find the index of the first element in B which exceeds that element, (or 0 if none do) i.e. :               result = {1,3,3,0,4,3}      Clever syntax much appreciated!

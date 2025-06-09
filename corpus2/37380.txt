@@ -1,0 +1,1 @@
+I do have noisy data and want to smooth them by a Savitzky-Golay filter because I want to keep the magnitude of the signal. a) Is there a ready-to-use Filter available for that? b) what are appropriate values for m (the half width) and for the coefficients for 3000-4000 data points? Example data: data

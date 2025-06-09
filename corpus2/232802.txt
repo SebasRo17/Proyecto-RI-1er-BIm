@@ -1,1 +1,0 @@
-Simple question: I understand that Serialization in C# requires default constructors. This would eliminate the possibility of using Constructor injected DI (which is generally the favored style of DI, in my reading[citation needed]). So is it really an either-or situation, or am I missing something? (Side question): Do IoC containers side-step this tradeoff somehow?

@@ -1,1 +1,1 @@
-Is there any compelling reason a programmer would host on a shared platform versus just having a VPS account somewhere?
+Is it possible to get an answer to the following question in _Mathematica_? Let $M$ be a $n$ by $n$ matrix, is there a function $m:\mathbb{N}\times \mathbb{N}\rightarrow \mathbb{Z}$ such that $m_{ij}=m_{ji}$ and $m_{ij}=m_{i+2,j+2}$ for all $i$ and $j$. I am new to _Mathematica_ and interested whether such existential, abstract expressions can be solved in _Mathematica_.

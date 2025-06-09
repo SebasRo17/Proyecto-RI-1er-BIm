@@ -1,1 +1,0 @@
-In the python `datetime` module, `timedelta` objects take weeks, days, hours, minutes, seconds, and microseconds as arguments upon instantiation. However, after the `timedelta` is created, the only two attributes it has of the former listed are days, seconds, and microseconds. Why is this?

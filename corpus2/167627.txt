@@ -1,1 +1,0 @@
-As we know a many to many association are shown by two asterisks in both end of association. Now I have a association between two entities "Good" and "Invoice" so Good and Invoice have a many to many association but I want to show the "count of each good" in each invoice on class diagram. How can I show it?

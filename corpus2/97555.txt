@@ -1,1 +1,0 @@
-Considering that more and more Web Services are implementing a RESTful interface, I am wondering what the future of SOAP will be? I'm looking for any kind of papers, statistics, articles or publications from official sources (e.g. books, articles and journals) which provide information on the future of SOAP. Thanks in advance!

@@ -1,0 +1,1 @@
+I would like to save a number that I gain with FindRoot so that I can use it in another function. I tried:               alph := FindRoot[BesselJ[0, x], {x, 0, 2}]     f[x_] := alph*x     Plot[f[x], {x, 0, 10}]      This does not work because `alph` is not a number but an expression `{x -> 2.40483}`. So how do I do this correctly?

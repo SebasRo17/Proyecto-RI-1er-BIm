@@ -1,0 +1,1 @@
+could you give me some input on how to create a list version of               SphericalPlot3D[r[theta,phi],{theta,min,max},{phi,min,max}]      When r[] is an explicit analytical function it's not an issue, but what if one numerically generates a list {{r1,theta1,phi1},...,{rn,thetan,phin}} and wants to visualize it in a similar manner? Any ideas?

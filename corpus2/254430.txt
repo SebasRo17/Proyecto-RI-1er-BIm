@@ -1,1 +1,0 @@
-I have been able to get my favorite Python tool, Python iDLE, to work by starting it with a windows shortcut to IDLE.BAT with a -n (no subprocess) at the end of the TARGET string. Is there a different/better way to do it so I don't need to use a windows shortcut?

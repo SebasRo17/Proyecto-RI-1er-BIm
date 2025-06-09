@@ -1,1 +1,0 @@
-I've found the SOLID principles quite useful when thinking about object- oriented design. Is there a similar / equivalent set of language-agnostic principles tailored for functional programming?

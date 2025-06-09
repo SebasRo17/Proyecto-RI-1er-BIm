@@ -1,0 +1,1 @@
+Is there any way to obtain random numbers from a user defined continuous distribution in Mathematica? Thank you very much

@@ -1,0 +1,1 @@
+I would like to run a batch job from within the current Mathematica .m file using "R CMD BATCH &" (the job runs in the background when Mathematica proceeds with the current calculations. How can I do that in Mathematica 9?

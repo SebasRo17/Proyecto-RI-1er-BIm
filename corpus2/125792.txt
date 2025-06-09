@@ -1,1 +1,0 @@
-Suppose this:               void func()     {      ...      if( blah )      {       int x;      }      ...     }        Is the space for `x` reserved on the stack immediately when `func` is entered, or only if the block is actually executed?   Or is it the compiler's choice?   Do C and C++ behave the same about this?

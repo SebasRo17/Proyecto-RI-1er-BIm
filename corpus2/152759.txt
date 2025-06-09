@@ -1,1 +1,0 @@
-Suppose I have an abstract class named `Task`. Is there a standard or convention that would suggest I should name it `AbstractTask` instead?

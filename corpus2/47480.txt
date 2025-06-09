@@ -1,1 +1,0 @@
-I recently read the book 'UML Distilled' and found the sequence diagrams very useful. My question is that can we show 'data flow' as well on a sequence diagram? This is my first time on sequence diagrams. Nice to see some examples if any.

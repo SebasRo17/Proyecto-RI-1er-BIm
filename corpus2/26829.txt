@@ -1,1 +1,0 @@
-Preference for dynamic and static typing is largely a matter of taste, and different people find them more or less suitable in different situations. My question is, would it be technically possible to have a statically-typed alternative to JavaScript for client-side web page augmentation etc.?

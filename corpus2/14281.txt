@@ -1,1 +1,0 @@
-It's easy to find resources for learning WPF, similarly it's pretty easy to find resources for F#. But I feel that I could save some time if I could learn them both at the same time. So can anyone recommend any books, blogs, articles , something else? (I'm familiar with functional programming, winforms and c#)

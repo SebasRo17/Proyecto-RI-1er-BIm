@@ -1,1 +1,0 @@
-writing constructor regularly encounter situation field already default value boolean value num integer reason emphasize value example like state num appreciate reading someone one side feel like expressing implementation detail explicitly side find pointless set field sure already correct

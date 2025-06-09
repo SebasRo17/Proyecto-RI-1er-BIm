@@ -1,1 +1,0 @@
-would like write web system capture parse incoming email traditionally web system write asp net mvc running cloud hosted environment like azure leverage potentially dns acheive

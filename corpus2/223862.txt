@@ -1,1 +1,0 @@
-How important is it to initialize variables? Does proper initializing avoid memory leaks or have performance advantages?

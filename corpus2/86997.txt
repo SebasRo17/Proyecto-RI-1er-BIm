@@ -1,1 +1,0 @@
-I have this problem: Imagine you have a vector V, integers from 0 to 70000 -- sorted in ascending order Now you have a permutation P of that vector. Then you do V[P] "shuffling" the vector. If you keep doing V[P] (P never changes), V will eventually be sorted again in ascending order? Is there a way you may know, a priori, how may shuffles you need?

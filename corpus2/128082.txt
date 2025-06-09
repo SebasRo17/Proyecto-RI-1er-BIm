@@ -1,1 +1,0 @@
-How important is it for a developer that deals with web applications (let's say writing html and js) to download a browser's source code (like Chromium) and learn how the engine works (renderer, javascript vm, network processing, etc.)?

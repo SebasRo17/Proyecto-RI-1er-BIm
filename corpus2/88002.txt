@@ -1,1 +1,0 @@
-I will be working on a 3D project and i need to learn c++ and opengl fast. as i have heard it is the best combination to do graphics. I would also like your recommendation on this book I came across: Angel E, Interactive Computer Graphics: A top-down approach with Open GL, 5th Edition, Addison Wesley 2008 what do you recommend? thanks!

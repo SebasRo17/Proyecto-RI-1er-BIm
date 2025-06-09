@@ -1,1 +1,0 @@
-Is it justified to create a model subclass just for creation of appropriate viewmodel based on this class. Am I missing something? How to pass data about model into viewmodel?

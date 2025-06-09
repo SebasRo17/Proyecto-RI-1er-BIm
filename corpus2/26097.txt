@@ -1,0 +1,1 @@
+My data is in the form of 6 columns in a notepad file. I want to import, only from a specific column,say, the third column into Mathematica in the form of a list, i.e., i want commas to be placed after each data points. Thanks in advance!

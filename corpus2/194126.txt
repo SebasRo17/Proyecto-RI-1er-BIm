@@ -1,1 +1,0 @@
-In some pseudocode, I saw the following:               if w in [1..5,8,11]      Does it mean that if w is from 1 to 5 or 8 or 11? Or is it something else?

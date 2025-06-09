@@ -1,1 +1,0 @@
-writting small webapp learning better best practice create multiple model one model multiple custom type example let say web app library would shelf shelf would book location book would title author text decimal number would better book model shelf model come better example library model book shelf library model hold class understand model hopefully question make sense

@@ -1,0 +1,1 @@
+Is it possible to program the Front End to automatically format double square brackets without having to type `Esc``[[``Esc` each time? It's awful to have to type `Esc` four times for each `Part` expression, and even more annoying to visually parse the unformatted double brackets. See also this entry in MathGroup archive: adding a keyboard shortcut for double brackets

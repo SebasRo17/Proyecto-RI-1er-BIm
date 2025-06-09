@@ -1,0 +1,1 @@
+I have data in file.txt which can be expressed by 20000x11 matrix. I do not want to import all of these data. How can I plot graph of the column 1 & column 4?

@@ -1,1 +1,0 @@
-buddy told nothing impossible programming dont know one well want open xlsx file make appear screen normal m office problem want write program control opening closing file dont want convert csv making spreadsheet show also dont want read constant like using apache poi library want let file execute want make program make excel file open automatically m excel could please help

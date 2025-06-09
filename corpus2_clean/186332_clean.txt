@@ -1,1 +1,0 @@
-get stuck time need write constructor design reason sure go constructor googling got answer constructor need much make sure created valid query know valid state represents chess board public chessboard list public chessboard go decide minimum information valid state specific example make board valid

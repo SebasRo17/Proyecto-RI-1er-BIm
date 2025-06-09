@@ -1,1 +1,0 @@
-When writing or using an algorithm, should the Big Oh complexity be mentioned?

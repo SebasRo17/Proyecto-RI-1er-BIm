@@ -1,1 +1,0 @@
-hate using assembly language since written o course obviously assembly language lack abstraction pay attention detail assembly language really essential write taocp

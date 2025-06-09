@@ -1,1 +1,0 @@
-We developing a web service. And need our important actions (i.e. money transfer) to be protected from accidental calling. In frontend we asking user to confirm such actions. Ok. But how to prevent accidental calling in case of developer mistake? Is it good idea, that action require some confirmation token from developer to proceed?

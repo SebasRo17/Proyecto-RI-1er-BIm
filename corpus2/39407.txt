@@ -1,0 +1,1 @@
+Consider the following               ClearAll[jd];     ValueQ[jd]      We expect `False` and get it. Now consider               ClearAll[jd];     ValueQ[jd /. {foo -> Unique[]}]      which yields `True`. But               jd /. {foo -> Unique[]}      is just `jd` and has no value defined. What's going on here?

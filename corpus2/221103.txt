@@ -1,1 +1,0 @@
-I am a beginner in Software Engineering principles. This question have only academic significance. I read about Function Point analysis.We will be getting an integer value as output for Function Point analysis. What all things can be inferred from that output? I know that it is an estimation technique. But couldn't understand how to read that output

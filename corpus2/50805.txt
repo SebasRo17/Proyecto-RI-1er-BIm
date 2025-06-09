@@ -1,0 +1,1 @@
+Lets say I define a function `f` with memoization. Is there some way to extract the memoized values? For example,               f[0] = 1; f[1] = 5; f[20] = 42      Is there some way to get a list similar to `{0 -> 1, 1 -> 5, 20 -> 42}`? Note, `FullDefinition` is close, but I dont know how to handle its output.

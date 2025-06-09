@@ -1,1 +1,0 @@
-trying understand difference different rounding method application offer two different type rounding ieee usp rounding unit test seem thing case tested however found anyone office explain meant selecting rounding mode ieee

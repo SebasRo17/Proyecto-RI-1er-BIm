@@ -1,1 +1,0 @@
-Sometimes, a header file uses objects that are in declared in other header files. The user of this header file would have to include the dependency anyway and get the order correct too.

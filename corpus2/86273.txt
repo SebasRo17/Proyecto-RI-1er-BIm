@@ -1,1 +1,0 @@
-In a shop that is intended to be tight-knit and supportive, should it be part of the culture that senior developers are paired with junior developers as mentors? Or should this mentoring be something that is more organic and spontaneous, i.e. not required, but allowed to develop without artificial encouragement?

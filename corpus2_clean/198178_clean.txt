@@ -1,1 +1,0 @@
-learning uml basic understanding keep seeing sort high level architecture diagram one microsoft enter image description source bad picture worth thousand long discussion uml diagram rule follow creating type diagram would like represent something similar e different installed system apis e platform architecture

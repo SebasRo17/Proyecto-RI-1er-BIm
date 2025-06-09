@@ -1,0 +1,1 @@
+Say I have a matrix like $$ M=\left( \begin{array}{c c c} x & xz & w-2x \\ wz^3 & xy & z \\ y^2-z^3 & x+w & z+x^5 \end{array} \right) $$ is it possible to ask Mathematica the rank of $M$, depending on $(x,y,z,w)$ ?

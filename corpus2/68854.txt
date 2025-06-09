@@ -1,1 +1,0 @@
-I am trying to understand C++ friend. When is the good use case to use friend? I suppose if we want to let another class have access to another classes attributes, why don't we just make it as public or inherit from that class instead? Thank you for your help.

@@ -1,1 +1,0 @@
-On the past 2 projects I've worked, teams prefer a local development environment over a development server. The one project lead stated that local was better since it didn't require an internet connection. But, this seems assumed when developing. Which is usually better?

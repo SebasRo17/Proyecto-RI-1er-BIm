@@ -1,1 +1,0 @@
-I don't have copyright licence from local government. How can I use GPL? As far as I know a step to apply GPL is to add the copyright notice:               Copyright XXXX shabab haider...      What shall I write in this section? Am I eligible to write such thing? Do I have to redirect the copyright to free software foundation or something similar?

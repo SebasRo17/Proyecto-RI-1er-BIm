@@ -1,1 +1,0 @@
-Is there a technical name for a software project where the current and prior stable releases are both maintained?

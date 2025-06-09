@@ -1,1 +1,0 @@
-I get that /dev/random is a good source of entropy, and is what is usually used-- It's just as I'm reading up on GC, at least in Java, it seems accepted that the garbage collection daemon executes non-deterministically. If this it true, why don't we use the timing of the garbage collection as a source of entropy instead of the variable /dev/random?

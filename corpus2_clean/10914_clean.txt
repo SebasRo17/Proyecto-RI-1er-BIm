@@ -1,0 +1,1 @@
+trying import data txt file contains number word import list consists four row measured data acquired oscilloscope acquisition program put unit every measured value example data u v u v u v u v n v n v n v n v n v n v v v would like know way turn list something like newdata appreciate idea thanks

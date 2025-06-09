@@ -1,1 +1,0 @@
-I have made a product which I have used the GPL licence, and am now getting pull requests from other authors. The product also has a less restrictive commercial license available for purchase. Can I include the submitted code with the commercial licensed product?

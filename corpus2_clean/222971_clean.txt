@@ -1,1 +1,0 @@
-often see answer like avoid using c library c rewritten using std boost pure c understand c produce maintainable many advantage actually bad using c library performance priority mean writing sometimes called c class developing text file parser c c version c one considerably faster would like know using c library c hidden drawback apart obvious one like making less maintainable

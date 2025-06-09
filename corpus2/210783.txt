@@ -1,1 +1,0 @@
-I understand it is better **to automate BDD specifications below the user interface** whenever possible. For example and quoting from Gojko Adzic's book: _Specification by Example_ : > Don't check business logic through the user interface My question is then: **_What are the specific use cases when using the UI layer does make sense in the context of BDD?_**

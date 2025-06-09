@@ -1,1 +1,0 @@
-So, if I (as the programmer) know that my value will never exceed a small number (say 100) because it is really just a counter-controlled loop or whatever, may I use `short` or `char` instead of `int` for the minute memory savings?

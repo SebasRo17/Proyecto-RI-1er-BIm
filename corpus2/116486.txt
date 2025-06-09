@@ -1,1 +1,0 @@
-I've been trying to go over my tuple calculus over and over again. What's worse is that my professor and tutors are not much help during their hours. Does anyone know a good place to learn about tuple calculus? I'm having a hard time understanding how to "speak" the language in terms of what I want to get from a database.

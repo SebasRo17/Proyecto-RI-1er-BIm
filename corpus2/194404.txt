@@ -1,1 +1,0 @@
-I heard Silverlight will not be supported any more by Microsoft. It is true? If so, could anyone share with me Microsoft announcement? And if there are already application developed by Silverlight, what is the new technology to migration to? thanks in advance, Lin

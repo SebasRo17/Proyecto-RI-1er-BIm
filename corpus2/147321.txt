@@ -1,1 +1,0 @@
-I am wondering which license the current JDK 7 ( **NOT** the OpenJDK) is using as I know it was once under GNU GPL but with the change of the Distributor License for Java I would like to know whether they changed the allover license, too.

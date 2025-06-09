@@ -1,1 +1,0 @@
-I was wondering about the origins of the "let" used in Lisp, Clojure, and Haskell. Does anyone know which language it appeared in first?

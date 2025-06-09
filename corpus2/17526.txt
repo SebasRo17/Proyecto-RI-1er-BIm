@@ -1,0 +1,1 @@
+I'd like to create a GUI that displays a tree, some text boxes, buttons, and then as a panel, a fully-functional notebook. Is that possible?

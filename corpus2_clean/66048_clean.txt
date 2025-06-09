@@ -1,1 +1,0 @@
-currently working couple project flash actionscript building small library class using naming convention similar foo event bar foo control baz noticed many people released library com org package namespace e com foo event bar com foo control baz assume meaning com common community org organization particular reason adding additional namespace common namespaced language c as3

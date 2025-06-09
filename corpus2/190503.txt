@@ -1,1 +1,0 @@
-I would like to make windows desktop application using HTML5, JavaScript and CSS. I am trying   * tidesdk   * XULRunner   * appjs I read the documentations of these technologies. But I didn't see how to export the application as a .exe package. I want to write an application in HTML and JavaScript and export to an exe file. How can I do that?

@@ -1,1 +1,0 @@
-I assume based on this answer that the only difference between the MIT and BSD is the fact that MIT doesn't require credits when redistributing. Is that right? Is there any reason to use one over the other?

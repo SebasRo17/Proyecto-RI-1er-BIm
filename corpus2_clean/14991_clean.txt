@@ -1,0 +1,1 @@
+way set default mathematica version would like run version win pc version installed take priority clicking notebook automatically open version set make version default

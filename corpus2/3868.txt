@@ -1,0 +1,1 @@
+Is it possible to visualize/edit a big matrix as a table ? I often end up exporting/copying big tables to Excel for seeing them, but I would prefer to stay in Mathematica and have a similar view as in Excel. Note that I'm looking for a non commercial solution. Thanks

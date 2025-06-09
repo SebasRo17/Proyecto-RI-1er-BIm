@@ -1,1 +1,0 @@
-see term pattern description syntax infer regular expression specified separate term specifies wildcard expression foo bar baz num regular expression pattern foo bar txt wildcard expression wildcard expression another pattern requiring context information discern distinction

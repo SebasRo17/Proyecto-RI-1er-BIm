@@ -1,1 +1,0 @@
-Does Entity Framework mean you might never have to use SQL or design database tables again? Is this what "persistence ignorance" means? I am new to EF and ORMs in general, and I would like to understand how much of it is hype and how much is reality.

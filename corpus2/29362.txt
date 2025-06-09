@@ -1,0 +1,1 @@
+Integrate[x^4 E^-x^2, {x, 0, +∞}]      Output: > >     (3 Sqrt[π])/8 >   Can someone explain to me the specific calculation process ?

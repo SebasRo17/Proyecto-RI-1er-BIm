@@ -1,1 +1,0 @@
-webapp scenario need kind global context static like variable current thread num different concurrent user expect three corresponding global context num separate thread session using static make scope global thread way achieve

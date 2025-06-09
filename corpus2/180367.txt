@@ -1,1 +1,0 @@
-With a YYYY-MM-DD HH:MM:SS date I always store the UTC time. When I pull to display I translate timezones with built-in PHP functions and classes. I believe that is one correct way to do it and it makes sense to me. May I handle YYYY-MM-DD the same way?

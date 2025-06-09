@@ -1,0 +1,1 @@
+While I have not exhaustively searched `Help/Documentation Center` for an answer to my question, I have put forth a yeoman's effort without any success. Does anyone know if it is possible to suppress `Out=` on an on-going basis within a notebook without also suppressing `In:=` and if it is, could you please tell me how? Thanks!

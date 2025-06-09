@@ -1,1 +1,0 @@
-The fact that principles like KISS and YAGNI are so popular, speaks clearly about our inclination to make things too complicated. Is this inclination a part of our nature or is it a part of our culture?

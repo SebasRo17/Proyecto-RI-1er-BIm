@@ -1,0 +1,1 @@
+I am trying to perform a linear regression on some weather data, but I can't seem to figure out how to perform the operation. What I have right now is this:               temperature = WeatherData["Chicago", "Temperature", {{1990},{2010},"Month"}]     model = LinearModelFit[temperature,x,x]      Any ideas on what I am doing wrong?

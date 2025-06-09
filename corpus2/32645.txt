@@ -1,0 +1,1 @@
+I am trying to solve the following NON linear system:                   NSolve[(5/           10)*((4*Pi*Cos[(2*Pi*y)/(Sqrt[3]*(246/100))]*             Sin[(2*Pi*x)/(246/100)])/(246/100)) + (25/16)*(x + 0) ==        0, {x, y}, Reals]      Butit seems that mathemathica do not converge.

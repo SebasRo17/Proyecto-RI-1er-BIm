@@ -1,1 +1,0 @@
-I'm currently working on user management for a project and while thinking about how I should design this I realised that there's really no standard in how these things look as it often vary a lot from application to application. So what makes an great user management interface great? What do the best ones have in common?

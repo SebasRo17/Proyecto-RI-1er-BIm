@@ -1,1 +1,0 @@
-say something like public baseclass public baseclass somestring somestring throw new argumentexception public childclass baseclass public childclass somestring base somestring somestring throw new argumentexception also inheriting source recheck constructor argument

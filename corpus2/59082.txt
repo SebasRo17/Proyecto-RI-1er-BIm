@@ -1,0 +1,1 @@
+FinancialIndicator["ind",par1,par2,...], represents a financial indicator "ind" with parameters par1,par2, etc. All available financial indicators can be displayed with FinancialIndicator[]. Is it possible to program my own financial indicator and to plot it in a TradingChart ? How can I do it?

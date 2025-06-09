@@ -1,1 +1,0 @@
-often one biggest problem area developing software win web seemingly abstract area like tcp ip deploying ii various configuration etc especially pop deploying web app ii know troubleshoot problem develop service apps leverage actual understanding area also learn

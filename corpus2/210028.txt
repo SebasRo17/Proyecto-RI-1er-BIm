@@ -1,1 +1,0 @@
-We are using JIRA to manage the scrum process. What I'm curious about is whether the User Story issue type should be assigned to a team member, the PO, or remain unassigned. My gut tells me it should remain unassigned to be assigned to the PO since the team should only be working on Task issues, but I wanted to see if I'm missing anything.

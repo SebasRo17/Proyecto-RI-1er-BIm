@@ -1,0 +1,1 @@
+Are there any ways to show a mathematica plot in a web browser so that the user can rotate it and such? I am open to embedding it in a web page - or some other method such as porting it to a different language such as java or javascript.

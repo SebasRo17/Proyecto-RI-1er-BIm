@@ -1,1 +1,0 @@
-num customer use application detailed log everything happens application change model memory cpu gpu usage click ui element want able parse log coming customer analyze understand user use application happens internally application log analyzer produce report automatically

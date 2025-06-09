@@ -1,0 +1,1 @@
+It beats me to write the Mathematica pattern equivalent to the regex:               \w{2,3}      Any ideas?

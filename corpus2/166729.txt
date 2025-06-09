@@ -1,1 +1,0 @@
-I am learning algorithms, and I came across something very interesting. The asymptotic bound of the linear equation `(a * n)+b` is `O(n^2)`, for all `a` > 0. This is same bound as `a * n^2 + b * n + c`, which is surprising.

@@ -1,1 +1,0 @@
-Is there an easy way to search open repository such as github, googlecode, codeplex, etc at the same time? I wonder whether google is good at this.

@@ -1,1 +1,0 @@
-I'm new to objective C, I'm following "Objective C 5th Edition Stephen Kochan and I don't have anyone to ask my doubts to. I'm confused with this question: Q. Is it necessary to use "-" or "+" before every property or method declaration in Interface? What will happen if I don't use "-" or "+" before every property or method declaration in Interface?

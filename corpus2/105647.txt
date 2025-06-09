@@ -1,1 +1,0 @@
-If you inherit from Tile, for example, should the subclass be called CollisionTile or just Collision? What about for painting tools in an application like Paint? PenTool or just Pen? Are there any published guidelines for this?

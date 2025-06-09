@@ -1,1 +1,0 @@
-Python's lack of pointers makes data-structure construction intuitively more challenging, and has so much built in functionality that, as an amateur, I can't see when, why, or how you would create something beyond what's already there. When have you built your own, and why did you do it? E.g. special types of trees, etc.

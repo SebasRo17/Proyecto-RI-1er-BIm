@@ -1,1 +1,0 @@
-standard practice writing spec software development project specific format follow also developer client write dev billable

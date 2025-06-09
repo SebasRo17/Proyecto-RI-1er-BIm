@@ -1,0 +1,1 @@
+If a list contains duplicate elements, for example                list = {a, 1, 5, 3, 5, x^2, x^2},      how can the duplicate elements be removed? The result would be                uniqueElements = {a, 1, 5, 3, x^2}

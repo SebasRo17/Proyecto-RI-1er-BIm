@@ -1,1 +1,0 @@
-I read the Wikipedia articles on both, and both are not mentioned together. Also, the purpose of OSGi is not Dependency Injection. Yet, what an OSGi container like Felix does matches the description for DI.

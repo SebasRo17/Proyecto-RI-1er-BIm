@@ -1,0 +1,1 @@
+I would like to solve the following system of equations:               y'[t] == x[t]*y[t] - x[t];     10 == x[t]*y[t]/(x[t] + y[t]) + x[t]/(x[t] + y[t]^2)      Is there any way to solve this equations with _Mathematica_?

@@ -1,1 +1,0 @@
-learning using hashtable efficiently check item list without looping whole thing one thing get hashed key seems like var wordlist aa aa would work well var wordlist hashed aa aa hashed hashed performance difference looking hashed key simple key

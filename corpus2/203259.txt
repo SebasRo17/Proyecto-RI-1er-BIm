@@ -1,1 +1,0 @@
-Please explain the difference between the waterfall model and the object oriented model. Since the books and web sites that I've seen didn't provide much information about it, I need someone to explain it to me.

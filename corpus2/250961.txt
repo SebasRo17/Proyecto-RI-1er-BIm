@@ -1,1 +1,0 @@
-A person can make their code readable and neat in their own way. However, is there a standard programming format that professional programmers are compliant to?

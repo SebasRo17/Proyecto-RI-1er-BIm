@@ -1,1 +1,0 @@
-Can we say that Java or C# are OO languages with a unified inheritance tree/unified type system? By unified inheritance tree/unified type system I mean that every class derives implicitly or explicitly from one single type? Are there any object oriented language that do not follow that concept?

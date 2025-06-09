@@ -1,1 +1,0 @@
-Preferably a tool which will run from inside of the Delphi IDE (I use Delphi 7), but I can accept a standalone program. Should have the ability to define rules (X space indent, no tabs, one statement per line, etc, etc (perhaps capitalization rules too?)) Nice if it can handle an entire directory or project at one touch, rather than just a single file. Anyone?

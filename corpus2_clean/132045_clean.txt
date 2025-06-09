@@ -1,1 +1,0 @@
-really need advice reading article tdd javascript really struggling understand use daily work instance currently working page accordion item accordion dynamic content populated json json provided third party using jquery way testing far called log kind test write tdd make sense kind application meant something else sorry noob question really appreciate opinion

@@ -1,1 +1,0 @@
-My .py files in a Codeplex (hg-based) repository don't show up with the nice syntax highlighting as they do for C and C++ when I browse the code on the web. Is there a way to change the syntax highlighting settings in Codeplex?

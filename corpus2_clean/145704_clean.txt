@@ -1,1 +1,0 @@
-would best approach achieving private communication io app server component single secret key baked app source enough need set generation handshake key dynamically somehow server access sensitive even user hit private endpoint get anywhere want hidden public basically want ignore request hitting particular route unless coming io app server component run ror important

@@ -1,0 +1,1 @@
+I want to do `Conjugate[a + b*I]`, but when I do that, the solution is `Conjugate[a] - I*Conjugate[b]`; when for me, a and b are reals. I want to obtain the following expresion : `a-b*I` The same problem exists with the function `Abs`.

@@ -1,1 +1,0 @@
-developing web application one keep local file remote file synced together obvious way whenever edit file local machine upload file remote machine efficient way ask using subversion control easy keep file synced remote server commit find file need replaced

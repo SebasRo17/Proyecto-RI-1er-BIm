@@ -1,1 +1,0 @@
-getting started net webapi one thing noticing straight away contract defining api look consumed request response action usually form wsdl wcf soap seems like something would valuable make life lot easier consumer api reason one programming principle unaware way could create one

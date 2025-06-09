@@ -1,1 +1,0 @@
-I see this too often. They need **one** guy who is proficient in:   1. Assembly   2. C/C++ (sic!)   3. Python   4. Delphi   5. C#   6. PHP   7. SQL   8. Joomla   9. Drupal ... and so on. Why?

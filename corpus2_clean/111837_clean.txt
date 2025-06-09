@@ -1,1 +1,0 @@
-relation bdd tdd understood bdd add two thing tdd test naming ensure acceptance test follow tdd development bdd yes tdd unit test named ensure style

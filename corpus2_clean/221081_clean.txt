@@ -1,1 +1,0 @@
-application oracle backend dao layer written c us perform operation unit test dao use sql lite creates database based existing mapping project nhibernate query go oracle use outer join sql lite understand syntax oracle sql lite understand fix problem like database system used unit testing application

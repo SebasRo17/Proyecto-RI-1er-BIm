@@ -1,1 +1,0 @@
-I was unable to find any "official" documentation generator for C#. I am aware of projects like DOxygen, Sandcastle or NDoc. But for me these are more third- party tool. You could argue that javadoc is an external tool but it's part of the java dsitribution. What is Microsoft option, if any ?

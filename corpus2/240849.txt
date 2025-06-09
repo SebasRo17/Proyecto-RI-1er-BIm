@@ -1,1 +1,0 @@
-While studying the features of XML, I got to know that XML is software and hardware independent. Can anyone explain me why it is meant like that?

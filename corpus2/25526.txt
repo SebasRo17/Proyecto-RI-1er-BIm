@@ -1,1 +1,0 @@
-We've got a reasonably good release management process. However large parts of it are manual tasks, i.e. Promoting builds to QA, deploying builds to internal groups, tracking releases, etc. The builds and tests are all automated with CruiseControl. Can anyone recommend some good release management / continuous deployment tools that I can use to automate the rest of our process?

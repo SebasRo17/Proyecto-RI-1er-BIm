@@ -1,1 +1,0 @@
-I'd like to release an application that basically has the license of "the code is GPLd but forks cannot use the name or logo", with the intent of avoiding confusion to users. Is that possible or is it an all or nothing deal?

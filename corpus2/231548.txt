@@ -1,1 +1,0 @@
-Suppose I'm setting up a website, and there are loads of images. These images won't change. But I would like that when any members of the team clone the project, they get the images so that they run the website immediately. Does this mean that I should add track the images as well? I'm just taking an example, it could be a jar in a java project or something else.

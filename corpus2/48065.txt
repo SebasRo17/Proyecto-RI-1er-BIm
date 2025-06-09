@@ -1,0 +1,1 @@
+I know there is a xml file with language for Mathematica notebook (nb or m files). The link is http://sourceforge.net/apps/mediawiki/notepad- plus/?title=User_Defined_Language_Files Now I want a xml file to format not the code of nb file but what the user see when he opens the nb file in mathematica. Any idea before I customize this language??? Regards,

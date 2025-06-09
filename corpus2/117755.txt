@@ -1,1 +1,0 @@
-I'd admire the functions of sympy library, what it does is really awesome. The integration functions are really few guys intellectual work. But where exactly we use them practically on computers? If not sympy, do we really need such libraries? If we need them, what languages would satisfy our needs?

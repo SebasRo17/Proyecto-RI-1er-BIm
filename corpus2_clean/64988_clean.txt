@@ -1,1 +1,0 @@
-experience php4 learning oriented part php difficulty understanding use smarty template engine official documentation appears require level knowledge yet seem like good place start need know jump smarty template development smarty standard php template system anymore go templating

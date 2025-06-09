@@ -1,1 +1,0 @@
-I currently use a Mac Pro for Xcode development, but am considering buying a MacBook Air when the newer models are released. How should I collaborate with _myself_ when using both machines on the same project? Should I use Git, or should I just acess the Mac Pro as a networked drive from the MacBook, or something else?

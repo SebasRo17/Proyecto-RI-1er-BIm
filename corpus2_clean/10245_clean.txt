@@ -1,0 +1,1 @@
+want sum square given number n without using multiplication possible

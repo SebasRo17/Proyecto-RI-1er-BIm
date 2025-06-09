@@ -1,1 +1,0 @@
-Let's say I'm planning to sell a _.NET_ application in my website. If I need to use a library `A` (a reference to the compiled assembly, not the source code)... **Under which license could be`A` so I can do this?**

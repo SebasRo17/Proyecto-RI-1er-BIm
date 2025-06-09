@@ -1,1 +1,0 @@
-problem visual studio num environment variable window num added called libs c libs c libs folder containing c library far good added path project setting linker etc like libs boost include boost library expected would able use something like include boost work use absolute path include boost want anything wrong

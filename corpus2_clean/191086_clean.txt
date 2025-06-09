@@ -1,1 +1,0 @@
-working application us inversion control achieve loose coupling access business layer store xml comment document member interface concrete

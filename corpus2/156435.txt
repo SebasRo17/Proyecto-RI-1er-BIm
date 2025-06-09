@@ -1,1 +1,0 @@
-I need to perform large amounts of computations on data storerd in a busy Microsoft SQL server. Would it be faster if I retrieve the data from the server, perform the computations locally in C++, and possibly later update the tables on the server, all through an API? Many thanks.

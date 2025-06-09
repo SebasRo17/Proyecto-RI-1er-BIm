@@ -1,1 +1,0 @@
-I've just learnt how lazy evaluation works and I was wondering: why isn't lazy evaluation applied in every software currently produced? Why still using eager evaluation?

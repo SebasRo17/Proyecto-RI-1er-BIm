@@ -1,1 +1,0 @@
-company client side web application would like open source want impose restriction usage except modification derivative work contain visible attribution e g show logo want visible used application understand license like bsd num clause contain attribution requirement satisfied something like html comment license ensure derivative work visibly labeled

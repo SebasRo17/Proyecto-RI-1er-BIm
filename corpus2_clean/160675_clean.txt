@@ -1,1 +1,0 @@
-call class without method example public something public without method special

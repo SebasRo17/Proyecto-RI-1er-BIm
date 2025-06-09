@@ -1,1 +1,0 @@
-A few do, but not any of the popular ones as far as I know. Is there something bad about nesting comments? I plan to have block comments nest in the (small) language I'm working on, but I would like to know if this is a bad idea.

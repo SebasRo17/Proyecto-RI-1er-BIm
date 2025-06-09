@@ -1,1 +1,0 @@
-come php community started learning create server side script manipulate database file send email found hard comparing php like sending email querying database php function like mysql query email write whole bunch recently found django question good framework network oriented script instead using web framework

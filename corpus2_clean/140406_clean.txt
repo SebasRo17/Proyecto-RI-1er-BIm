@@ -1,1 +1,0 @@
-mvc framework often heard use business logic model think using business logic controller would faster view directly connected controller want know advantage using business logic model

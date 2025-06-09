@@ -1,1 +1,0 @@
-Online portfolios are very popular with designers, but what about developers? I'm a Java web developer who also enjoys writing Javascript, and I was thinking of putting up a site with links to a Github repository. What kinds of things do you think would impress a potential employer? Do other programmers put up such portfolios? Can you share links and your experiences?

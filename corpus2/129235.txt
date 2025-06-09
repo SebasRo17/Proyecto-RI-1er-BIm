@@ -1,1 +1,0 @@
-I would like to know your opinion on declaration by hand of parameters/return types in languages with type inference like Scala. Is there any reason why to or not to do this when compiler can infer types?

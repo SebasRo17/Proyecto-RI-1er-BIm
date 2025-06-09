@@ -1,0 +1,1 @@
+Is there an elegant way of hiding/collapsing/folding only a portion of a function? If functions could span multiple cells, this would have been straight-forward!

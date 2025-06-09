@@ -1,0 +1,1 @@
+I would like to distort or map a given jpg so it looks 3D as in the following youtube video: http://www.youtube.com/watch?v=IfCCUd8mFtg. I usually use conformal mapping (a complex function) to do my distortions. Can you help me with figuring out which function to use for this?

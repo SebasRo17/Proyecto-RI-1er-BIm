@@ -1,1 +1,0 @@
-situation working project time small issue arise require quick fix would like push fix problem repo keeping rest locally problem already found possible cherry pick pushing repository upwards question set hg environment possibility want preserve hg metadata sending patch around option btw whole thing managed directly would big plus

@@ -1,0 +1,1 @@
+I was wondering if there is a command to change the counter to adjust its numbeing to having different chapters saved as separate files. This seems possible with page numbers but not section numbers.

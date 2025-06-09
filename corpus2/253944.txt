@@ -1,1 +1,0 @@
-I came across the `NoStackTrace` mixin for Exceptions in scala. Is it good practice to use it, or should it be considered "internal" to scala and left alone?

@@ -1,1 +1,0 @@
-I heard about _3D canvas_. It's strange for me. Because I know there's already a industrial standard 3D API _WebGL_. What's that? How is it different with WebGL?

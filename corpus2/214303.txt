@@ -1,1 +1,0 @@
-Just as in the title, why doesn't `git daemon` start the service in the background, since it's a "daemon", being a background process? I know that I can start it in the background using `git daemon &`, but I'm just wondering about the philosophical reason for this decision.

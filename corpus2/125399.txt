@@ -1,1 +1,0 @@
-Could Designing by Contract (DbC) be a way to program defensively? Is one way of programming better in some cases than the other?

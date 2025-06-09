@@ -1,1 +1,0 @@
-Is this a good way to learn a new language? Or to develop a preference of one language? I was thinking of coding a project in both Python and Java. The only foreseeable problem is trying to transfer solutions that should be rethought for each language. Or is this unnecessary? (My intentions aren't to benchmark.)

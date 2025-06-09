@@ -1,1 +1,0 @@
-I've been a software engineer in .NET for the past 3.5 years, and did my own integration and unit testing, but nothing too extensive. Now I'm being interviewed for an entry level QA job, and I wanted to know what concepts I should become familiar with.

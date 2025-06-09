@@ -1,1 +1,0 @@
-developing system mailing account id password login need store smtp server account password sending mail since mail auto send request user password id time sending therefore storing user account id password system b password system system insecure design improve

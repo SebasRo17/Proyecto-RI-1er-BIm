@@ -1,1 +1,0 @@
-what is `LPCTSTR` and `LPCTSTR`-like (for instance `HDC`) and what it does stand for?

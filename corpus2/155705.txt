@@ -1,1 +1,0 @@
-Can the `Strategy` design pattern entirely replace `delegates`? In `Java`, for example, there are no delegates. Is it possible to gain all the features of `delegates` by using `Strategy` design pattern? **Edit** : I see there is some ambiguity in my question. By `delegates` I mean the feature of the language, C# for instance.

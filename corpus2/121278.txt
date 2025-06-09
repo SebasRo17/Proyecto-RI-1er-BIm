@@ -1,1 +1,0 @@
-Is it possible to develop a functional language based on PHP opcode? Similar to Scala/bytecode or F#/CIL Has somebody done this already?

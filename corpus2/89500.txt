@@ -1,1 +1,0 @@
-What is the most appropriate definition of a Real time system? Is online railway reservation a real time system ? Is Aircraft control system a real time system? Is Process control system a real time system?

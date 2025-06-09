@@ -1,1 +1,0 @@
-programming various language num year still figured good idea import something global namespace using x c x import etc hardly ever almost always seems like bad idea limit set name use example use using namespace std using std c use anymore occasionally e g utility function wondering situation importing global namespace really make sense rule thumb

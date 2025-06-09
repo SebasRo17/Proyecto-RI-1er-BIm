@@ -1,1 +1,0 @@
-always looked using width height attribute image original image actual bad idea could mean image download size bigger still issue suggest sizing photo downsizing issue provided much difference original keeping scale example photo stick width 400px modern browser scale image look like rendering still decent everyones view

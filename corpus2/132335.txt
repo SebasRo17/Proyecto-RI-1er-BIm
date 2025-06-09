@@ -1,1 +1,0 @@
-I have read that SICP (Structure and Interpretation of Computer Programs) is hard and HTDP (How To Design Programs) is better as an introductory course. I would say I am fairly good in maths but not a genius.So how hard is SICP, is it harder than knuth or cormen.

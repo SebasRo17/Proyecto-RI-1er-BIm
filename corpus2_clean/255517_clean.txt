@@ -1,1 +1,0 @@
-know gdi custom control usually implemented window control receive wm event normal window control receives wm paint need repaint question render gdi window client area create control rendering without using window control double buffering problem regarding area need redrawn would wm paint event redraw specific control

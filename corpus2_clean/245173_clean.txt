@@ -1,1 +1,0 @@
-writing b2b application us oauth num token expires want refresh since faster refresh token request new one however want build resilience system clock skew want consider token expired second minute would actually expire many second minute expect two server connected internet different location

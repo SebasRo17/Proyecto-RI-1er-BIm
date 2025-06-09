@@ -1,1 +1,0 @@
-want implement real time chat rail app really host server handle socket tried need server also heard pusher limited num user time chat really sure thought irc think really embed rail app maybe need socket implement real time chat without owning server

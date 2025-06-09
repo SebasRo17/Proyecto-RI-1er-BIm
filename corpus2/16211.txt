@@ -1,1 +1,0 @@
-I often struggle to see the advantages of pointers (except for low level programming). Why use of char* instead of a String or char[] or what advantages pointer arithmetic brings. So what are the pros and use cases of pointers?

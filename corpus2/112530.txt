@@ -1,1 +1,0 @@
-Though I have a specific case, but I was wondering about the general situation. Can two DLLs, when added as Reference to a Visual C# project collide with each other to prevent the solution from building? If this is the case, what are the possible ways to mitigate this.

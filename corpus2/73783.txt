@@ -1,1 +1,0 @@
-There are some good free file compare programs out there and most of them will compare directories too. But what I am look for is one where I can specify a filter like *.cpp and have it ignore object files, makefiles, executables, etc without me having to manually remove those before compare. Any suggestions?

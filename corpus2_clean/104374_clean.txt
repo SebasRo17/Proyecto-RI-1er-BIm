@@ -1,1 +1,0 @@
-far touched various aspect computational geometry including constructive planar geometry intersection algorithm planar graph topology 3d dda recently 2d convex hull implementation using graham scan k mean clustering represented diagram fascinating field interested know would like know algorithm common field

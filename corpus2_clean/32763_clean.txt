@@ -1,1 +1,0 @@
-reading concurrency multi threading free lunch yet possibility use mt job thus looking suggestion could get practice cpu heavy mt exercise participation open source project thanks edit interested open source project use mt cpu bound task simply algorithm interesting implement using mt rather book paper describe tool like thread mutexes lock mt used responsive gui

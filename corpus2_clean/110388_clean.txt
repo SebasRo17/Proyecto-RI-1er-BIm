@@ -1,1 +1,0 @@
-memory leak running test suite due singleton object created cleared test case singleton object holding reference heavy object know better solution clearing singleton object teardown method test think

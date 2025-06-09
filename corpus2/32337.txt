@@ -1,0 +1,1 @@
+_**How to achieve the real component of my expression?_** Input:               expr = Csc[θ/2] Sin[(n θ)/2] (Cos[1/2 (1 + n) θ] + I Sin[1/2 (1 + n) θ]);     Re[expr]      > >     Re[Csc[θ/2] Sin[(n θ)/2] (Cos[1/2 (1 + n) θ] + I Sin[1/2 (1 + n) θ])] >   But the result I need is: > >     Csc[θ/2] Sin[(n θ)/2] Cos[1/2 (1 + n) θ] >

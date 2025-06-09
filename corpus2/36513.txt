@@ -1,1 +1,0 @@
-For example, the templates provided on the Open Source Initiative website for the 3-clause BSD License, and the MIT License both include an all-caps warranty disclaimer, though the rest of the license is written with normal capitalisation. Is there some genuine reason for this? Or is it just a tradition to make the warranty disclaimer harder to read?

@@ -1,1 +1,0 @@
-application query database render asciidoc template db convert asciidoc pdf certain character need escaped order mess formatting pdf two option option near db query plus escaping done minus db need know syntax option b template plus escaping done formatting syntax belongs minus escaping possibly done leaning towards option b would interested others think would best thing

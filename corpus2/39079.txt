@@ -1,1 +1,0 @@
-I see many people using XAuth in their app to authenticate twitter users and I'm wondering what are some situations that I would want to use XAuth in my own apps. Thanks so much for your wisdom!

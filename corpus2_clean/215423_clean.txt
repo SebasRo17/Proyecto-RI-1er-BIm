@@ -1,1 +1,0 @@
-started reading tanenbaum distributed system book ago read two phase locking timestamp reordering transaction chapter deeper look google heard lightweight transaction lightweight transactional memory find good explanation implementation lightweight memory benefit lightweight lock implement

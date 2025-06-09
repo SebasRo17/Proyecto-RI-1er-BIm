@@ -1,1 +1,0 @@
-> **Possible Duplicate:**   >  (Why) Should I learn a new programming language? I came across a line in this article which is, > Learn one programming language every year Why do good programmers suggest to learn more programming languages . We can be a jack of all and master of none too in this case.

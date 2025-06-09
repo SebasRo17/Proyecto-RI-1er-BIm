@@ -1,1 +1,0 @@
-understanding goto statement generally frowned publish subscribe pattern seems conceptually similar piece publishes message performs one way transfer control programmer may idea part program subscribing message see something similar lot javascript program event used conveniently hop across module missing something publish subscribe event driven pattern

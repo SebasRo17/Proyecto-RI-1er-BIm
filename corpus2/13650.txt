@@ -1,0 +1,1 @@
+How to export data from excel specific cells into _Mathematica_? Given that the spreadsheet tab is named XYZ and that I have several cells at various locations in the same column in Excel that I want to export?

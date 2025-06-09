@@ -1,1 +1,0 @@
-I'm beginning to see that there is a game being played where cloud support is either "host inside our cloud at low cost (so we lock you in)" or "we will support your private cloud provided that it's huge like 5000 nodes and you pay for our premium support ~$5000/month"so where are the are the support options for OpenStack that aren't trying to play this game?

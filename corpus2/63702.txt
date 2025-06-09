@@ -1,1 +1,0 @@
-Are you guys aware of any commercial (non-commercial?) online automatic updater that can be integrated with one's software? After quick research I found zillions of them but for Windows only and again only few got C/C++ API. Do this kind of solutions have any update management/statistics features?

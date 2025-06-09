@@ -1,1 +1,0 @@
-I've learned PHP, Java, and C. Now I'm curious as to why there are so many types of numerical data types like bit, int, float, double, and long. Why not make only one type for numericals? Is there any benefit to this? Maybe if we use integers to hold such small numbers we can save memory?

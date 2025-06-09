@@ -1,1 +1,0 @@
-heard people saying usage jdbc database connectivity recommended applet say security reason security reason mean would potentially bad person found jdbc used applet placed somewhere website make one applet safe wise place servlet applet database believe programmer would like know

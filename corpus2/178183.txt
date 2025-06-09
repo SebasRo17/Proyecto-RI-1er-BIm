@@ -1,1 +1,0 @@
-I'm about to participate in a Coding Kata and I would like to do it in JavaScript. What tools and libraries do I need for TDD in JavaScript?

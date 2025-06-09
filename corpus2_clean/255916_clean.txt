@@ -1,1 +1,0 @@
-rule say head linked list contain save space one node implementation head contains

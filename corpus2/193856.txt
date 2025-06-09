@@ -1,1 +1,0 @@
-So I develop an app that is for both Android and iOS. From time to time changes occur when working on one version that need to implemented on the other. I find it tedious to keep track of these changes so I don't forget them later. I'm just curious as to what other workflows you guys use when managing a single feature set to be implemented in various projects. Thanks

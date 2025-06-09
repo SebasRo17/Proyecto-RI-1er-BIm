@@ -1,1 +1,0 @@
-Is there a way to get the version of Ubuntu that Google uses for development? Even better would be a full up VMWare or Virtual Box Virtual Machine image that might include a full complement of preinstalled tools as well.

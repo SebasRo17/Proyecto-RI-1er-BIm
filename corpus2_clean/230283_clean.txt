@@ -1,1 +1,0 @@
-trying design algorithm optimal sensor placement given area research found art gallery problem however problem assumes guard see way perimeter position case sensor sensor range possible solve optimal sensor placement problem mapping art gallery problem trying recursive solution would grateful someone could throw light question guide appropriate resource

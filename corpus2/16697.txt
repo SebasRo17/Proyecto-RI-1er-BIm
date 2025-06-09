@@ -1,0 +1,1 @@
+Is there a command / menu entry / keyboard shortcut to evaluate all cells above / up to the current cursor position? I have the feeling I am missing something elementary here... **Addendum** : In fact, it is more about selection of those cells, evaluation is not the problem as such.

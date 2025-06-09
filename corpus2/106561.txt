@@ -1,1 +1,0 @@
-What is the best practice for managing references in a .NET open source project? I'm writing a small library that will use Json.NET. Should I check the Json.NET DLL straight into source control?

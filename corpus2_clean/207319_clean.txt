@@ -1,1 +1,0 @@
-image contains two color white black black portion entirely connected look like big blob good way estimate length boundary region one considered simply count many edge grid different color side however e g purely diagonal overestimate distance boundary factor sqrt num better estimating boundary length problem

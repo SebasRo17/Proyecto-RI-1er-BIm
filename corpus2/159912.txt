@@ -1,1 +1,0 @@
-I constantly find myself thinking about code reuse when starting a new project. To what extent should I make my code reusable?   Should I limit it to the application scope or should I make it reusable outside of the project? Sometimes, I feel like code reusability may stand in the way of a simple design. Please, share your own understanding and approach of code re- usability.

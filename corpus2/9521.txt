@@ -1,1 +1,0 @@
-Imagine you were elected coroner of IEEE or somesuch governing body and you had to pronounce a programming language as dead. What signs would you look for? Are there any zombie languages out there that don't know they're already dead?

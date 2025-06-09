@@ -1,1 +1,0 @@
-I need lots of training in SQL coding in MS SQL server The following part that is needed to be improved is:   * script    * T SQL    * Procedure    * Function Problem:   Where can I get material to improve my ability in SQL coding? Is there any website for downloading a database with different task/assignment and solution? Where should I go to review lots of SQL code?

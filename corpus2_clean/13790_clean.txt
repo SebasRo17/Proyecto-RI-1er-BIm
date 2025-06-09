@@ -1,0 +1,1 @@
+using sparsearray notebook complex conjugation manually e writing sqrt applying perform complex conjugation noticed replaceall seem work sparsearrays e g sparsearray return clue get around quickly

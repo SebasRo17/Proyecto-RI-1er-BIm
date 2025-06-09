@@ -1,1 +1,0 @@
-I am looking for an efficient code review process where nothing can be pushed without being reviewed by another dev. For instance (we are using Mercurial):   * push to another branch and the reviewer will merge with the 'head'   * push directly to the reviewer The main issue here is that everybody can push to the default branch, so it doesn't enforce the code review.

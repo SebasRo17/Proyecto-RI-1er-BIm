@@ -1,0 +1,1 @@
+The text box of a FrameTick/Tick is, by default, vertically centered on the tick mark. ![Illustrating alignment of FrameTicks textbox](http://i.stack.imgur.com/uZgGg.png) Is there a way to adjust the vertical alignment of FrameTick text? Specifically, along the lines of Baseline, Top, etc. FrameTicksStyle in combination with TextAlignment/Alignment does nothing.

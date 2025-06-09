@@ -1,1 +1,0 @@
-I face a problem nowadays, I have a really good book that explain OOP but it uses a language which I do not want to learn which is Java because my goal is to learn C#. And I don't know if I should understand OOP with Java at first and then learn C# or should I find any C# book even if the Java book is excellent in teaching OOP?

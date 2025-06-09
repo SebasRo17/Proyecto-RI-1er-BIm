@@ -1,0 +1,1 @@
+possible duplicate addition integral summation equal trying expand term sum order apply assignment rule later figure tried pretty much command seen around following integral iint x f x dxdy would like extend iint x f x dxdy iint f x dxdy order apply rule like iint x f x dxdy would like generic way since integrand would always look like one example idea

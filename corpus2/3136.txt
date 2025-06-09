@@ -1,0 +1,1 @@
+When trying to type "traditional style" inputs such as integrals or sums, I follow the tutorial and type `Esc` sum `Esc`   `Ctrl`+`=` n=1  `Ctrl`+`%` 10 whatever However, when I type `Ctrl`+`=` it opens the (annoying and useless) alpha interface, and I am forced to use either textual input or use the palette. I'm running Mathematica 8 on Fedora. Any ideas?

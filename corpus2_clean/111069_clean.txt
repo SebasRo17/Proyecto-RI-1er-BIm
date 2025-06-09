@@ -1,1 +1,0 @@
-creating diagram application working today didnt include jpa entity since information thought important daos example care register user regardless information user contain included userdao diagram added operation called register parameter user without user diagram question necessary include every single diagram omit class forced add using certain framework jsf jpa

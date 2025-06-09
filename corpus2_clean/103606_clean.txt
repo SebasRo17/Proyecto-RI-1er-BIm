@@ -1,1 +1,0 @@
-possible create shared backend logic using net respective gui front end monotouch monodroid

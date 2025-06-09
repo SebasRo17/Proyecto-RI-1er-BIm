@@ -1,1 +1,0 @@
-Say, I have a class A which has methods m1,m2,m3,m4,m5.... m100. I am making another simpler class B and I require only m2,m3 and m5 in B. Should I be ideally using compositions and put a reference of A inside of B and just delegate the functionality ? or I should just re-write[copy=paste] those 2-3 methods out of class A ?

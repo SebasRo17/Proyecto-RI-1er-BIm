@@ -1,1 +1,0 @@
-want add feature jquery terminal allow execute command server right formatting syntax look like list one letter style color background text want display bold white text use b text syntax use executing command interfere formatting similar maybe something like param1 param2 param3 exec param1 param2 param3 suggestion

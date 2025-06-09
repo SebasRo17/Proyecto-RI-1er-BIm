@@ -1,1 +1,0 @@
-I have a piece of code that composes method name to call from a string parameter. I don't feel it's a good thing to do but I'm not sure what can go wrong with this. Here is a simplified snippet of that code:               switchToFilter = function(filter){         var filterMethod = 'switchTo' + filter;         myObject[filterMethod]();     }

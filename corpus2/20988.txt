@@ -1,1 +1,0 @@
-In Python's tutorial one can read that Python's original implementation is in C; > On the other hand, the Python implementation, written in C, (...) I'm very curious why was Python written in C and not C++? I'd like to know the reasoning behind this decision and I'm looking for references to historic data.

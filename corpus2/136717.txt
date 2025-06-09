@@ -1,1 +1,0 @@
-Our company is about to acquire a source code of a huge product. What are thing to take into consideration when the handover starts, to make sure we have everything and be capable to maintain that product in the future?

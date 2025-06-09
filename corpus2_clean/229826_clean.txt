@@ -1,1 +1,0 @@
-passing menu item view viewmodel menu definition model property title image haschildren isenabled model meant ui unlike business domain model like person transaction etc see menu model sitting along business domain model felt like polluted right place put kind ui specific model thanks

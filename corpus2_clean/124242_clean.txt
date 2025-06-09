@@ -1,1 +1,0 @@
-looking several javascript mvc framework backbone j spine sproutcore etc seems designed act single page application example see index page act front controller use style url different page handle entire rendering page several project would like use traditional style url structured javascript handle complicated part application j mvc framework answer looking something different

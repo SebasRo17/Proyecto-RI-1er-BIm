@@ -1,1 +1,0 @@
-I'm just wondering if we should assign story points to bug fixing tasks or not. JIRA, our issues-tracking software, does not have story point field for _Bug_ type issues (it's only for _Story_ s and _Epic_ s). Should we add the _Bug_ issue type to the applicable issue types of the _Story Points_ field? What are the pros and cons? Would it be suitable for Scrum?

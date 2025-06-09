@@ -1,1 +1,0 @@
-writing mobile app web service combo requires user login web service using ssl reason sending user password every web request know site generate token user log use authentication token seems equivalent username password pair sure much point make big mistake term security

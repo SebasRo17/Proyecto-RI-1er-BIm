@@ -1,1 +1,0 @@
-red green refactor cycle tdd well established accepted write one failing unit test make pas simply possible benefit approach writing many failing unit test make pas one go test suite still protects writing incorrect making mistake refactoring stage harm sometimes easier write test module first form brain dump quickly write expected behavior one go

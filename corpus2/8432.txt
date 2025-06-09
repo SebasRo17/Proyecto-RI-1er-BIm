@@ -1,0 +1,1 @@
+I want to know if there is any function which can search a file from the whole system and gives the whole path for that particular file. I have tried `$Path` but it gives some default paths also. * * * Addendum: If the file is stored in multiple locations and I want only one location out of all, how can I get that? I want to stop the search as soon as the file is found.

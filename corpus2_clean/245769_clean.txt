@@ -1,1 +1,0 @@
-working messaging application based server client architecture thinking way store user credential huge number num entry user id usernames hashed password storing sql server opinion overkill better store sort text file sqlite database file method would keep server portable installation simple password hashing enough keep password secret best way handle

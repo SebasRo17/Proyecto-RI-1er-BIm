@@ -1,1 +1,0 @@
-My understanding is that Google funded Mozilla Firefox although it develops its own Chrome browser. This looks redundant. What is the motivation for Google doing this? Another potentially related question: Why did Google not unify Google Video with Youtube when it acquired Youtube?

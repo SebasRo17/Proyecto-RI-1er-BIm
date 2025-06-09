@@ -1,1 +1,0 @@
-window c application asked question told viewer presenter never know anything model mean add reference model gui making instead let say list car transport information using string ints e g dictionary carid fact using entityframework half domain model basically dal rest bll would need add reference layer approach wrong

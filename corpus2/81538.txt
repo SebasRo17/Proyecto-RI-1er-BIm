@@ -1,1 +1,0 @@
-In computer science, what are the differences in meaning between _interface_ and _layer_? For example, an interface between A and B must belong to either A or B or both, while a layer between A and B must be a third thing that is neither part of A or of B?

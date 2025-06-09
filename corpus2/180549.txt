@@ -1,1 +1,0 @@
-An idea why the c# version of sqrt (System.Math.Sqrt) is ~10 times slower than c++ version ? Futhermore, C# version seems to have one extra digit of precision. I have run my test under MSVC2012. I have used double and call System.Math.Sqrt once before doing the bench in order to force Jit

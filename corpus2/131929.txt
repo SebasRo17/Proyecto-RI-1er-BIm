@@ -1,1 +1,0 @@
-I work as a developer in a company, The company I work with has to deploy the app I made to their client. Number of clients are 3 and each client has around 100 iPads. Now my question is,   * What different ways we can use in order to deploy and distribute app seamlessly?   * How good is AppCentral to distribute applications?

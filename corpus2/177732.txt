@@ -1,1 +1,0 @@
-In the release notes for PHP 5.5.0 it's announced that Windows XP and Windows 2003 are not supported anymore: > Drop Windows XP and 2003 support. (Pierre) Why is this? Many people in different companies develop applications under Windows XP. So, can anyone tell me what is the sense of dropping Windows XP and 2003 support?

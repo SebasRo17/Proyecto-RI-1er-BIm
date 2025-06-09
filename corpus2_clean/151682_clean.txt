@@ -1,1 +1,0 @@
-develop opengl e iphone simple physic app xcode num c without gui objective c need cocoa need objective c

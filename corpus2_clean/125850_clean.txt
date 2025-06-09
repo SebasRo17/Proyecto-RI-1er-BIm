@@ -1,1 +1,0 @@
-two entity object site customer many many relationship read try model ddd model go unidirectional flow wanted show uml would show model site customer direction arrow give flow following site customer would imply customer go one site

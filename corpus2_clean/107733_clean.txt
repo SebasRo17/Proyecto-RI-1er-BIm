@@ -1,1 +1,0 @@
-let assume regardless technology programming language association another association complexity least one num n would specify behavior removing element association based predicate say predicate fit element thus removal would violate num n constraint would remove element one would rather remove element case transactional like behavior

@@ -1,1 +1,0 @@
-_(Rewritten for reopening:)_ What are relative advantages of Servlets over JSP, or vice versa? Might JSP be preferred because it is easy to put code inside JSP, or Servlets because with them code can be separated from view? Are there other considerations? Any information regarding this will be immensely helpful.

@@ -1,1 +1,0 @@
-A linked list can be used when you want cheap insertion and deletion of elements and when it doesn't matter that the elements aren't next to each other in memory. This is very abstract and I would like to see some concrete examples of when a linked list is used rather than an array. I'm not very experienced with programming, so I haven't got much (if any) real-world experience.

@@ -1,1 +1,0 @@
-may seem odd question want create executable run window written c program need able update jar file even installed target machine seen src zip jdk folder jar folder assume jar exe written c c possible see jar exe source would find

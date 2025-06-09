@@ -1,1 +1,0 @@
-rather simple app net uploads image fixed interval ftp server file specific need web page refreshes want happen upload finish find way determine upload finished solution renaming deleting temp file window app server side thanks update could find way check filename valid jpg mean transfer check idea

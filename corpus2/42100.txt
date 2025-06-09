@@ -1,1 +1,1 @@
-We're upgrading the RAM on our developer workstations and looking to move to a 64-bit OS. We've been using Windows 7 x86, but I'm wondering about using Server 2008 R2 x64 so that developers can use Hyper-V to virtualise different setups. Is anybody using Server 2008 R2 x64 as their workstation OS? If so, are there any issues running Visual Studio 2010, Expression Blend 4 and so on?
+NDSolve::ndnum: Encountered non-numerical value for a derivative at x \ == 0.`. >> ![enter image description here](http://i.stack.imgur.com/589Md.png)

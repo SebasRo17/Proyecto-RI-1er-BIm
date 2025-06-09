@@ -1,1 +1,0 @@
-There are some opensource projects, that have classes and classes without any significant explanation about what the class does and or why is that class needed. For example, classes in the CppEditor plugin for QtCreator. What are the best practices to read undocumented code? Don't read it, is not an option :)

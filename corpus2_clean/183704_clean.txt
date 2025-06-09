@@ -1,1 +1,0 @@
-objective c lack private method esque final method mean possible subclass accidentally override internals superclass one prevent overriding method objective c

@@ -1,0 +1,1 @@
+My command is:               Grid[{{N, logN!, N log N - N}, {10, Log[10!], 10 Log[10] - 10}}, Frame -> All]      In the second row of the grid, the function `Log[]` is not being evaluated. Please let me know what is going wrong.

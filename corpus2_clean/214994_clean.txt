@@ -1,1 +1,0 @@
-comparing jpeg jpeg constant video stream using opencv compare pixel byte level num channel image rgb heard common practice store pixel changed frame way memory space instance example say every pixel changed pls note using exaggerated example make point would normally discard large change resultant byte saved num time larger original jpeg store motion change efficiently

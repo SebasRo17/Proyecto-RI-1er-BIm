@@ -1,1 +1,0 @@
-I want to validate an XML document against some XML scheme, but ignore all elements (and probably attributes) which are not of a given namespace. Does such a XML scheme language exist?

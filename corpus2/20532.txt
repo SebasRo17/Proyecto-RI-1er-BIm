@@ -1,0 +1,1 @@
+How cam I simplify               Sum[UnitStep[-1 + n]/Sqrt[n!], {n, 0, ∞}]      to $$\sum _{n=1}^{\infty } \frac{1}{\sqrt{n!}}$$ and then to $$\sum _{n=0}^{\infty } \frac{1}{\sqrt{(n+1)!}}$$ I tried `Simplify` and `FullSimplify`, but neither of them worked.

@@ -1,1 +1,0 @@
-How can I measure the performance of my C++ programs using C++? Specific metrics I want to measure are:   * Memory used ( **space** )   * Duration taken ( **time** )

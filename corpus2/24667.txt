@@ -1,0 +1,1 @@
+I am trying to play with some linear programming examples of _Mathematica_ as `ExampleData[{"LinearProgramming", "blend"}, "Equations"]`. It gives me the MPS format of the samples. How can I change them?

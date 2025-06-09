@@ -1,1 +1,0 @@
-let say generate random number num num however probability number num num predefined probability generate number use ruby

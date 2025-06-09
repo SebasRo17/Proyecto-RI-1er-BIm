@@ -1,1 +1,0 @@
-Imagine if for a realtime strategy game, for reaserch and some fun a tool has been made which monitors the minimap of the game and warns the user if the enemy movement is being detected. Does selling and/or distributing such stuff have legal issues, against the game creators ToS or such (Considering its usage in multiplayer)?

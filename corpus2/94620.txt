@@ -1,1 +1,0 @@
-I'm a C++ developer. I know how Windows works on the native level, but I'm not a big expert in C# and .NET. Now I need a C# developer in my team (all my developers are C++). How can I hire a great C# developer if I don't know C# at good level? How to ask questions, how to test whether answers are great or are with silly mistakes?

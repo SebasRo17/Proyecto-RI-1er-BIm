@@ -1,1 +1,0 @@
-scenario entity called member member fall multiple type type supporter volunteer sponsor player create inherit base member entity member num given time right way use decorator pattern achieve intent best pattern get work edit language use c also different member type additional method example sponsor method donate volunteer subscribe thing considered

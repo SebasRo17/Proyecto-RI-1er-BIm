@@ -1,0 +1,1 @@
+How can I prevent the DialogInput from failing (or returning early) as soon as I close the "Close this" dialog?               DialogInput@Button["Click this", CreateDialog["Close this" ]]

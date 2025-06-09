@@ -1,1 +1,0 @@
-way scheduler schedule program example cron job using objective c io platform need create schedule update io let say example every five day app fetch something internet update database also want user set interval think purpose cron job vital part suggestion way

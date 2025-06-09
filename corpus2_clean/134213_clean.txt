@@ -1,1 +1,0 @@
-possible duplicate recommended control naming convention xaml markup old answer apply google group longer exists looking resource topic usually like location place control look look beside position behaviour binding like commanding etc worked fine still wondering actual standard even recommended guideline could follow

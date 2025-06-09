@@ -1,1 +1,0 @@
-ok learned static still see useful private member function might kind newb ish question replace private member function static function instead

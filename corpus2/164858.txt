@@ -1,1 +1,0 @@
-What are the advantages of Weblogic or Websphere over Glassfish or JBoss, since they may reach costs of millions of dollars? Edit: Is there additional functionality? The all are Java EE Full Certified. **The question is about technology, not business or marketing. From the technological POV how are the servers different?**

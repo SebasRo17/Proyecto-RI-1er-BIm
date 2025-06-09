@@ -1,1 +1,0 @@
-thinking jvm memory monitor low overhead way production environment even busy hour suppose two tomcat app server production load balance set behind see jvm memory statistic tell load balance stop sending request server encounter oom issue make sense visualvm eats performance resourse choice

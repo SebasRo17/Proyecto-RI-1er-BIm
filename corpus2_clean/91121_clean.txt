@@ -1,1 +1,0 @@
-question lisp programmer lisp lisp usually list advantage list array would macro easier write faster assume language could call element deleted inserted array array would grow shrink needed

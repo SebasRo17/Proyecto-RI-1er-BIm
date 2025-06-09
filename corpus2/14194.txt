@@ -1,0 +1,1 @@
+I have a very huge file (1GB) from which I desire to import only the 5th column. It is a tab delimited text file with a `.txt` extension. Can you please help me with this? I generally use `Import["filename.txt","Table"]` to import my files, but now, I don't want the whole file, which takes a long time to load.
